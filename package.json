@@ -1,5 +1,5 @@
 {
-  "name": "daily-english",
+  "name": "daily-language",
   "version": "1.0.0",
   "description": "매일 아침 영어 학습 콘텐츠를 자동 생성해 GitHub Pages에 게시하는 파이프라인",
   "type": "module",

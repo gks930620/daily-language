@@ -15,7 +15,7 @@
 |---|---|
 | 결과물 형태 | GitHub Pages(`docs/`) 정적 HTML + Leitner SRS 복습 퀴즈 |
 | 실행 주체 | claude.ai 클라우드 루틴, 매일 21:00 UTC(=06:00 KST) |
-| 저장소 | GitHub **public** `daily-english` (Pages 무료 조건) |
+| 저장소 | GitHub **public** [`gks930620/daily-language`](https://github.com/gks930620/daily-language) (Pages 무료 조건) |
 | SRS | 6박스 Leitner, 간격 `[1,3,7,14,30,60]`일, box 6 노출 후 졸업 |
 | 역할 분담 | AI = content.json 생성만. 날짜·SRS·상태·빌드 = Node 스크립트 |
 | 기술 | Node.js only, 외부 의존성 0, ESM, docs/는 JS 0줄 |

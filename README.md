@@ -1,10 +1,12 @@
-# 매일 영어 학습 (daily-english)
+# 매일 언어 학습 (daily-language)
 
-매일 아침 claude.ai 클라우드 루틴이 이 저장소를 클론해 **그날의 영어 학습 페이지를 자동 생성**하고 GitHub Pages에 게시하는 개인 학습 파이프라인입니다. 학습자는 토익 700 → 목표 900, 시사 독해와 기초 회화를 함께 노립니다. AI는 콘텐츠(문장·단어·회화)만 만들고, 복습 간격 계산(Leitner SRS)·상태 관리·HTML 빌드는 전부 Node 스크립트가 결정론적으로 처리합니다.
+매일 아침 claude.ai 클라우드 루틴이 이 저장소를 클론해 **그날의 학습 페이지를 자동 생성**하고 GitHub Pages에 게시하는 개인 학습 파이프라인입니다. 학습자는 토익 700 → 목표 900, 시사 독해와 기초 회화를 함께 노립니다. AI는 콘텐츠(문장·단어·회화)만 만들고, 복습 간격 계산(Leitner SRS)·상태 관리·HTML 빌드는 전부 Node 스크립트가 결정론적으로 처리합니다.
 
 ## 매일 아침 무엇이 생기나
 
-매일 06:00 KST쯤 `https://<계정>.github.io/daily-english/`에 새 페이지가 올라옵니다. 하루치 페이지 구성:
+지금(v1)은 영어만 다루고, 일본어는 v2 후보입니다(PLAN.md).
+
+매일 06:00 KST쯤 `https://gks930620.github.io/daily-language/`에 새 페이지가 올라옵니다. 하루치 페이지 구성:
 
 1. **오늘의 문장 5개** — 수능 고난도~시사 기사 난이도. 영문을 먼저 읽고, 접힌 부분을 열면 한국어 해석과 끊어읽기·문법 구문분석이 나옵니다.
 2. **오늘의 단어 20개** — 토익 700→900 구간·수능 고난도·시사 어휘. 뜻, 예문, 연어(collocation) 표. AI가 낸 후보 25개 중 스크립트가 새 단어 20개를 선별해 싣고, 실린 단어만 복습 퀴즈로 돌아온다(중복 등으로 20개에 못 미치는 날도 있음).
@@ -21,19 +23,19 @@
 
 ## 최초 설정 절차
 
-1. **GitHub public 저장소 생성** — 이름 `daily-english` (Pages 무료 사용을 위해 public).
+1. **GitHub public 저장소 생성** — 이름 `daily-language` (Pages 무료 사용을 위해 public). *(완료: `gks930620/daily-language`)*
 2. **이 폴더를 push**
    ```bash
    git init
    git add -A
    git commit -m "initial"
    git branch -M main
-   git remote add origin https://github.com/<계정>/daily-english.git
+   git remote add origin https://github.com/gks930620/daily-language.git
    git push -u origin main
    ```
 3. **GitHub Pages 켜기** — 저장소 Settings → Pages → Source: `Deploy from a branch`, Branch: `main`, 폴더 `/docs` → Save.
-4. **claude.ai GitHub 연동** — claude.ai 설정에서 GitHub 계정을 연결하고 `daily-english` 저장소 접근을 허용.
-5. **claude.ai 루틴 생성** — 새 루틴(스케줄 작업)을 만들고 `prompts/routine.md`의 코드 블록 내용을 그대로 붙여넣는다. 실행 시각: **매일 21:00 UTC (= 06:00 KST)**. 대상 저장소: `daily-english`.
+4. **claude.ai GitHub 연동** — claude.ai 설정에서 GitHub 계정을 연결하고 `daily-language` 저장소 접근을 허용.
+5. **claude.ai 루틴 생성** — 새 루틴(스케줄 작업)을 만들고 `prompts/routine.md`의 코드 블록 내용을 그대로 붙여넣는다. 실행 시각: **매일 21:00 UTC (= 06:00 KST)**. 대상 저장소: `daily-language`.
 6. **첫 수동 실행** — 루틴을 한 번 수동으로 실행해 본다. 확인할 것: (a) 파이프라인이 끝까지 돌았는지, (b) **루틴이 main에 직접 push할 수 있는지**(권한 문제가 가장 흔한 첫 실패 원인), (c) 몇 분 뒤 Pages URL에 오늘 페이지가 뜨는지.
 
 ## 문제 해결
