@@ -1,0 +1,220 @@
+/* 매일 영어 학습 — GitHub Pages 정적 스타일. JS 없음, 시스템 폰트, 다크모드 지원. */
+
+:root {
+  --bg: #ffffff;
+  --fg: #1c1c1e;
+  --muted: #6e6e73;
+  --accent: #0a5dc2;
+  --border: #d9d9de;
+  --surface: #f4f4f6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17171a;
+    --fg: #ececf0;
+    --muted: #9a9aa2;
+    --accent: #6fb1ff;
+    --border: #3a3a40;
+    --surface: #232327;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  margin: 0 auto;
+  padding: 1rem 1rem 4rem;
+  max-width: 44rem;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+  line-height: 1.6;
+  word-break: keep-all;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin: 2rem 0 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--border);
+}
+
+h3 {
+  font-size: 1rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+small,
+.count,
+.from,
+.situation,
+.empty {
+  color: var(--muted);
+}
+
+.en {
+  font-size: 1.05rem;
+}
+
+/* 이전/다음 내비게이션 */
+.day-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+
+.day-nav .prev {
+  min-width: 6rem;
+  text-align: left;
+}
+
+.day-nav .next {
+  min-width: 6rem;
+  text-align: right;
+}
+
+/* 접기(정답·해석) */
+details {
+  margin: 0.35rem 0;
+  padding: 0.4rem 0.6rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+details > summary {
+  cursor: pointer;
+  color: var(--accent);
+}
+
+details[open] > summary {
+  margin-bottom: 0.35rem;
+}
+
+details p {
+  margin: 0.25rem 0;
+}
+
+/* ① 오늘의 문장 */
+.sentence-list {
+  padding-left: 1.25rem;
+}
+
+.sentence {
+  margin-bottom: 1.25rem;
+}
+
+.sentence .en {
+  margin: 0 0 0.35rem;
+  font-weight: 500;
+}
+
+.structure {
+  white-space: pre-line;
+}
+
+.vocab-notes {
+  margin: 0.35rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.92rem;
+}
+
+/* ② 오늘의 단어 표 */
+.word-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.word-table th,
+.word-table td {
+  padding: 0.45rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.word-table th {
+  background: var(--surface);
+}
+
+.word-table .pos {
+  white-space: nowrap;
+  color: var(--muted);
+}
+
+/* ③ 오늘의 회화 */
+.dialogue .line {
+  margin: 0.3rem 0;
+}
+
+.dialogue .speaker {
+  display: inline-block;
+  min-width: 1.2rem;
+  color: var(--accent);
+}
+
+.key-expressions {
+  padding-left: 1.25rem;
+}
+
+.key-expressions li {
+  margin: 0.25rem 0;
+}
+
+/* ④ 복습 퀴즈 */
+.quiz-list {
+  padding-left: 1.25rem;
+}
+
+.quiz-item {
+  margin-bottom: 1.1rem;
+}
+
+.quiz-word {
+  margin: 0 0 0.15rem;
+  font-size: 1.05rem;
+}
+
+.quiz-example {
+  margin: 0 0 0.25rem;
+  color: var(--muted);
+}
+
+/* index 아카이브 */
+.archive-list {
+  padding-left: 1.25rem;
+  columns: 2;
+}
+
+.archive-list li {
+  margin: 0.15rem 0;
+}
+
+.latest-date {
+  color: var(--muted);
+}

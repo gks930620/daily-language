@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "date": "{{DATE}}",
+  "sentences": [
+    {
+      "en": "The government announced a series of measures designed to mitigate the economic fallout from the prolonged trade dispute.",
+      "ko": "정부는 장기화된 무역 분쟁으로 인한 경제적 여파를 완화하기 위해 고안된 일련의 조치를 발표했다.",
+      "structure": "The government announced / a series of measures / designed to mitigate the economic fallout / from the prolonged trade dispute.\n· designed to ~ : 과거분사구가 measures를 뒤에서 수식(주격 관계대명사+be 생략: which were designed).\n· a series of + 복수명사 = '일련의 ~'. 동사는 announced(3형식), 목적어는 measures.",
+      "vocab_notes": [
+        { "word": "fallout", "ko": "(부정적) 여파, 낙진" },
+        { "word": "prolonged", "ko": "장기화된" }
+      ]
+    },
+    {
+      "en": "What distinguishes successful learners from the rest is not innate talent but the consistency with which they practice.",
+      "ko": "성공적인 학습자를 나머지와 구별 짓는 것은 타고난 재능이 아니라 그들이 연습하는 꾸준함이다.",
+      "structure": "What distinguishes successful learners from the rest / is / not innate talent / but the consistency / with which they practice.\n· What ~ rest : 관계대명사 what이 이끄는 명사절이 문장 전체의 주어(단수 취급 → is).\n· not A but B : 'A가 아니라 B'. A = innate talent, B = the consistency.\n· with which they practice = they practice with the consistency (전치사+관계대명사).",
+      "vocab_notes": [
+        { "word": "distinguish A from B", "ko": "A를 B와 구별하다" },
+        { "word": "innate", "ko": "타고난, 선천적인" }
+      ]
+    },
+    {
+      "en": "Despite mounting criticism, the company remains reluctant to disclose how much of its revenue depends on a single overseas client.",
+      "ko": "커지는 비판에도 불구하고, 그 회사는 매출의 얼마만큼이 단 하나의 해외 고객에 의존하는지 공개하기를 여전히 꺼리고 있다.",
+      "structure": "Despite mounting criticism, / the company remains reluctant / to disclose / how much of its revenue depends on a single overseas client.\n· Despite + 명사(구) : '~에도 불구하고'. although와 달리 절이 아니라 명사를 받는다.\n· remain + 형용사(reluctant) : 2형식, '여전히 ~한 상태다'.\n· how much ~ client : disclose의 목적어인 간접의문문(의문사+주어+동사 어순).",
+      "vocab_notes": [
+        { "word": "mounting", "ko": "커져 가는, 증가하는" },
+        { "word": "disclose", "ko": "공개하다, 밝히다" }
+      ]
+    },
+    {
+      "en": "Researchers warn that unless drastic action is taken, coastal cities could face flooding on an unprecedented scale within decades.",
+      "ko": "연구자들은 과감한 조치가 취해지지 않으면 수십 년 안에 해안 도시들이 전례 없는 규모의 침수에 직면할 수 있다고 경고한다.",
+      "structure": "Researchers warn / that / unless drastic action is taken, / coastal cities could face flooding / on an unprecedented scale / within decades.\n· warn that ~ : that절이 warn의 목적어.\n· unless = if ~ not : '~하지 않는 한'. unless절 안은 수동태(action is taken).\n· could face : 가능성을 나타내는 조동사 could + 동사원형.",
+      "vocab_notes": [
+        { "word": "drastic", "ko": "과감한, 극단적인" },
+        { "word": "on a ~ scale", "ko": "~한 규모로" }
+      ]
+    },
+    {
+      "en": "Having spent a decade abroad, she found it difficult to readjust to the rigid corporate culture of her home country.",
+      "ko": "10년을 해외에서 보낸 터라, 그녀는 고국의 경직된 기업 문화에 다시 적응하는 것이 어렵다는 것을 알게 되었다.",
+      "structure": "Having spent a decade abroad, / she found it difficult / to readjust / to the rigid corporate culture / of her home country.\n· Having spent ~ : 완료 분사구문. 주절보다 앞선 시점(보낸 뒤에 → 알게 됨)을 표현.\n· found it difficult to ~ : 가목적어 it + 목적격보어 difficult + 진목적어 to부정사(5형식).\n· readjust to + 명사 : '~에 재적응하다'.",
+      "vocab_notes": [
+        { "word": "rigid", "ko": "경직된, 엄격한" },
+        { "word": "readjust", "ko": "다시 적응하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "mitigate",
+      "pos": "v.",
+      "ko": "완화하다, 경감시키다",
+      "example_en": "The new policy is intended to mitigate the impact of rising prices.",
+      "example_ko": "새 정책은 물가 상승의 충격을 완화하기 위한 것이다.",
+      "collocations": ["mitigate risk", "mitigate the impact"]
+    },
+    {
+      "headword": "feasible",
+      "pos": "a.",
+      "ko": "실현 가능한",
+      "example_en": "The committee concluded that the plan was not financially feasible.",
+      "example_ko": "위원회는 그 계획이 재정적으로 실현 가능하지 않다고 결론지었다.",
+      "collocations": ["a feasible plan", "economically feasible"]
+    },
+    {
+      "headword": "comply",
+      "pos": "v.",
+      "ko": "(규정 등을) 준수하다, 따르다",
+      "example_en": "All employees must comply with the updated safety regulations.",
+      "example_ko": "모든 직원은 개정된 안전 규정을 준수해야 한다.",
+      "collocations": ["comply with regulations", "fail to comply"]
+    },
+    {
+      "headword": "discrepancy",
+      "pos": "n.",
+      "ko": "불일치, 차이",
+      "example_en": "The audit revealed a discrepancy between the two financial reports.",
+      "example_ko": "감사 결과 두 재무 보고서 간의 불일치가 드러났다.",
+      "collocations": ["a discrepancy between A and B", "resolve a discrepancy"]
+    },
+    {
+      "headword": "lucrative",
+      "pos": "a.",
+      "ko": "수익성이 좋은",
+      "example_en": "She turned down a lucrative offer to stay with her current team.",
+      "example_ko": "그녀는 현재 팀에 남기 위해 수익성 좋은 제안을 거절했다.",
+      "collocations": ["a lucrative contract", "a lucrative market"]
+    },
+    {
+      "headword": "tentative",
+      "pos": "a.",
+      "ko": "잠정적인, 임시의",
+      "example_en": "We have set a tentative date for the product launch in March.",
+      "example_ko": "우리는 3월로 제품 출시 잠정 날짜를 잡았다.",
+      "collocations": ["a tentative schedule", "a tentative agreement"]
+    },
+    {
+      "headword": "unprecedented",
+      "pos": "a.",
+      "ko": "전례 없는",
+      "example_en": "The company reported unprecedented growth in overseas sales.",
+      "example_ko": "그 회사는 해외 매출에서 전례 없는 성장을 보고했다.",
+      "collocations": ["on an unprecedented scale", "an unprecedented level"]
+    },
+    {
+      "headword": "reimburse",
+      "pos": "v.",
+      "ko": "(비용을) 환급하다, 배상하다",
+      "example_en": "The company will reimburse you for travel expenses within two weeks.",
+      "example_ko": "회사는 2주 이내에 출장 경비를 환급해 줄 것이다.",
+      "collocations": ["reimburse expenses", "be reimbursed for"]
+    },
+    {
+      "headword": "streamline",
+      "pos": "v.",
+      "ko": "(절차 등을) 간소화하다, 효율화하다",
+      "example_en": "The firm streamlined its hiring process to cut the waiting time in half.",
+      "example_ko": "그 회사는 대기 시간을 절반으로 줄이기 위해 채용 절차를 간소화했다.",
+      "collocations": ["streamline the process", "streamline operations"]
+    },
+    {
+      "headword": "endorse",
+      "pos": "v.",
+      "ko": "지지하다, (공개적으로) 보증하다",
+      "example_en": "Several leading economists have endorsed the proposed tax reform.",
+      "example_ko": "몇몇 저명한 경제학자들이 제안된 세제 개혁을 지지했다.",
+      "collocations": ["endorse a candidate", "publicly endorse"]
+    },
+    {
+      "headword": "plausible",
+      "pos": "a.",
+      "ko": "그럴듯한, 타당해 보이는",
+      "example_en": "He offered a plausible explanation for the sudden drop in sales.",
+      "example_ko": "그는 매출 급감에 대해 그럴듯한 설명을 내놓았다.",
+      "collocations": ["a plausible explanation", "sound plausible"]
+    },
+    {
+      "headword": "subsidiary",
+      "pos": "n.",
+      "ko": "자회사",
+      "example_en": "The conglomerate announced plans to sell its struggling overseas subsidiary.",
+      "example_ko": "그 대기업은 부진한 해외 자회사를 매각할 계획을 발표했다.",
+      "collocations": ["a wholly-owned subsidiary", "an overseas subsidiary"]
+    },
+    {
+      "headword": "negligible",
+      "pos": "a.",
+      "ko": "무시해도 될 정도의, 미미한",
+      "example_en": "The price difference between the two models is negligible.",
+      "example_ko": "두 모델 간의 가격 차이는 무시해도 될 정도다.",
+      "collocations": ["a negligible effect", "a negligible amount"]
+    },
+    {
+      "headword": "reluctant",
+      "pos": "a.",
+      "ko": "꺼리는, 마지못해 하는",
+      "example_en": "Many managers are reluctant to give negative feedback in person.",
+      "example_ko": "많은 관리자들이 부정적인 피드백을 직접 전하는 것을 꺼린다.",
+      "collocations": ["be reluctant to do", "a reluctant admission"]
+    },
+    {
+      "headword": "consolidate",
+      "pos": "v.",
+      "ko": "통합하다, (지위를) 공고히 하다",
+      "example_en": "The bank plans to consolidate its regional branches into three main offices.",
+      "example_ko": "그 은행은 지역 지점들을 세 개의 본점으로 통합할 계획이다.",
+      "collocations": ["consolidate one's position", "consolidate operations"]
+    },
+    {
+      "headword": "provision",
+      "pos": "n.",
+      "ko": "(법률·계약의) 조항; 공급, 대비",
+      "example_en": "Under the new provision, part-time workers are entitled to paid leave.",
+      "example_ko": "새 조항에 따라 시간제 근로자도 유급 휴가를 받을 수 있다.",
+      "collocations": ["under the provision", "make provision for"]
+    },
+    {
+      "headword": "deteriorate",
+      "pos": "v.",
+      "ko": "악화되다",
+      "example_en": "Relations between the two firms deteriorated after the failed merger.",
+      "example_ko": "합병 실패 이후 두 회사의 관계는 악화되었다.",
+      "collocations": ["deteriorate rapidly", "deteriorating conditions"]
+    },
+    {
+      "headword": "adjacent",
+      "pos": "a.",
+      "ko": "인접한",
+      "example_en": "The new office building is adjacent to the subway station.",
+      "example_ko": "새 사무실 건물은 지하철역과 인접해 있다.",
+      "collocations": ["adjacent to", "an adjacent building"]
+    },
+    {
+      "headword": "incentive",
+      "pos": "n.",
+      "ko": "유인책, 장려금",
+      "example_en": "The city offers tax incentives to attract foreign investment.",
+      "example_ko": "그 도시는 외국인 투자를 유치하기 위해 세제 혜택을 제공한다.",
+      "collocations": ["a tax incentive", "an incentive to do"]
+    },
+    {
+      "headword": "surge",
+      "pos": "n., v.",
+      "ko": "급증(하다), 급등(하다)",
+      "example_en": "Online orders surged during the holiday shopping season.",
+      "example_ko": "연말 쇼핑 시즌 동안 온라인 주문이 급증했다.",
+      "collocations": ["a surge in demand", "surge dramatically"]
+    },
+    {
+      "headword": "compensate",
+      "pos": "v.",
+      "ko": "보상하다, 보완하다",
+      "example_en": "The airline offered vouchers to compensate passengers for the delay.",
+      "example_ko": "항공사는 지연에 대해 승객들에게 보상하고자 바우처를 제공했다.",
+      "collocations": ["compensate for", "be compensated for"]
+    },
+    {
+      "headword": "exempt",
+      "pos": "a., v.",
+      "ko": "면제된; 면제하다",
+      "example_en": "Small businesses are exempt from the new reporting requirement.",
+      "example_ko": "소기업은 새 보고 의무에서 면제된다.",
+      "collocations": ["be exempt from", "tax-exempt"]
+    },
+    {
+      "headword": "audit",
+      "pos": "n., v.",
+      "ko": "회계 감사(를 하다)",
+      "example_en": "An external firm will audit the company's accounts next month.",
+      "example_ko": "외부 회사가 다음 달 그 회사의 회계를 감사할 것이다.",
+      "collocations": ["an external audit", "conduct an audit"]
+    },
+    {
+      "headword": "redundant",
+      "pos": "a.",
+      "ko": "불필요한, (영국식) 정리해고된",
+      "example_en": "The merger made hundreds of positions redundant.",
+      "example_ko": "합병으로 수백 개의 일자리가 불필요해졌다.",
+      "collocations": ["make ~ redundant", "redundant information"]
+    },
+    {
+      "headword": "viable",
+      "pos": "a.",
+      "ko": "실행 가능한, 성공할 수 있는",
+      "example_en": "Solar power has become a commercially viable alternative to coal.",
+      "example_ko": "태양광 발전은 석탄의 상업적으로 실행 가능한 대안이 되었다.",
+      "collocations": ["a viable alternative", "commercially viable"]
+    }
+  ],
+  "conversation": {
+    "topic": "카페에서 주문하기",
+    "situation_ko": "출근길에 카페에 들러 아이스 라테를 주문하는 상황. 사이즈 선택, 우유 변경, 포인트 적립까지 이어지는 기본 주문 대화입니다.",
+    "lines": [
+      { "speaker": "A", "en": "Hi, what can I get for you today?", "ko": "안녕하세요, 오늘 뭘 드릴까요?" },
+      { "speaker": "B", "en": "Can I get an iced latte, please?", "ko": "아이스 라테 하나 주시겠어요?" },
+      { "speaker": "A", "en": "Sure. What size would you like — small, medium, or large?", "ko": "네. 사이즈는 어떤 걸로 하시겠어요 — 스몰, 미디엄, 라지?" },
+      { "speaker": "B", "en": "Medium, please. And could you make it with oat milk?", "ko": "미디엄으로 주세요. 그리고 귀리 우유로 만들어 주실 수 있나요?" },
+      { "speaker": "A", "en": "Of course. Oat milk is fifty cents extra — is that okay?", "ko": "물론이죠. 귀리 우유는 50센트 추가인데 괜찮으세요?" },
+      { "speaker": "B", "en": "That's fine. For here or to go? Oh wait, that's your line!", "ko": "괜찮아요. 매장에서요, 아니면 포장이요? 아, 그건 점원분 대사죠!" },
+      { "speaker": "A", "en": "Ha, you beat me to it. For here or to go?", "ko": "하하, 선수 치셨네요. 매장에서 드시나요, 포장인가요?" },
+      { "speaker": "B", "en": "To go, please. Do you have a rewards program I can sign up for?", "ko": "포장해 주세요. 가입할 수 있는 적립 프로그램이 있나요?" }
+    ],
+    "key_expressions": [
+      { "en": "What can I get for you?", "ko": "뭘 드릴까요? (주문 받을 때 상투 표현)" },
+      { "en": "Could you make it with ~?", "ko": "~로 만들어 주시겠어요? (옵션 변경 요청)" },
+      { "en": "For here or to go?", "ko": "매장에서 드시나요, 포장인가요?" }
+    ]
+  }
+}
