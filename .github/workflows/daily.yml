@@ -1,4 +1,4 @@
-# 매일 학습 페이지 자동 생성 — 주 실행 경로. 언어 트랙: en → ja 순차 실행, 언어별 커밋.
+# 매일 학습 페이지 자동 생성 — 주 실행 경로. 트랙: en → ja-n1 → ja-n2 순차 실행, 트랙별 커밋.
 # AI(generate)는 구독 토큰(CLAUDE_CODE_OAUTH_TOKEN 시크릿)으로 claude -p 헤드리스 실행.
 # ⚠️ ANTHROPIC_API_KEY는 절대 넣지 않는다(있으면 API 토큰당 과금이 우선 적용됨).
 name: daily
@@ -37,10 +37,21 @@ jobs:
             echo "done=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: prepare(ja) — brief/review 생성
-        id: prepare-ja
+      - name: prepare(ja-n1) — brief/review 생성
+        id: prepare-ja-n1
         run: |
-          OUT="$(node scripts/prepare.js --lang ja)"
+          OUT="$(node scripts/prepare.js --lang ja-n1)"
+          echo "$OUT"
+          if echo "$OUT" | grep -qx 'ALREADY_DONE'; then
+            echo "done=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "done=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: prepare(ja-n2) — brief/review 생성
+        id: prepare-ja-n2
+        run: |
+          OUT="$(node scripts/prepare.js --lang ja-n2)"
           echo "$OUT"
           if echo "$OUT" | grep -qx 'ALREADY_DONE'; then
             echo "done=true" >> "$GITHUB_OUTPUT"
@@ -49,7 +60,7 @@ jobs:
           fi
 
       - name: Claude Code 설치
-        if: steps.prepare-en.outputs.done == 'false' || steps.prepare-ja.outputs.done == 'false'
+        if: steps.prepare-en.outputs.done == 'false' || steps.prepare-ja-n1.outputs.done == 'false' || steps.prepare-ja-n2.outputs.done == 'false'
         run: npm install -g @anthropic-ai/claude-code
 
       # ---------- EN 블록 ----------
@@ -70,6 +81,7 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           DATE: ${{ steps.prepare-en.outputs.date }}
         run: |
+          set -o pipefail # 기본 셸은 pipefail 꺼짐 — 없으면 tee가 settle 실패를 가려 재시도 분기가 죽는다
           if node scripts/settle.js --lang en 2>&1 | tee /tmp/settle-en.log; then
             exit 0
           fi
@@ -101,42 +113,43 @@ jobs:
             git push
           fi
 
-      # ---------- JA 블록 ----------
-      - name: generate(ja) — content.json 작성 (AI, 구독 사용량)
-        if: steps.prepare-ja.outputs.done == 'false'
+      # ---------- JA-N1 블록 ----------
+      - name: generate(ja-n1) — content.json 작성 (AI, 구독 사용량)
+        if: steps.prepare-ja-n1.outputs.done == 'false'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           DATE: ${{ steps.prepare-en.outputs.date }}
         run: |
-          claude -p "prompts/generator.ja.md와 data/ja/$DATE/brief.json을 읽고 지침 그대로 data/ja/$DATE/content.json 하나만 작성하라. 다른 파일 절대 생성·수정 금지. 단어 선별·간격 계산은 네 일이 아니다." \
+          claude -p "prompts/generator.ja.md와 data/ja-n1/$DATE/brief.json을 읽고 지침 그대로 data/ja-n1/$DATE/content.json 하나만 작성하라(트랙: ja-n1, lang 필드도 ja-n1). 다른 파일 절대 생성·수정 금지. 단어 선별·간격 계산은 네 일이 아니다." \
             --model opus \
             --allowedTools "Read,Write,Edit,Glob,Grep" \
             --max-turns 30
 
-      - name: settle(ja) — 검증·SRS 반영 (검증 실패 시 정확히 1회 재생성)
-        if: steps.prepare-ja.outputs.done == 'false'
+      - name: settle(ja-n1) — 검증·SRS 반영 (검증 실패 시 정확히 1회 재생성)
+        if: steps.prepare-ja-n1.outputs.done == 'false'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           DATE: ${{ steps.prepare-en.outputs.date }}
         run: |
-          if node scripts/settle.js --lang ja 2>&1 | tee /tmp/settle-ja.log; then
+          set -o pipefail
+          if node scripts/settle.js --lang ja-n1 2>&1 | tee /tmp/settle-ja-n1.log; then
             exit 0
           fi
-          echo "::warning::settle(ja) 검증 실패 — content.json 수정 후 1회 재시도"
-          claude -p "data/ja/$DATE/content.json이 검증에 실패했다. /tmp/settle-ja.log의 에러 메시지를 읽고, prompts/generator.ja.md 지침에 맞게 data/ja/$DATE/content.json만 고쳐라. 다른 파일은 절대 만들거나 수정하지 마라." \
+          echo "::warning::settle(ja-n1) 검증 실패 — content.json 수정 후 1회 재시도"
+          claude -p "data/ja-n1/$DATE/content.json이 검증에 실패했다. /tmp/settle-ja-n1.log의 에러 메시지를 읽고, prompts/generator.ja.md 지침에 맞게 data/ja-n1/$DATE/content.json만 고쳐라(트랙: ja-n1). 다른 파일은 절대 만들거나 수정하지 마라." \
             --model opus \
             --allowedTools "Read,Write,Edit,Glob,Grep" \
             --max-turns 30
-          node scripts/settle.js --lang ja
+          node scripts/settle.js --lang ja-n1
 
-      - name: build + verify(ja) — HTML 재생성·커밋 전 게이트
-        if: steps.prepare-ja.outputs.done == 'false'
+      - name: build + verify(ja-n1) — HTML 재생성·커밋 전 게이트
+        if: steps.prepare-ja-n1.outputs.done == 'false'
         run: |
           node scripts/build.js
-          node scripts/verify.js --lang ja
+          node scripts/verify.js --lang ja-n1
 
-      - name: commit & push(ja)
-        if: steps.prepare-ja.outputs.done == 'false'
+      - name: commit & push(ja-n1)
+        if: steps.prepare-ja-n1.outputs.done == 'false'
         env:
           DATE: ${{ steps.prepare-en.outputs.date }}
         run: |
@@ -146,7 +159,58 @@ jobs:
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 생략"
           else
-            git commit -m "daily(ja): $DATE"
-            git pull --rebase # 보험: en push 이후 원격이 앞서 있을 수 있음
+            git commit -m "daily(ja-n1): $DATE"
+            git pull --rebase # 보험: 앞 블록 push 이후 원격이 앞서 있을 수 있음
+            git push
+          fi
+
+      # ---------- JA-N2 블록 ----------
+      - name: generate(ja-n2) — content.json 작성 (AI, 구독 사용량)
+        if: steps.prepare-ja-n2.outputs.done == 'false'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
+        run: |
+          claude -p "prompts/generator.ja.md와 data/ja-n2/$DATE/brief.json을 읽고 지침 그대로 data/ja-n2/$DATE/content.json 하나만 작성하라(트랙: ja-n2, lang 필드도 ja-n2). 다른 파일 절대 생성·수정 금지. 단어 선별·간격 계산은 네 일이 아니다." \
+            --model opus \
+            --allowedTools "Read,Write,Edit,Glob,Grep" \
+            --max-turns 30
+
+      - name: settle(ja-n2) — 검증·SRS 반영 (검증 실패 시 정확히 1회 재생성)
+        if: steps.prepare-ja-n2.outputs.done == 'false'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
+        run: |
+          set -o pipefail
+          if node scripts/settle.js --lang ja-n2 2>&1 | tee /tmp/settle-ja-n2.log; then
+            exit 0
+          fi
+          echo "::warning::settle(ja-n2) 검증 실패 — content.json 수정 후 1회 재시도"
+          claude -p "data/ja-n2/$DATE/content.json이 검증에 실패했다. /tmp/settle-ja-n2.log의 에러 메시지를 읽고, prompts/generator.ja.md 지침에 맞게 data/ja-n2/$DATE/content.json만 고쳐라(트랙: ja-n2). 다른 파일은 절대 만들거나 수정하지 마라." \
+            --model opus \
+            --allowedTools "Read,Write,Edit,Glob,Grep" \
+            --max-turns 30
+          node scripts/settle.js --lang ja-n2
+
+      - name: build + verify(ja-n2) — HTML 재생성·커밋 전 게이트
+        if: steps.prepare-ja-n2.outputs.done == 'false'
+        run: |
+          node scripts/build.js
+          node scripts/verify.js --lang ja-n2
+
+      - name: commit & push(ja-n2)
+        if: steps.prepare-ja-n2.outputs.done == 'false'
+        env:
+          DATE: ${{ steps.prepare-en.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "daily(ja-n2): $DATE"
+            git pull --rebase # 보험: 앞 블록 push 이후 원격이 앞서 있을 수 있음
             git push
           fi

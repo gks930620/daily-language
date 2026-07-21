@@ -1,31 +1,35 @@
 # 매일 언어 학습 (daily-language)
 
-매일 아침 GitHub Actions가 이 저장소에서 **그날의 학습 페이지를 자동 생성**하고 GitHub Pages에 게시하는 개인 학습 파이프라인입니다. 언어 트랙은 **영어(en)와 일본어(ja)** 두 개이고, 각각 독립된 SRS 상태로 돌아갑니다. AI는 콘텐츠(문장·단어·회화)만 만들고, 복습 간격 계산(Leitner SRS)·상태 관리·HTML 빌드는 전부 Node 스크립트가 결정론적으로 처리합니다.
+매일 아침 GitHub Actions가 이 저장소에서 **그날의 학습 페이지를 자동 생성**하고 GitHub Pages에 게시하는 학습 파이프라인입니다. 트랙은 **영어(en)·일본어 N1(ja-n1)·일본어 N2(ja-n2)** 세 개이고, 각각 독립된 SRS 상태로 돌아갑니다. AI는 콘텐츠(문장·단어·회화)만 만들고, 복습 간격 계산(Leitner SRS)·상태 관리·HTML 빌드는 전부 Node 스크립트가 결정론적으로 처리합니다.
+
+**콘텐츠 철학**: 어떤 언어든 기초 문법·어휘는 공부할 내용이 정해져 있으므로 정해진 커리큘럼(책·강의)으로 각자 학습합니다. 여기서 매일 생성되는 콘텐츠는 **기초가 끝난 학습자가 흥미를 잃지 않고 평생 매일 30분** 이어가기 위한 것입니다 — 같은 책을 반복하는 대신 매일 새로운 문장·단어·회화를 만나고, 문법은 따로 배우지 않고 문장 속에서 자연스럽게 익힙니다.
 
 ## 매일 아침 무엇이 생기나
 
 매일 06:00 KST쯤 새 페이지가 올라옵니다. URL 구조:
 
-- 허브(언어 선택): `https://gks930620.github.io/daily-language/`
+- 허브(트랙 선택): `https://gks930620.github.io/daily-language/`
 - 영어: `https://gks930620.github.io/daily-language/en/`
-- 일본어: `https://gks930620.github.io/daily-language/ja/`
+- 일본어 N1: `https://gks930620.github.io/daily-language/ja-n1/`
+- 일본어 N2: `https://gks930620.github.io/daily-language/ja-n2/`
 
-하루치 페이지 구성(두 언어 공통):
+하루치 페이지 구성(전 트랙 공통):
 
-1. **오늘의 문장 5개** — 원문을 먼저 읽고, 접힌 부분을 열면 한국어 해석과 끊어읽기·문법 구문분석이 나옵니다(일본어는 전문 히라가나 reading도 함께).
+1. **오늘의 문장 5개** — 원문을 먼저 읽고, 접힌 부분을 열면 한국어 해석과 끊어읽기·구문분석이 나옵니다(일본어는 전문 히라가나 reading도 함께). 문법은 항목 나열이 아니라 그 문장을 살아 있게 만드는 포인트 중심.
 2. **오늘의 단어 20개** — 뜻, 예문 표(일본어는 히라가나 읽기 포함). AI가 낸 후보 25개 중 스크립트가 새 단어 20개를 선별해 싣고, 실린 단어만 복습 퀴즈로 돌아온다(중복 등으로 20개에 못 미치는 날도 있음).
 3. **오늘의 회화 한 문단** — 생활 주제 하나로 A/B 대화 8~12줄. 문장을 누르면 해석이 열립니다.
 4. **복습 퀴즈** — 오늘 복습 주기가 돌아온 단어들. 단어와 예문만 보이고, "정답"을 눌러야 뜻이 나옵니다. 간격은 1·3·7·14·30·60일(6박스 Leitner).
 5. **복습 문장 1개** — 3~10일 전에 배운 문장 중 하나를 다시 풀어봅니다.
 
-### 언어별 학습자 프로필
+### 트랙별 학습자 프로필
 
-| 트랙 | 프로필(기본 가정) | 난이도 |
+| 트랙 | 대상 | 콘텐츠 수준 |
 |---|---|---|
-| 영어(en) | 토익 700, 수능 2등급(10년 전), 회화 초급 | 토익 700→900 구간·수능 고난도·시사 |
-| 일본어(ja) | 입문~초급, 히라가나·가타카나 읽기 가능 | JLPT N5~N4 문장, 목표 N4→N3·기초 회화 |
+| 영어(en) | 기초 완료, 토익 700, 회화 초급 | 토익 700→900 구간·수능 고난도·시사 독해·실전 회화 |
+| 일본어 N1(ja-n1) | **JLPT N1 취득자** — 유지·확장 목적 | 사설·칼럼·문학 수준 독해, 관용구·경어·뉘앙스, 완전 자연 구어 |
+| 일본어 N2(ja-n2) | **JLPT N2 취득자** — N1 지향 | 뉴스 기사·에세이 수준, N1 어휘·문형 자연 노출, 드라마 수준 회화 |
 
-프로필을 조정하려면 `scripts/lib/langs.js`의 해당 언어 `learnerProfile` 한 줄만 고치면 됩니다(프롬프트에는 프로필이 없고 brief.json으로 전달됨).
+프로필을 조정하려면 `scripts/lib/langs.js`의 해당 트랙 `learnerProfile` 한 줄만 고치면 됩니다(프롬프트에는 프로필이 없고 brief.json으로 전달됨). 트랙을 추가/제거하는 것도 이 파일에 항목을 넣고 빼는 것이 시작점입니다(+ 워크플로 블록).
 
 ## 사용법
 
@@ -69,13 +73,13 @@
 
 ## 실행 구조: GitHub Actions (주 경로)
 
-`.github/workflows/daily.yml`이 매일 21:00 UTC(=06:00 KST)에 실행됩니다. **en 블록 → ja 블록 순서로, 언어별로 커밋**합니다:
+`.github/workflows/daily.yml`이 매일 21:00 UTC(=06:00 KST)에 실행됩니다. **en → ja-n1 → ja-n2 블록 순서로, 트랙별로 커밋**합니다:
 
-1. `prepare.js --lang en`·`prepare.js --lang ja` — 날짜 결정, AI 입력(brief)·퀴즈 동결본(review) 생성. `ALREADY_DONE`인 언어는 해당 블록 전부 생략.
-2. (언어별) `claude -p`(헤드리스) — `prompts/generator.<lang>.md` 지침대로 `content.json` 작성. **구독 토큰으로 인증되어 Pro/Max 사용량에서 차감**(API 과금 아님). 허용 도구는 Read/Write/Edit/Glob/Grep뿐 — AI는 git을 만질 수 없음.
-3. (언어별) `settle.js --lang <lang>` — 검증·SRS 반영. 검증 실패 시 에러 로그를 주고 content.json만 고치게 해 정확히 1회 재시도.
-4. `build.js`(전 언어+허브 재생성) → `verify.js --lang <lang>` — HTML 재생성, 커밋 전 게이트.
-5. 그 언어가 전부 성공 시에만 `daily(en): <날짜>` / `daily(ja): <날짜>` 커밋·push (GITHUB_TOKEN, `contents: write`). ja push 직전에는 `git pull --rebase` 보험 1줄.
+1. `prepare.js --lang <트랙>` ×3 — 날짜 결정, AI 입력(brief)·퀴즈 동결본(review) 생성. `ALREADY_DONE`인 트랙은 해당 블록 전부 생략.
+2. (트랙별) `claude -p`(헤드리스) — `prompts/generator.en.md` 또는 `generator.ja.md`(ja 두 트랙 공유, 난이도는 brief의 프로필로) 지침대로 `content.json` 작성. **구독 토큰으로 인증되어 Pro/Max 사용량에서 차감**(API 과금 아님). 허용 도구는 Read/Write/Edit/Glob/Grep뿐 — AI는 git을 만질 수 없음.
+3. (트랙별) `settle.js --lang <트랙>` — 검증·SRS 반영. 검증 실패 시 에러 로그를 주고 content.json만 고치게 해 정확히 1회 재시도.
+4. `build.js`(전 트랙+허브 재생성) → `verify.js --lang <트랙>` — HTML 재생성, 커밋 전 게이트.
+5. 그 트랙이 전부 성공 시에만 `daily(en):` / `daily(ja-n1):` / `daily(ja-n2): <날짜>` 커밋·push (GITHUB_TOKEN, `contents: write`). 2번째 블록부터 push 직전 `git pull --rebase` 보험 1줄.
 
 수동 실행은 Actions 탭의 Run workflow 버튼. 유의: 구독 토큰의 CI 사용은 현재 공식 경로(`claude setup-token`)지만 과금 정책이 바뀔 수 있음 — 그 경우 generate 스텝만 API 키 호출로 교체하면 됨(나머지 파이프라인 불변).
 

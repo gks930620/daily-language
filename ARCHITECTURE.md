@@ -3,7 +3,7 @@
 ## 파이프라인
 
 ```
-        (매일 06:00 KST, GitHub Actions `.github/workflows/daily.yml`이 언어별로 실행: en 블록 → ja 블록)
+        (매일 06:00 KST, GitHub Actions `.github/workflows/daily.yml`이 트랙별로 실행: en → ja-n1 → ja-n2)
 
   ┌─────────┐   ┌──────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────┐
   │ prepare │──▶│ generate │──▶│ settle  │──▶│ build   │──▶│ verify  │──▶│ git │
@@ -18,9 +18,9 @@
   쓰기: data/<lang>/<날짜>/ ◀── prepare  state·selected.json ◀── settle    docs/ ◀── build
 ```
 
-핵심 원칙: **AI는 `data/<lang>/<날짜>/content.json` 하나만 만든다.** SRS 계산, 상태 갱신, HTML 빌드는 전부 결정론적 Node 스크립트다. 파일이 기억이고(state/), 날짜는 코드가 KST 기준으로 계산해 주입하며, runlog가 멱등 키다. **언어(en·ja)는 디렉터리 네임스페이스로 완전 분리**되고, 언어별 설정의 단일 소스는 `scripts/lib/langs.js`다.
+핵심 원칙: **AI는 `data/<lang>/<날짜>/content.json` 하나만 만든다.** SRS 계산, 상태 갱신, HTML 빌드는 전부 결정론적 Node 스크립트다. 파일이 기억이고(state/), 날짜는 코드가 KST 기준으로 계산해 주입하며, runlog가 멱등 키다. **트랙(en·ja-n1·ja-n2, 트랙 = 언어×난이도)은 디렉터리 네임스페이스로 완전 분리**되고, 트랙별 설정의 단일 소스는 `scripts/lib/langs.js`다. 콘텐츠 철학: 기초는 정해진 커리큘럼으로 각자 학습하고, 생성 콘텐츠는 **기초 완료자의 매일 30분·흥미 유지**용이다(ja는 JLPT N1/N2 취득자 두 난이도).
 
-## 디렉터리 지도 (언어 축)
+## 디렉터리 지도 (트랙 축 — `<lang>` ∈ en·ja-n1·ja-n2)
 
 ```
 data/<lang>/<날짜>/            brief.json · review.json · content.json · selected.json
@@ -29,27 +29,27 @@ docs/index.html                허브(언어 선택)
 docs/<lang>/index.html         언어 인덱스(최신 하루치 + 아카이브)
 docs/<lang>/days/<날짜>.html    하루치 페이지
 docs/assets/ · docs/.nojekyll  루트 유지(공유)
-prompts/generator.<lang>.md    언어별 generate 지침
-fixtures/sample-content.<lang>.json  언어별 픽스처
+prompts/generator.{en,ja}.md   generate 지침(ja 파일은 ja-n1·ja-n2 두 트랙이 공유)
+fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공유 — mock이 lang을 실행 트랙으로 덮어씀)
 ```
 
 ## 파일·스크립트 역할
 
 | 경로 | 역할 |
 |---|---|
-| `scripts/lib/langs.js` | **언어 레지스트리(단일 소스)**: label·pageTitle·learnerProfile·newWordCandidates·maxNewWords·promptFile·fixtureFile·requiresReading + `resolveLang(argv)`. 학습자 프로필 문자열은 여기에만 있다. |
+| `scripts/lib/langs.js` | **트랙 레지스트리(단일 소스, 트랙 = 언어×난이도)**: label·pageTitle·learnerProfile·newWordCandidates·maxNewWords·promptFile·fixtureFile·requiresReading + `resolveLang(argv)`. 학습자 프로필 문자열은 여기에만 있다. ja-n1/ja-n2는 promptFile·fixtureFile을 공유하고 난이도는 learnerProfile(→ brief.json)로 주입된다. |
 | `scripts/prepare.js` | 하루의 시작(`--lang` 필수). settled면 `ALREADY_DONE` 후 종료. due 단어 선정 → `review.json` 동결, known_words·최근 회화 주제 수집 → `brief.json`. runlog에 `prepared_at` 기록. |
 | `scripts/settle.js` | content.json 검증(lang 교차검증 포함) → 코드 dedup(NFKC 정규화) → 신규 단어 box 1 등록(최대 20개) → review.json의 due 단어 승급 → 최종 선별본 `selected.json` 동결 → runlog에 settled 마킹. **words.json을 쓰는 유일한 스크립트.** settled면 no-op. 재실행 가드: `added_on === 오늘`은 신규 쿼터에 포함, `last_seen === 오늘`은 승급 건너뜀 — 크래시 후 재실행에도 이중 반영 없음. |
 | `scripts/build.js` | **`--lang`을 받지 않는 유일한 스크립트.** 전 언어의 `data/<lang>/*/`(content+review+selected)를 스캔 → `docs/<lang>/days/*.html` + `docs/<lang>/index.html` + 허브 `docs/index.html`을 처음부터 재생성. "오늘의 단어"는 selected.json 기준(없는 과거 데이터만 content.words 폴백). 단어 상태를 읽지 않는 순수 재생성. |
 | `scripts/verify.js` | 오늘분(`--lang` 필수) HTML 존재·개수 일치(문장 5, 단어 = selected.json 단어 수, 퀴즈 = review due 수)·settled·허브 존재 확인. 실패 시 exit 1 → 워크플로가 커밋하지 않음. |
-| `scripts/mock-generate.js` | AI 대역(로컬 시뮬레이션, `--lang` 필수). 언어별 픽스처의 `{{DATE}}` 치환. `--unique`는 headword에 날짜 접미사를 붙여 다일 시뮬레이션 중복 회피. |
+| `scripts/mock-generate.js` | AI 대역(로컬 시뮬레이션, `--lang` 필수). 픽스처의 `{{DATE}}` 치환 후 **lang을 실행 트랙으로 덮어씀**(픽스처 공유 대응). `--unique`는 headword에 날짜 접미사를 붙여 다일 시뮬레이션 중복 회피. |
 | `scripts/lib/dates.js` | KST 오늘 계산, `--date` 오버라이드, 날짜 가감. **날짜의 유일한 소스.** |
 | `scripts/lib/store.js` | JSON/텍스트 원자적 쓰기(tmp+rename), 루트 경로, 상태 파일 읽기(`readWordsState(lang)`·`readRunlog(lang)` — lang 필수). |
 | `scripts/lib/srs.js` | 순수 함수: due 선정, 승급, 신규 항목 생성. 파일 I/O 없음(언어 무관). |
 | `scripts/lib/validate.js` | content.json 수제 스키마 검증. `validateContent(content, date, lang)` — content.lang 교차검증, requiresReading 언어는 reading 필수. 실패 필드의 경로를 찍는다. |
 | `scripts/lib/html.js` | 이스케이프 + 페이지 템플릿. JS 0줄, 네이티브 `<details>`만. **언어 분기 없음 — "reading 있으면 렌더" 규칙만.** |
-| `prompts/generator.en.md` / `prompts/generator.ja.md` | generate 단계(AI)의 언어별 지침. 입력 brief.json, 출력 content.json 하나. 프로필은 brief.json 참조(재기재 금지). |
-| `.github/workflows/daily.yml` | 주 실행 경로. prepare(en)·prepare(ja) → [EN 블록: generate→settle→build+verify→commit "daily(en): DATE"] → [JA 블록: 동일, commit "daily(ja): DATE", push 직전 `git pull --rebase`]. |
+| `prompts/generator.en.md` / `prompts/generator.ja.md` | generate 단계(AI)의 지침. ja 파일은 두 트랙 공유 — 난이도 캘리브레이션 표(N1/N2 취득자)를 내장하고 brief의 learner_profile로 구분. 입력 brief.json, 출력 content.json 하나. 프로필은 brief.json 참조(재기재 금지). |
+| `.github/workflows/daily.yml` | 주 실행 경로. prepare ×3 → [EN 블록: generate→settle→build+verify→commit "daily(en): DATE"] → [JA-N1 블록: 동일, "daily(ja-n1): DATE"] → [JA-N2 블록: 동일, "daily(ja-n2): DATE"]. 2번째 블록부터 push 직전 `git pull --rebase`. settle 스텝은 `set -o pipefail`(기본 셸은 pipefail 꺼짐 — 없으면 tee가 실패를 가림). |
 | `prompts/routine.md` | claude.ai 루틴에 붙여넣는 프롬프트 원본(예비 경로 — 현재 미사용, 언어 축 이전 기준). |
 | `state/<lang>/words.json` | 언어별 SRS 단어 상태(아래 스키마). |
 | `state/<lang>/runlog.json` | 언어별 날짜별 실행 기록 = 멱등 키. |
@@ -104,7 +104,7 @@ fixtures/sample-content.<lang>.json  언어별 픽스처
 - **brief.json** (prepare → AI): `date`, `learner_profile`(langs.js가 단일 소스), `new_word_candidates_requested`(25), `known_words`, `recent_conversation_topics`(최근 14일). due 단어는 **넣지 않는다** — AI가 복습에 관여할 이유가 없다.
   - known_words는 3,000개 이하면 전체, 초과 시 최근 추가 1,000개만(전환 로직 내장). 오래된 단어와 겹쳐도 settle의 코드 dedup이 최종 방어.
 - **review.json** (prepare → settle·build): 오늘 퀴즈의 동결본. `due_words`(headword/box/card)와 `review_sentence`(D-10~D-3 창의 과거 문장에서 날짜 해시로 결정적 선택, 없으면 null — reading이 있으면 함께 동결). settle과 build가 **같은 동결본**을 읽으므로 "퀴즈에 나온 것"과 "승급된 것"이 항상 일치한다.
-- **content.json** (AI → settle): 문장 5·단어 후보 20~25·회화. 최상위 `lang` 필수(--lang과 교차검증). **스키마 키는 언어 무관하게 고정**: `en` = 대상 언어 텍스트, `ko` = 한국어. requiresReading 언어(ja)는 sentences[]·words[]·conversation.lines[]에 `reading`(전문 히라가나) 필수, key_expressions는 선택. 검증 규칙은 validate.js 참조.
+- **content.json** (AI → settle): 문장 5·단어 후보 20~25·회화. 최상위 `lang` 필수(--lang과 교차검증). **스키마 키는 언어 무관하게 고정**: `en` = 대상 언어 텍스트, `ko` = 한국어. requiresReading 트랙(ja-n1·ja-n2)은 sentences[]·words[]·conversation.lines[]에 `reading`(전문 히라가나) 필수, key_expressions는 선택. 검증 규칙은 validate.js 참조.
 - **selected.json** (settle → build·verify): 그날 실제로 SRS에 등록된 최종 단어(최대 20개)의 동결본. 페이지의 "오늘의 단어"와 verify의 개수 검사는 이 파일이 기준이다. 후보 25개 중 중복 제외·쿼터 초과분은 페이지에도 SRS에도 들어가지 않아 "보이는 단어 = 복습될 단어"가 보장된다. 상태 기준(`added_on === 그날`)으로 만들므로 재실행해도 같은 내용이 재생성된다.
 
 ## SRS 규칙 (6박스 Leitner — 언어별 독립)
@@ -133,4 +133,5 @@ fixtures/sample-content.<lang>.json  언어별 픽스처
 | 외부 의존성 0 | CI에서 npm install 불필요(예외: AI 단계의 claude CLI 전역 설치) → 실행 시간·실패 지점 감소. Node 22+ 내장 기능만 사용(`node --test` 글롭 인자가 22부터 안정). |
 | [A2] `--lang` 필수(기본값 없음), build만 예외 | 기본값이 있으면 언어를 빼먹은 명령이 조용히 en 상태를 오염시킨다. 미지정은 즉시 throw. build는 전 언어+허브를 항상 재생성하는 순수 함수라 언어 인자가 필요 없다. |
 | [A3] 스키마 키(en/ko)는 언어 무관 고정 + `lang` 필드 + 조건부 `reading` | 렌더러·settle·SRS가 언어 분기 없이 동작한다("reading 있으면 렌더"). 키 이름을 언어마다 바꾸면 파이프라인 전체가 분기 지옥이 된다. verify의 마커 문자열(`<tr class="word-row">` 등)도 불변으로 유지된다. |
-| [A4] 워크플로 커밋은 언어별 2회(daily(en) → daily(ja)) | 한 언어의 실패가 다른 언어의 산출물 커밋을 막지 않는다. ja push 직전 `git pull --rebase`는 en push 이후 원격이 앞서 있는 경우의 보험. |
+| [A4] 워크플로 커밋은 트랙별(daily(en) → daily(ja-n1) → daily(ja-n2)) | 한 트랙의 실패가 다른 트랙의 산출물 커밋을 막지 않는다. 2번째 블록부터 push 직전 `git pull --rebase`는 앞 블록 push로 원격이 앞서 있는 경우의 보험. |
+| [A6] ja는 N1/N2 취득자 두 트랙, 프롬프트·픽스처 공유 | 사용자 확정 철학: 기초·시험 대비는 정해진 커리큘럼으로 각자, 생성 콘텐츠는 기초 완료자의 "매일 30분, 흥미 유지"용. 난이도는 파일 복제가 아니라 learnerProfile 주입으로 갈라 중복 정의를 없앤다. |

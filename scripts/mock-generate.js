@@ -18,6 +18,7 @@ function main() {
 
   const raw = readFileSync(rootPath(config.fixtureFile), 'utf8');
   const content = JSON.parse(raw.replaceAll('{{DATE}}', date));
+  content.lang = lang; // 픽스처는 트랙 간 공유될 수 있다(ja-n1/ja-n2) — lang은 항상 실행 트랙으로
 
   if (unique) {
     const suffix = date.replaceAll('-', '');
