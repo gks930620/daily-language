@@ -1,6 +1,6 @@
 # CLAUDE.md — 다음 세션 인수인계
 
-**목적 한 줄**: 매일 아침 claude.ai 루틴이 영어 학습 페이지(문장 5·단어 20·회화·SRS 퀴즈)를 자동 생성해 GitHub Pages에 올리는 파이프라인.
+**목적 한 줄**: 매일 아침 GitHub Actions(`.github/workflows/daily.yml`)가 영어 학습 페이지(문장 5·단어 20·회화·SRS 퀴즈)를 자동 생성해 GitHub Pages에 올리는 파이프라인. AI 단계는 `claude -p` + 구독 토큰(`CLAUDE_CODE_OAUTH_TOKEN` 시크릿).
 
 ## 절대 규칙
 
@@ -18,7 +18,7 @@ node scripts/prepare.js            # ALREADY_DONE이면 그날 완료 상태
 node scripts/settle.js             # 검증 + SRS 반영. 유일한 state 쓰기
 node scripts/build.js              # docs/ 전체 재생성
 node scripts/verify.js             # 커밋 전 게이트 (실패 시 exit 1)
-# git add/commit/push는 클라우드 루틴의 마지막 단계(로컬 작업 중엔 사용자 지시 있을 때만)
+# git add/commit/push는 워크플로의 마지막 스텝(로컬 작업 중엔 사용자 지시 있을 때만)
 ```
 
 모든 스크립트는 `--date YYYY-MM-DD`로 날짜를 오버라이드할 수 있다(기본: KST 오늘).
@@ -37,4 +37,5 @@ node scripts/verify.js             # 커밋 전 게이트 (실패 시 exit 1)
 | `ARCHITECTURE.md` | 코드를 고치기 전(스키마·SRS 규칙·설계 결정 근거) |
 | `PLAN.md` | 범위 판단이 필요할 때(v1/v2 경계, 확정 결정, 리스크) |
 | `prompts/generator.md` | generate 단계의 콘텐츠 품질 기준 |
-| `prompts/routine.md` | 클라우드 루틴 프롬프트 원본(수정 시 루틴에도 다시 붙여넣어야 함) |
+| `.github/workflows/daily.yml` | 실제 매일 실행 경로(주 경로). 스텝 순서 = 위 파이프라인 |
+| `prompts/routine.md` | claude.ai 클라우드 루틴용 프롬프트(예비 경로 — 현재 미사용) |

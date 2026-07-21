@@ -6,7 +6,7 @@
 - 학습자: 토익 700, 수능 2등급(10년 전), 회화 초급. 목표: 토익 900, 시사 독해, 기초 회화.
 - 하루 분량: 문장 5개(수능~시사 난이도, 한국어 해석+구문분석), 단어 20개, 회화 한 문단.
 - 배운 단어는 잊지 않게 간격 반복(SRS) 복습 퀴즈로 다시 나와야 한다.
-- 실행 주체는 claude.ai의 클라우드 루틴(매일 아침 GitHub 저장소를 클론해 실행).
+- 실행 주체는 GitHub Actions(매일 아침 저장소에서 실행, AI는 구독 토큰의 `claude -p`). 처음엔 claude.ai 클라우드 루틴이었으나 GitHub 연동 없이 되는 Actions로 전환(루틴은 예비 경로).
 - 결과물은 웹페이지로 본다(폰에서). 일본어 학습 확장 이야기가 나왔으나 "일본어는 일단 킾".
 
 ## 확정 결정
@@ -14,7 +14,7 @@
 | 항목 | 결정 |
 |---|---|
 | 결과물 형태 | GitHub Pages(`docs/`) 정적 HTML + Leitner SRS 복습 퀴즈 |
-| 실행 주체 | claude.ai 클라우드 루틴, 매일 21:00 UTC(=06:00 KST) |
+| 실행 주체 | GitHub Actions `.github/workflows/daily.yml`, 매일 21:00 UTC(=06:00 KST). AI 단계는 `claude -p` + `CLAUDE_CODE_OAUTH_TOKEN`(구독 사용량, API 과금 아님). 예비: claude.ai 루틴(`prompts/routine.md`) |
 | 저장소 | GitHub **public** [`gks930620/daily-language`](https://github.com/gks930620/daily-language) (Pages 무료 조건) |
 | SRS | 6박스 Leitner, 간격 `[1,3,7,14,30,60]`일, box 6 노출 후 졸업 |
 | 역할 분담 | AI = content.json 생성만. 날짜·SRS·상태·빌드 = Node 스크립트 |
@@ -23,7 +23,7 @@
 
 ## v1 범위 (이 저장소)
 
-- 파이프라인: `prepare → generate(AI) → settle → build → verify → git(루틴)`.
+- 파이프라인: `prepare → generate(AI) → settle → build → verify → git(워크플로)`.
 - 하루치 페이지: 문장 5(해석·구문분석 접기) / 단어 20 표(AI 후보 25 중 settle이 선별한 `selected.json` 기준) / 회화 8~12줄 / 복습 퀴즈(정답 접기) / 복습 문장 1.
 - 채점 없는 SRS: "퀴즈에 노출 = 통과"로 승급. 파일 스키마는 채점 확장 가능 구조.
 - 로컬 시뮬레이션(mock-generate + 픽스처)과 node:test 단위 테스트.
@@ -41,9 +41,9 @@
 
 | 리스크 | 영향 | 대응 |
 |---|---|---|
-| 클라우드 루틴이 main에 push 못 함 | 파이프라인 무의미 | **첫 수동 실행에서 최우선 확인**(README 설정 6단계). 안 되면 GitHub Actions 예비 경로로 전환 |
-| 루틴 실행 누락/실패 | 그날 페이지 없음 | 멱등 설계라 다음 실행이 자동 복구. 상태는 성공한 날만 갱신 |
-| AI가 스키마를 어긴 content.json 생성 | settle 실패 | validate.js가 필드 경로까지 찍어 거부, 루틴이 1회 재시도, 실패 시 커밋 없이 보고 |
+| 구독 토큰 CI 사용 정책 변경/토큰 만료(1년) | generate 단계 인증 실패 | 만료면 `claude setup-token` 재발급. 정책이 막히면 generate 스텝만 API 키 호출로 교체(나머지 파이프라인 불변) |
+| 워크플로 실행 누락/실패 | 그날 페이지 없음 | 멱등 설계라 다음 실행이 자동 복구. 상태는 성공한 날만 갱신. 공개 저장소 60일 무활동 시 예약 중지(매일 커밋으로 사실상 무관) |
+| AI가 스키마를 어긴 content.json 생성 | settle 실패 | validate.js가 필드 경로까지 찍어 거부, 워크플로가 1회 재생성 후 재시도, 실패 시 커밋 없이 보고 |
 | AI가 알던 단어를 또 냄 | 신규 단어 감소 | settle의 코드 dedup이 최종 방어 + notes에 기록. 미달이어도 진행 |
 | known_words가 계속 자람 | brief.json 비대 | 3,000개 초과 시 최근 1,000개만 전달(내장됨) |
 | 복습량 누적 부담 | 정착기 하루 ~120개 | `intervals` 배열 축소로 즉시 조정 가능(ARCHITECTURE.md 참조) |

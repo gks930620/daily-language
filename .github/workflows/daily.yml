@@ -1,0 +1,90 @@
+# 매일 학습 페이지 자동 생성 — 주 실행 경로.
+# AI(generate)는 구독 토큰(CLAUDE_CODE_OAUTH_TOKEN 시크릿)으로 claude -p 헤드리스 실행.
+# ⚠️ ANTHROPIC_API_KEY는 절대 넣지 않는다(있으면 API 토큰당 과금이 우선 적용됨).
+name: daily
+
+permissions:
+  contents: write # 결과 커밋·push용 (GITHUB_TOKEN)
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # UTC — 06:00 KST (Actions cron은 수 분~수십 분 지연될 수 있음)
+  workflow_dispatch: {}
+
+concurrency:
+  group: daily-run
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: prepare — 날짜 결정, brief/review 생성
+        id: prepare
+        run: |
+          OUT="$(node scripts/prepare.js)"
+          echo "$OUT"
+          echo "date=$(echo "$OUT" | sed -n 's/^DATE=//p')" >> "$GITHUB_OUTPUT"
+          if echo "$OUT" | grep -qx 'ALREADY_DONE'; then
+            echo "done=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "done=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Claude Code 설치
+        if: steps.prepare.outputs.done == 'false'
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: generate — content.json 작성 (AI, 구독 사용량)
+        if: steps.prepare.outputs.done == 'false'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DATE: ${{ steps.prepare.outputs.date }}
+        run: |
+          claude -p "prompts/generator.md와 data/$DATE/brief.json을 읽고, generator.md 지침 그대로 data/$DATE/content.json 하나만 작성하라. 다른 파일은 절대 만들거나 수정하지 마라. 단어 선별·간격 계산은 네 일이 아니다(스크립트가 한다)." \
+            --model opus \
+            --allowedTools "Read,Write,Edit,Glob,Grep" \
+            --max-turns 30
+
+      - name: settle — 검증·SRS 반영 (검증 실패 시 정확히 1회 재생성)
+        if: steps.prepare.outputs.done == 'false'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DATE: ${{ steps.prepare.outputs.date }}
+        run: |
+          if node scripts/settle.js 2>&1 | tee /tmp/settle.log; then
+            exit 0
+          fi
+          echo "::warning::settle 검증 실패 — content.json 수정 후 1회 재시도"
+          claude -p "data/$DATE/content.json이 검증에 실패했다. /tmp/settle.log의 에러 메시지를 읽고, prompts/generator.md 지침에 맞게 data/$DATE/content.json만 고쳐라. 다른 파일은 절대 만들거나 수정하지 마라." \
+            --model opus \
+            --allowedTools "Read,Write,Edit,Glob,Grep" \
+            --max-turns 30
+          node scripts/settle.js
+
+      - name: build + verify — HTML 재생성·커밋 전 게이트
+        if: steps.prepare.outputs.done == 'false'
+        run: |
+          node scripts/build.js
+          node scripts/verify.js
+
+      - name: commit & push
+        if: steps.prepare.outputs.done == 'false'
+        env:
+          DATE: ${{ steps.prepare.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "daily: $DATE"
+            git push
+          fi

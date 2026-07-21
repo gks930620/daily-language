@@ -1,6 +1,6 @@
 # 매일 언어 학습 (daily-language)
 
-매일 아침 claude.ai 클라우드 루틴이 이 저장소를 클론해 **그날의 학습 페이지를 자동 생성**하고 GitHub Pages에 게시하는 개인 학습 파이프라인입니다. 학습자는 토익 700 → 목표 900, 시사 독해와 기초 회화를 함께 노립니다. AI는 콘텐츠(문장·단어·회화)만 만들고, 복습 간격 계산(Leitner SRS)·상태 관리·HTML 빌드는 전부 Node 스크립트가 결정론적으로 처리합니다.
+매일 아침 GitHub Actions가 이 저장소에서 **그날의 학습 페이지를 자동 생성**하고 GitHub Pages에 게시하는 개인 학습 파이프라인입니다. 학습자는 토익 700 → 목표 900, 시사 독해와 기초 회화를 함께 노립니다. AI는 콘텐츠(문장·단어·회화)만 만들고, 복습 간격 계산(Leitner SRS)·상태 관리·HTML 빌드는 전부 Node 스크립트가 결정론적으로 처리합니다.
 
 ## 매일 아침 무엇이 생기나
 
@@ -34,24 +34,38 @@
    git push -u origin main
    ```
 3. **GitHub Pages 켜기** — 저장소 Settings → Pages → Source: `Deploy from a branch`, Branch: `main`, 폴더 `/docs` → Save.
-4. **claude.ai GitHub 연동** — claude.ai 설정에서 GitHub 계정을 연결하고 `daily-language` 저장소 접근을 허용.
-5. **claude.ai 루틴 생성** — 새 루틴(스케줄 작업)을 만들고 `prompts/routine.md`의 코드 블록 내용을 그대로 붙여넣는다. 실행 시각: **매일 21:00 UTC (= 06:00 KST)**. 대상 저장소: `daily-language`.
-6. **첫 수동 실행** — 루틴을 한 번 수동으로 실행해 본다. 확인할 것: (a) 파이프라인이 끝까지 돌았는지, (b) **루틴이 main에 직접 push할 수 있는지**(권한 문제가 가장 흔한 첫 실패 원인), (c) 몇 분 뒤 Pages URL에 오늘 페이지가 뜨는지.
+4. **CI용 구독 토큰 발급·등록** — AI 단계가 Claude Pro/Max **구독 사용량**으로 돌게 하는 토큰(API 토큰당 과금 아님).
+   1. 내 PC 터미널에서 `claude setup-token` 실행 → 출력된 URL을 브라우저로 열어 로그인·Authorize.
+   2. 브라우저가 보여주는 **코드**(짧음, `#` 포함)를 복사해 **아직 켜져 있는 그 터미널**에 붙여넣고 Enter.
+   3. 터미널에 출력되는 **진짜 토큰**(`sk-ant-oat01-...`, 100자+)을 전체 복사. ⚠️ 코드가 아니라 이 토큰이다 — 코드를 넣으면 401.
+   4. [저장소 Secrets 페이지](https://github.com/gks930620/daily-language/settings/secrets/actions) → New repository secret → Name: `CLAUDE_CODE_OAUTH_TOKEN`, Secret: 토큰 → Add secret.
+   - 토큰은 비밀번호급. Secret 외 어디에도 붙여넣지 않는다. 수명 1년(만료 시 재발급·교체).
+   - ⚠️ `ANTHROPIC_API_KEY`는 절대 등록하지 않는다 — 있으면 API가 우선돼 토큰당 과금된다.
+5. **첫 수동 실행** — 저장소 Actions 탭 → `daily` 워크플로 → **Run workflow**. 확인할 것: (a) 초록 체크로 끝났는지, (b) `daily: <날짜>` 커밋이 생겼는지, (c) 몇 분 뒤 Pages URL에 오늘 페이지가 뜨는지.
 
 ## 문제 해결
 
 | 증상 | 원인/대처 |
 |---|---|
 | push는 됐는데 페이지가 안 바뀜 | GitHub Pages 반영은 수 분 걸릴 수 있음. 저장소 Actions 탭의 `pages-build-deployment` 완료 후 새로고침(캐시 주의). |
-| 루틴이 실패함 | 그날은 건너뛰어도 됨. 파이프라인은 **날짜 기준 멱등**이고 settle에는 재실행 가드(같은 날 이중 승급·초과 등록 방지)가 있어, 어느 지점에서 죽어도 다음 실행이 안전하게 이어서 처리함. |
-| 같은 날 루틴이 두 번 돎 | `prepare`가 `ALREADY_DONE`을 출력하고 아무것도 하지 않음(정상). |
-| 루틴이 main에 push 못 함 | claude.ai GitHub 연동의 쓰기 권한/브랜치 보호 규칙 확인. main 보호를 걸었다면 해제하거나 루틴용 예외 필요. |
-| 콘텐츠 검증 실패로 멈춤 | 루틴이 1회 재시도 후 보고하고 종료함. state는 건드리지 않으므로 다음날 정상 복구. 수동으로 돌리려면 `.claude/skills/daily-english-run` 절차 참고. |
+| 워크플로가 실패함 | 그날은 건너뛰어도 됨. 파이프라인은 **날짜 기준 멱등**이고 settle에는 재실행 가드(같은 날 이중 승급·초과 등록 방지)가 있어, 어느 지점에서 죽어도 다음 실행이 안전하게 이어서 처리함. Actions 탭에서 로그 확인. |
+| 같은 날 워크플로가 두 번 돎 | `prepare`가 `ALREADY_DONE`을 출력하고 아무것도 하지 않음(정상). |
+| generate 단계 401/인증 실패 | Secret에 **코드**를 넣었을 가능성(토큰은 `sk-ant-oat01-` 시작·100자+). 또는 토큰 만료(1년) — `claude setup-token` 재발급 후 Secret 교체. |
+| 콘텐츠 검증 실패로 멈춤 | 워크플로가 1회 재생성 후에도 실패하면 커밋 없이 종료. state는 건드리지 않으므로 다음날 정상 복구. 수동으로 돌리려면 `.claude/skills/daily-english-run` 절차 참고. |
+| 예약 실행이 안 돎 | 공개 저장소는 60일 무활동 시 예약 워크플로 자동 중지(매일 커밋이 생기는 동안은 무관). Actions 탭에서 재활성화. cron은 수 분~수십 분 지연될 수 있음. |
 
-## 예비 경로: GitHub Actions (문서만, 미구현)
+## 실행 구조: GitHub Actions (주 경로)
 
-claude.ai 루틴이 장기 불안정하면 같은 파이프라인을 GitHub Actions로 옮길 수 있습니다. 코드는 이미 "코드 단계(prepare/settle/build/verify)"와 "AI 단계(generate)"가 분리돼 있으므로:
+`.github/workflows/daily.yml`이 매일 21:00 UTC(=06:00 KST)에 실행됩니다:
 
-- 스케줄 워크플로(cron `0 21 * * *`)에서 `prepare → (Anthropic API 호출로 content.json 생성) → settle → build → verify → commit/push`를 실행.
-- 필요한 것: `ANTHROPIC_API_KEY` 시크릿, API 호출 스텝(작은 Node 스크립트 하나 추가).
-- 이 저장소에는 의도적으로 워크플로 파일을 넣지 않았습니다(현재 경로는 claude.ai 루틴). 전환 시 ARCHITECTURE.md의 파이프라인 그대로 이식하면 됩니다.
+1. `prepare.js` — 날짜 결정, AI 입력(brief)·퀴즈 동결본(review) 생성. `ALREADY_DONE`이면 이후 스텝 전부 생략.
+2. `claude -p`(헤드리스) — `prompts/generator.md` 지침대로 `content.json` 작성. **구독 토큰으로 인증되어 Pro/Max 사용량에서 차감**(API 과금 아님). 허용 도구는 Read/Write/Edit/Glob/Grep뿐 — AI는 git을 만질 수 없음.
+3. `settle.js` — 검증·SRS 반영. 검증 실패 시 에러 로그를 주고 content.json만 고치게 해 정확히 1회 재시도.
+4. `build.js` → `verify.js` — HTML 재생성, 커밋 전 게이트.
+5. 전부 성공 시에만 `daily: <날짜>` 커밋·push (GITHUB_TOKEN, `contents: write`).
+
+수동 실행은 Actions 탭의 Run workflow 버튼. 유의: 구독 토큰의 CI 사용은 현재 공식 경로(`claude setup-token`)지만 과금 정책이 바뀔 수 있음 — 그 경우 generate 스텝만 API 키 호출로 교체하면 됨(나머지 파이프라인 불변).
+
+## 예비 경로: claude.ai 클라우드 루틴
+
+Actions가 장기 불안정하면 `prompts/routine.md`의 프롬프트로 claude.ai 루틴(매일 21:00 UTC)을 만들어 같은 파이프라인을 돌릴 수 있습니다. claude.ai의 GitHub 연동(App 설치·저장소 접근 허용)이 필요합니다. 양쪽이 같은 날 겹쳐 돌아도 `ALREADY_DONE` 가드로 안전합니다.
