@@ -3,7 +3,11 @@
   "runs": {
     "2026-07-21": {
       "prepared_at": "2026-07-21T12:02:01.284Z",
-      "settled": false
+      "settled": true,
+      "settled_at": "2026-07-21T12:10:21.458Z",
+      "content_sha256": "d57535915db1de635188b8b112c7dee456b8827f998587cc4f31bfc62e3c3e52",
+      "notes": [],
+      "built_at": "2026-07-21T12:10:21.520Z"
     }
   }
 }
