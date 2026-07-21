@@ -32,7 +32,7 @@ ${body}
 `;
 }
 
-/** ① 오늘의 문장 섹션. */
+/** ① 오늘의 문장 섹션. reading(발음)은 있으면 details 안(해석 위)에 렌더한다. */
 export function renderSentences(sentences) {
   const items = sentences
     .map((s) => {
@@ -42,10 +42,11 @@ export function renderSentences(sentences) {
               .map((v) => `<li><b>${esc(v.word)}</b> — ${esc(v.ko)}</li>`)
               .join('')}</ul>`
           : '';
+      const reading = s.reading ? `<p class="reading">${esc(s.reading)}</p>\n` : '';
       return `<li class="sentence">
 <p class="en">${esc(s.en)}</p>
 <details><summary>해석 · 구문분석</summary>
-<p class="ko">${esc(s.ko)}</p>
+${reading}<p class="ko">${esc(s.ko)}</p>
 <p class="structure">${esc(s.structure)}</p>
 ${notes}</details>
 </li>`;
@@ -59,7 +60,7 @@ ${items}
 </section>`;
 }
 
-/** ② 오늘의 단어 섹션(표). */
+/** ② 오늘의 단어 섹션(표). reading은 있으면 headword 셀 안에 렌더한다. */
 export function renderWords(words) {
   const rows = words
     .map((w) => {
@@ -67,8 +68,11 @@ export function renderWords(words) {
         Array.isArray(w.collocations) && w.collocations.length > 0
           ? `<br><small class="collocations">${esc(w.collocations.join(', '))}</small>`
           : '';
+      const reading = w.reading
+        ? `<br><small class="reading">${esc(w.reading)}</small>`
+        : '';
       return `<tr class="word-row">
-<td class="headword"><b>${esc(w.headword)}</b>${colls}</td>
+<td class="headword"><b>${esc(w.headword)}</b>${reading}${colls}</td>
 <td class="pos">${esc(w.pos)}</td>
 <td class="meaning">${esc(w.ko)}</td>
 <td class="example"><span class="en">${esc(w.example_en)}</span><br><small class="ko">${esc(w.example_ko)}</small></td>
@@ -86,15 +90,19 @@ ${rows}
 </section>`;
 }
 
-/** ③ 오늘의 회화 섹션. 각 줄을 누르면 해석이 열린다. */
+/** ③ 오늘의 회화 섹션. 각 줄을 누르면 해석이 열린다. reading은 있으면 details 안에 렌더. */
 export function renderConversation(conv) {
   const lines = conv.lines
-    .map(
-      (l) => `<details class="line"><summary><b class="speaker">${esc(l.speaker)}</b> ${esc(l.en)}</summary><p class="ko">${esc(l.ko)}</p></details>`
-    )
+    .map((l) => {
+      const reading = l.reading ? `<p class="reading">${esc(l.reading)}</p>` : '';
+      return `<details class="line"><summary><b class="speaker">${esc(l.speaker)}</b> ${esc(l.en)}</summary>${reading}<p class="ko">${esc(l.ko)}</p></details>`;
+    })
     .join('\n');
   const keys = conv.key_expressions
-    .map((k) => `<li><b>${esc(k.en)}</b> — ${esc(k.ko)}</li>`)
+    .map((k) => {
+      const reading = k.reading ? ` <small class="reading">${esc(k.reading)}</small>` : '';
+      return `<li><b>${esc(k.en)}</b>${reading} — ${esc(k.ko)}</li>`;
+    })
     .join('');
   return `<section id="conversation">
 <h2>오늘의 회화 — ${esc(conv.topic)}</h2>
@@ -116,16 +124,19 @@ export function renderQuiz(dueWords) {
 </section>`;
   }
   const items = dueWords
-    .map(
-      (d) => `<li class="quiz-item">
+    .map((d) => {
+      const reading = d.card?.reading
+        ? `<p class="reading">${esc(d.card.reading)}</p>\n`
+        : '';
+      return `<li class="quiz-item">
 <p class="quiz-word"><b>${esc(d.headword)}</b></p>
 <p class="quiz-example en">${esc(d.card?.example_en ?? '')}</p>
 <details><summary>정답</summary>
-<p class="answer">${esc(d.card?.pos ?? '')} ${esc(d.card?.ko ?? '')}</p>
+${reading}<p class="answer">${esc(d.card?.pos ?? '')} ${esc(d.card?.ko ?? '')}</p>
 <p class="ko">${esc(d.card?.example_ko ?? '')}</p>
 </details>
-</li>`
-    )
+</li>`;
+    })
     .join('\n');
   return `<section id="quiz">
 <h2>복습 퀴즈 <span class="count">(${dueWords.length})</span></h2>
@@ -143,11 +154,12 @@ export function renderReviewSentence(rs) {
 <p class="empty">아직 복습할 과거 문장이 없습니다.</p>
 </section>`;
   }
+  const reading = rs.reading ? `<p class="reading">${esc(rs.reading)}</p>\n` : '';
   return `<section id="review-sentence">
 <h2>복습 문장 <span class="from">(${esc(rs.from_date)} 학습)</span></h2>
 <p class="en">${esc(rs.en)}</p>
 <details><summary>정답</summary>
-<p class="ko">${esc(rs.ko)}</p>
+${reading}<p class="ko">${esc(rs.ko)}</p>
 <p class="structure">${esc(rs.structure)}</p>
 </details>
 </section>`;

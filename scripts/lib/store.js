@@ -40,7 +40,7 @@ export function writeTextAtomic(filePath, text) {
   renameSync(tmp, filePath);
 }
 
-/** state/words.json의 초기(빈) 구조. */
+/** state/<lang>/words.json의 초기(빈) 구조. */
 export function emptyWordsState() {
   return {
     schema_version: 1,
@@ -49,17 +49,19 @@ export function emptyWordsState() {
   };
 }
 
-/** state/runlog.json의 초기(빈) 구조. */
+/** state/<lang>/runlog.json의 초기(빈) 구조. */
 export function emptyRunlog() {
   return { schema_version: 1, runs: {} };
 }
 
-/** state/words.json 읽기(없으면 빈 구조). */
-export function readWordsState() {
-  return readJson(rootPath('state', 'words.json'), emptyWordsState());
+/** state/<lang>/words.json 읽기(없으면 빈 구조). lang 필수. */
+export function readWordsState(lang) {
+  if (!lang) throw new Error('readWordsState: lang 필수');
+  return readJson(rootPath('state', lang, 'words.json'), emptyWordsState());
 }
 
-/** state/runlog.json 읽기(없으면 빈 구조). */
-export function readRunlog() {
-  return readJson(rootPath('state', 'runlog.json'), emptyRunlog());
+/** state/<lang>/runlog.json 읽기(없으면 빈 구조). lang 필수. */
+export function readRunlog(lang) {
+  if (!lang) throw new Error('readRunlog: lang 필수');
+  return readJson(rootPath('state', lang, 'runlog.json'), emptyRunlog());
 }

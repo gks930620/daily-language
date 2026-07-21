@@ -1,6 +1,8 @@
 // validate.js — AI가 생성한 content.json의 수제 스키마 검증.
 // 외부 의존성 없이, 실패한 필드의 경로를 그대로 찍어 준다.
 
+import { LANGS } from './langs.js';
+
 function isNonEmptyString(v) {
   return typeof v === 'string' && v.trim().length > 0;
 }
@@ -8,8 +10,14 @@ function isNonEmptyString(v) {
 /**
  * content.json 검증. 에러 메시지 배열을 돌려준다(빈 배열 = 통과).
  * 각 메시지는 "필드경로: 이유" 형태.
+ * lang: 파이프라인의 --lang 값. content.lang과 교차검증하고,
+ * requiresReading 언어면 sentences/words/conversation.lines의 reading을 필수 검사한다.
  */
-export function validateContent(content, expectedDate) {
+export function validateContent(content, expectedDate, lang) {
+  if (!lang || !LANGS[lang]) {
+    throw new Error(`validateContent: 유효한 lang 필수 (받은 값: ${JSON.stringify(lang)})`);
+  }
+  const requiresReading = LANGS[lang].requiresReading;
   const errors = [];
   const push = (path, msg) => errors.push(`${path}: ${msg}`);
 
@@ -19,6 +27,12 @@ export function validateContent(content, expectedDate) {
 
   if (content.schema_version !== 1) {
     push('schema_version', `1이어야 함 (현재: ${JSON.stringify(content.schema_version)})`);
+  }
+
+  if (!isNonEmptyString(content.lang)) {
+    push('lang', `"${lang}"이어야 함 (현재: ${JSON.stringify(content.lang)})`);
+  } else if (content.lang !== lang) {
+    push('lang', `"${lang}"이어야 함 (현재: "${content.lang}")`);
   }
 
   if (!isNonEmptyString(content.date)) {
@@ -42,6 +56,9 @@ export function validateContent(content, expectedDate) {
       }
       for (const f of ['en', 'ko', 'structure']) {
         if (!isNonEmptyString(s[f])) push(`${p}.${f}`, '비어 있지 않은 문자열이어야 함');
+      }
+      if (requiresReading && !isNonEmptyString(s.reading)) {
+        push(`${p}.reading`, '비어 있지 않은 문자열이어야 함 (reading 필수 언어)');
       }
       if (s.vocab_notes !== undefined) {
         if (!Array.isArray(s.vocab_notes)) {
@@ -74,6 +91,9 @@ export function validateContent(content, expectedDate) {
       }
       for (const f of ['headword', 'pos', 'ko', 'example_en', 'example_ko']) {
         if (!isNonEmptyString(w[f])) push(`${p}.${f}`, '비어 있지 않은 문자열이어야 함');
+      }
+      if (requiresReading && !isNonEmptyString(w.reading)) {
+        push(`${p}.reading`, '비어 있지 않은 문자열이어야 함 (reading 필수 언어)');
       }
       if (w.collocations !== undefined) {
         if (!Array.isArray(w.collocations)) {
@@ -108,6 +128,9 @@ export function validateContent(content, expectedDate) {
         for (const f of ['speaker', 'en', 'ko']) {
           if (!isNonEmptyString(l?.[f])) push(`${p}.${f}`, '비어 있지 않은 문자열이어야 함');
         }
+        if (requiresReading && !isNonEmptyString(l?.reading)) {
+          push(`${p}.reading`, '비어 있지 않은 문자열이어야 함 (reading 필수 언어)');
+        }
       });
     }
     if (!Array.isArray(conv.key_expressions) || conv.key_expressions.length < 1) {
@@ -126,8 +149,8 @@ export function validateContent(content, expectedDate) {
 }
 
 /** 검증 실패 시 모든 에러를 담아 throw. 통과하면 content를 그대로 돌려준다. */
-export function assertValidContent(content, expectedDate) {
-  const errors = validateContent(content, expectedDate);
+export function assertValidContent(content, expectedDate, lang) {
+  const errors = validateContent(content, expectedDate, lang);
   if (errors.length > 0) {
     const err = new Error(
       `content.json 검증 실패 (${errors.length}건):\n- ${errors.join('\n- ')}`

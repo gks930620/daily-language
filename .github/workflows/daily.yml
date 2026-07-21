@@ -1,4 +1,4 @@
-# 매일 학습 페이지 자동 생성 — 주 실행 경로.
+# 매일 학습 페이지 자동 생성 — 주 실행 경로. 언어 트랙: en → ja 순차 실행, 언어별 커밋.
 # AI(generate)는 구독 토큰(CLAUDE_CODE_OAUTH_TOKEN 시크릿)으로 claude -p 헤드리스 실행.
 # ⚠️ ANTHROPIC_API_KEY는 절대 넣지 않는다(있으면 API 토큰당 과금이 우선 적용됨).
 name: daily
@@ -25,10 +25,10 @@ jobs:
         with:
           node-version: 22
 
-      - name: prepare — 날짜 결정, brief/review 생성
-        id: prepare
+      - name: prepare(en) — 날짜 결정, brief/review 생성
+        id: prepare-en
         run: |
-          OUT="$(node scripts/prepare.js)"
+          OUT="$(node scripts/prepare.js --lang en)"
           echo "$OUT"
           echo "date=$(echo "$OUT" | sed -n 's/^DATE=//p')" >> "$GITHUB_OUTPUT"
           if echo "$OUT" | grep -qx 'ALREADY_DONE'; then
@@ -37,47 +37,59 @@ jobs:
             echo "done=false" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: prepare(ja) — brief/review 생성
+        id: prepare-ja
+        run: |
+          OUT="$(node scripts/prepare.js --lang ja)"
+          echo "$OUT"
+          if echo "$OUT" | grep -qx 'ALREADY_DONE'; then
+            echo "done=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "done=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Claude Code 설치
-        if: steps.prepare.outputs.done == 'false'
+        if: steps.prepare-en.outputs.done == 'false' || steps.prepare-ja.outputs.done == 'false'
         run: npm install -g @anthropic-ai/claude-code
 
-      - name: generate — content.json 작성 (AI, 구독 사용량)
-        if: steps.prepare.outputs.done == 'false'
+      # ---------- EN 블록 ----------
+      - name: generate(en) — content.json 작성 (AI, 구독 사용량)
+        if: steps.prepare-en.outputs.done == 'false'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          DATE: ${{ steps.prepare.outputs.date }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
         run: |
-          claude -p "prompts/generator.md와 data/$DATE/brief.json을 읽고, generator.md 지침 그대로 data/$DATE/content.json 하나만 작성하라. 다른 파일은 절대 만들거나 수정하지 마라. 단어 선별·간격 계산은 네 일이 아니다(스크립트가 한다)." \
+          claude -p "prompts/generator.en.md와 data/en/$DATE/brief.json을 읽고 지침 그대로 data/en/$DATE/content.json 하나만 작성하라. 다른 파일 절대 생성·수정 금지. 단어 선별·간격 계산은 네 일이 아니다." \
             --model opus \
             --allowedTools "Read,Write,Edit,Glob,Grep" \
             --max-turns 30
 
-      - name: settle — 검증·SRS 반영 (검증 실패 시 정확히 1회 재생성)
-        if: steps.prepare.outputs.done == 'false'
+      - name: settle(en) — 검증·SRS 반영 (검증 실패 시 정확히 1회 재생성)
+        if: steps.prepare-en.outputs.done == 'false'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          DATE: ${{ steps.prepare.outputs.date }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
         run: |
-          if node scripts/settle.js 2>&1 | tee /tmp/settle.log; then
+          if node scripts/settle.js --lang en 2>&1 | tee /tmp/settle-en.log; then
             exit 0
           fi
-          echo "::warning::settle 검증 실패 — content.json 수정 후 1회 재시도"
-          claude -p "data/$DATE/content.json이 검증에 실패했다. /tmp/settle.log의 에러 메시지를 읽고, prompts/generator.md 지침에 맞게 data/$DATE/content.json만 고쳐라. 다른 파일은 절대 만들거나 수정하지 마라." \
+          echo "::warning::settle(en) 검증 실패 — content.json 수정 후 1회 재시도"
+          claude -p "data/en/$DATE/content.json이 검증에 실패했다. /tmp/settle-en.log의 에러 메시지를 읽고, prompts/generator.en.md 지침에 맞게 data/en/$DATE/content.json만 고쳐라. 다른 파일은 절대 만들거나 수정하지 마라." \
             --model opus \
             --allowedTools "Read,Write,Edit,Glob,Grep" \
             --max-turns 30
-          node scripts/settle.js
+          node scripts/settle.js --lang en
 
-      - name: build + verify — HTML 재생성·커밋 전 게이트
-        if: steps.prepare.outputs.done == 'false'
+      - name: build + verify(en) — HTML 재생성·커밋 전 게이트
+        if: steps.prepare-en.outputs.done == 'false'
         run: |
           node scripts/build.js
-          node scripts/verify.js
+          node scripts/verify.js --lang en
 
-      - name: commit & push
-        if: steps.prepare.outputs.done == 'false'
+      - name: commit & push(en)
+        if: steps.prepare-en.outputs.done == 'false'
         env:
-          DATE: ${{ steps.prepare.outputs.date }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -85,6 +97,56 @@ jobs:
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 생략"
           else
-            git commit -m "daily: $DATE"
+            git commit -m "daily(en): $DATE"
+            git push
+          fi
+
+      # ---------- JA 블록 ----------
+      - name: generate(ja) — content.json 작성 (AI, 구독 사용량)
+        if: steps.prepare-ja.outputs.done == 'false'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
+        run: |
+          claude -p "prompts/generator.ja.md와 data/ja/$DATE/brief.json을 읽고 지침 그대로 data/ja/$DATE/content.json 하나만 작성하라. 다른 파일 절대 생성·수정 금지. 단어 선별·간격 계산은 네 일이 아니다." \
+            --model opus \
+            --allowedTools "Read,Write,Edit,Glob,Grep" \
+            --max-turns 30
+
+      - name: settle(ja) — 검증·SRS 반영 (검증 실패 시 정확히 1회 재생성)
+        if: steps.prepare-ja.outputs.done == 'false'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
+        run: |
+          if node scripts/settle.js --lang ja 2>&1 | tee /tmp/settle-ja.log; then
+            exit 0
+          fi
+          echo "::warning::settle(ja) 검증 실패 — content.json 수정 후 1회 재시도"
+          claude -p "data/ja/$DATE/content.json이 검증에 실패했다. /tmp/settle-ja.log의 에러 메시지를 읽고, prompts/generator.ja.md 지침에 맞게 data/ja/$DATE/content.json만 고쳐라. 다른 파일은 절대 만들거나 수정하지 마라." \
+            --model opus \
+            --allowedTools "Read,Write,Edit,Glob,Grep" \
+            --max-turns 30
+          node scripts/settle.js --lang ja
+
+      - name: build + verify(ja) — HTML 재생성·커밋 전 게이트
+        if: steps.prepare-ja.outputs.done == 'false'
+        run: |
+          node scripts/build.js
+          node scripts/verify.js --lang ja
+
+      - name: commit & push(ja)
+        if: steps.prepare-ja.outputs.done == 'false'
+        env:
+          DATE: ${{ steps.prepare-en.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "daily(ja): $DATE"
+            git pull --rebase # 보험: en push 이후 원격이 앞서 있을 수 있음
             git push
           fi

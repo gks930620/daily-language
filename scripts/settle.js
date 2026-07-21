@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // settle.js — AI 산출물(content.json)을 검증하고 SRS 상태에 반영한다.
-// state/words.json을 쓰는 유일한 스크립트. 쓰기는 원자적, settled 마킹은 성공 후에만.
+// state/<lang>/words.json을 쓰는 유일한 스크립트. 쓰기는 원자적, settled 마킹은 성공 후에만.
 
 import { readFileSync, existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
@@ -12,22 +12,29 @@ import {
   readWordsState,
   readRunlog,
 } from './lib/store.js';
+import { LANGS, resolveLang } from './lib/langs.js';
 import { assertValidContent } from './lib/validate.js';
 import { promoteWord, newWordEntry, DEFAULT_INTERVALS } from './lib/srs.js';
 
-const MAX_NEW_WORDS = 20;
+/** headword 정규화: NFKC(전각/반각 등) → trim → 소문자. words.json 키와 dedup의 기준. */
+function normalizeHeadword(s) {
+  return s.normalize('NFKC').trim().toLowerCase();
+}
 
 function main() {
-  const date = resolveDate(process.argv.slice(2));
-  const runlog = readRunlog();
+  const argv = process.argv.slice(2);
+  const lang = resolveLang(argv);
+  const config = LANGS[lang];
+  const date = resolveDate(argv);
+  const runlog = readRunlog(lang);
 
   if (runlog.runs?.[date]?.settled) {
-    console.log(`이미 정산됨(${date}) — no-op.`);
+    console.log(`이미 정산됨(${lang}, ${date}) — no-op.`);
     return;
   }
 
-  const contentPath = rootPath('data', date, 'content.json');
-  const reviewPath = rootPath('data', date, 'review.json');
+  const contentPath = rootPath('data', lang, date, 'content.json');
+  const reviewPath = rootPath('data', lang, date, 'review.json');
   if (!existsSync(contentPath)) {
     console.error(`에러: ${contentPath} 없음. generator가 content.json을 먼저 만들어야 함.`);
     process.exit(1);
@@ -47,27 +54,28 @@ function main() {
   }
 
   try {
-    assertValidContent(content, date);
+    assertValidContent(content, date, lang);
   } catch (err) {
     console.error(err.message);
     process.exit(1);
   }
 
   const review = readJson(reviewPath);
-  const wordsState = readWordsState();
+  const wordsState = readWordsState(lang);
   const intervals = Array.isArray(wordsState.intervals)
     ? wordsState.intervals
     : DEFAULT_INTERVALS;
   const notes = [];
 
-  // --- 1) 신규 단어 dedup + 선별(최대 20개) ---
+  // --- 1) 신규 단어 dedup + 선별(최대 maxNewWords개) ---
   // AI의 known_words 회피는 참고일 뿐, 최종 중복 방어는 여기 코드다.
   // 크래시-재실행 가드: 오늘 이미 등록된 단어(added_on === date)를 쿼터에 포함해
   // words.json 쓰기 후 runlog 마킹 전에 죽어도 재실행에서 초과 등록되지 않는다.
+  const maxNewWords = config.maxNewWords;
   const alreadyAddedToday = Object.values(wordsState.words).filter(
     (w) => w.added_on === date
   ).length;
-  const quota = Math.max(0, MAX_NEW_WORDS - alreadyAddedToday);
+  const quota = Math.max(0, maxNewWords - alreadyAddedToday);
   if (alreadyAddedToday > 0) {
     notes.push(
       `재실행 가드: 오늘 이미 등록된 단어 ${alreadyAddedToday}개 — 신규 쿼터에 포함`
@@ -78,7 +86,7 @@ function main() {
   const duplicates = [];
   const seenInBatch = new Set();
   for (const w of content.words) {
-    const headword = w.headword.trim().toLowerCase();
+    const headword = normalizeHeadword(w.headword);
     const existing = wordsState.words[headword];
     if (existing?.added_on === date) {
       continue; // 오늘자 재실행으로 이미 등록된 단어 — 중복 집계 대상 아님
@@ -97,6 +105,7 @@ function main() {
       card: {
         pos: w.pos,
         ko: w.ko,
+        ...(w.reading ? { reading: w.reading } : {}),
         example_en: w.example_en,
         example_ko: w.example_ko,
       },
@@ -106,8 +115,8 @@ function main() {
     notes.push(`중복 단어 ${duplicates.length}개 제외: ${duplicates.join(', ')}`);
   }
   const totalNewToday = alreadyAddedToday + registered.length;
-  if (totalNewToday < MAX_NEW_WORDS) {
-    notes.push(`신규 단어 ${totalNewToday}개(<${MAX_NEW_WORDS}) — 로그만 남기고 진행`);
+  if (totalNewToday < maxNewWords) {
+    notes.push(`신규 단어 ${totalNewToday}개(<${maxNewWords}) — 로그만 남기고 진행`);
   }
   for (const { headword, card } of registered) {
     wordsState.words[headword] = newWordEntry(card, date, intervals);
@@ -145,15 +154,15 @@ function main() {
   );
   const emitted = new Set();
   const selectedWords = content.words.filter((w) => {
-    const h = w.headword.trim().toLowerCase();
+    const h = normalizeHeadword(w.headword);
     if (!selectedSet.has(h) || emitted.has(h)) return false;
     emitted.add(h);
     return true;
   });
 
   // --- 4) 원자적 쓰기: words.json → selected.json 성공 후에만 settled 마킹 ---
-  writeJsonAtomic(rootPath('state', 'words.json'), wordsState);
-  writeJsonAtomic(rootPath('data', date, 'selected.json'), {
+  writeJsonAtomic(rootPath('state', lang, 'words.json'), wordsState);
+  writeJsonAtomic(rootPath('data', lang, date, 'selected.json'), {
     date,
     words: selectedWords,
   });
@@ -167,10 +176,10 @@ function main() {
     content_sha256: sha256,
     notes,
   };
-  writeJsonAtomic(rootPath('state', 'runlog.json'), runlog);
+  writeJsonAtomic(rootPath('state', lang, 'runlog.json'), runlog);
 
   console.log(
-    `정산 완료(${date}): 신규 ${registered.length}개, 승급 ${promoted}개, 중복 제외 ${duplicates.length}개, 선별 ${selectedWords.length}개`
+    `정산 완료(${lang}, ${date}): 신규 ${registered.length}개, 승급 ${promoted}개, 중복 제외 ${duplicates.length}개, 선별 ${selectedWords.length}개`
   );
   for (const n of notes) console.log(`- ${n}`);
 }

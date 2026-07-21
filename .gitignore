@@ -5,8 +5,8 @@ Thumbs.db
 *.tmp
 
 # 공개 저장소에 개인 하네스 문서(.claude/agents, auto-ai 등)는 올리지 않는다.
-# 이 프로젝트 전용 스킬(daily-english-run)만 예외로 커밋.
+# 이 프로젝트 전용 스킬(daily-run)만 예외로 커밋.
 .claude/*
 !.claude/skills/
 .claude/skills/*
-!.claude/skills/daily-english-run/
+!.claude/skills/daily-run/

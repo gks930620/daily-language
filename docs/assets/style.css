@@ -1,4 +1,4 @@
-/* 매일 영어 학습 — GitHub Pages 정적 스타일. JS 없음, 시스템 폰트, 다크모드 지원. */
+/* 매일 언어 학습 — GitHub Pages 정적 스타일. JS 없음, 시스템 폰트, 다크모드 지원. */
 
 :root {
   --bg: #ffffff;
@@ -217,4 +217,45 @@ details p {
 
 .latest-date {
   color: var(--muted);
+}
+
+/* reading(발음 보조 — 일본어 히라가나 등). 작고 옅은 보조 텍스트, 다크모드는 변수로 대응. */
+.reading {
+  color: var(--muted);
+  font-size: 0.88em;
+}
+
+p.reading {
+  margin: 0.15rem 0;
+}
+
+/* 허브(언어 선택) 페이지 */
+.lang-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.lang-item {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.lang-item h2 {
+  margin: 0 0 0.35rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.lang-item .latest {
+  margin: 0;
+  color: var(--muted);
+}
+
+/* 언어 인덱스 → 허브로 돌아가는 링크 */
+.hub-link {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
 }

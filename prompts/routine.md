@@ -1,5 +1,7 @@
 # routine.md — claude.ai 클라우드 루틴에 붙여넣을 프롬프트 원본 (예비 경로)
 
+> ⚠️ 이 문서는 언어 축(en/ja) 도입 **이전** 기준이다 — 사용 전 갱신 필요(--lang, data/<lang>/ 경로 등).
+
 **현재 주 실행 경로는 GitHub Actions(`.github/workflows/daily.yml`)다.** 이 파일은 Actions가 장기 불안정할 때 claude.ai 루틴으로 전환하기 위한 예비다(claude.ai GitHub 연동 필요).
 
 아래 블록 전체를 claude.ai 루틴(매일 21:00 UTC = 06:00 KST)에 붙여넣는다.
