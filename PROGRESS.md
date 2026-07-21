@@ -2,7 +2,7 @@
 
 > 갱신 규칙: 작업 단위가 끝날 때마다 이 파일을 갱신하고 커밋·push한다. 새 세션은 이 파일 + `git log --oneline -15`로 상태를 복원한다.
 
-**마지막 갱신**: 2026-07-21 밤 (커밋 직전)
+**마지막 갱신**: 2026-07-22 오전
 
 ## 완료·push됨
 
@@ -15,7 +15,7 @@
 
 | 작업 | 산출 위치 | 상태 |
 |---|---|---|
-| A. 허브를 날짜 내림차순 리스트로 + B. 오늘의 문단(passage_note 필수, 문단→문장별 분석 렌더) | scripts/·prompts/·fixtures/·tests/·docs/ (단일 커밋 예정, push는 오케스트레이터) | 진행 중 — **오늘 밤 3시 실행 전 push 필수** |
+| A. 허브 날짜 리스트 + B. 오늘의 문단 | scripts/·prompts/·fixtures/·tests/·docs/ | ✅ **완료·push** (테스트 46, 3트랙 verify 통과, 과거 데이터 하위 호환. 문단 형식은 2026-07-23 생성분부터) |
 | 기초 1권: 대화 입문 8주 48유닛 | basics/ja/book1-conversation/ | 진행 중 |
 | 기초 2권: 기본 문법(5단/1단/불규칙 방식) part1~4 | basics/ja/book2-grammar/ | 진행 중 |
 | 기초 3권: 필수 표현 12챕터 350+ | basics/ja/book3-expressions/ | 진행 중 |
