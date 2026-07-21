@@ -56,7 +56,14 @@
       "ko": "완화하다, 경감시키다",
       "example_en": "The new policy is intended to mitigate the impact of rising prices.",
       "example_ko": "새 정책은 물가 상승의 충격을 완화하기 위한 것이다.",
-      "collocations": ["mitigate risk", "mitigate the impact"]
+      "collocations": ["mitigate risk", "mitigate the impact"],
+      "note": "어원: mit-(보내다) — 충격·피해를 '보내 버려' 가볍게 한다. submit(밑으로 보내다=제출)·transmit(가로질러 보내다=전송)과 같은 뿌리.",
+      "family": [
+        { "word": "mitigation", "pos": "n.", "ko": "완화 — climate mitigation(기후 완화)로 시사 빈출" }
+      ],
+      "related": [
+        { "word": "alleviate", "ko": "완화하다", "note": "거의 동의어 — alleviate는 고통·부담에, mitigate는 위험·피해에 잘 붙는다" }
+      ]
     },
     {
       "headword": "feasible",
@@ -64,7 +71,11 @@
       "ko": "실현 가능한",
       "example_en": "The committee concluded that the plan was not financially feasible.",
       "example_ko": "위원회는 그 계획이 재정적으로 실현 가능하지 않다고 결론지었다.",
-      "collocations": ["a feasible plan", "economically feasible"]
+      "collocations": ["a feasible plan", "economically feasible"],
+      "note": "어원: 라틴어 facere(하다) — '해볼 수 있는'. fact·factory와 같은 뿌리. 계획·안이 '실행해 볼 만한'인지 말할 때 쓴다.",
+      "family": [
+        { "word": "feasibility", "pos": "n.", "ko": "실현 가능성 — feasibility study(타당성 조사)가 비즈니스 빈출" }
+      ]
     },
     {
       "headword": "comply",
@@ -72,7 +83,12 @@
       "ko": "(규정 등을) 준수하다, 따르다",
       "example_en": "All employees must comply with the updated safety regulations.",
       "example_ko": "모든 직원은 개정된 안전 규정을 준수해야 한다.",
-      "collocations": ["comply with regulations", "fail to comply"]
+      "collocations": ["comply with regulations", "fail to comply"],
+      "note": "comply with가 한 덩어리 — 토익은 전치사 with를 빈칸으로 낸다. 파생형은 품사별로 comply(v.)/compliance(n.)/compliant(a.)로 갈아 끼우는 문제가 단골.",
+      "family": [
+        { "word": "compliance", "pos": "n.", "ko": "준수 — in compliance with(~을 준수하여)" },
+        { "word": "compliant", "pos": "a.", "ko": "준수하는, 따르는" }
+      ]
     },
     {
       "headword": "discrepancy",
@@ -80,7 +96,11 @@
       "ko": "불일치, 차이",
       "example_en": "The audit revealed a discrepancy between the two financial reports.",
       "example_ko": "감사 결과 두 재무 보고서 간의 불일치가 드러났다.",
-      "collocations": ["a discrepancy between A and B", "resolve a discrepancy"]
+      "collocations": ["a discrepancy between A and B", "resolve a discrepancy"],
+      "note": "dis-(어긋나게) — 서류·수치가 '서로 어긋나 있음'. 회계·감사 지문 단골 단어.",
+      "related": [
+        { "word": "difference", "ko": "차이", "note": "difference는 중립적인 차이, discrepancy는 '일치해야 하는데 어긋난' 차이(장부 대 장부)" }
+      ]
     },
     {
       "headword": "lucrative",
@@ -88,7 +108,11 @@
       "ko": "수익성이 좋은",
       "example_en": "She turned down a lucrative offer to stay with her current team.",
       "example_ko": "그녀는 현재 팀에 남기 위해 수익성 좋은 제안을 거절했다.",
-      "collocations": ["a lucrative contract", "a lucrative market"]
+      "collocations": ["a lucrative contract", "a lucrative market"],
+      "note": "lucre(돈·이득)에서 — '돈이 되는'. 계약·시장·사업(contract, market, business)에 붙는 격식체.",
+      "related": [
+        { "word": "profitable", "ko": "수익성 있는", "note": "거의 동의어 — profitable은 폭넓게, lucrative는 '꽤 짭짤한' 뉘앙스의 격식체" }
+      ]
     },
     {
       "headword": "tentative",
@@ -96,7 +120,11 @@
       "ko": "잠정적인, 임시의",
       "example_en": "We have set a tentative date for the product launch in March.",
       "example_ko": "우리는 3월로 제품 출시 잠정 날짜를 잡았다.",
-      "collocations": ["a tentative schedule", "a tentative agreement"]
+      "collocations": ["a tentative schedule", "a tentative agreement"],
+      "note": "어원: tentare(시도하다) — '아직 시도 단계인' = 확정 아님. tentative schedule(잠정 일정) 덩어리로 암기.",
+      "related": [
+        { "word": "definitive", "ko": "최종 확정된", "note": "반대 방향 — tentative(잠정) ↔ definitive(확정) 짝으로 외운다" }
+      ]
     },
     {
       "headword": "unprecedented",
@@ -104,7 +132,12 @@
       "ko": "전례 없는",
       "example_en": "The company reported unprecedented growth in overseas sales.",
       "example_ko": "그 회사는 해외 매출에서 전례 없는 성장을 보고했다.",
-      "collocations": ["on an unprecedented scale", "an unprecedented level"]
+      "collocations": ["on an unprecedented scale", "an unprecedented level"],
+      "note": "un-(없는) + precedent(선례) + -ed — '선례가 없는'. pre-(앞서) + cede(가다)로 쪼개면 precede(앞서가다)까지 같이 잡힌다.",
+      "family": [
+        { "word": "precede", "pos": "v.", "ko": "앞서다, 먼저 일어나다" },
+        { "word": "precedent", "pos": "n.", "ko": "선례, 전례 — set a precedent(선례를 만들다)" }
+      ]
     },
     {
       "headword": "reimburse",
@@ -112,7 +145,11 @@
       "ko": "(비용을) 환급하다, 배상하다",
       "example_en": "The company will reimburse you for travel expenses within two weeks.",
       "example_ko": "회사는 2주 이내에 출장 경비를 환급해 줄 것이다.",
-      "collocations": ["reimburse expenses", "be reimbursed for"]
+      "collocations": ["reimburse expenses", "be reimbursed for"],
+      "note": "re-(도로) + bourse(지갑) — '지갑에 도로 넣어 주다'. 회사가 직원 경비를 정산해 줄 때 쓴다.",
+      "related": [
+        { "word": "refund", "ko": "환불하다", "note": "refund는 상점→고객 환불, reimburse는 회사→직원 경비 정산 — 방향이 다르다" }
+      ]
     },
     {
       "headword": "streamline",
@@ -120,7 +157,8 @@
       "ko": "(절차 등을) 간소화하다, 효율화하다",
       "example_en": "The firm streamlined its hiring process to cut the waiting time in half.",
       "example_ko": "그 회사는 대기 시간을 절반으로 줄이기 위해 채용 절차를 간소화했다.",
-      "collocations": ["streamline the process", "streamline operations"]
+      "collocations": ["streamline the process", "streamline operations"],
+      "note": "stream(물줄기) + line — 물이 흐르듯 매끈하게 만든다는 그림. '군더더기 제거'의 긍정적 뉘앙스라 경영 지문에서 칭찬조로 쓰인다."
     },
     {
       "headword": "endorse",
@@ -128,7 +166,11 @@
       "ko": "지지하다, (공개적으로) 보증하다",
       "example_en": "Several leading economists have endorsed the proposed tax reform.",
       "example_ko": "몇몇 저명한 경제학자들이 제안된 세제 개혁을 지지했다.",
-      "collocations": ["endorse a candidate", "publicly endorse"]
+      "collocations": ["endorse a candidate", "publicly endorse"],
+      "note": "원뜻은 '수표 뒷면(dorse=등)에 서명하다' — 서명으로 보증하던 데서 공개 지지로 확장. 유명인의 광고 '보증'도 endorse.",
+      "family": [
+        { "word": "endorsement", "pos": "n.", "ko": "지지, (유명인의) 광고 보증" }
+      ]
     },
     {
       "headword": "plausible",
@@ -136,7 +178,11 @@
       "ko": "그럴듯한, 타당해 보이는",
       "example_en": "He offered a plausible explanation for the sudden drop in sales.",
       "example_ko": "그는 매출 급감에 대해 그럴듯한 설명을 내놓았다.",
-      "collocations": ["a plausible explanation", "sound plausible"]
+      "collocations": ["a plausible explanation", "sound plausible"],
+      "note": "어원: plaud-(박수 치다, applaud와 같은 뿌리) — '박수받을 만큼 그럴듯한'. 진짜라는 보장은 없다는 유보적 뉘앙스가 핵심.",
+      "related": [
+        { "word": "possible", "ko": "가능한", "note": "possible은 가능성 자체, plausible은 '설명이 그럴듯해서 믿길 만함' — 설명·가설에 붙는다" }
+      ]
     },
     {
       "headword": "subsidiary",
@@ -144,7 +190,12 @@
       "ko": "자회사",
       "example_en": "The conglomerate announced plans to sell its struggling overseas subsidiary.",
       "example_ko": "그 대기업은 부진한 해외 자회사를 매각할 계획을 발표했다.",
-      "collocations": ["a wholly-owned subsidiary", "an overseas subsidiary"]
+      "collocations": ["a wholly-owned subsidiary", "an overseas subsidiary"],
+      "note": "sub-(아래) + sid-(앉다) — 모회사 '아래에 앉은' 회사. 보조금 계열(subsidy·subsidize)과 같은 뿌리로 묶어 암기.",
+      "family": [
+        { "word": "subsidize", "pos": "v.", "ko": "보조금을 주다" },
+        { "word": "subsidy", "pos": "n.", "ko": "보조금 — government subsidy(정부 보조금)" }
+      ]
     },
     {
       "headword": "negligible",
@@ -152,7 +203,13 @@
       "ko": "무시해도 될 정도의, 미미한",
       "example_en": "The price difference between the two models is negligible.",
       "example_ko": "두 모델 간의 가격 차이는 무시해도 될 정도다.",
-      "collocations": ["a negligible effect", "a negligible amount"]
+      "collocations": ["a negligible effect", "a negligible amount"],
+      "note": "neglect(방치하다)에서 — '방치해도 될 만큼 작은'. 같은 뿌리인데 negligence(과실)는 법률 용어로 뜻이 갈라진다.",
+      "family": [
+        { "word": "neglect", "pos": "v.", "ko": "방치하다, 소홀히 하다" },
+        { "word": "negligence", "pos": "n.", "ko": "과실, 부주의 — 법률 지문 빈출('태만'이지 '미미함'이 아님)" },
+        { "word": "negligent", "pos": "a.", "ko": "부주의한, 태만한" }
+      ]
     },
     {
       "headword": "reluctant",
@@ -160,7 +217,12 @@
       "ko": "꺼리는, 마지못해 하는",
       "example_en": "Many managers are reluctant to give negative feedback in person.",
       "example_ko": "많은 관리자들이 부정적인 피드백을 직접 전하는 것을 꺼린다.",
-      "collocations": ["be reluctant to do", "a reluctant admission"]
+      "collocations": ["be reluctant to do", "a reluctant admission"],
+      "note": "re-(맞서) + luct-(싸우다) — 마음이 '맞서 버티는' 상태. be reluctant to do 덩어리로 외운다.",
+      "family": [
+        { "word": "reluctance", "pos": "n.", "ko": "꺼림, 마지못함" },
+        { "word": "reluctantly", "pos": "adv.", "ko": "마지못해" }
+      ]
     },
     {
       "headword": "consolidate",
@@ -168,7 +230,11 @@
       "ko": "통합하다, (지위를) 공고히 하다",
       "example_en": "The bank plans to consolidate its regional branches into three main offices.",
       "example_ko": "그 은행은 지역 지점들을 세 개의 본점으로 통합할 계획이다.",
-      "collocations": ["consolidate one's position", "consolidate operations"]
+      "collocations": ["consolidate one's position", "consolidate operations"],
+      "note": "con-(함께) + solid(단단한) — 흩어진 것을 합쳐 단단하게. '통합'과 '(지위) 강화' 두 뜻 모두 이 한 그림에서 나온다.",
+      "family": [
+        { "word": "consolidation", "pos": "n.", "ko": "통합, 합병" }
+      ]
     },
     {
       "headword": "provision",
@@ -176,7 +242,12 @@
       "ko": "(법률·계약의) 조항; 공급, 대비",
       "example_en": "Under the new provision, part-time workers are entitled to paid leave.",
       "example_ko": "새 조항에 따라 시간제 근로자도 유급 휴가를 받을 수 있다.",
-      "collocations": ["under the provision", "make provision for"]
+      "collocations": ["under the provision", "make provision for"],
+      "note": "pro-(미리) + vis-(보다) — '미리 내다봄'에서 대비·공급, 계약서의 '조항'까지. provide와 같은 뿌리인데 명사가 되면 '조항' 뜻이 새로 생기는 것에 주의.",
+      "family": [
+        { "word": "provide", "pos": "v.", "ko": "제공하다" },
+        { "word": "provider", "pos": "n.", "ko": "공급자, 제공 업체" }
+      ]
     },
     {
       "headword": "deteriorate",
@@ -184,7 +255,11 @@
       "ko": "악화되다",
       "example_en": "Relations between the two firms deteriorated after the failed merger.",
       "example_ko": "합병 실패 이후 두 회사의 관계는 악화되었다.",
-      "collocations": ["deteriorate rapidly", "deteriorating conditions"]
+      "collocations": ["deteriorate rapidly", "deteriorating conditions"],
+      "note": "deterior(더 나쁜)의 동사형 — 서서히 나빠지는 그림. 관계·건강·상황이 주어로 오는 자동사다(목적어를 받지 않음).",
+      "related": [
+        { "word": "improve", "ko": "개선되다", "note": "반대 방향 — deteriorate ↔ improve 짝으로 외운다" }
+      ]
     },
     {
       "headword": "adjacent",
@@ -192,7 +267,8 @@
       "ko": "인접한",
       "example_en": "The new office building is adjacent to the subway station.",
       "example_ko": "새 사무실 건물은 지하철역과 인접해 있다.",
-      "collocations": ["adjacent to", "an adjacent building"]
+      "collocations": ["adjacent to", "an adjacent building"],
+      "note": "ad-(옆에) + jac-(눕다) — '옆에 누워 있는'. adjacent to까지 한 덩어리로 — 토익은 to를 빈칸으로 낸다."
     },
     {
       "headword": "incentive",
@@ -200,7 +276,8 @@
       "ko": "유인책, 장려금",
       "example_en": "The city offers tax incentives to attract foreign investment.",
       "example_ko": "그 도시는 외국인 투자를 유치하기 위해 세제 혜택을 제공한다.",
-      "collocations": ["a tax incentive", "an incentive to do"]
+      "collocations": ["a tax incentive", "an incentive to do"],
+      "note": "어원: incendere(불붙이다) — 행동에 '불을 붙이는' 것. tax incentive(세제 혜택), incentive to do(~할 유인) 덩어리로 암기."
     },
     {
       "headword": "surge",
@@ -208,7 +285,11 @@
       "ko": "급증(하다), 급등(하다)",
       "example_en": "Online orders surged during the holiday shopping season.",
       "example_ko": "연말 쇼핑 시즌 동안 온라인 주문이 급증했다.",
-      "collocations": ["a surge in demand", "surge dramatically"]
+      "collocations": ["a surge in demand", "surge dramatically"],
+      "note": "파도가 솟구치는 그림 — 명사로는 a surge in demand(수요 급증)처럼 전치사 in과 함께. 뉴스 헤드라인 빈출.",
+      "related": [
+        { "word": "plunge", "ko": "급락(하다)", "note": "반대 방향 — surge(급등) ↔ plunge(급락) 짝. 주가·환율 기사에서 세트로 나온다" }
+      ]
     },
     {
       "headword": "compensate",
@@ -216,7 +297,24 @@
       "ko": "보상하다, 보완하다",
       "example_en": "The airline offered vouchers to compensate passengers for the delay.",
       "example_ko": "항공사는 지연에 대해 승객들에게 보상하고자 바우처를 제공했다.",
-      "collocations": ["compensate for", "be compensated for"]
+      "collocations": ["compensate for", "be compensated for"],
+      "note": "com- + pens-(무게를 달다 — pension·expense와 같은 뿌리) — 저울을 맞추듯 '벌충'하는 그림. compensate A for B 구문으로 외운다.",
+      "family": [
+        { "word": "compensation", "pos": "n.", "ko": "보상(금); 급여 — 미국식 구인 공고의 compensation은 '연봉 패키지'" }
+      ]
+    },
+    {
+      "headword": "belated",
+      "pos": "a.",
+      "ko": "뒤늦은, 때늦은",
+      "example_en": "He sent a belated reply apologizing for the two-week silence.",
+      "example_ko": "그는 2주간의 무응답을 사과하는 뒤늦은 답장을 보냈다.",
+      "collocations": ["a belated reply", "belated birthday wishes"],
+      "note": "be- + late — '이미 때를 놓친'. late 계열은 형태가 비슷한데 뜻이 갈라지는 대표 혼동 세트다.",
+      "related": [
+        { "word": "late", "ko": "늦은; 늦게", "note": "형용사·부사 둘 다 late(arrive late). belated는 '시기를 놓친 것'에 초점" },
+        { "word": "lately", "ko": "최근에", "note": "late의 부사형처럼 보이지만 뜻이 전혀 다르다 — '최근에'(= recently). I've been busy lately." }
+      ]
     },
     {
       "headword": "exempt",
@@ -224,7 +322,11 @@
       "ko": "면제된; 면제하다",
       "example_en": "Small businesses are exempt from the new reporting requirement.",
       "example_ko": "소기업은 새 보고 의무에서 면제된다.",
-      "collocations": ["be exempt from", "tax-exempt"]
+      "collocations": ["be exempt from", "tax-exempt"],
+      "note": "ex-(밖으로) + empt-(잡다) — 의무 '밖으로 빼내진'. be exempt from 덩어리로 — 토익은 from을 빈칸으로 낸다.",
+      "family": [
+        { "word": "exemption", "pos": "n.", "ko": "면제 — tax exemption(세금 면제)" }
+      ]
     },
     {
       "headword": "audit",
@@ -232,23 +334,26 @@
       "ko": "회계 감사(를 하다)",
       "example_en": "An external firm will audit the company's accounts next month.",
       "example_ko": "외부 회사가 다음 달 그 회사의 회계를 감사할 것이다.",
-      "collocations": ["an external audit", "conduct an audit"]
+      "collocations": ["an external audit", "conduct an audit"],
+      "note": "어원: audi-(듣다, audio와 같은 뿌리) — 옛날에 장부를 소리 내어 '읽어 들려주며' 검사한 데서. 감사·회계 지문 단골.",
+      "family": [
+        { "word": "auditor", "pos": "n.", "ko": "감사관, 회계 감사인" },
+        { "word": "auditorium", "pos": "n.", "ko": "강당 — 같은 '듣다' 뿌리로 묶어 두면 안 잊힌다" }
+      ]
     },
     {
-      "headword": "redundant",
+      "headword": "successive",
       "pos": "a.",
-      "ko": "불필요한, (영국식) 정리해고된",
-      "example_en": "The merger made hundreds of positions redundant.",
-      "example_ko": "합병으로 수백 개의 일자리가 불필요해졌다.",
-      "collocations": ["make ~ redundant", "redundant information"]
-    },
-    {
-      "headword": "viable",
-      "pos": "a.",
-      "ko": "실행 가능한, 성공할 수 있는",
-      "example_en": "Solar power has become a commercially viable alternative to coal.",
-      "example_ko": "태양광 발전은 석탄의 상업적으로 실행 가능한 대안이 되었다.",
-      "collocations": ["a viable alternative", "commercially viable"]
+      "ko": "연속적인, 연이은",
+      "example_en": "The company reported losses for three successive quarters.",
+      "example_ko": "그 회사는 3분기 연속 손실을 보고했다.",
+      "collocations": ["three successive quarters", "successive governments"],
+      "note": "succeed는 '성공하다'와 '뒤를 잇다' 두 갈래 — successive·succession은 '잇다' 계열, successful·success는 '성공' 계열로 뜻이 갈라지는 대표 파생 세트.",
+      "family": [
+        { "word": "succeed", "pos": "v.", "ko": "성공하다; 뒤를 잇다(succeed to the throne)" },
+        { "word": "successful", "pos": "a.", "ko": "성공적인" },
+        { "word": "succession", "pos": "n.", "ko": "연속; 계승 — '성공'이 아님에 주의(in succession = 연이어)" }
+      ]
     }
   ],
   "conversation": {

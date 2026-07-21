@@ -108,6 +108,10 @@ function main() {
         ...(w.reading ? { reading: w.reading } : {}),
         example_en: w.example_en,
         example_ko: w.example_ko,
+        // 단어 지식 — 있을 때만 스냅샷(reading과 같은 패턴). 복습 퀴즈 정답에서 재노출된다.
+        ...(w.note ? { note: w.note } : {}),
+        ...(Array.isArray(w.family) && w.family.length > 0 ? { family: w.family } : {}),
+        ...(Array.isArray(w.related) && w.related.length > 0 ? { related: w.related } : {}),
       },
     });
   }

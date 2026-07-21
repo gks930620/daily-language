@@ -60,7 +60,33 @@ ${items}
 </section>`;
 }
 
-/** ② 오늘의 단어 섹션(표). reading은 있으면 headword 셀 안에 렌더한다. */
+/**
+ * 단어 지식(note·family·related) 보조 렌더 — "있으면 렌더" 원칙(reading과 동일).
+ * 단어 표의 예문 셀 하단과 복습 퀴즈 정답 안에서 공유한다.
+ * 반환물은 클래스가 다른 서브 요소뿐 — verify의 마커(<tr class="word-row"> 등)와 겹치지 않는다.
+ */
+export function renderWordKnowledge(w) {
+  if (!w) return '';
+  const parts = [];
+  if (w.note) {
+    parts.push(`<p class="word-note">💡 ${esc(w.note)}</p>`);
+  }
+  if (Array.isArray(w.family) && w.family.length > 0) {
+    const items = w.family
+      .map((m) => `<b>${esc(m.word)}</b>${m.pos ? `(${esc(m.pos)})` : ''} ${esc(m.ko)}`)
+      .join(' · ');
+    parts.push(`<p class="word-family">파생: ${items}</p>`);
+  }
+  if (Array.isArray(w.related) && w.related.length > 0) {
+    const items = w.related
+      .map((r) => `<b>${esc(r.word)}</b>${r.ko ? `(${esc(r.ko)})` : ''} — ${esc(r.note)}`)
+      .join(' · ');
+    parts.push(`<p class="word-related">구분: ${items}</p>`);
+  }
+  return parts.join('\n');
+}
+
+/** ② 오늘의 단어 섹션(표). reading은 headword 셀에, 단어 지식은 예문 셀 하단에 — 둘 다 있으면 렌더. */
 export function renderWords(words) {
   const rows = words
     .map((w) => {
@@ -71,11 +97,12 @@ export function renderWords(words) {
       const reading = w.reading
         ? `<br><small class="reading">${esc(w.reading)}</small>`
         : '';
+      const knowledge = renderWordKnowledge(w);
       return `<tr class="word-row">
 <td class="headword"><b>${esc(w.headword)}</b>${reading}${colls}</td>
 <td class="pos">${esc(w.pos)}</td>
 <td class="meaning">${esc(w.ko)}</td>
-<td class="example"><span class="en">${esc(w.example_en)}</span><br><small class="ko">${esc(w.example_ko)}</small></td>
+<td class="example"><span class="en">${esc(w.example_en)}</span><br><small class="ko">${esc(w.example_ko)}</small>${knowledge ? `\n${knowledge}` : ''}</td>
 </tr>`;
     })
     .join('\n');
@@ -128,13 +155,15 @@ export function renderQuiz(dueWords) {
       const reading = d.card?.reading
         ? `<p class="reading">${esc(d.card.reading)}</p>\n`
         : '';
+      // card에 note/family/related가 있으면 정답과 함께 렌더 — 복습 때마다 지식 재노출.
+      const knowledge = renderWordKnowledge(d.card);
       return `<li class="quiz-item">
 <p class="quiz-word"><b>${esc(d.headword)}</b></p>
 <p class="quiz-example en">${esc(d.card?.example_en ?? '')}</p>
 <details><summary>정답</summary>
 ${reading}<p class="answer">${esc(d.card?.pos ?? '')} ${esc(d.card?.ko ?? '')}</p>
 <p class="ko">${esc(d.card?.example_ko ?? '')}</p>
-</details>
+${knowledge ? `${knowledge}\n` : ''}</details>
 </li>`;
     })
     .join('\n');

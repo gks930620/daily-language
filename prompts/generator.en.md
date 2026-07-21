@@ -45,7 +45,25 @@
       "ko": "완화하다",
       "example_en": "The new policy is intended to mitigate the impact of rising prices.",
       "example_ko": "새 정책은 물가 상승의 충격을 완화하기 위한 것이다.",
-      "collocations": ["mitigate risk", "mitigate the impact"]
+      "collocations": ["mitigate risk", "mitigate the impact"],
+      "note": "어원: mit-(보내다) — 충격·피해를 '보내 버려' 가볍게 한다. submit(밑으로 보내다=제출)·transmit(가로질러 보내다=전송)과 같은 뿌리.",
+      "related": [
+        { "word": "alleviate", "ko": "완화하다", "note": "거의 동의어 — alleviate는 고통·부담에, mitigate는 위험·피해에 잘 붙는다" }
+      ]
+    },
+    {
+      "headword": "successive",
+      "pos": "a.",
+      "ko": "연속적인",
+      "example_en": "The company reported losses for three successive quarters.",
+      "example_ko": "그 회사는 3분기 연속 손실을 보고했다.",
+      "collocations": ["three successive quarters"],
+      "note": "succeed는 '성공하다'와 '뒤를 잇다' 두 갈래 — successive·succession은 '잇다' 계열, successful·success는 '성공' 계열로 뜻이 갈라진다.",
+      "family": [
+        { "word": "succeed", "pos": "v.", "ko": "성공하다; 뒤를 잇다" },
+        { "word": "successful", "pos": "a.", "ko": "성공적인" },
+        { "word": "succession", "pos": "n.", "ko": "연속; 계승 — '성공'이 아님에 주의" }
+      ]
     }
   ],
   "conversation": {
@@ -66,7 +84,9 @@
 - `lang`은 정확히 `"en"`.
 - `date`는 brief.json의 date와 정확히 일치.
 - `sentences` 정확히 **5개**. 각각 `en`, `ko`, `structure` 필수(비어 있으면 안 됨).
-- `words` **20~25개**. 각각 `headword`, `pos`, `ko`, `example_en`, `example_ko` 필수.
+- `words` **20~25개**. 각각 `headword`, `pos`, `ko`, `example_en`, `example_ko`, **`note`** 필수.
+- `words[].family`는 선택 — 있으면 각 항목에 `word`·`ko` 필수(`pos`는 선택).
+- `words[].related`는 선택 — 있으면 각 항목에 `word`·`note` 필수(`ko`는 선택).
 - `conversation.lines` **6개 이상**, `key_expressions` 1개 이상.
 
 ## 콘텐츠 지침
@@ -83,7 +103,9 @@
 ### 단어 후보 25개 (words)
 
 - 너는 **후보 25개**를 낸다. 이후 settle 스크립트가 중복을 걸러 최종 20개를 `selected.json`으로 선별하고, 페이지와 SRS에는 그 20개만 들어간다. 선별은 네 일이 아니다.
-- 구간: 토익 700→900 필수 어휘, 수능 고난도 어휘, 시사(뉴스) 빈출 어휘를 섞는다.
+- **선정 원칙 — 무작위 나열 금지**: 후보 25개 중 **최소 절반은 그날의 회화 주제·문장 소재와 연관된 단어**로 뽑는다(같은 장면·주제에서 함께 쓰이는 단어 클러스터 — 연관된 단어가 잘 외워진다). 나머지는 토익 700→900 필수 어휘, 수능 고난도 어휘, 시사(뉴스) 빈출 어휘 등 프로필 구간의 핵심 어휘로 채운다.
+- **note(단어 지식)는 예문보다 중요하다(사용자 확정)**: 모든 단어에 그 단어가 외워지게 만드는 지식을 한국어 한 줄~두 줄로 단다 — 어원, 파생 규칙(-tion/-ive/-ful이 붙을 때의 뜻 변화), 혼동어와의 차이, 뉘앙스, 기억법 중 **가장 유용한 것 하나**를 고른다. "자주 쓰이는 단어다"류의 하나 마나 한 소리는 금지.
+- 파생형이 있으면 `family`에, 혼동하기 쉬운 단어가 있으면 `related`에 **반드시 담아라**. 파생에서 뜻이 갈라지는 세트(succeed 성공하다/뒤를 잇다 → succession 연속·계승)는 최우선. 혼동어 예: late(늦은) vs lately(최근에 — 뜻이 전혀 다름).
 - `known_words`에 있는 단어는 **절대 넣지 않는다** (최종 방어는 코드가 하지만, 겹치면 그날 신규 단어가 줄어든다).
 - 예문은 토익/시사 맥락의 자연스러운 문장으로, 한국어 해석을 함께 단다.
 - `collocations`는 실제로 자주 쓰이는 연어 1~3개.

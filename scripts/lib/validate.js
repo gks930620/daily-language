@@ -89,7 +89,8 @@ export function validateContent(content, expectedDate, lang) {
         push(p, '객체여야 함');
         return;
       }
-      for (const f of ['headword', 'pos', 'ko', 'example_en', 'example_ko']) {
+      // note(단어 지식)는 전 트랙 필수 — 무작위 나열 대신 암기를 돕는 지식 한 줄(사용자 확정).
+      for (const f of ['headword', 'pos', 'ko', 'example_en', 'example_ko', 'note']) {
         if (!isNonEmptyString(w[f])) push(`${p}.${f}`, '비어 있지 않은 문자열이어야 함');
       }
       if (requiresReading && !isNonEmptyString(w.reading)) {
@@ -102,6 +103,40 @@ export function validateContent(content, expectedDate, lang) {
           w.collocations.forEach((c, j) => {
             if (!isNonEmptyString(c)) {
               push(`${p}.collocations[${j}]`, '비어 있지 않은 문자열이어야 함');
+            }
+          });
+        }
+      }
+      // family(파생형)는 선택 — 있으면 항목별로 word·ko 필수, pos 선택.
+      if (w.family !== undefined) {
+        if (!Array.isArray(w.family)) {
+          push(`${p}.family`, '배열이어야 함');
+        } else {
+          w.family.forEach((m, j) => {
+            for (const f of ['word', 'ko']) {
+              if (!isNonEmptyString(m?.[f])) {
+                push(`${p}.family[${j}].${f}`, '비어 있지 않은 문자열이어야 함');
+              }
+            }
+            if (m?.pos !== undefined && !isNonEmptyString(m.pos)) {
+              push(`${p}.family[${j}].pos`, '있으면 비어 있지 않은 문자열이어야 함');
+            }
+          });
+        }
+      }
+      // related(혼동어·유의어·반의어)도 선택 — 있으면 항목별로 word·note 필수, ko 선택.
+      if (w.related !== undefined) {
+        if (!Array.isArray(w.related)) {
+          push(`${p}.related`, '배열이어야 함');
+        } else {
+          w.related.forEach((r, j) => {
+            for (const f of ['word', 'note']) {
+              if (!isNonEmptyString(r?.[f])) {
+                push(`${p}.related[${j}].${f}`, '비어 있지 않은 문자열이어야 함');
+              }
+            }
+            if (r?.ko !== undefined && !isNonEmptyString(r.ko)) {
+              push(`${p}.related[${j}].ko`, '있으면 비어 있지 않은 문자열이어야 함');
             }
           });
         }

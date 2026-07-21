@@ -225,6 +225,22 @@ details p {
   font-size: 0.88em;
 }
 
+/* 단어 지식(note·파생 family·혼동어 related) — 단어 표 예문 셀 하단과 퀴즈 정답에 공용.
+   표가 답답해지지 않게 옅은 색·작은 글씨, 다크모드는 변수로 대응. */
+.word-note,
+.word-family,
+.word-related {
+  margin: 0.3rem 0 0;
+  color: var(--muted);
+  font-size: 0.88em;
+  line-height: 1.5;
+}
+
+.word-family b,
+.word-related b {
+  font-weight: 600;
+}
+
 p.reading {
   margin: 0.15rem 0;
 }

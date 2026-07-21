@@ -128,3 +128,50 @@ test('content.lang 누락 에러', () => {
   const errors = validateContent(content, DATE, 'en');
   assert.ok(errors.some((e) => e.startsWith('lang:')), errors.join('\n'));
 });
+
+test('note 누락(en)은 words[i].note 경로 에러', () => {
+  const content = loadFixture('en');
+  delete content.words[2].note;
+  const errors = validateContent(content, DATE, 'en');
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /^words\[2\]\.note: /);
+});
+
+test('note 공백(ja)도 words[i].note 경로 에러', () => {
+  const content = loadFixture('ja');
+  content.words[5].note = '   ';
+  const errors = validateContent(content, DATE, 'ja-n2');
+  assert.ok(errors.some((e) => e.startsWith('words[5].note:')), errors.join('\n'));
+});
+
+test('family 항목의 필수 키(word·ko) 위반은 항목 경로 에러', () => {
+  const content = loadFixture('en');
+  const i = content.words.findIndex((w) => Array.isArray(w.family) && w.family.length > 0);
+  assert.ok(i >= 0, 'en 픽스처에 family를 가진 단어가 있어야 한다');
+  content.words[i].family[0].word = '';
+  delete content.words[i].family[0].ko;
+  const errors = validateContent(content, DATE, 'en');
+  assert.ok(errors.some((e) => e.startsWith(`words[${i}].family[0].word:`)), errors.join('\n'));
+  assert.ok(errors.some((e) => e.startsWith(`words[${i}].family[0].ko:`)), errors.join('\n'));
+});
+
+test('related 항목의 필수 키(word·note) 위반과 배열 아님 에러', () => {
+  const content = loadFixture('en');
+  const i = content.words.findIndex((w) => Array.isArray(w.related) && w.related.length > 0);
+  assert.ok(i >= 0, 'en 픽스처에 related를 가진 단어가 있어야 한다');
+  delete content.words[i].related[0].note;
+  const errors = validateContent(content, DATE, 'en');
+  assert.ok(errors.some((e) => e.startsWith(`words[${i}].related[0].note:`)), errors.join('\n'));
+
+  const content2 = loadFixture('ja');
+  content2.words[0].related = '天候';
+  const errors2 = validateContent(content2, DATE, 'ja-n2');
+  assert.ok(errors2.some((e) => e.startsWith('words[0].related:')), errors2.join('\n'));
+});
+
+test('family/related 없는 단어(선택 필드)는 여전히 통과한다', () => {
+  const content = loadFixture('en');
+  const i = content.words.findIndex((w) => w.family === undefined && w.related === undefined);
+  assert.ok(i >= 0, 'en 픽스처에 note만 있는 단어도 있어야 한다(있으면 렌더 원칙 확인용)');
+  assert.deepEqual(validateContent(content, DATE, 'en'), []);
+});
