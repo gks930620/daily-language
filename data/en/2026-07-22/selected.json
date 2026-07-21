@@ -1,0 +1,405 @@
+{
+  "date": "2026-07-22",
+  "words": [
+    {
+      "headword": "candidate",
+      "pos": "n.",
+      "ko": "지원자, 후보자",
+      "example_en": "We narrowed the pool down to three strong candidates for the position.",
+      "example_ko": "우리는 그 자리의 후보를 유력한 세 명으로 좁혔다.",
+      "collocations": [
+        "a strong candidate",
+        "the leading candidate"
+      ],
+      "note": "어원: cand-(하얗다·빛나다) — 고대 로마에서 공직 지원자가 흰 토가(candida)를 입은 데서 왔다. candid(솔직한)·candle(초)과 같은 뿌리.",
+      "related": [
+        {
+          "word": "candid",
+          "ko": "솔직한",
+          "note": "같은 cand-(빛나다) 뿌리지만 뜻이 갈라짐 — candidate는 '지원자', candid는 '숨김없이 밝은=솔직한'"
+        }
+      ]
+    },
+    {
+      "headword": "applicant",
+      "pos": "n.",
+      "ko": "지원자, 신청자",
+      "example_en": "Only applicants with three years of experience will be considered.",
+      "example_ko": "경력 3년 이상의 지원자만 고려될 것이다.",
+      "collocations": [
+        "a job applicant",
+        "qualified applicants"
+      ],
+      "note": "apply(신청하다)+-ant(사람). apply 계열은 뜻이 갈라진다 — application은 '신청' 또는 '응용', applicable은 '적용 가능한'.",
+      "family": [
+        {
+          "word": "apply",
+          "pos": "v.",
+          "ko": "지원하다; 적용하다"
+        },
+        {
+          "word": "application",
+          "pos": "n.",
+          "ko": "지원(서); 응용, 앱"
+        },
+        {
+          "word": "applicable",
+          "pos": "a.",
+          "ko": "적용되는, 해당하는"
+        }
+      ]
+    },
+    {
+      "headword": "qualification",
+      "pos": "n.",
+      "ko": "자격, 자격 요건",
+      "example_en": "She has all the qualifications required for the managerial role.",
+      "example_ko": "그녀는 관리직에 요구되는 모든 자격을 갖추고 있다.",
+      "collocations": [
+        "meet the qualifications",
+        "the necessary qualifications"
+      ],
+      "note": "채용 맥락에서는 보통 복수 qualifications = '자격 요건'. quali-(qualus, 어떠한 성질)에서 — '자질을 갖추게 하다'가 원뜻.",
+      "family": [
+        {
+          "word": "qualify",
+          "pos": "v.",
+          "ko": "자격을 갖추다/주다"
+        },
+        {
+          "word": "qualified",
+          "pos": "a.",
+          "ko": "자격 있는, 적임의"
+        }
+      ]
+    },
+    {
+      "headword": "recruit",
+      "pos": "v.",
+      "ko": "(신입을) 채용하다, 모집하다",
+      "example_en": "The firm plans to recruit fifty new engineers this year.",
+      "example_ko": "그 회사는 올해 신입 엔지니어 50명을 채용할 계획이다.",
+      "collocations": [
+        "recruit new staff",
+        "recruitment process"
+      ],
+      "note": "어원: re-(다시)+cru-(자라다, crescent·increase와 같은 뿌리) — 병력을 '다시 키워' 보충하다에서, 원래 군대 신병 모집이 기업 채용으로 넓어졌다.",
+      "family": [
+        {
+          "word": "recruitment",
+          "pos": "n.",
+          "ko": "채용, 모집"
+        }
+      ]
+    },
+    {
+      "headword": "credential",
+      "pos": "n.",
+      "ko": "자격 증명, 경력",
+      "example_en": "His academic credentials are impressive, but he lacks hands-on experience.",
+      "example_ko": "그의 학력은 인상적이지만 실무 경험이 부족하다.",
+      "collocations": [
+        "impressive credentials",
+        "check someone's credentials"
+      ],
+      "note": "cred-(믿다) — '믿을 만함을 증명하는 것'. 보통 복수 credentials로 자격·경력을 뜻한다. credit(신용)·credible(믿을 만한)·incredible(믿기 어려운)과 같은 뿌리.",
+      "related": [
+        {
+          "word": "credible",
+          "ko": "믿을 만한",
+          "note": "같은 cred- 뿌리 — credential은 '자격 증명서', credible은 '믿을 만한'"
+        }
+      ]
+    },
+    {
+      "headword": "negotiate",
+      "pos": "v.",
+      "ko": "협상하다",
+      "example_en": "The two sides met to negotiate the terms of the contract.",
+      "example_ko": "양측은 계약 조건을 협상하기 위해 만났다.",
+      "collocations": [
+        "negotiate a deal",
+        "negotiate a salary"
+      ],
+      "note": "어원: neg-(아니다)+oti-(여가, otium) — '여가가 아닌 것' 즉 일·거래를 처리하다. neglect(neg-, 소홀히 하다)와 앞부분이 같다.",
+      "family": [
+        {
+          "word": "negotiation",
+          "pos": "n.",
+          "ko": "협상"
+        },
+        {
+          "word": "negotiable",
+          "pos": "a.",
+          "ko": "협상 가능한"
+        }
+      ]
+    },
+    {
+      "headword": "screen",
+      "pos": "v.",
+      "ko": "(자격 등을) 심사하다, 걸러내다",
+      "example_en": "The HR team screens hundreds of résumés before the interviews begin.",
+      "example_ko": "인사팀은 면접이 시작되기 전에 수백 장의 이력서를 심사한다.",
+      "collocations": [
+        "screen applicants",
+        "screen candidates"
+      ],
+      "note": "본뜻은 '가리개(스크린)' — 가림막으로 걸러낸다는 데서 '심사하다·선별하다'가 나왔다. screen out = 걸러 제외하다.",
+      "related": [
+        {
+          "word": "screening",
+          "ko": "심사, 선별; (영화) 상영",
+          "note": "명사형은 채용의 '심사' 외에 검진·상영 등 '걸러 보여줌'의 뜻으로도 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "tenure",
+      "pos": "n.",
+      "ko": "재직 기간; (교수) 종신 재직권",
+      "example_en": "During her tenure as CEO, the company doubled its revenue.",
+      "example_ko": "그녀의 CEO 재직 기간 동안 회사의 매출은 두 배가 되었다.",
+      "collocations": [
+        "during one's tenure",
+        "grant tenure"
+      ],
+      "note": "ten-(잡다, hold) — 자리를 '잡고 있는' 기간. tenant(세입자)·maintain(손에 쥐고 유지하다)·retain과 같은 뿌리.",
+      "family": [
+        {
+          "word": "tenant",
+          "pos": "n.",
+          "ko": "세입자, 임차인"
+        }
+      ]
+    },
+    {
+      "headword": "compensation",
+      "pos": "n.",
+      "ko": "보수, 보상금",
+      "example_en": "The job offers a competitive compensation package.",
+      "example_ko": "그 일자리는 경쟁력 있는 보수 패키지를 제공한다.",
+      "collocations": [
+        "compensation package",
+        "receive compensation"
+      ],
+      "note": "com-(함께)+pens-(달다, 저울질하다) — 손실과 '맞저울질해' 갚음. pension(연금)·pensive(생각에 잠긴)와 같은 pens- 뿌리.",
+      "family": [
+        {
+          "word": "compensate",
+          "pos": "v.",
+          "ko": "보상하다; (for) 벌충하다"
+        }
+      ]
+    },
+    {
+      "headword": "proficient",
+      "pos": "a.",
+      "ko": "능숙한",
+      "example_en": "Applicants must be proficient in at least two foreign languages.",
+      "example_ko": "지원자는 최소 두 개의 외국어에 능숙해야 한다.",
+      "collocations": [
+        "proficient in English",
+        "highly proficient"
+      ],
+      "note": "pro-(앞으로)+fic-(만들다, make) — 앞으로 척척 만들어내는 = 능숙한. efficient·sufficient와 같은 -fic 계열.",
+      "related": [
+        {
+          "word": "efficient",
+          "ko": "효율적인",
+          "note": "같은 fic-(만들다) 뿌리 — proficient는 '(사람이) 능숙한', efficient는 '(방식이) 효율적인'"
+        }
+      ]
+    },
+    {
+      "headword": "versatile",
+      "pos": "a.",
+      "ko": "다재다능한; 다용도의",
+      "example_en": "A versatile employee can handle several roles at once.",
+      "example_ko": "다재다능한 직원은 여러 역할을 한꺼번에 해낼 수 있다.",
+      "collocations": [
+        "a versatile player",
+        "versatile skills"
+      ],
+      "note": "vers-(돌다, turn) — 이리저리 잘 '도는' = 다재다능한. reverse(뒤로 돌다)·version·convert와 같은 뿌리.",
+      "family": [
+        {
+          "word": "versatility",
+          "pos": "n.",
+          "ko": "다재다능함, 융통성"
+        }
+      ]
+    },
+    {
+      "headword": "articulate",
+      "pos": "a.",
+      "ko": "또렷이 표현하는; (동사) 명료하게 말하다",
+      "example_en": "She gave an articulate and well-structured answer.",
+      "example_ko": "그녀는 또렷하고 짜임새 있는 답변을 했다.",
+      "collocations": [
+        "an articulate speaker",
+        "articulate a vision"
+      ],
+      "note": "art-(잇다, 마디) — 마디마디 또렷이 이어 말하다. 형용사(또렷한, -late로 발음)와 동사(또렷이 말하다, -lʌte로 발음)의 끝음이 다르다.",
+      "related": [
+        {
+          "word": "articulate (v.)",
+          "ko": "(생각을) 분명히 표현하다",
+          "note": "품사에 따라 끝음절 발음이 갈린다 — 형용사는 [-lət], 동사는 [-leɪt]"
+        }
+      ]
+    },
+    {
+      "headword": "delegate",
+      "pos": "v.",
+      "ko": "(권한·업무를) 위임하다; (명사) 대표, 대의원",
+      "example_en": "A good manager knows how to delegate tasks effectively.",
+      "example_ko": "훌륭한 관리자는 업무를 효과적으로 위임할 줄 안다.",
+      "collocations": [
+        "delegate authority",
+        "delegate responsibility"
+      ],
+      "note": "de-(떨어져)+leg-(보내다, 법) — 권한을 '아래로 보내다'. 동사는 [-geɪt], 명사(대표)는 [-gət]으로 발음이 다르다. legacy·legal과 같은 leg- 뿌리.",
+      "family": [
+        {
+          "word": "delegation",
+          "pos": "n.",
+          "ko": "위임; 대표단"
+        }
+      ]
+    },
+    {
+      "headword": "deliberate",
+      "pos": "a.",
+      "ko": "의도적인; 신중한 (동사) 숙고하다",
+      "example_en": "It was a deliberate decision, not an accident.",
+      "example_ko": "그것은 우연이 아니라 의도적인 결정이었다.",
+      "collocations": [
+        "a deliberate choice",
+        "deliberate over something"
+      ],
+      "note": "liber-(저울, libra) — 저울질하듯 재다에서 '신중한·숙고하다'. 형용사는 [-rət], 동사는 [-reɪt]으로 발음이 갈린다. '천칭자리 Libra'와 같은 뿌리.",
+      "related": [
+        {
+          "word": "deliberately",
+          "ko": "고의로, 일부러",
+          "note": "부사는 '신중히'보다 '고의로·일부러'의 뜻으로 훨씬 자주 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "probation",
+      "pos": "n.",
+      "ko": "수습 기간; 보호관찰",
+      "example_en": "New hires are on probation for the first three months.",
+      "example_ko": "신입 사원은 첫 3개월 동안 수습 기간을 거친다.",
+      "collocations": [
+        "on probation",
+        "a probation period"
+      ],
+      "note": "prob-(시험하다, prove) — 시험 삼아 두는 기간. probe(조사하다)·prove·approve와 같은 뿌리.",
+      "related": [
+        {
+          "word": "probe",
+          "ko": "면밀히 조사하다; 탐사선",
+          "note": "같은 prob-(시험하다) 뿌리 — probation은 '수습·보호관찰', probe는 '캐묻듯 조사하다'"
+        }
+      ]
+    },
+    {
+      "headword": "surge",
+      "pos": "n.",
+      "ko": "급증, 급등 (동사) 급증하다",
+      "example_en": "There was a sudden surge in demand for electric vehicles.",
+      "example_ko": "전기차 수요에 갑작스러운 급증이 있었다.",
+      "collocations": [
+        "a surge in demand",
+        "surge in prices"
+      ],
+      "note": "sur-(위로)+reg-(뻗다) — 위로 솟구침. resurgence(재기·부활)와 같은 뿌리. 명사·동사 형태가 같다.",
+      "related": [
+        {
+          "word": "resurgence",
+          "ko": "부활, 재기",
+          "note": "re-(다시)+surge — '다시 솟아오름', 인기·활동이 되살아날 때 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "plummet",
+      "pos": "v.",
+      "ko": "곤두박질치다, 급락하다",
+      "example_en": "Share prices plummeted after the disappointing earnings report.",
+      "example_ko": "실망스러운 실적 발표 후 주가가 급락했다.",
+      "collocations": [
+        "prices plummet",
+        "plummet sharply"
+      ],
+      "note": "어원: plumb(납, lead) — 납덩이가 수직으로 뚝 떨어지듯. plumber(배관공)와 같은 뿌리. surge(급등)의 반대말로 짝지어 외우면 좋다.",
+      "related": [
+        {
+          "word": "plunge",
+          "ko": "급락하다; 뛰어들다",
+          "note": "plummet과 비슷하지만 plunge는 '물속에 뛰어들다'처럼 능동적으로 뛰어드는 뜻도 있다"
+        }
+      ]
+    },
+    {
+      "headword": "subsidize",
+      "pos": "v.",
+      "ko": "보조금을 지급하다",
+      "example_en": "The government subsidizes public transport to keep fares low.",
+      "example_ko": "정부는 요금을 낮게 유지하기 위해 대중교통에 보조금을 지급한다.",
+      "collocations": [
+        "subsidize farmers",
+        "heavily subsidized"
+      ],
+      "note": "sub-(아래)+sid-(앉다) — 밑에서 받쳐 앉히다 = 재정으로 떠받치다. 명사는 subsidy. reside·preside와 같은 sid-(앉다) 뿌리.",
+      "family": [
+        {
+          "word": "subsidy",
+          "pos": "n.",
+          "ko": "보조금"
+        }
+      ]
+    },
+    {
+      "headword": "austerity",
+      "pos": "n.",
+      "ko": "긴축; 내핍",
+      "example_en": "The government imposed harsh austerity measures to reduce debt.",
+      "example_ko": "정부는 부채를 줄이기 위해 가혹한 긴축 조치를 시행했다.",
+      "collocations": [
+        "austerity measures",
+        "a period of austerity"
+      ],
+      "note": "auster-(거친·쓴) — 쓸 만큼 엄격한 절약. 경제 뉴스의 '긴축(정책)'으로 자주 나온다. 형용사는 austere(엄격한·검소한).",
+      "family": [
+        {
+          "word": "austere",
+          "pos": "a.",
+          "ko": "엄격한; 검소한, 꾸밈없는"
+        }
+      ]
+    },
+    {
+      "headword": "recession",
+      "pos": "n.",
+      "ko": "경기 침체, 불황",
+      "example_en": "Many businesses struggled to survive during the recession.",
+      "example_ko": "많은 기업이 불황 동안 살아남으려 애썼다.",
+      "collocations": [
+        "a deep recession",
+        "slip into recession"
+      ],
+      "note": "re-(뒤로)+ced-(가다) — 경기가 '뒤로 물러남'. recede(물러나다)·proceed·access와 같은 ced-(가다) 계열.",
+      "family": [
+        {
+          "word": "recede",
+          "pos": "v.",
+          "ko": "물러나다, 약해지다"
+        }
+      ]
+    }
+  ]
+}
