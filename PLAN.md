@@ -16,7 +16,7 @@
 | 항목 | 결정 |
 |---|---|
 | 결과물 형태 | GitHub Pages(`docs/`) 정적 HTML + Leitner SRS 복습 퀴즈 |
-| 실행 주체 | GitHub Actions `.github/workflows/daily.yml`, 매일 21:00 UTC(=06:00 KST). AI 단계는 `claude -p` + `CLAUDE_CODE_OAUTH_TOKEN`(구독 사용량, API 과금 아님). 예비: claude.ai 루틴(`prompts/routine.md`) |
+| 실행 주체 | GitHub Actions `.github/workflows/daily.yml`, 매일 18:00 UTC(=03:00 KST). AI 단계는 `claude -p` + `CLAUDE_CODE_OAUTH_TOKEN`(구독 사용량, API 과금 아님). 예비: claude.ai 루틴(`prompts/routine.md`) |
 | 저장소 | GitHub **public** [`gks930620/daily-language`](https://github.com/gks930620/daily-language) (Pages 무료 조건) |
 | SRS | 6박스 Leitner, 간격 `[1,3,7,14,30,60]`일, box 6 노출 후 졸업. 언어별 독립 상태 |
 | 역할 분담 | AI = content.json 생성만. 날짜·SRS·상태·빌드 = Node 스크립트 |

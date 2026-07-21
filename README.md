@@ -6,7 +6,7 @@
 
 ## 매일 아침 무엇이 생기나
 
-매일 06:00 KST쯤 새 페이지가 올라옵니다. URL 구조:
+매일 03:00 KST쯤 새 페이지가 올라옵니다(일어나면 이미 준비돼 있음). URL 구조:
 
 - 허브(트랙 선택): `https://gks930620.github.io/daily-language/`
 - 영어: `https://gks930620.github.io/daily-language/en/`
@@ -73,7 +73,7 @@
 
 ## 실행 구조: GitHub Actions (주 경로)
 
-`.github/workflows/daily.yml`이 매일 21:00 UTC(=06:00 KST)에 실행됩니다. **en → ja-n1 → ja-n2 블록 순서로, 트랙별로 커밋**합니다:
+`.github/workflows/daily.yml`이 매일 18:00 UTC(=03:00 KST)에 실행됩니다. **en → ja-n1 → ja-n2 블록 순서로, 트랙별로 커밋**합니다:
 
 1. `prepare.js --lang <트랙>` ×3 — 날짜 결정, AI 입력(brief)·퀴즈 동결본(review) 생성. `ALREADY_DONE`인 트랙은 해당 블록 전부 생략.
 2. (트랙별) `claude -p`(헤드리스) — `prompts/generator.en.md` 또는 `generator.ja.md`(ja 두 트랙 공유, 난이도는 brief의 프로필로) 지침대로 `content.json` 작성. **구독 토큰으로 인증되어 Pro/Max 사용량에서 차감**(API 과금 아님). 허용 도구는 Read/Write/Edit/Glob/Grep뿐 — AI는 git을 만질 수 없음.
@@ -85,4 +85,4 @@
 
 ## 예비 경로: claude.ai 클라우드 루틴
 
-Actions가 장기 불안정하면 `prompts/routine.md`의 프롬프트로 claude.ai 루틴(매일 21:00 UTC)을 만들어 같은 파이프라인을 돌릴 수 있습니다. claude.ai의 GitHub 연동(App 설치·저장소 접근 허용)이 필요합니다. 양쪽이 같은 날 겹쳐 돌아도 `ALREADY_DONE` 가드로 안전합니다.
+Actions가 장기 불안정하면 `prompts/routine.md`의 프롬프트로 claude.ai 루틴(매일 18:00 UTC)을 만들어 같은 파이프라인을 돌릴 수 있습니다. claude.ai의 GitHub 연동(App 설치·저장소 접근 허용)이 필요합니다. 양쪽이 같은 날 겹쳐 돌아도 `ALREADY_DONE` 가드로 안전합니다.

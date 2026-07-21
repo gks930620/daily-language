@@ -3,7 +3,7 @@
 ## 파이프라인
 
 ```
-        (매일 06:00 KST, GitHub Actions `.github/workflows/daily.yml`이 트랙별로 실행: en → ja-n1 → ja-n2)
+        (매일 03:00 KST, GitHub Actions `.github/workflows/daily.yml`이 트랙별로 실행: en → ja-n1 → ja-n2)
 
   ┌─────────┐   ┌──────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────┐
   │ prepare │──▶│ generate │──▶│ settle  │──▶│ build   │──▶│ verify  │──▶│ git │
