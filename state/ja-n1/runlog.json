@@ -1,4 +1,13 @@
 {
   "schema_version": 1,
-  "runs": {}
+  "runs": {
+    "2026-07-21": {
+      "prepared_at": "2026-07-21T12:02:01.228Z",
+      "settled": true,
+      "settled_at": "2026-07-21T12:05:26.266Z",
+      "content_sha256": "2f5fc11eac8dea3add0d000f5906f1fbe2e9030ed1c862ab46ec0629d6a00c35",
+      "notes": [],
+      "built_at": "2026-07-21T12:05:26.323Z"
+    }
+  }
 }
