@@ -1,5 +1,7 @@
 # CLAUDE.md — 다음 세션 인수인계
 
+**진행 중 작업이 있는지 먼저 `PROGRESS.md`를 확인하라** (체크포인트 문서 — 미완 작업과 이어받는 법).
+
 **목적 한 줄**: 매일 아침 GitHub Actions(`.github/workflows/daily.yml`)가 트랙별(en·ja-n1·ja-n2) 학습 페이지(문장 5·단어 20·회화·SRS 퀴즈)를 자동 생성해 GitHub Pages에 올리는 파이프라인. AI 단계는 `claude -p` + 구독 토큰(`CLAUDE_CODE_OAUTH_TOKEN` 시크릿). 콘텐츠는 기초 완료자 대상 "매일 30분·흥미 유지"용(ja는 JLPT N1/N2 취득자 두 난이도).
 
 ## 절대 규칙
