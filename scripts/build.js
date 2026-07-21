@@ -83,28 +83,43 @@ ${archive}
   return page({ title: config.pageTitle, body, relRoot: '../' });
 }
 
-/** 허브 docs/index.html — 언어별 인덱스 링크 + 최신 날짜 링크. */
+/**
+ * 허브 docs/index.html — 전 트랙 날짜의 합집합을 내림차순 리스트로.
+ * 날짜마다 그 날짜 데이터가 있는 트랙만 링크한다(라벨·순서는 langs.js가 기준).
+ * 트랙별 아카이브(트랙 인덱스) 링크는 상단에 작게 유지.
+ */
 function buildHub(daysByLang) {
-  const items = Object.entries(LANGS)
-    .map(([lang, config]) => {
-      const days = daysByLang[lang] ?? [];
-      const latest =
-        days.length > 0
-          ? `최신: <a href="${esc(lang)}/days/${esc(days[days.length - 1])}.html">${esc(days[days.length - 1])}</a>`
-          : '아직 생성된 콘텐츠가 없습니다.';
-      return `<li class="lang-item">
-<h2><a href="${esc(lang)}/index.html">${esc(config.pageTitle)}</a></h2>
-<p class="latest">${latest}</p>
+  const archives = Object.entries(LANGS)
+    .map(([lang, config]) => `<a href="${esc(lang)}/index.html">${esc(config.label)}</a>`)
+    .join(' · ');
+  const allDates = [...new Set(Object.values(daysByLang).flat())].sort().reverse();
+  const items = allDates
+    .map((date) => {
+      const links = Object.entries(LANGS)
+        .filter(([lang]) => (daysByLang[lang] ?? []).includes(date))
+        .map(
+          ([lang, config]) =>
+            `<a href="${esc(lang)}/days/${esc(date)}.html">${esc(config.label)}</a>`
+        )
+        .join(' · ');
+      return `<li class="date-item">
+<p class="date">${esc(date)}</p>
+<p class="date-tracks">${links}</p>
 </li>`;
     })
     .join('\n');
+  const list =
+    allDates.length > 0
+      ? `<ul class="date-list">
+${items}
+</ul>`
+      : '<p class="empty">아직 생성된 콘텐츠가 없습니다.</p>';
   const body = `<header>
 <h1>매일 언어 학습</h1>
+<p class="track-archives">아카이브: ${archives}</p>
 </header>
 <main>
-<ul class="lang-list">
-${items}
-</ul>
+${list}
 </main>`;
   return page({ title: '매일 언어 학습', body, relRoot: '' });
 }

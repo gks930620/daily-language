@@ -129,6 +129,21 @@ test('content.lang 누락 에러', () => {
   assert.ok(errors.some((e) => e.startsWith('lang:')), errors.join('\n'));
 });
 
+test('passage_note 누락(en)은 최상위 경로 에러', () => {
+  const content = loadFixture('en');
+  delete content.passage_note;
+  const errors = validateContent(content, DATE, 'en');
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /^passage_note: /);
+});
+
+test('passage_note 공백(ja)도 최상위 경로 에러', () => {
+  const content = loadFixture('ja');
+  content.passage_note = '   ';
+  const errors = validateContent(content, DATE, 'ja-n2');
+  assert.ok(errors.some((e) => e.startsWith('passage_note:')), errors.join('\n'));
+});
+
 test('note 누락(en)은 words[i].note 경로 에러', () => {
   const content = loadFixture('en');
   delete content.words[2].note;

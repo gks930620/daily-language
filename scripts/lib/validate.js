@@ -41,6 +41,12 @@ export function validateContent(content, expectedDate, lang) {
     push('date', `"${expectedDate}"여야 함 (현재: "${content.date}")`);
   }
 
+  // passage_note — 문단(하나의 글에서 이어진 5문장)의 종류·주제 한 줄. 전 트랙 필수.
+  // 과거 데이터는 재검증되지 않으므로 렌더 쪽은 "있으면 렌더"로 하위 호환.
+  if (!isNonEmptyString(content.passage_note)) {
+    push('passage_note', '비어 있지 않은 문자열이어야 함 (문단의 종류·주제 한 줄)');
+  }
+
   // --- sentences: 정확히 5개 ---
   if (!Array.isArray(content.sentences)) {
     push('sentences', '배열이어야 함');

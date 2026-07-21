@@ -119,7 +119,27 @@ details p {
   margin: 0.25rem 0;
 }
 
-/* ① 오늘의 문장 */
+/* ① 오늘의 문단 — 문장별 분석 위에 문단 원문을 먼저 보여준다(passage_note 있는 데이터만). */
+.passage {
+  margin: 0 0 1.25rem;
+  padding: 0.75rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.passage-note {
+  margin: 0 0 0.5rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.passage-text {
+  margin: 0;
+  line-height: 1.75;
+}
+
+/* 문장별 분석(문단이 없는 과거 데이터는 이 목록만 나온다) */
 .sentence-list {
   padding-left: 1.25rem;
 }
@@ -245,29 +265,33 @@ p.reading {
   margin: 0.15rem 0;
 }
 
-/* 허브(언어 선택) 페이지 */
-.lang-list {
+/* 허브 — 날짜 내림차순 리스트(날짜마다 그 날짜 데이터가 있는 트랙 링크) */
+.track-archives {
+  margin: 0.25rem 0 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.date-list {
   list-style: none;
   padding-left: 0;
 }
 
-.lang-item {
-  margin: 1rem 0;
-  padding: 0.75rem 1rem;
+.date-item {
+  margin: 0.6rem 0;
+  padding: 0.55rem 1rem;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 10px;
 }
 
-.lang-item h2 {
-  margin: 0 0 0.35rem;
-  padding-bottom: 0;
-  border-bottom: none;
+.date-item .date {
+  margin: 0;
+  font-weight: 600;
 }
 
-.lang-item .latest {
-  margin: 0;
-  color: var(--muted);
+.date-item .date-tracks {
+  margin: 0.1rem 0 0;
 }
 
 /* 언어 인덱스 → 허브로 돌아가는 링크 */

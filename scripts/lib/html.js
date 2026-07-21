@@ -32,8 +32,29 @@ ${body}
 `;
 }
 
-/** ① 오늘의 문장 섹션. reading(발음)은 있으면 details 안(해석 위)에 렌더한다. */
-export function renderSentences(sentences) {
+/**
+ * ① 오늘의 문단 섹션. sentences는 하나의 글에서 이어진 한 문단을 문장 단위로 자른 것.
+ * passage_note가 **있을 때만** 상단에 문단 원문 블록을 렌더한다(하위 호환 —
+ * passage_note 없는 과거 데이터는 무관한 5문장이라 이어붙이면 이상하므로 기존 형태 유지).
+ * reading(발음)은 있으면 details 안(해석 위)에 렌더한다. 문장 마커(<li class="sentence">)는 문장당 정확히 1개.
+ */
+export function renderSentences(sentences, passageNote) {
+  // reading이 있는 언어(일본어)는 공백 없이, 없는 언어(영어)는 공백으로 이어붙인다.
+  const hasReading = sentences.some((s) => s.reading);
+  let passage = '';
+  if (passageNote) {
+    const text = sentences.map((s) => s.en).join(hasReading ? '' : ' ');
+    const readingBlock = hasReading
+      ? `\n<details><summary>전문 읽기</summary><p class="reading">${esc(
+          sentences.map((s) => s.reading ?? '').join('')
+        )}</p></details>`
+      : '';
+    passage = `<div class="passage">
+<p class="passage-note">${esc(passageNote)}</p>
+<p class="passage-text en">${esc(text)}</p>${readingBlock}
+</div>
+`;
+  }
   const items = sentences
     .map((s) => {
       const notes =
@@ -53,8 +74,8 @@ ${notes}</details>
     })
     .join('\n');
   return `<section id="sentences">
-<h2>오늘의 문장</h2>
-<ol class="sentence-list">
+<h2>${passageNote ? '오늘의 문단' : '오늘의 문장'}</h2>
+${passage}<ol class="sentence-list">
 ${items}
 </ol>
 </section>`;
@@ -197,7 +218,7 @@ ${reading}<p class="ko">${esc(rs.ko)}</p>
 /** 하루치 본문(섹션 ①~⑤)을 한 번에. day 페이지와 index가 공유한다. */
 export function renderDaySections(content, review) {
   return [
-    renderSentences(content.sentences),
+    renderSentences(content.sentences, content.passage_note),
     renderWords(content.words),
     renderConversation(content.conversation),
     renderQuiz(review?.due_words ?? []),

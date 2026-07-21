@@ -2,50 +2,51 @@
   "schema_version": 1,
   "lang": "en",
   "date": "{{DATE}}",
+  "passage_note": "사회·경제 — 재택근무 확산이 도시 경제 지형을 바꾸다(논설)",
   "sentences": [
     {
-      "en": "The government announced a series of measures designed to mitigate the economic fallout from the prolonged trade dispute.",
-      "ko": "정부는 장기화된 무역 분쟁으로 인한 경제적 여파를 완화하기 위해 고안된 일련의 조치를 발표했다.",
-      "structure": "The government announced / a series of measures / designed to mitigate the economic fallout / from the prolonged trade dispute.\n· designed to ~ : 과거분사구가 measures를 뒤에서 수식(주격 관계대명사+be 생략: which were designed).\n· a series of + 복수명사 = '일련의 ~'. 동사는 announced(3형식), 목적어는 measures.",
+      "en": "The rapid shift to remote work has quietly redrawn the economic map of major cities, hollowing out downtown districts that once thrived on weekday commuters.",
+      "ko": "재택근무로의 빠른 전환은 대도시의 경제 지도를 조용히 다시 그려 놓았고, 한때 평일 통근자들 덕에 번성했던 도심 지구를 공동화시키고 있다.",
+      "structure": "The rapid shift to remote work / has quietly redrawn / the economic map of major cities, / hollowing out downtown districts / that once thrived on weekday commuters.\n· has redrawn : 현재완료 — 과거에 시작된 변화가 지금까지 이어짐.\n· hollowing out ~ : 분사구문(연속 상황) — '~하면서 도심을 공동화하며'.\n· that ~ commuters : 주격 관계대명사절이 districts를 뒤에서 수식.",
       "vocab_notes": [
-        { "word": "fallout", "ko": "(부정적) 여파, 낙진" },
-        { "word": "prolonged", "ko": "장기화된" }
+        { "word": "hollow out", "ko": "공동화시키다, 속을 비게 만들다" },
+        { "word": "thrive on", "ko": "~을 기반으로 번성하다" }
       ]
     },
     {
-      "en": "What distinguishes successful learners from the rest is not innate talent but the consistency with which they practice.",
-      "ko": "성공적인 학습자를 나머지와 구별 짓는 것은 타고난 재능이 아니라 그들이 연습하는 꾸준함이다.",
-      "structure": "What distinguishes successful learners from the rest / is / not innate talent / but the consistency / with which they practice.\n· What ~ rest : 관계대명사 what이 이끄는 명사절이 문장 전체의 주어(단수 취급 → is).\n· not A but B : 'A가 아니라 B'. A = innate talent, B = the consistency.\n· with which they practice = they practice with the consistency (전치사+관계대명사).",
+      "en": "Small businesses that depended on office workers — cafes, dry cleaners, lunch spots — have seen their customer base shrink to a fraction of its former size.",
+      "ko": "사무직 노동자들에게 의존하던 소상공인들 — 카페, 세탁소, 점심 식당 — 은 고객층이 예전 규모의 몇 분의 일로 줄어드는 것을 지켜봐야 했다.",
+      "structure": "Small businesses / that depended on office workers / — cafes, dry cleaners, lunch spots — / have seen / their customer base shrink / to a fraction of its former size.\n· see + 목적어 + 동사원형(shrink) : 지각동사 5형식 — '~이 줄어드는 것을 보다'.\n· 대시(—) 삽입구 : businesses의 구체 예를 나열.\n· a fraction of ~ : '~의 몇 분의 일, 극히 일부'.",
       "vocab_notes": [
-        { "word": "distinguish A from B", "ko": "A를 B와 구별하다" },
-        { "word": "innate", "ko": "타고난, 선천적인" }
+        { "word": "customer base", "ko": "고객층" },
+        { "word": "fraction", "ko": "일부분, 몇 분의 일" }
       ]
     },
     {
-      "en": "Despite mounting criticism, the company remains reluctant to disclose how much of its revenue depends on a single overseas client.",
-      "ko": "커지는 비판에도 불구하고, 그 회사는 매출의 얼마만큼이 단 하나의 해외 고객에 의존하는지 공개하기를 여전히 꺼리고 있다.",
-      "structure": "Despite mounting criticism, / the company remains reluctant / to disclose / how much of its revenue depends on a single overseas client.\n· Despite + 명사(구) : '~에도 불구하고'. although와 달리 절이 아니라 명사를 받는다.\n· remain + 형용사(reluctant) : 2형식, '여전히 ~한 상태다'.\n· how much ~ client : disclose의 목적어인 간접의문문(의문사+주어+동사 어순).",
+      "en": "Meanwhile, residential neighborhoods and smaller satellite towns have absorbed much of this displaced spending, as workers eat, shop, and exercise closer to home.",
+      "ko": "한편, 주거 지역과 소규모 위성 도시들은 노동자들이 집 가까이에서 먹고, 장 보고, 운동하게 되면서 이 옮겨 간 소비의 상당 부분을 흡수했다.",
+      "structure": "Meanwhile, / residential neighborhoods and smaller satellite towns / have absorbed / much of this displaced spending, / as workers eat, shop, and exercise / closer to home.\n· as ~ : '~함에 따라/~하면서'(이유·비례의 접속사).\n· displaced spending : 과거분사 displaced가 spending을 수식 — '(도심에서) 밀려난 소비'.\n· eat, shop, and exercise : A, B, and C 병렬 구조.",
       "vocab_notes": [
-        { "word": "mounting", "ko": "커져 가는, 증가하는" },
-        { "word": "disclose", "ko": "공개하다, 밝히다" }
+        { "word": "satellite town", "ko": "위성 도시" },
+        { "word": "displaced", "ko": "원래 자리에서 밀려난" }
       ]
     },
     {
-      "en": "Researchers warn that unless drastic action is taken, coastal cities could face flooding on an unprecedented scale within decades.",
-      "ko": "연구자들은 과감한 조치가 취해지지 않으면 수십 년 안에 해안 도시들이 전례 없는 규모의 침수에 직면할 수 있다고 경고한다.",
-      "structure": "Researchers warn / that / unless drastic action is taken, / coastal cities could face flooding / on an unprecedented scale / within decades.\n· warn that ~ : that절이 warn의 목적어.\n· unless = if ~ not : '~하지 않는 한'. unless절 안은 수동태(action is taken).\n· could face : 가능성을 나타내는 조동사 could + 동사원형.",
+      "en": "Economists caution, however, that this redistribution is far from painless, since urban tax revenues tied to commercial property values are eroding just as demand for public services grows.",
+      "ko": "그러나 경제학자들은 이 재분배가 결코 고통 없는 과정이 아니라고 경고한다. 상업용 부동산 가치에 연동된 도시 세수가, 공공 서비스 수요가 늘어나는 바로 그 시점에 침식되고 있기 때문이다.",
+      "structure": "Economists caution, however, / that this redistribution is far from painless, / since urban tax revenues / tied to commercial property values / are eroding / just as demand for public services grows.\n· far from + 형용사/명사 : '결코 ~이 아닌'(부정 강조).\n· tied to ~ : 과거분사구가 revenues를 뒤에서 수식.\n· just as ~ : '바로 ~하는 때에'(동시성 강조).",
       "vocab_notes": [
-        { "word": "drastic", "ko": "과감한, 극단적인" },
-        { "word": "on a ~ scale", "ko": "~한 규모로" }
+        { "word": "far from", "ko": "결코 ~이 아닌" },
+        { "word": "erode", "ko": "침식되다, 서서히 줄어들다" }
       ]
     },
     {
-      "en": "Having spent a decade abroad, she found it difficult to readjust to the rigid corporate culture of her home country.",
-      "ko": "10년을 해외에서 보낸 터라, 그녀는 고국의 경직된 기업 문화에 다시 적응하는 것이 어렵다는 것을 알게 되었다.",
-      "structure": "Having spent a decade abroad, / she found it difficult / to readjust / to the rigid corporate culture / of her home country.\n· Having spent ~ : 완료 분사구문. 주절보다 앞선 시점(보낸 뒤에 → 알게 됨)을 표현.\n· found it difficult to ~ : 가목적어 it + 목적격보어 difficult + 진목적어 to부정사(5형식).\n· readjust to + 명사 : '~에 재적응하다'.",
+      "en": "Whether cities can reinvent their downtowns — converting empty offices into housing, laboratories, or cultural spaces — may determine which of them emerge stronger from this transition.",
+      "ko": "도시들이 빈 사무실을 주택, 연구 시설, 문화 공간으로 바꾸며 도심을 재창조할 수 있을지가, 어느 도시가 이 전환에서 더 강해져 나올지를 결정할 것이다.",
+      "structure": "Whether cities can reinvent their downtowns / — converting empty offices into housing, laboratories, or cultural spaces — / may determine / which of them emerge stronger / from this transition.\n· Whether ~ downtowns : whether 명사절이 문장 전체의 주어.\n· converting ~ : 분사구문 삽입 — 재창조의 구체적 방법 제시.\n· which of them emerge ~ : determine의 목적어인 간접의문문.\n· convert A into B : 'A를 B로 바꾸다'.",
       "vocab_notes": [
-        { "word": "rigid", "ko": "경직된, 엄격한" },
-        { "word": "readjust", "ko": "다시 적응하다" }
+        { "word": "reinvent", "ko": "재창조하다, 완전히 새롭게 바꾸다" },
+        { "word": "convert A into B", "ko": "A를 B로 바꾸다" }
       ]
     }
   ],

@@ -27,6 +27,7 @@
   "schema_version": 1,
   "lang": "en",
   "date": "{{DATE}}",
+  "passage_note": "경제 — 무역 분쟁의 여파와 정부의 대응(기사)",
   "sentences": [
     {
       "en": "The government announced a series of measures designed to mitigate the economic fallout from the prolonged trade dispute.",
@@ -83,6 +84,7 @@
 
 - `lang`은 정확히 `"en"`.
 - `date`는 brief.json의 date와 정확히 일치.
+- `passage_note` 필수(비어 있지 않은 문자열) — 문단이 실린 글의 종류·주제 한 줄.
 - `sentences` 정확히 **5개**. 각각 `en`, `ko`, `structure` 필수(비어 있으면 안 됨).
 - `words` **20~25개**. 각각 `headword`, `pos`, `ko`, `example_en`, `example_ko`, **`note`** 필수.
 - `words[].family`는 선택 — 있으면 각 항목에 `word`·`ko` 필수(`pos`는 선택).
@@ -91,10 +93,12 @@
 
 ## 콘텐츠 지침
 
-### 문장 5개 (sentences)
+### 문단 1개 = 문장 5개 (passage_note + sentences)
 
-- 난이도: 수능 고난도 ~ 시사(뉴스 기사 수준)를 섞는다. 너무 쉬운 문장은 넣지 않는다.
-- 소재: 경제·사회·과학·환경 등 시사 소재와 일반 교양을 섞는다.
+- `sentences`는 서로 무관한 문장 5개가 아니라 **하나의 글에서 이어진 한 문단**을 문장 단위로 자른 것이다(원문 순서 유지). 페이지에는 문단 원문이 먼저 통으로 나오고, 그 아래에 문장별 분석이 붙는다.
+- 분량·난이도: **수능 지문 한 문제 분량**(문단 전체 120~180단어), 수능 고난도 ~ 시사(뉴스·논설) 수준. 너무 쉬운 문단은 만들지 않는다.
+- 소재: 경제·사회·과학·환경 등 시사 소재와 일반 교양을 매일 돌린다.
+- `passage_note`(최상위 필수): 글의 종류·주제 한 줄. 예: "환경 — 탄소 국경세를 둘러싼 논쟁(논설)".
 - `structure`(구문분석)는 **한국어**로, 두 가지를 담는다:
   1. `/`로 의미 단위 끊어읽기.
   2. 핵심 문법 포인트 해설(분사구문, 관계사, 가정법, 도치 등 한국식 문법 용어 사용).
