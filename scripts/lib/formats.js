@@ -462,6 +462,18 @@ export function renderFormat5(content) {
   ].join('\n');
 }
 
+/* ─────────────────── 최종 채택 포맷 · 정통 교재형 + 클러스터 단어 ───────────────────
+   사용자 확정(2026-07-22): 포맷 1(정통 교재형)을 뼈대로 하되, 단어 섹션만
+   포맷 5의 클러스터형(어원·파생·혼동어 박스)으로 교체. 순서 문장→단어→회화→복습. */
+export function renderFinal(content) {
+  return [
+    renderSentences(content.sentences, content.passage_note),
+    clusterWords(content),
+    renderConversation(content.conversation),
+    reviewFold(content),
+  ].join('\n');
+}
+
 /** 프리뷰 index·페이지가 공유하는 포맷 메타(번호·이름·한 줄 설명·렌더러). */
 export const FORMATS = [
   {
