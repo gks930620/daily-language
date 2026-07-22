@@ -501,21 +501,40 @@ p.reading {
   border-top: 1px solid var(--border);
 }
 
-/* 랜딩(docs/basics/index.html)의 자동 목차 트리 */
+/* 랜딩(docs/basics/index.html) — 사설 없이 깔끔한 탭 메뉴. */
 .basics-index-tree {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 .basics-group {
-  margin: 1rem 0;
+  margin: 1.5rem 0;
 }
 
 .basics-tree {
-  padding-left: 1.25rem;
+  list-style: none;
+  padding-left: 0;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 .basics-tree li {
-  margin: 0.2rem 0;
+  margin: 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.basics-tree li:last-child {
+  border-bottom: none;
+}
+
+.basics-tree a {
+  display: block;
+  padding: 0.7rem 1rem;
+}
+
+.basics-tree a:hover {
+  background: var(--surface);
+  text-decoration: none;
 }
 
 /* ══════════════════════════════════════════════════════════════════════

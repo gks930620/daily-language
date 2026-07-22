@@ -129,16 +129,17 @@ ${list}
   return page({ title: '매일 언어 학습', body, relRoot: '' });
 }
 
-/** 폴더명 → 목차 트리의 그룹 표시명(파일 목록 자체는 파일 시스템에서 생성). */
+/** 폴더명 → 목차 트리의 그룹 표시명(파일 목록 자체는 파일 시스템에서 생성).
+ *  versions를 맨 앞에 — 지금은 "1과를 여러 방식으로" 비교하는 게 주 용도. */
 const BASICS_GROUPS = {
+  versions: '1과 · 방식 비교',
   'book1-conversation': '대화 입문',
   'book2-grammar': '기본 문법',
   'book3-expressions': '필수 표현',
   'book4-kanji': '필수 한자',
-  versions: '대안 구성',
 };
 
-/** basics 로드맵(랜딩 index로 대체 렌더되는 특수 파일 — 자기 자신은 별도 html로 안 냄). */
+/** basics 로드맵 — 인덱스에 사설로 얹지 않는다(공부 화면은 깔끔하게). 별도 html도 안 냄. */
 const BASICS_ROADMAP_REL = 'ja/README.md';
 
 /** basics/ 아래 모든 .md의 경로를 basics 루트 기준 상대(/ 구분)로 재귀 수집. */
@@ -182,13 +183,8 @@ ${mdToHtml(md)}
   return page({ title, body, relRoot });
 }
 
-/** 기초 교재 랜딩(docs/basics/index.html): 로드맵 본문 + 자동 생성 목차 트리. */
+/** 기초 교재 랜딩(docs/basics/index.html): 사설 없이 그룹별 목차 링크만. */
 function buildBasicsIndex(rels) {
-  const roadmapPath = rootPath('basics', BASICS_ROADMAP_REL);
-  const roadmapHtml = existsSync(roadmapPath)
-    ? mdToHtml(readFileSync(roadmapPath, 'utf8'))
-    : '';
-
   // 폴더(그룹)별로 파일을 모은다 — 최상위 로드맵(2단 경로)은 트리에서 제외.
   const byGroup = new Map();
   for (const rel of rels) {
@@ -226,15 +222,12 @@ ${items}
 
   const body = `<header>
 <p class="hub-link"><a href="../index.html">← 홈</a></p>
-<h1>기초 교재 (일본어)</h1>
+<h1>기초 교재</h1>
 </header>
-<main class="md-content">
-${roadmapHtml}
-</main>
-<nav class="basics-index-tree">
+<main class="basics-index-tree">
 ${tree}
-</nav>`;
-  return page({ title: '기초 교재 (일본어)', body, relRoot: '../' });
+</main>`;
+  return page({ title: '기초 교재', body, relRoot: '../' });
 }
 
 /** basics/ md → docs/basics/ html 렌더 + 랜딩 index. 없으면 조용히 스킵(0 반환). */
