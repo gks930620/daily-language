@@ -129,10 +129,8 @@ ${list}
   return page({ title: '매일 언어 학습', body, relRoot: '' });
 }
 
-/** 폴더명 → 목차 트리의 그룹 표시명(파일 목록 자체는 파일 시스템에서 생성).
- *  versions를 맨 앞에 — 지금은 "1과를 여러 방식으로" 비교하는 게 주 용도. */
+/** 폴더명 → 목차 트리의 그룹 표시명(파일 목록 자체는 파일 시스템에서 생성). */
 const BASICS_GROUPS = {
-  versions: '1과 · 방식 비교',
   'book1-conversation': '대화 입문',
   'book2-grammar': '기본 문법',
   'book3-expressions': '필수 표현',
@@ -171,14 +169,35 @@ function basicsRelRoot(rel) {
   return '../'.repeat(rel.split('/').length);
 }
 
-/** 개별 교재 페이지 렌더(상단 내비 + md 본문). */
+/** 렌더된 본문의 h2에 앵커 id를 달고, 3개 이상이면 접이식 목차를 만든다(긴 교재 페이지 가독성). */
+function withToc(bodyHtml) {
+  let i = 0;
+  const items = [];
+  const html = bodyHtml.replace(/<h2>([\s\S]*?)<\/h2>/g, (_m, text) => {
+    i++;
+    const id = `s${i}`;
+    items.push(`<li><a href="#${id}">${text.replace(/<[^>]+>/g, '')}</a></li>`);
+    return `<h2 id="${id}">${text}</h2>`;
+  });
+  if (items.length < 3) return { html, toc: '' };
+  const toc = `<details class="basics-toc"><summary>목차 (${items.length})</summary>
+<ol>
+${items.join('\n')}
+</ol>
+</details>`;
+  return { html, toc };
+}
+
+/** 개별 교재 페이지 렌더(상단 내비 + 목차 + md 본문). */
 function buildBasicsPage(rel, md) {
   const relRoot = basicsRelRoot(rel);
   const title = firstHeading(md, rel);
   const nav = `<nav class="basics-nav"><a href="${relRoot}basics/index.html">← 기초 교재</a> · <a href="${relRoot}index.html">홈</a></nav>`;
+  const { html, toc } = withToc(mdToHtml(md));
   const body = `${nav}
+${toc}
 <main class="md-content">
-${mdToHtml(md)}
+${html}
 </main>`;
   return page({ title, body, relRoot });
 }

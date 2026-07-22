@@ -420,29 +420,71 @@ p.reading {
   border-radius: 8px;
 }
 
-/* 교재 본문 — 읽기 좋은 행간, 표 테두리·여백, details 여백 */
+/* 긴 교재 페이지 목차(접이식) */
+.basics-toc {
+  margin: 0 0 1.5rem;
+}
+
+.basics-toc > summary {
+  font-weight: 600;
+}
+
+.basics-toc ol {
+  margin: 0.5rem 0 0;
+  padding-left: 1.4rem;
+}
+
+.basics-toc li {
+  margin: 0.3rem 0;
+}
+
+/* 교재 본문 — 깔끔한 읽기: 넉넉한 행간, 또렷한 섹션, 정돈된 표 */
 .md-content {
-  line-height: 1.75;
+  font-size: 1.02rem;
+  line-height: 1.8;
 }
 
 .md-content h1 {
-  font-size: 1.5rem;
+  font-size: 1.55rem;
+  margin: 0.5rem 0 1.5rem;
 }
 
+/* 큰 섹션은 위 여백을 크게 + 옅은 구분선으로 또렷하게 */
 .md-content h2 {
-  margin-top: 2.25rem;
+  margin-top: 2.75rem;
+  padding-bottom: 0.4rem;
+  font-size: 1.3rem;
+  border-bottom: 2px solid var(--accent);
 }
 
+.md-content h3 {
+  margin-top: 1.9rem;
+  font-size: 1.12rem;
+  color: var(--accent);
+}
+
+.md-content h4 {
+  margin: 1.4rem 0 0.5rem;
+  font-size: 1.02rem;
+}
+
+.md-content p {
+  margin: 0.7rem 0;
+}
+
+/* 표 — 넉넉한 여백 + 얼룩무늬로 행 구분, 좁은 화면에선 가로 스크롤 */
 .md-content table {
+  display: block;
   width: 100%;
+  overflow-x: auto;
   border-collapse: collapse;
-  margin: 1rem 0;
+  margin: 1.1rem 0;
   font-size: 0.95rem;
 }
 
 .md-content th,
 .md-content td {
-  padding: 0.45rem 0.6rem;
+  padding: 0.55rem 0.7rem;
   border: 1px solid var(--border);
   text-align: left;
   vertical-align: top;
@@ -450,6 +492,11 @@ p.reading {
 
 .md-content th {
   background: var(--surface);
+  font-weight: 600;
+}
+
+.md-content tbody tr:nth-child(even) {
+  background: color-mix(in srgb, var(--surface) 55%, transparent);
 }
 
 .md-content code {
@@ -475,11 +522,19 @@ p.reading {
   border: none;
 }
 
+/* 책 제목 도입 인용 — 섹션 머리의 부제처럼 옅게 */
 .md-content blockquote {
-  margin: 1rem 0;
-  padding: 0.25rem 1rem;
+  margin: 0.5rem 0 1.25rem;
+  padding: 0.4rem 1rem;
   color: var(--muted);
-  border-left: 4px solid var(--border);
+  font-size: 0.95rem;
+  background: var(--surface);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 6px 6px 0;
+}
+
+.md-content blockquote p {
+  margin: 0.2rem 0;
 }
 
 .md-content ul,
@@ -488,15 +543,20 @@ p.reading {
 }
 
 .md-content li {
-  margin: 0.25rem 0;
+  margin: 0.35rem 0;
+}
+
+.md-content li > ul,
+.md-content li > ol {
+  margin: 0.35rem 0;
 }
 
 .md-content details {
-  margin: 0.75rem 0;
+  margin: 0.85rem 0;
 }
 
 .md-content hr {
-  margin: 1.5rem 0;
+  margin: 2rem 0;
   border: none;
   border-top: 1px solid var(--border);
 }
