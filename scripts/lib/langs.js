@@ -13,8 +13,8 @@ export const LANGS = {
     pageTitle: '매일 영어 학습',
     learnerProfile:
       '기초 문법·어휘는 완료. 토익 700, 수능 2등급(10년 전), 회화 초급. 목표: 토익 900·시사 독해·실전 회화. 매일 30분 분량',
-    newWordCandidates: 25,
-    maxNewWords: 20,
+    newWordCandidates: 18,
+    maxNewWords: 15,
     promptFile: 'prompts/generator.en.md',
     fixtureFile: 'fixtures/sample-content.en.json',
     requiresReading: false,
@@ -24,8 +24,8 @@ export const LANGS = {
     pageTitle: '매일 일본어 학습 (N1 취득자)',
     learnerProfile:
       'JLPT N1 취득자. 시험 대비·기초는 완료 — 유지와 확장이 목적. 사설·칼럼·문학 수준 독해, 관용구·경어·뉘앙스, 완전히 자연스러운 구어. 매일 30분 분량',
-    newWordCandidates: 25,
-    maxNewWords: 20,
+    newWordCandidates: 18,
+    maxNewWords: 15,
     promptFile: 'prompts/generator.ja.md',
     fixtureFile: 'fixtures/sample-content.ja.json',
     requiresReading: true,
@@ -35,8 +35,8 @@ export const LANGS = {
     pageTitle: '매일 일본어 학습 (N2 취득자)',
     learnerProfile:
       'JLPT N2 취득자, N1 지향. 뉴스 기사·에세이 수준 문장에 N1 문형·어휘를 자연스럽게 노출, 드라마 수준 실전 회화. 매일 30분 분량',
-    newWordCandidates: 25,
-    maxNewWords: 20,
+    newWordCandidates: 18,
+    maxNewWords: 15,
     promptFile: 'prompts/generator.ja.md',
     fixtureFile: 'fixtures/sample-content.ja.json',
     requiresReading: true,

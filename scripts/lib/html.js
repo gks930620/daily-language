@@ -107,34 +107,61 @@ export function renderWordKnowledge(w) {
   return parts.join('\n');
 }
 
-/** ② 오늘의 단어 섹션(표). reading은 headword 셀에, 단어 지식은 예문 셀 하단에 — 둘 다 있으면 렌더. */
+/**
+ * ② 오늘의 단어 섹션(클러스터형). 단어당 마커는 정확히 <article class="word-item"> 하나.
+ * head(표제어·reading·품사·뜻) → 예문 → note(어원·감각) → family(파생) → related(구분) →
+ * collocations 순. reading·note·family·related·collocations는 전부 "있으면 렌더".
+ */
 export function renderWords(words) {
-  const rows = words
+  const items = words
     .map((w) => {
+      const reading = w.reading
+        ? ` <small class="reading">${esc(w.reading)}</small>`
+        : '';
+      const etym = w.note ? `\n<div class="word-etym">💡 ${esc(w.note)}</div>` : '';
+      const family =
+        Array.isArray(w.family) && w.family.length > 0
+          ? `\n<div class="word-chips"><span class="chip-label">파생</span>${w.family
+              .map(
+                (m) =>
+                  `<span class="chip"><b>${esc(m.word)}</b>${
+                    m.pos ? `(${esc(m.pos)})` : ''
+                  } ${esc(m.ko)}</span>`
+              )
+              .join('')}</div>`
+          : '';
+      const related =
+        Array.isArray(w.related) && w.related.length > 0
+          ? `\n<div class="word-chips"><span class="chip-label">구분</span>${w.related
+              .map(
+                (r) =>
+                  `<span class="chip chip--related"><b>${esc(r.word)}</b>${
+                    r.ko ? `(${esc(r.ko)})` : ''
+                  } — ${esc(r.note)}</span>`
+              )
+              .join('')}</div>`
+          : '';
       const colls =
         Array.isArray(w.collocations) && w.collocations.length > 0
-          ? `<br><small class="collocations">${esc(w.collocations.join(', '))}</small>`
+          ? `\n<div class="word-colls"><small class="collocations">${esc(
+              w.collocations.join(', ')
+            )}</small></div>`
           : '';
-      const reading = w.reading
-        ? `<br><small class="reading">${esc(w.reading)}</small>`
-        : '';
-      const knowledge = renderWordKnowledge(w);
-      return `<tr class="word-row">
-<td class="headword"><b>${esc(w.headword)}</b>${reading}${colls}</td>
-<td class="pos">${esc(w.pos)}</td>
-<td class="meaning">${esc(w.ko)}</td>
-<td class="example"><span class="en">${esc(w.example_en)}</span><br><small class="ko">${esc(w.example_ko)}</small>${knowledge ? `\n${knowledge}` : ''}</td>
-</tr>`;
+      return `<article class="word-item">
+<p class="word-head"><b class="en">${esc(w.headword)}</b>${reading} <span class="pos">${esc(
+        w.pos
+      )}</span> <span class="meaning">${esc(w.ko)}</span></p>
+<p class="word-ex"><span class="en">${esc(w.example_en)}</span><br><small class="ko">${esc(
+        w.example_ko
+      )}</small></p>${etym}${family}${related}${colls}
+</article>`;
     })
     .join('\n');
   return `<section id="words">
 <h2>오늘의 단어 <span class="count">(${words.length})</span></h2>
-<table class="word-table">
-<thead><tr><th>단어</th><th>품사</th><th>뜻</th><th>예문</th></tr></thead>
-<tbody>
-${rows}
-</tbody>
-</table>
+<div class="word-list">
+${items}
+</div>
 </section>`;
 }
 
@@ -215,14 +242,17 @@ ${reading}<p class="ko">${esc(rs.ko)}</p>
 </section>`;
 }
 
-/** 하루치 본문(섹션 ①~⑤)을 한 번에. day 페이지와 index가 공유한다. */
+/**
+ * 하루치 본문(문단 + 단어)을 한 번에. day 페이지와 index가 공유한다.
+ * 사용자 확정(2026-07-22): 페이지는 문장(문단) + 단어(클러스터)만.
+ * 회화·복습 퀴즈·복습 문장은 제거(추후 재설계) — renderConversation/renderQuiz/
+ * renderReviewSentence 함수 정의는 복원용으로 남겨 두되 여기서 호출하지 않는다.
+ * review 인자는 시그니처 호환을 위해 유지(현재 미사용).
+ */
 export function renderDaySections(content, review) {
   return [
     renderSentences(content.sentences, content.passage_note),
     renderWords(content.words),
-    renderConversation(content.conversation),
-    renderQuiz(review?.due_words ?? []),
-    renderReviewSentence(review?.review_sentence ?? null),
   ].join('\n');
 }
 

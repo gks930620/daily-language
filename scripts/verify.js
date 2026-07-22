@@ -55,20 +55,13 @@ function main() {
   } else if (content && review) {
     const html = readFileSync(dayPath, 'utf8');
     const sentenceCount = countOccurrences(html, '<li class="sentence">');
-    const wordCount = countOccurrences(html, '<tr class="word-row">');
-    const quizCount = countOccurrences(html, '<li class="quiz-item">');
+    const wordCount = countOccurrences(html, '<article class="word-item">');
     if (sentenceCount !== 5) {
       failures.push(`문장 개수 불일치: HTML ${sentenceCount}개 (기대: 5개)`);
     }
     if (wordCount !== expectedWords) {
       failures.push(
         `단어 개수 불일치: HTML ${wordCount}개 (기대: ${selected ? 'selected.json' : 'content.json'} ${expectedWords}개)`
-      );
-    }
-    const expectedQuiz = (review.due_words ?? []).length;
-    if (quizCount !== expectedQuiz) {
-      failures.push(
-        `퀴즈 개수 불일치: HTML ${quizCount}개 (기대: review.json due ${expectedQuiz}개)`
       );
     }
   }
@@ -79,7 +72,7 @@ function main() {
     process.exit(1);
   }
   console.log(
-    `검증 통과(${lang}, ${date}): 문장 5, 단어 ${expectedWords}, 퀴즈 ${(review.due_words ?? []).length}, settled OK`
+    `검증 통과(${lang}, ${date}): 문장 5, 단어 ${expectedWords}, settled OK`
   );
 }
 

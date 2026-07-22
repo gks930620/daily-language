@@ -45,21 +45,17 @@ test('date 불일치 에러', () => {
   assert.match(errors[0], /2026-07-21/);
 });
 
-test('words 개수 범위(20~25) 검사', () => {
+test('words 개수 범위(15~18) 검사', () => {
   const content = loadFixture('en');
-  content.words = content.words.slice(0, 19);
+  content.words = content.words.slice(0, 14); // 14개 → 범위 미만
   const errors = validateContent(content, DATE, 'en');
-  assert.ok(errors.some((e) => e.startsWith('words:') && e.includes('20~25')), errors.join('\n'));
+  assert.ok(errors.some((e) => e.startsWith('words:') && e.includes('15~18')), errors.join('\n'));
 });
 
-test('conversation.lines 6개 미만이면 에러', () => {
+test('conversation 없이도 통과한다(2026-07-22 회화 제거)', () => {
   const content = loadFixture('en');
-  content.conversation.lines = content.conversation.lines.slice(0, 5);
-  const errors = validateContent(content, DATE, 'en');
-  assert.ok(
-    errors.some((e) => e.startsWith('conversation.lines:')),
-    errors.join('\n')
-  );
+  assert.equal(content.conversation, undefined);
+  assert.deepEqual(validateContent(content, DATE, 'en'), []);
 });
 
 test('assertValidContent: 실패 시 모든 에러를 담아 throw', () => {
@@ -96,14 +92,9 @@ test('ja: reading 누락은 필드 경로를 찍는 에러', () => {
   const content = loadFixture('ja');
   delete content.sentences[1].reading;
   content.words[3].reading = '  ';
-  delete content.conversation.lines[2].reading;
   const errors = validateContent(content, DATE, 'ja-n2');
   assert.ok(errors.some((e) => e.startsWith('sentences[1].reading:')), errors.join('\n'));
   assert.ok(errors.some((e) => e.startsWith('words[3].reading:')), errors.join('\n'));
-  assert.ok(
-    errors.some((e) => e.startsWith('conversation.lines[2].reading:')),
-    errors.join('\n')
-  );
 });
 
 test('ja: en은 reading을 요구하지 않는다 — en 픽스처가 en으로 통과', () => {

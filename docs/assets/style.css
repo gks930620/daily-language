@@ -163,7 +163,93 @@ details p {
   font-size: 0.92rem;
 }
 
-/* ② 오늘의 단어 표 */
+/* ② 오늘의 단어 — 클러스터형(html.js renderWords). 단어마다 한 박스:
+   head(표제어·reading·품사·뜻) → 예문 → 어원(💡 note) → 파생/구분 칩 → 연어.
+   (구 .word-table 스타일은 표 렌더가 클러스터로 교체돼 미사용 — 복원용으로 남겨 둠.) */
+.word-list {
+  margin: 0.5rem 0;
+}
+
+.word-item {
+  margin: 0.75rem 0;
+  padding: 0.75rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.word-head {
+  margin: 0 0 0.35rem;
+  font-size: 1.1rem;
+}
+
+.word-head .en {
+  font-weight: 600;
+}
+
+.word-head .pos {
+  color: var(--muted);
+  font-size: 0.75em;
+}
+
+.word-head .meaning {
+  font-weight: 600;
+}
+
+.word-ex {
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+.word-ex .ko {
+  color: var(--muted);
+}
+
+.word-etym {
+  margin: 0.4rem 0;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.word-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem;
+  margin: 0.4rem 0;
+}
+
+.chip-label {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.chip {
+  padding: 0.15rem 0.5rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.chip--related {
+  border-style: dashed;
+}
+
+.word-colls {
+  margin: 0.4rem 0 0;
+}
+
+.word-colls .collocations {
+  font-size: 0.85rem;
+}
+
+/* 구 오늘의 단어 표(미사용 — 복원용) */
 .word-table {
   width: 100%;
   border-collapse: collapse;
