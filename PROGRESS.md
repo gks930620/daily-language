@@ -11,17 +11,27 @@
 - 단어 지식 기능(note 필수·family·related, 연관 클러스터) — 커밋 d1a3794, 내일부터 콘텐츠에 적용
 - 기초 커리큘럼 로드맵: `basics/ja/README.md`
 
-## 진행 중 (백그라운드 에이전트 7명, 이 세션에서 실행)
+## 완료·push됨 (2026-07-22)
 
 | 작업 | 산출 위치 | 상태 |
 |---|---|---|
-| A. 허브 날짜 리스트 + B. 오늘의 문단 | scripts/·prompts/·fixtures/·tests/·docs/ | ✅ **완료·push** (테스트 46, 3트랙 verify 통과, 과거 데이터 하위 호환. 문단 형식은 2026-07-23 생성분부터) |
-| 기초 1권: 대화 입문 8주 48유닛 | basics/ja/book1-conversation/ | 진행 중 |
-| 기초 2권: 기본 문법(5단/1단/불규칙 방식) part1~4 | basics/ja/book2-grammar/ | 진행 중 |
-| 기초 3권: 필수 표현 12챕터 350+ | basics/ja/book3-expressions/ | 진행 중 |
-| 기초 4권: 필수 한자 300, 10챕터 | basics/ja/book4-kanji/ | 진행 중 |
-| 대안 구성 v01~v05 (구성+1단원 샘플) | basics/ja/versions/ | 진행 중 |
-| 대안 구성 v06~v10 | basics/ja/versions/ | 진행 중 |
+| A. 허브 날짜 리스트 + B. 오늘의 문단(passage) | scripts/·prompts/·fixtures/·tests/·docs/ | ✅ 커밋 9e92f1b·210a3dd (테스트 46) |
+| 일일 데이터 초기화(07-21·07-22 제거, SRS 리셋) | data/·docs/·state/ | ✅ 커밋 248c7ab — **07-23부터 클린 시작** |
+| 기초 1권 대화 입문 8주 48유닛 2640줄 | basics/ja/book1-conversation/ | ✅ bf39d8f |
+| 기초 2권 기본 문법(5단/1단/불규칙) 2208줄 | basics/ja/book2-grammar/ | ✅ f12759e |
+| 기초 3권 필수 표현 445개 12챕터 | basics/ja/book3-expressions/ | ✅ bf39d8f |
+| 기초 4권 필수 한자 311자 10챕터 | basics/ja/book4-kanji/ | ✅ acd2a48 |
+| 대안 구성 v01~v10 (구성+1단원 샘플) | basics/ja/versions/ | ✅ bf39d8f·acd2a48 |
+
+## 표현 포맷 5종 프리뷰 (사용자 선택 대기 — 2026-07-22)
+
+사용자 방향 전환: 스키마를 바꾸지 말고 **내용은 그대로(단어 20개면 같은 20개), 보여주는 포맷만 5가지**로 만들어 비교·선택. 스키마 개편(지문5개 등)은 보류 — 포맷 선택 후 반영.
+
+- ✅ 커밋 a254546: `scripts/lib/formats.js`(renderFormat1~5), `scripts/preview-formats.js`, `docs/preview/`(6페이지), style.css `fmt-` 클래스. 파이프라인·스키마 무변경, 테스트 46 유지.
+- 프리뷰 URL: **https://gks930620.github.io/daily-language/preview/**
+- 5포맷: ①정통 교재형 ②플래시카드(액티브 리콜)형 ③맥락 우선(스토리)형 ④미니멀 한눈에형 ⑤심화 클러스터형.
+- **사용자가 번호 고르면 → 그 포맷을 html.js 일일 렌더의 기본으로 채택** + (원하면) 지문5개·회화 실제출처(AI추정 안내) 등 콘텐츠 튜닝 반영.
+- 이전에 논의된 미반영 아이디어(선택 후 다시 검토): 지문 5개 확장, 회화 실제 작품 출처(사용자는 "실제 작품명 출처"를 원함 — html에 "출처는 AI 추정" 안내 병기 조건), 단어 연관 강화(note/family/related는 이미 있음).
 
 ## 세션이 끊겼을 때 이어받는 법
 
