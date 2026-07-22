@@ -1,0 +1,295 @@
+{
+  "date": "2026-07-23",
+  "words": [
+    {
+      "headword": "sovereign",
+      "pos": "a./n.",
+      "ko": "주권을 지닌; (한 나라의) 국가; 군주",
+      "example_en": "The country's sovereign debt was downgraded to junk status by all three major rating agencies.",
+      "example_ko": "그 나라의 국가 부채는 3대 신용평가사 모두에 의해 정크 등급으로 강등되었다.",
+      "collocations": [
+        "sovereign debt",
+        "sovereign default"
+      ],
+      "note": "sovereign debt = 정부(국가)가 진 빚. 어원 super(위에) → '최고 권력을 지닌'. 발음 주의 — '소버린'으로 가운데 g가 거의 안 들린다. 명사 sovereignty(주권).",
+      "family": [
+        {
+          "word": "sovereignty",
+          "pos": "n.",
+          "ko": "주권, 통치권"
+        }
+      ]
+    },
+    {
+      "headword": "default",
+      "pos": "n./v.",
+      "ko": "채무 불이행; (의무를) 이행하지 않다",
+      "example_en": "If the government defaults on its bonds, borrowing costs will soar for years.",
+      "example_ko": "정부가 국채를 상환하지 못하면, 차입 비용이 수년간 치솟을 것이다.",
+      "collocations": [
+        "default on a loan",
+        "risk of default"
+      ],
+      "note": "같은 단어가 두 세계에서 전혀 다른 뜻 — 금융에선 '빚을 못 갚음', IT에선 '기본값(default setting)'. by default = '달리 정한 게 없어 자동으로'. 채무 맥락에선 default on + 대상.",
+      "related": [
+        {
+          "word": "delinquent",
+          "ko": "(상환이) 연체된",
+          "note": "delinquent는 '아직 갚긴 하지만 기한을 넘긴' 연체 상태, default는 '사실상 못 갚겠다고 판정된' 더 심각한 단계"
+        }
+      ]
+    },
+    {
+      "headword": "creditor",
+      "pos": "n.",
+      "ko": "채권자 (돈을 빌려준 쪽)",
+      "example_en": "Negotiations dragged on because the creditors could not agree on terms.",
+      "example_ko": "채권자들이 조건에 합의하지 못해 협상이 지지부진했다.",
+      "collocations": [
+        "foreign creditors",
+        "repay creditors"
+      ],
+      "note": "credit(신용·빌려줌) + -or(사람) → '빌려준 사람'. 정반대 짝은 debtor(채무자). '누가 돈을 줬나'를 따질 때 creditor(준 쪽) ↔ debtor(받은 쪽)로 외운다.",
+      "related": [
+        {
+          "word": "debtor",
+          "ko": "채무자",
+          "note": "creditor에게 갚아야 하는 쪽 — 방향이 정반대인 한 쌍"
+        }
+      ]
+    },
+    {
+      "headword": "restructure",
+      "pos": "v.",
+      "ko": "구조를 개편하다; (부채를) 재조정하다",
+      "example_en": "The airline was forced to restructure its debt to avoid bankruptcy.",
+      "example_ko": "그 항공사는 파산을 피하기 위해 부채를 재조정할 수밖에 없었다.",
+      "collocations": [
+        "restructure debt",
+        "restructure the company"
+      ],
+      "note": "re-(다시) + structure(구조). 부채 맥락의 debt restructuring은 상환 기간·금리·원금을 다시 짜는 것, 기업 맥락에선 '조직 개편·구조조정'. 명사 restructuring.",
+      "family": [
+        {
+          "word": "restructuring",
+          "pos": "n.",
+          "ko": "재조정, 구조 개편"
+        }
+      ]
+    },
+    {
+      "headword": "austerity",
+      "pos": "n.",
+      "ko": "(재정) 긴축; 내핍, 검약",
+      "example_en": "Years of austerity left the public health system severely underfunded.",
+      "example_ko": "수년간의 긴축으로 공공 보건 체계는 심각한 재정난에 빠졌다.",
+      "collocations": [
+        "austerity measures",
+        "impose austerity"
+      ],
+      "note": "형용사 austere(엄격한·검소한)의 명사. 정부가 지출을 줄이고 세금을 늘리는 정책을 austerity measures라 한다. 어원은 '거칠고 쓴 맛' → 엄격·금욕.",
+      "family": [
+        {
+          "word": "austere",
+          "pos": "a.",
+          "ko": "엄격한; 꾸밈없는, 검소한"
+        }
+      ]
+    },
+    {
+      "headword": "insolvent",
+      "pos": "a.",
+      "ko": "지급 불능의 (빚을 갚을 수 없는)",
+      "example_en": "The bank was declared insolvent after its losses wiped out its capital.",
+      "example_ko": "그 은행은 손실로 자본이 바닥나자 지급 불능 상태로 선언되었다.",
+      "collocations": [
+        "become insolvent",
+        "technically insolvent"
+      ],
+      "note": "in-(부정) + solvent. 여기서 solvent는 '용제'가 아니라 '빚을 갚을 능력이 있는'이라는 형용사. 명사 insolvency는 bankruptcy(파산)로 가는 앞 단계.",
+      "family": [
+        {
+          "word": "solvent",
+          "pos": "a.",
+          "ko": "지급 능력이 있는"
+        },
+        {
+          "word": "insolvency",
+          "pos": "n.",
+          "ko": "지급 불능, 파산 상태"
+        }
+      ]
+    },
+    {
+      "headword": "moratorium",
+      "pos": "n.",
+      "ko": "(부채 상환 등의) 일시 정지, 지불 유예",
+      "example_en": "Lenders agreed to a six-month moratorium on repayments.",
+      "example_ko": "대주들은 6개월간 상환을 유예하기로 합의했다.",
+      "collocations": [
+        "a moratorium on debt",
+        "impose a moratorium"
+      ],
+      "note": "라틴어 mora(지연)에서 왔다. 빚뿐 아니라 '(활동의) 일시 중단'에도 쓴다 — a moratorium on nuclear testing(핵실험 유예). 복수형은 moratoria 또는 moratoriums.",
+      "related": [
+        {
+          "word": "reprieve",
+          "ko": "(형 집행·고통의) 일시 유예",
+          "note": "reprieve는 처벌·위기의 '한숨 돌릴 유예', moratorium은 의무·활동의 '공식적 중단'에 무게"
+        }
+      ]
+    },
+    {
+      "headword": "concession",
+      "pos": "n.",
+      "ko": "양보; (사업) 이권, 영업권",
+      "example_en": "The union won several concessions during the final round of talks.",
+      "example_ko": "노조는 마지막 협상에서 몇 가지 양보를 얻어냈다.",
+      "collocations": [
+        "make a concession",
+        "grant a concession"
+      ],
+      "note": "동사 concede(인정하다·양보하다)의 명사. con-(완전히) + cede(가다·내주다) → cede 뿌리(recede 물러나다, precede 앞서다). 협상의 '양보'뿐 아니라 공항 매점 같은 '영업권'도 concession.",
+      "family": [
+        {
+          "word": "concede",
+          "pos": "v.",
+          "ko": "인정하다; 양보하다"
+        }
+      ]
+    },
+    {
+      "headword": "service",
+      "pos": "v.",
+      "ko": "(부채·이자를) 정기적으로 갚아 나가다",
+      "example_en": "The company can no longer service its debt out of operating income.",
+      "example_ko": "그 회사는 더 이상 영업 이익으로 부채를 갚아 나갈 수 없다.",
+      "collocations": [
+        "service the debt",
+        "debt-servicing costs"
+      ],
+      "note": "흔한 명사 '서비스'가 아니라, 동사로 '(빚을) 상환하다'·'(기계를) 정비하다'라는 뜻이 경제·시사 지문에 자주 나온다. debt-servicing costs = 원리금 상환 비용.",
+      "related": [
+        {
+          "word": "repay",
+          "ko": "(원금을) 갚다",
+          "note": "repay는 '원금을 되갚아 없애다', service는 '기한마다 이자·원금을 꾸준히 갚아 나가다'로 초점이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "saddle",
+      "pos": "v.",
+      "ko": "(부담·책임을) 지우다, 떠안기다",
+      "example_en": "The merger saddled the firm with billions in new liabilities.",
+      "example_ko": "그 합병은 회사에 수십억의 새 부채를 떠안겼다.",
+      "collocations": [
+        "be saddled with debt",
+        "saddle someone with"
+      ],
+      "note": "명사로는 '(말) 안장'. 말 등에 안장을 얹듯 부담을 얹는 그림 → be saddled with ~ = '(원치 않는) ~을 떠안다'로 흔히 수동태로 쓴다.",
+      "related": [
+        {
+          "word": "burden",
+          "ko": "짐을 지우다; 부담",
+          "note": "burden도 거의 같은 뜻이나 더 격식체·추상적, saddle은 '떠맡기다'의 구어적·비유적 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "impasse",
+      "pos": "n.",
+      "ko": "교착 상태, 막다른 골목",
+      "example_en": "After weeks of talks, the two sides reached a complete impasse.",
+      "example_ko": "몇 주간의 협상 끝에 양측은 완전한 교착 상태에 이르렀다.",
+      "collocations": [
+        "reach an impasse",
+        "break the impasse"
+      ],
+      "note": "프랑스어에서 온 말로 im-(부정) + passe(통로) → '지나갈 수 없는 길'. 협상이 더 나아가지 못하는 상태. 발음은 '임패스'. 비슷한 말 deadlock, stalemate.",
+      "related": [
+        {
+          "word": "stalemate",
+          "ko": "교착 상태, 수렁",
+          "note": "원래 체스에서 '둘 다 둘 수가 없는 무승부' — impasse와 거의 동의어로 시사에서 번갈아 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "protracted",
+      "pos": "a.",
+      "ko": "오래 끄는, 장기화된",
+      "example_en": "A protracted legal battle drained the company's finances.",
+      "example_ko": "장기화된 법정 다툼이 회사의 재정을 고갈시켰다.",
+      "collocations": [
+        "a protracted dispute",
+        "protracted negotiations"
+      ],
+      "note": "pro-(앞으로) + tract(끌다) → '길게 끌어당긴'. tract(끌다) 무리: attract(끌어당기다), extract(뽑아내다), contract(수축하다). 주로 부정적으로 '지겹게 길어진' 것에 쓴다.",
+      "family": [
+        {
+          "word": "protract",
+          "pos": "v.",
+          "ko": "오래 끌다, 연장하다"
+        }
+      ]
+    },
+    {
+      "headword": "sluggish",
+      "pos": "a.",
+      "ko": "부진한, 활기 없는, 느릿한",
+      "example_en": "Sluggish demand forced the factory to cut production.",
+      "example_ko": "부진한 수요로 공장은 생산을 줄여야 했다.",
+      "collocations": [
+        "sluggish growth",
+        "sluggish demand"
+      ],
+      "note": "slug(민달팽이)에서 온 말 → '민달팽이처럼 굼뜬'. 경제 기사에서 sluggish growth·sluggish demand(부진한 성장·수요)로 단골 등장. 사람·경기·시장 모두에 쓴다.",
+      "related": [
+        {
+          "word": "stagnant",
+          "ko": "정체된, 침체된",
+          "note": "sluggish는 '느리지만 조금은 움직이는', stagnant는 '고인 물처럼 아예 멈춰 썩는' 더 강한 정체"
+        }
+      ]
+    },
+    {
+      "headword": "divert",
+      "pos": "v.",
+      "ko": "(방향을) 돌리다; (자금·자원을) 전용하다",
+      "example_en": "Funds meant for schools were diverted to servicing the national debt.",
+      "example_ko": "학교에 쓰일 자금이 국가 부채 상환으로 전용되었다.",
+      "collocations": [
+        "divert funds",
+        "divert attention"
+      ],
+      "note": "di-(딴 데로) + vert(돌다) → '방향을 딴 데로 틀다'. vert(돌다) 무리: convert(전환하다), reverse(뒤집다), divert. 파생 diversion(우회; 전용; 기분전환).",
+      "family": [
+        {
+          "word": "diversion",
+          "pos": "n.",
+          "ko": "우회; 전용; 기분 전환"
+        }
+      ]
+    },
+    {
+      "headword": "reluctance",
+      "pos": "n.",
+      "ko": "꺼림, 마지못해 함, 주저",
+      "example_en": "Investors showed a marked reluctance to buy the risky bonds.",
+      "example_ko": "투자자들은 그 위험한 채권을 사기를 뚜렷이 꺼렸다.",
+      "collocations": [
+        "reluctance to do",
+        "with great reluctance"
+      ],
+      "note": "형용사 reluctant(꺼리는)의 명사. 어원 re-(맞서) + luctari(몸부림치다) → '마음이 맞서 버팀'. be reluctant to do = '~하기를 주저하다'.",
+      "family": [
+        {
+          "word": "reluctant",
+          "pos": "a.",
+          "ko": "꺼리는, 마지못해 하는"
+        }
+      ]
+    }
+  ]
+}

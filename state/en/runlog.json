@@ -8,6 +8,14 @@
       "content_sha256": "b554518671dcc9211a134672ff3f634150bbeb533946ab7a82f5d19322b93637",
       "notes": [],
       "built_at": "2026-07-22T05:23:58.724Z"
+    },
+    "2026-07-23": {
+      "prepared_at": "2026-07-22T19:23:26.940Z",
+      "settled": true,
+      "settled_at": "2026-07-22T19:27:51.728Z",
+      "content_sha256": "a848141049a5e3ef03b170498fa48774cc2beb82501ea3661e33fe45a877c01b",
+      "notes": [],
+      "built_at": "2026-07-22T19:27:51.788Z"
     }
   }
 }
