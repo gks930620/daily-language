@@ -299,3 +299,365 @@ p.reading {
   margin: 0.5rem 0 0;
   font-size: 0.9rem;
 }
+
+/* ══════════════════════════════════════════════════════════════════════
+   표현 포맷 프리뷰(docs/preview/) 전용. 일일 페이지 렌더에는 쓰이지 않는
+   새 클래스만 여기에 둔다(fmt- 접두). 색은 전부 기존 변수로 다크모드 대응.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* 프리뷰 상·하단 내비 + 개요 */
+.fmt-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  padding: 0.5rem 0.75rem;
+  margin: 0.25rem 0;
+  font-size: 0.85rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.fmt-nav-cur {
+  font-weight: 600;
+}
+
+.fmt-tagline {
+  margin: 0.25rem 0 0;
+  color: var(--muted);
+}
+
+.fmt-sample {
+  margin: 0.1rem 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.fmt-note {
+  margin: 0.4rem 0 0.75rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.fmt-index-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.fmt-index-item {
+  margin: 0.75rem 0;
+  padding: 0.75rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.fmt-index-link {
+  font-size: 1.05rem;
+}
+
+.fmt-index-desc {
+  margin: 0.3rem 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* 포맷 2 — 액티브 리콜(플래시카드) */
+.fmt-recall {
+  margin: 0 0 1rem;
+}
+
+.fmt-recall .en {
+  margin: 0 0 0.25rem;
+  font-weight: 500;
+}
+
+.fmt-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.6rem;
+  margin: 0.5rem 0;
+}
+
+.fmt-card {
+  margin: 0;
+}
+
+.fmt-card > summary {
+  display: block;
+}
+
+.fmt-card-pos {
+  color: var(--muted);
+  font-size: 0.85em;
+}
+
+.fmt-card-ex {
+  display: block;
+  margin-top: 0.3rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.fmt-card-mean,
+.fmt-card-answer {
+  margin: 0.25rem 0;
+  font-weight: 600;
+}
+
+.fmt-key-recall {
+  margin: 0.3rem 0;
+}
+
+/* 포맷 3 — 맥락 우선(스토리) */
+.fmt-scene {
+  margin: 0.5rem 0 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+}
+
+.fmt-scene-situation {
+  margin: 0;
+}
+
+.fmt-script {
+  margin: 0.5rem 0;
+}
+
+.fmt-scene-line {
+  display: grid;
+  grid-template-columns: 1.4rem 1fr;
+  gap: 0.1rem 0.4rem;
+  margin: 0.5rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px dashed var(--border);
+}
+
+.fmt-scene-line .speaker {
+  grid-row: 1 / 3;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.fmt-scene-line .ko {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.fmt-story-s {
+  margin: 0 0 1.1rem;
+}
+
+.fmt-story-s .en {
+  margin: 0 0 0.15rem;
+  font-weight: 500;
+}
+
+.fmt-story-s .ko {
+  margin: 0 0 0.35rem;
+  color: var(--muted);
+}
+
+.fmt-wordlist {
+  list-style: none;
+  padding-left: 0;
+}
+
+.fmt-wordline {
+  margin: 0.6rem 0;
+  padding: 0.55rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.fmt-wl-head {
+  margin: 0 0 0.2rem;
+}
+
+.fmt-wl-head .pos {
+  color: var(--muted);
+  font-size: 0.85em;
+}
+
+.fmt-wl-ex {
+  margin: 0.15rem 0 0;
+  font-size: 0.92rem;
+}
+
+/* 포맷 4 — 미니멀 한눈에 */
+.fmt-min-list {
+  padding-left: 1.1rem;
+}
+
+.fmt-min-word {
+  margin: 0.3rem 0;
+  line-height: 1.5;
+}
+
+.fmt-min-fam,
+.fmt-min-ex {
+  color: var(--muted);
+  font-size: 0.9em;
+}
+
+.fmt-min-sentence {
+  margin: 0.5rem 0;
+}
+
+.fmt-min-sentence .en {
+  margin: 0;
+}
+
+.fmt-min-sentence .ko {
+  margin: 0 0 0.35rem;
+  color: var(--muted);
+}
+
+.fmt-min-quiz {
+  margin: 0.4rem 0;
+}
+
+.fmt-dialogue-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.fmt-dialogue-table th,
+.fmt-dialogue-table td {
+  padding: 0.35rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.fmt-dialogue-table .speaker {
+  width: 1.5rem;
+  color: var(--accent);
+}
+
+.fmt-dialogue-table .ko {
+  color: var(--muted);
+}
+
+/* 포맷 5 — 심화 클러스터 */
+.fmt-cluster {
+  margin: 0.75rem 0;
+  padding: 0.75rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.fmt-cluster-head {
+  margin: 0 0 0.25rem;
+  font-size: 1.1rem;
+}
+
+.fmt-cluster-head .pos {
+  color: var(--muted);
+  font-size: 0.7em;
+}
+
+.fmt-cluster-ko {
+  font-weight: 600;
+}
+
+.fmt-cluster-ex {
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+.fmt-etymology {
+  margin: 0.5rem 0;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.fmt-etymology b {
+  color: var(--accent);
+  font-size: 0.82rem;
+}
+
+.fmt-etymology p {
+  margin: 0.2rem 0 0;
+  font-size: 0.92rem;
+}
+
+.fmt-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem;
+  margin: 0.4rem 0;
+}
+
+.fmt-chip-label {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.fmt-chip {
+  padding: 0.15rem 0.5rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.fmt-chip--related {
+  border-style: dashed;
+}
+
+.fmt-deep-s {
+  margin: 0 0 1.25rem;
+}
+
+.fmt-deep-s .en {
+  margin: 0 0 0.15rem;
+  font-weight: 500;
+}
+
+.fmt-deep-s .ko {
+  margin: 0 0 0.4rem;
+  color: var(--muted);
+}
+
+.fmt-structure {
+  padding: 0.5rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.fmt-structure b {
+  color: var(--accent);
+  font-size: 0.82rem;
+}
+
+.fmt-structure .structure {
+  margin: 0.2rem 0 0;
+  white-space: pre-line;
+  font-size: 0.92rem;
+}
+
+.fmt-key-box {
+  margin: 0.5rem 0 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+}
+
+.fmt-key-box h3 {
+  margin-top: 0.5rem;
+}
