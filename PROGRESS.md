@@ -23,6 +23,12 @@
 | 기초 4권 필수 한자 311자 10챕터 | basics/ja/book4-kanji/ | ✅ acd2a48 |
 | 대안 구성 v01~v10 (구성+1단원 샘플) | basics/ja/versions/ | ✅ bf39d8f·acd2a48 |
 
+## 기초 교재 웹 열람 (2026-07-22, 커밋 1f81598)
+
+- `basics/` md 49개 → `docs/basics/` html 49개(build.js가 렌더, 외부 의존성 0 마크다운 변환기 `scripts/lib/markdown.js`). 표·`<details>` 정상, `.md`→`.html` 링크 재작성.
+- 허브 홈(docs/index.html)에 **📚 기초 교재 버튼** → `docs/basics/index.html`(로드맵 + 자동 목차 트리: 대화입문·기본문법·필수표현·필수한자·대안구성 v01~10).
+- URL: https://gks930620.github.io/daily-language/basics/ · 테스트 55 통과.
+
 ## 일일 페이지 확정 (2026-07-22, 커밋 6713f4d)
 
 - **최종 포맷**: 문단 + 단어 15개(클러스터형: 어원·파생·혼동어 칩). **회화·복습퀴즈·복습문장 제거**(추후 재설계, 렌더러는 코드에 남김). 단어 25→15(후보18→선별15).
