@@ -325,10 +325,17 @@ details p {
   color: var(--muted);
 }
 
-/* reading(발음 보조 — 일본어 히라가나 등). 작고 옅은 보조 텍스트, 다크모드는 변수로 대응. */
+/* reading(발음 보조 — 단어 히라가나 등). 작고 옅은 보조 텍스트, 다크모드는 변수로 대응. */
 .reading {
   color: var(--muted);
   font-size: 0.88em;
+}
+
+/* furigana(원문에 후리가나를 인라인으로 단 문장 — 옅은 보조가 아니라 읽을 수 있는 본문). */
+.furigana {
+  margin: 0.15rem 0;
+  font-size: 1.05rem;
+  line-height: 1.9;
 }
 
 /* 단어 지식(note·파생 family·혼동어 related) — 단어 표 예문 셀 하단과 퀴즈 정답에 공용.
@@ -384,217 +391,6 @@ p.reading {
 .hub-link {
   margin: 0.5rem 0 0;
   font-size: 0.9rem;
-}
-
-/* ══════════════════════════════════════════════════════════════════════
-   기초 교재(docs/basics/) — md→html 렌더. 새 클래스만(기존 렌더에 영향 없음).
-   색은 전부 기존 변수로 다크모드 대응.
-   ══════════════════════════════════════════════════════════════════════ */
-
-/* 버튼 모양 링크(허브의 기초 교재 진입) */
-.btn {
-  display: inline-block;
-  padding: 0.55rem 1.1rem;
-  background: var(--accent);
-  color: var(--bg);
-  border-radius: 8px;
-  font-weight: 600;
-}
-
-.btn:hover {
-  text-decoration: none;
-  opacity: 0.9;
-}
-
-.hub-basics {
-  margin: 0.75rem 0;
-}
-
-/* 교재 페이지 상단/하단 내비 */
-.basics-nav {
-  margin: 0.25rem 0 1rem;
-  padding: 0.5rem 0.75rem;
-  font-size: 0.9rem;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-}
-
-/* 긴 교재 페이지 목차(접이식) */
-.basics-toc {
-  margin: 0 0 1.5rem;
-}
-
-.basics-toc > summary {
-  font-weight: 600;
-}
-
-.basics-toc ol {
-  margin: 0.5rem 0 0;
-  padding-left: 1.4rem;
-}
-
-.basics-toc li {
-  margin: 0.3rem 0;
-}
-
-/* 교재 본문 — 깔끔한 읽기: 넉넉한 행간, 또렷한 섹션, 정돈된 표 */
-.md-content {
-  font-size: 1.02rem;
-  line-height: 1.8;
-}
-
-.md-content h1 {
-  font-size: 1.55rem;
-  margin: 0.5rem 0 1.5rem;
-}
-
-/* 큰 섹션은 위 여백을 크게 + 옅은 구분선으로 또렷하게 */
-.md-content h2 {
-  margin-top: 2.75rem;
-  padding-bottom: 0.4rem;
-  font-size: 1.3rem;
-  border-bottom: 2px solid var(--accent);
-}
-
-.md-content h3 {
-  margin-top: 1.9rem;
-  font-size: 1.12rem;
-  color: var(--accent);
-}
-
-.md-content h4 {
-  margin: 1.4rem 0 0.5rem;
-  font-size: 1.02rem;
-}
-
-.md-content p {
-  margin: 0.7rem 0;
-}
-
-/* 표 — 넉넉한 여백 + 얼룩무늬로 행 구분, 좁은 화면에선 가로 스크롤 */
-.md-content table {
-  display: block;
-  width: 100%;
-  overflow-x: auto;
-  border-collapse: collapse;
-  margin: 1.1rem 0;
-  font-size: 0.95rem;
-}
-
-.md-content th,
-.md-content td {
-  padding: 0.55rem 0.7rem;
-  border: 1px solid var(--border);
-  text-align: left;
-  vertical-align: top;
-}
-
-.md-content th {
-  background: var(--surface);
-  font-weight: 600;
-}
-
-.md-content tbody tr:nth-child(even) {
-  background: color-mix(in srgb, var(--surface) 55%, transparent);
-}
-
-.md-content code {
-  padding: 0.1rem 0.35rem;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 5px;
-  font-size: 0.9em;
-}
-
-.md-content pre {
-  margin: 1rem 0;
-  padding: 0.75rem 1rem;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  overflow-x: auto;
-}
-
-.md-content pre code {
-  padding: 0;
-  background: none;
-  border: none;
-}
-
-/* 책 제목 도입 인용 — 섹션 머리의 부제처럼 옅게 */
-.md-content blockquote {
-  margin: 0.5rem 0 1.25rem;
-  padding: 0.4rem 1rem;
-  color: var(--muted);
-  font-size: 0.95rem;
-  background: var(--surface);
-  border-left: 3px solid var(--accent);
-  border-radius: 0 6px 6px 0;
-}
-
-.md-content blockquote p {
-  margin: 0.2rem 0;
-}
-
-.md-content ul,
-.md-content ol {
-  padding-left: 1.4rem;
-}
-
-.md-content li {
-  margin: 0.35rem 0;
-}
-
-.md-content li > ul,
-.md-content li > ol {
-  margin: 0.35rem 0;
-}
-
-.md-content details {
-  margin: 0.85rem 0;
-}
-
-.md-content hr {
-  margin: 2rem 0;
-  border: none;
-  border-top: 1px solid var(--border);
-}
-
-/* 랜딩(docs/basics/index.html) — 사설 없이 깔끔한 탭 메뉴. */
-.basics-index-tree {
-  margin-top: 1rem;
-}
-
-.basics-group {
-  margin: 1.5rem 0;
-}
-
-.basics-tree {
-  list-style: none;
-  padding-left: 0;
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  overflow: hidden;
-}
-
-.basics-tree li {
-  margin: 0;
-  border-bottom: 1px solid var(--border);
-}
-
-.basics-tree li:last-child {
-  border-bottom: none;
-}
-
-.basics-tree a {
-  display: block;
-  padding: 0.7rem 1rem;
-}
-
-.basics-tree a:hover {
-  background: var(--surface);
-  text-decoration: none;
 }
 
 /* ══════════════════════════════════════════════════════════════════════

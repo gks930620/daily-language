@@ -1,21 +1,4 @@
 {
   "schema_version": 1,
-  "runs": {
-    "2026-07-22": {
-      "prepared_at": "2026-07-22T05:12:10.547Z",
-      "settled": true,
-      "settled_at": "2026-07-22T05:23:58.673Z",
-      "content_sha256": "87587bd27ea70a663fc6aacbe205a401cf4e72545d4b01be29574b62f01a11b4",
-      "notes": [],
-      "built_at": "2026-07-22T19:32:44.762Z"
-    },
-    "2026-07-23": {
-      "prepared_at": "2026-07-22T19:23:27.083Z",
-      "settled": true,
-      "settled_at": "2026-07-22T19:37:27.202Z",
-      "content_sha256": "b0ab81091e6c624604891c5547741925b3290e04e567f72bbf5ccd000526d8b3",
-      "notes": [],
-      "built_at": "2026-07-22T19:37:27.272Z"
-    }
-  }
+  "runs": {}
 }

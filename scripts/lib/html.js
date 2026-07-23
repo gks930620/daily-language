@@ -44,14 +44,9 @@ export function renderSentences(sentences, passageNote) {
   let passage = '';
   if (passageNote) {
     const text = sentences.map((s) => s.en).join(hasReading ? '' : ' ');
-    const readingBlock = hasReading
-      ? `\n<details><summary>전문 읽기</summary><p class="reading">${esc(
-          sentences.map((s) => s.reading ?? '').join('')
-        )}</p></details>`
-      : '';
     passage = `<div class="passage">
 <p class="passage-note">${esc(passageNote)}</p>
-<p class="passage-text en">${esc(text)}</p>${readingBlock}
+<p class="passage-text en">${esc(text)}</p>
 </div>
 `;
   }
@@ -63,7 +58,7 @@ export function renderSentences(sentences, passageNote) {
               .map((v) => `<li><b>${esc(v.word)}</b> — ${esc(v.ko)}</li>`)
               .join('')}</ul>`
           : '';
-      const reading = s.reading ? `<p class="reading">${esc(s.reading)}</p>\n` : '';
+      const reading = s.reading ? `<p class="furigana">${esc(s.reading)}</p>\n` : '';
       return `<li class="sentence">
 <p class="en">${esc(s.en)}</p>
 <details><summary>해석 · 구문분석</summary>

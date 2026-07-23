@@ -32,7 +32,7 @@
     {
       "en": "The government announced a series of measures designed to mitigate the economic fallout from the prolonged trade dispute.",
       "ko": "정부는 장기화된 무역 분쟁으로 인한 경제적 여파를 완화하기 위해 고안된 일련의 조치를 발표했다.",
-      "structure": "The government announced / a series of measures / designed to mitigate ... \n· designed to ~ : 과거분사구가 measures를 뒤에서 수식.\n· a series of + 복수명사 = '일련의 ~'.",
+      "structure": "· designed to ~ : 과거분사구가 measures를 뒤에서 수식.\n· a series of + 복수명사 = '일련의 ~'.",
       "vocab_notes": [
         { "word": "fallout", "ko": "(부정적) 여파" },
         { "word": "prolonged", "ko": "장기화된" }
@@ -88,9 +88,7 @@
 - 분량·난이도: **수능 지문 한 문제 분량**(문단 전체 120~180단어), 수능 고난도 ~ 시사(뉴스·논설) 수준. 너무 쉬운 문단은 만들지 않는다.
 - 소재: 경제·사회·과학·환경 등 시사 소재와 일반 교양을 매일 돌린다.
 - `passage_note`(최상위 필수): 글의 종류·주제 한 줄. 예: "환경 — 탄소 국경세를 둘러싼 논쟁(논설)".
-- `structure`(구문분석)는 **한국어**로, 두 가지를 담는다:
-  1. `/`로 의미 단위 끊어읽기.
-  2. 핵심 문법 포인트 해설(분사구문, 관계사, 가정법, 도치 등 한국식 문법 용어 사용).
+- `structure`(구문분석)는 **한국어**로, 핵심 문법 포인트 해설만 담는다(분사구문, 관계사, 가정법, 도치 등 한국식 문법 용어 사용). **각 줄은 `·`로 시작한다.**
 - `vocab_notes`에는 문장 속 어려운 어휘 1~3개를 짧게 단다.
 
 ### 단어 후보 18개 (words)
