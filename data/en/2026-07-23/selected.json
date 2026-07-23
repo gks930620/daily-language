@@ -1,0 +1,314 @@
+{
+  "date": "2026-07-23",
+  "words": [
+    {
+      "headword": "resistance",
+      "pos": "n.",
+      "ko": "내성; 저항",
+      "example_en": "The bacteria developed resistance to nearly every available antibiotic.",
+      "example_ko": "그 박테리아는 사용 가능한 거의 모든 항생제에 내성을 키웠다.",
+      "collocations": [
+        "develop resistance",
+        "drug resistance"
+      ],
+      "note": "re-(맞서) + sist(서다) = '맞서 버티다'. 의학에서는 약에 '버티는' 힘이라 '내성', 사회 맥락에선 '저항'. 같은 sist 뿌리: persist·insist·consist.",
+      "family": [
+        {
+          "word": "resist",
+          "pos": "v.",
+          "ko": "저항하다, 견디다"
+        },
+        {
+          "word": "resistant",
+          "pos": "a.",
+          "ko": "내성이 있는, 저항하는"
+        }
+      ]
+    },
+    {
+      "headword": "pathogen",
+      "pos": "n.",
+      "ko": "병원균, 병원체",
+      "example_en": "Vaccines train the immune system to recognize specific pathogens.",
+      "example_ko": "백신은 특정 병원체를 알아보도록 면역계를 훈련시킨다.",
+      "collocations": [
+        "airborne pathogen",
+        "resistant pathogen"
+      ],
+      "note": "patho-(고통·병) + gen(낳다) = '병을 낳는 것'. patho-는 pathology(병리학)·sympathy(함께 아파함=공감), gen은 generate·genesis와 같은 뿌리.",
+      "family": [
+        {
+          "word": "pathology",
+          "pos": "n.",
+          "ko": "병리학"
+        },
+        {
+          "word": "pathogenic",
+          "pos": "a.",
+          "ko": "병을 일으키는"
+        }
+      ]
+    },
+    {
+      "headword": "antibiotic",
+      "pos": "n.",
+      "ko": "항생제",
+      "example_en": "Doctors are urged to prescribe antibiotics only when they are truly necessary.",
+      "example_ko": "의사들은 정말 필요할 때만 항생제를 처방하도록 권고받는다.",
+      "collocations": [
+        "prescribe antibiotics",
+        "broad-spectrum antibiotic"
+      ],
+      "note": "anti-(맞서) + bio(생명) = '(세균의) 생명에 맞서는 것'. bio는 biology·biography·antibiotic처럼 '생명'을 뜻하는 조각.",
+      "family": [
+        {
+          "word": "antibody",
+          "pos": "n.",
+          "ko": "항체 — anti+body, 항생제와 혼동 주의"
+        }
+      ]
+    },
+    {
+      "headword": "potent",
+      "pos": "a.",
+      "ko": "강력한, 효능이 센",
+      "example_en": "The clinic reserves its most potent painkillers for severe cases.",
+      "example_ko": "그 병원은 가장 강력한 진통제를 중증 환자용으로 아껴 둔다.",
+      "collocations": [
+        "potent drug",
+        "a potent weapon"
+      ],
+      "note": "pot-(힘·능력) 계열. potential(잠재력)·potency(효력)·omnipotent(전능한)이 한 뿌리. 부정 접두사가 붙은 impotent는 '무력한'.",
+      "family": [
+        {
+          "word": "potential",
+          "pos": "n.",
+          "ko": "잠재력"
+        },
+        {
+          "word": "potency",
+          "pos": "n.",
+          "ko": "효력, 세기"
+        },
+        {
+          "word": "impotent",
+          "pos": "a.",
+          "ko": "무력한"
+        }
+      ]
+    },
+    {
+      "headword": "deter",
+      "pos": "v.",
+      "ko": "단념시키다, 막다",
+      "example_en": "High development costs deter firms from entering the market.",
+      "example_ko": "높은 개발 비용이 기업들의 시장 진입을 막는다.",
+      "collocations": [
+        "deter someone from ~ing",
+        "deter investment"
+      ],
+      "note": "de-(떨어져) + ter(겁주다, terror와 같은 뿌리) = '겁줘서 물러나게 하다'. 'deter A from B(A가 B 못 하게 막다)' 구문으로 외운다.",
+      "related": [
+        {
+          "word": "deterrent",
+          "note": "명사·형용사형 — '억지력(핵 억지 deterrent 등)'. deter의 결과물."
+        }
+      ]
+    },
+    {
+      "headword": "oversight",
+      "pos": "n.",
+      "ko": "감독, 감시; (부주의로 인한) 간과",
+      "example_en": "The agency provides oversight of drug safety and approval.",
+      "example_ko": "그 기관은 의약품 안전과 승인에 대한 감독을 맡는다.",
+      "collocations": [
+        "regulatory oversight",
+        "government oversight"
+      ],
+      "note": "정반대처럼 보이는 두 뜻에 주의: over+see(위에서 내려다봄)=①'감독' ②'(못 보고) 간과·실수'. 문맥으로 가른다 — 여기 지문은 ①.",
+      "related": [
+        {
+          "word": "overlook",
+          "note": "동사 '간과하다·눈감아 주다'. oversight의 '실수' 뜻과 통하지만 '감독' 뜻은 없다."
+        }
+      ]
+    },
+    {
+      "headword": "yield",
+      "pos": "v.",
+      "ko": "(수익을) 내다, 산출하다; 굴복하다, 양보하다",
+      "example_en": "The investment yielded only modest returns over five years.",
+      "example_ko": "그 투자는 5년간 변변찮은 수익만 냈다.",
+      "collocations": [
+        "yield returns",
+        "yield to pressure"
+      ],
+      "note": "두 갈래 뜻이 핵심: ①'(결과·수익을) 내놓다'(=produce) ②'내주다→굴복·양보하다'. 도로 표지 'YIELD'가 바로 ②(양보). 명사로는 '수확량·수익률'.",
+      "related": [
+        {
+          "word": "yielding",
+          "note": "형용사 '유연한·잘 굽히는' — ②(굴복) 계열의 뜻만 이어받는다."
+        }
+      ]
+    },
+    {
+      "headword": "compound",
+      "pos": "v.",
+      "ko": "(문제를) 악화시키다, 가중하다",
+      "example_en": "Delays in diagnosis only compounded the patient's suffering.",
+      "example_ko": "진단 지연은 환자의 고통을 악화시키기만 했다.",
+      "collocations": [
+        "compound a problem",
+        "compound the crisis"
+      ],
+      "note": "com-(함께)+pound(놓다)='겹쳐 쌓다'. 그래서 명사 '합성물·화합물', 형용사 '복합의', 금융의 '복리(compound interest)'까지 한 단어. 동사로 문제에 쓰면 '겹쳐서 더 나빠지게 하다'.",
+      "family": [
+        {
+          "word": "compound interest",
+          "ko": "복리 — 이자에 이자가 '겹쳐' 붙는 것"
+        }
+      ]
+    },
+    {
+      "headword": "precipitous",
+      "pos": "a.",
+      "ko": "급격한; 가파른",
+      "example_en": "The company suffered a precipitous drop in sales last quarter.",
+      "example_ko": "그 회사는 지난 분기에 매출의 급격한 하락을 겪었다.",
+      "collocations": [
+        "a precipitous decline",
+        "precipitous cliffs"
+      ],
+      "note": "precipice(낭떠러지)에서 나온 말 — '절벽처럼 가파른', 비유로 '급격한'. 동사 precipitate는 '(안 좋은 일을) 촉발하다', 화학에선 '침전시키다'로 뜻이 갈린다.",
+      "family": [
+        {
+          "word": "precipice",
+          "pos": "n.",
+          "ko": "낭떠러지, 벼랑"
+        },
+        {
+          "word": "precipitate",
+          "pos": "v.",
+          "ko": "촉발하다; 침전시키다"
+        }
+      ]
+    },
+    {
+      "headword": "retreat",
+      "pos": "v.",
+      "ko": "물러나다, 발을 빼다, 후퇴하다",
+      "example_en": "Several investors retreated from the sector after the losses.",
+      "example_ko": "손실이 나자 여러 투자자가 그 분야에서 발을 뺐다.",
+      "collocations": [
+        "retreat from ~",
+        "beat a retreat"
+      ],
+      "note": "re-(뒤로)+treat(끌다, tract 뿌리 — attract·extract) = '뒤로 끌어 물러나다'. 명사로는 '후퇴' 외에 '(조용한) 수련회·은신처'라는 전혀 다른 뜻도 있다.",
+      "related": [
+        {
+          "word": "retract",
+          "note": "같은 tract(끌다) 뿌리. '(말·주장을) 도로 끌어와 철회하다'."
+        }
+      ]
+    },
+    {
+      "headword": "persist",
+      "pos": "v.",
+      "ko": "지속되다; (고집스레) 계속하다",
+      "example_en": "If the symptoms persist, consult a specialist immediately.",
+      "example_ko": "증상이 지속되면 즉시 전문의와 상담하라.",
+      "collocations": [
+        "persist in ~ing",
+        "symptoms persist"
+      ],
+      "note": "per-(끝까지)+sist(서다) = '끝까지 버티고 서 있다'. [[resistance]]의 resist, insist(우기다)·consist와 같은 sist 뿌리. 명사 persistence는 '끈기·지속'.",
+      "family": [
+        {
+          "word": "persistent",
+          "pos": "a.",
+          "ko": "끈질긴, 지속적인"
+        },
+        {
+          "word": "persistence",
+          "pos": "n.",
+          "ko": "끈기; 지속성"
+        }
+      ]
+    },
+    {
+      "headword": "accelerate",
+      "pos": "v.",
+      "ko": "가속하다, 촉진하다",
+      "example_en": "New funding could accelerate the search for alternative treatments.",
+      "example_ko": "새로운 자금 지원은 대체 치료법 탐색을 가속할 수 있다.",
+      "collocations": [
+        "accelerate growth",
+        "accelerate a process"
+      ],
+      "note": "ac-(~쪽으로)+celer(빠른) = '빠르게 몰아가다'. celer는 celerity(민첩)와 같은 뿌리. 반의어는 decelerate(감속하다).",
+      "family": [
+        {
+          "word": "acceleration",
+          "pos": "n.",
+          "ko": "가속(도)"
+        }
+      ]
+    },
+    {
+      "headword": "dismiss",
+      "pos": "v.",
+      "ko": "일축하다, 묵살하다; 해고하다; 해산시키다",
+      "example_en": "Officials were quick to dismiss the report as mere speculation.",
+      "example_ko": "당국자들은 그 보도를 한낱 추측이라며 재빨리 일축했다.",
+      "collocations": [
+        "dismiss A as B",
+        "dismiss a claim"
+      ],
+      "note": "dis-(멀리)+miss(보내다, mit) = '멀리 보내 치워 버리다'. 그래서 '생각을 물리침=일축', '사람을 내보냄=해고·해산'. submit·transmit·mitigate와 같은 miss/mit(보내다) 뿌리.",
+      "family": [
+        {
+          "word": "dismissal",
+          "pos": "n.",
+          "ko": "해고; 기각, 묵살"
+        }
+      ]
+    },
+    {
+      "headword": "incentive",
+      "pos": "n.",
+      "ko": "유인책, 동기 부여책",
+      "example_en": "The government offered tax incentives to spur new research.",
+      "example_ko": "정부는 새로운 연구를 촉진하기 위해 세제 유인책을 제시했다.",
+      "collocations": [
+        "financial incentive",
+        "offer an incentive"
+      ],
+      "note": "'행동하도록 부추기는 당근'. 흔히 세제·보조금 등 외부 보상을 가리킨다. 형용사 incentive는 '자극적인'. motive(내적 동기)와 달리 대개 '주어지는 보상'.",
+      "related": [
+        {
+          "word": "disincentive",
+          "note": "반대말 — 행동을 '막는' 요인(억제책). dis-가 붙어 방향이 뒤집힌다."
+        }
+      ]
+    },
+    {
+      "headword": "coordinate",
+      "pos": "v.",
+      "ko": "조율하다, 조정하다, 협력시키다",
+      "example_en": "Health agencies must coordinate their response across borders.",
+      "example_ko": "보건 기관들은 국경을 넘어 대응을 조율해야 한다.",
+      "collocations": [
+        "coordinate efforts",
+        "a coordinated response"
+      ],
+      "note": "co-(함께)+ordin(순서, order) = '여럿을 같은 질서로 맞추다'. 명사 coordinate는 '(지도) 좌표'로 뜻이 갈린다. 동사·명사 발음 강세도 다르다.",
+      "family": [
+        {
+          "word": "coordination",
+          "pos": "n.",
+          "ko": "조정, 협응"
+        }
+      ]
+    }
+  ]
+}
