@@ -52,19 +52,21 @@ export function renderSentences(sentences, passageNote) {
   }
   const items = sentences
     .map((s) => {
+      // 단어 풀이 — 문장에 나온 순서대로. 학습자가 단어를 거의 모른다고 가정하고 넉넉히.
       const notes =
         Array.isArray(s.vocab_notes) && s.vocab_notes.length > 0
-          ? `<ul class="vocab-notes">${s.vocab_notes
+          ? `<div class="vocab"><p class="sub-label">단어</p><ul class="vocab-notes">${s.vocab_notes
               .map((v) => `<li><b>${esc(v.word)}</b> — ${esc(v.ko)}</li>`)
-              .join('')}</ul>`
+              .join('')}</ul></div>`
           : '';
       const reading = s.reading ? `<p class="furigana">${esc(s.reading)}</p>\n` : '';
+      // 순서: (일본어는 후리가나) → 해석 → 단어 → 구문 분석
       return `<li class="sentence">
 <p class="en">${esc(s.en)}</p>
-<details><summary>해석 · 구문분석</summary>
+<details><summary>해석 · 단어 · 구문 분석</summary>
 ${reading}<p class="ko">${esc(s.ko)}</p>
-<p class="structure">${esc(s.structure)}</p>
-${notes}</details>
+${notes}<div class="analysis"><p class="sub-label">구문 분석</p><p class="structure">${esc(s.structure)}</p></div>
+</details>
 </li>`;
     })
     .join('\n');

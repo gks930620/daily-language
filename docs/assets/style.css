@@ -157,10 +157,23 @@ details p {
   white-space: pre-line;
 }
 
+/* 문장 접기 안: 해석 → 단어 → 구문 분석. 각 블록에 작은 라벨. */
+.sub-label {
+  margin: 0.75rem 0 0.2rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
 .vocab-notes {
-  margin: 0.35rem 0 0;
+  margin: 0.15rem 0 0;
   padding-left: 1.1rem;
-  font-size: 0.92rem;
+  font-size: 0.95rem;
+}
+
+.vocab-notes li {
+  margin: 0.15rem 0;
 }
 
 /* ② 오늘의 단어 — 클러스터형(html.js renderWords). 단어마다 한 박스:

@@ -9,8 +9,54 @@
       "ko": "재택근무로의 빠른 전환은 대도시의 경제 지도를 조용히 다시 그려 놓았고, 한때 평일 통근자들 덕에 번성했던 도심 지구를 공동화시키고 있다.",
       "structure": "· has redrawn : 현재완료 — 과거에 시작된 변화가 지금까지 이어짐.\n· hollowing out ~ : 분사구문(연속 상황) — '~하면서 도심을 공동화하며'.\n· that ~ commuters : 주격 관계대명사절이 districts를 뒤에서 수식.",
       "vocab_notes": [
-        { "word": "hollow out", "ko": "공동화시키다, 속을 비게 만들다" },
-        { "word": "thrive on", "ko": "~을 기반으로 번성하다" }
+        {
+          "word": "rapid",
+          "ko": "빠른, 급격한"
+        },
+        {
+          "word": "shift",
+          "ko": "전환, 이동"
+        },
+        {
+          "word": "remote work",
+          "ko": "재택근무"
+        },
+        {
+          "word": "quietly",
+          "ko": "조용히, 소리 없이"
+        },
+        {
+          "word": "redraw",
+          "ko": "다시 그리다"
+        },
+        {
+          "word": "economic",
+          "ko": "경제의"
+        },
+        {
+          "word": "major cities",
+          "ko": "대도시"
+        },
+        {
+          "word": "hollow out",
+          "ko": "공동화시키다, 속을 비게 만들다"
+        },
+        {
+          "word": "downtown district",
+          "ko": "도심 구역"
+        },
+        {
+          "word": "once",
+          "ko": "한때"
+        },
+        {
+          "word": "thrive on",
+          "ko": "~을 기반으로 번성하다"
+        },
+        {
+          "word": "weekday commuter",
+          "ko": "평일 통근자"
+        }
       ]
     },
     {
@@ -18,8 +64,42 @@
       "ko": "사무직 노동자들에게 의존하던 소상공인들 — 카페, 세탁소, 점심 식당 — 은 고객층이 예전 규모의 몇 분의 일로 줄어드는 것을 지켜봐야 했다.",
       "structure": "· see + 목적어 + 동사원형(shrink) : 지각동사 5형식 — '~이 줄어드는 것을 보다'.\n· 대시(—) 삽입구 : businesses의 구체 예를 나열.\n· a fraction of ~ : '~의 몇 분의 일, 극히 일부'.",
       "vocab_notes": [
-        { "word": "customer base", "ko": "고객층" },
-        { "word": "fraction", "ko": "일부분, 몇 분의 일" }
+        {
+          "word": "small business",
+          "ko": "소상공인, 영세 업체"
+        },
+        {
+          "word": "depend on",
+          "ko": "~에 의존하다"
+        },
+        {
+          "word": "office worker",
+          "ko": "사무직 직장인"
+        },
+        {
+          "word": "dry cleaner",
+          "ko": "세탁소"
+        },
+        {
+          "word": "lunch spot",
+          "ko": "점심 먹는 식당"
+        },
+        {
+          "word": "customer base",
+          "ko": "고객층"
+        },
+        {
+          "word": "shrink",
+          "ko": "줄어들다"
+        },
+        {
+          "word": "fraction",
+          "ko": "일부분, 몇 분의 일"
+        },
+        {
+          "word": "former",
+          "ko": "이전의, 예전의"
+        }
       ]
     },
     {
@@ -27,8 +107,38 @@
       "ko": "한편, 주거 지역과 소규모 위성 도시들은 노동자들이 집 가까이에서 먹고, 장 보고, 운동하게 되면서 이 옮겨 간 소비의 상당 부분을 흡수했다.",
       "structure": "· as ~ : '~함에 따라/~하면서'(이유·비례의 접속사).\n· displaced spending : 과거분사 displaced가 spending을 수식 — '(도심에서) 밀려난 소비'.\n· eat, shop, and exercise : A, B, and C 병렬 구조.",
       "vocab_notes": [
-        { "word": "satellite town", "ko": "위성 도시" },
-        { "word": "displaced", "ko": "원래 자리에서 밀려난" }
+        {
+          "word": "meanwhile",
+          "ko": "한편, 그동안"
+        },
+        {
+          "word": "residential",
+          "ko": "주거의"
+        },
+        {
+          "word": "neighborhood",
+          "ko": "동네, 지역"
+        },
+        {
+          "word": "satellite town",
+          "ko": "위성 도시"
+        },
+        {
+          "word": "absorb",
+          "ko": "흡수하다, 받아들이다"
+        },
+        {
+          "word": "displaced",
+          "ko": "원래 자리에서 밀려난"
+        },
+        {
+          "word": "spending",
+          "ko": "지출, 소비"
+        },
+        {
+          "word": "closer to home",
+          "ko": "집 가까이에서"
+        }
       ]
     },
     {
@@ -36,8 +146,54 @@
       "ko": "그러나 경제학자들은 이 재분배가 결코 고통 없는 과정이 아니라고 경고한다. 상업용 부동산 가치에 연동된 도시 세수가, 공공 서비스 수요가 늘어나는 바로 그 시점에 침식되고 있기 때문이다.",
       "structure": "· far from + 형용사/명사 : '결코 ~이 아닌'(부정 강조).\n· tied to ~ : 과거분사구가 revenues를 뒤에서 수식.\n· just as ~ : '바로 ~하는 때에'(동시성 강조).",
       "vocab_notes": [
-        { "word": "far from", "ko": "결코 ~이 아닌" },
-        { "word": "erode", "ko": "침식되다, 서서히 줄어들다" }
+        {
+          "word": "economist",
+          "ko": "경제학자"
+        },
+        {
+          "word": "caution",
+          "ko": "경고하다, 주의를 주다"
+        },
+        {
+          "word": "redistribution",
+          "ko": "재분배"
+        },
+        {
+          "word": "far from",
+          "ko": "결코 ~이 아닌"
+        },
+        {
+          "word": "painless",
+          "ko": "고통 없는, 손쉬운"
+        },
+        {
+          "word": "urban",
+          "ko": "도시의"
+        },
+        {
+          "word": "tax revenue",
+          "ko": "세수, 조세 수입"
+        },
+        {
+          "word": "tied to",
+          "ko": "~에 묶인, 연동된"
+        },
+        {
+          "word": "commercial property",
+          "ko": "상업용 부동산"
+        },
+        {
+          "word": "erode",
+          "ko": "침식되다, 서서히 줄어들다"
+        },
+        {
+          "word": "demand",
+          "ko": "수요"
+        },
+        {
+          "word": "public services",
+          "ko": "공공 서비스"
+        }
       ]
     },
     {
@@ -45,8 +201,50 @@
       "ko": "도시들이 빈 사무실을 주택, 연구 시설, 문화 공간으로 바꾸며 도심을 재창조할 수 있을지가, 어느 도시가 이 전환에서 더 강해져 나올지를 결정할 것이다.",
       "structure": "· Whether ~ downtowns : whether 명사절이 문장 전체의 주어.\n· converting ~ : 분사구문 삽입 — 재창조의 구체적 방법 제시.\n· which of them emerge ~ : determine의 목적어인 간접의문문.\n· convert A into B : 'A를 B로 바꾸다'.",
       "vocab_notes": [
-        { "word": "reinvent", "ko": "재창조하다, 완전히 새롭게 바꾸다" },
-        { "word": "convert A into B", "ko": "A를 B로 바꾸다" }
+        {
+          "word": "whether",
+          "ko": "~인지 아닌지"
+        },
+        {
+          "word": "reinvent",
+          "ko": "재창조하다, 완전히 새롭게 바꾸다"
+        },
+        {
+          "word": "downtown",
+          "ko": "도심"
+        },
+        {
+          "word": "convert A into B",
+          "ko": "A를 B로 바꾸다"
+        },
+        {
+          "word": "empty",
+          "ko": "빈"
+        },
+        {
+          "word": "housing",
+          "ko": "주거 공간, 주택"
+        },
+        {
+          "word": "laboratory",
+          "ko": "실험실, 연구소"
+        },
+        {
+          "word": "cultural space",
+          "ko": "문화 공간"
+        },
+        {
+          "word": "determine",
+          "ko": "결정하다, 좌우하다"
+        },
+        {
+          "word": "emerge",
+          "ko": "부상하다, 나타나다"
+        },
+        {
+          "word": "transition",
+          "ko": "전환, 이행"
+        }
       ]
     }
   ],
@@ -57,13 +255,24 @@
       "ko": "완화하다, 경감시키다",
       "example_en": "The new policy is intended to mitigate the impact of rising prices.",
       "example_ko": "새 정책은 물가 상승의 충격을 완화하기 위한 것이다.",
-      "collocations": ["mitigate risk", "mitigate the impact"],
+      "collocations": [
+        "mitigate risk",
+        "mitigate the impact"
+      ],
       "note": "어원: mit-(보내다) — 충격·피해를 '보내 버려' 가볍게 한다. submit(밑으로 보내다=제출)·transmit(가로질러 보내다=전송)과 같은 뿌리.",
       "family": [
-        { "word": "mitigation", "pos": "n.", "ko": "완화 — climate mitigation(기후 완화)로 시사 빈출" }
+        {
+          "word": "mitigation",
+          "pos": "n.",
+          "ko": "완화 — climate mitigation(기후 완화)로 시사 빈출"
+        }
       ],
       "related": [
-        { "word": "alleviate", "ko": "완화하다", "note": "거의 동의어 — alleviate는 고통·부담에, mitigate는 위험·피해에 잘 붙는다" }
+        {
+          "word": "alleviate",
+          "ko": "완화하다",
+          "note": "거의 동의어 — alleviate는 고통·부담에, mitigate는 위험·피해에 잘 붙는다"
+        }
       ]
     },
     {
@@ -72,10 +281,17 @@
       "ko": "실현 가능한",
       "example_en": "The committee concluded that the plan was not financially feasible.",
       "example_ko": "위원회는 그 계획이 재정적으로 실현 가능하지 않다고 결론지었다.",
-      "collocations": ["a feasible plan", "economically feasible"],
+      "collocations": [
+        "a feasible plan",
+        "economically feasible"
+      ],
       "note": "어원: 라틴어 facere(하다) — '해볼 수 있는'. fact·factory와 같은 뿌리. 계획·안이 '실행해 볼 만한'인지 말할 때 쓴다.",
       "family": [
-        { "word": "feasibility", "pos": "n.", "ko": "실현 가능성 — feasibility study(타당성 조사)가 비즈니스 빈출" }
+        {
+          "word": "feasibility",
+          "pos": "n.",
+          "ko": "실현 가능성 — feasibility study(타당성 조사)가 비즈니스 빈출"
+        }
       ]
     },
     {
@@ -84,11 +300,22 @@
       "ko": "(규정 등을) 준수하다, 따르다",
       "example_en": "All employees must comply with the updated safety regulations.",
       "example_ko": "모든 직원은 개정된 안전 규정을 준수해야 한다.",
-      "collocations": ["comply with regulations", "fail to comply"],
+      "collocations": [
+        "comply with regulations",
+        "fail to comply"
+      ],
       "note": "comply with가 한 덩어리 — 토익은 전치사 with를 빈칸으로 낸다. 파생형은 품사별로 comply(v.)/compliance(n.)/compliant(a.)로 갈아 끼우는 문제가 단골.",
       "family": [
-        { "word": "compliance", "pos": "n.", "ko": "준수 — in compliance with(~을 준수하여)" },
-        { "word": "compliant", "pos": "a.", "ko": "준수하는, 따르는" }
+        {
+          "word": "compliance",
+          "pos": "n.",
+          "ko": "준수 — in compliance with(~을 준수하여)"
+        },
+        {
+          "word": "compliant",
+          "pos": "a.",
+          "ko": "준수하는, 따르는"
+        }
       ]
     },
     {
@@ -97,10 +324,17 @@
       "ko": "불일치, 차이",
       "example_en": "The audit revealed a discrepancy between the two financial reports.",
       "example_ko": "감사 결과 두 재무 보고서 간의 불일치가 드러났다.",
-      "collocations": ["a discrepancy between A and B", "resolve a discrepancy"],
+      "collocations": [
+        "a discrepancy between A and B",
+        "resolve a discrepancy"
+      ],
       "note": "dis-(어긋나게) — 서류·수치가 '서로 어긋나 있음'. 회계·감사 지문 단골 단어.",
       "related": [
-        { "word": "difference", "ko": "차이", "note": "difference는 중립적인 차이, discrepancy는 '일치해야 하는데 어긋난' 차이(장부 대 장부)" }
+        {
+          "word": "difference",
+          "ko": "차이",
+          "note": "difference는 중립적인 차이, discrepancy는 '일치해야 하는데 어긋난' 차이(장부 대 장부)"
+        }
       ]
     },
     {
@@ -109,10 +343,17 @@
       "ko": "수익성이 좋은",
       "example_en": "She turned down a lucrative offer to stay with her current team.",
       "example_ko": "그녀는 현재 팀에 남기 위해 수익성 좋은 제안을 거절했다.",
-      "collocations": ["a lucrative contract", "a lucrative market"],
+      "collocations": [
+        "a lucrative contract",
+        "a lucrative market"
+      ],
       "note": "lucre(돈·이득)에서 — '돈이 되는'. 계약·시장·사업(contract, market, business)에 붙는 격식체.",
       "related": [
-        { "word": "profitable", "ko": "수익성 있는", "note": "거의 동의어 — profitable은 폭넓게, lucrative는 '꽤 짭짤한' 뉘앙스의 격식체" }
+        {
+          "word": "profitable",
+          "ko": "수익성 있는",
+          "note": "거의 동의어 — profitable은 폭넓게, lucrative는 '꽤 짭짤한' 뉘앙스의 격식체"
+        }
       ]
     },
     {
@@ -121,10 +362,17 @@
       "ko": "잠정적인, 임시의",
       "example_en": "We have set a tentative date for the product launch in March.",
       "example_ko": "우리는 3월로 제품 출시 잠정 날짜를 잡았다.",
-      "collocations": ["a tentative schedule", "a tentative agreement"],
+      "collocations": [
+        "a tentative schedule",
+        "a tentative agreement"
+      ],
       "note": "어원: tentare(시도하다) — '아직 시도 단계인' = 확정 아님. tentative schedule(잠정 일정) 덩어리로 암기.",
       "related": [
-        { "word": "definitive", "ko": "최종 확정된", "note": "반대 방향 — tentative(잠정) ↔ definitive(확정) 짝으로 외운다" }
+        {
+          "word": "definitive",
+          "ko": "최종 확정된",
+          "note": "반대 방향 — tentative(잠정) ↔ definitive(확정) 짝으로 외운다"
+        }
       ]
     },
     {
@@ -133,11 +381,22 @@
       "ko": "전례 없는",
       "example_en": "The company reported unprecedented growth in overseas sales.",
       "example_ko": "그 회사는 해외 매출에서 전례 없는 성장을 보고했다.",
-      "collocations": ["on an unprecedented scale", "an unprecedented level"],
+      "collocations": [
+        "on an unprecedented scale",
+        "an unprecedented level"
+      ],
       "note": "un-(없는) + precedent(선례) + -ed — '선례가 없는'. pre-(앞서) + cede(가다)로 쪼개면 precede(앞서가다)까지 같이 잡힌다.",
       "family": [
-        { "word": "precede", "pos": "v.", "ko": "앞서다, 먼저 일어나다" },
-        { "word": "precedent", "pos": "n.", "ko": "선례, 전례 — set a precedent(선례를 만들다)" }
+        {
+          "word": "precede",
+          "pos": "v.",
+          "ko": "앞서다, 먼저 일어나다"
+        },
+        {
+          "word": "precedent",
+          "pos": "n.",
+          "ko": "선례, 전례 — set a precedent(선례를 만들다)"
+        }
       ]
     },
     {
@@ -146,10 +405,17 @@
       "ko": "(비용을) 환급하다, 배상하다",
       "example_en": "The company will reimburse you for travel expenses within two weeks.",
       "example_ko": "회사는 2주 이내에 출장 경비를 환급해 줄 것이다.",
-      "collocations": ["reimburse expenses", "be reimbursed for"],
+      "collocations": [
+        "reimburse expenses",
+        "be reimbursed for"
+      ],
       "note": "re-(도로) + bourse(지갑) — '지갑에 도로 넣어 주다'. 회사가 직원 경비를 정산해 줄 때 쓴다.",
       "related": [
-        { "word": "refund", "ko": "환불하다", "note": "refund는 상점→고객 환불, reimburse는 회사→직원 경비 정산 — 방향이 다르다" }
+        {
+          "word": "refund",
+          "ko": "환불하다",
+          "note": "refund는 상점→고객 환불, reimburse는 회사→직원 경비 정산 — 방향이 다르다"
+        }
       ]
     },
     {
@@ -158,7 +424,10 @@
       "ko": "(절차 등을) 간소화하다, 효율화하다",
       "example_en": "The firm streamlined its hiring process to cut the waiting time in half.",
       "example_ko": "그 회사는 대기 시간을 절반으로 줄이기 위해 채용 절차를 간소화했다.",
-      "collocations": ["streamline the process", "streamline operations"],
+      "collocations": [
+        "streamline the process",
+        "streamline operations"
+      ],
       "note": "stream(물줄기) + line — 물이 흐르듯 매끈하게 만든다는 그림. '군더더기 제거'의 긍정적 뉘앙스라 경영 지문에서 칭찬조로 쓰인다."
     },
     {
@@ -167,10 +436,17 @@
       "ko": "지지하다, (공개적으로) 보증하다",
       "example_en": "Several leading economists have endorsed the proposed tax reform.",
       "example_ko": "몇몇 저명한 경제학자들이 제안된 세제 개혁을 지지했다.",
-      "collocations": ["endorse a candidate", "publicly endorse"],
+      "collocations": [
+        "endorse a candidate",
+        "publicly endorse"
+      ],
       "note": "원뜻은 '수표 뒷면(dorse=등)에 서명하다' — 서명으로 보증하던 데서 공개 지지로 확장. 유명인의 광고 '보증'도 endorse.",
       "family": [
-        { "word": "endorsement", "pos": "n.", "ko": "지지, (유명인의) 광고 보증" }
+        {
+          "word": "endorsement",
+          "pos": "n.",
+          "ko": "지지, (유명인의) 광고 보증"
+        }
       ]
     },
     {
@@ -179,10 +455,17 @@
       "ko": "그럴듯한, 타당해 보이는",
       "example_en": "He offered a plausible explanation for the sudden drop in sales.",
       "example_ko": "그는 매출 급감에 대해 그럴듯한 설명을 내놓았다.",
-      "collocations": ["a plausible explanation", "sound plausible"],
+      "collocations": [
+        "a plausible explanation",
+        "sound plausible"
+      ],
       "note": "어원: plaud-(박수 치다, applaud와 같은 뿌리) — '박수받을 만큼 그럴듯한'. 진짜라는 보장은 없다는 유보적 뉘앙스가 핵심.",
       "related": [
-        { "word": "possible", "ko": "가능한", "note": "possible은 가능성 자체, plausible은 '설명이 그럴듯해서 믿길 만함' — 설명·가설에 붙는다" }
+        {
+          "word": "possible",
+          "ko": "가능한",
+          "note": "possible은 가능성 자체, plausible은 '설명이 그럴듯해서 믿길 만함' — 설명·가설에 붙는다"
+        }
       ]
     },
     {
@@ -191,11 +474,22 @@
       "ko": "자회사",
       "example_en": "The conglomerate announced plans to sell its struggling overseas subsidiary.",
       "example_ko": "그 대기업은 부진한 해외 자회사를 매각할 계획을 발표했다.",
-      "collocations": ["a wholly-owned subsidiary", "an overseas subsidiary"],
+      "collocations": [
+        "a wholly-owned subsidiary",
+        "an overseas subsidiary"
+      ],
       "note": "sub-(아래) + sid-(앉다) — 모회사 '아래에 앉은' 회사. 보조금 계열(subsidy·subsidize)과 같은 뿌리로 묶어 암기.",
       "family": [
-        { "word": "subsidize", "pos": "v.", "ko": "보조금을 주다" },
-        { "word": "subsidy", "pos": "n.", "ko": "보조금 — government subsidy(정부 보조금)" }
+        {
+          "word": "subsidize",
+          "pos": "v.",
+          "ko": "보조금을 주다"
+        },
+        {
+          "word": "subsidy",
+          "pos": "n.",
+          "ko": "보조금 — government subsidy(정부 보조금)"
+        }
       ]
     },
     {
@@ -204,12 +498,27 @@
       "ko": "무시해도 될 정도의, 미미한",
       "example_en": "The price difference between the two models is negligible.",
       "example_ko": "두 모델 간의 가격 차이는 무시해도 될 정도다.",
-      "collocations": ["a negligible effect", "a negligible amount"],
+      "collocations": [
+        "a negligible effect",
+        "a negligible amount"
+      ],
       "note": "neglect(방치하다)에서 — '방치해도 될 만큼 작은'. 같은 뿌리인데 negligence(과실)는 법률 용어로 뜻이 갈라진다.",
       "family": [
-        { "word": "neglect", "pos": "v.", "ko": "방치하다, 소홀히 하다" },
-        { "word": "negligence", "pos": "n.", "ko": "과실, 부주의 — 법률 지문 빈출('태만'이지 '미미함'이 아님)" },
-        { "word": "negligent", "pos": "a.", "ko": "부주의한, 태만한" }
+        {
+          "word": "neglect",
+          "pos": "v.",
+          "ko": "방치하다, 소홀히 하다"
+        },
+        {
+          "word": "negligence",
+          "pos": "n.",
+          "ko": "과실, 부주의 — 법률 지문 빈출('태만'이지 '미미함'이 아님)"
+        },
+        {
+          "word": "negligent",
+          "pos": "a.",
+          "ko": "부주의한, 태만한"
+        }
       ]
     },
     {
@@ -218,11 +527,22 @@
       "ko": "꺼리는, 마지못해 하는",
       "example_en": "Many managers are reluctant to give negative feedback in person.",
       "example_ko": "많은 관리자들이 부정적인 피드백을 직접 전하는 것을 꺼린다.",
-      "collocations": ["be reluctant to do", "a reluctant admission"],
+      "collocations": [
+        "be reluctant to do",
+        "a reluctant admission"
+      ],
       "note": "re-(맞서) + luct-(싸우다) — 마음이 '맞서 버티는' 상태. be reluctant to do 덩어리로 외운다.",
       "family": [
-        { "word": "reluctance", "pos": "n.", "ko": "꺼림, 마지못함" },
-        { "word": "reluctantly", "pos": "adv.", "ko": "마지못해" }
+        {
+          "word": "reluctance",
+          "pos": "n.",
+          "ko": "꺼림, 마지못함"
+        },
+        {
+          "word": "reluctantly",
+          "pos": "adv.",
+          "ko": "마지못해"
+        }
       ]
     },
     {
@@ -231,10 +551,17 @@
       "ko": "통합하다, (지위를) 공고히 하다",
       "example_en": "The bank plans to consolidate its regional branches into three main offices.",
       "example_ko": "그 은행은 지역 지점들을 세 개의 본점으로 통합할 계획이다.",
-      "collocations": ["consolidate one's position", "consolidate operations"],
+      "collocations": [
+        "consolidate one's position",
+        "consolidate operations"
+      ],
       "note": "con-(함께) + solid(단단한) — 흩어진 것을 합쳐 단단하게. '통합'과 '(지위) 강화' 두 뜻 모두 이 한 그림에서 나온다.",
       "family": [
-        { "word": "consolidation", "pos": "n.", "ko": "통합, 합병" }
+        {
+          "word": "consolidation",
+          "pos": "n.",
+          "ko": "통합, 합병"
+        }
       ]
     },
     {
@@ -243,11 +570,22 @@
       "ko": "(법률·계약의) 조항; 공급, 대비",
       "example_en": "Under the new provision, part-time workers are entitled to paid leave.",
       "example_ko": "새 조항에 따라 시간제 근로자도 유급 휴가를 받을 수 있다.",
-      "collocations": ["under the provision", "make provision for"],
+      "collocations": [
+        "under the provision",
+        "make provision for"
+      ],
       "note": "pro-(미리) + vis-(보다) — '미리 내다봄'에서 대비·공급, 계약서의 '조항'까지. provide와 같은 뿌리인데 명사가 되면 '조항' 뜻이 새로 생기는 것에 주의.",
       "family": [
-        { "word": "provide", "pos": "v.", "ko": "제공하다" },
-        { "word": "provider", "pos": "n.", "ko": "공급자, 제공 업체" }
+        {
+          "word": "provide",
+          "pos": "v.",
+          "ko": "제공하다"
+        },
+        {
+          "word": "provider",
+          "pos": "n.",
+          "ko": "공급자, 제공 업체"
+        }
       ]
     },
     {
@@ -256,10 +594,17 @@
       "ko": "악화되다",
       "example_en": "Relations between the two firms deteriorated after the failed merger.",
       "example_ko": "합병 실패 이후 두 회사의 관계는 악화되었다.",
-      "collocations": ["deteriorate rapidly", "deteriorating conditions"],
+      "collocations": [
+        "deteriorate rapidly",
+        "deteriorating conditions"
+      ],
       "note": "deterior(더 나쁜)의 동사형 — 서서히 나빠지는 그림. 관계·건강·상황이 주어로 오는 자동사다(목적어를 받지 않음).",
       "related": [
-        { "word": "improve", "ko": "개선되다", "note": "반대 방향 — deteriorate ↔ improve 짝으로 외운다" }
+        {
+          "word": "improve",
+          "ko": "개선되다",
+          "note": "반대 방향 — deteriorate ↔ improve 짝으로 외운다"
+        }
       ]
     },
     {
@@ -268,7 +613,10 @@
       "ko": "인접한",
       "example_en": "The new office building is adjacent to the subway station.",
       "example_ko": "새 사무실 건물은 지하철역과 인접해 있다.",
-      "collocations": ["adjacent to", "an adjacent building"],
+      "collocations": [
+        "adjacent to",
+        "an adjacent building"
+      ],
       "note": "ad-(옆에) + jac-(눕다) — '옆에 누워 있는'. adjacent to까지 한 덩어리로 — 토익은 to를 빈칸으로 낸다."
     }
   ]
