@@ -11,14 +11,18 @@
   "words": {
     "定着": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -39,14 +43,18 @@
     },
     "移住": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -72,14 +80,18 @@
     },
     "通勤": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -105,14 +117,18 @@
     },
     "制約": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -133,14 +149,18 @@
     },
     "解放": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -161,14 +181,18 @@
     },
     "憧れ": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -189,14 +213,18 @@
     },
     "踏み切る": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -217,14 +245,18 @@
     },
     "戸惑う": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -245,14 +277,18 @@
     },
     "不便": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -278,14 +314,18 @@
     },
     "閉鎖的": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -311,14 +351,18 @@
     },
     "乗り越える": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -339,14 +383,18 @@
     },
     "移ろい": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -367,14 +415,18 @@
     },
     "目立つ": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -395,14 +447,18 @@
     },
     "成り立つ": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -423,14 +479,18 @@
     },
     "間近": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -445,6 +505,461 @@
             "word": "身近",
             "ko": "신변의·친숙한",
             "note": "間近는 '거리·시간이 가까움', 身近는 '자기 생활에 밀접·친숙함'(身近な問題). 읽기도 まぢか / みぢか로 다름"
+          }
+        ]
+      }
+    },
+    "賞味期限": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "유통기한(품질유지기한)",
+        "reading": "しょうみきげん",
+        "example_en": "この牛乳は賞味期限が明日までだ。",
+        "example_ko": "이 우유는 유통기한이 내일까지다.",
+        "note": "賞味(맛을 즐김)+期限(기한) — '맛있게 먹을 수 있는 기한'. 지나도 곧바로 못 먹는 것은 아니라는 점이 消費期限과 다르다.",
+        "related": [
+          {
+            "word": "消費期限",
+            "ko": "소비기한",
+            "note": "賞味期限은 '맛있게 먹을 수 있는' 기한이라 지나도 바로 상하는 건 아니고, 消費期限은 '안전하게 먹을 수 있는' 기한이라 지나면 먹지 않는 게 원칙"
+          }
+        ]
+      }
+    },
+    "値引き": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "할인·에누리",
+        "reading": "ねびき",
+        "example_en": "閉店前の惣菜は大きく値引きされる。",
+        "example_ko": "폐점 전 반찬은 크게 할인된다.",
+        "note": "値(값)+引き(引く의 명사형, 깎음) — 붙은 값을 '깎아 내림'. 동사는 値引きする.",
+        "related": [
+          {
+            "word": "割引",
+            "ko": "할인",
+            "note": "割引는 '정해진 비율(2割引=20% 할인)'로 깎는 제도적 할인, 値引き는 그때그때 '값 자체를 깎아 주는' 개별 인하. 흥정으로 깎는 것은 値引き"
+          }
+        ]
+      }
+    },
+    "消費者": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "소비자",
+        "reading": "しょうひしゃ",
+        "example_en": "消費者の節約志向が一段と強まっている。",
+        "example_ko": "소비자의 절약 성향이 한층 강해지고 있다.",
+        "note": "消費(소비)+者(사람). 消(사라질 소)+費(쓸 비)로 '써서 없앰'. 生産者(생산자)와 짝을 이루는 경제 기본어.",
+        "family": [
+          {
+            "word": "消費",
+            "pos": "명",
+            "ko": "소비"
+          },
+          {
+            "word": "生産者",
+            "pos": "명",
+            "ko": "생산자 (대응어)"
+          }
+        ]
+      }
+    },
+    "深刻": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "형동",
+        "ko": "심각",
+        "reading": "しんこく",
+        "example_en": "人手不足が深刻さを増している。",
+        "example_ko": "일손 부족이 심각성을 더하고 있다.",
+        "note": "深(깊을 심)+刻(새길 각) — 문제가 '깊이 새겨질' 만큼 중대함. 深刻な+명사, 深刻化(심각화)로 자주 쓴다.",
+        "related": [
+          {
+            "word": "重大",
+            "ko": "중대",
+            "note": "深刻은 사태가 '심각하고 우려스러운' 정도·감정에, 重大는 결과·책임이 '무겁고 중요한' 쪽에 초점(重大な決断)"
+          }
+        ]
+      }
+    },
+    "潜む": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "동",
+        "ko": "숨다·잠재하다",
+        "reading": "ひそむ",
+        "example_en": "便利さの裏には危険も潜んでいる。",
+        "example_ko": "편리함 뒤에는 위험도 잠재해 있다.",
+        "note": "눈에 띄지 않게 '숨어 도사려 있다'. 물리적 잠복(犯人が潜む)과 추상적 잠재(リスクが潜む)에 두루 쓴다.",
+        "related": [
+          {
+            "word": "隠れる",
+            "ko": "숨다",
+            "note": "隠れる는 '보이지 않게 몸을 감추는' 구체 동작, 潜む는 '드러나지 않고 안에 도사려 있는' 잠재 상태. 危険が潜む는 되지만 危険が隠れる는 어색"
+          }
+        ]
+      }
+    },
+    "無駄": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "형동",
+        "ko": "헛됨·낭비",
+        "reading": "むだ",
+        "example_en": "会議が長いだけで無駄が多い。",
+        "example_ko": "회의가 길기만 하고 낭비가 많다.",
+        "note": "쓸모없이 '헛되이 버려지는' 것. 無駄にする(허비하다)·無駄遣い(낭비)로 관용화된다.",
+        "family": [
+          {
+            "word": "無駄遣い",
+            "pos": "명",
+            "ko": "낭비·헛돈 씀"
+          },
+          {
+            "word": "無駄足",
+            "pos": "명",
+            "ko": "헛걸음"
+          }
+        ]
+      }
+    },
+    "欠かす": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "동",
+        "ko": "빠뜨리다·거르다",
+        "reading": "かかす",
+        "example_en": "彼は毎朝のジョギングを欠かさない。",
+        "example_ko": "그는 매일 아침 조깅을 거르지 않는다.",
+        "note": "주로 부정형 欠かせない(빠뜨릴 수 없는=필수)·欠かさず(거르지 않고)로 쓴다. 자동사 欠ける(빠지다·이지러지다)와 짝.",
+        "family": [
+          {
+            "word": "欠ける",
+            "pos": "동",
+            "ko": "빠지다·모자라다 (자동사)"
+          },
+          {
+            "word": "欠かせない",
+            "pos": "연어",
+            "ko": "빠뜨릴 수 없는·필수인"
+          }
+        ]
+      }
+    },
+    "発想": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "발상",
+        "reading": "はっそう",
+        "example_en": "従来にない発想で問題を解決した。",
+        "example_ko": "기존에 없던 발상으로 문제를 해결했다.",
+        "note": "発(펼 발)+想(생각 상) — 생각을 '펼쳐 냄' 즉 아이디어를 떠올림. 発想の転換(발상의 전환)이 대표 연어.",
+        "related": [
+          {
+            "word": "着想",
+            "ko": "착상",
+            "note": "発想은 떠올리는 '사고방식·아이디어 전반', 着想은 작품·계획의 실마리가 되는 '구체적인 첫 착안'에 가깝다"
+          }
+        ]
+      }
+    },
+    "意識": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "의식",
+        "reading": "いしき",
+        "example_en": "環境問題への意識が高まっている。",
+        "example_ko": "환경 문제에 대한 의식이 높아지고 있다.",
+        "note": "意(뜻 의)+識(알 식) — 마음이 '알아차려 향함'. 意識する(의식하다)·無意識(무의식)로 파생.",
+        "family": [
+          {
+            "word": "無意識",
+            "pos": "명",
+            "ko": "무의식"
+          },
+          {
+            "word": "意識的",
+            "pos": "형동",
+            "ko": "의식적"
+          }
+        ]
+      }
+    },
+    "結びつく": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "동",
+        "ko": "이어지다·직결되다",
+        "reading": "むすびつく",
+        "example_en": "地道な努力が成果に結びついた。",
+        "example_ko": "꾸준한 노력이 성과로 이어졌다.",
+        "note": "結ぶ(맺다)+つく(붙다) — 둘이 '맺어져 붙다'. 자동사이며, 타동사 짝은 結びつける(연결짓다).",
+        "family": [
+          {
+            "word": "結びつける",
+            "pos": "동",
+            "ko": "연결짓다 (타동사)"
+          },
+          {
+            "word": "結ぶ",
+            "pos": "동",
+            "ko": "맺다·묶다"
+          }
+        ]
+      }
+    },
+    "原因": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "원인",
+        "reading": "げんいん",
+        "example_en": "火災の原因はまだ特定されていない。",
+        "example_ko": "화재의 원인은 아직 특정되지 않았다.",
+        "note": "原(근원 원)+因(인할 인) — 일을 일으킨 '근원이 되는 까닭'. 結果(결과)와 짝.",
+        "related": [
+          {
+            "word": "要因",
+            "ko": "요인",
+            "note": "原因은 결과를 직접 일으킨 '직접적 까닭', 要因은 결과에 영향을 준 여러 '요소' 중 하나. 원인이 복합적일 때는 要因을 쓴다"
+          }
+        ]
+      }
+    },
+    "仕組み": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "구조·짜임새·체계",
+        "reading": "しくみ",
+        "example_en": "この制度の仕組みは複雑でわかりにくい。",
+        "example_ko": "이 제도의 구조는 복잡해서 이해하기 어렵다.",
+        "note": "사물·제도가 '짜여 돌아가는 얼개'. 機械の仕組み(기계 구조)·社会の仕組み(사회 체계)에 두루 쓴다.",
+        "related": [
+          {
+            "word": "構造",
+            "ko": "구조",
+            "note": "仕組み는 '어떻게 작동·기능하는가'라는 얼개에 초점(구어적), 構造는 부분들이 짜인 '골격·구성' 자체에 초점(딱딱함)"
+          }
+        ]
+      }
+    },
+    "家計": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "가계·집안 살림",
+        "reading": "かけい",
+        "example_en": "物価高が家計を圧迫している。",
+        "example_ko": "물가고가 가계를 압박하고 있다.",
+        "note": "家(집 가)+計(셀 계) — 집안의 '수입·지출 셈'. 家計簿(가계부)로 파생. 会計(회계)와 한자·뜻을 구별.",
+        "related": [
+          {
+            "word": "生計",
+            "ko": "생계",
+            "note": "家計는 한 가정의 '살림살이(수입·지출) 상태', 生計는 '먹고사는 수단·방편'(生計を立てる=생계를 꾸리다)"
+          }
+        ]
+      }
+    },
+    "整える": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "동",
+        "ko": "정돈하다·갖추다",
+        "reading": "ととのえる",
+        "example_en": "出発前に持ち物を整える。",
+        "example_ko": "출발 전에 소지품을 정돈한다.",
+        "note": "흐트러진 것을 '가지런히·제대로 갖추다'(타동사). 자동사 整う(정돈되다·갖춰지다)와 자·타 짝을 이룬다.",
+        "family": [
+          {
+            "word": "整う",
+            "pos": "동",
+            "ko": "정돈되다·갖춰지다 (자동사)"
+          },
+          {
+            "word": "整理",
+            "pos": "명",
+            "ko": "정리"
+          }
+        ]
+      }
+    },
+    "環境": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "명",
+        "ko": "환경",
+        "reading": "かんきょう",
+        "example_en": "在宅で働ける環境が整ってきた。",
+        "example_ko": "재택으로 일할 수 있는 환경이 갖춰졌다.",
+        "note": "環(고리 환)+境(지경 경) — 주위를 '고리처럼 둘러싼 상황'. 自然環境·職場環境처럼 폭넓게 결합한다.",
+        "family": [
+          {
+            "word": "境",
+            "pos": "명",
+            "ko": "경계·지경"
+          },
+          {
+            "word": "環境的",
+            "pos": "형동",
+            "ko": "환경적"
           }
         ]
       }
