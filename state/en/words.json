@@ -11,14 +11,18 @@
   "words": {
     "resistance": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -43,14 +47,18 @@
     },
     "pathogen": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -75,14 +83,18 @@
     },
     "antibiotic": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -102,14 +114,18 @@
     },
     "potent": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -139,14 +155,18 @@
     },
     "deter": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -165,14 +185,18 @@
     },
     "oversight": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -191,14 +215,18 @@
     },
     "yield": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -217,14 +245,18 @@
     },
     "compound": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -243,14 +275,18 @@
     },
     "precipitous": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -275,14 +311,18 @@
     },
     "retreat": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -301,14 +341,18 @@
     },
     "persist": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -333,14 +377,18 @@
     },
     "accelerate": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -360,14 +408,18 @@
     },
     "dismiss": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -387,14 +439,18 @@
     },
     "incentive": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -413,14 +469,18 @@
     },
     "coordinate": {
       "added_on": "2026-07-23",
-      "box": 1,
-      "next_due": "2026-07-24",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-27",
+      "last_seen": "2026-07-24",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-23",
           "event": "added"
+        },
+        {
+          "date": "2026-07-24",
+          "event": "shown"
         }
       ],
       "card": {
@@ -434,6 +494,365 @@
             "word": "coordination",
             "pos": "n.",
             "ko": "조정, 협응"
+          }
+        ]
+      }
+    },
+    "curb": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "억제하다",
+        "example_en": "The central bank raised rates in a bid to curb runaway inflation.",
+        "example_ko": "중앙은행은 치솟는 인플레이션을 억제하기 위해 금리를 올렸다.",
+        "note": "원래 '말의 재갈·연석(도로 경계석)'을 뜻하던 말 — 무언가를 경계 안에 가둬 억제한다는 뜻으로 확장. 미국식에선 명사 '연석'으로도 흔히 쓴다."
+      }
+    },
+    "recession": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "경기 침체",
+        "example_en": "Two consecutive quarters of negative growth officially signal a recession.",
+        "example_ko": "2개 분기 연속 마이너스 성장은 공식적으로 경기 침체를 뜻한다.",
+        "note": "re-(뒤로)+cess(가다) — 경제가 '뒤로 물러나는' 것. recede(물러나다)의 명사형이며, proceed·precede와 같은 -cede/-cess(가다) 뿌리.",
+        "family": [
+          {
+            "word": "recede",
+            "pos": "v.",
+            "ko": "물러나다, 약해지다"
+          }
+        ]
+      }
+    },
+    "volatile": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "변동성이 큰, 불안정한",
+        "example_en": "Investors grew nervous as the stock market turned increasingly volatile.",
+        "example_ko": "주식 시장이 갈수록 변동성이 커지자 투자자들은 불안해했다.",
+        "note": "라틴어 volare(날다)에서 — '날아가 버릴 만큼' 변덕스럽고 불안정하다. 화학에서는 '휘발성의', 경제에서는 '변동성이 큰'."
+      }
+    },
+    "surge": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "급등, 급증",
+        "example_en": "The company saw a sudden surge in demand for its products.",
+        "example_ko": "그 회사는 자사 제품에 대한 수요가 갑자기 급증하는 것을 목격했다.",
+        "note": "파도가 '솟구치다'에서 온 말 — 가격·수요가 갑자기 치솟는 것. 명사·동사 동형이며, 반대인 급락은 plunge·slump."
+      }
+    },
+    "monetary": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "통화의, 화폐의",
+        "example_en": "The central bank tightened monetary policy to combat inflation.",
+        "example_ko": "중앙은행은 인플레이션에 맞서기 위해 통화 정책을 긴축했다.",
+        "note": "money와 같은 뿌리(라틴 moneta). 금리·통화량을 다루는 중앙은행의 영역이 monetary이고, 세금·지출을 다루는 정부의 영역이 fiscal.",
+        "related": [
+          {
+            "word": "fiscal",
+            "ko": "재정의",
+            "note": "monetary는 중앙은행의 금리·통화 정책, fiscal은 정부의 세금·지출 정책 — 짝을 이루는 대비어"
+          }
+        ]
+      }
+    },
+    "stimulus": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "경기 부양책, 자극(제)",
+        "example_en": "The government rolled out a massive stimulus package to revive the economy.",
+        "example_ko": "정부는 경제를 되살리기 위해 대규모 경기 부양책을 내놓았다.",
+        "note": "라틴어로 '가축을 찌르는 막대기' — 경제를 '찔러' 움직이게 하는 부양책. 복수형은 stimuli(스티뮬라이).",
+        "family": [
+          {
+            "word": "stimulate",
+            "pos": "v.",
+            "ko": "자극하다, 활성화하다"
+          },
+          {
+            "word": "stimulation",
+            "pos": "n.",
+            "ko": "자극"
+          }
+        ]
+      }
+    },
+    "fiscal": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "재정의, 회계의",
+        "example_en": "The new administration promised to rein in the fiscal deficit.",
+        "example_ko": "새 정부는 재정 적자를 억제하겠다고 약속했다.",
+        "note": "라틴어 fiscus(국고)에서 — 정부의 세금·지출에 관한 것. 'fiscal year(회계연도)'로도 자주 나온다. 발음은 [피스컬]."
+      }
+    },
+    "rationale": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "논리적 근거, 이유",
+        "example_en": "The minister explained the rationale behind the controversial policy.",
+        "example_ko": "장관은 그 논란이 많은 정책의 논리적 근거를 설명했다.",
+        "note": "ratio(비율·이성)와 한 뿌리 — 어떤 결정의 '이성적 근거'. 발음이 [래셔낼]로 rational(이성적인)과 다르며 품사도 다르니 주의.",
+        "related": [
+          {
+            "word": "rational",
+            "ko": "이성적인, 합리적인",
+            "note": "rational은 형용사, rationale은 명사('근거') — 철자·발음이 비슷해 혼동하기 쉽다"
+          }
+        ]
+      }
+    },
+    "imperative": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "긴요한 과제, 반드시 필요한 것",
+        "example_en": "It is imperative that we address climate change without delay.",
+        "example_ko": "우리가 지체 없이 기후 변화에 대응하는 것이 반드시 필요하다.",
+        "note": "라틴어 imperare(명령하다)에서 — 형용사로는 '반드시 해야 하는', 명사로는 '꼭 필요한 것'. 문법의 '명령법'도 imperative. 'It is imperative that + 주어 + (should) 동사원형' 형태에 주의."
+      }
+    },
+    "precarious": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "위태로운, 불안정한",
+        "example_en": "Many workers in the gig economy earn a precarious living.",
+        "example_ko": "긱 경제의 많은 노동자들은 불안정한 생계를 꾸린다.",
+        "note": "원뜻은 '기도(prayer)로 얻은' → 남의 뜻에 달려 언제 무너질지 모르게 '불안정한'. pray(간청하다)와 같은 prec- 뿌리."
+      }
+    },
+    "stifle": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "억누르다, 질식시키다",
+        "example_en": "Excessive regulation can stifle innovation and growth.",
+        "example_ko": "과도한 규제는 혁신과 성장을 억누를 수 있다.",
+        "note": "'숨 막히게 하다'가 원뜻 — 성장·반대·하품 등을 눌러 못 나오게 하다. stifle a yawn은 '하품을 참다'."
+      }
+    },
+    "exert": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "(영향력·힘을) 행사하다, 발휘하다",
+        "example_en": "Labor unions can exert considerable influence on policy.",
+        "example_ko": "노동조합은 정책에 상당한 영향력을 행사할 수 있다.",
+        "note": "ex-(밖으로)+sert(밀다) — 힘·영향력을 밖으로 밀어내어 행사하다. exert oneself는 '노력하다'. insert(안으로 밀다)와 같은 -sert 뿌리."
+      }
+    },
+    "contend": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "주장하다; 다투다",
+        "example_en": "Analysts contend that the recovery is far from secure.",
+        "example_ko": "분석가들은 경기 회복이 결코 확실하지 않다고 주장한다.",
+        "note": "con-(함께)+tend(뻗다) — 서로 힘을 겨루다(다투다)와, 그 힘으로 밀어붙여 '(강하게) 주장하다'의 두 갈래. contend with ~는 '~와 씨름하다'.",
+        "family": [
+          {
+            "word": "contention",
+            "pos": "n.",
+            "ko": "논쟁; 주장"
+          },
+          {
+            "word": "contender",
+            "pos": "n.",
+            "ko": "경쟁자, 도전자"
+          }
+        ]
+      }
+    },
+    "considerable": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "상당한, 많은",
+        "example_en": "The project will require a considerable amount of time and money.",
+        "example_ko": "그 프로젝트는 상당한 시간과 비용을 필요로 할 것이다.",
+        "note": "양·정도가 '상당한'. 사람 성격을 뜻하는 considerate(사려 깊은)와 절대 혼동 금지 — 접미사 -able/-ate로 뜻이 완전히 갈린다.",
+        "related": [
+          {
+            "word": "considerate",
+            "ko": "사려 깊은, 배려하는",
+            "note": "considerate는 사람의 태도(배려), considerable은 양·정도가 상당함 — 철자가 한 글자 차이라 시험 단골 함정"
+          }
+        ]
+      }
+    },
+    "abrupt": {
+      "added_on": "2026-07-24",
+      "box": 1,
+      "next_due": "2026-07-25",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-24",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "갑작스러운; 퉁명스러운",
+        "example_en": "The meeting came to an abrupt end when the news broke.",
+        "example_ko": "그 소식이 전해지자 회의는 갑작스럽게 끝났다.",
+        "note": "ab-(떨어져)+rupt(깨다) — 흐름이 뚝 끊겨 '갑작스러운'. 사람 태도에 쓰면 '퉁명스러운'. erupt(터지다)·interrupt(중단하다)와 같은 rupt 뿌리.",
+        "family": [
+          {
+            "word": "abruptly",
+            "pos": "ad.",
+            "ko": "갑작스럽게"
           }
         ]
       }

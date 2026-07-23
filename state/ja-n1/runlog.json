@@ -7,7 +7,11 @@
       "settled_at": "2026-07-23T00:45:58.827Z",
       "content_sha256": "81b4ba8fd6ae6d2c52a289d9614222ca111c0054a33fdd34ca9bd35bd90ce571",
       "notes": [],
-      "built_at": "2026-07-23T00:49:02.370Z"
+      "built_at": "2026-07-23T19:24:09.666Z"
+    },
+    "2026-07-24": {
+      "prepared_at": "2026-07-23T19:20:43.326Z",
+      "settled": false
     }
   }
 }

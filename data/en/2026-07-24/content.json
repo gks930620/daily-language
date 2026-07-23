@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-07-24",
+  "passage_note": "경제 — 중앙은행의 금리 인상과 침체 위험을 둘러싼 논쟁(시사·논설)",
+  "sentences": [
+    {
+      "en": "For much of the past two years, central banks across the developed world have waged an aggressive campaign against inflation, raising interest rates at a pace unseen in decades.",
+      "ko": "지난 2년의 상당 기간 동안, 선진국의 중앙은행들은 인플레이션에 맞서 공격적인 캠페인을 벌여 왔으며, 수십 년간 볼 수 없던 속도로 금리를 인상했다.",
+      "structure": "· For much of the past two years : 부사구가 문두에 위치해 기간을 강조.\n· have waged : 현재완료(지난 2년간 이어져 온 일).\n· raising interest rates ~ : 현재분사구문이 앞 절에 부가 정보를 더함(동시 동작).\n· unseen in decades : 과거분사 unseen이 pace를 뒤에서 수식('수십 년간 볼 수 없던').",
+      "vocab_notes": [
+        { "word": "central bank", "ko": "중앙은행" },
+        { "word": "the developed world", "ko": "선진국" },
+        { "word": "wage (a campaign)", "ko": "(캠페인·전쟁을) 벌이다, 수행하다" },
+        { "word": "aggressive", "ko": "공격적인, 적극적인" },
+        { "word": "campaign", "ko": "캠페인, (조직적) 운동" },
+        { "word": "inflation", "ko": "인플레이션, 물가 상승" },
+        { "word": "interest rate", "ko": "금리, 이자율" },
+        { "word": "at a pace", "ko": "~한 속도로" },
+        { "word": "unseen", "ko": "전례 없는, 볼 수 없던" },
+        { "word": "in decades", "ko": "수십 년 만에" }
+      ]
+    },
+    {
+      "en": "The rationale was straightforward: by making borrowing more expensive, policymakers hoped to curb consumer spending and cool an overheating economy.",
+      "ko": "그 논리는 간단했다. 차입을 더 비싸게 만듦으로써, 정책 입안자들은 소비 지출을 억제하고 과열된 경제를 진정시키기를 바랐다.",
+      "structure": "· The rationale was straightforward: 콜론(:) 뒤에서 그 근거를 구체적으로 부연.\n· by making borrowing more expensive : 「by + 동명사」='~함으로써'(수단).\n· make + 목적어 + 형용사 : 5형식('차입을 더 비싸게 만들다').\n· hoped to curb ~ and cool ~ : 두 개의 to부정사(curb, cool)가 and로 병렬.",
+      "vocab_notes": [
+        { "word": "rationale", "ko": "논리적 근거, 이유" },
+        { "word": "straightforward", "ko": "간단명료한, 쉬운" },
+        { "word": "borrowing", "ko": "차입, 대출(받기)" },
+        { "word": "policymaker", "ko": "정책 입안자" },
+        { "word": "curb", "ko": "억제하다" },
+        { "word": "consumer spending", "ko": "소비 지출" },
+        { "word": "cool", "ko": "(경기를) 진정시키다, 식히다" },
+        { "word": "overheating", "ko": "과열된" }
+      ]
+    },
+    {
+      "en": "Yet the strategy carries considerable risks, for tightening credit too abruptly can tip a fragile economy into recession and throw millions out of work.",
+      "ko": "하지만 그 전략은 상당한 위험을 수반하는데, 왜냐하면 신용을 너무 급격히 조이면 취약한 경제를 침체로 몰아넣고 수백만 명을 실직시킬 수 있기 때문이다.",
+      "structure": "· for tightening ~ : 접속사 for='왜냐하면'(이유를 잇는 등위접속사).\n· tightening credit too abruptly : 동명사구가 절의 주어.\n· tip A into B : 'A를 B 상태로 몰아넣다'.\n· throw ~ out of work : '~를 실직시키다'.",
+      "vocab_notes": [
+        { "word": "strategy", "ko": "전략" },
+        { "word": "carry (risks)", "ko": "(위험을) 수반하다, 지니다" },
+        { "word": "considerable", "ko": "상당한" },
+        { "word": "tighten", "ko": "조이다, 긴축하다" },
+        { "word": "credit", "ko": "신용, 여신" },
+        { "word": "abruptly", "ko": "갑작스럽게, 급격히" },
+        { "word": "tip ~ into", "ko": "~로 기울게 하다, 몰아넣다" },
+        { "word": "fragile", "ko": "취약한, 허약한" },
+        { "word": "recession", "ko": "경기 침체" },
+        { "word": "throw ~ out of work", "ko": "~를 실직시키다" }
+      ]
+    },
+    {
+      "en": "Critics contend that the recent surge in prices stemmed largely from supply-chain disruptions and volatile energy markets, factors over which monetary policy exerts little influence.",
+      "ko": "비판론자들은 최근의 물가 급등이 주로 공급망 교란과 변동성이 큰 에너지 시장에서 비롯됐으며, 이는 통화 정책이 거의 영향을 미치지 못하는 요인들이라고 주장한다.",
+      "structure": "· contend that ~ : that절이 contend의 목적어('~라고 주장하다').\n· stem from ~ : '~에서 비롯되다'.\n· factors over which monetary policy exerts little influence : 「전치사+관계대명사」(over which)가 factors를 수식(exert influence over ~).",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판론자, 비평가" },
+        { "word": "contend", "ko": "주장하다" },
+        { "word": "surge", "ko": "급등, 급증" },
+        { "word": "stem from", "ko": "~에서 비롯되다" },
+        { "word": "largely", "ko": "주로, 대체로" },
+        { "word": "supply chain", "ko": "공급망" },
+        { "word": "disruption", "ko": "교란, 붕괴, 혼란" },
+        { "word": "volatile", "ko": "변동성이 큰, 불안정한" },
+        { "word": "monetary policy", "ko": "통화 정책" },
+        { "word": "exert (influence)", "ko": "(영향력을) 행사하다, 미치다" }
+      ]
+    },
+    {
+      "en": "As the debate intensifies, central bankers find themselves walking a precarious tightrope, weighing the imperative to restore price stability against the danger of stifling a tentative recovery.",
+      "ko": "논쟁이 격화되면서, 중앙은행 관계자들은 자신들이 위태로운 줄타기를 하고 있음을 깨닫고 있는데, 물가 안정을 회복해야 할 절박한 과제를 잠정적인 경기 회복을 억눌러 버릴 위험과 견주어 저울질하고 있다.",
+      "structure": "· As the debate intensifies : 접속사 as='~함에 따라, ~하면서'.\n· find oneself ~ing : '자신이 ~하고 있음을 깨닫다'.\n· weighing A against B : 분사구문, 'A를 B와 견주어 따지다'.\n· the imperative to restore ~ : to부정사가 imperative(명사, '절박한 과제')를 수식.",
+      "vocab_notes": [
+        { "word": "intensify", "ko": "격화되다, 심해지다" },
+        { "word": "central banker", "ko": "중앙은행 관계자" },
+        { "word": "precarious", "ko": "위태로운, 불안정한" },
+        { "word": "tightrope", "ko": "(팽팽한) 줄 — walk a tightrope: 아슬아슬한 줄타기를 하다" },
+        { "word": "weigh", "ko": "저울질하다, 따져 보다" },
+        { "word": "imperative", "ko": "긴요한 과제, 절대적으로 필요한 것" },
+        { "word": "restore", "ko": "회복시키다" },
+        { "word": "price stability", "ko": "물가 안정" },
+        { "word": "stifle", "ko": "억누르다, 질식시키다" },
+        { "word": "tentative", "ko": "잠정적인, 조심스러운" },
+        { "word": "recovery", "ko": "(경기) 회복" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "curb",
+      "pos": "v.",
+      "ko": "억제하다",
+      "example_en": "The central bank raised rates in a bid to curb runaway inflation.",
+      "example_ko": "중앙은행은 치솟는 인플레이션을 억제하기 위해 금리를 올렸다.",
+      "collocations": ["curb inflation", "curb spending"],
+      "note": "원래 '말의 재갈·연석(도로 경계석)'을 뜻하던 말 — 무언가를 경계 안에 가둬 억제한다는 뜻으로 확장. 미국식에선 명사 '연석'으로도 흔히 쓴다."
+    },
+    {
+      "headword": "recession",
+      "pos": "n.",
+      "ko": "경기 침체",
+      "example_en": "Two consecutive quarters of negative growth officially signal a recession.",
+      "example_ko": "2개 분기 연속 마이너스 성장은 공식적으로 경기 침체를 뜻한다.",
+      "collocations": ["slip into recession", "deep recession"],
+      "note": "re-(뒤로)+cess(가다) — 경제가 '뒤로 물러나는' 것. recede(물러나다)의 명사형이며, proceed·precede와 같은 -cede/-cess(가다) 뿌리.",
+      "family": [
+        { "word": "recede", "pos": "v.", "ko": "물러나다, 약해지다" }
+      ]
+    },
+    {
+      "headword": "volatile",
+      "pos": "a.",
+      "ko": "변동성이 큰, 불안정한",
+      "example_en": "Investors grew nervous as the stock market turned increasingly volatile.",
+      "example_ko": "주식 시장이 갈수록 변동성이 커지자 투자자들은 불안해했다.",
+      "collocations": ["volatile market", "volatile prices"],
+      "note": "라틴어 volare(날다)에서 — '날아가 버릴 만큼' 변덕스럽고 불안정하다. 화학에서는 '휘발성의', 경제에서는 '변동성이 큰'."
+    },
+    {
+      "headword": "surge",
+      "pos": "n.",
+      "ko": "급등, 급증",
+      "example_en": "The company saw a sudden surge in demand for its products.",
+      "example_ko": "그 회사는 자사 제품에 대한 수요가 갑자기 급증하는 것을 목격했다.",
+      "collocations": ["a surge in prices", "surge in demand"],
+      "note": "파도가 '솟구치다'에서 온 말 — 가격·수요가 갑자기 치솟는 것. 명사·동사 동형이며, 반대인 급락은 plunge·slump."
+    },
+    {
+      "headword": "monetary",
+      "pos": "a.",
+      "ko": "통화의, 화폐의",
+      "example_en": "The central bank tightened monetary policy to combat inflation.",
+      "example_ko": "중앙은행은 인플레이션에 맞서기 위해 통화 정책을 긴축했다.",
+      "collocations": ["monetary policy", "monetary tightening"],
+      "note": "money와 같은 뿌리(라틴 moneta). 금리·통화량을 다루는 중앙은행의 영역이 monetary이고, 세금·지출을 다루는 정부의 영역이 fiscal.",
+      "related": [
+        { "word": "fiscal", "ko": "재정의", "note": "monetary는 중앙은행의 금리·통화 정책, fiscal은 정부의 세금·지출 정책 — 짝을 이루는 대비어" }
+      ]
+    },
+    {
+      "headword": "stimulus",
+      "pos": "n.",
+      "ko": "경기 부양책, 자극(제)",
+      "example_en": "The government rolled out a massive stimulus package to revive the economy.",
+      "example_ko": "정부는 경제를 되살리기 위해 대규모 경기 부양책을 내놓았다.",
+      "collocations": ["stimulus package", "fiscal stimulus"],
+      "note": "라틴어로 '가축을 찌르는 막대기' — 경제를 '찔러' 움직이게 하는 부양책. 복수형은 stimuli(스티뮬라이).",
+      "family": [
+        { "word": "stimulate", "pos": "v.", "ko": "자극하다, 활성화하다" },
+        { "word": "stimulation", "pos": "n.", "ko": "자극" }
+      ]
+    },
+    {
+      "headword": "fiscal",
+      "pos": "a.",
+      "ko": "재정의, 회계의",
+      "example_en": "The new administration promised to rein in the fiscal deficit.",
+      "example_ko": "새 정부는 재정 적자를 억제하겠다고 약속했다.",
+      "collocations": ["fiscal policy", "fiscal year"],
+      "note": "라틴어 fiscus(국고)에서 — 정부의 세금·지출에 관한 것. 'fiscal year(회계연도)'로도 자주 나온다. 발음은 [피스컬]."
+    },
+    {
+      "headword": "rationale",
+      "pos": "n.",
+      "ko": "논리적 근거, 이유",
+      "example_en": "The minister explained the rationale behind the controversial policy.",
+      "example_ko": "장관은 그 논란이 많은 정책의 논리적 근거를 설명했다.",
+      "collocations": ["the rationale behind ~", "provide a rationale"],
+      "note": "ratio(비율·이성)와 한 뿌리 — 어떤 결정의 '이성적 근거'. 발음이 [래셔낼]로 rational(이성적인)과 다르며 품사도 다르니 주의.",
+      "related": [
+        { "word": "rational", "ko": "이성적인, 합리적인", "note": "rational은 형용사, rationale은 명사('근거') — 철자·발음이 비슷해 혼동하기 쉽다" }
+      ]
+    },
+    {
+      "headword": "imperative",
+      "pos": "n.",
+      "ko": "긴요한 과제, 반드시 필요한 것",
+      "example_en": "It is imperative that we address climate change without delay.",
+      "example_ko": "우리가 지체 없이 기후 변화에 대응하는 것이 반드시 필요하다.",
+      "collocations": ["it is imperative that ~", "a moral imperative"],
+      "note": "라틴어 imperare(명령하다)에서 — 형용사로는 '반드시 해야 하는', 명사로는 '꼭 필요한 것'. 문법의 '명령법'도 imperative. 'It is imperative that + 주어 + (should) 동사원형' 형태에 주의."
+    },
+    {
+      "headword": "precarious",
+      "pos": "a.",
+      "ko": "위태로운, 불안정한",
+      "example_en": "Many workers in the gig economy earn a precarious living.",
+      "example_ko": "긱 경제의 많은 노동자들은 불안정한 생계를 꾸린다.",
+      "collocations": ["precarious situation", "precarious balance"],
+      "note": "원뜻은 '기도(prayer)로 얻은' → 남의 뜻에 달려 언제 무너질지 모르게 '불안정한'. pray(간청하다)와 같은 prec- 뿌리."
+    },
+    {
+      "headword": "stifle",
+      "pos": "v.",
+      "ko": "억누르다, 질식시키다",
+      "example_en": "Excessive regulation can stifle innovation and growth.",
+      "example_ko": "과도한 규제는 혁신과 성장을 억누를 수 있다.",
+      "collocations": ["stifle innovation", "stifle a yawn"],
+      "note": "'숨 막히게 하다'가 원뜻 — 성장·반대·하품 등을 눌러 못 나오게 하다. stifle a yawn은 '하품을 참다'."
+    },
+    {
+      "headword": "exert",
+      "pos": "v.",
+      "ko": "(영향력·힘을) 행사하다, 발휘하다",
+      "example_en": "Labor unions can exert considerable influence on policy.",
+      "example_ko": "노동조합은 정책에 상당한 영향력을 행사할 수 있다.",
+      "collocations": ["exert influence", "exert pressure"],
+      "note": "ex-(밖으로)+sert(밀다) — 힘·영향력을 밖으로 밀어내어 행사하다. exert oneself는 '노력하다'. insert(안으로 밀다)와 같은 -sert 뿌리."
+    },
+    {
+      "headword": "contend",
+      "pos": "v.",
+      "ko": "주장하다; 다투다",
+      "example_en": "Analysts contend that the recovery is far from secure.",
+      "example_ko": "분석가들은 경기 회복이 결코 확실하지 않다고 주장한다.",
+      "collocations": ["contend that ~", "contend with ~"],
+      "note": "con-(함께)+tend(뻗다) — 서로 힘을 겨루다(다투다)와, 그 힘으로 밀어붙여 '(강하게) 주장하다'의 두 갈래. contend with ~는 '~와 씨름하다'.",
+      "family": [
+        { "word": "contention", "pos": "n.", "ko": "논쟁; 주장" },
+        { "word": "contender", "pos": "n.", "ko": "경쟁자, 도전자" }
+      ]
+    },
+    {
+      "headword": "considerable",
+      "pos": "a.",
+      "ko": "상당한, 많은",
+      "example_en": "The project will require a considerable amount of time and money.",
+      "example_ko": "그 프로젝트는 상당한 시간과 비용을 필요로 할 것이다.",
+      "collocations": ["considerable amount", "considerable influence"],
+      "note": "양·정도가 '상당한'. 사람 성격을 뜻하는 considerate(사려 깊은)와 절대 혼동 금지 — 접미사 -able/-ate로 뜻이 완전히 갈린다.",
+      "related": [
+        { "word": "considerate", "ko": "사려 깊은, 배려하는", "note": "considerate는 사람의 태도(배려), considerable은 양·정도가 상당함 — 철자가 한 글자 차이라 시험 단골 함정" }
+      ]
+    },
+    {
+      "headword": "abrupt",
+      "pos": "a.",
+      "ko": "갑작스러운; 퉁명스러운",
+      "example_en": "The meeting came to an abrupt end when the news broke.",
+      "example_ko": "그 소식이 전해지자 회의는 갑작스럽게 끝났다.",
+      "collocations": ["abrupt change", "an abrupt end"],
+      "note": "ab-(떨어져)+rupt(깨다) — 흐름이 뚝 끊겨 '갑작스러운'. 사람 태도에 쓰면 '퉁명스러운'. erupt(터지다)·interrupt(중단하다)와 같은 rupt 뿌리.",
+      "family": [
+        { "word": "abruptly", "pos": "ad.", "ko": "갑작스럽게" }
+      ]
+    },
+    {
+      "headword": "fragile",
+      "pos": "a.",
+      "ko": "취약한, 깨지기 쉬운",
+      "example_en": "The ceasefire remains fragile after months of conflict.",
+      "example_ko": "몇 달간의 분쟁 끝에 그 휴전은 여전히 취약하다.",
+      "collocations": ["fragile economy", "fragile peace"],
+      "note": "frag-(깨지다) — 쉽게 깨지는, 취약한. fragment(파편)·fraction(분수·일부)과 같은 뿌리."
+    },
+    {
+      "headword": "tentative",
+      "pos": "a.",
+      "ko": "잠정적인, 머뭇거리는",
+      "example_en": "The two sides reached a tentative agreement after long talks.",
+      "example_ko": "양측은 긴 협상 끝에 잠정 합의에 도달했다.",
+      "collocations": ["tentative agreement", "tentative plan"],
+      "note": "라틴어 tentare(시도하다)에서 — '시험 삼아 해 보는' → 확정 전의 '잠정적인', 태도로는 '머뭇거리는'. tempt(유혹하다)와 먼 친척."
+    },
+    {
+      "headword": "disruption",
+      "pos": "n.",
+      "ko": "교란, 붕괴, 혼란",
+      "example_en": "The strike caused major disruption to public transport.",
+      "example_ko": "그 파업은 대중교통에 큰 혼란을 일으켰다.",
+      "collocations": ["cause disruption", "supply-chain disruption"],
+      "note": "dis-(떨어져)+rupt(깨다) — 질서를 깨뜨려 흐트러뜨림. IT 맥락에선 기존 시장을 뒤엎는 '파괴적 혁신'을 가리키기도. abrupt와 같은 rupt 뿌리.",
+      "family": [
+        { "word": "disrupt", "pos": "v.", "ko": "방해하다, 뒤엎다" },
+        { "word": "disruptive", "pos": "a.", "ko": "지장을 주는; 파괴적 혁신의" }
+      ]
+    }
+  ]
+}
