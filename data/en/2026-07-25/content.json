@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-07-25",
+  "passage_note": "환경 — 기후 '적응' 재원의 공백과 개발도상국의 취약성(논설)",
+  "sentences": [
+    {
+      "en": "For decades, the international climate debate revolved almost exclusively around mitigation—the effort to cut greenhouse gas emissions before the planet warms beyond repair.",
+      "ko": "수십 년 동안 국제 기후 논의는 거의 전적으로 '완화', 즉 지구가 되돌릴 수 없을 만큼 더워지기 전에 온실가스 배출을 줄이려는 노력을 중심으로 돌아갔다.",
+      "structure": "· For decades : 기간을 나타내는 부사구가 문두에 나와 '오랜 관행'임을 강조.\n· revolve around ~ : '~을 중심으로 돌아가다'.\n· mitigation—the effort to ~ : 대시(—) 뒤의 명사구가 앞의 mitigation과 동격(설명).\n· the effort to cut ~ : to부정사의 형용사적 용법으로 effort를 수식.\n· before the planet warms ~ : 시간 부사절에서는 미래의 일이라도 현재시제(warms)를 쓴다.",
+      "vocab_notes": [
+        { "word": "revolve around", "ko": "~을 중심으로 돌아가다" },
+        { "word": "exclusively", "ko": "오로지, 전적으로" },
+        { "word": "mitigation", "ko": "완화; (온실가스) 감축" },
+        { "word": "cut (emissions)", "ko": "(배출을) 줄이다, 감축하다" },
+        { "word": "greenhouse gas", "ko": "온실가스" },
+        { "word": "emission", "ko": "배출, 배출량" },
+        { "word": "warm", "ko": "더워지다, 온난해지다" },
+        { "word": "beyond repair", "ko": "고칠 수 없을 만큼, 되돌릴 수 없이" }
+      ]
+    },
+    {
+      "en": "Adaptation, by contrast, was long treated as an afterthought, an admission of defeat that diplomats were reluctant to put on the table.",
+      "ko": "반면 '적응'은 오랫동안 뒤늦게 떠오른 부차적 문제로, 외교관들이 협상 테이블에 올리기를 꺼렸던 패배의 인정으로 취급되었다.",
+      "structure": "· by contrast : 앞 문장과의 대비를 나타내는 연결어구가 주어와 동사 사이에 삽입.\n· was treated as ~ : treat A as B('A를 B로 취급하다')의 수동태.\n· an afterthought, an admission of defeat : 콤마 뒤 명사구가 앞의 an afterthought와 동격.\n· that diplomats were reluctant to put on the table : 목적격 관계대명사 that절이 an admission을 수식 — put 뒤 목적어 자리가 비어 있다(선행사가 그 자리).",
+      "vocab_notes": [
+        { "word": "adaptation", "ko": "적응" },
+        { "word": "by contrast", "ko": "반면에, 대조적으로" },
+        { "word": "treat A as B", "ko": "A를 B로 취급하다" },
+        { "word": "afterthought", "ko": "뒤늦게 떠오른 생각, 부차적으로 밀린 것" },
+        { "word": "admission", "ko": "인정, 시인" },
+        { "word": "defeat", "ko": "패배" },
+        { "word": "diplomat", "ko": "외교관" },
+        { "word": "reluctant", "ko": "꺼리는, 마지못한" },
+        { "word": "put ~ on the table", "ko": "~을 (협상) 안건으로 올리다" }
+      ]
+    },
+    {
+      "en": "That reluctance has proved costly, for the communities least responsible for the crisis are precisely those most exposed to its consequences: farmers whose harvests fail when the rains no longer come, coastal residents whose homes are steadily swallowed by rising seas.",
+      "ko": "그 주저함은 값비싼 대가를 치렀는데, 이 위기에 책임이 가장 적은 공동체가 바로 그 결과에 가장 크게 노출된 이들이기 때문이다. 비가 더 이상 오지 않아 수확을 망치는 농민들, 집이 차오르는 바다에 서서히 삼켜지는 해안 주민들이 바로 그들이다.",
+      "structure": "· for the communities ~ : 접속사 for='왜냐하면'(이유를 잇는 등위접속사).\n· the communities (which are) least responsible for ~ : 「관계대명사+be」가 생략된 형용사구가 명사를 뒤에서 수식.\n· those most exposed to ~ : those=the communities(반복을 피한 대명사), 과거분사구의 수식을 받음.\n· 콜론(:) 뒤 farmers ~, coastal residents ~ : 앞의 those를 구체적 예로 풀어 나열.\n· whose harvests ~ / whose homes ~ : 소유격 관계대명사 whose가 두 번 병렬로 쓰임.",
+      "vocab_notes": [
+        { "word": "reluctance", "ko": "꺼림, 주저" },
+        { "word": "prove (costly)", "ko": "(~한 것으로) 드러나다, 판명되다" },
+        { "word": "costly", "ko": "대가가 큰, 값비싼" },
+        { "word": "responsible for", "ko": "~에 책임이 있는" },
+        { "word": "precisely", "ko": "바로, 정확히" },
+        { "word": "be exposed to", "ko": "~에 노출되다" },
+        { "word": "consequence", "ko": "결과, 여파" },
+        { "word": "harvest", "ko": "수확(량)" },
+        { "word": "coastal", "ko": "해안의" },
+        { "word": "resident", "ko": "주민, 거주자" },
+        { "word": "steadily", "ko": "꾸준히, 서서히" },
+        { "word": "swallow", "ko": "삼키다" }
+      ]
+    },
+    {
+      "en": "Wealthy nations pledged billions to help vulnerable countries brace for such shocks, yet a substantial portion of that money has never materialized, and much of what did arrive came as loans rather than grants, saddling recipients with debt.",
+      "ko": "부유한 국가들은 취약한 나라들이 그런 충격에 대비하도록 돕겠다며 수십억 달러를 약속했지만, 그 돈의 상당 부분은 끝내 실현되지 않았고, 실제로 도착한 돈의 상당수는 보조금이 아니라 대출로 들어와 수혜국에 빚을 떠안겼다.",
+      "structure": "· pledged billions to help ~ : to부정사의 부사적 용법(목적).\n· help + 목적어 + 동사원형(brace) : help는 to를 생략한 원형부정사를 취할 수 있다.\n· yet : '그러나'의 뜻으로 두 절을 잇는 등위접속사.\n· much of what did arrive : 관계대명사 what('~한 것')절이 of의 목적어, did는 동사 arrive를 강조하는 조동사.\n· saddling recipients with debt : 결과를 나타내는 분사구문('그리하여 ~에게 빚을 지웠다').",
+      "vocab_notes": [
+        { "word": "pledge", "ko": "약속하다, 서약하다" },
+        { "word": "billions", "ko": "수십억 (달러)" },
+        { "word": "vulnerable", "ko": "취약한" },
+        { "word": "brace for", "ko": "~에 대비하다" },
+        { "word": "shock", "ko": "충격, 타격" },
+        { "word": "substantial", "ko": "상당한" },
+        { "word": "portion", "ko": "부분, 몫" },
+        { "word": "materialize", "ko": "실현되다, 현실이 되다" },
+        { "word": "loan", "ko": "대출, 융자" },
+        { "word": "grant", "ko": "보조금, 무상 지원금" },
+        { "word": "saddle ~ with", "ko": "~에게 (부담을) 떠안기다" },
+        { "word": "recipient", "ko": "수혜자, 받는 쪽" },
+        { "word": "debt", "ko": "빚, 부채" }
+      ]
+    },
+    {
+      "en": "Unless the gap between rhetoric and disbursement is closed, adaptation will remain what it has always been in practice—a promise perpetually deferred.",
+      "ko": "말과 실제 지급 사이의 간극이 메워지지 않는 한, 적응은 실제로 늘 그래 왔던 것, 즉 끝없이 미뤄지는 약속으로 남을 것이다.",
+      "structure": "· Unless ~ is closed : unless=if ~ not. 조건 부사절이므로 미래의 일도 현재시제로 쓴다.\n· the gap between A and B : between A and B가 gap을 수식.\n· what it has always been : 관계대명사 what절이 remain의 보어(2형식).\n· in practice : '실제로는'(in theory와 짝을 이루는 대비 표현).\n· —a promise perpetually deferred : 대시 뒤 명사구가 앞의 what절과 동격, 과거분사 deferred가 promise를 뒤에서 수식.",
+      "vocab_notes": [
+        { "word": "unless", "ko": "~하지 않는 한" },
+        { "word": "gap between A and B", "ko": "A와 B 사이의 간극" },
+        { "word": "rhetoric", "ko": "말뿐인 수사, 미사여구" },
+        { "word": "disbursement", "ko": "(자금의) 지급, 집행" },
+        { "word": "close (the gap)", "ko": "(간극을) 메우다, 좁히다" },
+        { "word": "in practice", "ko": "실제로는" },
+        { "word": "perpetually", "ko": "끊임없이, 영구히" },
+        { "word": "defer", "ko": "미루다, 연기하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "mitigation",
+      "pos": "n.",
+      "ko": "완화; (온실가스) 감축",
+      "example_en": "Most of the budget went to mitigation rather than to adaptation measures.",
+      "example_ko": "예산의 대부분은 적응 대책이 아니라 감축에 쓰였다.",
+      "collocations": ["climate mitigation", "risk mitigation"],
+      "note": "mit-(보내다) 뿌리 — 피해를 '보내 버려' 가볍게 하는 것. 기후 기사에서 mitigation은 '배출을 줄여 원인을 없애기', adaptation은 '이미 닥친 변화에 맞춰 살기'로 늘 짝을 이뤄 나온다.",
+      "family": [
+        { "word": "mitigate", "pos": "v.", "ko": "완화하다, 경감하다" }
+      ],
+      "related": [
+        { "word": "adaptation", "ko": "적응", "note": "mitigation은 원인(배출)을 줄이는 쪽, adaptation은 결과에 적응하는 쪽 — 기후 논의의 두 축" }
+      ]
+    },
+    {
+      "headword": "adaptation",
+      "pos": "n.",
+      "ko": "적응; 각색",
+      "example_en": "Coastal cities are investing heavily in adaptation to rising sea levels.",
+      "example_ko": "해안 도시들은 해수면 상승에 대한 적응에 막대한 투자를 하고 있다.",
+      "collocations": ["adaptation to ~", "a film adaptation"],
+      "note": "adapt(적응하다)의 명사형. 소설을 영화로 옮긴 '각색'도 adaptation이다. 철자가 한 글자 다른 adopt(채택하다·입양하다)와 헷갈리기 쉬워 시험 단골 함정.",
+      "family": [
+        { "word": "adapt", "pos": "v.", "ko": "적응하다, 맞추다" },
+        { "word": "adaptive", "pos": "a.", "ko": "적응력 있는" }
+      ],
+      "related": [
+        { "word": "adopt", "ko": "채택하다, 입양하다", "note": "adapt는 '맞춰 바꾸다', adopt는 '그대로 받아들이다' — 뜻이 전혀 다르다" }
+      ]
+    },
+    {
+      "headword": "emission",
+      "pos": "n.",
+      "ko": "배출, 배출량",
+      "example_en": "The plant has cut its carbon emissions by nearly half.",
+      "example_ko": "그 공장은 탄소 배출량을 거의 절반으로 줄였다.",
+      "collocations": ["carbon emissions", "cut emissions"],
+      "note": "e-(밖으로)+miss(보내다) — 밖으로 내보냄. mission(보내진 임무)·transmit(전송하다)·omit(빠뜨리다)과 같은 miss/mit 뿌리다. 온실가스 맥락에선 거의 복수형 emissions로 쓴다.",
+      "family": [
+        { "word": "emit", "pos": "v.", "ko": "(빛·열·가스를) 내뿜다, 배출하다" }
+      ]
+    },
+    {
+      "headword": "vulnerable",
+      "pos": "a.",
+      "ko": "취약한, 상처받기 쉬운",
+      "example_en": "Low-lying island nations are especially vulnerable to flooding.",
+      "example_ko": "저지대 섬나라들은 특히 홍수에 취약하다.",
+      "collocations": ["vulnerable to ~", "vulnerable groups"],
+      "note": "라틴어 vulnus(상처)에서 — '상처 입기 쉬운'. 전치사는 to로 굳어져 be vulnerable to ~ 형태로 외운다(for·against 아님).",
+      "family": [
+        { "word": "vulnerability", "pos": "n.", "ko": "취약성, 약점" }
+      ]
+    },
+    {
+      "headword": "pledge",
+      "pos": "v.",
+      "ko": "(공개적으로) 약속하다, 서약하다",
+      "example_en": "Donor countries pledged an additional $100 billion in climate finance.",
+      "example_ko": "공여국들은 기후 재원으로 1,000억 달러를 추가로 약속했다.",
+      "collocations": ["pledge support", "campaign pledge"],
+      "note": "promise보다 공식적·공개적인 약속 — 정치인의 공약, 기부 서약에 쓴다. 명사로도 같은 형태이며, 약속(pledge)과 실제 집행(disbursement)의 대비가 원조 기사의 단골 구도.",
+      "related": [
+        { "word": "disbursement", "ko": "지급, 집행", "note": "pledge는 말로 한 약속, disbursement는 돈이 실제로 나간 것 — 기사에서 이 둘의 차이를 지적하는 표현이 자주 나온다" }
+      ]
+    },
+    {
+      "headword": "materialize",
+      "pos": "v.",
+      "ko": "실현되다, 현실이 되다",
+      "example_en": "The promised investment never materialized.",
+      "example_ko": "약속된 투자는 끝내 실현되지 않았다.",
+      "collocations": ["fail to materialize", "never materialize"],
+      "note": "material(물질)+-ize — 약속·계획이 '물질화'되어 눈앞의 현실이 되는 것. 실제로는 never/fail to materialize처럼 부정형으로 '말뿐이었다'를 꼬집는 데 훨씬 자주 쓰인다.",
+      "family": [
+        { "word": "material", "pos": "n.", "ko": "물질, 재료" }
+      ]
+    },
+    {
+      "headword": "disbursement",
+      "pos": "n.",
+      "ko": "(자금의) 지급, 집행",
+      "example_en": "The fund reported long delays in the disbursement of emergency aid.",
+      "example_ko": "그 기금은 긴급 원조 지급이 크게 지연되었다고 밝혔다.",
+      "collocations": ["disbursement of funds", "delay in disbursement"],
+      "note": "dis-(떨어져)+burse(지갑 — purse와 같은 뿌리) — 지갑에서 돈을 꺼내 내주는 것. 회계·원조 기사에서 '약속'과 대비되는 '실제 집행'을 가리킨다.",
+      "family": [
+        { "word": "disburse", "pos": "v.", "ko": "(자금을) 지급하다" }
+      ],
+      "related": [
+        { "word": "reimburse", "ko": "상환하다, 변제하다", "note": "같은 burse(지갑) 뿌리지만 disburse는 돈을 내주는 것, reimburse는 이미 쓴 돈을 되돌려 주는 것" }
+      ]
+    },
+    {
+      "headword": "rhetoric",
+      "pos": "n.",
+      "ko": "미사여구, 말뿐인 수사; 수사학",
+      "example_en": "Critics dismissed the president's speech as empty rhetoric.",
+      "example_ko": "비판론자들은 대통령의 연설을 공허한 미사여구라고 일축했다.",
+      "collocations": ["empty rhetoric", "rhetoric and reality"],
+      "note": "본뜻은 '설득의 기술(수사학)'이지만 시사 영어에서는 대개 '실속 없는 말잔치'라는 부정적 뜻으로 쓴다. rhetoric vs reality(말 vs 현실) 대비 구도를 기억해 두면 독해가 쉬워진다.",
+      "family": [
+        { "word": "rhetorical", "pos": "a.", "ko": "수사적인 — rhetorical question은 '수사의문문'" }
+      ]
+    },
+    {
+      "headword": "defer",
+      "pos": "v.",
+      "ko": "미루다, 연기하다; (~의 뜻에) 따르다",
+      "example_en": "The committee deferred its decision until the next session.",
+      "example_ko": "위원회는 결정을 다음 회기로 미뤘다.",
+      "collocations": ["defer a decision", "defer to ~"],
+      "note": "de-(떨어져)+fer(나르다) — 뒤로 날라 미루는 것. 전치사가 붙어 defer to ~가 되면 뜻이 갈라져 '~의 판단을 존중해 따르다'가 된다. 명사도 deferral(연기)과 deference(경의)로 갈린다.",
+      "family": [
+        { "word": "deferral", "pos": "n.", "ko": "연기, 유예" },
+        { "word": "deference", "pos": "n.", "ko": "존중, 경의 — '연기'가 아님에 주의" }
+      ]
+    },
+    {
+      "headword": "brace",
+      "pos": "v.",
+      "ko": "(나쁜 일에) 대비하다, 마음을 다잡다",
+      "example_en": "Residents are bracing for the strongest typhoon in a decade.",
+      "example_ko": "주민들은 10년 만의 최강 태풍에 대비하고 있다.",
+      "collocations": ["brace for impact", "brace oneself for ~"],
+      "note": "원뜻은 '단단히 버티게 하다'(치아 교정기 braces도 여기서) — 충격에 대비해 몸을 버티는 그림. prepare와 달리 반드시 나쁜 일에만 쓰고, brace for ~ 형태로 굳어져 있다."
+    },
+    {
+      "headword": "reluctant",
+      "pos": "a.",
+      "ko": "꺼리는, 마지못한",
+      "example_en": "Banks remain reluctant to lend to small businesses.",
+      "example_ko": "은행들은 여전히 소규모 사업체에 대출해 주기를 꺼린다.",
+      "collocations": ["be reluctant to ~", "a reluctant witness"],
+      "note": "re-(뒤로)+luct(몸부림치다) — 뒤로 버둥거리며 안 하려는 모습. be reluctant to+동사원형이 기본형이며, 명사 reluctance는 '주저·꺼림'.",
+      "family": [
+        { "word": "reluctance", "pos": "n.", "ko": "꺼림, 주저" },
+        { "word": "reluctantly", "pos": "ad.", "ko": "마지못해" }
+      ]
+    },
+    {
+      "headword": "grant",
+      "pos": "n.",
+      "ko": "보조금, 무상 지원금",
+      "example_en": "The team received a research grant from the government.",
+      "example_ko": "그 팀은 정부로부터 연구 보조금을 받았다.",
+      "collocations": ["research grant", "grant permission"],
+      "note": "갚지 않아도 되는 grant(보조금)와 갚아야 하는 loan(대출)의 대비가 원조 기사의 핵심 쟁점이다. 동사로는 '(정식으로) 주다, 인정하다'이며 take ~ for granted(당연하게 여기다)로도 빈출.",
+      "related": [
+        { "word": "loan", "ko": "대출, 융자", "note": "grant는 상환 의무가 없는 무상 지원, loan은 갚아야 하는 돈 — 같은 '지원'이라도 성격이 정반대" }
+      ]
+    },
+    {
+      "headword": "substantial",
+      "pos": "a.",
+      "ko": "상당한; 실질적인",
+      "example_en": "The report found substantial evidence of financial wrongdoing.",
+      "example_ko": "그 보고서는 재무상 부정행위의 상당한 증거를 발견했다.",
+      "collocations": ["a substantial portion", "substantial evidence"],
+      "note": "substance(실체·알맹이)에서 — 알맹이가 있을 만큼 '상당한'. 비슷하게 생긴 substantive와 갈라진다: substantial은 '양이 많은', substantive는 '형식이 아닌 내용상의'.",
+      "family": [
+        { "word": "substance", "pos": "n.", "ko": "물질; 실체, 알맹이" },
+        { "word": "substantially", "pos": "ad.", "ko": "상당히, 크게" }
+      ],
+      "related": [
+        { "word": "substantive", "ko": "실질적인, 본질적인", "note": "substantial=양이 상당함, substantive=내용·본질에 관한 것(substantive talks는 '실질적 협상')" }
+      ]
+    },
+    {
+      "headword": "offset",
+      "pos": "v.",
+      "ko": "상쇄하다, 벌충하다",
+      "example_en": "Higher exports helped offset the fall in domestic demand.",
+      "example_ko": "수출 증가가 내수 감소를 상쇄하는 데 도움이 되었다.",
+      "collocations": ["offset the cost", "carbon offset"],
+      "note": "off+set — 반대편에 놓아 균형을 맞추는 것. 과거형·과거분사도 그대로 offset이라 형태가 변하지 않는다(offset-offset-offset). 기후 기사의 carbon offset(탄소 상쇄)으로도 빈출."
+    },
+    {
+      "headword": "undermine",
+      "pos": "v.",
+      "ko": "약화시키다, 훼손하다",
+      "example_en": "The scandal has undermined public confidence in the government.",
+      "example_ko": "그 스캔들은 정부에 대한 국민의 신뢰를 훼손했다.",
+      "collocations": ["undermine confidence", "undermine efforts"],
+      "note": "under+mine(굴을 파다) — 성벽 밑을 파서 무너뜨리듯, 눈에 띄지 않게 밑에서부터 서서히 무너뜨린다는 뉘앙스가 핵심(정면으로 공격하는 attack과 대비)."
+    },
+    {
+      "headword": "allocate",
+      "pos": "v.",
+      "ko": "배분하다, 할당하다",
+      "example_en": "The government allocated additional funds to disaster relief.",
+      "example_ko": "정부는 재해 구호에 추가 자금을 배정했다.",
+      "collocations": ["allocate resources", "allocate a budget"],
+      "note": "al-(~에)+loc(장소 — location과 같은 뿌리) — 각자의 자리에 몫을 놓아 주는 것. allocate A to B 형태로 쓴다.",
+      "family": [
+        { "word": "allocation", "pos": "n.", "ko": "배분, 할당(량)" }
+      ]
+    },
+    {
+      "headword": "scrutiny",
+      "pos": "n.",
+      "ko": "정밀 조사, 면밀한 검토",
+      "example_en": "The merger came under intense scrutiny from regulators.",
+      "example_ko": "그 합병은 규제 당국의 강도 높은 조사를 받게 되었다.",
+      "collocations": ["under scrutiny", "close scrutiny"],
+      "note": "라틴어 scrutari(쓰레기 더미까지 뒤지다)에서 — 샅샅이 들여다봄. come/be under scrutiny(조사 대상이 되다) 덩어리째 외우면 기사에서 바로 읽힌다.",
+      "family": [
+        { "word": "scrutinize", "pos": "v.", "ko": "면밀히 살피다, 정밀 조사하다" }
+      ]
+    },
+    {
+      "headword": "compelling",
+      "pos": "a.",
+      "ko": "설득력 있는; 아주 흥미로운",
+      "example_en": "Scientists presented compelling evidence of a long-term warming trend.",
+      "example_ko": "과학자들은 장기적 온난화 추세에 대한 설득력 있는 증거를 제시했다.",
+      "collocations": ["compelling evidence", "a compelling reason"],
+      "note": "compel(강제하다)의 형용사형 — 인정할 수밖에 없도록 '밀어붙이는' 힘이 있다 → 설득력 있는. com-(함께)+pel(밀다) 뿌리로 compulsory(의무적인)·propel(추진하다)과 한 집안.",
+      "family": [
+        { "word": "compel", "pos": "v.", "ko": "강요하다, ~하지 않을 수 없게 하다" },
+        { "word": "compulsory", "pos": "a.", "ko": "의무적인, 강제적인" }
+      ]
+    }
+  ]
+}
