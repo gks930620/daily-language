@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-07-26",
+  "passage_note": "사회·기술 — 추천 알고리즘 규제를 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "For years, social media companies insisted that their recommendation algorithms merely reflected what users wanted, a claim regulators are no longer willing to take at face value.",
+      "ko": "수년간 소셜미디어 기업들은 자사의 추천 알고리즘이 이용자가 원하는 것을 반영할 뿐이라고 주장해 왔는데, 규제 당국은 더 이상 그 주장을 액면 그대로 받아들이려 하지 않는다.",
+      "structure": "· insisted that + 절 : that절이 insist의 목적어. '요구·주장'의 insist는 뒤에 (should) 원형이 오지만, 여기처럼 사실을 '우겨서 말하다'일 때는 직설법(reflected)을 쓴다.\n· what users wanted : 선행사를 포함한 관계대명사 what이 이끄는 명사절이 reflected의 목적어.\n· a claim (which) regulators are no longer willing to take ~ : 앞 문장 전체를 받는 동격 명사구 + 목적격 관계대명사 생략(take의 목적어가 a claim).\n· no longer + 형용사 : '더 이상 ~않다'.",
+      "vocab_notes": [
+        { "word": "insist", "ko": "주장하다, 우기다" },
+        { "word": "recommendation algorithm", "ko": "추천 알고리즘" },
+        { "word": "merely", "ko": "단지, ~할 뿐" },
+        { "word": "reflect", "ko": "반영하다" },
+        { "word": "claim", "ko": "주장" },
+        { "word": "regulator", "ko": "규제 당국(자)" },
+        { "word": "be willing to", "ko": "기꺼이 ~하려 하다" },
+        { "word": "take ~ at face value", "ko": "~을 액면 그대로 받아들이다" }
+      ]
+    },
+    {
+      "en": "Internal documents leaked last spring revealed that engagement-driven ranking systems disproportionately amplified inflammatory content, precisely because outrage keeps people scrolling.",
+      "ko": "지난봄 유출된 내부 문서는 참여도 중심의 순위 결정 시스템이 선동적인 콘텐츠를 불균형하게 증폭시켰음을 드러냈는데, 이는 바로 공분이 사람들을 계속 스크롤하게 만들기 때문이다.",
+      "structure": "· Internal documents (which were) leaked last spring : 과거분사 leaked가 documents를 뒤에서 수식(주격 관계대명사 + be동사 생략). 문장의 본동사는 revealed임에 주의.\n· precisely because ~ : 이유 부사절을 precisely가 강조 — '바로 ~이기 때문에'.\n· keep + 목적어 + 현재분사 : '(목적어)가 계속 ~하게 하다'.",
+      "vocab_notes": [
+        { "word": "internal", "ko": "내부의" },
+        { "word": "leak", "ko": "유출되다, 유출하다" },
+        { "word": "reveal", "ko": "드러내다, 밝히다" },
+        { "word": "engagement-driven", "ko": "참여도(체류·반응) 중심의" },
+        { "word": "ranking system", "ko": "순위 결정 시스템" },
+        { "word": "disproportionately", "ko": "불균형하게, 지나치게 많이" },
+        { "word": "amplify", "ko": "증폭시키다" },
+        { "word": "inflammatory", "ko": "선동적인, 자극적인" },
+        { "word": "precisely", "ko": "바로, 정확히" },
+        { "word": "outrage", "ko": "공분, 격분" },
+        { "word": "scroll", "ko": "화면을 스크롤하다" }
+      ]
+    },
+    {
+      "en": "Lawmakers in Brussels have responded with sweeping legislation that compels platforms to audit their algorithms and disclose how content is prioritized, under threat of fines amounting to six percent of global revenue.",
+      "ko": "브뤼셀(EU)의 입법자들은 플랫폼이 자사 알고리즘을 감사하고 콘텐츠가 어떻게 우선순위를 부여받는지 공개하도록 강제하는 광범위한 법안으로 대응했으며, 이를 어기면 전 세계 매출의 6퍼센트에 이르는 벌금이 부과된다.",
+      "structure": "· that compels ~ : 주격 관계대명사, 선행사는 sweeping legislation.\n· compel + 목적어 + to부정사 : '~하도록 강제하다'. to audit ~ and (to) disclose ~ 로 to부정사 두 개가 and로 병렬(두 번째 to 생략).\n· how content is prioritized : 의문사가 이끄는 명사절(간접의문문)이 disclose의 목적어. 절 안은 수동태이고 어순은 '의문사 + 주어 + 동사'.\n· fines amounting to ~ : 현재분사구가 fines를 뒤에서 수식.",
+      "vocab_notes": [
+        { "word": "lawmaker", "ko": "입법자, 국회의원" },
+        { "word": "Brussels", "ko": "브뤼셀 — EU 본부 소재지, '유럽연합'을 가리키는 환유" },
+        { "word": "respond", "ko": "대응하다" },
+        { "word": "sweeping", "ko": "광범위한, 전면적인" },
+        { "word": "legislation", "ko": "법률, 입법" },
+        { "word": "compel", "ko": "강제하다" },
+        { "word": "audit", "ko": "감사하다, 점검하다" },
+        { "word": "disclose", "ko": "공개하다" },
+        { "word": "prioritize", "ko": "우선순위를 매기다" },
+        { "word": "under threat of", "ko": "~의 위협(제재) 아래" },
+        { "word": "fine", "ko": "벌금" },
+        { "word": "amount to", "ko": "(총계가) ~에 이르다" },
+        { "word": "revenue", "ko": "매출, 수익" }
+      ]
+    },
+    {
+      "en": "Industry groups warn that such mandates are unworkable and will inadvertently entrench the largest firms, since only they can absorb the compliance costs.",
+      "ko": "업계 단체들은 그러한 의무 규정이 실행 불가능하며 의도치 않게 최대 기업들의 지위를 오히려 굳혀 줄 것이라고 경고한다. 규제 준수 비용을 감당할 수 있는 것은 그들뿐이기 때문이다.",
+      "structure": "· warn that + 절 : that절이 warn의 목적어.\n· are unworkable and will ~ entrench : that절 안에서 'be동사 + 보어'와 '조동사 + 본동사' 두 술부가 and로 병렬.\n· since ~ : '~이기 때문에'(이유 접속사). 시간의 since와 구별.\n· only they can absorb ~ : only가 주어를 수식할 때는 도치가 일어나지 않는다(cf. Only then could they ~ 처럼 부사(구)를 강조할 때만 도치).",
+      "vocab_notes": [
+        { "word": "industry group", "ko": "업계 단체" },
+        { "word": "warn", "ko": "경고하다" },
+        { "word": "mandate", "ko": "의무 규정, 지시" },
+        { "word": "unworkable", "ko": "실행 불가능한" },
+        { "word": "inadvertently", "ko": "의도치 않게, 무심코" },
+        { "word": "entrench", "ko": "(지위를) 굳히다, 고착시키다" },
+        { "word": "firm", "ko": "회사, 기업" },
+        { "word": "absorb", "ko": "(비용·손실을) 감당하다, 흡수하다" },
+        { "word": "compliance cost", "ko": "규제 준수 비용" }
+      ]
+    },
+    {
+      "en": "Yet the alternative — leaving opaque systems that shape public discourse entirely to the discretion of the companies that profit from them — strikes a growing number of critics as untenable.",
+      "ko": "그러나 그 대안, 즉 공론을 형성하는 불투명한 시스템을 그것으로 이익을 얻는 기업들의 재량에 전적으로 맡기는 것은, 점점 더 많은 비판자들에게 지지받기 어려운 일로 보인다.",
+      "structure": "· 주어는 the alternative, 동사는 strikes. 대시(—) 사이의 동명사구(leaving ~)는 the alternative를 풀어 쓴 동격 삽입구이므로, 읽을 때 괄호처럼 건너뛰고 주어-동사를 먼저 잡는다.\n· leave A to B : 'A를 B에게 맡기다'. 여기서는 A가 길어(opaque systems that shape public discourse) 부사 entirely가 A 뒤에 놓였다.\n· strike A as B : 'A에게 B처럼 보이다/느껴지다'(A는 사람).\n· that shape ~ / that profit from ~ : 각각 systems, the companies를 받는 주격 관계대명사.",
+      "vocab_notes": [
+        { "word": "alternative", "ko": "대안" },
+        { "word": "opaque", "ko": "불투명한" },
+        { "word": "shape", "ko": "형성하다" },
+        { "word": "public discourse", "ko": "공론, 공적 담론" },
+        { "word": "entirely", "ko": "전적으로" },
+        { "word": "discretion", "ko": "재량" },
+        { "word": "profit from", "ko": "~로 이익을 얻다" },
+        { "word": "strike A as B", "ko": "A에게 B처럼 보이다" },
+        { "word": "a growing number of", "ko": "점점 더 많은" },
+        { "word": "critic", "ko": "비판자, 비평가" },
+        { "word": "untenable", "ko": "지지받기 어려운, 옹호할 수 없는" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "amplify",
+      "pos": "v.",
+      "ko": "증폭시키다, 확대하다",
+      "example_en": "Social platforms can amplify rumors far faster than newspapers ever could.",
+      "example_ko": "소셜 플랫폼은 신문이 하던 것보다 훨씬 빠르게 소문을 증폭시킬 수 있다.",
+      "collocations": ["amplify a message", "amplify the effect"],
+      "note": "ampl-(넓은) + -fy(만들다) → '넓게 만들다'. ample(충분한)과 같은 뿌리이며, 소리·영향·감정처럼 '세기'를 키울 때 쓴다.",
+      "family": [
+        { "word": "ample", "pos": "a.", "ko": "충분한, 넉넉한" },
+        { "word": "amplification", "pos": "n.", "ko": "증폭, 확대" }
+      ],
+      "related": [
+        { "word": "magnify", "ko": "확대하다", "note": "magnify는 크기를 크게 보이게 하는 쪽(돋보기), amplify는 소리·효과·영향력의 세기를 키우는 쪽" }
+      ]
+    },
+    {
+      "headword": "inflammatory",
+      "pos": "a.",
+      "ko": "선동적인; (의학) 염증의",
+      "example_en": "The candidate was criticized for making inflammatory remarks about immigrants.",
+      "example_ko": "그 후보는 이민자에 대해 선동적인 발언을 한 것으로 비판받았다.",
+      "collocations": ["inflammatory remarks", "inflammatory rhetoric"],
+      "note": "flame(불꽃) 계열 — '불을 붙이는'이 본뜻이라 감정을 부추기면 '선동적인', 몸에 불이 나면 '염증의'로 갈라진다.",
+      "family": [
+        { "word": "inflame", "pos": "v.", "ko": "(감정을) 부추기다; 염증을 일으키다" },
+        { "word": "inflammation", "pos": "n.", "ko": "염증" }
+      ],
+      "related": [
+        { "word": "inflammable", "ko": "가연성의", "note": "여기서 in-은 부정이 아니라 강조 — inflammable = flammable(불에 잘 타는). 혼동을 피하려고 요즘은 flammable을 쓴다" }
+      ]
+    },
+    {
+      "headword": "opaque",
+      "pos": "a.",
+      "ko": "불투명한; (설명이) 이해하기 어려운",
+      "example_en": "Investors complained that the firm's accounting practices were opaque.",
+      "example_ko": "투자자들은 그 회사의 회계 관행이 불투명하다고 불평했다.",
+      "collocations": ["opaque process", "remain opaque"],
+      "note": "반의어 transparent(투명한)와 짝으로 외운다. 빛이 안 통한다 → 속이 안 보인다 → 시사 문맥에서는 '깜깜이, 알 수 없는'의 뜻으로 더 자주 쓰인다.",
+      "family": [
+        { "word": "opacity", "pos": "n.", "ko": "불투명(성)" }
+      ]
+    },
+    {
+      "headword": "entrench",
+      "pos": "v.",
+      "ko": "(지위·관행을) 굳히다, 고착시키다",
+      "example_en": "The new rules entrenched the dominance of a few large platforms.",
+      "example_ko": "새 규정은 소수 대형 플랫폼의 지배력을 오히려 공고히 했다.",
+      "collocations": ["deeply entrenched", "become entrenched"],
+      "note": "en-(안으로) + trench(참호) → 참호를 파고 들어앉다. 그래서 be[become] deeply entrenched(뿌리 깊이 박히다) 형태의 수동·형용사 용법이 압도적으로 많다.",
+      "family": [
+        { "word": "trench", "pos": "n.", "ko": "참호, 도랑" },
+        { "word": "entrenchment", "pos": "n.", "ko": "고착, 정착" }
+      ]
+    },
+    {
+      "headword": "disclose",
+      "pos": "v.",
+      "ko": "공개하다, 밝히다",
+      "example_en": "Companies must disclose any conflicts of interest to shareholders.",
+      "example_ko": "기업은 어떠한 이해 충돌도 주주에게 공개해야 한다.",
+      "collocations": ["disclose information", "fail to disclose"],
+      "note": "dis-(반대로) + close(닫다) → 닫힌 것을 열다. 반의어 conceal(숨기다)과 짝으로 외우면 계약·공시 문맥이 한번에 잡힌다.",
+      "family": [
+        { "word": "disclosure", "pos": "n.", "ko": "공개, 공시" }
+      ],
+      "related": [
+        { "word": "enclose", "ko": "동봉하다, 둘러싸다", "note": "en-(안에) + close → 안에 넣어 닫다. 토익 이메일에서 'Enclosed please find ~'로 자주 나오니 disclose와 섞지 말 것" }
+      ]
+    },
+    {
+      "headword": "compel",
+      "pos": "v.",
+      "ko": "강제하다, ~하게 만들다",
+      "example_en": "The court order compelled the agency to release the documents.",
+      "example_ko": "법원 명령은 그 기관이 문서를 공개하도록 강제했다.",
+      "collocations": ["compel someone to do", "feel compelled to"],
+      "note": "com-(강하게) + pel(밀다) → 밀어붙이다. 같은 pel/puls 뿌리로 expel(밖으로 밀다=추방하다), repel(되밀다=격퇴하다), impulse(안으로 미는 힘=충동)를 묶어서 외운다.",
+      "family": [
+        { "word": "compulsory", "pos": "a.", "ko": "의무적인, 강제적인" },
+        { "word": "compelling", "pos": "a.", "ko": "설득력 있는, 강력한 — '강제적인'이 아님에 주의" }
+      ]
+    },
+    {
+      "headword": "discretion",
+      "pos": "n.",
+      "ko": "재량; 신중함",
+      "example_en": "Refunds are granted at the manager's discretion.",
+      "example_ko": "환불은 관리자의 재량에 따라 승인된다.",
+      "collocations": ["at one's discretion", "use discretion"],
+      "note": "형용사 discreet(신중한)의 명사형인데, 실무에서는 '알아서 판단할 권한 = 재량'의 뜻으로 훨씬 자주 쓰인다.",
+      "family": [
+        { "word": "discreet", "pos": "a.", "ko": "신중한, 입이 무거운" },
+        { "word": "discretionary", "pos": "a.", "ko": "재량에 따른" }
+      ],
+      "related": [
+        { "word": "discrete", "ko": "별개의, 분리된", "note": "discreet(신중한)과 철자 한 끗 차이지만 뜻이 전혀 다르다 — discrete units(개별 단위)" }
+      ]
+    },
+    {
+      "headword": "scrutiny",
+      "pos": "n.",
+      "ko": "정밀 조사, 철저한 검토",
+      "example_en": "The merger came under intense scrutiny from antitrust regulators.",
+      "example_ko": "그 합병은 반독점 규제 당국의 강도 높은 조사를 받게 되었다.",
+      "collocations": ["come under scrutiny", "close scrutiny"],
+      "note": "원뜻은 '넝마 더미를 뒤지다' — 샅샅이 헤집어 본다는 그림이다. 시사문에서는 come[fall] under scrutiny(감시·조사의 대상이 되다) 덩어리로 외우면 바로 쓴다.",
+      "family": [
+        { "word": "scrutinize", "pos": "v.", "ko": "면밀히 조사하다" }
+      ]
+    },
+    {
+      "headword": "untenable",
+      "pos": "a.",
+      "ko": "지지받기 어려운, 유지할 수 없는",
+      "example_en": "Once the data were published, the company's position became untenable.",
+      "example_ko": "그 데이터가 공개되자 회사의 입장은 더 이상 유지할 수 없게 되었다.",
+      "collocations": ["an untenable position", "politically untenable"],
+      "note": "ten-(잡다, hold) + -able → '(주장을) 붙들 수 없는'. tenant(잡고 있는 사람=세입자), retain(계속 붙잡다), tenure(붙잡고 있는 기간)가 모두 같은 뿌리다.",
+      "family": [
+        { "word": "tenable", "pos": "a.", "ko": "지지할 수 있는, 타당한" }
+      ]
+    },
+    {
+      "headword": "sweeping",
+      "pos": "a.",
+      "ko": "광범위한, 전면적인",
+      "example_en": "The administration announced sweeping reforms to the tax code.",
+      "example_ko": "행정부는 세법에 대한 전면적인 개혁을 발표했다.",
+      "collocations": ["sweeping reforms", "sweeping changes"],
+      "note": "sweep(비로 쓸다)에서 온 말 — 빗자루가 바닥을 한 번에 훑는 그림. 단, sweeping generalization(성급한 일반화)처럼 '뭉뚱그린'이라는 부정적 뉘앙스로도 쓰인다.",
+      "family": [
+        { "word": "sweep", "pos": "v.", "ko": "쓸다; 휩쓸다" }
+      ]
+    },
+    {
+      "headword": "inadvertently",
+      "pos": "ad.",
+      "ko": "의도치 않게, 무심코",
+      "example_en": "The clerk inadvertently sent the invoice to the wrong address.",
+      "example_ko": "직원이 무심코 청구서를 잘못된 주소로 보냈다.",
+      "collocations": ["inadvertently disclose", "inadvertently omit"],
+      "note": "in-(부정) + advert(주의를 돌리다) → 주의를 두지 않은 채. advertise(주의를 끌다=광고하다)와 뿌리가 같다고 보면 연결이 쉽다.",
+      "family": [
+        { "word": "inadvertent", "pos": "a.", "ko": "의도치 않은, 부주의한" }
+      ],
+      "related": [
+        { "word": "deliberately", "ko": "고의로", "note": "정반대 짝. 사고·실수 문맥에서 inadvertently ↔ deliberately로 대비되어 자주 등장한다" }
+      ]
+    },
+    {
+      "headword": "plausible",
+      "pos": "a.",
+      "ko": "그럴듯한, 타당해 보이는",
+      "example_en": "He offered a plausible explanation for the missing shipment.",
+      "example_ko": "그는 사라진 화물에 대해 그럴듯한 설명을 내놓았다.",
+      "collocations": ["a plausible explanation", "sound plausible"],
+      "note": "plaus-(박수치다, applaud와 같은 뿌리) → 박수받을 만하다 → 말이 되는. 어디까지나 '들어 보니 그럴듯하다'일 뿐 사실 확인은 안 됐다는 뉘앙스가 핵심이다.",
+      "related": [
+        { "word": "feasible", "ko": "실행 가능한", "note": "plausible은 '말이 되는지'(설명·주장), feasible은 '해낼 수 있는지'(계획·일정)에 붙는다" }
+      ]
+    },
+    {
+      "headword": "discrepancy",
+      "pos": "n.",
+      "ko": "불일치, 차이",
+      "example_en": "We found a discrepancy between the invoice and the actual shipment.",
+      "example_ko": "우리는 청구서와 실제 배송분 사이의 불일치를 발견했다.",
+      "collocations": ["a discrepancy between A and B", "resolve a discrepancy"],
+      "note": "dis-(떨어져) + crep(삐걱대는 소리) → 소리가 어긋나다. 토익 회계·재고·명세서 문맥의 단골이라 between A and B와 함께 통째로 외워 둔다.",
+      "related": [
+        { "word": "inconsistency", "ko": "일관성 없음", "note": "discrepancy는 두 자료·수치가 서로 안 맞는 것, inconsistency는 같은 대상이 앞뒤로 오락가락하는 것" }
+      ]
+    },
+    {
+      "headword": "lucrative",
+      "pos": "a.",
+      "ko": "수익성이 좋은, 돈이 되는",
+      "example_en": "Streaming turned out to be a lucrative business for the studio.",
+      "example_ko": "스트리밍은 그 제작사에 수익성 좋은 사업으로 판명되었다.",
+      "collocations": ["a lucrative contract", "a lucrative market"],
+      "note": "lucre(금전적 이득)에서 왔다. profitable과 뜻은 겹치지만 lucrative는 '짭짤하다'에 가까운 규모감이 있어 contract·deal·market과 잘 붙는다.",
+      "related": [
+        { "word": "profitable", "ko": "수익이 나는", "note": "profitable은 흑자냐 아니냐의 중립적 판정, lucrative는 '많이 번다'는 강조" }
+      ]
+    },
+    {
+      "headword": "tentative",
+      "pos": "a.",
+      "ko": "잠정적인; 머뭇거리는",
+      "example_en": "The two sides reached a tentative agreement late on Friday.",
+      "example_ko": "양측은 금요일 늦게 잠정 합의에 이르렀다.",
+      "collocations": ["a tentative agreement", "a tentative schedule"],
+      "note": "tent-(시도하다, attempt와 같은 뿌리) → '아직 시도 단계인' → 확정 전의. 텐트(tent)와는 무관하니 '시도'로 기억한다.",
+      "family": [
+        { "word": "tentatively", "pos": "ad.", "ko": "잠정적으로" }
+      ]
+    },
+    {
+      "headword": "prone",
+      "pos": "a.",
+      "ko": "~하기 쉬운, ~하는 경향이 있는",
+      "example_en": "Older machines are more prone to breakdowns during heat waves.",
+      "example_ko": "오래된 기계는 폭염 기간에 고장이 나기 더 쉽다.",
+      "collocations": ["be prone to errors", "accident-prone"],
+      "note": "원뜻은 '엎드린' — 앞으로 기울어 있다 → 그쪽으로 쏠린다. be prone to 뒤에 오는 것은 거의 항상 나쁜 일(고장·실수·부상)이다.",
+      "related": [
+        { "word": "liable", "ko": "~하기 쉬운; 법적 책임이 있는", "note": "be liable to도 '~하기 쉽다'지만, liable 단독으로는 '책임이 있는'(be liable for damages)이 더 흔하다" }
+      ]
+    },
+    {
+      "headword": "meticulous",
+      "pos": "a.",
+      "ko": "꼼꼼한, 세심한",
+      "example_en": "She kept meticulous records of every transaction.",
+      "example_ko": "그는 모든 거래에 대해 꼼꼼한 기록을 남겼다.",
+      "collocations": ["meticulous attention to detail", "meticulous records"],
+      "note": "어원은 '두려움(metus)' — 실수할까 봐 겁낼 만큼 챙긴다는 그림. 토익 채용·이력서 지문에서 meticulous attention to detail 덩어리로 거의 매번 나온다.",
+      "related": [
+        { "word": "thorough", "ko": "철저한", "note": "thorough는 빠뜨린 데 없이 '전부' 다뤘다는 범위, meticulous는 작은 것까지 챙긴다는 정밀도" }
+      ]
+    },
+    {
+      "headword": "consensus",
+      "pos": "n.",
+      "ko": "합의, 의견 일치",
+      "example_en": "The committee failed to reach a consensus on the budget cuts.",
+      "example_ko": "위원회는 예산 삭감에 대해 합의에 이르지 못했다.",
+      "collocations": ["reach a consensus", "broad consensus"],
+      "note": "con-(함께) + sens(느끼다) → 함께 느낌. sense·sentiment·consent와 한 뿌리다. 철자는 concensus가 아니라 consensus(census와 무관).",
+      "related": [
+        { "word": "consent", "ko": "동의, 승낙", "note": "consensus는 집단 전체가 도달한 '합의', consent는 개인이 내주는 '승낙'(informed consent)" }
+      ]
+    }
+  ]
+}

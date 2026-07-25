@@ -919,14 +919,18 @@
     },
     "mitigation": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -953,14 +957,18 @@
     },
     "adaptation": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -992,14 +1000,18 @@
     },
     "emission": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1019,14 +1031,18 @@
     },
     "vulnerable": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1046,14 +1062,18 @@
     },
     "pledge": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1073,14 +1093,18 @@
     },
     "materialize": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1100,14 +1124,18 @@
     },
     "disbursement": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1134,14 +1162,18 @@
     },
     "rhetoric": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1161,14 +1193,18 @@
     },
     "defer": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1193,14 +1229,18 @@
     },
     "brace": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1213,14 +1253,18 @@
     },
     "reluctant": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1245,14 +1289,18 @@
     },
     "grant": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1272,14 +1320,18 @@
     },
     "substantial": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1311,14 +1363,18 @@
     },
     "offset": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1331,14 +1387,18 @@
     },
     "undermine": {
       "added_on": "2026-07-25",
-      "box": 1,
-      "next_due": "2026-07-26",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-29",
+      "last_seen": "2026-07-26",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-25",
           "event": "added"
+        },
+        {
+          "date": "2026-07-26",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1347,6 +1407,471 @@
         "example_en": "The scandal has undermined public confidence in the government.",
         "example_ko": "그 스캔들은 정부에 대한 국민의 신뢰를 훼손했다.",
         "note": "under+mine(굴을 파다) — 성벽 밑을 파서 무너뜨리듯, 눈에 띄지 않게 밑에서부터 서서히 무너뜨린다는 뉘앙스가 핵심(정면으로 공격하는 attack과 대비)."
+      }
+    },
+    "amplify": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "증폭시키다, 확대하다",
+        "example_en": "Social platforms can amplify rumors far faster than newspapers ever could.",
+        "example_ko": "소셜 플랫폼은 신문이 하던 것보다 훨씬 빠르게 소문을 증폭시킬 수 있다.",
+        "note": "ampl-(넓은) + -fy(만들다) → '넓게 만들다'. ample(충분한)과 같은 뿌리이며, 소리·영향·감정처럼 '세기'를 키울 때 쓴다.",
+        "family": [
+          {
+            "word": "ample",
+            "pos": "a.",
+            "ko": "충분한, 넉넉한"
+          },
+          {
+            "word": "amplification",
+            "pos": "n.",
+            "ko": "증폭, 확대"
+          }
+        ],
+        "related": [
+          {
+            "word": "magnify",
+            "ko": "확대하다",
+            "note": "magnify는 크기를 크게 보이게 하는 쪽(돋보기), amplify는 소리·효과·영향력의 세기를 키우는 쪽"
+          }
+        ]
+      }
+    },
+    "inflammatory": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "선동적인; (의학) 염증의",
+        "example_en": "The candidate was criticized for making inflammatory remarks about immigrants.",
+        "example_ko": "그 후보는 이민자에 대해 선동적인 발언을 한 것으로 비판받았다.",
+        "note": "flame(불꽃) 계열 — '불을 붙이는'이 본뜻이라 감정을 부추기면 '선동적인', 몸에 불이 나면 '염증의'로 갈라진다.",
+        "family": [
+          {
+            "word": "inflame",
+            "pos": "v.",
+            "ko": "(감정을) 부추기다; 염증을 일으키다"
+          },
+          {
+            "word": "inflammation",
+            "pos": "n.",
+            "ko": "염증"
+          }
+        ],
+        "related": [
+          {
+            "word": "inflammable",
+            "ko": "가연성의",
+            "note": "여기서 in-은 부정이 아니라 강조 — inflammable = flammable(불에 잘 타는). 혼동을 피하려고 요즘은 flammable을 쓴다"
+          }
+        ]
+      }
+    },
+    "opaque": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "불투명한; (설명이) 이해하기 어려운",
+        "example_en": "Investors complained that the firm's accounting practices were opaque.",
+        "example_ko": "투자자들은 그 회사의 회계 관행이 불투명하다고 불평했다.",
+        "note": "반의어 transparent(투명한)와 짝으로 외운다. 빛이 안 통한다 → 속이 안 보인다 → 시사 문맥에서는 '깜깜이, 알 수 없는'의 뜻으로 더 자주 쓰인다.",
+        "family": [
+          {
+            "word": "opacity",
+            "pos": "n.",
+            "ko": "불투명(성)"
+          }
+        ]
+      }
+    },
+    "entrench": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "(지위·관행을) 굳히다, 고착시키다",
+        "example_en": "The new rules entrenched the dominance of a few large platforms.",
+        "example_ko": "새 규정은 소수 대형 플랫폼의 지배력을 오히려 공고히 했다.",
+        "note": "en-(안으로) + trench(참호) → 참호를 파고 들어앉다. 그래서 be[become] deeply entrenched(뿌리 깊이 박히다) 형태의 수동·형용사 용법이 압도적으로 많다.",
+        "family": [
+          {
+            "word": "trench",
+            "pos": "n.",
+            "ko": "참호, 도랑"
+          },
+          {
+            "word": "entrenchment",
+            "pos": "n.",
+            "ko": "고착, 정착"
+          }
+        ]
+      }
+    },
+    "disclose": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "공개하다, 밝히다",
+        "example_en": "Companies must disclose any conflicts of interest to shareholders.",
+        "example_ko": "기업은 어떠한 이해 충돌도 주주에게 공개해야 한다.",
+        "note": "dis-(반대로) + close(닫다) → 닫힌 것을 열다. 반의어 conceal(숨기다)과 짝으로 외우면 계약·공시 문맥이 한번에 잡힌다.",
+        "family": [
+          {
+            "word": "disclosure",
+            "pos": "n.",
+            "ko": "공개, 공시"
+          }
+        ],
+        "related": [
+          {
+            "word": "enclose",
+            "ko": "동봉하다, 둘러싸다",
+            "note": "en-(안에) + close → 안에 넣어 닫다. 토익 이메일에서 'Enclosed please find ~'로 자주 나오니 disclose와 섞지 말 것"
+          }
+        ]
+      }
+    },
+    "compel": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "강제하다, ~하게 만들다",
+        "example_en": "The court order compelled the agency to release the documents.",
+        "example_ko": "법원 명령은 그 기관이 문서를 공개하도록 강제했다.",
+        "note": "com-(강하게) + pel(밀다) → 밀어붙이다. 같은 pel/puls 뿌리로 expel(밖으로 밀다=추방하다), repel(되밀다=격퇴하다), impulse(안으로 미는 힘=충동)를 묶어서 외운다.",
+        "family": [
+          {
+            "word": "compulsory",
+            "pos": "a.",
+            "ko": "의무적인, 강제적인"
+          },
+          {
+            "word": "compelling",
+            "pos": "a.",
+            "ko": "설득력 있는, 강력한 — '강제적인'이 아님에 주의"
+          }
+        ]
+      }
+    },
+    "discretion": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "재량; 신중함",
+        "example_en": "Refunds are granted at the manager's discretion.",
+        "example_ko": "환불은 관리자의 재량에 따라 승인된다.",
+        "note": "형용사 discreet(신중한)의 명사형인데, 실무에서는 '알아서 판단할 권한 = 재량'의 뜻으로 훨씬 자주 쓰인다.",
+        "family": [
+          {
+            "word": "discreet",
+            "pos": "a.",
+            "ko": "신중한, 입이 무거운"
+          },
+          {
+            "word": "discretionary",
+            "pos": "a.",
+            "ko": "재량에 따른"
+          }
+        ],
+        "related": [
+          {
+            "word": "discrete",
+            "ko": "별개의, 분리된",
+            "note": "discreet(신중한)과 철자 한 끗 차이지만 뜻이 전혀 다르다 — discrete units(개별 단위)"
+          }
+        ]
+      }
+    },
+    "scrutiny": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "정밀 조사, 철저한 검토",
+        "example_en": "The merger came under intense scrutiny from antitrust regulators.",
+        "example_ko": "그 합병은 반독점 규제 당국의 강도 높은 조사를 받게 되었다.",
+        "note": "원뜻은 '넝마 더미를 뒤지다' — 샅샅이 헤집어 본다는 그림이다. 시사문에서는 come[fall] under scrutiny(감시·조사의 대상이 되다) 덩어리로 외우면 바로 쓴다.",
+        "family": [
+          {
+            "word": "scrutinize",
+            "pos": "v.",
+            "ko": "면밀히 조사하다"
+          }
+        ]
+      }
+    },
+    "untenable": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "지지받기 어려운, 유지할 수 없는",
+        "example_en": "Once the data were published, the company's position became untenable.",
+        "example_ko": "그 데이터가 공개되자 회사의 입장은 더 이상 유지할 수 없게 되었다.",
+        "note": "ten-(잡다, hold) + -able → '(주장을) 붙들 수 없는'. tenant(잡고 있는 사람=세입자), retain(계속 붙잡다), tenure(붙잡고 있는 기간)가 모두 같은 뿌리다.",
+        "family": [
+          {
+            "word": "tenable",
+            "pos": "a.",
+            "ko": "지지할 수 있는, 타당한"
+          }
+        ]
+      }
+    },
+    "sweeping": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "광범위한, 전면적인",
+        "example_en": "The administration announced sweeping reforms to the tax code.",
+        "example_ko": "행정부는 세법에 대한 전면적인 개혁을 발표했다.",
+        "note": "sweep(비로 쓸다)에서 온 말 — 빗자루가 바닥을 한 번에 훑는 그림. 단, sweeping generalization(성급한 일반화)처럼 '뭉뚱그린'이라는 부정적 뉘앙스로도 쓰인다.",
+        "family": [
+          {
+            "word": "sweep",
+            "pos": "v.",
+            "ko": "쓸다; 휩쓸다"
+          }
+        ]
+      }
+    },
+    "inadvertently": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "ad.",
+        "ko": "의도치 않게, 무심코",
+        "example_en": "The clerk inadvertently sent the invoice to the wrong address.",
+        "example_ko": "직원이 무심코 청구서를 잘못된 주소로 보냈다.",
+        "note": "in-(부정) + advert(주의를 돌리다) → 주의를 두지 않은 채. advertise(주의를 끌다=광고하다)와 뿌리가 같다고 보면 연결이 쉽다.",
+        "family": [
+          {
+            "word": "inadvertent",
+            "pos": "a.",
+            "ko": "의도치 않은, 부주의한"
+          }
+        ],
+        "related": [
+          {
+            "word": "deliberately",
+            "ko": "고의로",
+            "note": "정반대 짝. 사고·실수 문맥에서 inadvertently ↔ deliberately로 대비되어 자주 등장한다"
+          }
+        ]
+      }
+    },
+    "plausible": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "그럴듯한, 타당해 보이는",
+        "example_en": "He offered a plausible explanation for the missing shipment.",
+        "example_ko": "그는 사라진 화물에 대해 그럴듯한 설명을 내놓았다.",
+        "note": "plaus-(박수치다, applaud와 같은 뿌리) → 박수받을 만하다 → 말이 되는. 어디까지나 '들어 보니 그럴듯하다'일 뿐 사실 확인은 안 됐다는 뉘앙스가 핵심이다.",
+        "related": [
+          {
+            "word": "feasible",
+            "ko": "실행 가능한",
+            "note": "plausible은 '말이 되는지'(설명·주장), feasible은 '해낼 수 있는지'(계획·일정)에 붙는다"
+          }
+        ]
+      }
+    },
+    "discrepancy": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "불일치, 차이",
+        "example_en": "We found a discrepancy between the invoice and the actual shipment.",
+        "example_ko": "우리는 청구서와 실제 배송분 사이의 불일치를 발견했다.",
+        "note": "dis-(떨어져) + crep(삐걱대는 소리) → 소리가 어긋나다. 토익 회계·재고·명세서 문맥의 단골이라 between A and B와 함께 통째로 외워 둔다.",
+        "related": [
+          {
+            "word": "inconsistency",
+            "ko": "일관성 없음",
+            "note": "discrepancy는 두 자료·수치가 서로 안 맞는 것, inconsistency는 같은 대상이 앞뒤로 오락가락하는 것"
+          }
+        ]
+      }
+    },
+    "lucrative": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "수익성이 좋은, 돈이 되는",
+        "example_en": "Streaming turned out to be a lucrative business for the studio.",
+        "example_ko": "스트리밍은 그 제작사에 수익성 좋은 사업으로 판명되었다.",
+        "note": "lucre(금전적 이득)에서 왔다. profitable과 뜻은 겹치지만 lucrative는 '짭짤하다'에 가까운 규모감이 있어 contract·deal·market과 잘 붙는다.",
+        "related": [
+          {
+            "word": "profitable",
+            "ko": "수익이 나는",
+            "note": "profitable은 흑자냐 아니냐의 중립적 판정, lucrative는 '많이 번다'는 강조"
+          }
+        ]
+      }
+    },
+    "tentative": {
+      "added_on": "2026-07-26",
+      "box": 1,
+      "next_due": "2026-07-27",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-26",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "잠정적인; 머뭇거리는",
+        "example_en": "The two sides reached a tentative agreement late on Friday.",
+        "example_ko": "양측은 금요일 늦게 잠정 합의에 이르렀다.",
+        "note": "tent-(시도하다, attempt와 같은 뿌리) → '아직 시도 단계인' → 확정 전의. 텐트(tent)와는 무관하니 '시도'로 기억한다.",
+        "family": [
+          {
+            "word": "tentatively",
+            "pos": "ad.",
+            "ko": "잠정적으로"
+          }
+        ]
       }
     }
   }
