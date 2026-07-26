@@ -11,9 +11,9 @@
   "words": {
     "resistance": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -22,6 +22,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -47,9 +51,9 @@
     },
     "pathogen": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -58,6 +62,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -83,9 +91,9 @@
     },
     "antibiotic": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -94,6 +102,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -114,9 +126,9 @@
     },
     "potent": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -125,6 +137,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -155,9 +171,9 @@
     },
     "deter": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -166,6 +182,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -185,9 +205,9 @@
     },
     "oversight": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -196,6 +216,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -215,9 +239,9 @@
     },
     "yield": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -226,6 +250,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -245,9 +273,9 @@
     },
     "compound": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -256,6 +284,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -275,9 +307,9 @@
     },
     "precipitous": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -286,6 +318,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -311,9 +347,9 @@
     },
     "retreat": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -322,6 +358,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -341,9 +381,9 @@
     },
     "persist": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -352,6 +392,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -377,9 +421,9 @@
     },
     "accelerate": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -388,6 +432,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -408,9 +456,9 @@
     },
     "dismiss": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -419,6 +467,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -439,9 +491,9 @@
     },
     "incentive": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -450,6 +502,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -469,9 +525,9 @@
     },
     "coordinate": {
       "added_on": "2026-07-23",
-      "box": 2,
-      "next_due": "2026-07-27",
-      "last_seen": "2026-07-24",
+      "box": 3,
+      "next_due": "2026-08-03",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
@@ -480,6 +536,10 @@
         },
         {
           "date": "2026-07-24",
+          "event": "shown"
+        },
+        {
+          "date": "2026-07-27",
           "event": "shown"
         }
       ],
@@ -1411,14 +1471,18 @@
     },
     "amplify": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1450,14 +1514,18 @@
     },
     "inflammatory": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1489,14 +1557,18 @@
     },
     "opaque": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1516,14 +1588,18 @@
     },
     "entrench": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1548,14 +1624,18 @@
     },
     "disclose": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1582,14 +1662,18 @@
     },
     "compel": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1614,14 +1698,18 @@
     },
     "discretion": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1653,14 +1741,18 @@
     },
     "scrutiny": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1680,14 +1772,18 @@
     },
     "untenable": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1707,14 +1803,18 @@
     },
     "sweeping": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1734,14 +1834,18 @@
     },
     "inadvertently": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1768,14 +1872,18 @@
     },
     "plausible": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1795,14 +1903,18 @@
     },
     "discrepancy": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1822,14 +1934,18 @@
     },
     "lucrative": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1849,14 +1965,18 @@
     },
     "tentative": {
       "added_on": "2026-07-26",
-      "box": 1,
-      "next_due": "2026-07-27",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-07-30",
+      "last_seen": "2026-07-27",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-26",
           "event": "added"
+        },
+        {
+          "date": "2026-07-27",
+          "event": "shown"
         }
       ],
       "card": {
@@ -1870,6 +1990,422 @@
             "word": "tentatively",
             "pos": "ad.",
             "ko": "잠정적으로"
+          }
+        ]
+      }
+    },
+    "ordinance": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "조례, 법령",
+        "example_en": "The city council passed an ordinance limiting building heights near the waterfront.",
+        "example_ko": "시의회는 수변 지역의 건물 높이를 제한하는 조례를 통과시켰다.",
+        "note": "ordin-(순서·질서) 뿌리 — order(질서)·ordinary(순서대로 있는=평범한)와 한 집안이고, '질서를 세우는 규정'이 곧 조례다. 국가 법률(law)이 아니라 지방 정부가 만든 규정을 가리키는 점이 핵심.",
+        "related": [
+          {
+            "word": "ordnance",
+            "ko": "군수품, 대포",
+            "note": "i 한 글자 차이인데 뜻은 무기·탄약 — 조례와 아무 관계가 없다"
+          }
+        ]
+      }
+    },
+    "proponent": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "지지자, 제안자",
+        "example_en": "Proponents of the merger insist that it will create jobs rather than eliminate them.",
+        "example_ko": "그 합병의 지지자들은 그것이 일자리를 없애기보다 창출할 것이라고 주장한다.",
+        "note": "pro-(앞으로) + pon(놓다) = '안을 앞에 내놓는 사람' → 지지자. 접두사만 바꾸면 정반대가 되는 opponent(op- = 맞서서 놓다)와 세트로 외운다. 같은 pon/pos 계열: propose, postpone, component.",
+        "related": [
+          {
+            "word": "opponent",
+            "ko": "반대자, 상대",
+            "note": "pro-(앞으로) ↔ op-(맞서서) — 어근은 같고 접두사가 뜻을 뒤집는다"
+          },
+          {
+            "word": "advocate",
+            "ko": "옹호자; 옹호하다",
+            "note": "proponent는 특정 안(案)의 지지자, advocate는 명사·동사 모두 쓰이며 대의나 집단을 대변하는 쪽"
+          }
+        ]
+      }
+    },
+    "incumbent": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "현직의, 기존의 (명사로는 '현직자')",
+        "example_en": "The incumbent mayor is expected to face a well-funded challenger this fall.",
+        "example_ko": "현직 시장은 올가을 자금이 넉넉한 도전자와 맞붙을 것으로 예상된다.",
+        "note": "cumb-(눕다·기대다)에서 나와 '그 자리에 앉아 있는'이라는 뜻 — 선거 기사에서는 challenger(도전자)의 짝으로, 산업 기사에서는 신규 진입자에 맞선 '기존 업체'로 쓰인다. 「it is incumbent on A to V」= A가 ~할 의무가 있다 라는 별개 용법도 함께 알아 둘 것.",
+        "related": [
+          {
+            "word": "challenger",
+            "ko": "도전자",
+            "note": "incumbent와 대비되는 짝 — 선거 기사에서 거의 붙어 나온다"
+          }
+        ]
+      }
+    },
+    "windfall": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "횡재, 뜻밖의 큰 이익",
+        "example_en": "The tax change delivered an unexpected windfall to exporters.",
+        "example_ko": "그 세제 변경은 수출업체들에 예상치 못한 횡재를 안겼다.",
+        "note": "바람(wind)에 떨어진(fall) 열매 — 힘들이지 않고 얻은 이익이라는 그림이 그대로 뜻이다. 경제 기사의 windfall tax는 '횡재세'(초과이익에 매기는 세금)."
+      }
+    },
+    "tenant": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "세입자, 임차인",
+        "example_en": "Long-term tenants were given six months' notice before the renovation began.",
+        "example_ko": "장기 세입자들은 리모델링이 시작되기 전 6개월의 통지를 받았다.",
+        "note": "ten-(잡다·유지하다) 뿌리 — 남의 집을 '쥐고 있는' 쪽이 세입자다(집주인은 landlord). 같은 뿌리 retain(계속 쥐다=보유하다)·tenacious(끈질긴).",
+        "related": [
+          {
+            "word": "tenet",
+            "ko": "교리, 주요 신념",
+            "note": "tenant와 철자가 한 글자 차이지만 '세입자'와 전혀 무관 — 시험에서 자주 뒤섞인다"
+          },
+          {
+            "word": "landlord",
+            "ko": "집주인, 임대인",
+            "note": "tenant의 상대어 — 임대차 기사에서 항상 짝으로 등장"
+          }
+        ]
+      }
+    },
+    "displacement": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "(밀려나는) 이주·퇴거; 대체",
+        "example_en": "Rapid redevelopment led to the displacement of hundreds of low-income families.",
+        "example_ko": "급속한 재개발은 수백 저소득 가구가 살던 곳에서 밀려나는 결과로 이어졌다.",
+        "note": "dis-(떨어져) + place(자리) = '자리에서 떼어냄'. 도시·재개발 기사에서는 '원주민이 밀려남', 노동·기술 기사에서는 '일자리 대체'로 뜻이 갈리니 문맥으로 판단한다.",
+        "family": [
+          {
+            "word": "displace",
+            "pos": "v.",
+            "ko": "쫓아내다, 밀어내다; 대체하다"
+          },
+          {
+            "word": "displaced",
+            "pos": "a.",
+            "ko": "쫓겨난 (displaced persons = 이재민·난민)"
+          }
+        ]
+      }
+    },
+    "contentious": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "논쟁적인, 논란이 많은",
+        "example_en": "Land use remains the most contentious item on the council's agenda.",
+        "example_ko": "토지 이용은 시의회 안건 중 가장 논쟁적인 사안으로 남아 있다.",
+        "note": "'다투다·주장하다'의 contend에서 갈라진 형용사. 철자가 겹치는 content(만족한 / 내용)와는 뜻이 전혀 다르고, 명사 contention은 '논쟁'과 '주장' 두 갈래로 쓰인다(a point of contention = 쟁점).",
+        "family": [
+          {
+            "word": "contend",
+            "pos": "v.",
+            "ko": "다투다; 주장하다"
+          },
+          {
+            "word": "contention",
+            "pos": "n.",
+            "ko": "논쟁; 주장"
+          }
+        ]
+      }
+    },
+    "abolish": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "폐지하다",
+        "example_en": "The government plans to abolish the tax on small transactions next year.",
+        "example_ko": "정부는 내년에 소액 거래에 붙는 세금을 폐지할 계획이다.",
+        "note": "제도·법·관행을 아예 없앨 때만 쓴다(물건이나 사람에는 붙지 않는다). 명사형이 -ishment가 아니라 abolition으로 형태가 크게 바뀌는 점이 함정.",
+        "family": [
+          {
+            "word": "abolition",
+            "pos": "n.",
+            "ko": "폐지"
+          }
+        ],
+        "related": [
+          {
+            "word": "repeal",
+            "ko": "(법·조항을) 철회하다, 무효화하다",
+            "note": "repeal은 개별 법령을 되돌리는 것, abolish는 제도 자체를 없애는 것"
+          }
+        ]
+      }
+    },
+    "panacea": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "만병통치약, 만능 해법",
+        "example_en": "Deregulation is no panacea for the country's housing woes.",
+        "example_ko": "규제 완화가 그 나라 주택 문제의 만능 해법은 아니다.",
+        "note": "pan-(모든) + acea(치유) = 모든 것을 낫게 하는 약. 실제 기사에서는 거의 항상 「A is no panacea」처럼 부정문으로 나와 '그것만으로는 안 된다'는 뜻을 만든다. pan- 계열: pandemic(모든 사람에게 퍼진)·panorama(다 보이는)."
+      }
+    },
+    "sprawl": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "(도시의) 무계획적 확산 (동사로는 '뻗어 나가다')",
+        "example_en": "Decades of suburban sprawl have left the city dependent on cars.",
+        "example_ko": "수십 년에 걸친 교외의 무계획적 확산은 그 도시를 자동차에 의존하게 만들었다.",
+        "note": "팔다리를 아무렇게나 뻗고 앉은 모습이 원뜻 — 도시가 그렇게 계획 없이 퍼져 나간 것이 urban sprawl(도시 스프롤)이다. 중립적 '확장'(expansion)과 달리 부정적 뉘앙스가 붙어 있다는 점이 핵심."
+      }
+    },
+    "chronic": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "만성적인, 고질적인",
+        "example_en": "The region suffers from a chronic shortage of skilled workers.",
+        "example_ko": "그 지역은 숙련 노동자의 만성적인 부족에 시달린다.",
+        "note": "chrono-(시간) 계열 — 시간을 길게 끄는 것이 만성이다. 반대말 acute(급성의·짧고 격렬한)와 짝으로 외우면 의료·경제 기사에서 바로 읽힌다. 같은 뿌리: chronology(연대기), synchronize(시간을 맞추다).",
+        "related": [
+          {
+            "word": "acute",
+            "ko": "급성의; 극심한",
+            "note": "chronic(오래 끄는) ↔ acute(짧고 격렬한) — 기사에서 대비되어 쓰인다"
+          }
+        ]
+      }
+    },
+    "cumulative": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "누적되는, 축적된",
+        "example_en": "The cumulative cost of the delays exceeded the original budget.",
+        "example_ko": "그 지연들의 누적 비용은 최초 예산을 넘어섰다.",
+        "note": "cumul-(쌓다·더미)에서 나온 말로 accumulate(쌓아 올리다)의 형용사 짝. 한 번의 크기가 아니라 '쌓인 총량'을 말할 때 쓴다는 점이 시험 포인트.",
+        "family": [
+          {
+            "word": "accumulate",
+            "pos": "v.",
+            "ko": "쌓다, 축적하다"
+          },
+          {
+            "word": "accumulation",
+            "pos": "n.",
+            "ko": "축적, 누적"
+          }
+        ]
+      }
+    },
+    "streamline": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "간소화하다, 효율화하다",
+        "example_en": "The agency streamlined its approval process to cut waiting times in half.",
+        "example_ko": "그 기관은 대기 시간을 절반으로 줄이기 위해 승인 절차를 간소화했다.",
+        "note": "물이나 공기가 매끄럽게 흐르는 '유선형(streamline)'에서 온 비유 — 절차·조직의 군더더기를 깎아 매끄럽게 만든다는 뜻. 토익에서 '절차 개선·인력 감축' 문맥의 완곡어로 자주 나온다."
+      }
+    },
+    "subsidize": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "보조금을 지급하다, 보조하다",
+        "example_en": "The city subsidizes rents for households below the median income.",
+        "example_ko": "그 시는 중위 소득 이하 가구의 임대료를 보조한다.",
+        "note": "sub-(밑에) + sid(앉다) = 밑에서 받쳐 준다 → 돈으로 떠받치다. 동사는 -ize, 명사는 subsidy(보조금)로 형태가 달라지니 짝으로 외운다.",
+        "family": [
+          {
+            "word": "subsidy",
+            "pos": "n.",
+            "ko": "보조금"
+          }
+        ],
+        "related": [
+          {
+            "word": "subsidiary",
+            "ko": "자회사; 부수적인",
+            "note": "sub-sid 뿌리는 같지만 '보조금'이 아니라 '밑에 딸린 회사·부차적인 것'"
+          }
+        ]
+      }
+    },
+    "deteriorate": {
+      "added_on": "2026-07-27",
+      "box": 1,
+      "next_due": "2026-07-28",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-07-27",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "악화되다, 나빠지다",
+        "example_en": "Public infrastructure deteriorated steadily during the funding freeze.",
+        "example_ko": "예산 동결 기간에 공공 인프라는 꾸준히 악화되었다.",
+        "note": "deterior-(더 나쁜)에서 나온 말 — 상태가 스스로 나빠지는 자동사라 목적어를 받지 않는다. '나쁘게 만들다'라는 타동사 aggravate·worsen과 이 점에서 갈린다.",
+        "related": [
+          {
+            "word": "aggravate",
+            "ko": "악화시키다; 짜증나게 하다",
+            "note": "deteriorate는 '나빠지다'(자동사), aggravate는 '나쁘게 만들다'(타동사)"
           }
         ]
       }

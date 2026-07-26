@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-07-27",
+  "passage_note": "사회·도시 — 주택 부족과 용도지역제(조닝) 개혁을 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "For decades, restrictive zoning ordinances have quietly dictated what may be built in the nation's most prosperous cities, and the cumulative effect has been a chronic shortage of housing.",
+      "ko": "수십 년 동안 제한적인 용도지역 조례가 이 나라에서 가장 번영한 도시들에 무엇을 지을 수 있는지를 조용히 좌우해 왔고, 그 누적된 결과는 만성적인 주택 부족이었다.",
+      "structure": "· what may be built : 관계대명사 what이 이끄는 명사절이 dictated의 목적어(what = the thing which). 절 안은 수동태 조동사 may be p.p.\n· have dictated / has been : For decades와 호응하는 현재완료 — 과거부터 지금까지 누적된 상태를 나타낸다.\n· restrictive zoning ordinances : 형용사+명사+명사가 겹친 명사구(zoning이 ordinances를 수식).",
+      "vocab_notes": [
+        { "word": "restrictive", "ko": "제한적인, 규제가 심한" },
+        { "word": "zoning", "ko": "용도지역 지정, 지구제" },
+        { "word": "ordinance", "ko": "조례, 법령" },
+        { "word": "dictate", "ko": "좌우하다, 지시하다" },
+        { "word": "prosperous", "ko": "번영하는, 부유한" },
+        { "word": "cumulative", "ko": "누적되는" },
+        { "word": "chronic", "ko": "만성적인, 고질적인" },
+        { "word": "shortage", "ko": "부족, 결핍" }
+      ]
+    },
+    {
+      "en": "Proponents of reform argue that single-family mandates, minimum lot sizes and lengthy permitting reviews function less as safeguards than as barriers erected on behalf of incumbent homeowners.",
+      "ko": "개혁 지지자들은 단독주택 의무 규정, 최소 필지 면적, 장기간의 허가 심사가 안전장치라기보다는 기존 주택 소유자들을 위해 세워진 장벽으로 기능한다고 주장한다.",
+      "structure": "· argue that ~ : that절이 argue의 목적어. 그 절의 주어는 mandates·lot sizes·reviews 세 명사구의 병렬이고 동사는 function.\n· less as A than as B : 'A라기보다는 오히려 B로서' — as구 두 개를 비교급 less ~ than으로 견주는 구조.\n· barriers erected on behalf of ~ : 과거분사구가 barriers를 뒤에서 수식(= barriers which are erected).",
+      "vocab_notes": [
+        { "word": "proponent", "ko": "지지자, 제안자" },
+        { "word": "reform", "ko": "개혁" },
+        { "word": "single-family", "ko": "단독주택의(한 가구용의)" },
+        { "word": "mandate", "ko": "의무 규정, 명령" },
+        { "word": "lot", "ko": "필지, 구획된 땅" },
+        { "word": "lengthy", "ko": "장기간의, 오래 끄는" },
+        { "word": "permitting", "ko": "허가(를 내주는 절차)" },
+        { "word": "function as", "ko": "~로 기능하다" },
+        { "word": "safeguard", "ko": "안전장치, 보호 수단" },
+        { "word": "erect", "ko": "세우다, 건립하다" },
+        { "word": "on behalf of", "ko": "~을 위하여, ~을 대신하여" },
+        { "word": "incumbent", "ko": "기존의, 현직의" }
+      ]
+    },
+    {
+      "en": "Their opponents counter that abolishing such rules would hand developers a windfall while doing little for the tenants most at risk of displacement.",
+      "ko": "반대자들은 그런 규정을 폐지하면 개발업자들에게 횡재를 안겨 주는 반면, 밀려날 위험이 가장 큰 세입자들에게는 별 도움이 되지 않을 것이라고 반박한다.",
+      "structure": "· abolishing such rules would hand ~ : 동명사구가 주어이고 would가 붙어, if절 없이도 '폐지한다면 ~일 것이다'라는 가정의 뜻을 낸다.\n· hand developers a windfall : hand + 간접목적어 + 직접목적어의 4형식.\n· while doing little for ~ : 접속사 while 뒤에 「주어+be」가 생략된 분사구문(= while it would do little for ~), 대조를 나타낸다.\n· the tenants (who are) most at risk of ~ : tenants 뒤에 「주격 관계대명사+be동사」가 생략된 형태.",
+      "vocab_notes": [
+        { "word": "opponent", "ko": "반대자, 상대" },
+        { "word": "counter", "ko": "반박하다, 맞서다" },
+        { "word": "abolish", "ko": "폐지하다" },
+        { "word": "hand", "ko": "건네주다, 안겨 주다" },
+        { "word": "developer", "ko": "개발업자, 시행사" },
+        { "word": "windfall", "ko": "횡재, 뜻밖의 큰 이익" },
+        { "word": "do little for", "ko": "~에 별 도움이 되지 않다" },
+        { "word": "tenant", "ko": "세입자, 임차인" },
+        { "word": "at risk of", "ko": "~의 위험에 놓인" },
+        { "word": "displacement", "ko": "(밀려나는) 이주, 퇴거" }
+      ]
+    },
+    {
+      "en": "Yet the evidence from cities that have loosened density limits suggests that rents rise more slowly where construction is allowed to keep pace with demand, even if no single reform is a panacea.",
+      "ko": "그러나 밀도 제한을 완화한 도시들에서 나온 증거는, 건설이 수요에 발맞추도록 허용된 곳에서는 임대료가 더 느리게 오른다는 점을 시사한다 — 어떤 한 가지 개혁도 만병통치약은 아니라 해도.",
+      "structure": "· that이 두 번 다른 역할로 쓰였다: cities that have loosened ~(주격 관계대명사) / suggests that ~(명사절 접속사, suggests의 목적어).\n· 주어는 the evidence, 동사는 suggests — 사이에 긴 수식어(from cities that ~ limits)가 끼어 수일치를 놓치기 쉽다.\n· where construction is allowed ~ : 여기서 where는 '~한 곳에서는'이라는 뜻의 부사절 접속사(= in places where).\n· even if ~ : 양보의 부사절. no single reform으로 '어떤 한 개혁도 아니다'라는 전체 부정을 만든다.",
+      "vocab_notes": [
+        { "word": "evidence", "ko": "증거" },
+        { "word": "loosen", "ko": "완화하다, 느슨하게 하다" },
+        { "word": "density", "ko": "밀도" },
+        { "word": "rent", "ko": "임대료, 집세" },
+        { "word": "construction", "ko": "건설, 공사" },
+        { "word": "keep pace with", "ko": "~에 발맞추다, 뒤처지지 않다" },
+        { "word": "demand", "ko": "수요" },
+        { "word": "panacea", "ko": "만병통치약, 만능 해법" }
+      ]
+    },
+    {
+      "en": "What remains contentious is not whether more homes are needed but who should bear the disruption of building them — a question no zoning code, however carefully drafted, can settle on its own.",
+      "ko": "논쟁적인 것은 더 많은 주택이 필요한지가 아니라, 그것을 짓는 데 따르는 혼란을 누가 감당해야 하는지다 — 아무리 정교하게 작성된 용도지역 법규라도 스스로 해결할 수 없는 문제다.",
+      "structure": "· What remains contentious : 관계대명사 what이 이끄는 명사절 주어(remain은 '~한 상태로 남다'는 뜻의 2형식 동사, contentious가 보어).\n· not A but B : 'A가 아니라 B' — A는 whether절, B는 who절로 둘 다 명사절이 보어 자리에 병렬로 놓였다.\n· however carefully drafted : 「however + 부사 + (주어+be 생략)」 양보 구문(= no matter how carefully it is drafted)이 삽입되었다.\n· a question (which) no zoning code ~ can settle : 목적격 관계대명사가 생략된 관계절이 a question을 수식하고, 주어 no ~ 로 전체를 부정한다.",
+      "vocab_notes": [
+        { "word": "contentious", "ko": "논쟁적인, 논란이 많은" },
+        { "word": "bear", "ko": "감당하다, 부담하다" },
+        { "word": "disruption", "ko": "혼란, 지장" },
+        { "word": "code", "ko": "법규, 규정집" },
+        { "word": "draft", "ko": "(문서를) 작성하다, 초안을 잡다" },
+        { "word": "settle", "ko": "해결하다, 결정짓다" },
+        { "word": "on its own", "ko": "그 자체만으로, 스스로" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "ordinance",
+      "pos": "n.",
+      "ko": "조례, 법령",
+      "example_en": "The city council passed an ordinance limiting building heights near the waterfront.",
+      "example_ko": "시의회는 수변 지역의 건물 높이를 제한하는 조례를 통과시켰다.",
+      "collocations": ["pass an ordinance", "a local ordinance", "zoning ordinance"],
+      "note": "ordin-(순서·질서) 뿌리 — order(질서)·ordinary(순서대로 있는=평범한)와 한 집안이고, '질서를 세우는 규정'이 곧 조례다. 국가 법률(law)이 아니라 지방 정부가 만든 규정을 가리키는 점이 핵심.",
+      "related": [
+        { "word": "ordnance", "ko": "군수품, 대포", "note": "i 한 글자 차이인데 뜻은 무기·탄약 — 조례와 아무 관계가 없다" }
+      ]
+    },
+    {
+      "headword": "proponent",
+      "pos": "n.",
+      "ko": "지지자, 제안자",
+      "example_en": "Proponents of the merger insist that it will create jobs rather than eliminate them.",
+      "example_ko": "그 합병의 지지자들은 그것이 일자리를 없애기보다 창출할 것이라고 주장한다.",
+      "collocations": ["a leading proponent", "proponents of reform"],
+      "note": "pro-(앞으로) + pon(놓다) = '안을 앞에 내놓는 사람' → 지지자. 접두사만 바꾸면 정반대가 되는 opponent(op- = 맞서서 놓다)와 세트로 외운다. 같은 pon/pos 계열: propose, postpone, component.",
+      "related": [
+        { "word": "opponent", "ko": "반대자, 상대", "note": "pro-(앞으로) ↔ op-(맞서서) — 어근은 같고 접두사가 뜻을 뒤집는다" },
+        { "word": "advocate", "ko": "옹호자; 옹호하다", "note": "proponent는 특정 안(案)의 지지자, advocate는 명사·동사 모두 쓰이며 대의나 집단을 대변하는 쪽" }
+      ]
+    },
+    {
+      "headword": "incumbent",
+      "pos": "a.",
+      "ko": "현직의, 기존의 (명사로는 '현직자')",
+      "example_en": "The incumbent mayor is expected to face a well-funded challenger this fall.",
+      "example_ko": "현직 시장은 올가을 자금이 넉넉한 도전자와 맞붙을 것으로 예상된다.",
+      "collocations": ["the incumbent president", "incumbent firms"],
+      "note": "cumb-(눕다·기대다)에서 나와 '그 자리에 앉아 있는'이라는 뜻 — 선거 기사에서는 challenger(도전자)의 짝으로, 산업 기사에서는 신규 진입자에 맞선 '기존 업체'로 쓰인다. 「it is incumbent on A to V」= A가 ~할 의무가 있다 라는 별개 용법도 함께 알아 둘 것.",
+      "related": [
+        { "word": "challenger", "ko": "도전자", "note": "incumbent와 대비되는 짝 — 선거 기사에서 거의 붙어 나온다" }
+      ]
+    },
+    {
+      "headword": "windfall",
+      "pos": "n.",
+      "ko": "횡재, 뜻밖의 큰 이익",
+      "example_en": "The tax change delivered an unexpected windfall to exporters.",
+      "example_ko": "그 세제 변경은 수출업체들에 예상치 못한 횡재를 안겼다.",
+      "collocations": ["a windfall profit", "windfall gains", "a tax windfall"],
+      "note": "바람(wind)에 떨어진(fall) 열매 — 힘들이지 않고 얻은 이익이라는 그림이 그대로 뜻이다. 경제 기사의 windfall tax는 '횡재세'(초과이익에 매기는 세금)."
+    },
+    {
+      "headword": "tenant",
+      "pos": "n.",
+      "ko": "세입자, 임차인",
+      "example_en": "Long-term tenants were given six months' notice before the renovation began.",
+      "example_ko": "장기 세입자들은 리모델링이 시작되기 전 6개월의 통지를 받았다.",
+      "collocations": ["a long-term tenant", "evict a tenant", "tenant rights"],
+      "note": "ten-(잡다·유지하다) 뿌리 — 남의 집을 '쥐고 있는' 쪽이 세입자다(집주인은 landlord). 같은 뿌리 retain(계속 쥐다=보유하다)·tenacious(끈질긴).",
+      "related": [
+        { "word": "tenet", "ko": "교리, 주요 신념", "note": "tenant와 철자가 한 글자 차이지만 '세입자'와 전혀 무관 — 시험에서 자주 뒤섞인다" },
+        { "word": "landlord", "ko": "집주인, 임대인", "note": "tenant의 상대어 — 임대차 기사에서 항상 짝으로 등장" }
+      ]
+    },
+    {
+      "headword": "displacement",
+      "pos": "n.",
+      "ko": "(밀려나는) 이주·퇴거; 대체",
+      "example_en": "Rapid redevelopment led to the displacement of hundreds of low-income families.",
+      "example_ko": "급속한 재개발은 수백 저소득 가구가 살던 곳에서 밀려나는 결과로 이어졌다.",
+      "collocations": ["the displacement of residents", "job displacement"],
+      "note": "dis-(떨어져) + place(자리) = '자리에서 떼어냄'. 도시·재개발 기사에서는 '원주민이 밀려남', 노동·기술 기사에서는 '일자리 대체'로 뜻이 갈리니 문맥으로 판단한다.",
+      "family": [
+        { "word": "displace", "pos": "v.", "ko": "쫓아내다, 밀어내다; 대체하다" },
+        { "word": "displaced", "pos": "a.", "ko": "쫓겨난 (displaced persons = 이재민·난민)" }
+      ]
+    },
+    {
+      "headword": "contentious",
+      "pos": "a.",
+      "ko": "논쟁적인, 논란이 많은",
+      "example_en": "Land use remains the most contentious item on the council's agenda.",
+      "example_ko": "토지 이용은 시의회 안건 중 가장 논쟁적인 사안으로 남아 있다.",
+      "collocations": ["a contentious issue", "a contentious debate"],
+      "note": "'다투다·주장하다'의 contend에서 갈라진 형용사. 철자가 겹치는 content(만족한 / 내용)와는 뜻이 전혀 다르고, 명사 contention은 '논쟁'과 '주장' 두 갈래로 쓰인다(a point of contention = 쟁점).",
+      "family": [
+        { "word": "contend", "pos": "v.", "ko": "다투다; 주장하다" },
+        { "word": "contention", "pos": "n.", "ko": "논쟁; 주장" }
+      ]
+    },
+    {
+      "headword": "abolish",
+      "pos": "v.",
+      "ko": "폐지하다",
+      "example_en": "The government plans to abolish the tax on small transactions next year.",
+      "example_ko": "정부는 내년에 소액 거래에 붙는 세금을 폐지할 계획이다.",
+      "collocations": ["abolish a law", "abolish the death penalty"],
+      "note": "제도·법·관행을 아예 없앨 때만 쓴다(물건이나 사람에는 붙지 않는다). 명사형이 -ishment가 아니라 abolition으로 형태가 크게 바뀌는 점이 함정.",
+      "family": [
+        { "word": "abolition", "pos": "n.", "ko": "폐지" }
+      ],
+      "related": [
+        { "word": "repeal", "ko": "(법·조항을) 철회하다, 무효화하다", "note": "repeal은 개별 법령을 되돌리는 것, abolish는 제도 자체를 없애는 것" }
+      ]
+    },
+    {
+      "headword": "panacea",
+      "pos": "n.",
+      "ko": "만병통치약, 만능 해법",
+      "example_en": "Deregulation is no panacea for the country's housing woes.",
+      "example_ko": "규제 완화가 그 나라 주택 문제의 만능 해법은 아니다.",
+      "collocations": ["no panacea", "a panacea for"],
+      "note": "pan-(모든) + acea(치유) = 모든 것을 낫게 하는 약. 실제 기사에서는 거의 항상 「A is no panacea」처럼 부정문으로 나와 '그것만으로는 안 된다'는 뜻을 만든다. pan- 계열: pandemic(모든 사람에게 퍼진)·panorama(다 보이는)."
+    },
+    {
+      "headword": "sprawl",
+      "pos": "n.",
+      "ko": "(도시의) 무계획적 확산 (동사로는 '뻗어 나가다')",
+      "example_en": "Decades of suburban sprawl have left the city dependent on cars.",
+      "example_ko": "수십 년에 걸친 교외의 무계획적 확산은 그 도시를 자동차에 의존하게 만들었다.",
+      "collocations": ["urban sprawl", "suburban sprawl"],
+      "note": "팔다리를 아무렇게나 뻗고 앉은 모습이 원뜻 — 도시가 그렇게 계획 없이 퍼져 나간 것이 urban sprawl(도시 스프롤)이다. 중립적 '확장'(expansion)과 달리 부정적 뉘앙스가 붙어 있다는 점이 핵심."
+    },
+    {
+      "headword": "chronic",
+      "pos": "a.",
+      "ko": "만성적인, 고질적인",
+      "example_en": "The region suffers from a chronic shortage of skilled workers.",
+      "example_ko": "그 지역은 숙련 노동자의 만성적인 부족에 시달린다.",
+      "collocations": ["a chronic shortage", "chronic illness", "chronic unemployment"],
+      "note": "chrono-(시간) 계열 — 시간을 길게 끄는 것이 만성이다. 반대말 acute(급성의·짧고 격렬한)와 짝으로 외우면 의료·경제 기사에서 바로 읽힌다. 같은 뿌리: chronology(연대기), synchronize(시간을 맞추다).",
+      "related": [
+        { "word": "acute", "ko": "급성의; 극심한", "note": "chronic(오래 끄는) ↔ acute(짧고 격렬한) — 기사에서 대비되어 쓰인다" }
+      ]
+    },
+    {
+      "headword": "cumulative",
+      "pos": "a.",
+      "ko": "누적되는, 축적된",
+      "example_en": "The cumulative cost of the delays exceeded the original budget.",
+      "example_ko": "그 지연들의 누적 비용은 최초 예산을 넘어섰다.",
+      "collocations": ["the cumulative effect", "cumulative impact"],
+      "note": "cumul-(쌓다·더미)에서 나온 말로 accumulate(쌓아 올리다)의 형용사 짝. 한 번의 크기가 아니라 '쌓인 총량'을 말할 때 쓴다는 점이 시험 포인트.",
+      "family": [
+        { "word": "accumulate", "pos": "v.", "ko": "쌓다, 축적하다" },
+        { "word": "accumulation", "pos": "n.", "ko": "축적, 누적" }
+      ]
+    },
+    {
+      "headword": "streamline",
+      "pos": "v.",
+      "ko": "간소화하다, 효율화하다",
+      "example_en": "The agency streamlined its approval process to cut waiting times in half.",
+      "example_ko": "그 기관은 대기 시간을 절반으로 줄이기 위해 승인 절차를 간소화했다.",
+      "collocations": ["streamline a process", "streamline operations"],
+      "note": "물이나 공기가 매끄럽게 흐르는 '유선형(streamline)'에서 온 비유 — 절차·조직의 군더더기를 깎아 매끄럽게 만든다는 뜻. 토익에서 '절차 개선·인력 감축' 문맥의 완곡어로 자주 나온다."
+    },
+    {
+      "headword": "subsidize",
+      "pos": "v.",
+      "ko": "보조금을 지급하다, 보조하다",
+      "example_en": "The city subsidizes rents for households below the median income.",
+      "example_ko": "그 시는 중위 소득 이하 가구의 임대료를 보조한다.",
+      "collocations": ["subsidize housing", "heavily subsidized"],
+      "note": "sub-(밑에) + sid(앉다) = 밑에서 받쳐 준다 → 돈으로 떠받치다. 동사는 -ize, 명사는 subsidy(보조금)로 형태가 달라지니 짝으로 외운다.",
+      "family": [
+        { "word": "subsidy", "pos": "n.", "ko": "보조금" }
+      ],
+      "related": [
+        { "word": "subsidiary", "ko": "자회사; 부수적인", "note": "sub-sid 뿌리는 같지만 '보조금'이 아니라 '밑에 딸린 회사·부차적인 것'" }
+      ]
+    },
+    {
+      "headword": "deteriorate",
+      "pos": "v.",
+      "ko": "악화되다, 나빠지다",
+      "example_en": "Public infrastructure deteriorated steadily during the funding freeze.",
+      "example_ko": "예산 동결 기간에 공공 인프라는 꾸준히 악화되었다.",
+      "collocations": ["conditions deteriorate", "deteriorate rapidly"],
+      "note": "deterior-(더 나쁜)에서 나온 말 — 상태가 스스로 나빠지는 자동사라 목적어를 받지 않는다. '나쁘게 만들다'라는 타동사 aggravate·worsen과 이 점에서 갈린다.",
+      "related": [
+        { "word": "aggravate", "ko": "악화시키다; 짜증나게 하다", "note": "deteriorate는 '나빠지다'(자동사), aggravate는 '나쁘게 만들다'(타동사)" }
+      ]
+    },
+    {
+      "headword": "prevalent",
+      "pos": "a.",
+      "ko": "널리 퍼진, 만연한",
+      "example_en": "Short-term rentals are especially prevalent in tourist districts.",
+      "example_ko": "단기 임대는 관광 지구에서 특히 널리 퍼져 있다.",
+      "collocations": ["widely prevalent", "become prevalent"],
+      "note": "pre-(앞서) + val(힘) = 힘에서 앞선다 → 널리 우세하다. 동사 prevail(우세하다·널리 퍼지다)의 형용사이며, val 뿌리는 valid·value·evaluate로도 이어진다.",
+      "family": [
+        { "word": "prevail", "pos": "v.", "ko": "우세하다; 널리 퍼지다" },
+        { "word": "prevalence", "pos": "n.", "ko": "만연, (질병의) 유병률" }
+      ]
+    },
+    {
+      "headword": "ambiguous",
+      "pos": "a.",
+      "ko": "애매한, 두 가지로 해석되는",
+      "example_en": "The wording of the clause is ambiguous enough to invite lawsuits.",
+      "example_ko": "그 조항의 문구는 소송을 부를 만큼 애매하다.",
+      "collocations": ["ambiguous wording", "deliberately ambiguous"],
+      "note": "ambi-(둘·양쪽) — 양쪽으로 읽히기 때문에 애매한 것이다. 정보가 부족해 뭉뚱그려진 vague(막연한)와 구별해야 한다. ambi- 계열: ambidextrous(양손잡이의), ambivalent(양가적인).",
+      "related": [
+        { "word": "vague", "ko": "막연한, 흐릿한", "note": "ambiguous = 해석이 둘 이상, vague = 내용 자체가 뭉뚱그려져 불분명" },
+        { "word": "ambivalent", "ko": "양가적인, 마음이 엇갈리는", "note": "같은 ambi-지만 이쪽은 '감정'이 두 갈래인 상태" }
+      ]
+    },
+    {
+      "headword": "circumvent",
+      "pos": "v.",
+      "ko": "(교묘히) 회피하다, 우회하다",
+      "example_en": "Some developers circumvented the height limit by building on raised ground.",
+      "example_ko": "일부 개발업자들은 돋운 지반 위에 건물을 지어 높이 제한을 우회했다.",
+      "collocations": ["circumvent a rule", "circumvent restrictions", "circumvent sanctions"],
+      "note": "circum-(둘레) + vent(가다) = 돌아서 가다 → 규정을 정면으로 위반하지 않으면서 빠져나간다는 뉘앙스. 같은 뿌리: circumstance(둘레에 서 있는 것=상황), circumference(원주).",
+      "related": [
+        { "word": "evade", "ko": "(회)피하다, 모면하다", "note": "evade는 의무·질문을 아예 피하는 것, circumvent는 규정을 우회해 사실상 무력화하는 것" }
+      ]
+    }
+  ]
+}
