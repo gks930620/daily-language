@@ -40,6 +40,14 @@
       "content_sha256": "de1ceacc3c698c3f08cf2073b69888f97f3ff000a9e7473bf52d88d3beba0702",
       "notes": [],
       "built_at": "2026-07-26T19:32:24.627Z"
+    },
+    "2026-07-28": {
+      "prepared_at": "2026-07-27T19:35:56.133Z",
+      "settled": true,
+      "settled_at": "2026-07-27T19:41:16.091Z",
+      "content_sha256": "4850b6bd034df74894466c4842ab9dce1e179b09bceeb5fa6955bac45c7e3be2",
+      "notes": [],
+      "built_at": "2026-07-27T19:41:16.155Z"
     }
   }
 }
