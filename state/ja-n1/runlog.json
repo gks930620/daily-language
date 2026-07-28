@@ -47,7 +47,11 @@
       "settled_at": "2026-07-27T19:47:15.915Z",
       "content_sha256": "1cdf82021d75a9963c6a50c1738362fd8dad6ddb0d76f9a115fcb84c6271b207",
       "notes": [],
-      "built_at": "2026-07-27T19:53:14.368Z"
+      "built_at": "2026-07-28T19:32:32.537Z"
+    },
+    "2026-07-29": {
+      "prepared_at": "2026-07-28T19:26:49.133Z",
+      "settled": false
     }
   }
 }
