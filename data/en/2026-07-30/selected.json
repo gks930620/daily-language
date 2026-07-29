@@ -1,0 +1,300 @@
+{
+  "date": "2026-07-30",
+  "words": [
+    {
+      "headword": "debris",
+      "pos": "n.",
+      "ko": "잔해, 파편",
+      "example_en": "Crews spent the morning clearing debris from the runway.",
+      "example_ko": "작업반은 오전 내내 활주로에서 잔해를 치웠다.",
+      "collocations": [
+        "clear debris",
+        "space debris"
+      ],
+      "note": "프랑스어에서 그대로 들어온 단어라 끝의 -s를 발음하지 않는다([데브리]). 이미 집합적 의미의 불가산명사여서 a debris·debrises 같은 형태는 쓰지 않는다.",
+      "related": [
+        {
+          "word": "rubble",
+          "ko": "(무너진 건물의) 잔해",
+          "note": "rubble은 무너진 건물·벽돌 더미에, debris는 사고·폭발로 흩어진 파편 전반에 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "defunct",
+      "pos": "a.",
+      "ko": "(회사·제도가) 없어진; (기계·위성이) 작동을 멈춘",
+      "example_en": "The rights were transferred to another firm after the original publisher became defunct.",
+      "example_ko": "원래 출판사가 문을 닫은 뒤 그 권리는 다른 회사로 넘어갔다.",
+      "collocations": [
+        "a defunct company",
+        "long defunct"
+      ],
+      "note": "de-(다 끝내고)+fungi(수행하다) — 제 기능을 다 마쳐 버린 상태. function(기능)과 뿌리가 같다. 사람에게는 쓰지 않고 회사·제도·기계에 쓴다.",
+      "related": [
+        {
+          "word": "obsolete",
+          "ko": "구식이 된",
+          "note": "obsolete는 아직 작동해도 시대에 뒤떨어진 것, defunct는 아예 기능을 멈추거나 없어진 것"
+        }
+      ]
+    },
+    {
+      "headword": "negligible",
+      "pos": "a.",
+      "ko": "무시해도 될 정도의, 미미한",
+      "example_en": "The tax change had a negligible effect on household spending.",
+      "example_ko": "그 세제 변화가 가계 지출에 미친 영향은 무시할 만한 수준이었다.",
+      "collocations": [
+        "a negligible effect",
+        "negligible amount"
+      ],
+      "note": "neglect(무시하다)+-ible — '무시해 버려도 되는' 정도라는 뜻. 크기·양에 대한 판단이다.",
+      "related": [
+        {
+          "word": "negligent",
+          "ko": "태만한, 과실이 있는",
+          "note": "철자가 거의 같지만 negligent는 '(사람이) 주의를 게을리한', negligible은 '(양이) 무시해도 될'"
+        }
+      ]
+    },
+    {
+      "headword": "congestion",
+      "pos": "n.",
+      "ko": "혼잡, 정체",
+      "example_en": "The city introduced a toll to reduce traffic congestion downtown.",
+      "example_ko": "그 도시는 도심 교통 혼잡을 줄이기 위해 통행료를 도입했다.",
+      "collocations": [
+        "traffic congestion",
+        "ease congestion"
+      ],
+      "note": "con-(함께)+gerere(나르다) — 한곳으로 죄다 날라 와 막힌 상태. 그래서 도로의 '정체'와 코막힘(nasal congestion)에 같은 단어를 쓴다.",
+      "family": [
+        {
+          "word": "congested",
+          "pos": "a.",
+          "ko": "혼잡한; (코가) 막힌"
+        }
+      ]
+    },
+    {
+      "headword": "cascade",
+      "pos": "n.",
+      "ko": "연쇄적으로 번짐; 작은 폭포",
+      "example_en": "One bank's collapse triggered a cascade of defaults across the region.",
+      "example_ko": "한 은행의 파산이 그 지역 전역의 연쇄 채무불이행을 촉발했다.",
+      "collocations": [
+        "a cascade of",
+        "cascading failures"
+      ],
+      "note": "이탈리아어 cascare(떨어지다)에서 온 말로 원뜻은 '층층이 떨어지는 폭포'. 여기서 위에서 아래로 줄줄이 번지는 '연쇄 반응'이라는 비유가 나왔다."
+    },
+    {
+      "headword": "liability",
+      "pos": "n.",
+      "ko": "법적 책임; (복수형) 부채",
+      "example_en": "The contract limits the supplier's liability for indirect damages.",
+      "example_ko": "그 계약은 간접 손해에 대한 공급업체의 책임을 제한한다.",
+      "collocations": [
+        "limit liability",
+        "assume liability"
+      ],
+      "note": "형용사 liable(책임이 있는)의 명사형. 회계에서는 복수 liabilities가 '부채'로 assets(자산)의 반대짝이고, 사람에게 쓰면 '짐이 되는 존재'라는 뜻이 된다.",
+      "family": [
+        {
+          "word": "liable",
+          "pos": "a.",
+          "ko": "법적 책임이 있는; ~하기 쉬운"
+        }
+      ]
+    },
+    {
+      "headword": "jurisdiction",
+      "pos": "n.",
+      "ko": "관할권, 사법권",
+      "example_en": "The dispute fell outside the court's jurisdiction.",
+      "example_ko": "그 분쟁은 그 법원의 관할권 밖이었다.",
+      "collocations": [
+        "have jurisdiction over",
+        "outside one's jurisdiction"
+      ],
+      "note": "juris(법)+dictio(말하기) — '법을 말할 권한'. justice·jury와 한 뿌리다. 전치사까지 붙여 have jurisdiction over ~ 로 통째 외우면 쓰기 쉽다."
+    },
+    {
+      "headword": "stewardship",
+      "pos": "n.",
+      "ko": "(자원·재산을 맡아 하는) 관리 책임",
+      "example_en": "The trust was praised for its careful stewardship of the wetlands.",
+      "example_ko": "그 재단은 습지를 세심하게 관리해 온 점으로 찬사를 받았다.",
+      "collocations": [
+        "environmental stewardship",
+        "stewardship of resources"
+      ],
+      "note": "steward는 원래 '남의 살림을 맡아 관리하는 사람'이라, stewardship은 소유가 아니라 '맡아서 잘 건사할 책임'을 뜻한다. 환경·공공재 논의의 단골 단어.",
+      "family": [
+        {
+          "word": "steward",
+          "pos": "n.",
+          "ko": "관리인; (배·비행기의) 승무원"
+        }
+      ]
+    },
+    {
+      "headword": "salvage",
+      "pos": "v.",
+      "ko": "(파손·침몰된 것을) 회수하다, 인양하다; 수습하다",
+      "example_en": "Engineers managed to salvage most of the equipment from the flooded plant.",
+      "example_ko": "기술자들은 침수된 공장에서 장비 대부분을 회수해 냈다.",
+      "collocations": [
+        "salvage operation",
+        "salvage the deal"
+      ],
+      "note": "라틴어 salvare(구하다) 계열로 save와 한 뿌리. 물건뿐 아니라 망가진 상황을 '그나마 건져내다'(salvage the deal)에도 그대로 쓴다.",
+      "related": [
+        {
+          "word": "salvation",
+          "ko": "구원",
+          "note": "뿌리는 같지만 salvation은 종교적 '구원', salvage는 물리적으로 건져 내는 쪽으로 뜻이 갈렸다"
+        }
+      ]
+    },
+    {
+      "headword": "proliferation",
+      "pos": "n.",
+      "ko": "급증, 확산",
+      "example_en": "The proliferation of small satellites has made low orbit far more crowded.",
+      "example_ko": "소형 위성의 급증으로 저궤도는 훨씬 더 붐비게 되었다.",
+      "collocations": [
+        "the proliferation of",
+        "nuclear proliferation"
+      ],
+      "note": "proles(자손)+ferre(낳다) — 자손이 불어나듯 수가 늘어난다는 그림. 시사에서는 nuclear proliferation(핵확산)처럼 '무기 확산'을 가리키는 말로 굳어졌다.",
+      "family": [
+        {
+          "word": "proliferate",
+          "pos": "v.",
+          "ko": "급증하다, 확산되다"
+        }
+      ]
+    },
+    {
+      "headword": "prohibitive",
+      "pos": "a.",
+      "ko": "엄두를 못 낼 만큼 비싼; 금지하는",
+      "example_en": "Shipping costs were prohibitive for such a small order.",
+      "example_ko": "그렇게 소량인 주문에는 운송비가 감당하기 어려운 수준이었다.",
+      "collocations": [
+        "prohibitive cost",
+        "prohibitively expensive"
+      ],
+      "note": "prohibit(금지하다)의 형용사이지만 실제로는 '너무 비싸서 사실상 못 하게 만드는'이라는 뜻으로 훨씬 자주 쓴다.",
+      "family": [
+        {
+          "word": "prohibit",
+          "pos": "v.",
+          "ko": "금지하다"
+        },
+        {
+          "word": "prohibition",
+          "pos": "n.",
+          "ko": "금지"
+        }
+      ],
+      "related": [
+        {
+          "word": "prohibited",
+          "ko": "금지된",
+          "note": "prohibitive cost는 '엄두 못 낼 비용', prohibited item은 '금지 물품' — -ive형과 -ed형의 뜻이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "unilateral",
+      "pos": "a.",
+      "ko": "일방적인, 단독의",
+      "example_en": "The government imposed unilateral sanctions without consulting its allies.",
+      "example_ko": "그 정부는 동맹국과 상의 없이 일방적 제재를 부과했다.",
+      "collocations": [
+        "unilateral action",
+        "unilateral sanctions"
+      ],
+      "note": "uni-(하나)+later(옆, 측) — '한쪽만의'. bilateral(양자 간의)·multilateral(다자간의)과 세트로 외워 두면 통상·외교 기사가 한결 쉬워진다.",
+      "family": [
+        {
+          "word": "unilaterally",
+          "pos": "ad.",
+          "ko": "일방적으로, 단독으로"
+        }
+      ],
+      "related": [
+        {
+          "word": "bilateral",
+          "ko": "양자 간의",
+          "note": "bi-(둘) — 두 나라 사이면 bilateral, 셋 이상이면 multilateral"
+        }
+      ]
+    },
+    {
+      "headword": "compliance",
+      "pos": "n.",
+      "ko": "(법·규정의) 준수",
+      "example_en": "The audit confirmed full compliance with safety regulations.",
+      "example_ko": "감사 결과 안전 규정을 완전히 준수하고 있음이 확인되었다.",
+      "collocations": [
+        "compliance with",
+        "in compliance with"
+      ],
+      "note": "동사구 comply with ~(~를 준수하다)의 명사형이라 전치사도 그대로 따라와 compliance with ~ 가 된다. compliance to로 쓰지 않는다.",
+      "family": [
+        {
+          "word": "comply",
+          "pos": "v.",
+          "ko": "준수하다 (comply with)"
+        },
+        {
+          "word": "compliant",
+          "pos": "a.",
+          "ko": "규정을 지키는; 순순히 따르는"
+        }
+      ]
+    },
+    {
+      "headword": "feasible",
+      "pos": "a.",
+      "ko": "실현 가능한",
+      "example_en": "The committee questioned whether the timeline was feasible.",
+      "example_ko": "위원회는 그 일정이 실현 가능한지 의문을 제기했다.",
+      "collocations": [
+        "technically feasible",
+        "feasibility study"
+      ],
+      "note": "possible이 '이론상 있을 수 있는'이라면 feasible은 비용·시간을 따져 '실제로 해볼 만한'이다. 사업 문서의 feasibility study(타당성 조사)로 묶어 외우면 좋다.",
+      "family": [
+        {
+          "word": "feasibility",
+          "pos": "n.",
+          "ko": "실현 가능성, 타당성"
+        }
+      ]
+    },
+    {
+      "headword": "endorse",
+      "pos": "v.",
+      "ko": "(공개적으로) 지지하다, 보증하다",
+      "example_en": "Two former ministers publicly endorsed the reform bill.",
+      "example_ko": "전직 장관 두 명이 그 개혁 법안을 공개적으로 지지했다.",
+      "collocations": [
+        "endorse a candidate",
+        "publicly endorse"
+      ],
+      "note": "en-(안에)+dorsum(등) — 원뜻은 '뒷면에 서명하다'. 수표 뒷면에 서명해 보증하던 데서 '공개적으로 지지·보증하다'로 넓어졌고, 광고 모델을 endorser라 부르는 것도 같은 맥락이다.",
+      "family": [
+        {
+          "word": "endorsement",
+          "pos": "n.",
+          "ko": "지지, 보증"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-07-30",
+  "passage_note": "과학·우주 — 궤도 잔해(우주 쓰레기)와 공유지의 비극(논설)",
+  "sentences": [
+    {
+      "en": "For decades the band of space just above the atmosphere was treated as an inexhaustible commons, a void so vast that the debris left behind by defunct satellites seemed a negligible cost of doing business.",
+      "ko": "수십 년 동안 대기권 바로 위의 우주 구간은 고갈되지 않는 공유지로, 즉 폐기된 위성들이 남긴 잔해쯤은 사업에 따르는 무시해도 될 비용으로 보일 만큼 광대한 빈 공간으로 취급되었다.",
+      "structure": "· be treated as ~ : 5형식 treat A as B(A를 B로 취급하다)의 수동태.\n· a void so vast that ~ : 앞의 an inexhaustible commons를 다시 풀어 주는 동격 명사구이며, 그 안은 so + 형용사 + that(너무 …해서 ~하다) 구문.\n· left behind by defunct satellites : 과거분사구가 the debris를 뒤에서 수식(← which was left behind).",
+      "vocab_notes": [
+        { "word": "band", "ko": "띠, 구역" },
+        { "word": "atmosphere", "ko": "대기권" },
+        { "word": "treat A as B", "ko": "A를 B로 취급하다" },
+        { "word": "inexhaustible", "ko": "고갈되지 않는, 무진장한" },
+        { "word": "commons", "ko": "공유지, 공동 자원" },
+        { "word": "void", "ko": "빈 공간, 공백" },
+        { "word": "vast", "ko": "광대한" },
+        { "word": "debris", "ko": "잔해, 파편" },
+        { "word": "leave behind", "ko": "뒤에 남기고 가다" },
+        { "word": "defunct", "ko": "기능을 멈춘, 폐기된" },
+        { "word": "satellite", "ko": "위성" },
+        { "word": "negligible", "ko": "무시해도 될 정도의" },
+        { "word": "cost of doing business", "ko": "사업에 따르기 마련인 비용" }
+      ]
+    },
+    {
+      "en": "Today, with thousands of newly launched spacecraft crowding the same narrow altitudes, that congestion has become the industry's most immediate threat to itself.",
+      "ko": "오늘날 새로 발사된 수천 기의 우주선이 똑같이 좁은 고도대를 가득 메우면서, 그 혼잡은 업계가 스스로에게 가하는 가장 당면한 위협이 되었다.",
+      "structure": "· with + 명사 + 현재분사(crowding) : '~가 …한 채로/…하면서'를 뜻하는 부대상황의 with 분사구문. 명사(spacecraft)와 분사가 능동 관계라 현재분사를 썼다.\n· newly launched : 과거분사가 앞에서 spacecraft를 수식(새로 발사된).\n· threat to itself : 재귀대명사 itself가 같은 문장의 the industry를 되받아 '업계 자신에게'라는 뜻.",
+      "vocab_notes": [
+        { "word": "launch", "ko": "발사하다" },
+        { "word": "spacecraft", "ko": "우주선 (단복수 동형)" },
+        { "word": "crowd", "ko": "가득 메우다, 몰려들다" },
+        { "word": "narrow", "ko": "좁은" },
+        { "word": "altitude", "ko": "고도" },
+        { "word": "congestion", "ko": "혼잡, 정체" },
+        { "word": "immediate", "ko": "당면한, 즉각적인" },
+        { "word": "threat", "ko": "위협" }
+      ]
+    },
+    {
+      "en": "Analysts warn that a single high-speed collision could set off a cascade of further impacts, each one multiplying the fragments that make the orbit unusable for decades.",
+      "ko": "분석가들은 고속 충돌 단 한 번이 뒤이은 충돌의 연쇄를 촉발할 수 있으며, 그 하나하나가 궤도를 수십 년간 쓸 수 없게 만드는 파편을 불려 놓는다고 경고한다.",
+      "structure": "· warn that ~ : that절을 목적어로 받는 동사. 여기서 a single collision이 that절의 주어다.\n· each one multiplying ~ : 주절과 주어가 다른 독립분사구문(each one = each impact). 접속사 없이 콤마로 이어진 점에 주의.\n· that make the orbit unusable : 주격 관계대명사 that이 the fragments를 수식하고, 그 안은 make + 목적어 + 형용사(5형식).",
+      "vocab_notes": [
+        { "word": "analyst", "ko": "분석가" },
+        { "word": "warn", "ko": "경고하다" },
+        { "word": "collision", "ko": "충돌" },
+        { "word": "set off", "ko": "촉발하다, 일으키다" },
+        { "word": "cascade", "ko": "연쇄적으로 이어짐" },
+        { "word": "further", "ko": "추가적인, 뒤이은" },
+        { "word": "impact", "ko": "충돌; 충격" },
+        { "word": "multiply", "ko": "늘리다, 증식시키다" },
+        { "word": "fragment", "ko": "파편" },
+        { "word": "orbit", "ko": "궤도" },
+        { "word": "unusable", "ko": "쓸 수 없는" }
+      ]
+    },
+    {
+      "en": "What makes the problem so intractable is that no state has clear jurisdiction over the wreckage, and the cost of retrieving it is prohibitive for any operator acting unilaterally.",
+      "ko": "이 문제를 그토록 다루기 어렵게 만드는 것은, 그 잔해에 대해 명확한 관할권을 가진 국가가 없고 그것을 회수하는 비용이 단독으로 나서는 어떤 사업자에게도 감당 못 할 수준이라는 점이다.",
+      "structure": "· What makes ~ is that ... : 선행사를 포함한 관계대명사 what이 이끄는 명사절이 주어, that절이 보어인 구조('~하게 만드는 것은 …이라는 점이다').\n· makes the problem so intractable : make + 목적어 + 형용사(5형식).\n· acting unilaterally : 현재분사구가 any operator를 뒤에서 수식(단독으로 나서는 어떤 사업자).\n· 부정 주어 no state : '어떤 국가도 ~하지 않는다'로 해석한다.",
+      "vocab_notes": [
+        { "word": "intractable", "ko": "다루기 힘든, 해결이 어려운" },
+        { "word": "state", "ko": "국가" },
+        { "word": "jurisdiction", "ko": "관할권" },
+        { "word": "wreckage", "ko": "잔해" },
+        { "word": "retrieve", "ko": "회수하다, 되찾아 오다" },
+        { "word": "prohibitive", "ko": "엄두를 못 낼 만큼 비싼" },
+        { "word": "operator", "ko": "사업자, 운영 주체" },
+        { "word": "unilaterally", "ko": "일방적으로, 단독으로" }
+      ]
+    },
+    {
+      "en": "Were the major launching nations to accept shared liability for what they leave behind, compliance with existing debris guidelines would cease to be a matter of goodwill; until then, stewardship of the orbital commons will remain a promise that no one is obliged to keep.",
+      "ko": "주요 발사국들이 자신들이 남기고 가는 것에 대해 공동의 법적 책임을 받아들인다면, 기존 잔해 지침의 준수는 더 이상 선의의 문제가 아니게 될 것이다. 그때까지 궤도라는 공유지에 대한 관리 책임은 아무도 지킬 의무가 없는 약속으로 남을 것이다.",
+      "structure": "· Were the major launching nations to accept ~ : If를 생략하고 were를 앞으로 보낸 가정법 도치(= If the major launching nations were to accept ~). were to는 실현 가능성이 낮은 미래를 가정한다.\n· what they leave behind : 선행사를 포함한 관계대명사 what — '그들이 남기고 가는 것'.\n· cease to be ~ : '더 이상 ~이 아니게 되다'(cease는 to부정사를 목적어로 받는다).\n· a promise that no one is obliged to keep : 목적격 관계대명사 that(keep의 목적어가 a promise), 생략 가능한 자리다.",
+      "vocab_notes": [
+        { "word": "launching nation", "ko": "발사국" },
+        { "word": "shared", "ko": "공동의, 함께 지는" },
+        { "word": "liability", "ko": "법적 책임" },
+        { "word": "compliance", "ko": "(규정의) 준수" },
+        { "word": "existing", "ko": "기존의" },
+        { "word": "guideline", "ko": "지침" },
+        { "word": "cease to be", "ko": "더 이상 ~이 아니게 되다" },
+        { "word": "a matter of goodwill", "ko": "선의에 달린 문제" },
+        { "word": "stewardship", "ko": "관리 책임" },
+        { "word": "orbital", "ko": "궤도의" },
+        { "word": "be obliged to", "ko": "~할 의무가 있다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "debris",
+      "pos": "n.",
+      "ko": "잔해, 파편",
+      "example_en": "Crews spent the morning clearing debris from the runway.",
+      "example_ko": "작업반은 오전 내내 활주로에서 잔해를 치웠다.",
+      "collocations": ["clear debris", "space debris"],
+      "note": "프랑스어에서 그대로 들어온 단어라 끝의 -s를 발음하지 않는다([데브리]). 이미 집합적 의미의 불가산명사여서 a debris·debrises 같은 형태는 쓰지 않는다.",
+      "related": [
+        { "word": "rubble", "ko": "(무너진 건물의) 잔해", "note": "rubble은 무너진 건물·벽돌 더미에, debris는 사고·폭발로 흩어진 파편 전반에 쓴다" }
+      ]
+    },
+    {
+      "headword": "defunct",
+      "pos": "a.",
+      "ko": "(회사·제도가) 없어진; (기계·위성이) 작동을 멈춘",
+      "example_en": "The rights were transferred to another firm after the original publisher became defunct.",
+      "example_ko": "원래 출판사가 문을 닫은 뒤 그 권리는 다른 회사로 넘어갔다.",
+      "collocations": ["a defunct company", "long defunct"],
+      "note": "de-(다 끝내고)+fungi(수행하다) — 제 기능을 다 마쳐 버린 상태. function(기능)과 뿌리가 같다. 사람에게는 쓰지 않고 회사·제도·기계에 쓴다.",
+      "related": [
+        { "word": "obsolete", "ko": "구식이 된", "note": "obsolete는 아직 작동해도 시대에 뒤떨어진 것, defunct는 아예 기능을 멈추거나 없어진 것" }
+      ]
+    },
+    {
+      "headword": "negligible",
+      "pos": "a.",
+      "ko": "무시해도 될 정도의, 미미한",
+      "example_en": "The tax change had a negligible effect on household spending.",
+      "example_ko": "그 세제 변화가 가계 지출에 미친 영향은 무시할 만한 수준이었다.",
+      "collocations": ["a negligible effect", "negligible amount"],
+      "note": "neglect(무시하다)+-ible — '무시해 버려도 되는' 정도라는 뜻. 크기·양에 대한 판단이다.",
+      "related": [
+        { "word": "negligent", "ko": "태만한, 과실이 있는", "note": "철자가 거의 같지만 negligent는 '(사람이) 주의를 게을리한', negligible은 '(양이) 무시해도 될'" }
+      ]
+    },
+    {
+      "headword": "congestion",
+      "pos": "n.",
+      "ko": "혼잡, 정체",
+      "example_en": "The city introduced a toll to reduce traffic congestion downtown.",
+      "example_ko": "그 도시는 도심 교통 혼잡을 줄이기 위해 통행료를 도입했다.",
+      "collocations": ["traffic congestion", "ease congestion"],
+      "note": "con-(함께)+gerere(나르다) — 한곳으로 죄다 날라 와 막힌 상태. 그래서 도로의 '정체'와 코막힘(nasal congestion)에 같은 단어를 쓴다.",
+      "family": [
+        { "word": "congested", "pos": "a.", "ko": "혼잡한; (코가) 막힌" }
+      ]
+    },
+    {
+      "headword": "cascade",
+      "pos": "n.",
+      "ko": "연쇄적으로 번짐; 작은 폭포",
+      "example_en": "One bank's collapse triggered a cascade of defaults across the region.",
+      "example_ko": "한 은행의 파산이 그 지역 전역의 연쇄 채무불이행을 촉발했다.",
+      "collocations": ["a cascade of", "cascading failures"],
+      "note": "이탈리아어 cascare(떨어지다)에서 온 말로 원뜻은 '층층이 떨어지는 폭포'. 여기서 위에서 아래로 줄줄이 번지는 '연쇄 반응'이라는 비유가 나왔다."
+    },
+    {
+      "headword": "liability",
+      "pos": "n.",
+      "ko": "법적 책임; (복수형) 부채",
+      "example_en": "The contract limits the supplier's liability for indirect damages.",
+      "example_ko": "그 계약은 간접 손해에 대한 공급업체의 책임을 제한한다.",
+      "collocations": ["limit liability", "assume liability"],
+      "note": "형용사 liable(책임이 있는)의 명사형. 회계에서는 복수 liabilities가 '부채'로 assets(자산)의 반대짝이고, 사람에게 쓰면 '짐이 되는 존재'라는 뜻이 된다.",
+      "family": [
+        { "word": "liable", "pos": "a.", "ko": "법적 책임이 있는; ~하기 쉬운" }
+      ]
+    },
+    {
+      "headword": "jurisdiction",
+      "pos": "n.",
+      "ko": "관할권, 사법권",
+      "example_en": "The dispute fell outside the court's jurisdiction.",
+      "example_ko": "그 분쟁은 그 법원의 관할권 밖이었다.",
+      "collocations": ["have jurisdiction over", "outside one's jurisdiction"],
+      "note": "juris(법)+dictio(말하기) — '법을 말할 권한'. justice·jury와 한 뿌리다. 전치사까지 붙여 have jurisdiction over ~ 로 통째 외우면 쓰기 쉽다."
+    },
+    {
+      "headword": "stewardship",
+      "pos": "n.",
+      "ko": "(자원·재산을 맡아 하는) 관리 책임",
+      "example_en": "The trust was praised for its careful stewardship of the wetlands.",
+      "example_ko": "그 재단은 습지를 세심하게 관리해 온 점으로 찬사를 받았다.",
+      "collocations": ["environmental stewardship", "stewardship of resources"],
+      "note": "steward는 원래 '남의 살림을 맡아 관리하는 사람'이라, stewardship은 소유가 아니라 '맡아서 잘 건사할 책임'을 뜻한다. 환경·공공재 논의의 단골 단어.",
+      "family": [
+        { "word": "steward", "pos": "n.", "ko": "관리인; (배·비행기의) 승무원" }
+      ]
+    },
+    {
+      "headword": "salvage",
+      "pos": "v.",
+      "ko": "(파손·침몰된 것을) 회수하다, 인양하다; 수습하다",
+      "example_en": "Engineers managed to salvage most of the equipment from the flooded plant.",
+      "example_ko": "기술자들은 침수된 공장에서 장비 대부분을 회수해 냈다.",
+      "collocations": ["salvage operation", "salvage the deal"],
+      "note": "라틴어 salvare(구하다) 계열로 save와 한 뿌리. 물건뿐 아니라 망가진 상황을 '그나마 건져내다'(salvage the deal)에도 그대로 쓴다.",
+      "related": [
+        { "word": "salvation", "ko": "구원", "note": "뿌리는 같지만 salvation은 종교적 '구원', salvage는 물리적으로 건져 내는 쪽으로 뜻이 갈렸다" }
+      ]
+    },
+    {
+      "headword": "proliferation",
+      "pos": "n.",
+      "ko": "급증, 확산",
+      "example_en": "The proliferation of small satellites has made low orbit far more crowded.",
+      "example_ko": "소형 위성의 급증으로 저궤도는 훨씬 더 붐비게 되었다.",
+      "collocations": ["the proliferation of", "nuclear proliferation"],
+      "note": "proles(자손)+ferre(낳다) — 자손이 불어나듯 수가 늘어난다는 그림. 시사에서는 nuclear proliferation(핵확산)처럼 '무기 확산'을 가리키는 말로 굳어졌다.",
+      "family": [
+        { "word": "proliferate", "pos": "v.", "ko": "급증하다, 확산되다" }
+      ]
+    },
+    {
+      "headword": "prohibitive",
+      "pos": "a.",
+      "ko": "엄두를 못 낼 만큼 비싼; 금지하는",
+      "example_en": "Shipping costs were prohibitive for such a small order.",
+      "example_ko": "그렇게 소량인 주문에는 운송비가 감당하기 어려운 수준이었다.",
+      "collocations": ["prohibitive cost", "prohibitively expensive"],
+      "note": "prohibit(금지하다)의 형용사이지만 실제로는 '너무 비싸서 사실상 못 하게 만드는'이라는 뜻으로 훨씬 자주 쓴다.",
+      "family": [
+        { "word": "prohibit", "pos": "v.", "ko": "금지하다" },
+        { "word": "prohibition", "pos": "n.", "ko": "금지" }
+      ],
+      "related": [
+        { "word": "prohibited", "ko": "금지된", "note": "prohibitive cost는 '엄두 못 낼 비용', prohibited item은 '금지 물품' — -ive형과 -ed형의 뜻이 다르다" }
+      ]
+    },
+    {
+      "headword": "unilateral",
+      "pos": "a.",
+      "ko": "일방적인, 단독의",
+      "example_en": "The government imposed unilateral sanctions without consulting its allies.",
+      "example_ko": "그 정부는 동맹국과 상의 없이 일방적 제재를 부과했다.",
+      "collocations": ["unilateral action", "unilateral sanctions"],
+      "note": "uni-(하나)+later(옆, 측) — '한쪽만의'. bilateral(양자 간의)·multilateral(다자간의)과 세트로 외워 두면 통상·외교 기사가 한결 쉬워진다.",
+      "family": [
+        { "word": "unilaterally", "pos": "ad.", "ko": "일방적으로, 단독으로" }
+      ],
+      "related": [
+        { "word": "bilateral", "ko": "양자 간의", "note": "bi-(둘) — 두 나라 사이면 bilateral, 셋 이상이면 multilateral" }
+      ]
+    },
+    {
+      "headword": "compliance",
+      "pos": "n.",
+      "ko": "(법·규정의) 준수",
+      "example_en": "The audit confirmed full compliance with safety regulations.",
+      "example_ko": "감사 결과 안전 규정을 완전히 준수하고 있음이 확인되었다.",
+      "collocations": ["compliance with", "in compliance with"],
+      "note": "동사구 comply with ~(~를 준수하다)의 명사형이라 전치사도 그대로 따라와 compliance with ~ 가 된다. compliance to로 쓰지 않는다.",
+      "family": [
+        { "word": "comply", "pos": "v.", "ko": "준수하다 (comply with)" },
+        { "word": "compliant", "pos": "a.", "ko": "규정을 지키는; 순순히 따르는" }
+      ]
+    },
+    {
+      "headword": "feasible",
+      "pos": "a.",
+      "ko": "실현 가능한",
+      "example_en": "The committee questioned whether the timeline was feasible.",
+      "example_ko": "위원회는 그 일정이 실현 가능한지 의문을 제기했다.",
+      "collocations": ["technically feasible", "feasibility study"],
+      "note": "possible이 '이론상 있을 수 있는'이라면 feasible은 비용·시간을 따져 '실제로 해볼 만한'이다. 사업 문서의 feasibility study(타당성 조사)로 묶어 외우면 좋다.",
+      "family": [
+        { "word": "feasibility", "pos": "n.", "ko": "실현 가능성, 타당성" }
+      ]
+    },
+    {
+      "headword": "endorse",
+      "pos": "v.",
+      "ko": "(공개적으로) 지지하다, 보증하다",
+      "example_en": "Two former ministers publicly endorsed the reform bill.",
+      "example_ko": "전직 장관 두 명이 그 개혁 법안을 공개적으로 지지했다.",
+      "collocations": ["endorse a candidate", "publicly endorse"],
+      "note": "en-(안에)+dorsum(등) — 원뜻은 '뒷면에 서명하다'. 수표 뒷면에 서명해 보증하던 데서 '공개적으로 지지·보증하다'로 넓어졌고, 광고 모델을 endorser라 부르는 것도 같은 맥락이다.",
+      "family": [
+        { "word": "endorsement", "pos": "n.", "ko": "지지, 보증" }
+      ]
+    },
+    {
+      "headword": "contingent",
+      "pos": "a.",
+      "ko": "~에 달려 있는; 우발적인",
+      "example_en": "The bonus is contingent on meeting quarterly targets.",
+      "example_ko": "그 상여금은 분기 목표 달성 여부에 달려 있다.",
+      "collocations": ["contingent on", "contingency plan"],
+      "note": "contingent on ~(~을 조건으로 한다)이 핵심 형태다. 명사 contingency는 '만일의 사태'라서 contingency plan은 비상 대비 계획을 뜻한다.",
+      "family": [
+        { "word": "contingency", "pos": "n.", "ko": "만일의 사태, 우발 상황" }
+      ]
+    },
+    {
+      "headword": "redundant",
+      "pos": "a.",
+      "ko": "불필요하게 중복된; (영국) 정리해고된",
+      "example_en": "The editor cut three redundant paragraphs from the summary.",
+      "example_ko": "편집자는 요약에서 중복된 세 문단을 덜어 냈다.",
+      "collocations": ["redundant information", "be made redundant"],
+      "note": "red-(다시)+undare(물결치다) — 넘쳐흘러 남아도는 상태. 영국 영어의 be made redundant는 '정리해고되다'라는 전혀 다른 뜻이고, 기술 문서의 redundancy는 오히려 '예비 이중화'로 긍정적이다.",
+      "family": [
+        { "word": "redundancy", "pos": "n.", "ko": "중복; 정리해고; (설비의) 이중화" }
+      ]
+    },
+    {
+      "headword": "prospective",
+      "pos": "a.",
+      "ko": "장래의, 잠재적인",
+      "example_en": "The firm sent brochures to several hundred prospective buyers.",
+      "example_ko": "그 회사는 수백 명의 잠재 구매자에게 안내 책자를 보냈다.",
+      "collocations": ["prospective buyer", "prospective employer"],
+      "note": "pro-(앞)+spect(보다) — '앞을 내다본'. prospective client는 아직 고객이 아니라 앞으로 될 사람이라, 이미 거래 중인 existing client와 대비된다.",
+      "family": [
+        { "word": "prospect", "pos": "n.", "ko": "전망, 가능성" }
+      ],
+      "related": [
+        { "word": "retrospective", "ko": "회고하는", "note": "pro-(앞) vs retro-(뒤) — prospective는 앞을 내다보는, retrospective는 지난 일을 돌아보는" }
+      ]
+    }
+  ]
+}
