@@ -1,0 +1,572 @@
+{
+  "date": "2026-07-31",
+  "due_words": [
+    {
+      "headword": "abolish",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "폐지하다",
+        "example_en": "The government plans to abolish the tax on small transactions next year.",
+        "example_ko": "정부는 내년에 소액 거래에 붙는 세금을 폐지할 계획이다.",
+        "note": "제도·법·관행을 아예 없앨 때만 쓴다(물건이나 사람에는 붙지 않는다). 명사형이 -ishment가 아니라 abolition으로 형태가 크게 바뀌는 점이 함정.",
+        "family": [
+          {
+            "word": "abolition",
+            "pos": "n.",
+            "ko": "폐지"
+          }
+        ],
+        "related": [
+          {
+            "word": "repeal",
+            "ko": "(법·조항을) 철회하다, 무효화하다",
+            "note": "repeal은 개별 법령을 되돌리는 것, abolish는 제도 자체를 없애는 것"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "cascade",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "연쇄적으로 번짐; 작은 폭포",
+        "example_en": "One bank's collapse triggered a cascade of defaults across the region.",
+        "example_ko": "한 은행의 파산이 그 지역 전역의 연쇄 채무불이행을 촉발했다.",
+        "note": "이탈리아어 cascare(떨어지다)에서 온 말로 원뜻은 '층층이 떨어지는 폭포'. 여기서 위에서 아래로 줄줄이 번지는 '연쇄 반응'이라는 비유가 나왔다."
+      }
+    },
+    {
+      "headword": "chronic",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "만성적인, 고질적인",
+        "example_en": "The region suffers from a chronic shortage of skilled workers.",
+        "example_ko": "그 지역은 숙련 노동자의 만성적인 부족에 시달린다.",
+        "note": "chrono-(시간) 계열 — 시간을 길게 끄는 것이 만성이다. 반대말 acute(급성의·짧고 격렬한)와 짝으로 외우면 의료·경제 기사에서 바로 읽힌다. 같은 뿌리: chronology(연대기), synchronize(시간을 맞추다).",
+        "related": [
+          {
+            "word": "acute",
+            "ko": "급성의; 극심한",
+            "note": "chronic(오래 끄는) ↔ acute(짧고 격렬한) — 기사에서 대비되어 쓰인다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "compliance",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "(법·규정의) 준수",
+        "example_en": "The audit confirmed full compliance with safety regulations.",
+        "example_ko": "감사 결과 안전 규정을 완전히 준수하고 있음이 확인되었다.",
+        "note": "동사구 comply with ~(~를 준수하다)의 명사형이라 전치사도 그대로 따라와 compliance with ~ 가 된다. compliance to로 쓰지 않는다.",
+        "family": [
+          {
+            "word": "comply",
+            "pos": "v.",
+            "ko": "준수하다 (comply with)"
+          },
+          {
+            "word": "compliant",
+            "pos": "a.",
+            "ko": "규정을 지키는; 순순히 따르는"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "congestion",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "혼잡, 정체",
+        "example_en": "The city introduced a toll to reduce traffic congestion downtown.",
+        "example_ko": "그 도시는 도심 교통 혼잡을 줄이기 위해 통행료를 도입했다.",
+        "note": "con-(함께)+gerere(나르다) — 한곳으로 죄다 날라 와 막힌 상태. 그래서 도로의 '정체'와 코막힘(nasal congestion)에 같은 단어를 쓴다.",
+        "family": [
+          {
+            "word": "congested",
+            "pos": "a.",
+            "ko": "혼잡한; (코가) 막힌"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "contentious",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "논쟁적인, 논란이 많은",
+        "example_en": "Land use remains the most contentious item on the council's agenda.",
+        "example_ko": "토지 이용은 시의회 안건 중 가장 논쟁적인 사안으로 남아 있다.",
+        "note": "'다투다·주장하다'의 contend에서 갈라진 형용사. 철자가 겹치는 content(만족한 / 내용)와는 뜻이 전혀 다르고, 명사 contention은 '논쟁'과 '주장' 두 갈래로 쓰인다(a point of contention = 쟁점).",
+        "family": [
+          {
+            "word": "contend",
+            "pos": "v.",
+            "ko": "다투다; 주장하다"
+          },
+          {
+            "word": "contention",
+            "pos": "n.",
+            "ko": "논쟁; 주장"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "cumulative",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "누적되는, 축적된",
+        "example_en": "The cumulative cost of the delays exceeded the original budget.",
+        "example_ko": "그 지연들의 누적 비용은 최초 예산을 넘어섰다.",
+        "note": "cumul-(쌓다·더미)에서 나온 말로 accumulate(쌓아 올리다)의 형용사 짝. 한 번의 크기가 아니라 '쌓인 총량'을 말할 때 쓴다는 점이 시험 포인트.",
+        "family": [
+          {
+            "word": "accumulate",
+            "pos": "v.",
+            "ko": "쌓다, 축적하다"
+          },
+          {
+            "word": "accumulation",
+            "pos": "n.",
+            "ko": "축적, 누적"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "debris",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "잔해, 파편",
+        "example_en": "Crews spent the morning clearing debris from the runway.",
+        "example_ko": "작업반은 오전 내내 활주로에서 잔해를 치웠다.",
+        "note": "프랑스어에서 그대로 들어온 단어라 끝의 -s를 발음하지 않는다([데브리]). 이미 집합적 의미의 불가산명사여서 a debris·debrises 같은 형태는 쓰지 않는다.",
+        "related": [
+          {
+            "word": "rubble",
+            "ko": "(무너진 건물의) 잔해",
+            "note": "rubble은 무너진 건물·벽돌 더미에, debris는 사고·폭발로 흩어진 파편 전반에 쓴다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "defunct",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "(회사·제도가) 없어진; (기계·위성이) 작동을 멈춘",
+        "example_en": "The rights were transferred to another firm after the original publisher became defunct.",
+        "example_ko": "원래 출판사가 문을 닫은 뒤 그 권리는 다른 회사로 넘어갔다.",
+        "note": "de-(다 끝내고)+fungi(수행하다) — 제 기능을 다 마쳐 버린 상태. function(기능)과 뿌리가 같다. 사람에게는 쓰지 않고 회사·제도·기계에 쓴다.",
+        "related": [
+          {
+            "word": "obsolete",
+            "ko": "구식이 된",
+            "note": "obsolete는 아직 작동해도 시대에 뒤떨어진 것, defunct는 아예 기능을 멈추거나 없어진 것"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "deteriorate",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "악화되다, 나빠지다",
+        "example_en": "Public infrastructure deteriorated steadily during the funding freeze.",
+        "example_ko": "예산 동결 기간에 공공 인프라는 꾸준히 악화되었다.",
+        "note": "deterior-(더 나쁜)에서 나온 말 — 상태가 스스로 나빠지는 자동사라 목적어를 받지 않는다. '나쁘게 만들다'라는 타동사 aggravate·worsen과 이 점에서 갈린다.",
+        "related": [
+          {
+            "word": "aggravate",
+            "ko": "악화시키다; 짜증나게 하다",
+            "note": "deteriorate는 '나빠지다'(자동사), aggravate는 '나쁘게 만들다'(타동사)"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "displacement",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "(밀려나는) 이주·퇴거; 대체",
+        "example_en": "Rapid redevelopment led to the displacement of hundreds of low-income families.",
+        "example_ko": "급속한 재개발은 수백 저소득 가구가 살던 곳에서 밀려나는 결과로 이어졌다.",
+        "note": "dis-(떨어져) + place(자리) = '자리에서 떼어냄'. 도시·재개발 기사에서는 '원주민이 밀려남', 노동·기술 기사에서는 '일자리 대체'로 뜻이 갈리니 문맥으로 판단한다.",
+        "family": [
+          {
+            "word": "displace",
+            "pos": "v.",
+            "ko": "쫓아내다, 밀어내다; 대체하다"
+          },
+          {
+            "word": "displaced",
+            "pos": "a.",
+            "ko": "쫓겨난 (displaced persons = 이재민·난민)"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "endorse",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "(공개적으로) 지지하다, 보증하다",
+        "example_en": "Two former ministers publicly endorsed the reform bill.",
+        "example_ko": "전직 장관 두 명이 그 개혁 법안을 공개적으로 지지했다.",
+        "note": "en-(안에)+dorsum(등) — 원뜻은 '뒷면에 서명하다'. 수표 뒷면에 서명해 보증하던 데서 '공개적으로 지지·보증하다'로 넓어졌고, 광고 모델을 endorser라 부르는 것도 같은 맥락이다.",
+        "family": [
+          {
+            "word": "endorsement",
+            "pos": "n.",
+            "ko": "지지, 보증"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "feasible",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "실현 가능한",
+        "example_en": "The committee questioned whether the timeline was feasible.",
+        "example_ko": "위원회는 그 일정이 실현 가능한지 의문을 제기했다.",
+        "note": "possible이 '이론상 있을 수 있는'이라면 feasible은 비용·시간을 따져 '실제로 해볼 만한'이다. 사업 문서의 feasibility study(타당성 조사)로 묶어 외우면 좋다.",
+        "family": [
+          {
+            "word": "feasibility",
+            "pos": "n.",
+            "ko": "실현 가능성, 타당성"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "incumbent",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "현직의, 기존의 (명사로는 '현직자')",
+        "example_en": "The incumbent mayor is expected to face a well-funded challenger this fall.",
+        "example_ko": "현직 시장은 올가을 자금이 넉넉한 도전자와 맞붙을 것으로 예상된다.",
+        "note": "cumb-(눕다·기대다)에서 나와 '그 자리에 앉아 있는'이라는 뜻 — 선거 기사에서는 challenger(도전자)의 짝으로, 산업 기사에서는 신규 진입자에 맞선 '기존 업체'로 쓰인다. 「it is incumbent on A to V」= A가 ~할 의무가 있다 라는 별개 용법도 함께 알아 둘 것.",
+        "related": [
+          {
+            "word": "challenger",
+            "ko": "도전자",
+            "note": "incumbent와 대비되는 짝 — 선거 기사에서 거의 붙어 나온다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "jurisdiction",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "관할권, 사법권",
+        "example_en": "The dispute fell outside the court's jurisdiction.",
+        "example_ko": "그 분쟁은 그 법원의 관할권 밖이었다.",
+        "note": "juris(법)+dictio(말하기) — '법을 말할 권한'. justice·jury와 한 뿌리다. 전치사까지 붙여 have jurisdiction over ~ 로 통째 외우면 쓰기 쉽다."
+      }
+    },
+    {
+      "headword": "liability",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "법적 책임; (복수형) 부채",
+        "example_en": "The contract limits the supplier's liability for indirect damages.",
+        "example_ko": "그 계약은 간접 손해에 대한 공급업체의 책임을 제한한다.",
+        "note": "형용사 liable(책임이 있는)의 명사형. 회계에서는 복수 liabilities가 '부채'로 assets(자산)의 반대짝이고, 사람에게 쓰면 '짐이 되는 존재'라는 뜻이 된다.",
+        "family": [
+          {
+            "word": "liable",
+            "pos": "a.",
+            "ko": "법적 책임이 있는; ~하기 쉬운"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "negligible",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "무시해도 될 정도의, 미미한",
+        "example_en": "The tax change had a negligible effect on household spending.",
+        "example_ko": "그 세제 변화가 가계 지출에 미친 영향은 무시할 만한 수준이었다.",
+        "note": "neglect(무시하다)+-ible — '무시해 버려도 되는' 정도라는 뜻. 크기·양에 대한 판단이다.",
+        "related": [
+          {
+            "word": "negligent",
+            "ko": "태만한, 과실이 있는",
+            "note": "철자가 거의 같지만 negligent는 '(사람이) 주의를 게을리한', negligible은 '(양이) 무시해도 될'"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "ordinance",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "조례, 법령",
+        "example_en": "The city council passed an ordinance limiting building heights near the waterfront.",
+        "example_ko": "시의회는 수변 지역의 건물 높이를 제한하는 조례를 통과시켰다.",
+        "note": "ordin-(순서·질서) 뿌리 — order(질서)·ordinary(순서대로 있는=평범한)와 한 집안이고, '질서를 세우는 규정'이 곧 조례다. 국가 법률(law)이 아니라 지방 정부가 만든 규정을 가리키는 점이 핵심.",
+        "related": [
+          {
+            "word": "ordnance",
+            "ko": "군수품, 대포",
+            "note": "i 한 글자 차이인데 뜻은 무기·탄약 — 조례와 아무 관계가 없다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "panacea",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "만병통치약, 만능 해법",
+        "example_en": "Deregulation is no panacea for the country's housing woes.",
+        "example_ko": "규제 완화가 그 나라 주택 문제의 만능 해법은 아니다.",
+        "note": "pan-(모든) + acea(치유) = 모든 것을 낫게 하는 약. 실제 기사에서는 거의 항상 「A is no panacea」처럼 부정문으로 나와 '그것만으로는 안 된다'는 뜻을 만든다. pan- 계열: pandemic(모든 사람에게 퍼진)·panorama(다 보이는)."
+      }
+    },
+    {
+      "headword": "prohibitive",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "엄두를 못 낼 만큼 비싼; 금지하는",
+        "example_en": "Shipping costs were prohibitive for such a small order.",
+        "example_ko": "그렇게 소량인 주문에는 운송비가 감당하기 어려운 수준이었다.",
+        "note": "prohibit(금지하다)의 형용사이지만 실제로는 '너무 비싸서 사실상 못 하게 만드는'이라는 뜻으로 훨씬 자주 쓴다.",
+        "family": [
+          {
+            "word": "prohibit",
+            "pos": "v.",
+            "ko": "금지하다"
+          },
+          {
+            "word": "prohibition",
+            "pos": "n.",
+            "ko": "금지"
+          }
+        ],
+        "related": [
+          {
+            "word": "prohibited",
+            "ko": "금지된",
+            "note": "prohibitive cost는 '엄두 못 낼 비용', prohibited item은 '금지 물품' — -ive형과 -ed형의 뜻이 다르다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "proliferation",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "급증, 확산",
+        "example_en": "The proliferation of small satellites has made low orbit far more crowded.",
+        "example_ko": "소형 위성의 급증으로 저궤도는 훨씬 더 붐비게 되었다.",
+        "note": "proles(자손)+ferre(낳다) — 자손이 불어나듯 수가 늘어난다는 그림. 시사에서는 nuclear proliferation(핵확산)처럼 '무기 확산'을 가리키는 말로 굳어졌다.",
+        "family": [
+          {
+            "word": "proliferate",
+            "pos": "v.",
+            "ko": "급증하다, 확산되다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "proponent",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "지지자, 제안자",
+        "example_en": "Proponents of the merger insist that it will create jobs rather than eliminate them.",
+        "example_ko": "그 합병의 지지자들은 그것이 일자리를 없애기보다 창출할 것이라고 주장한다.",
+        "note": "pro-(앞으로) + pon(놓다) = '안을 앞에 내놓는 사람' → 지지자. 접두사만 바꾸면 정반대가 되는 opponent(op- = 맞서서 놓다)와 세트로 외운다. 같은 pon/pos 계열: propose, postpone, component.",
+        "related": [
+          {
+            "word": "opponent",
+            "ko": "반대자, 상대",
+            "note": "pro-(앞으로) ↔ op-(맞서서) — 어근은 같고 접두사가 뜻을 뒤집는다"
+          },
+          {
+            "word": "advocate",
+            "ko": "옹호자; 옹호하다",
+            "note": "proponent는 특정 안(案)의 지지자, advocate는 명사·동사 모두 쓰이며 대의나 집단을 대변하는 쪽"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "salvage",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "(파손·침몰된 것을) 회수하다, 인양하다; 수습하다",
+        "example_en": "Engineers managed to salvage most of the equipment from the flooded plant.",
+        "example_ko": "기술자들은 침수된 공장에서 장비 대부분을 회수해 냈다.",
+        "note": "라틴어 salvare(구하다) 계열로 save와 한 뿌리. 물건뿐 아니라 망가진 상황을 '그나마 건져내다'(salvage the deal)에도 그대로 쓴다.",
+        "related": [
+          {
+            "word": "salvation",
+            "ko": "구원",
+            "note": "뿌리는 같지만 salvation은 종교적 '구원', salvage는 물리적으로 건져 내는 쪽으로 뜻이 갈렸다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "sprawl",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "(도시의) 무계획적 확산 (동사로는 '뻗어 나가다')",
+        "example_en": "Decades of suburban sprawl have left the city dependent on cars.",
+        "example_ko": "수십 년에 걸친 교외의 무계획적 확산은 그 도시를 자동차에 의존하게 만들었다.",
+        "note": "팔다리를 아무렇게나 뻗고 앉은 모습이 원뜻 — 도시가 그렇게 계획 없이 퍼져 나간 것이 urban sprawl(도시 스프롤)이다. 중립적 '확장'(expansion)과 달리 부정적 뉘앙스가 붙어 있다는 점이 핵심."
+      }
+    },
+    {
+      "headword": "stewardship",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "(자원·재산을 맡아 하는) 관리 책임",
+        "example_en": "The trust was praised for its careful stewardship of the wetlands.",
+        "example_ko": "그 재단은 습지를 세심하게 관리해 온 점으로 찬사를 받았다.",
+        "note": "steward는 원래 '남의 살림을 맡아 관리하는 사람'이라, stewardship은 소유가 아니라 '맡아서 잘 건사할 책임'을 뜻한다. 환경·공공재 논의의 단골 단어.",
+        "family": [
+          {
+            "word": "steward",
+            "pos": "n.",
+            "ko": "관리인; (배·비행기의) 승무원"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "streamline",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "간소화하다, 효율화하다",
+        "example_en": "The agency streamlined its approval process to cut waiting times in half.",
+        "example_ko": "그 기관은 대기 시간을 절반으로 줄이기 위해 승인 절차를 간소화했다.",
+        "note": "물이나 공기가 매끄럽게 흐르는 '유선형(streamline)'에서 온 비유 — 절차·조직의 군더더기를 깎아 매끄럽게 만든다는 뜻. 토익에서 '절차 개선·인력 감축' 문맥의 완곡어로 자주 나온다."
+      }
+    },
+    {
+      "headword": "subsidize",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "보조금을 지급하다, 보조하다",
+        "example_en": "The city subsidizes rents for households below the median income.",
+        "example_ko": "그 시는 중위 소득 이하 가구의 임대료를 보조한다.",
+        "note": "sub-(밑에) + sid(앉다) = 밑에서 받쳐 준다 → 돈으로 떠받치다. 동사는 -ize, 명사는 subsidy(보조금)로 형태가 달라지니 짝으로 외운다.",
+        "family": [
+          {
+            "word": "subsidy",
+            "pos": "n.",
+            "ko": "보조금"
+          }
+        ],
+        "related": [
+          {
+            "word": "subsidiary",
+            "ko": "자회사; 부수적인",
+            "note": "sub-sid 뿌리는 같지만 '보조금'이 아니라 '밑에 딸린 회사·부차적인 것'"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "tenant",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "세입자, 임차인",
+        "example_en": "Long-term tenants were given six months' notice before the renovation began.",
+        "example_ko": "장기 세입자들은 리모델링이 시작되기 전 6개월의 통지를 받았다.",
+        "note": "ten-(잡다·유지하다) 뿌리 — 남의 집을 '쥐고 있는' 쪽이 세입자다(집주인은 landlord). 같은 뿌리 retain(계속 쥐다=보유하다)·tenacious(끈질긴).",
+        "related": [
+          {
+            "word": "tenet",
+            "ko": "교리, 주요 신념",
+            "note": "tenant와 철자가 한 글자 차이지만 '세입자'와 전혀 무관 — 시험에서 자주 뒤섞인다"
+          },
+          {
+            "word": "landlord",
+            "ko": "집주인, 임대인",
+            "note": "tenant의 상대어 — 임대차 기사에서 항상 짝으로 등장"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "unilateral",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "일방적인, 단독의",
+        "example_en": "The government imposed unilateral sanctions without consulting its allies.",
+        "example_ko": "그 정부는 동맹국과 상의 없이 일방적 제재를 부과했다.",
+        "note": "uni-(하나)+later(옆, 측) — '한쪽만의'. bilateral(양자 간의)·multilateral(다자간의)과 세트로 외워 두면 통상·외교 기사가 한결 쉬워진다.",
+        "family": [
+          {
+            "word": "unilaterally",
+            "pos": "ad.",
+            "ko": "일방적으로, 단독으로"
+          }
+        ],
+        "related": [
+          {
+            "word": "bilateral",
+            "ko": "양자 간의",
+            "note": "bi-(둘) — 두 나라 사이면 bilateral, 셋 이상이면 multilateral"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "windfall",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "횡재, 뜻밖의 큰 이익",
+        "example_en": "The tax change delivered an unexpected windfall to exporters.",
+        "example_ko": "그 세제 변경은 수출업체들에 예상치 못한 횡재를 안겼다.",
+        "note": "바람(wind)에 떨어진(fall) 열매 — 힘들이지 않고 얻은 이익이라는 그림이 그대로 뜻이다. 경제 기사의 windfall tax는 '횡재세'(초과이익에 매기는 세금)."
+      }
+    }
+  ],
+  "review_sentence": {
+    "from_date": "2026-07-25",
+    "en": "For decades, the international climate debate revolved almost exclusively around mitigation—the effort to cut greenhouse gas emissions before the planet warms beyond repair.",
+    "ko": "수십 년 동안 국제 기후 논의는 거의 전적으로 '완화', 즉 지구가 되돌릴 수 없을 만큼 더워지기 전에 온실가스 배출을 줄이려는 노력을 중심으로 돌아갔다.",
+    "structure": "· For decades : 기간을 나타내는 부사구가 문두에 나와 '오랜 관행'임을 강조.\n· revolve around ~ : '~을 중심으로 돌아가다'.\n· mitigation—the effort to ~ : 대시(—) 뒤의 명사구가 앞의 mitigation과 동격(설명).\n· the effort to cut ~ : to부정사의 형용사적 용법으로 effort를 수식.\n· before the planet warms ~ : 시간 부사절에서는 미래의 일이라도 현재시제(warms)를 쓴다."
+  }
+}

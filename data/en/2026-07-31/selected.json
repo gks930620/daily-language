@@ -1,0 +1,329 @@
+{
+  "date": "2026-07-31",
+  "words": [
+    {
+      "headword": "additive",
+      "pos": "n.",
+      "ko": "첨가물",
+      "example_en": "Regulators require manufacturers to list every additive on the package.",
+      "example_ko": "규제 당국은 제조사에 모든 첨가물을 포장에 표기하도록 요구한다.",
+      "collocations": [
+        "food additive",
+        "artificial additives"
+      ],
+      "note": "add(더하다)에 -ive가 붙어 '더해 넣은 것'. 철자가 비슷한 addictive(중독성 있는)와 헷갈리기 쉬운데, additive는 d가 하나뿐이고 뜻도 전혀 다르다.",
+      "related": [
+        {
+          "word": "addictive",
+          "ko": "중독성 있는",
+          "note": "addict(중독자)에서 온 말 — 철자만 비슷할 뿐 어원과 뜻이 완전히 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "palatable",
+      "pos": "a.",
+      "ko": "입에 맞는; 받아들일 만한",
+      "example_en": "The union rejected the first offer, but the revised terms proved more palatable.",
+      "example_ko": "노조는 첫 제안을 거부했지만, 수정된 조건은 더 받아들일 만한 것으로 드러났다.",
+      "collocations": [
+        "palatable to consumers",
+        "a palatable compromise"
+      ],
+      "note": "palate(입천장·미각)에서 나온 말이라 원뜻은 '입에 맞는'이고, 거기서 '(제안·조건이) 받아들일 만한'이라는 비유 용법으로 확장됐다. 시사문에서는 후자로 더 자주 나온다.",
+      "family": [
+        {
+          "word": "palate",
+          "pos": "n.",
+          "ko": "입천장; 미각, 입맛"
+        },
+        {
+          "word": "unpalatable",
+          "pos": "a.",
+          "ko": "맛없는; 받아들이기 힘든"
+        }
+      ]
+    },
+    {
+      "headword": "reformulate",
+      "pos": "v.",
+      "ko": "(배합·표현을) 다시 짜다",
+      "example_en": "The company reformulated its best-selling drink to cut the sugar content by half.",
+      "example_ko": "그 회사는 설탕 함량을 절반으로 줄이려고 가장 잘 팔리는 음료의 배합을 다시 짰다.",
+      "collocations": [
+        "reformulate a product",
+        "reformulate the proposal"
+      ],
+      "note": "re-(다시) + formula(공식·조제법) — 제품에 쓰면 '성분 배합을 바꾸다', 정책·문장에 쓰면 '표현을 다시 다듬다'로 갈린다. 뜻이 두 갈래인 이유가 formula의 두 얼굴에 있다.",
+      "family": [
+        {
+          "word": "formula",
+          "pos": "n.",
+          "ko": "공식; 조제법"
+        },
+        {
+          "word": "formulate",
+          "pos": "v.",
+          "ko": "(계획·이론을) 세우다, 표현하다"
+        },
+        {
+          "word": "formulation",
+          "pos": "n.",
+          "ko": "제조법; 표현 방식"
+        }
+      ]
+    },
+    {
+      "headword": "levy",
+      "pos": "n./v.",
+      "ko": "부과금; (세금을) 부과하다",
+      "example_en": "The government plans to levy an additional tax on imported luxury goods.",
+      "example_ko": "정부는 수입 사치품에 추가 세금을 부과할 계획이다.",
+      "collocations": [
+        "impose a levy on",
+        "a levy on imports"
+      ],
+      "note": "프랑스어 lever(들어 올리다) 계열로, 세금을 '거둬 올린다'는 그림이다. tax가 세금 일반을 가리키는 반면 levy는 특정 목적으로 매기는 부과금·부과 행위를 가리켜 규제 기사에 자주 나온다.",
+      "related": [
+        {
+          "word": "impose",
+          "ko": "부과하다",
+          "note": "levy와 짝으로 붙는 동사 — impose a levy on ~ 형태로 통째로 외워 두면 좋다"
+        }
+      ]
+    },
+    {
+      "headword": "prevalence",
+      "pos": "n.",
+      "ko": "만연; (질병의) 유병률",
+      "example_en": "The report documents a sharp rise in the prevalence of diabetes among younger workers.",
+      "example_ko": "그 보고서는 젊은 노동자들 사이에서 당뇨병 유병률이 급격히 상승했음을 기록한다.",
+      "collocations": [
+        "the prevalence of",
+        "a high prevalence rate"
+      ],
+      "note": "pre-(앞서) + val(힘, cf. value·valid)로 '남보다 힘이 세다' → '널리 퍼져 우세하다'. 보건 기사에서 the prevalence of는 '유병률'로 옮기는 것이 자연스럽다.",
+      "family": [
+        {
+          "word": "prevail",
+          "pos": "v.",
+          "ko": "널리 퍼지다; 우세하다, 이기다"
+        },
+        {
+          "word": "prevalent",
+          "pos": "a.",
+          "ko": "널리 퍼진, 만연한"
+        }
+      ]
+    },
+    {
+      "headword": "confound",
+      "pos": "v.",
+      "ko": "혼란시키다; (변수가) 교란하다",
+      "example_en": "Differences in income confound any simple comparison between the two groups.",
+      "example_ko": "소득 차이가 두 집단 간의 단순 비교를 교란한다.",
+      "collocations": [
+        "confound expectations",
+        "a confounding variable"
+      ],
+      "note": "con-(함께) + found(fund-, 붓다) → '뒤섞어 붓다'. 일상 뜻은 confuse의 격식체지만, 연구·통계 문맥에서는 '제3의 변수가 결과를 왜곡한다'는 전문 용법(confounding variable = 교란변수)으로 쓰인다.",
+      "related": [
+        {
+          "word": "confuse",
+          "ko": "혼동시키다",
+          "note": "confound가 더 격식체이며, '기대를 뒤엎다(confound expectations)'라는 용법은 confuse에 없다"
+        }
+      ]
+    },
+    {
+      "headword": "culprit",
+      "pos": "n.",
+      "ko": "원인, 주범; 범인",
+      "example_en": "Investigators concluded that outdated software was the main culprit behind the failure.",
+      "example_ko": "조사관들은 구식 소프트웨어가 그 장애의 주범이라고 결론지었다.",
+      "collocations": [
+        "the main culprit",
+        "identify the culprit"
+      ],
+      "note": "원래 법정에서 피고인을 부르던 말이지만, 시사문에서는 사람이 아니라 '문제를 일으킨 원인'을 가리키는 비유로 훨씬 자주 쓴다 — The main culprit is ~ 형태를 통째로 익혀 두면 좋다.",
+      "related": [
+        {
+          "word": "suspect",
+          "ko": "용의자",
+          "note": "suspect는 아직 의심 단계, culprit은 원인·범인으로 지목이 끝난 쪽"
+        }
+      ]
+    },
+    {
+      "headword": "paternalistic",
+      "pos": "a.",
+      "ko": "온정주의적인, 간섭적인",
+      "example_en": "Opponents dismissed the ban as a paternalistic attempt to dictate personal choices.",
+      "example_ko": "반대자들은 그 금지 조치를 개인의 선택을 좌우하려는 온정주의적 시도라고 일축했다.",
+      "collocations": [
+        "a paternalistic approach",
+        "paternalistic regulation"
+      ],
+      "note": "라틴어 pater(아버지, cf. paternal·patron)에서 왔다 — '아버지가 자식 챙기듯' 당사자를 대신해 결정해 준다는 뜻이라 규제 논쟁에서는 거의 언제나 비판하는 말로 쓰인다.",
+      "family": [
+        {
+          "word": "paternal",
+          "pos": "a.",
+          "ko": "아버지의, 아버지 같은"
+        },
+        {
+          "word": "paternalism",
+          "pos": "n.",
+          "ko": "온정주의, 간섭주의"
+        }
+      ]
+    },
+    {
+      "headword": "regressive",
+      "pos": "a.",
+      "ko": "역진적인; 퇴행적인",
+      "example_en": "Economists warn that a flat sales tax is deeply regressive.",
+      "example_ko": "경제학자들은 단일 세율의 판매세가 매우 역진적이라고 경고한다.",
+      "collocations": [
+        "a regressive tax",
+        "regressive policies"
+      ],
+      "note": "re-(뒤로) + gress(가다, cf. progress·congress) → '뒤로 감'. 세금 문맥의 regressive tax는 저소득층이 소득 대비 더 큰 부담을 지는 세금으로, progressive tax(누진세)의 정반대다.",
+      "related": [
+        {
+          "word": "progressive",
+          "ko": "누진적인; 진보적인",
+          "note": "regressive의 반대 — progressive tax는 소득이 높을수록 세율이 올라가는 누진세"
+        }
+      ]
+    },
+    {
+      "headword": "staple",
+      "pos": "n./a.",
+      "ko": "주식(主食), 주요 산물; 주된",
+      "example_en": "Wheat remains a staple in the region, so any price shock is felt immediately.",
+      "example_ko": "밀은 그 지역의 주식으로 남아 있어서, 어떤 가격 충격이든 즉시 체감된다.",
+      "collocations": [
+        "a staple food",
+        "a staple of the diet"
+      ],
+      "note": "스테이플러의 '철심'과 형태만 같고 뿌리가 다른 동음이의어다. 시사·경제문에서는 rice is a staple처럼 '없으면 안 되는 기본 식량·필수품'을 뜻하니 철심 쪽 뜻으로 읽지 않도록 주의.",
+      "family": [
+        {
+          "word": "staple food",
+          "ko": "주식(主食)"
+        }
+      ]
+    },
+    {
+      "headword": "inconclusive",
+      "pos": "a.",
+      "ko": "결정적이지 않은",
+      "example_en": "The trial results were inconclusive, so the agency postponed its decision.",
+      "example_ko": "임상 시험 결과가 결정적이지 않아서, 당국은 결정을 미뤘다.",
+      "collocations": [
+        "inconclusive evidence",
+        "inconclusive results"
+      ],
+      "note": "conclude(결론짓다) → conclusive(결정적인)에 부정 접두사 in-이 붙은 말. conclusive evidence(결정적 증거) ↔ inconclusive results(결론을 낼 수 없는 결과)를 쌍으로 외우면 논설문 독해에서 바로 써먹을 수 있다.",
+      "family": [
+        {
+          "word": "conclude",
+          "pos": "v.",
+          "ko": "결론짓다; 끝내다"
+        },
+        {
+          "word": "conclusive",
+          "pos": "a.",
+          "ko": "결정적인, 확정적인"
+        },
+        {
+          "word": "conclusion",
+          "pos": "n.",
+          "ko": "결론"
+        }
+      ]
+    },
+    {
+      "headword": "backlash",
+      "pos": "n.",
+      "ko": "반발, 역풍",
+      "example_en": "The airline faced a public backlash after quietly raising its baggage fees.",
+      "example_ko": "그 항공사는 수하물 요금을 조용히 인상한 뒤 대중의 거센 반발에 직면했다.",
+      "collocations": [
+        "a backlash against",
+        "provoke a backlash"
+      ],
+      "note": "back(뒤로) + lash(후려치다) — 휘두른 채찍이 되돌아와 때리는 그림이다. 전치사는 against로 굳어져 a backlash against the policy 형태로 쓴다.",
+      "related": [
+        {
+          "word": "resentment",
+          "ko": "분개, 원한",
+          "note": "resentment는 속에 쌓인 감정, backlash는 겉으로 터져 나온 집단적 반발 행동"
+        }
+      ]
+    },
+    {
+      "headword": "ubiquitous",
+      "pos": "a.",
+      "ko": "어디에나 있는, 도처에 존재하는",
+      "example_en": "Delivery apps have become ubiquitous in cities of every size.",
+      "example_ko": "배달 앱은 규모를 막론하고 모든 도시에서 어디서나 볼 수 있게 되었다.",
+      "collocations": [
+        "become ubiquitous",
+        "a ubiquitous presence"
+      ],
+      "note": "라틴어 ubique(어디에나)에서 온 말로, 원래 '신은 어디에나 계시다'는 신학 용어였다. common(흔한)보다 훨씬 강해 '피할 수 없이 도처에 깔려 있다'는 뉘앙스를 담는다.",
+      "family": [
+        {
+          "word": "ubiquity",
+          "pos": "n.",
+          "ko": "어디에나 있음, 편재"
+        }
+      ]
+    },
+    {
+      "headword": "overhaul",
+      "pos": "v./n.",
+      "ko": "전면 개편하다; 전면 개편",
+      "example_en": "The new director promised a complete overhaul of the hiring process.",
+      "example_ko": "새 이사는 채용 절차의 전면 개편을 약속했다.",
+      "collocations": [
+        "overhaul the system",
+        "a complete overhaul"
+      ],
+      "note": "haul(끌다) + over — 배를 뭍으로 끌어올려 밑바닥까지 손보던 데서 '정비'가 나왔고, 거기서 '제도의 전면 개편'으로 넓어졌다. reform보다 '뜯어고친다'는 물리적·전면적 느낌이 강하다.",
+      "related": [
+        {
+          "word": "reform",
+          "ko": "개혁하다",
+          "note": "reform은 방향을 바로잡는 개혁, overhaul은 구조를 통째로 뜯어고치는 정비"
+        }
+      ]
+    },
+    {
+      "headword": "outweigh",
+      "pos": "v.",
+      "ko": "~보다 더 크다, 능가하다",
+      "example_en": "The long-term savings outweigh the initial cost of the equipment.",
+      "example_ko": "장기적인 절감액이 장비의 초기 비용보다 크다.",
+      "collocations": [
+        "the benefits outweigh the risks",
+        "far outweigh"
+      ],
+      "note": "동사 앞의 out-은 '~보다 더 잘/더 많이'를 뜻한다(outnumber 수적으로 앞서다, outperform 능가하다, outlive 더 오래 살다). 찬반을 저울질하는 논설문에서 결론을 짓는 핵심 동사다.",
+      "family": [
+        {
+          "word": "outnumber",
+          "pos": "v.",
+          "ko": "수적으로 앞서다"
+        },
+        {
+          "word": "outperform",
+          "pos": "v.",
+          "ko": "(성과에서) 능가하다"
+        }
+      ]
+    }
+  ]
+}

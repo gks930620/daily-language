@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-07-31",
+  "passage_note": "보건·경제 — 초가공식품 규제와 설탕세를 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "Ultra-processed foods, engineered in laboratories to be as palatable as possible, now account for more than half of the calories consumed in many wealthy countries.",
+      "ko": "가능한 한 입에 맞도록 실험실에서 설계된 초가공식품이 이제 많은 부유한 국가에서 섭취되는 열량의 절반 이상을 차지한다.",
+      "structure": "· engineered in laboratories ~ possible : 과거분사구가 콤마 사이에 삽입되어 주어 Ultra-processed foods를 뒤에서 수식(= which are engineered ~).\n· as + 형용사 + as possible = '가능한 한 ~하게'.\n· account for = (비율을) 차지하다. 여기서 문장의 본동사는 account이며, 삽입구에 속지 말아야 한다.\n· consumed in many wealthy countries : 과거분사구가 the calories를 수식(= which are consumed ~).",
+      "vocab_notes": [
+        { "word": "ultra-processed", "ko": "초가공된(공정을 많이 거친)" },
+        { "word": "engineer", "ko": "(정교하게) 설계하다, 조작해 만들다" },
+        { "word": "laboratory", "ko": "실험실" },
+        { "word": "palatable", "ko": "입에 맞는, 맛이 좋은" },
+        { "word": "as ~ as possible", "ko": "가능한 한 ~하게" },
+        { "word": "account for", "ko": "(비율을) 차지하다" },
+        { "word": "more than half of", "ko": "~의 절반 이상" },
+        { "word": "calorie", "ko": "열량, 칼로리" },
+        { "word": "consume", "ko": "섭취하다, 소비하다" },
+        { "word": "wealthy", "ko": "부유한" }
+      ]
+    },
+    {
+      "en": "Public health officials attribute much of the rising prevalence of obesity and metabolic disease to these products, though the industry insists that the evidence remains inconclusive.",
+      "ko": "공중보건 당국자들은 비만과 대사 질환의 증가하는 유병률 상당 부분을 이 제품들의 탓으로 돌리지만, 업계는 그 증거가 여전히 결정적이지 않다고 주장한다.",
+      "structure": "· attribute A to B = A를 B의 탓으로 돌리다. 여기서 A는 much of the rising prevalence ~ disease, B는 these products로, A가 길어 to가 멀리 떨어져 있다.\n· though ~ : 양보의 부사절('~이지만').\n· remains inconclusive : remain + 형용사 = 2형식('계속 ~인 상태다'). 진행형이나 수동태로 착각하지 않는다.",
+      "vocab_notes": [
+        { "word": "public health", "ko": "공중보건" },
+        { "word": "official", "ko": "당국자, 공무원" },
+        { "word": "attribute A to B", "ko": "A를 B의 탓으로 돌리다" },
+        { "word": "rising", "ko": "증가하는" },
+        { "word": "prevalence", "ko": "유병률, 널리 퍼짐" },
+        { "word": "obesity", "ko": "비만" },
+        { "word": "metabolic", "ko": "대사의, 신진대사의" },
+        { "word": "industry", "ko": "업계, 산업" },
+        { "word": "insist", "ko": "주장하다, 우기다" },
+        { "word": "evidence", "ko": "증거" },
+        { "word": "remain", "ko": "여전히 ~인 상태다" },
+        { "word": "inconclusive", "ko": "결정적이지 않은" }
+      ]
+    },
+    {
+      "en": "Critics counter that such appeals to scientific uncertainty are a familiar delaying tactic, one perfected by tobacco companies decades ago, and that waiting for definitive proof would be an onerous standard no regulator could ever meet.",
+      "ko": "비판자들은 과학적 불확실성에 기대는 그런 호소가 수십 년 전 담배 회사들이 완성해 놓은 익숙한 지연 전술이며, 결정적인 증명을 기다리는 것은 어떤 규제 당국도 결코 충족할 수 없는 부담스러운 기준이 될 것이라고 반박한다.",
+      "structure": "· counter that ~, and that ~ : that절 두 개가 counter의 목적어로 병렬 연결되어 있다.\n· one perfected by tobacco companies : one = a tactic을 받는 부정대명사이고, 여기에 과거분사구가 붙어 앞의 a familiar delaying tactic을 동격으로 부연한다.\n· waiting for definitive proof : 동명사 주어여서 단수 취급(would be).\n· an onerous standard (that) no regulator could ever meet : 목적격 관계대명사 that/which가 생략된 관계절이 standard를 수식.",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판자, 비평가" },
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "appeal to", "ko": "~에 기대는 호소, ~에 호소하기" },
+        { "word": "uncertainty", "ko": "불확실성" },
+        { "word": "familiar", "ko": "익숙한, 낯익은" },
+        { "word": "delaying tactic", "ko": "지연 전술" },
+        { "word": "perfect", "ko": "완성하다, 완벽하게 다듬다(동사)" },
+        { "word": "tobacco", "ko": "담배" },
+        { "word": "decades ago", "ko": "수십 년 전에" },
+        { "word": "definitive", "ko": "결정적인, 확정적인" },
+        { "word": "proof", "ko": "증명, 입증" },
+        { "word": "onerous", "ko": "부담스러운, 성가신" },
+        { "word": "standard", "ko": "기준" },
+        { "word": "regulator", "ko": "규제 당국(자)" },
+        { "word": "meet", "ko": "(기준을) 충족하다" }
+      ]
+    },
+    {
+      "en": "Governments that have imposed a levy on sugary drinks report that manufacturers quietly reformulated their recipes rather than absorb the cost, a shift that reached consumers without requiring them to change their habits.",
+      "ko": "가당 음료에 부과금을 매긴 정부들은 제조사들이 비용을 떠안기보다 조용히 배합을 바꿨다고 보고하는데, 이는 소비자들에게 습관을 바꾸라고 요구하지 않고도 그들에게 가닿은 변화였다.",
+      "structure": "· that have imposed a levy on sugary drinks : 주격 관계대명사절이 주어 Governments를 수식하며, 문장의 본동사는 report다.\n· rather than absorb : rather than 뒤에 동사원형이 와서 앞의 reformulated와 병렬을 이룬다.\n· a shift that reached ~ : 앞 절의 내용 전체를 받아 부연하는 동격 명사구에 관계대명사절이 붙은 형태.\n· require A to V = A에게 ~하도록 요구하다. without requiring는 전치사 without + 동명사.",
+      "vocab_notes": [
+        { "word": "impose", "ko": "부과하다, 시행하다" },
+        { "word": "levy", "ko": "부과금, 세금" },
+        { "word": "sugary", "ko": "설탕이 든, 단" },
+        { "word": "manufacturer", "ko": "제조사" },
+        { "word": "quietly", "ko": "조용히, 소리 없이" },
+        { "word": "reformulate", "ko": "배합을 다시 짜다, 다시 만들다" },
+        { "word": "recipe", "ko": "조리법, 배합" },
+        { "word": "rather than", "ko": "~하기보다는" },
+        { "word": "absorb the cost", "ko": "비용을 떠안다" },
+        { "word": "shift", "ko": "변화, 전환" },
+        { "word": "consumer", "ko": "소비자" },
+        { "word": "require", "ko": "요구하다" }
+      ]
+    },
+    {
+      "en": "Yet the backlash has been fierce: opponents denounce such measures as paternalistic and regressive, arguing that flat taxes on cheap staples fall hardest on the households least able to pay.",
+      "ko": "그러나 반발은 거셌다. 반대자들은 그런 조치를 온정주의적이고 역진적이라고 비난하면서, 값싼 주식(主食)에 매기는 단일세가 지불 능력이 가장 낮은 가구에 가장 큰 부담을 지운다고 주장한다.",
+      "structure": "· denounce A as B = A를 B라고 비난하다. as 뒤에 형용사 두 개(paternalistic and regressive)가 병렬로 왔다.\n· arguing that ~ : 분사구문(= and they argue that ~)으로, 주절의 주어 opponents가 그대로 의미상 주어다.\n· the households (that are) least able to pay : 관계대명사 + be동사가 생략되어 형용사구가 households를 뒤에서 수식.\n· fall hardest on ~ : '~에 가장 무겁게 떨어지다', 즉 부담이 가장 크다는 뜻의 관용 표현.",
+      "vocab_notes": [
+        { "word": "backlash", "ko": "반발, 역풍" },
+        { "word": "fierce", "ko": "격렬한, 거센" },
+        { "word": "opponent", "ko": "반대자, 상대" },
+        { "word": "denounce A as B", "ko": "A를 B라고 비난하다" },
+        { "word": "measure", "ko": "조치, 대책" },
+        { "word": "paternalistic", "ko": "온정주의적인, 간섭적인" },
+        { "word": "regressive", "ko": "역진적인, 퇴행적인" },
+        { "word": "flat tax", "ko": "단일세(소득에 무관한 동일 세율)" },
+        { "word": "staple", "ko": "주식(主食), 필수품" },
+        { "word": "fall on", "ko": "(부담이) ~에게 지워지다" },
+        { "word": "hardest", "ko": "가장 심하게" },
+        { "word": "household", "ko": "가구, 세대" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "additive",
+      "pos": "n.",
+      "ko": "첨가물",
+      "example_en": "Regulators require manufacturers to list every additive on the package.",
+      "example_ko": "규제 당국은 제조사에 모든 첨가물을 포장에 표기하도록 요구한다.",
+      "collocations": ["food additive", "artificial additives"],
+      "note": "add(더하다)에 -ive가 붙어 '더해 넣은 것'. 철자가 비슷한 addictive(중독성 있는)와 헷갈리기 쉬운데, additive는 d가 하나뿐이고 뜻도 전혀 다르다.",
+      "related": [
+        { "word": "addictive", "ko": "중독성 있는", "note": "addict(중독자)에서 온 말 — 철자만 비슷할 뿐 어원과 뜻이 완전히 다르다" }
+      ]
+    },
+    {
+      "headword": "palatable",
+      "pos": "a.",
+      "ko": "입에 맞는; 받아들일 만한",
+      "example_en": "The union rejected the first offer, but the revised terms proved more palatable.",
+      "example_ko": "노조는 첫 제안을 거부했지만, 수정된 조건은 더 받아들일 만한 것으로 드러났다.",
+      "collocations": ["palatable to consumers", "a palatable compromise"],
+      "note": "palate(입천장·미각)에서 나온 말이라 원뜻은 '입에 맞는'이고, 거기서 '(제안·조건이) 받아들일 만한'이라는 비유 용법으로 확장됐다. 시사문에서는 후자로 더 자주 나온다.",
+      "family": [
+        { "word": "palate", "pos": "n.", "ko": "입천장; 미각, 입맛" },
+        { "word": "unpalatable", "pos": "a.", "ko": "맛없는; 받아들이기 힘든" }
+      ]
+    },
+    {
+      "headword": "reformulate",
+      "pos": "v.",
+      "ko": "(배합·표현을) 다시 짜다",
+      "example_en": "The company reformulated its best-selling drink to cut the sugar content by half.",
+      "example_ko": "그 회사는 설탕 함량을 절반으로 줄이려고 가장 잘 팔리는 음료의 배합을 다시 짰다.",
+      "collocations": ["reformulate a product", "reformulate the proposal"],
+      "note": "re-(다시) + formula(공식·조제법) — 제품에 쓰면 '성분 배합을 바꾸다', 정책·문장에 쓰면 '표현을 다시 다듬다'로 갈린다. 뜻이 두 갈래인 이유가 formula의 두 얼굴에 있다.",
+      "family": [
+        { "word": "formula", "pos": "n.", "ko": "공식; 조제법" },
+        { "word": "formulate", "pos": "v.", "ko": "(계획·이론을) 세우다, 표현하다" },
+        { "word": "formulation", "pos": "n.", "ko": "제조법; 표현 방식" }
+      ]
+    },
+    {
+      "headword": "levy",
+      "pos": "n./v.",
+      "ko": "부과금; (세금을) 부과하다",
+      "example_en": "The government plans to levy an additional tax on imported luxury goods.",
+      "example_ko": "정부는 수입 사치품에 추가 세금을 부과할 계획이다.",
+      "collocations": ["impose a levy on", "a levy on imports"],
+      "note": "프랑스어 lever(들어 올리다) 계열로, 세금을 '거둬 올린다'는 그림이다. tax가 세금 일반을 가리키는 반면 levy는 특정 목적으로 매기는 부과금·부과 행위를 가리켜 규제 기사에 자주 나온다.",
+      "related": [
+        { "word": "impose", "ko": "부과하다", "note": "levy와 짝으로 붙는 동사 — impose a levy on ~ 형태로 통째로 외워 두면 좋다" }
+      ]
+    },
+    {
+      "headword": "prevalence",
+      "pos": "n.",
+      "ko": "만연; (질병의) 유병률",
+      "example_en": "The report documents a sharp rise in the prevalence of diabetes among younger workers.",
+      "example_ko": "그 보고서는 젊은 노동자들 사이에서 당뇨병 유병률이 급격히 상승했음을 기록한다.",
+      "collocations": ["the prevalence of", "a high prevalence rate"],
+      "note": "pre-(앞서) + val(힘, cf. value·valid)로 '남보다 힘이 세다' → '널리 퍼져 우세하다'. 보건 기사에서 the prevalence of는 '유병률'로 옮기는 것이 자연스럽다.",
+      "family": [
+        { "word": "prevail", "pos": "v.", "ko": "널리 퍼지다; 우세하다, 이기다" },
+        { "word": "prevalent", "pos": "a.", "ko": "널리 퍼진, 만연한" }
+      ]
+    },
+    {
+      "headword": "confound",
+      "pos": "v.",
+      "ko": "혼란시키다; (변수가) 교란하다",
+      "example_en": "Differences in income confound any simple comparison between the two groups.",
+      "example_ko": "소득 차이가 두 집단 간의 단순 비교를 교란한다.",
+      "collocations": ["confound expectations", "a confounding variable"],
+      "note": "con-(함께) + found(fund-, 붓다) → '뒤섞어 붓다'. 일상 뜻은 confuse의 격식체지만, 연구·통계 문맥에서는 '제3의 변수가 결과를 왜곡한다'는 전문 용법(confounding variable = 교란변수)으로 쓰인다.",
+      "related": [
+        { "word": "confuse", "ko": "혼동시키다", "note": "confound가 더 격식체이며, '기대를 뒤엎다(confound expectations)'라는 용법은 confuse에 없다" }
+      ]
+    },
+    {
+      "headword": "culprit",
+      "pos": "n.",
+      "ko": "원인, 주범; 범인",
+      "example_en": "Investigators concluded that outdated software was the main culprit behind the failure.",
+      "example_ko": "조사관들은 구식 소프트웨어가 그 장애의 주범이라고 결론지었다.",
+      "collocations": ["the main culprit", "identify the culprit"],
+      "note": "원래 법정에서 피고인을 부르던 말이지만, 시사문에서는 사람이 아니라 '문제를 일으킨 원인'을 가리키는 비유로 훨씬 자주 쓴다 — The main culprit is ~ 형태를 통째로 익혀 두면 좋다.",
+      "related": [
+        { "word": "suspect", "ko": "용의자", "note": "suspect는 아직 의심 단계, culprit은 원인·범인으로 지목이 끝난 쪽" }
+      ]
+    },
+    {
+      "headword": "paternalistic",
+      "pos": "a.",
+      "ko": "온정주의적인, 간섭적인",
+      "example_en": "Opponents dismissed the ban as a paternalistic attempt to dictate personal choices.",
+      "example_ko": "반대자들은 그 금지 조치를 개인의 선택을 좌우하려는 온정주의적 시도라고 일축했다.",
+      "collocations": ["a paternalistic approach", "paternalistic regulation"],
+      "note": "라틴어 pater(아버지, cf. paternal·patron)에서 왔다 — '아버지가 자식 챙기듯' 당사자를 대신해 결정해 준다는 뜻이라 규제 논쟁에서는 거의 언제나 비판하는 말로 쓰인다.",
+      "family": [
+        { "word": "paternal", "pos": "a.", "ko": "아버지의, 아버지 같은" },
+        { "word": "paternalism", "pos": "n.", "ko": "온정주의, 간섭주의" }
+      ]
+    },
+    {
+      "headword": "regressive",
+      "pos": "a.",
+      "ko": "역진적인; 퇴행적인",
+      "example_en": "Economists warn that a flat sales tax is deeply regressive.",
+      "example_ko": "경제학자들은 단일 세율의 판매세가 매우 역진적이라고 경고한다.",
+      "collocations": ["a regressive tax", "regressive policies"],
+      "note": "re-(뒤로) + gress(가다, cf. progress·congress) → '뒤로 감'. 세금 문맥의 regressive tax는 저소득층이 소득 대비 더 큰 부담을 지는 세금으로, progressive tax(누진세)의 정반대다.",
+      "related": [
+        { "word": "progressive", "ko": "누진적인; 진보적인", "note": "regressive의 반대 — progressive tax는 소득이 높을수록 세율이 올라가는 누진세" }
+      ]
+    },
+    {
+      "headword": "staple",
+      "pos": "n./a.",
+      "ko": "주식(主食), 주요 산물; 주된",
+      "example_en": "Wheat remains a staple in the region, so any price shock is felt immediately.",
+      "example_ko": "밀은 그 지역의 주식으로 남아 있어서, 어떤 가격 충격이든 즉시 체감된다.",
+      "collocations": ["a staple food", "a staple of the diet"],
+      "note": "스테이플러의 '철심'과 형태만 같고 뿌리가 다른 동음이의어다. 시사·경제문에서는 rice is a staple처럼 '없으면 안 되는 기본 식량·필수품'을 뜻하니 철심 쪽 뜻으로 읽지 않도록 주의.",
+      "family": [
+        { "word": "staple food", "ko": "주식(主食)" }
+      ]
+    },
+    {
+      "headword": "inconclusive",
+      "pos": "a.",
+      "ko": "결정적이지 않은",
+      "example_en": "The trial results were inconclusive, so the agency postponed its decision.",
+      "example_ko": "임상 시험 결과가 결정적이지 않아서, 당국은 결정을 미뤘다.",
+      "collocations": ["inconclusive evidence", "inconclusive results"],
+      "note": "conclude(결론짓다) → conclusive(결정적인)에 부정 접두사 in-이 붙은 말. conclusive evidence(결정적 증거) ↔ inconclusive results(결론을 낼 수 없는 결과)를 쌍으로 외우면 논설문 독해에서 바로 써먹을 수 있다.",
+      "family": [
+        { "word": "conclude", "pos": "v.", "ko": "결론짓다; 끝내다" },
+        { "word": "conclusive", "pos": "a.", "ko": "결정적인, 확정적인" },
+        { "word": "conclusion", "pos": "n.", "ko": "결론" }
+      ]
+    },
+    {
+      "headword": "backlash",
+      "pos": "n.",
+      "ko": "반발, 역풍",
+      "example_en": "The airline faced a public backlash after quietly raising its baggage fees.",
+      "example_ko": "그 항공사는 수하물 요금을 조용히 인상한 뒤 대중의 거센 반발에 직면했다.",
+      "collocations": ["a backlash against", "provoke a backlash"],
+      "note": "back(뒤로) + lash(후려치다) — 휘두른 채찍이 되돌아와 때리는 그림이다. 전치사는 against로 굳어져 a backlash against the policy 형태로 쓴다.",
+      "related": [
+        { "word": "resentment", "ko": "분개, 원한", "note": "resentment는 속에 쌓인 감정, backlash는 겉으로 터져 나온 집단적 반발 행동" }
+      ]
+    },
+    {
+      "headword": "ubiquitous",
+      "pos": "a.",
+      "ko": "어디에나 있는, 도처에 존재하는",
+      "example_en": "Delivery apps have become ubiquitous in cities of every size.",
+      "example_ko": "배달 앱은 규모를 막론하고 모든 도시에서 어디서나 볼 수 있게 되었다.",
+      "collocations": ["become ubiquitous", "a ubiquitous presence"],
+      "note": "라틴어 ubique(어디에나)에서 온 말로, 원래 '신은 어디에나 계시다'는 신학 용어였다. common(흔한)보다 훨씬 강해 '피할 수 없이 도처에 깔려 있다'는 뉘앙스를 담는다.",
+      "family": [
+        { "word": "ubiquity", "pos": "n.", "ko": "어디에나 있음, 편재" }
+      ]
+    },
+    {
+      "headword": "overhaul",
+      "pos": "v./n.",
+      "ko": "전면 개편하다; 전면 개편",
+      "example_en": "The new director promised a complete overhaul of the hiring process.",
+      "example_ko": "새 이사는 채용 절차의 전면 개편을 약속했다.",
+      "collocations": ["overhaul the system", "a complete overhaul"],
+      "note": "haul(끌다) + over — 배를 뭍으로 끌어올려 밑바닥까지 손보던 데서 '정비'가 나왔고, 거기서 '제도의 전면 개편'으로 넓어졌다. reform보다 '뜯어고친다'는 물리적·전면적 느낌이 강하다.",
+      "related": [
+        { "word": "reform", "ko": "개혁하다", "note": "reform은 방향을 바로잡는 개혁, overhaul은 구조를 통째로 뜯어고치는 정비" }
+      ]
+    },
+    {
+      "headword": "outweigh",
+      "pos": "v.",
+      "ko": "~보다 더 크다, 능가하다",
+      "example_en": "The long-term savings outweigh the initial cost of the equipment.",
+      "example_ko": "장기적인 절감액이 장비의 초기 비용보다 크다.",
+      "collocations": ["the benefits outweigh the risks", "far outweigh"],
+      "note": "동사 앞의 out-은 '~보다 더 잘/더 많이'를 뜻한다(outnumber 수적으로 앞서다, outperform 능가하다, outlive 더 오래 살다). 찬반을 저울질하는 논설문에서 결론을 짓는 핵심 동사다.",
+      "family": [
+        { "word": "outnumber", "pos": "v.", "ko": "수적으로 앞서다" },
+        { "word": "outperform", "pos": "v.", "ko": "(성과에서) 능가하다" }
+      ]
+    },
+    {
+      "headword": "contingent",
+      "pos": "a./n.",
+      "ko": "~에 달린, 조건부의; 파견단",
+      "example_en": "The bonus is contingent on meeting the quarterly sales target.",
+      "example_ko": "상여금은 분기 판매 목표 달성 여부에 달려 있다.",
+      "collocations": ["be contingent on", "contingent liabilities"],
+      "note": "핵심은 be contingent on(~에 달려 있다)이라는 형태 하나 — depend on의 격식 표현이다. 명사형 contingency는 '만일의 사태'로 뜻이 옮겨 가 contingency plan(비상 계획)으로 자주 쓰인다.",
+      "family": [
+        { "word": "contingency", "pos": "n.", "ko": "만일의 사태, 우발 상황" }
+      ]
+    },
+    {
+      "headword": "attribute",
+      "pos": "v./n.",
+      "ko": "~의 탓·덕으로 돌리다; 속성",
+      "example_en": "Analysts attribute the sudden drop in sales to the delayed launch.",
+      "example_ko": "분석가들은 갑작스러운 매출 하락을 출시 지연 탓으로 돌린다.",
+      "collocations": ["attribute A to B", "a key attribute"],
+      "note": "품사가 강세로 갈린다 — 동사는 뒤(어트리'뷰트), 명사 '속성'은 앞('애트리뷰트)에 강세. 형태가 비슷한 contribute to(~에 기여하다)와 헷갈리지 말 것: attribute는 반드시 목적어 + to가 온다.",
+      "family": [
+        { "word": "attribution", "pos": "n.", "ko": "귀속, 원인을 돌림" }
+      ],
+      "related": [
+        { "word": "contribute", "ko": "기여하다", "note": "contribute to A(A에 기여하다)는 목적어 없이 to가 바로 오고, attribute A to B는 목적어가 반드시 있다" }
+      ]
+    },
+    {
+      "headword": "onerous",
+      "pos": "a.",
+      "ko": "부담스러운, 성가신",
+      "example_en": "Small firms complained that the reporting requirements were too onerous.",
+      "example_ko": "소기업들은 보고 의무가 너무 부담스럽다고 불평했다.",
+      "collocations": ["onerous requirements", "an onerous burden"],
+      "note": "onus(짐·책임, cf. the onus is on ~ = 책임은 ~에게 있다)에서 나와 '짐이 무거운'이라는 뜻이다. burdensome의 격식체로 계약·규제 문맥에 잘 붙는다.",
+      "family": [
+        { "word": "onus", "pos": "n.", "ko": "책임, 부담" }
+      ]
+    }
+  ]
+}
