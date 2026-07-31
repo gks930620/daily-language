@@ -2712,9 +2712,9 @@
     },
     "custodian": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2723,6 +2723,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2748,9 +2752,9 @@
     },
     "antiquity": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2759,6 +2763,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2784,9 +2792,9 @@
     },
     "loot": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2795,6 +2803,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2815,9 +2827,9 @@
     },
     "restitution": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2826,6 +2838,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2846,9 +2862,9 @@
     },
     "provenance": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2857,6 +2873,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2870,9 +2890,9 @@
     },
     "heritage": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2881,6 +2901,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2906,9 +2930,9 @@
     },
     "concession": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2917,6 +2941,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2937,9 +2965,9 @@
     },
     "legitimacy": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2948,6 +2976,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -2973,9 +3005,9 @@
     },
     "erode": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -2984,6 +3016,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -3004,9 +3040,9 @@
     },
     "tangible": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -3015,6 +3051,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -3035,9 +3075,9 @@
     },
     "disinterested": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -3046,6 +3086,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -3066,9 +3110,9 @@
     },
     "overstate": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -3077,6 +3121,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -3097,9 +3145,9 @@
     },
     "arbitrary": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -3108,6 +3156,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -3133,9 +3185,9 @@
     },
     "inherent": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -3144,6 +3196,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -3164,9 +3220,9 @@
     },
     "deliberate": {
       "added_on": "2026-07-28",
-      "box": 2,
-      "next_due": "2026-08-01",
-      "last_seen": "2026-07-29",
+      "box": 3,
+      "next_due": "2026-08-08",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
@@ -3175,6 +3231,10 @@
         },
         {
           "date": "2026-07-29",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-01",
           "event": "shown"
         }
       ],
@@ -4165,14 +4225,18 @@
     },
     "additive": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4192,14 +4256,18 @@
     },
     "palatable": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4224,14 +4292,18 @@
     },
     "reformulate": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4261,14 +4333,18 @@
     },
     "levy": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4288,14 +4364,18 @@
     },
     "prevalence": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4320,14 +4400,18 @@
     },
     "confound": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4347,14 +4431,18 @@
     },
     "culprit": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4374,14 +4462,18 @@
     },
     "paternalistic": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4406,14 +4498,18 @@
     },
     "regressive": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4433,14 +4529,18 @@
     },
     "staple": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4459,14 +4559,18 @@
     },
     "inconclusive": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4496,14 +4600,18 @@
     },
     "backlash": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4523,14 +4631,18 @@
     },
     "ubiquitous": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4550,14 +4662,18 @@
     },
     "overhaul": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4577,14 +4693,18 @@
     },
     "outweigh": {
       "added_on": "2026-07-31",
-      "box": 1,
-      "next_due": "2026-08-01",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-04",
+      "last_seen": "2026-08-01",
       "graduated": false,
       "history": [
         {
           "date": "2026-07-31",
           "event": "added"
+        },
+        {
+          "date": "2026-08-01",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4603,6 +4723,434 @@
             "word": "outperform",
             "pos": "v.",
             "ko": "(성과에서) 능가하다"
+          }
+        ]
+      }
+    },
+    "premise": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "전제",
+        "example_en": "The entire proposal rests on the premise that demand will recover next year.",
+        "example_ko": "그 제안 전체는 내년에 수요가 회복된다는 전제에 기대고 있다.",
+        "note": "pre-(미리) + mis-(보내다) — 논의에 앞서 '미리 내놓은' 것이 전제다. 복수형 premises는 '건물·구내'라는 전혀 다른 뜻이 되니 주의(안내문의 on the premises = 구내에서).",
+        "related": [
+          {
+            "word": "premises",
+            "ko": "구내, 건물",
+            "note": "형태는 premise의 복수형이지만 뜻은 '건물·부지' — 계약서 서두의 '전제 조항'이 곧 그 부동산을 가리키게 된 데서 갈라졌다"
+          }
+        ]
+      }
+    },
+    "indiscriminate": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "무차별적인, 가리지 않는",
+        "example_en": "The company was criticized for the indiscriminate collection of user data.",
+        "example_ko": "그 회사는 사용자 데이터를 무차별적으로 수집한다는 비판을 받았다.",
+        "note": "in-(부정) + discriminate(구별하다) — '구별하지 않는'이 원뜻. discriminate를 '차별하다'로만 외워 두면 이 단어가 풀리지 않으니 뿌리 뜻 '구별하다'로 기억한다.",
+        "family": [
+          {
+            "word": "discriminate",
+            "pos": "v.",
+            "ko": "구별하다; 차별하다"
+          },
+          {
+            "word": "discrimination",
+            "pos": "n.",
+            "ko": "구별; 차별"
+          },
+          {
+            "word": "indiscriminately",
+            "pos": "ad.",
+            "ko": "무차별적으로"
+          }
+        ]
+      }
+    },
+    "wary": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "경계하는, 조심하는",
+        "example_en": "Investors remain wary of companies that rely on a single client.",
+        "example_ko": "투자자들은 단일 고객사에 의존하는 기업을 여전히 경계한다.",
+        "note": "aware(알고 있는)·beware(조심하라)와 한 뿌리로 '살펴 아는' 상태. 전치사는 거의 항상 of를 쓴다.",
+        "related": [
+          {
+            "word": "weary",
+            "ko": "지친, 피곤한",
+            "note": "wary와 e 한 글자 차이인데 뜻이 전혀 다르다 — be weary of는 '~에 싫증나다', be wary of는 '~을 경계하다'"
+          }
+        ]
+      }
+    },
+    "augment": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "늘리다, 보충하다",
+        "example_en": "Many retirees take part-time work to augment their pension income.",
+        "example_ko": "많은 은퇴자들이 연금 수입을 늘리려고 시간제 일을 한다.",
+        "note": "라틴어 augere(늘리다)에서 왔고 auction(값을 올리는 것)과 한 뿌리. increase가 '저절로 늘다'까지 포함하는 것과 달리, augment는 '기존의 것에 보태서 늘리다'는 타동사로만 쓴다.",
+        "family": [
+          {
+            "word": "augmentation",
+            "pos": "n.",
+            "ko": "증대, 증강"
+          }
+        ]
+      }
+    },
+    "diminish": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "줄다, 줄어들게 하다",
+        "example_en": "The tax break did little to diminish the burden on small firms.",
+        "example_ko": "그 세금 감면은 소기업의 부담을 줄이는 데 별 도움이 되지 않았다.",
+        "note": "안에 mini(작은)가 보인다 — '작아지다'. 경제 기사 단골인 diminishing returns는 '수확 체감', 즉 투입을 늘려도 성과의 증가분이 점점 작아지는 현상이다.",
+        "family": [
+          {
+            "word": "diminution",
+            "pos": "n.",
+            "ko": "감소, 축소"
+          },
+          {
+            "word": "diminished",
+            "pos": "a.",
+            "ko": "줄어든, 약해진"
+          }
+        ]
+      }
+    },
+    "curate": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "선별해 엮다, 골라 다듬다",
+        "example_en": "The editor curates a weekly newsletter of the most reliable industry reports.",
+        "example_ko": "그 편집자는 가장 신뢰할 만한 업계 보고서를 골라 주간 뉴스레터로 엮는다.",
+        "note": "cure(돌보다 → 치료하다)와 같은 뿌리로, 원래는 미술관 큐레이터가 '작품을 돌보다'였다가 지금은 콘텐츠·데이터를 '골라 다듬다'로 넓어졌다. select보다 '기준을 갖고 골라 배치한다'는 뉘앙스가 강하다.",
+        "family": [
+          {
+            "word": "curator",
+            "pos": "n.",
+            "ko": "큐레이터, 학예사"
+          },
+          {
+            "word": "curation",
+            "pos": "n.",
+            "ko": "선별, 큐레이션"
+          }
+        ]
+      }
+    },
+    "circumvent": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "우회하다, 피해 가다",
+        "example_en": "The firm set up an overseas subsidiary to circumvent the new regulations.",
+        "example_ko": "그 회사는 새 규제를 피해 가려고 해외 자회사를 세웠다.",
+        "note": "circum-(둘레) + vent(가다) — 정면으로 어기지 않고 '빙 돌아' 빠져나가는 것. circumstance(둘레에 서 있는 것 = 상황)와 같은 접두사다.",
+        "related": [
+          {
+            "word": "violate",
+            "ko": "위반하다",
+            "note": "violate는 규정을 정면으로 어기는 것, circumvent는 어기지 않으면서 빠져나가는 것 — 기사에서 자주 대비된다"
+          }
+        ]
+      }
+    },
+    "consensus": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "합의, 의견 일치",
+        "example_en": "There is a growing consensus among economists that rates will stay high.",
+        "example_ko": "금리가 계속 높게 유지되리라는 데 대해 경제학자들 사이에 합의가 커지고 있다.",
+        "note": "con-(함께) + sens(느끼다) — 다 같이 똑같이 느끼는 상태. sense·consent와 한 뿌리이며, 철자가 c가 아니라 s로 con-sen-sus임에 주의한다.",
+        "family": [
+          {
+            "word": "consent",
+            "pos": "n./v.",
+            "ko": "동의; 동의하다"
+          }
+        ]
+      }
+    },
+    "exhaustion": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "고갈; 탈진",
+        "example_en": "Rapid extraction has led to the exhaustion of several key mineral deposits.",
+        "example_ko": "빠른 채굴은 몇몇 주요 광물 매장지의 고갈로 이어졌다.",
+        "note": "ex-(밖) + haust(끌어내다) — 남김없이 다 끌어내 쓴 상태라 자원이면 '고갈', 사람이면 '탈진'이 된다. 자동차 exhaust(배기)도 같은 단어다.",
+        "related": [
+          {
+            "word": "exhaustive",
+            "ko": "철저한, 빠짐없는",
+            "note": "exhausted(지친)와 혼동하기 쉽다 — an exhaustive survey는 '지친 조사'가 아니라 '샅샅이 훑은 조사'"
+          }
+        ]
+      }
+    },
+    "proprietary": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "독점적인, 자사 소유의",
+        "example_en": "The algorithm remains proprietary, so outside researchers cannot inspect it.",
+        "example_ko": "그 알고리즘은 자사 소유로 남아 있어서 외부 연구자들이 들여다볼 수 없다.",
+        "note": "property(재산)·proprietor(소유주)와 한 뿌리로 '누군가의 소유라 함부로 못 쓰는'. 기술 기사에서는 open-source(공개)의 반대말로 굳어져 나온다.",
+        "family": [
+          {
+            "word": "proprietor",
+            "pos": "n.",
+            "ko": "소유주, 경영주"
+          },
+          {
+            "word": "property",
+            "pos": "n.",
+            "ko": "재산; 속성"
+          }
+        ]
+      }
+    },
+    "compensate": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "보상하다; 보완하다",
+        "example_en": "The airline agreed to compensate passengers for the cancelled flights.",
+        "example_ko": "그 항공사는 결항된 항공편에 대해 승객들에게 보상하기로 했다.",
+        "note": "com-(함께) + pens(무게를 달다) — 저울을 맞춰 균형을 되돌리는 것. 목적어가 사람이면 '보상하다', for가 붙으면 '~을 메우다·보완하다'로 뜻이 갈린다.",
+        "family": [
+          {
+            "word": "compensation",
+            "pos": "n.",
+            "ko": "보상(금); 급여"
+          },
+          {
+            "word": "uncompensated",
+            "pos": "a.",
+            "ko": "보상받지 못한"
+          }
+        ]
+      }
+    },
+    "prone": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "~하기 쉬운 (주로 나쁜 일)",
+        "example_en": "The region is prone to flooding during the summer months.",
+        "example_ko": "그 지역은 여름철에 홍수가 나기 쉽다.",
+        "note": "원뜻은 '엎드린' — 앞으로 기울어져 있으니 그쪽으로 쏠리기 쉽다는 뜻이 되었다. likely와 달리 거의 항상 부정적인 일에 쓰고 뒤에는 to가 온다.",
+        "related": [
+          {
+            "word": "liable",
+            "ko": "~하기 쉬운; 법적 책임이 있는",
+            "note": "be liable to도 '~하기 쉽다'지만, liable은 '법적 책임이 있는'이라는 계약·법률 용법이 더 흔하다"
+          }
+        ]
+      }
+    },
+    "redundant": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "불필요하게 중복된; (영) 정리해고된",
+        "example_en": "The audit found several redundant steps in the approval process.",
+        "example_ko": "감사에서 승인 절차 중 불필요하게 중복된 단계가 몇 개 발견되었다.",
+        "note": "red-(다시) + und(물결치다) — 넘쳐흘러 남아도는 것. 영국식 영어의 be made redundant는 '(자리가 없어져) 해고되다'라는 뜻이라 기사에서 자주 나온다.",
+        "family": [
+          {
+            "word": "redundancy",
+            "pos": "n.",
+            "ko": "중복; (영) 정리해고; (IT) 이중화"
+          }
+        ]
+      }
+    },
+    "threshold": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "문턱; 기준점, 한계치",
+        "example_en": "Households earning below the threshold qualify for the subsidy.",
+        "example_ko": "그 기준선 아래를 버는 가구는 보조금을 받을 자격이 있다.",
+        "note": "집 입구의 '문턱'(thresh 밟다)이 원뜻 — 넘느냐 못 넘느냐로 결과가 갈리므로 '기준점'이 되었다. limit(상한)과 달리 '이 값부터 적용된다'는 하한선 쪽으로 자주 쓴다."
+      }
+    },
+    "reconcile": {
+      "added_on": "2026-08-01",
+      "box": 1,
+      "next_due": "2026-08-02",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-01",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "조화시키다; 화해시키다; (장부를) 대조하다",
+        "example_en": "It is hard to reconcile the government's growth targets with its spending cuts.",
+        "example_ko": "정부의 성장 목표와 지출 삭감을 조화시키기는 어렵다.",
+        "note": "re-(다시) + concile(불러 모으다, council과 한 뿌리) — 어긋난 둘을 다시 한자리에 앉히는 것. 회계에서는 두 장부를 맞춰 보는 '대조'로 토익 지문에 자주 나온다.",
+        "family": [
+          {
+            "word": "reconciliation",
+            "pos": "n.",
+            "ko": "화해; 조정, 대조"
           }
         ]
       }
