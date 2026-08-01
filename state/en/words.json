@@ -3260,9 +3260,9 @@
     },
     "extract": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3271,6 +3271,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3296,9 +3300,9 @@
     },
     "deplete": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3307,6 +3311,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3327,9 +3335,9 @@
     },
     "terrestrial": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3338,6 +3346,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3363,9 +3375,9 @@
     },
     "habitat": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3374,6 +3386,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3399,9 +3415,9 @@
     },
     "sediment": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3410,6 +3426,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3430,9 +3450,9 @@
     },
     "smother": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3441,6 +3461,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3461,9 +3485,9 @@
     },
     "supplant": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3472,6 +3496,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3497,9 +3525,9 @@
     },
     "loophole": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3508,6 +3536,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3521,9 +3553,9 @@
     },
     "invoke": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3532,6 +3564,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3564,9 +3600,9 @@
     },
     "moratorium": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3575,6 +3611,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3588,9 +3628,9 @@
     },
     "curtail": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3599,6 +3639,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3619,9 +3663,9 @@
     },
     "stringent": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3630,6 +3674,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3657,9 +3705,9 @@
     },
     "mandate": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3668,6 +3716,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3688,9 +3740,9 @@
     },
     "waive": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3699,6 +3751,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -3726,9 +3782,9 @@
     },
     "adjacent": {
       "added_on": "2026-07-29",
-      "box": 2,
-      "next_due": "2026-08-02",
-      "last_seen": "2026-07-30",
+      "box": 3,
+      "next_due": "2026-08-09",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
@@ -3737,6 +3793,10 @@
         },
         {
           "date": "2026-07-30",
+          "event": "shown"
+        },
+        {
+          "date": "2026-08-02",
           "event": "shown"
         }
       ],
@@ -4729,14 +4789,18 @@
     },
     "premise": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4756,14 +4820,18 @@
     },
     "indiscriminate": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4793,14 +4861,18 @@
     },
     "wary": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4820,14 +4892,18 @@
     },
     "augment": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4847,14 +4923,18 @@
     },
     "diminish": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4879,14 +4959,18 @@
     },
     "curate": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4911,14 +4995,18 @@
     },
     "circumvent": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4938,14 +5026,18 @@
     },
     "consensus": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4965,14 +5057,18 @@
     },
     "exhaustion": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -4992,14 +5088,18 @@
     },
     "proprietary": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -5024,14 +5124,18 @@
     },
     "compensate": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -5056,14 +5160,18 @@
     },
     "prone": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -5083,14 +5191,18 @@
     },
     "redundant": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -5110,14 +5222,18 @@
     },
     "threshold": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -5130,14 +5246,18 @@
     },
     "reconcile": {
       "added_on": "2026-08-01",
-      "box": 1,
-      "next_due": "2026-08-02",
-      "last_seen": null,
+      "box": 2,
+      "next_due": "2026-08-05",
+      "last_seen": "2026-08-02",
       "graduated": false,
       "history": [
         {
           "date": "2026-08-01",
           "event": "added"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "shown"
         }
       ],
       "card": {
@@ -5151,6 +5271,451 @@
             "word": "reconciliation",
             "pos": "n.",
             "ko": "화해; 조정, 대조"
+          }
+        ]
+      }
+    },
+    "demographic": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a./n.",
+        "ko": "인구통계의; (복수형) 인구 구성, 고객층",
+        "example_en": "The retailer changed its advertising after studying the demographic shift among its customers.",
+        "example_ko": "그 소매업체는 고객층의 인구 구성 변화를 연구한 뒤 광고를 바꿨다.",
+        "note": "어원: demos(민중) + graph(기록) — '민중을 기록한 것'이 인구통계다. democracy(민중의 지배)와 앞부분 뿌리가 같다고 묶어서 외우면 뜻이 흔들리지 않는다.",
+        "family": [
+          {
+            "word": "demography",
+            "pos": "n.",
+            "ko": "인구통계학"
+          },
+          {
+            "word": "demographer",
+            "pos": "n.",
+            "ko": "인구통계학자"
+          }
+        ]
+      }
+    },
+    "longevity": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "수명, 장수; (경력·제품의) 오래감",
+        "example_en": "Rising longevity has forced insurers to recalculate the cost of every pension they sell.",
+        "example_ko": "늘어난 수명 때문에 보험사들은 자기들이 파는 모든 연금의 비용을 다시 계산해야 했다.",
+        "note": "long(긴) + aevum(세월·나이) = '긴 세월'. medieval(중세의 = medium aevum, 중간 시대)의 -ev-와 같은 뿌리라 '세월'이라는 감각이 남아 있다.",
+        "related": [
+          {
+            "word": "lifespan",
+            "ko": "수명",
+            "note": "lifespan은 '한 개체가 사는 기간'이라는 중립적 길이, longevity는 '길다'는 평가가 들어간 말이다"
+          }
+        ]
+      }
+    },
+    "solvency": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "지급 능력, 재정 건전성",
+        "example_en": "Regulators questioned whether the insurer could maintain its solvency through a prolonged downturn.",
+        "example_ko": "감독 당국은 그 보험사가 장기 침체 내내 지급 능력을 유지할 수 있을지 의문을 제기했다.",
+        "note": "'문제를 푸는' solve와 같은 뿌리(라틴 solvere = 풀다) — 빚을 '풀어 낼 수 있는' 상태가 solvency다. 재무 기사에서는 '망하지 않고 갚을 수 있느냐'를 묻는 말로 쓴다.",
+        "family": [
+          {
+            "word": "solvent",
+            "pos": "a.",
+            "ko": "지급 능력이 있는 (명사로는 '용매')"
+          },
+          {
+            "word": "insolvent",
+            "pos": "a.",
+            "ko": "지급 불능의, 파산 상태의"
+          },
+          {
+            "word": "insolvency",
+            "pos": "n.",
+            "ko": "지급 불능, 파산"
+          }
+        ]
+      }
+    },
+    "entitlement": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "(법적) 수급권, 자격; 당연하다는 특권 의식",
+        "example_en": "Any reform that reduces pension entitlements is politically dangerous.",
+        "example_ko": "연금 수급권을 줄이는 개혁은 어떤 것이든 정치적으로 위험하다.",
+        "note": "title은 '제목'만이 아니라 '권리·자격'이라는 뜻이 본래 있다 — en(부여하다) + title = '권리를 주다'. 미국 재정 기사의 entitlement programs는 연금·의료처럼 자격만 되면 법으로 지급되는 제도를 가리킨다.",
+        "family": [
+          {
+            "word": "entitle",
+            "pos": "v.",
+            "ko": "자격을 주다; 제목을 붙이다"
+          },
+          {
+            "word": "entitled",
+            "pos": "a.",
+            "ko": "자격이 있는; 특권 의식에 찬"
+          }
+        ]
+      }
+    },
+    "austerity": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "긴축 (재정), 내핍",
+        "example_en": "A decade of austerity left the country's public services badly understaffed.",
+        "example_ko": "10년에 걸친 긴축으로 그 나라의 공공 서비스는 인력이 심각하게 부족해졌다.",
+        "note": "austere(엄격한·검소한)의 명사형 — 정부가 허리띠를 졸라매는 정책이 austerity measures다. 앞서 배운 stimulus(경기 부양책)와 정반대 짝으로 함께 외워 두면 시사 기사에서 바로 잡힌다.",
+        "family": [
+          {
+            "word": "austere",
+            "pos": "a.",
+            "ko": "엄격한; 검소한, 소박한"
+          }
+        ]
+      }
+    },
+    "cohort": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "(같은 시기의) 집단, 세대 집단; 무리",
+        "example_en": "The study followed a cohort of 5,000 workers who entered the labor market in the same year.",
+        "example_ko": "그 연구는 같은 해에 노동 시장에 진입한 5천 명의 집단을 추적했다.",
+        "note": "원래 로마 군단의 '보병 대대(cohors)' — 함께 움직이는 무리라는 뜻에서, 통계·사회과학에서 '같은 시기에 태어나거나 입사한 집단'으로 굳었다. group과 달리 '같은 시기'라는 조건이 핵심이다.",
+        "related": [
+          {
+            "word": "generation",
+            "ko": "세대",
+            "note": "generation은 20~30년 단위의 큰 세대, cohort는 연구자가 정한 기준(출생 연도·입사 연도)으로 묶은 더 좁은 집단"
+          }
+        ]
+      }
+    },
+    "accrue": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "(이자·이익·비용이) 쌓이다, 발생하다",
+        "example_en": "Interest accrues daily on the outstanding balance.",
+        "example_ko": "미상환 잔액에는 이자가 매일 쌓인다.",
+        "note": "라틴 crescere(자라다)에서 왔다 — increase, crescent(자라나는 달 = 초승달)와 한 뿌리. '이자가 저절로 자라 붙는' 그림으로 잡으면 '누가 쌓는 게 아니라 저절로 쌓인다'는 자동사 감각까지 함께 남는다.",
+        "family": [
+          {
+            "word": "accrual",
+            "pos": "n.",
+            "ko": "발생액; (회계) 발생주의"
+          }
+        ]
+      }
+    },
+    "shortfall": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n.",
+        "ko": "부족분, 미달액",
+        "example_en": "The city faces a budget shortfall of nearly 200 million dollars next year.",
+        "example_ko": "그 시는 내년에 2억 달러에 가까운 예산 부족에 직면한다.",
+        "note": "short(모자란) + fall(떨어지다) — 목표치에 '못 미쳐 떨어진 양'이라는 뜻이 그대로 보이는 합성어다. 예산·세수 기사에서는 거의 항상 budget/revenue와 붙어 나온다.",
+        "related": [
+          {
+            "word": "deficit",
+            "ko": "적자",
+            "note": "deficit은 수입<지출인 '적자 상태' 자체, shortfall은 목표·필요치 대비 '모자란 액수'를 가리킨다"
+          }
+        ]
+      }
+    },
+    "dwindle": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "점점 줄어들다, 쪼그라들다",
+        "example_en": "Their cash reserves dwindled to less than a month's payroll.",
+        "example_ko": "그들의 현금 보유고는 한 달치 급여도 안 되는 수준까지 줄어들었다.",
+        "note": "고대 영어 dwinan(시들다)에서 온 말 — reduce가 '줄이다(타동사)'라면 dwindle은 스스로 '쪼그라들다(자동사)'라 목적어를 받지 못한다. dwindle the cost 같은 문장은 틀린 문장이다.",
+        "related": [
+          {
+            "word": "diminish",
+            "ko": "줄다, 줄이다",
+            "note": "diminish는 자동·타동 둘 다 되지만, dwindle은 자동사로만 쓴다"
+          }
+        ]
+      }
+    },
+    "onerous": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "부담이 큰, 번거로운",
+        "example_en": "Small firms complained that the new reporting rules were unnecessarily onerous.",
+        "example_ko": "소규모 기업들은 새 보고 규정이 불필요하게 부담스럽다고 불평했다.",
+        "note": "라틴 onus(짐·부담)의 형용사형 — '입증 책임은 그쪽에 있다'는 the onus is on you의 그 onus다. 물리적 무게가 아니라 의무·규제·계약이 무거울 때 쓴다.",
+        "related": [
+          {
+            "word": "arduous",
+            "ko": "고된, 험난한",
+            "note": "arduous는 '해내기가 힘든(노력의 양)', onerous는 '떠안기에 부담스러운(책임의 무게)'"
+          }
+        ]
+      }
+    },
+    "viable": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "실행 가능한; (계속) 살아남을 수 있는",
+        "example_en": "Without government support, the project was never commercially viable.",
+        "example_ko": "정부 지원이 없었다면 그 사업은 애초에 상업적으로 성립할 수 없었다.",
+        "note": "라틴 vita(생명) — 본뜻이 '살아남을 수 있는'이다. 앞서 배운 feasible이 '기술적으로 해낼 수 있다'는 쪽이라면, viable은 '해 놓고도 계속 유지될 수 있다'는 지속 가능성까지 포함한다.",
+        "family": [
+          {
+            "word": "viability",
+            "pos": "n.",
+            "ko": "실행 가능성, 생존 가능성"
+          },
+          {
+            "word": "vital",
+            "pos": "a.",
+            "ko": "필수적인; 생명의"
+          }
+        ]
+      }
+    },
+    "abate": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "누그러지다, 약해지다; 줄이다, 감면하다",
+        "example_en": "The storm showed no sign of abating, and flights remained grounded.",
+        "example_ko": "폭풍은 누그러질 기미가 없었고, 항공편은 계속 묶여 있었다.",
+        "note": "프랑스어 abattre(때려 눕히다)에서 왔다 — 폭풍·소음·통증·열기처럼 '기세'가 꺾일 때 쓰는 것이 핵심이다. 세금을 깎아 주는 tax abatement도 '부담을 눕힌다'는 같은 발상이다.",
+        "family": [
+          {
+            "word": "abatement",
+            "pos": "n.",
+            "ko": "감소; (세금·요금의) 감면"
+          }
+        ]
+      }
+    },
+    "discern": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "v.",
+        "ko": "식별하다, 알아차리다",
+        "example_en": "It is hard to discern any clear trend from a single quarter's data.",
+        "example_ko": "한 분기 자료만으로는 뚜렷한 추세를 알아보기 어렵다.",
+        "note": "dis-(따로) + cernere(가르다) = '갈라서 구별해 내다'. 같은 뿌리인 discrete(따로 떨어진)·secret(따로 떼어 둔 것)과 묶으면 '나눈다'는 감각이 남는다.",
+        "family": [
+          {
+            "word": "discernible",
+            "pos": "a.",
+            "ko": "알아볼 수 있는, 식별 가능한"
+          },
+          {
+            "word": "discernment",
+            "pos": "n.",
+            "ko": "안목, 통찰력"
+          }
+        ]
+      }
+    },
+    "imminent": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "a.",
+        "ko": "임박한, 곧 닥칠",
+        "example_en": "The company denied that a takeover was imminent.",
+        "example_ko": "그 회사는 인수가 임박했다는 것을 부인했다.",
+        "note": "in-(위에) + minere(튀어나오다) — 머리 위로 '툭 튀어나와 곧 덮칠 듯한' 상태가 imminent다. 좋은 일보다는 위협·위험처럼 나쁜 일에 주로 붙는다.",
+        "related": [
+          {
+            "word": "eminent",
+            "ko": "저명한",
+            "note": "eminent는 e-(밖으로) 튀어나와 '눈에 띄는=저명한' — 철자 한 글자 차이인데 뜻이 전혀 다르니 시험에 자주 나온다"
+          },
+          {
+            "word": "immanent",
+            "ko": "내재하는",
+            "note": "발음이 거의 같지만 in-(안에) + manere(머물다)로 '안에 깃든'이라는 철학 용어다"
+          }
+        ]
+      }
+    },
+    "lapse": {
+      "added_on": "2026-08-02",
+      "box": 1,
+      "next_due": "2026-08-03",
+      "last_seen": null,
+      "graduated": false,
+      "history": [
+        {
+          "date": "2026-08-02",
+          "event": "added"
+        }
+      ],
+      "card": {
+        "pos": "n./v.",
+        "ko": "(시간의) 경과; 실수, 착오; (효력이) 소멸하다, ~로 빠지다",
+        "example_en": "His membership lapsed because he forgot to renew it.",
+        "example_ko": "그는 갱신하는 것을 잊어버려서 회원 자격이 소멸했다.",
+        "note": "라틴 labi(미끄러지다) — '미끄러져 떨어지다'가 본뜻이라, 계약·자격이 누가 취소한 게 아니라 그냥 '흘러가서' 효력을 잃을 때 lapse를 쓴다. col-(함께) + lapse = collapse(무너지다)도 같은 뿌리다.",
+        "family": [
+          {
+            "word": "elapse",
+            "pos": "v.",
+            "ko": "(시간이) 경과하다"
+          },
+          {
+            "word": "collapse",
+            "pos": "v./n.",
+            "ko": "붕괴하다; 붕괴"
           }
         ]
       }

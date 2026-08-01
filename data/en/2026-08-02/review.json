@@ -1,0 +1,599 @@
+{
+  "date": "2026-08-02",
+  "due_words": [
+    {
+      "headword": "adjacent",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "인접한, 바로 옆의",
+        "example_en": "The warehouse is adjacent to the port's main terminal.",
+        "example_ko": "그 창고는 항구의 주 터미널에 인접해 있다.",
+        "note": "ad-(~쪽으로)+jacere(던지다) — 바로 곁에 던져져 있다는 뜻이다. project(앞으로 던지다)·inject(안으로 던지다)와 한 뿌리이고, 실제 시험에서는 늘 'adjacent to + 장소' 형태로 나오니 to까지 통째로 외운다."
+      }
+    },
+    {
+      "headword": "augment",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "늘리다, 보충하다",
+        "example_en": "Many retirees take part-time work to augment their pension income.",
+        "example_ko": "많은 은퇴자들이 연금 수입을 늘리려고 시간제 일을 한다.",
+        "note": "라틴어 augere(늘리다)에서 왔고 auction(값을 올리는 것)과 한 뿌리. increase가 '저절로 늘다'까지 포함하는 것과 달리, augment는 '기존의 것에 보태서 늘리다'는 타동사로만 쓴다.",
+        "family": [
+          {
+            "word": "augmentation",
+            "pos": "n.",
+            "ko": "증대, 증강"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "circumvent",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "우회하다, 피해 가다",
+        "example_en": "The firm set up an overseas subsidiary to circumvent the new regulations.",
+        "example_ko": "그 회사는 새 규제를 피해 가려고 해외 자회사를 세웠다.",
+        "note": "circum-(둘레) + vent(가다) — 정면으로 어기지 않고 '빙 돌아' 빠져나가는 것. circumstance(둘레에 서 있는 것 = 상황)와 같은 접두사다.",
+        "related": [
+          {
+            "word": "violate",
+            "ko": "위반하다",
+            "note": "violate는 규정을 정면으로 어기는 것, circumvent는 어기지 않으면서 빠져나가는 것 — 기사에서 자주 대비된다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "compensate",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "보상하다; 보완하다",
+        "example_en": "The airline agreed to compensate passengers for the cancelled flights.",
+        "example_ko": "그 항공사는 결항된 항공편에 대해 승객들에게 보상하기로 했다.",
+        "note": "com-(함께) + pens(무게를 달다) — 저울을 맞춰 균형을 되돌리는 것. 목적어가 사람이면 '보상하다', for가 붙으면 '~을 메우다·보완하다'로 뜻이 갈린다.",
+        "family": [
+          {
+            "word": "compensation",
+            "pos": "n.",
+            "ko": "보상(금); 급여"
+          },
+          {
+            "word": "uncompensated",
+            "pos": "a.",
+            "ko": "보상받지 못한"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "consensus",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "합의, 의견 일치",
+        "example_en": "There is a growing consensus among economists that rates will stay high.",
+        "example_ko": "금리가 계속 높게 유지되리라는 데 대해 경제학자들 사이에 합의가 커지고 있다.",
+        "note": "con-(함께) + sens(느끼다) — 다 같이 똑같이 느끼는 상태. sense·consent와 한 뿌리이며, 철자가 c가 아니라 s로 con-sen-sus임에 주의한다.",
+        "family": [
+          {
+            "word": "consent",
+            "pos": "n./v.",
+            "ko": "동의; 동의하다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "curate",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "선별해 엮다, 골라 다듬다",
+        "example_en": "The editor curates a weekly newsletter of the most reliable industry reports.",
+        "example_ko": "그 편집자는 가장 신뢰할 만한 업계 보고서를 골라 주간 뉴스레터로 엮는다.",
+        "note": "cure(돌보다 → 치료하다)와 같은 뿌리로, 원래는 미술관 큐레이터가 '작품을 돌보다'였다가 지금은 콘텐츠·데이터를 '골라 다듬다'로 넓어졌다. select보다 '기준을 갖고 골라 배치한다'는 뉘앙스가 강하다.",
+        "family": [
+          {
+            "word": "curator",
+            "pos": "n.",
+            "ko": "큐레이터, 학예사"
+          },
+          {
+            "word": "curation",
+            "pos": "n.",
+            "ko": "선별, 큐레이션"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "curtail",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "축소하다, 단축하다",
+        "example_en": "The airline curtailed its regional routes after fuel prices spiked.",
+        "example_ko": "그 항공사는 연료비가 급등하자 지역 노선을 축소했다.",
+        "note": "curt(짧은, 퉁명스러운)+tail(꼬리) — 꼬리를 잘라 짧게 만든다는 그림으로 잡으면 된다. 이미 있는 것의 규모·기간을 잘라 내는 쪽이다.",
+        "related": [
+          {
+            "word": "curb",
+            "ko": "억제하다",
+            "note": "curb는 말에 재갈을 물리듯 '더 늘지 못하게 억누르다', curtail은 '이미 있는 것을 잘라 줄이다' — 둘 다 spending과 잘 붙어 헷갈린다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "deplete",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "고갈시키다, 격감시키다",
+        "example_en": "Prolonged drought has depleted the region's groundwater reserves.",
+        "example_ko": "장기 가뭄이 그 지역의 지하수 매장량을 고갈시켰다.",
+        "note": "de-(제거)+ple(채우다) — 채워져 있던 것을 비워 낸다. complete(함께 채우다=완성하다)·supplement(밑에 채워 넣다=보충)와 같은 ple- 뿌리이므로 '채움의 반대'로 묶어 두면 뜻이 붙는다.",
+        "family": [
+          {
+            "word": "depletion",
+            "pos": "n.",
+            "ko": "고갈, 소모"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "diminish",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "줄다, 줄어들게 하다",
+        "example_en": "The tax break did little to diminish the burden on small firms.",
+        "example_ko": "그 세금 감면은 소기업의 부담을 줄이는 데 별 도움이 되지 않았다.",
+        "note": "안에 mini(작은)가 보인다 — '작아지다'. 경제 기사 단골인 diminishing returns는 '수확 체감', 즉 투입을 늘려도 성과의 증가분이 점점 작아지는 현상이다.",
+        "family": [
+          {
+            "word": "diminution",
+            "pos": "n.",
+            "ko": "감소, 축소"
+          },
+          {
+            "word": "diminished",
+            "pos": "a.",
+            "ko": "줄어든, 약해진"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "exhaustion",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "고갈; 탈진",
+        "example_en": "Rapid extraction has led to the exhaustion of several key mineral deposits.",
+        "example_ko": "빠른 채굴은 몇몇 주요 광물 매장지의 고갈로 이어졌다.",
+        "note": "ex-(밖) + haust(끌어내다) — 남김없이 다 끌어내 쓴 상태라 자원이면 '고갈', 사람이면 '탈진'이 된다. 자동차 exhaust(배기)도 같은 단어다.",
+        "related": [
+          {
+            "word": "exhaustive",
+            "ko": "철저한, 빠짐없는",
+            "note": "exhausted(지친)와 혼동하기 쉽다 — an exhaustive survey는 '지친 조사'가 아니라 '샅샅이 훑은 조사'"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "extract",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "추출하다, 뽑아내다; (자원을) 채굴하다",
+        "example_en": "The company plans to extract lithium from brine ponds in the highlands.",
+        "example_ko": "그 회사는 고지대의 염수 연못에서 리튬을 추출할 계획이다.",
+        "note": "ex-(밖으로)+tract(끌다) — 밖으로 끌어내는 것. tract 계열은 전부 '끌다'라서 attract(~쪽으로 끌다=끌어당기다)·contract(함께 끌어당기다=계약·수축)·distract(따로 끌다=산만하게 하다)로 뜻이 자동으로 풀린다.",
+        "family": [
+          {
+            "word": "extraction",
+            "pos": "n.",
+            "ko": "추출, 채굴"
+          },
+          {
+            "word": "extractive",
+            "pos": "a.",
+            "ko": "채취·채굴 산업의"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "habitat",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "서식지",
+        "example_en": "Rising sea temperatures are destroying the habitat of coral-dependent species.",
+        "example_ko": "해수 온도 상승이 산호에 의존하는 종의 서식지를 파괴하고 있다.",
+        "note": "라틴어 habitare(살다)의 '그것이 산다'는 형태 그대로 굳은 말 — inhabit(~에 살다)·inhabitant(주민)와 한 뿌리다. habit(습관)도 '몸에 지니고 사는 것'에서 갈라져 나왔다고 묶으면 철자를 헷갈리지 않는다.",
+        "family": [
+          {
+            "word": "inhabit",
+            "pos": "v.",
+            "ko": "~에 거주하다, 서식하다"
+          },
+          {
+            "word": "inhabitant",
+            "pos": "n.",
+            "ko": "주민, 서식 동물"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "indiscriminate",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "무차별적인, 가리지 않는",
+        "example_en": "The company was criticized for the indiscriminate collection of user data.",
+        "example_ko": "그 회사는 사용자 데이터를 무차별적으로 수집한다는 비판을 받았다.",
+        "note": "in-(부정) + discriminate(구별하다) — '구별하지 않는'이 원뜻. discriminate를 '차별하다'로만 외워 두면 이 단어가 풀리지 않으니 뿌리 뜻 '구별하다'로 기억한다.",
+        "family": [
+          {
+            "word": "discriminate",
+            "pos": "v.",
+            "ko": "구별하다; 차별하다"
+          },
+          {
+            "word": "discrimination",
+            "pos": "n.",
+            "ko": "구별; 차별"
+          },
+          {
+            "word": "indiscriminately",
+            "pos": "ad.",
+            "ko": "무차별적으로"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "invoke",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "(법·규정을) 원용하다, 발동하다; 불러일으키다",
+        "example_en": "The government invoked emergency powers to freeze the new tariffs.",
+        "example_ko": "정부는 새 관세를 동결하기 위해 긴급 권한을 발동했다.",
+        "note": "voc/vok-(부르다) 계열의 대표 — 조항을 '불러내어' 근거로 삼는다는 뜻이다. 접두사만 갈아 끼우면 evoke(밖으로 불러내다=환기시키다)·revoke(도로 부르다=철회하다)·provoke(앞으로 불러내다=자극하다)가 되니 한 세트로 정리해 둔다.",
+        "family": [
+          {
+            "word": "invocation",
+            "pos": "n.",
+            "ko": "(법 조항의) 원용, 발동"
+          }
+        ],
+        "related": [
+          {
+            "word": "revoke",
+            "ko": "철회하다, 취소하다",
+            "note": "같은 vok- 뿌리지만 re-(도로) 때문에 방향이 정반대 — invoke는 발동, revoke는 철회"
+          },
+          {
+            "word": "evoke",
+            "ko": "(감정·기억을) 불러일으키다",
+            "note": "evoke는 감정·이미지에, invoke는 법 조항·권한에 붙는다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "loophole",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "(법·계약의) 허점, 빠져나갈 구멍",
+        "example_en": "The firm exploited a tax loophole to shelter its overseas profits.",
+        "example_ko": "그 회사는 해외 이익을 숨기려고 세금 허점을 이용했다.",
+        "note": "원래 성벽에 낸 좁은 총안(화살을 쏘는 구멍)을 뜻했다 — 벽은 다 막혔는데 거기만 뚫려 있다는 그림이 그대로 '법망의 구멍'이 되었다. 짝이 되는 동사가 정해져 있어 close(막다)·exploit(악용하다)와 함께 외운다."
+      }
+    },
+    {
+      "headword": "mandate",
+      "box": 2,
+      "card": {
+        "pos": "n./v.",
+        "ko": "(위임받은) 권한, 명령; 의무화하다",
+        "example_en": "The new rules mandate the disclosure of all political donations.",
+        "example_ko": "새 규정은 모든 정치 후원금의 공개를 의무화한다.",
+        "note": "man(손)+dat(주다) — 손에 쥐여 맡긴 것. 명사일 때는 '선거로 위임받은 권한', 동사일 때는 '법으로 의무화하다'로 뜻이 갈리므로 문장에서 품사를 먼저 잡아야 한다.",
+        "family": [
+          {
+            "word": "mandatory",
+            "pos": "a.",
+            "ko": "의무적인, 필수의"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "moratorium",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "(활동의) 일시 중지, 유예",
+        "example_en": "Thirty states have called for a moratorium on deep-sea mining.",
+        "example_ko": "30개국이 심해 채굴의 일시 중지를 요구했다.",
+        "note": "라틴어 mora(지연)에서 왔다 — 영구 금지(ban)가 아니라 '일단 멈추고 미룬다'가 핵심이라 뒤에 늘 on이 붙는다(a moratorium on ~)."
+      }
+    },
+    {
+      "headword": "premise",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "전제",
+        "example_en": "The entire proposal rests on the premise that demand will recover next year.",
+        "example_ko": "그 제안 전체는 내년에 수요가 회복된다는 전제에 기대고 있다.",
+        "note": "pre-(미리) + mis-(보내다) — 논의에 앞서 '미리 내놓은' 것이 전제다. 복수형 premises는 '건물·구내'라는 전혀 다른 뜻이 되니 주의(안내문의 on the premises = 구내에서).",
+        "related": [
+          {
+            "word": "premises",
+            "ko": "구내, 건물",
+            "note": "형태는 premise의 복수형이지만 뜻은 '건물·부지' — 계약서 서두의 '전제 조항'이 곧 그 부동산을 가리키게 된 데서 갈라졌다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "prone",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "~하기 쉬운 (주로 나쁜 일)",
+        "example_en": "The region is prone to flooding during the summer months.",
+        "example_ko": "그 지역은 여름철에 홍수가 나기 쉽다.",
+        "note": "원뜻은 '엎드린' — 앞으로 기울어져 있으니 그쪽으로 쏠리기 쉽다는 뜻이 되었다. likely와 달리 거의 항상 부정적인 일에 쓰고 뒤에는 to가 온다.",
+        "related": [
+          {
+            "word": "liable",
+            "ko": "~하기 쉬운; 법적 책임이 있는",
+            "note": "be liable to도 '~하기 쉽다'지만, liable은 '법적 책임이 있는'이라는 계약·법률 용법이 더 흔하다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "proprietary",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "독점적인, 자사 소유의",
+        "example_en": "The algorithm remains proprietary, so outside researchers cannot inspect it.",
+        "example_ko": "그 알고리즘은 자사 소유로 남아 있어서 외부 연구자들이 들여다볼 수 없다.",
+        "note": "property(재산)·proprietor(소유주)와 한 뿌리로 '누군가의 소유라 함부로 못 쓰는'. 기술 기사에서는 open-source(공개)의 반대말로 굳어져 나온다.",
+        "family": [
+          {
+            "word": "proprietor",
+            "pos": "n.",
+            "ko": "소유주, 경영주"
+          },
+          {
+            "word": "property",
+            "pos": "n.",
+            "ko": "재산; 속성"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "reconcile",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "조화시키다; 화해시키다; (장부를) 대조하다",
+        "example_en": "It is hard to reconcile the government's growth targets with its spending cuts.",
+        "example_ko": "정부의 성장 목표와 지출 삭감을 조화시키기는 어렵다.",
+        "note": "re-(다시) + concile(불러 모으다, council과 한 뿌리) — 어긋난 둘을 다시 한자리에 앉히는 것. 회계에서는 두 장부를 맞춰 보는 '대조'로 토익 지문에 자주 나온다.",
+        "family": [
+          {
+            "word": "reconciliation",
+            "pos": "n.",
+            "ko": "화해; 조정, 대조"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "redundant",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "불필요하게 중복된; (영) 정리해고된",
+        "example_en": "The audit found several redundant steps in the approval process.",
+        "example_ko": "감사에서 승인 절차 중 불필요하게 중복된 단계가 몇 개 발견되었다.",
+        "note": "red-(다시) + und(물결치다) — 넘쳐흘러 남아도는 것. 영국식 영어의 be made redundant는 '(자리가 없어져) 해고되다'라는 뜻이라 기사에서 자주 나온다.",
+        "family": [
+          {
+            "word": "redundancy",
+            "pos": "n.",
+            "ko": "중복; (영) 정리해고; (IT) 이중화"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "sediment",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "퇴적물, 침전물",
+        "example_en": "Dredging stirs up sediment that can choke fish downstream.",
+        "example_ko": "준설은 하류의 물고기를 질식시킬 수 있는 퇴적물을 휘저어 일으킨다.",
+        "note": "sed-(앉다)에서 나와 '가라앉아 앉은 것'이 되었다. sedentary(앉아 지내는)·reside(뒤에 앉다=거주하다)·session(앉아 있는 시간=회기)이 같은 뿌리라, sed-를 보면 '앉음'을 떠올리면 된다.",
+        "family": [
+          {
+            "word": "sedimentary",
+            "pos": "a.",
+            "ko": "퇴적의 (sedimentary rock 퇴적암)"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "smother",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "뒤덮어 질식시키다; (논의 등을) 덮어 버리다",
+        "example_en": "Ash from the eruption smothered crops across the valley.",
+        "example_ko": "분화로 나온 화산재가 계곡 전역의 작물을 뒤덮어 죽였다.",
+        "note": "원래 '연기(smoke)로 덮다'에서 온 말이라 철자에 smo-가 남았다. 핵심은 '무언가로 덮어서' 숨을 막는다는 그림이고, smother dissent(반대 의견을 덮어 버리다)처럼 비유로도 그대로 쓴다.",
+        "related": [
+          {
+            "word": "suffocate",
+            "ko": "질식시키다, 질식하다",
+            "note": "suffocate는 숨이 막혀 죽는 결과(의학·사고)에 초점, smother는 '덮어서 막는' 행위에 초점"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "stringent",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "(규정·기준이) 엄격한, 까다로운",
+        "example_en": "Exporters must meet stringent safety standards to enter the market.",
+        "example_ko": "수출업체는 그 시장에 진입하려면 엄격한 안전 기준을 충족해야 한다.",
+        "note": "string-(조이다)에서 나와 '바짝 조인'이라는 그림이다. restrict(다시 조이다=제한하다)·strain(팽팽히 당기다)과 한 뿌리이며, 사람 성격이 아니라 규정·기준·조건에만 붙는다는 점이 strict와 다르다.",
+        "family": [
+          {
+            "word": "stringency",
+            "pos": "n.",
+            "ko": "엄격함, (자금의) 핍박"
+          }
+        ],
+        "related": [
+          {
+            "word": "strict",
+            "ko": "엄격한",
+            "note": "strict는 사람·부모·태도에도 쓰지만 stringent는 규정·기준·검사에 한정된다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "supplant",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "대체하다, 밀어내고 그 자리를 차지하다",
+        "example_en": "Streaming services have largely supplanted the neighbourhood rental shop.",
+        "example_ko": "스트리밍 서비스가 동네 대여점을 사실상 밀어내고 그 자리를 차지했다.",
+        "note": "sup-(밑)+plant(발바닥) — 발을 걸어 넘어뜨리고 그 자리에 선다는 그림이다. 그래서 중립적인 replace와 달리 '밀어내고 차지한다'는 적대적 뉘앙스가 남아 있다.",
+        "related": [
+          {
+            "word": "replace",
+            "ko": "대체하다",
+            "note": "replace는 낡은 것을 새것으로 바꾸는 중립적 교체, supplant는 경쟁자를 밀어내는 뉘앙스"
+          },
+          {
+            "word": "supersede",
+            "ko": "대체하다, 폐지하고 대신하다",
+            "note": "supersede는 구 버전·구 규정이 새것에 밀려 효력을 잃을 때 쓴다 — 규정·문서에 잘 붙는다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "terrestrial",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "육상의, 육지의; 지구의",
+        "example_en": "Deep-sea mining is often defended as gentler than terrestrial extraction.",
+        "example_ko": "심해 채굴은 흔히 육상 채굴보다 덜 파괴적이라고 옹호된다.",
+        "note": "terra(땅)에서 나왔다 — territory(영토)·terrain(지형)·Mediterranean(땅 한가운데의 바다)이 한 식구다. 바다(marine)·공중(aerial)과 대비되는 축으로 외워 두면 시사 지문에서 바로 잡힌다.",
+        "related": [
+          {
+            "word": "extraterrestrial",
+            "ko": "지구 밖의; 외계 생명체",
+            "note": "extra-(밖)를 붙이면 '지구 밖의'가 된다 — terrestrial의 뜻이 '지구의'임을 역으로 확인시켜 주는 짝"
+          },
+          {
+            "word": "marine",
+            "ko": "해양의",
+            "note": "terrestrial(육상)의 반대편 — 논설문에서 terrestrial mines vs marine ecosystems 식으로 짝지어 나온다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "threshold",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "문턱; 기준점, 한계치",
+        "example_en": "Households earning below the threshold qualify for the subsidy.",
+        "example_ko": "그 기준선 아래를 버는 가구는 보조금을 받을 자격이 있다.",
+        "note": "집 입구의 '문턱'(thresh 밟다)이 원뜻 — 넘느냐 못 넘느냐로 결과가 갈리므로 '기준점'이 되었다. limit(상한)과 달리 '이 값부터 적용된다'는 하한선 쪽으로 자주 쓴다."
+      }
+    },
+    {
+      "headword": "waive",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "(권리·요구를) 포기하다; (수수료를) 면제해 주다",
+        "example_en": "The bank agreed to waive the transfer fee for corporate clients.",
+        "example_ko": "그 은행은 법인 고객에게 송금 수수료를 면제해 주기로 했다.",
+        "note": "wave(파도치다)와 발음이 완전히 같아 토익 듣기에서 자주 걸린다 — 뜻은 전혀 달라 '스스로 내려놓다'다. 명사형 waiver(권리 포기 각서·면제)까지 세트로 묶어 둔다.",
+        "family": [
+          {
+            "word": "waiver",
+            "pos": "n.",
+            "ko": "(권리) 포기, 면제; 포기 각서"
+          }
+        ],
+        "related": [
+          {
+            "word": "wave",
+            "ko": "흔들다; 파도",
+            "note": "발음은 같지만 철자와 뜻이 다르다 — 계약서에 나오면 거의 항상 waive다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "wary",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "경계하는, 조심하는",
+        "example_en": "Investors remain wary of companies that rely on a single client.",
+        "example_ko": "투자자들은 단일 고객사에 의존하는 기업을 여전히 경계한다.",
+        "note": "aware(알고 있는)·beware(조심하라)와 한 뿌리로 '살펴 아는' 상태. 전치사는 거의 항상 of를 쓴다.",
+        "related": [
+          {
+            "word": "weary",
+            "ko": "지친, 피곤한",
+            "note": "wary와 e 한 글자 차이인데 뜻이 전혀 다르다 — be weary of는 '~에 싫증나다', be wary of는 '~을 경계하다'"
+          }
+        ]
+      }
+    }
+  ],
+  "review_sentence": {
+    "from_date": "2026-07-30",
+    "en": "Were the major launching nations to accept shared liability for what they leave behind, compliance with existing debris guidelines would cease to be a matter of goodwill; until then, stewardship of the orbital commons will remain a promise that no one is obliged to keep.",
+    "ko": "주요 발사국들이 자신들이 남기고 가는 것에 대해 공동의 법적 책임을 받아들인다면, 기존 잔해 지침의 준수는 더 이상 선의의 문제가 아니게 될 것이다. 그때까지 궤도라는 공유지에 대한 관리 책임은 아무도 지킬 의무가 없는 약속으로 남을 것이다.",
+    "structure": "· Were the major launching nations to accept ~ : If를 생략하고 were를 앞으로 보낸 가정법 도치(= If the major launching nations were to accept ~). were to는 실현 가능성이 낮은 미래를 가정한다.\n· what they leave behind : 선행사를 포함한 관계대명사 what — '그들이 남기고 가는 것'.\n· cease to be ~ : '더 이상 ~이 아니게 되다'(cease는 to부정사를 목적어로 받는다).\n· a promise that no one is obliged to keep : 목적격 관계대명사 that(keep의 목적어가 a promise), 생략 가능한 자리다."
+  }
+}
