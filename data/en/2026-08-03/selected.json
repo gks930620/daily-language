@@ -1,0 +1,335 @@
+{
+  "date": "2026-08-03",
+  "words": [
+    {
+      "headword": "severance",
+      "pos": "n.",
+      "ko": "해고 수당, 퇴직금; 단절",
+      "example_en": "Employees who accepted the buyout received six months of severance.",
+      "example_ko": "명예퇴직안을 받아들인 직원들은 6개월치 해고 수당을 받았다.",
+      "collocations": [
+        "severance pay",
+        "severance package"
+      ],
+      "note": "sever(자르다, 끊다) + -ance — 고용 관계를 '잘라 낼' 때 주는 돈이다. sever ties(관계를 끊다)의 그 sever와 같은 뿌리이며, several(몇몇의)도 어원상 '따로 떼어 낸'에서 갈라져 나왔다.",
+      "family": [
+        {
+          "word": "sever",
+          "pos": "v.",
+          "ko": "절단하다, (관계를) 끊다"
+        }
+      ]
+    },
+    {
+      "headword": "payroll",
+      "pos": "n.",
+      "ko": "급여 대장; 임금 총액",
+      "example_en": "Trimming the payroll by ten percent was the board's first demand.",
+      "example_ko": "임금 총액을 10퍼센트 줄이는 것이 이사회의 첫 요구였다.",
+      "collocations": [
+        "on the payroll",
+        "payroll tax"
+      ],
+      "note": "pay(급여) + roll(두루마리 명부) — 옛날에 급여 지급 명단을 두루마리에 적던 데서 왔다. 그래서 be on the payroll은 '(그 회사) 직원이다'라는 뜻이 된다.",
+      "related": [
+        {
+          "word": "wage",
+          "ko": "임금",
+          "note": "wage는 노동자가 받는 돈 자체, payroll은 회사가 지급하는 '명단·총액' 쪽 관점이다"
+        }
+      ]
+    },
+    {
+      "headword": "contractor",
+      "pos": "n.",
+      "ko": "(독립) 계약자, 도급업체",
+      "example_en": "The firm hires most of its drivers as independent contractors rather than as staff.",
+      "example_ko": "그 회사는 기사 대부분을 정직원이 아니라 독립 계약자로 고용한다.",
+      "collocations": [
+        "independent contractor",
+        "defense contractor"
+      ],
+      "note": "contract에서 나왔지만 '계약서'가 아니라 '계약을 맡아 일하는 쪽(사람·업체)'을 가리킨다. 노동 기사에서 contractor라는 말은 곧 '4대 보험·퇴직금이 없는 신분'을 함축한다.",
+      "family": [
+        {
+          "word": "contract",
+          "pos": "n./v.",
+          "ko": "계약; 계약하다; 수축하다"
+        },
+        {
+          "word": "contractual",
+          "pos": "a.",
+          "ko": "계약상의"
+        }
+      ]
+    },
+    {
+      "headword": "rebut",
+      "pos": "v.",
+      "ko": "반박하다, 반증하다",
+      "example_en": "The company failed to rebut the allegation with any documentary evidence.",
+      "example_ko": "그 회사는 어떤 문서 증거로도 그 주장을 반박하지 못했다.",
+      "collocations": [
+        "rebut a claim",
+        "rebut the presumption"
+      ],
+      "note": "re-(되받아) + but(치다, butt 계열) — 상대의 주장을 '되받아치다'. 그냥 사실이 아니라고 부인하는 deny와 달리, rebut은 근거를 들어 상대 논리를 무너뜨린다는 뜻이다.",
+      "related": [
+        {
+          "word": "refute",
+          "ko": "논박하다",
+          "note": "refute는 '완전히 틀렸음을 입증해 끝냈다'는 뉘앙스, rebut은 '반론을 제기했다'는 단계까지를 가리킨다"
+        }
+      ]
+    },
+    {
+      "headword": "presumption",
+      "pos": "n.",
+      "ko": "추정; 주제넘음",
+      "example_en": "The law starts from the presumption that the worker is an employee.",
+      "example_ko": "그 법은 노무 제공자가 피고용인이라는 추정에서 출발한다.",
+      "collocations": [
+        "presumption of innocence",
+        "rebut a presumption"
+      ],
+      "note": "pre-(미리) + sume(취하다) — 증거가 나오기 전에 '미리 취해 두는' 결론이다. 파생에서 뜻이 갈라지니 주의할 것: presumably는 '아마', presumptuous는 '주제넘은'으로 '추정하는'이 아니다.",
+      "family": [
+        {
+          "word": "presume",
+          "pos": "v.",
+          "ko": "추정하다"
+        },
+        {
+          "word": "presumably",
+          "pos": "ad.",
+          "ko": "아마, 짐작건대"
+        },
+        {
+          "word": "presumptuous",
+          "pos": "a.",
+          "ko": "주제넘은, 건방진 — '추정하는'이 아님"
+        }
+      ]
+    },
+    {
+      "headword": "remuneration",
+      "pos": "n.",
+      "ko": "보수, 급여",
+      "example_en": "Executive remuneration has risen far faster than average wages.",
+      "example_ko": "임원 보수는 평균 임금보다 훨씬 빠르게 올랐다.",
+      "collocations": [
+        "executive remuneration",
+        "adequate remuneration"
+      ],
+      "note": "munus(선물·의무) 계열로, re-(되돌려) 주는 '대가'다. 철자 함정에 주의 — renumeration(x)이 아니다(number와 아무 관계가 없다). 계약서·연차보고서에 쓰는 격식체로 pay보다 훨씬 딱딱하다.",
+      "related": [
+        {
+          "word": "compensation",
+          "ko": "보수; 보상",
+          "note": "미국 문서는 compensation, 영국·EU 문서는 remuneration을 즐겨 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "bargain",
+      "pos": "v./n.",
+      "ko": "교섭하다, 흥정하다; 싸게 산 물건",
+      "example_en": "The union won the right to bargain collectively over pay and schedules.",
+      "example_ko": "노조는 임금과 근무 일정을 두고 단체로 교섭할 권리를 얻었다.",
+      "collocations": [
+        "collective bargaining",
+        "bargain for",
+        "a bargain price"
+      ],
+      "note": "동사로는 '흥정·교섭하다', 명사로는 '싸게 산 물건'이라는 두 얼굴을 가진 단어다. bargain for ~는 '~을 예상하다'라는 뜻이어서, more than he bargained for는 '예상보다 큰 곤경'이 된다.",
+      "family": [
+        {
+          "word": "bargaining",
+          "pos": "n.",
+          "ko": "교섭, 흥정"
+        }
+      ]
+    },
+    {
+      "headword": "arbitration",
+      "pos": "n.",
+      "ko": "중재",
+      "example_en": "Their contracts require disputes to be settled by arbitration rather than in court.",
+      "example_ko": "그들의 계약서는 분쟁을 법정이 아니라 중재로 해결하도록 요구한다.",
+      "collocations": [
+        "binding arbitration",
+        "arbitration clause"
+      ],
+      "note": "arbiter(판정자)라는 같은 뿌리에서 나왔지만 arbitrary(제멋대로인)와는 뜻이 거의 정반대로 갈라졌다 — arbitration은 제3자가 내리는 '공식 판정 절차'다.",
+      "family": [
+        {
+          "word": "arbitrate",
+          "pos": "v.",
+          "ko": "중재하다"
+        },
+        {
+          "word": "arbitrator",
+          "pos": "n.",
+          "ko": "중재인"
+        }
+      ],
+      "related": [
+        {
+          "word": "arbitrary",
+          "ko": "자의적인, 제멋대로인",
+          "note": "같은 어원에서 뜻이 갈라진 대표 사례 — 판정자가 '마음대로' 정한다는 쪽으로 굳은 말이다"
+        }
+      ]
+    },
+    {
+      "headword": "grievance",
+      "pos": "n.",
+      "ko": "고충, (공식적으로 제기하는) 불만",
+      "example_en": "Workers may file a grievance if the deactivation was unjustified.",
+      "example_ko": "계정 정지가 부당했다면 노동자는 고충을 공식 제기할 수 있다.",
+      "collocations": [
+        "file a grievance",
+        "grievance procedure"
+      ],
+      "note": "grief(큰 슬픔)·grieve(슬퍼하다)와 한 뿌리(무겁다, grave)로 마음을 '무겁게' 하는 것이다. 다만 grievance는 감정이 아니라 '절차를 밟아 제기하는 불만'이라는 뜻으로 굳었다.",
+      "family": [
+        {
+          "word": "grieve",
+          "pos": "v.",
+          "ko": "슬퍼하다"
+        },
+        {
+          "word": "grief",
+          "pos": "n.",
+          "ko": "큰 슬픔, 비탄"
+        }
+      ]
+    },
+    {
+      "headword": "reinstate",
+      "pos": "v.",
+      "ko": "복직시키다, (제도를) 부활시키다",
+      "example_en": "The tribunal ordered the platform to reinstate the drivers it had removed.",
+      "example_ko": "심판소는 그 플랫폼에 자신이 배제했던 기사들을 복직시키라고 명령했다.",
+      "collocations": [
+        "reinstate an employee",
+        "reinstate a policy"
+      ],
+      "note": "re-(다시) + instate(자리에 앉히다, state=지위) — 원래 지위에 '다시 앉히는' 것이다. 사람에게 쓰면 복직, 제도·규정에 쓰면 부활. 철자가 한 글자 다른 restate(다시 진술하다)와 헷갈리지 말 것.",
+      "related": [
+        {
+          "word": "restore",
+          "ko": "복구하다",
+          "note": "restore는 물건·상태 전반에, reinstate는 지위·직위·제도에 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "wholesale",
+      "pos": "a./n.",
+      "ko": "전면적인, 일괄적인; 도매(의)",
+      "example_en": "Critics warned against the wholesale replacement of experienced staff.",
+      "example_ko": "비판자들은 숙련 인력을 전면적으로 교체하는 데 대해 경고했다.",
+      "collocations": [
+        "wholesale change",
+        "wholesale price"
+      ],
+      "note": "본뜻은 '통째로(whole) 판다(sale)' 곧 도매인데, 여기서 '가리지 않고 몽땅, 전면적으로'라는 비유가 나왔다. 시사문에서는 도매라는 원뜻보다 이 비유 쪽이 훨씬 자주 등장한다.",
+      "related": [
+        {
+          "word": "retail",
+          "ko": "소매(의)",
+          "note": "wholesale의 짝 — 도매(wholesale) ↔ 소매(retail)로 묶어 외운다"
+        }
+      ]
+    },
+    {
+      "headword": "slash",
+      "pos": "v.",
+      "ko": "(예산·인원을) 대폭 줄이다; 베다",
+      "example_en": "The airline slashed fares to fill empty seats.",
+      "example_ko": "그 항공사는 빈 좌석을 채우려고 요금을 대폭 내렸다.",
+      "collocations": [
+        "slash prices",
+        "slash jobs"
+      ],
+      "note": "원뜻이 칼로 '휙 베다'라서, cut보다 훨씬 과감하고 극적인 삭감을 뜻한다. 짧고 세게 써야 하는 헤드라인이 애용하는 동사다(cut < slash).",
+      "family": [
+        {
+          "word": "slash",
+          "pos": "n.",
+          "ko": "빗금(/), 벤 자국"
+        }
+      ]
+    },
+    {
+      "headword": "gravitate",
+      "pos": "v.",
+      "ko": "(자연히) 끌리다, 쏠리다",
+      "example_en": "Younger consumers have gravitated toward subscription services.",
+      "example_ko": "더 젊은 소비자들은 구독형 서비스 쪽으로 쏠려 왔다.",
+      "collocations": [
+        "gravitate toward",
+        "gravitate to"
+      ],
+      "note": "gravity(중력)의 동사형 — 중력에 이끌리듯 '저절로 그쪽으로 간다'는 뜻이다. 의식적 선택이라기보다 자연스레 몰린다는 뉘앙스여서 toward와 짝지어 다닌다.",
+      "family": [
+        {
+          "word": "gravity",
+          "pos": "n.",
+          "ko": "중력; 심각성"
+        },
+        {
+          "word": "gravitational",
+          "pos": "a.",
+          "ko": "중력의"
+        }
+      ]
+    },
+    {
+      "headword": "advocate",
+      "pos": "n./v.",
+      "ko": "옹호자, 지지자; 옹호하다, 주장하다",
+      "example_en": "Consumer advocates have long advocated stricter labeling rules.",
+      "example_ko": "소비자 권익 옹호 단체들은 오래전부터 더 엄격한 표시 규정을 주장해 왔다.",
+      "collocations": [
+        "advocate for",
+        "a strong advocate of"
+      ],
+      "note": "ad-(~쪽으로) + voc(목소리) — 누군가를 위해 '목소리를 내 주는' 사람이다. 명사는 [애드버컷], 동사는 [애드버케이트]로 발음이 갈린다. 동사는 advocate + 명사/동명사가 정석이고 advocate to do는 어색하다.",
+      "family": [
+        {
+          "word": "advocacy",
+          "pos": "n.",
+          "ko": "옹호, 지지 활동"
+        }
+      ],
+      "related": [
+        {
+          "word": "proponent",
+          "ko": "지지자",
+          "note": "거의 동의어지만 proponent는 '어떤 안(案)의 지지자', advocate는 '약자·대의를 대변하는 사람' 쪽에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "ostensible",
+      "pos": "a.",
+      "ko": "표면상의, 겉으로 내세우는",
+      "example_en": "The ostensible reason for the reform was efficiency, but the real motive was cost.",
+      "example_ko": "그 개혁의 표면상 이유는 효율이었지만, 진짜 동기는 비용이었다.",
+      "collocations": [
+        "ostensible reason",
+        "ostensible purpose"
+      ],
+      "note": "ostend(내보이다) 계열로 '보여 주기용'이라는 말이다. 뒤에 but으로 진짜 이유가 따라오는 것이 거의 정해진 패턴이라, 이 단어가 보이면 반전을 예상하면 된다. 실제로는 부사 ostensibly가 더 자주 쓰인다.",
+      "family": [
+        {
+          "word": "ostensibly",
+          "pos": "ad.",
+          "ko": "표면상으로는"
+        }
+      ]
+    }
+  ]
+}
