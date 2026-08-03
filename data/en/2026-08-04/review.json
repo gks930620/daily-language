@@ -1,0 +1,858 @@
+{
+  "date": "2026-08-04",
+  "due_words": [
+    {
+      "headword": "abrupt",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "갑작스러운; 퉁명스러운",
+        "example_en": "The meeting came to an abrupt end when the news broke.",
+        "example_ko": "그 소식이 전해지자 회의는 갑작스럽게 끝났다.",
+        "note": "ab-(떨어져)+rupt(깨다) — 흐름이 뚝 끊겨 '갑작스러운'. 사람 태도에 쓰면 '퉁명스러운'. erupt(터지다)·interrupt(중단하다)와 같은 rupt 뿌리.",
+        "family": [
+          {
+            "word": "abruptly",
+            "pos": "ad.",
+            "ko": "갑작스럽게"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "additive",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "첨가물",
+        "example_en": "Regulators require manufacturers to list every additive on the package.",
+        "example_ko": "규제 당국은 제조사에 모든 첨가물을 포장에 표기하도록 요구한다.",
+        "note": "add(더하다)에 -ive가 붙어 '더해 넣은 것'. 철자가 비슷한 addictive(중독성 있는)와 헷갈리기 쉬운데, additive는 d가 하나뿐이고 뜻도 전혀 다르다.",
+        "related": [
+          {
+            "word": "addictive",
+            "ko": "중독성 있는",
+            "note": "addict(중독자)에서 온 말 — 철자만 비슷할 뿐 어원과 뜻이 완전히 다르다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "advocate",
+      "box": 1,
+      "card": {
+        "pos": "n./v.",
+        "ko": "옹호자, 지지자; 옹호하다, 주장하다",
+        "example_en": "Consumer advocates have long advocated stricter labeling rules.",
+        "example_ko": "소비자 권익 옹호 단체들은 오래전부터 더 엄격한 표시 규정을 주장해 왔다.",
+        "note": "ad-(~쪽으로) + voc(목소리) — 누군가를 위해 '목소리를 내 주는' 사람이다. 명사는 [애드버컷], 동사는 [애드버케이트]로 발음이 갈린다. 동사는 advocate + 명사/동명사가 정석이고 advocate to do는 어색하다.",
+        "family": [
+          {
+            "word": "advocacy",
+            "pos": "n.",
+            "ko": "옹호, 지지 활동"
+          }
+        ],
+        "related": [
+          {
+            "word": "proponent",
+            "ko": "지지자",
+            "note": "거의 동의어지만 proponent는 '어떤 안(案)의 지지자', advocate는 '약자·대의를 대변하는 사람' 쪽에 잘 붙는다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "arbitration",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "중재",
+        "example_en": "Their contracts require disputes to be settled by arbitration rather than in court.",
+        "example_ko": "그들의 계약서는 분쟁을 법정이 아니라 중재로 해결하도록 요구한다.",
+        "note": "arbiter(판정자)라는 같은 뿌리에서 나왔지만 arbitrary(제멋대로인)와는 뜻이 거의 정반대로 갈라졌다 — arbitration은 제3자가 내리는 '공식 판정 절차'다.",
+        "family": [
+          {
+            "word": "arbitrate",
+            "pos": "v.",
+            "ko": "중재하다"
+          },
+          {
+            "word": "arbitrator",
+            "pos": "n.",
+            "ko": "중재인"
+          }
+        ],
+        "related": [
+          {
+            "word": "arbitrary",
+            "ko": "자의적인, 제멋대로인",
+            "note": "같은 어원에서 뜻이 갈라진 대표 사례 — 판정자가 '마음대로' 정한다는 쪽으로 굳은 말이다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "backlash",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "반발, 역풍",
+        "example_en": "The airline faced a public backlash after quietly raising its baggage fees.",
+        "example_ko": "그 항공사는 수하물 요금을 조용히 인상한 뒤 대중의 거센 반발에 직면했다.",
+        "note": "back(뒤로) + lash(후려치다) — 휘두른 채찍이 되돌아와 때리는 그림이다. 전치사는 against로 굳어져 a backlash against the policy 형태로 쓴다.",
+        "related": [
+          {
+            "word": "resentment",
+            "ko": "분개, 원한",
+            "note": "resentment는 속에 쌓인 감정, backlash는 겉으로 터져 나온 집단적 반발 행동"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "bargain",
+      "box": 1,
+      "card": {
+        "pos": "v./n.",
+        "ko": "교섭하다, 흥정하다; 싸게 산 물건",
+        "example_en": "The union won the right to bargain collectively over pay and schedules.",
+        "example_ko": "노조는 임금과 근무 일정을 두고 단체로 교섭할 권리를 얻었다.",
+        "note": "동사로는 '흥정·교섭하다', 명사로는 '싸게 산 물건'이라는 두 얼굴을 가진 단어다. bargain for ~는 '~을 예상하다'라는 뜻이어서, more than he bargained for는 '예상보다 큰 곤경'이 된다.",
+        "family": [
+          {
+            "word": "bargaining",
+            "pos": "n.",
+            "ko": "교섭, 흥정"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "confound",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "혼란시키다; (변수가) 교란하다",
+        "example_en": "Differences in income confound any simple comparison between the two groups.",
+        "example_ko": "소득 차이가 두 집단 간의 단순 비교를 교란한다.",
+        "note": "con-(함께) + found(fund-, 붓다) → '뒤섞어 붓다'. 일상 뜻은 confuse의 격식체지만, 연구·통계 문맥에서는 '제3의 변수가 결과를 왜곡한다'는 전문 용법(confounding variable = 교란변수)으로 쓰인다.",
+        "related": [
+          {
+            "word": "confuse",
+            "ko": "혼동시키다",
+            "note": "confound가 더 격식체이며, '기대를 뒤엎다(confound expectations)'라는 용법은 confuse에 없다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "considerable",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "상당한, 많은",
+        "example_en": "The project will require a considerable amount of time and money.",
+        "example_ko": "그 프로젝트는 상당한 시간과 비용을 필요로 할 것이다.",
+        "note": "양·정도가 '상당한'. 사람 성격을 뜻하는 considerate(사려 깊은)와 절대 혼동 금지 — 접미사 -able/-ate로 뜻이 완전히 갈린다.",
+        "related": [
+          {
+            "word": "considerate",
+            "ko": "사려 깊은, 배려하는",
+            "note": "considerate는 사람의 태도(배려), considerable은 양·정도가 상당함 — 철자가 한 글자 차이라 시험 단골 함정"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "contend",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "주장하다; 다투다",
+        "example_en": "Analysts contend that the recovery is far from secure.",
+        "example_ko": "분석가들은 경기 회복이 결코 확실하지 않다고 주장한다.",
+        "note": "con-(함께)+tend(뻗다) — 서로 힘을 겨루다(다투다)와, 그 힘으로 밀어붙여 '(강하게) 주장하다'의 두 갈래. contend with ~는 '~와 씨름하다'.",
+        "family": [
+          {
+            "word": "contention",
+            "pos": "n.",
+            "ko": "논쟁; 주장"
+          },
+          {
+            "word": "contender",
+            "pos": "n.",
+            "ko": "경쟁자, 도전자"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "contractor",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "(독립) 계약자, 도급업체",
+        "example_en": "The firm hires most of its drivers as independent contractors rather than as staff.",
+        "example_ko": "그 회사는 기사 대부분을 정직원이 아니라 독립 계약자로 고용한다.",
+        "note": "contract에서 나왔지만 '계약서'가 아니라 '계약을 맡아 일하는 쪽(사람·업체)'을 가리킨다. 노동 기사에서 contractor라는 말은 곧 '4대 보험·퇴직금이 없는 신분'을 함축한다.",
+        "family": [
+          {
+            "word": "contract",
+            "pos": "n./v.",
+            "ko": "계약; 계약하다; 수축하다"
+          },
+          {
+            "word": "contractual",
+            "pos": "a.",
+            "ko": "계약상의"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "culprit",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "원인, 주범; 범인",
+        "example_en": "Investigators concluded that outdated software was the main culprit behind the failure.",
+        "example_ko": "조사관들은 구식 소프트웨어가 그 장애의 주범이라고 결론지었다.",
+        "note": "원래 법정에서 피고인을 부르던 말이지만, 시사문에서는 사람이 아니라 '문제를 일으킨 원인'을 가리키는 비유로 훨씬 자주 쓴다 — The main culprit is ~ 형태를 통째로 익혀 두면 좋다.",
+        "related": [
+          {
+            "word": "suspect",
+            "ko": "용의자",
+            "note": "suspect는 아직 의심 단계, culprit은 원인·범인으로 지목이 끝난 쪽"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "curb",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "억제하다",
+        "example_en": "The central bank raised rates in a bid to curb runaway inflation.",
+        "example_ko": "중앙은행은 치솟는 인플레이션을 억제하기 위해 금리를 올렸다.",
+        "note": "원래 '말의 재갈·연석(도로 경계석)'을 뜻하던 말 — 무언가를 경계 안에 가둬 억제한다는 뜻으로 확장. 미국식에선 명사 '연석'으로도 흔히 쓴다."
+      }
+    },
+    {
+      "headword": "exert",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "(영향력·힘을) 행사하다, 발휘하다",
+        "example_en": "Labor unions can exert considerable influence on policy.",
+        "example_ko": "노동조합은 정책에 상당한 영향력을 행사할 수 있다.",
+        "note": "ex-(밖으로)+sert(밀다) — 힘·영향력을 밖으로 밀어내어 행사하다. exert oneself는 '노력하다'. insert(안으로 밀다)와 같은 -sert 뿌리."
+      }
+    },
+    {
+      "headword": "fiscal",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "재정의, 회계의",
+        "example_en": "The new administration promised to rein in the fiscal deficit.",
+        "example_ko": "새 정부는 재정 적자를 억제하겠다고 약속했다.",
+        "note": "라틴어 fiscus(국고)에서 — 정부의 세금·지출에 관한 것. 'fiscal year(회계연도)'로도 자주 나온다. 발음은 [피스컬]."
+      }
+    },
+    {
+      "headword": "gravitate",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "(자연히) 끌리다, 쏠리다",
+        "example_en": "Younger consumers have gravitated toward subscription services.",
+        "example_ko": "더 젊은 소비자들은 구독형 서비스 쪽으로 쏠려 왔다.",
+        "note": "gravity(중력)의 동사형 — 중력에 이끌리듯 '저절로 그쪽으로 간다'는 뜻이다. 의식적 선택이라기보다 자연스레 몰린다는 뉘앙스여서 toward와 짝지어 다닌다.",
+        "family": [
+          {
+            "word": "gravity",
+            "pos": "n.",
+            "ko": "중력; 심각성"
+          },
+          {
+            "word": "gravitational",
+            "pos": "a.",
+            "ko": "중력의"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "grievance",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "고충, (공식적으로 제기하는) 불만",
+        "example_en": "Workers may file a grievance if the deactivation was unjustified.",
+        "example_ko": "계정 정지가 부당했다면 노동자는 고충을 공식 제기할 수 있다.",
+        "note": "grief(큰 슬픔)·grieve(슬퍼하다)와 한 뿌리(무겁다, grave)로 마음을 '무겁게' 하는 것이다. 다만 grievance는 감정이 아니라 '절차를 밟아 제기하는 불만'이라는 뜻으로 굳었다.",
+        "family": [
+          {
+            "word": "grieve",
+            "pos": "v.",
+            "ko": "슬퍼하다"
+          },
+          {
+            "word": "grief",
+            "pos": "n.",
+            "ko": "큰 슬픔, 비탄"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "imperative",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "긴요한 과제, 반드시 필요한 것",
+        "example_en": "It is imperative that we address climate change without delay.",
+        "example_ko": "우리가 지체 없이 기후 변화에 대응하는 것이 반드시 필요하다.",
+        "note": "라틴어 imperare(명령하다)에서 — 형용사로는 '반드시 해야 하는', 명사로는 '꼭 필요한 것'. 문법의 '명령법'도 imperative. 'It is imperative that + 주어 + (should) 동사원형' 형태에 주의."
+      }
+    },
+    {
+      "headword": "inconclusive",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "결정적이지 않은",
+        "example_en": "The trial results were inconclusive, so the agency postponed its decision.",
+        "example_ko": "임상 시험 결과가 결정적이지 않아서, 당국은 결정을 미뤘다.",
+        "note": "conclude(결론짓다) → conclusive(결정적인)에 부정 접두사 in-이 붙은 말. conclusive evidence(결정적 증거) ↔ inconclusive results(결론을 낼 수 없는 결과)를 쌍으로 외우면 논설문 독해에서 바로 써먹을 수 있다.",
+        "family": [
+          {
+            "word": "conclude",
+            "pos": "v.",
+            "ko": "결론짓다; 끝내다"
+          },
+          {
+            "word": "conclusive",
+            "pos": "a.",
+            "ko": "결정적인, 확정적인"
+          },
+          {
+            "word": "conclusion",
+            "pos": "n.",
+            "ko": "결론"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "levy",
+      "box": 2,
+      "card": {
+        "pos": "n./v.",
+        "ko": "부과금; (세금을) 부과하다",
+        "example_en": "The government plans to levy an additional tax on imported luxury goods.",
+        "example_ko": "정부는 수입 사치품에 추가 세금을 부과할 계획이다.",
+        "note": "프랑스어 lever(들어 올리다) 계열로, 세금을 '거둬 올린다'는 그림이다. tax가 세금 일반을 가리키는 반면 levy는 특정 목적으로 매기는 부과금·부과 행위를 가리켜 규제 기사에 자주 나온다.",
+        "related": [
+          {
+            "word": "impose",
+            "ko": "부과하다",
+            "note": "levy와 짝으로 붙는 동사 — impose a levy on ~ 형태로 통째로 외워 두면 좋다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "monetary",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "통화의, 화폐의",
+        "example_en": "The central bank tightened monetary policy to combat inflation.",
+        "example_ko": "중앙은행은 인플레이션에 맞서기 위해 통화 정책을 긴축했다.",
+        "note": "money와 같은 뿌리(라틴 moneta). 금리·통화량을 다루는 중앙은행의 영역이 monetary이고, 세금·지출을 다루는 정부의 영역이 fiscal.",
+        "related": [
+          {
+            "word": "fiscal",
+            "ko": "재정의",
+            "note": "monetary는 중앙은행의 금리·통화 정책, fiscal은 정부의 세금·지출 정책 — 짝을 이루는 대비어"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "ostensible",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "표면상의, 겉으로 내세우는",
+        "example_en": "The ostensible reason for the reform was efficiency, but the real motive was cost.",
+        "example_ko": "그 개혁의 표면상 이유는 효율이었지만, 진짜 동기는 비용이었다.",
+        "note": "ostend(내보이다) 계열로 '보여 주기용'이라는 말이다. 뒤에 but으로 진짜 이유가 따라오는 것이 거의 정해진 패턴이라, 이 단어가 보이면 반전을 예상하면 된다. 실제로는 부사 ostensibly가 더 자주 쓰인다.",
+        "family": [
+          {
+            "word": "ostensibly",
+            "pos": "ad.",
+            "ko": "표면상으로는"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "outweigh",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "~보다 더 크다, 능가하다",
+        "example_en": "The long-term savings outweigh the initial cost of the equipment.",
+        "example_ko": "장기적인 절감액이 장비의 초기 비용보다 크다.",
+        "note": "동사 앞의 out-은 '~보다 더 잘/더 많이'를 뜻한다(outnumber 수적으로 앞서다, outperform 능가하다, outlive 더 오래 살다). 찬반을 저울질하는 논설문에서 결론을 짓는 핵심 동사다.",
+        "family": [
+          {
+            "word": "outnumber",
+            "pos": "v.",
+            "ko": "수적으로 앞서다"
+          },
+          {
+            "word": "outperform",
+            "pos": "v.",
+            "ko": "(성과에서) 능가하다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "overhaul",
+      "box": 2,
+      "card": {
+        "pos": "v./n.",
+        "ko": "전면 개편하다; 전면 개편",
+        "example_en": "The new director promised a complete overhaul of the hiring process.",
+        "example_ko": "새 이사는 채용 절차의 전면 개편을 약속했다.",
+        "note": "haul(끌다) + over — 배를 뭍으로 끌어올려 밑바닥까지 손보던 데서 '정비'가 나왔고, 거기서 '제도의 전면 개편'으로 넓어졌다. reform보다 '뜯어고친다'는 물리적·전면적 느낌이 강하다.",
+        "related": [
+          {
+            "word": "reform",
+            "ko": "개혁하다",
+            "note": "reform은 방향을 바로잡는 개혁, overhaul은 구조를 통째로 뜯어고치는 정비"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "palatable",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "입에 맞는; 받아들일 만한",
+        "example_en": "The union rejected the first offer, but the revised terms proved more palatable.",
+        "example_ko": "노조는 첫 제안을 거부했지만, 수정된 조건은 더 받아들일 만한 것으로 드러났다.",
+        "note": "palate(입천장·미각)에서 나온 말이라 원뜻은 '입에 맞는'이고, 거기서 '(제안·조건이) 받아들일 만한'이라는 비유 용법으로 확장됐다. 시사문에서는 후자로 더 자주 나온다.",
+        "family": [
+          {
+            "word": "palate",
+            "pos": "n.",
+            "ko": "입천장; 미각, 입맛"
+          },
+          {
+            "word": "unpalatable",
+            "pos": "a.",
+            "ko": "맛없는; 받아들이기 힘든"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "paternalistic",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "온정주의적인, 간섭적인",
+        "example_en": "Opponents dismissed the ban as a paternalistic attempt to dictate personal choices.",
+        "example_ko": "반대자들은 그 금지 조치를 개인의 선택을 좌우하려는 온정주의적 시도라고 일축했다.",
+        "note": "라틴어 pater(아버지, cf. paternal·patron)에서 왔다 — '아버지가 자식 챙기듯' 당사자를 대신해 결정해 준다는 뜻이라 규제 논쟁에서는 거의 언제나 비판하는 말로 쓰인다.",
+        "family": [
+          {
+            "word": "paternal",
+            "pos": "a.",
+            "ko": "아버지의, 아버지 같은"
+          },
+          {
+            "word": "paternalism",
+            "pos": "n.",
+            "ko": "온정주의, 간섭주의"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "payroll",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "급여 대장; 임금 총액",
+        "example_en": "Trimming the payroll by ten percent was the board's first demand.",
+        "example_ko": "임금 총액을 10퍼센트 줄이는 것이 이사회의 첫 요구였다.",
+        "note": "pay(급여) + roll(두루마리 명부) — 옛날에 급여 지급 명단을 두루마리에 적던 데서 왔다. 그래서 be on the payroll은 '(그 회사) 직원이다'라는 뜻이 된다.",
+        "related": [
+          {
+            "word": "wage",
+            "ko": "임금",
+            "note": "wage는 노동자가 받는 돈 자체, payroll은 회사가 지급하는 '명단·총액' 쪽 관점이다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "precarious",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "위태로운, 불안정한",
+        "example_en": "Many workers in the gig economy earn a precarious living.",
+        "example_ko": "긱 경제의 많은 노동자들은 불안정한 생계를 꾸린다.",
+        "note": "원뜻은 '기도(prayer)로 얻은' → 남의 뜻에 달려 언제 무너질지 모르게 '불안정한'. pray(간청하다)와 같은 prec- 뿌리."
+      }
+    },
+    {
+      "headword": "presumption",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "추정; 주제넘음",
+        "example_en": "The law starts from the presumption that the worker is an employee.",
+        "example_ko": "그 법은 노무 제공자가 피고용인이라는 추정에서 출발한다.",
+        "note": "pre-(미리) + sume(취하다) — 증거가 나오기 전에 '미리 취해 두는' 결론이다. 파생에서 뜻이 갈라지니 주의할 것: presumably는 '아마', presumptuous는 '주제넘은'으로 '추정하는'이 아니다.",
+        "family": [
+          {
+            "word": "presume",
+            "pos": "v.",
+            "ko": "추정하다"
+          },
+          {
+            "word": "presumably",
+            "pos": "ad.",
+            "ko": "아마, 짐작건대"
+          },
+          {
+            "word": "presumptuous",
+            "pos": "a.",
+            "ko": "주제넘은, 건방진 — '추정하는'이 아님"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "prevalence",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "만연; (질병의) 유병률",
+        "example_en": "The report documents a sharp rise in the prevalence of diabetes among younger workers.",
+        "example_ko": "그 보고서는 젊은 노동자들 사이에서 당뇨병 유병률이 급격히 상승했음을 기록한다.",
+        "note": "pre-(앞서) + val(힘, cf. value·valid)로 '남보다 힘이 세다' → '널리 퍼져 우세하다'. 보건 기사에서 the prevalence of는 '유병률'로 옮기는 것이 자연스럽다.",
+        "family": [
+          {
+            "word": "prevail",
+            "pos": "v.",
+            "ko": "널리 퍼지다; 우세하다, 이기다"
+          },
+          {
+            "word": "prevalent",
+            "pos": "a.",
+            "ko": "널리 퍼진, 만연한"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "rationale",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "논리적 근거, 이유",
+        "example_en": "The minister explained the rationale behind the controversial policy.",
+        "example_ko": "장관은 그 논란이 많은 정책의 논리적 근거를 설명했다.",
+        "note": "ratio(비율·이성)와 한 뿌리 — 어떤 결정의 '이성적 근거'. 발음이 [래셔낼]로 rational(이성적인)과 다르며 품사도 다르니 주의.",
+        "related": [
+          {
+            "word": "rational",
+            "ko": "이성적인, 합리적인",
+            "note": "rational은 형용사, rationale은 명사('근거') — 철자·발음이 비슷해 혼동하기 쉽다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "rebut",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "반박하다, 반증하다",
+        "example_en": "The company failed to rebut the allegation with any documentary evidence.",
+        "example_ko": "그 회사는 어떤 문서 증거로도 그 주장을 반박하지 못했다.",
+        "note": "re-(되받아) + but(치다, butt 계열) — 상대의 주장을 '되받아치다'. 그냥 사실이 아니라고 부인하는 deny와 달리, rebut은 근거를 들어 상대 논리를 무너뜨린다는 뜻이다.",
+        "related": [
+          {
+            "word": "refute",
+            "ko": "논박하다",
+            "note": "refute는 '완전히 틀렸음을 입증해 끝냈다'는 뉘앙스, rebut은 '반론을 제기했다'는 단계까지를 가리킨다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "recession",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "경기 침체",
+        "example_en": "Two consecutive quarters of negative growth officially signal a recession.",
+        "example_ko": "2개 분기 연속 마이너스 성장은 공식적으로 경기 침체를 뜻한다.",
+        "note": "re-(뒤로)+cess(가다) — 경제가 '뒤로 물러나는' 것. recede(물러나다)의 명사형이며, proceed·precede와 같은 -cede/-cess(가다) 뿌리.",
+        "family": [
+          {
+            "word": "recede",
+            "pos": "v.",
+            "ko": "물러나다, 약해지다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "reformulate",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "(배합·표현을) 다시 짜다",
+        "example_en": "The company reformulated its best-selling drink to cut the sugar content by half.",
+        "example_ko": "그 회사는 설탕 함량을 절반으로 줄이려고 가장 잘 팔리는 음료의 배합을 다시 짰다.",
+        "note": "re-(다시) + formula(공식·조제법) — 제품에 쓰면 '성분 배합을 바꾸다', 정책·문장에 쓰면 '표현을 다시 다듬다'로 갈린다. 뜻이 두 갈래인 이유가 formula의 두 얼굴에 있다.",
+        "family": [
+          {
+            "word": "formula",
+            "pos": "n.",
+            "ko": "공식; 조제법"
+          },
+          {
+            "word": "formulate",
+            "pos": "v.",
+            "ko": "(계획·이론을) 세우다, 표현하다"
+          },
+          {
+            "word": "formulation",
+            "pos": "n.",
+            "ko": "제조법; 표현 방식"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "regressive",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "역진적인; 퇴행적인",
+        "example_en": "Economists warn that a flat sales tax is deeply regressive.",
+        "example_ko": "경제학자들은 단일 세율의 판매세가 매우 역진적이라고 경고한다.",
+        "note": "re-(뒤로) + gress(가다, cf. progress·congress) → '뒤로 감'. 세금 문맥의 regressive tax는 저소득층이 소득 대비 더 큰 부담을 지는 세금으로, progressive tax(누진세)의 정반대다.",
+        "related": [
+          {
+            "word": "progressive",
+            "ko": "누진적인; 진보적인",
+            "note": "regressive의 반대 — progressive tax는 소득이 높을수록 세율이 올라가는 누진세"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "reinstate",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "복직시키다, (제도를) 부활시키다",
+        "example_en": "The tribunal ordered the platform to reinstate the drivers it had removed.",
+        "example_ko": "심판소는 그 플랫폼에 자신이 배제했던 기사들을 복직시키라고 명령했다.",
+        "note": "re-(다시) + instate(자리에 앉히다, state=지위) — 원래 지위에 '다시 앉히는' 것이다. 사람에게 쓰면 복직, 제도·규정에 쓰면 부활. 철자가 한 글자 다른 restate(다시 진술하다)와 헷갈리지 말 것.",
+        "related": [
+          {
+            "word": "restore",
+            "ko": "복구하다",
+            "note": "restore는 물건·상태 전반에, reinstate는 지위·직위·제도에 쓴다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "remuneration",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "보수, 급여",
+        "example_en": "Executive remuneration has risen far faster than average wages.",
+        "example_ko": "임원 보수는 평균 임금보다 훨씬 빠르게 올랐다.",
+        "note": "munus(선물·의무) 계열로, re-(되돌려) 주는 '대가'다. 철자 함정에 주의 — renumeration(x)이 아니다(number와 아무 관계가 없다). 계약서·연차보고서에 쓰는 격식체로 pay보다 훨씬 딱딱하다.",
+        "related": [
+          {
+            "word": "compensation",
+            "ko": "보수; 보상",
+            "note": "미국 문서는 compensation, 영국·EU 문서는 remuneration을 즐겨 쓴다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "severance",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "해고 수당, 퇴직금; 단절",
+        "example_en": "Employees who accepted the buyout received six months of severance.",
+        "example_ko": "명예퇴직안을 받아들인 직원들은 6개월치 해고 수당을 받았다.",
+        "note": "sever(자르다, 끊다) + -ance — 고용 관계를 '잘라 낼' 때 주는 돈이다. sever ties(관계를 끊다)의 그 sever와 같은 뿌리이며, several(몇몇의)도 어원상 '따로 떼어 낸'에서 갈라져 나왔다.",
+        "family": [
+          {
+            "word": "sever",
+            "pos": "v.",
+            "ko": "절단하다, (관계를) 끊다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "slash",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "(예산·인원을) 대폭 줄이다; 베다",
+        "example_en": "The airline slashed fares to fill empty seats.",
+        "example_ko": "그 항공사는 빈 좌석을 채우려고 요금을 대폭 내렸다.",
+        "note": "원뜻이 칼로 '휙 베다'라서, cut보다 훨씬 과감하고 극적인 삭감을 뜻한다. 짧고 세게 써야 하는 헤드라인이 애용하는 동사다(cut < slash).",
+        "family": [
+          {
+            "word": "slash",
+            "pos": "n.",
+            "ko": "빗금(/), 벤 자국"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "staple",
+      "box": 2,
+      "card": {
+        "pos": "n./a.",
+        "ko": "주식(主食), 주요 산물; 주된",
+        "example_en": "Wheat remains a staple in the region, so any price shock is felt immediately.",
+        "example_ko": "밀은 그 지역의 주식으로 남아 있어서, 어떤 가격 충격이든 즉시 체감된다.",
+        "note": "스테이플러의 '철심'과 형태만 같고 뿌리가 다른 동음이의어다. 시사·경제문에서는 rice is a staple처럼 '없으면 안 되는 기본 식량·필수품'을 뜻하니 철심 쪽 뜻으로 읽지 않도록 주의.",
+        "family": [
+          {
+            "word": "staple food",
+            "ko": "주식(主食)"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "stifle",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "억누르다, 질식시키다",
+        "example_en": "Excessive regulation can stifle innovation and growth.",
+        "example_ko": "과도한 규제는 혁신과 성장을 억누를 수 있다.",
+        "note": "'숨 막히게 하다'가 원뜻 — 성장·반대·하품 등을 눌러 못 나오게 하다. stifle a yawn은 '하품을 참다'."
+      }
+    },
+    {
+      "headword": "stimulus",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "경기 부양책, 자극(제)",
+        "example_en": "The government rolled out a massive stimulus package to revive the economy.",
+        "example_ko": "정부는 경제를 되살리기 위해 대규모 경기 부양책을 내놓았다.",
+        "note": "라틴어로 '가축을 찌르는 막대기' — 경제를 '찔러' 움직이게 하는 부양책. 복수형은 stimuli(스티뮬라이).",
+        "family": [
+          {
+            "word": "stimulate",
+            "pos": "v.",
+            "ko": "자극하다, 활성화하다"
+          },
+          {
+            "word": "stimulation",
+            "pos": "n.",
+            "ko": "자극"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "surge",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "급등, 급증",
+        "example_en": "The company saw a sudden surge in demand for its products.",
+        "example_ko": "그 회사는 자사 제품에 대한 수요가 갑자기 급증하는 것을 목격했다.",
+        "note": "파도가 '솟구치다'에서 온 말 — 가격·수요가 갑자기 치솟는 것. 명사·동사 동형이며, 반대인 급락은 plunge·slump."
+      }
+    },
+    {
+      "headword": "ubiquitous",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "어디에나 있는, 도처에 존재하는",
+        "example_en": "Delivery apps have become ubiquitous in cities of every size.",
+        "example_ko": "배달 앱은 규모를 막론하고 모든 도시에서 어디서나 볼 수 있게 되었다.",
+        "note": "라틴어 ubique(어디에나)에서 온 말로, 원래 '신은 어디에나 계시다'는 신학 용어였다. common(흔한)보다 훨씬 강해 '피할 수 없이 도처에 깔려 있다'는 뉘앙스를 담는다.",
+        "family": [
+          {
+            "word": "ubiquity",
+            "pos": "n.",
+            "ko": "어디에나 있음, 편재"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "volatile",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "변동성이 큰, 불안정한",
+        "example_en": "Investors grew nervous as the stock market turned increasingly volatile.",
+        "example_ko": "주식 시장이 갈수록 변동성이 커지자 투자자들은 불안해했다.",
+        "note": "라틴어 volare(날다)에서 — '날아가 버릴 만큼' 변덕스럽고 불안정하다. 화학에서는 '휘발성의', 경제에서는 '변동성이 큰'."
+      }
+    },
+    {
+      "headword": "wholesale",
+      "box": 1,
+      "card": {
+        "pos": "a./n.",
+        "ko": "전면적인, 일괄적인; 도매(의)",
+        "example_en": "Critics warned against the wholesale replacement of experienced staff.",
+        "example_ko": "비판자들은 숙련 인력을 전면적으로 교체하는 데 대해 경고했다.",
+        "note": "본뜻은 '통째로(whole) 판다(sale)' 곧 도매인데, 여기서 '가리지 않고 몽땅, 전면적으로'라는 비유가 나왔다. 시사문에서는 도매라는 원뜻보다 이 비유 쪽이 훨씬 자주 등장한다.",
+        "related": [
+          {
+            "word": "retail",
+            "ko": "소매(의)",
+            "note": "wholesale의 짝 — 도매(wholesale) ↔ 소매(retail)로 묶어 외운다"
+          }
+        ]
+      }
+    }
+  ],
+  "review_sentence": {
+    "from_date": "2026-07-25",
+    "en": "Adaptation, by contrast, was long treated as an afterthought, an admission of defeat that diplomats were reluctant to put on the table.",
+    "ko": "반면 '적응'은 오랫동안 뒤늦게 떠오른 부차적 문제로, 외교관들이 협상 테이블에 올리기를 꺼렸던 패배의 인정으로 취급되었다.",
+    "structure": "· by contrast : 앞 문장과의 대비를 나타내는 연결어구가 주어와 동사 사이에 삽입.\n· was treated as ~ : treat A as B('A를 B로 취급하다')의 수동태.\n· an afterthought, an admission of defeat : 콤마 뒤 명사구가 앞의 an afterthought와 동격.\n· that diplomats were reluctant to put on the table : 목적격 관계대명사 that절이 an admission을 수식 — put 뒤 목적어 자리가 비어 있다(선행사가 그 자리)."
+  }
+}

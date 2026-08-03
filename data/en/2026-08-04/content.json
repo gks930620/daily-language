@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-04",
+  "passage_note": "도시·관광 — 관광 과잉(오버투어리즘)과 도시 규제의 한계(논설)",
+  "sentences": [
+    {
+      "en": "For decades, city officials in southern Europe courted visitors as an unambiguous good, treating each new arrival as a fresh injection of revenue into an otherwise stagnant local economy.",
+      "ko": "수십 년 동안 남유럽의 시 당국자들은 관광객 유치를 명백히 좋은 일로 여겨 애써 왔고, 새로 오는 방문객 한 명 한 명을 그러지 않았다면 침체돼 있었을 지역 경제에 새로 주입되는 수입으로 취급했다.",
+      "structure": "· treating each new arrival as ~ : 분사구문(동시동작). 생략된 주어는 주절과 같은 city officials.\n· treat A as B = 'A를 B로 여기다/취급하다'. 앞의 courted ~ as an unambiguous good의 as도 같은 '자격·역할'의 as.\n· otherwise는 '그렇지 않았다면(관광이 없었다면)'이라는 가정을 한 단어로 압축한 부사 — stagnant를 수식한다.",
+      "vocab_notes": [
+        { "word": "official", "ko": "당국자, 공무원" },
+        { "word": "court", "ko": "(환심을 사려) 애쓰다, 유치하려 하다" },
+        { "word": "unambiguous", "ko": "명백한, 모호하지 않은" },
+        { "word": "good", "ko": "이로운 것, 선(善)" },
+        { "word": "arrival", "ko": "도착한 사람, 유입객" },
+        { "word": "injection", "ko": "주입" },
+        { "word": "revenue", "ko": "수입, 세수" },
+        { "word": "otherwise", "ko": "그렇지 않았다면; 그 밖의 점에서는" },
+        { "word": "stagnant", "ko": "침체된, 고여 있는" }
+      ]
+    },
+    {
+      "en": "That consensus has frayed as residents of historic districts find themselves priced out of apartments converted into short-term rentals, and as narrow streets built for pedestrians buckle under the weight of cruise passengers disgorged by the thousands.",
+      "ko": "그 공감대는 허물어졌다. 구도심 주민들은 어느새 단기 임대 숙소로 개조된 아파트에서 값에 밀려 쫓겨나고, 보행자를 위해 만들어진 좁은 길은 수천 명씩 쏟아져 나오는 크루즈 승객의 무게에 주저앉고 있기 때문이다.",
+      "structure": "· has frayed as A ~, and as B ~ : 이유·시간을 나타내는 as절 두 개가 and로 병렬된 구조. 긴 문장은 이 두 축을 먼저 갈라 읽는다.\n· find oneself + 과거분사 : '어느새 ~된 상태가 되다'. 여기서 priced out of ~는 '값이 올라 ~에서 밀려난'.\n· converted into ~, built for ~, disgorged by ~ 는 모두 앞의 명사(apartments / streets / passengers)를 뒤에서 꾸미는 과거분사구다.",
+      "vocab_notes": [
+        { "word": "consensus", "ko": "합의, 공감대" },
+        { "word": "fray", "ko": "해지다, (관계·합의가) 허물어지다" },
+        { "word": "resident", "ko": "주민, 거주자" },
+        { "word": "district", "ko": "구역, 지구" },
+        { "word": "be priced out of", "ko": "값이 올라 ~에서 밀려나다" },
+        { "word": "convert", "ko": "개조하다, 전환하다" },
+        { "word": "short-term rental", "ko": "단기 임대(숙박)" },
+        { "word": "pedestrian", "ko": "보행자" },
+        { "word": "buckle", "ko": "휘다, 주저앉다" },
+        { "word": "disgorge", "ko": "쏟아 내다, 토해 내다" },
+        { "word": "by the thousands", "ko": "수천 명씩" }
+      ]
+    },
+    {
+      "en": "Municipal governments have responded with a patchwork of remedies: entry fees for day-trippers, caps on rental licenses, and outright bans on new hotel construction in the most congested quarters.",
+      "ko": "지방자치단체들은 짜깁기식 처방들로 대응해 왔다. 당일치기 관광객에게 물리는 입장료, 임대 허가 건수 상한, 그리고 가장 혼잡한 구역에서의 신규 호텔 건축 전면 금지 같은 것들이다.",
+      "structure": "· 콜론(:) 뒤는 앞의 a patchwork of remedies를 구체적으로 풀어 놓은 동격 부분 — 명사구 세 개(entry fees / caps / bans)가 병렬된다.\n· respond with ~ = '~로써 대응하다'. respond to ~('~에 응답하다')와 전치사를 구분할 것.\n· caps on ~, bans on ~ 처럼 '제한·금지'의 대상은 전치사 on으로 붙는다.",
+      "vocab_notes": [
+        { "word": "municipal", "ko": "지방자치의, 시(市)의" },
+        { "word": "patchwork", "ko": "짜깁기, 뒤죽박죽 모아 놓은 것" },
+        { "word": "remedy", "ko": "해결책, 처방" },
+        { "word": "entry fee", "ko": "입장료" },
+        { "word": "day-tripper", "ko": "당일치기 관광객" },
+        { "word": "cap", "ko": "상한(선), 한도" },
+        { "word": "outright", "ko": "전면적인, 노골적인" },
+        { "word": "ban", "ko": "금지(령)" },
+        { "word": "congested", "ko": "혼잡한, 붐비는" },
+        { "word": "quarter", "ko": "(도시의) 구역, 지구" }
+      ]
+    },
+    {
+      "en": "Critics counter that such measures are largely cosmetic, since they neither address the underlying scarcity of housing nor compensate the low-wage workers whose livelihoods depend on the very crowds being deterred.",
+      "ko": "비판자들은 그런 조치가 대체로 겉치레에 불과하다고 반박한다. 주택 부족이라는 근본 원인을 다루지도 않고, 바로 그 쫓아내려는 인파에 생계를 기대고 있는 저임금 노동자들에게 보상을 해 주지도 않기 때문이라는 것이다.",
+      "structure": "· counter that ~ : that절이 counter의 목적어 — '~라고 반박하다'.\n· neither A nor B : 동사 address와 compensate가 병렬로 묶여 둘 다 주어 they에 걸린다.\n· whose livelihoods depend on ~ : 소유격 관계대명사절, 선행사는 the low-wage workers.\n· the very crowds being deterred에서 very는 '바로 그'라는 강조 형용사, being deterred는 진행형 수동의 분사구로 crowds를 뒤에서 수식한다.",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판자, 비평가" },
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "measure", "ko": "조치, 대책" },
+        { "word": "cosmetic", "ko": "겉치레의, 눈가림식의" },
+        { "word": "address", "ko": "(문제를) 다루다, 해결하려 나서다" },
+        { "word": "underlying", "ko": "근본적인, 밑에 깔린" },
+        { "word": "scarcity", "ko": "부족, 희소" },
+        { "word": "compensate", "ko": "보상하다" },
+        { "word": "low-wage", "ko": "저임금의" },
+        { "word": "livelihood", "ko": "생계" },
+        { "word": "deter", "ko": "막다, 못 오게 하다" }
+      ]
+    },
+    {
+      "en": "What remains unresolved is whether a city can curate its own popularity without hollowing out the everyday life that made it appealing in the first place.",
+      "ko": "여전히 풀리지 않은 문제는, 도시가 애초에 그곳을 매력적으로 만들었던 일상을 텅 비워 버리지 않으면서 자기 인기를 선별해 관리할 수 있느냐는 것이다.",
+      "structure": "· What remains unresolved : 관계대명사 what이 이끄는 명사절이 문장의 주어. remain + 형용사 = '~인 상태로 남다'.\n· is whether ~ : whether절이 보어로 쓰인 명사절('~인지 아닌지').\n· without hollowing out ~ : 전치사 without + 동명사.\n· that made it appealing : 주격 관계대명사절, 선행사는 the everyday life. make + 목적어 + 형용사(5형식).",
+      "vocab_notes": [
+        { "word": "unresolved", "ko": "해결되지 않은" },
+        { "word": "curate", "ko": "(가려 뽑아) 관리하다, 큐레이팅하다" },
+        { "word": "popularity", "ko": "인기" },
+        { "word": "hollow out", "ko": "속을 비우다, 공동화시키다" },
+        { "word": "appealing", "ko": "매력적인" },
+        { "word": "in the first place", "ko": "애초에" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "influx",
+      "pos": "n.",
+      "ko": "유입, 밀려듦",
+      "example_en": "The city saw a sudden influx of visitors after the new airport opened.",
+      "example_ko": "새 공항이 문을 연 뒤 그 도시에는 방문객이 갑자기 밀려들었다.",
+      "collocations": ["an influx of tourists", "a sudden influx"],
+      "note": "어원: in-(안으로) + flux(흐름, 라틴어 fluere '흐르다'). fluent(유창한 — 말이 흐르는)·fluid(유동체)·affluent(풍족한 — 재물이 흘러드는)가 모두 같은 뿌리다.",
+      "family": [
+        { "word": "flux", "pos": "n.", "ko": "유동, 끊임없는 변화 (in flux = 유동적인)" },
+        { "word": "fluctuate", "pos": "v.", "ko": "변동하다, 오르내리다" }
+      ]
+    },
+    {
+      "headword": "exodus",
+      "pos": "n.",
+      "ko": "대탈출, 대거 이탈",
+      "example_en": "Rising rents have triggered an exodus of longtime residents from the old town.",
+      "example_ko": "임대료 상승은 구도심에서 오래 살던 주민들의 대거 이탈을 촉발했다.",
+      "collocations": ["a mass exodus", "an exodus of residents"],
+      "note": "ex-(밖으로) + hodos(길) — '밖으로 나가는 길'. 구약의 '출애굽기(Exodus)'에서 온 말이라 개인의 이동이 아니라 집단이 무리 지어 빠져나가는 규모감을 담는다.",
+      "related": [
+        { "word": "influx", "ko": "유입", "note": "정확한 반대 짝 — influx는 들어오는 흐름, exodus는 빠져나가는 흐름. 기사에서 한 문단에 나란히 나오는 일이 많다" }
+      ]
+    },
+    {
+      "headword": "gentrification",
+      "pos": "n.",
+      "ko": "고급 주택화, 젠트리피케이션",
+      "example_en": "Gentrification has driven up rents in neighborhoods that were once affordable.",
+      "example_ko": "젠트리피케이션은 한때 값이 감당할 만했던 동네의 임대료를 끌어올렸다.",
+      "collocations": ["rapid gentrification", "resist gentrification"],
+      "note": "영국의 gentry(신사 계급)에서 나온 말 — 낙후 지역에 부유층이 들어와 '신사 동네'가 되면서 원주민이 밀려나는 현상. -fication은 '~로 만드는 과정'(simplify → simplification).",
+      "family": [
+        { "word": "gentrify", "pos": "v.", "ko": "고급 주택화하다" }
+      ]
+    },
+    {
+      "headword": "saturation",
+      "pos": "n.",
+      "ko": "포화 (상태)",
+      "example_en": "The tourist market in the historic center has reached the point of saturation.",
+      "example_ko": "구도심의 관광 시장은 포화점에 이르렀다.",
+      "collocations": ["market saturation", "reach saturation point"],
+      "note": "라틴어 satur(배부른)에서 왔다 — satisfy(충분히 채워 만족시키다)와 한 뿌리. 시장이 '더는 못 먹는' 상태가 market saturation이다. 동사 saturate는 '흠뻑 적시다'라는 물리적 뜻으로도 자주 쓴다.",
+      "family": [
+        { "word": "saturate", "pos": "v.", "ko": "포화시키다; 흠뻑 적시다" },
+        { "word": "saturated", "pos": "a.", "ko": "포화된 (saturated fat = 포화지방)" }
+      ]
+    },
+    {
+      "headword": "amenity",
+      "pos": "n.",
+      "ko": "편의시설",
+      "example_en": "The complex offers amenities such as a gym, a laundry room, and a rooftop garden.",
+      "example_ko": "그 단지는 헬스장, 세탁실, 옥상 정원 같은 편의시설을 갖추고 있다.",
+      "collocations": ["local amenities", "hotel amenities"],
+      "note": "라틴어 amoenus(쾌적한)에서 — '있으면 생활이 쾌적해지는 것'. 부동산·호텔 광고에서는 거의 언제나 복수 amenities로 나오고, 토익 파트7 광고 지문의 단골이다.",
+      "related": [
+        { "word": "facility", "ko": "시설", "note": "facility는 기능을 하는 시설 전반(생산 시설 포함), amenity는 '있으면 삶이 편해지는' 생활 편의 쪽" }
+      ]
+    },
+    {
+      "headword": "lodging",
+      "pos": "n.",
+      "ko": "숙박, 숙소",
+      "example_en": "The conference fee does not cover meals or lodging.",
+      "example_ko": "학회 참가비에는 식사나 숙박이 포함되어 있지 않다.",
+      "collocations": ["food and lodging", "overnight lodging"],
+      "note": "동사 lodge(묵다)의 명사형. lodge에는 전혀 다른 뜻이 하나 더 있어서 lodge a complaint(불만을 제기하다)로도 자주 나오니 함께 외운다.",
+      "family": [
+        { "word": "lodge", "pos": "v.", "ko": "묵다; (불만·항의를) 정식으로 제기하다" }
+      ]
+    },
+    {
+      "headword": "surcharge",
+      "pos": "n.",
+      "ko": "추가 요금, 할증료",
+      "example_en": "Airlines imposed a fuel surcharge when oil prices spiked.",
+      "example_ko": "유가가 급등하자 항공사들은 유류 할증료를 부과했다.",
+      "collocations": ["a fuel surcharge", "impose a surcharge"],
+      "note": "sur-(위에 더해) + charge(요금) — 기본요금 '위에' 얹는 돈. sur-는 surplus(남아서 넘치는 것=잉여)·surpass(넘어서다=능가하다)·surface(위 얼굴=표면)에서도 똑같이 '위·초과'다.",
+      "related": [
+        { "word": "surplus", "ko": "잉여, 흑자", "note": "같은 sur-(초과) 계열 — 접두사로 묶어 외우면 처음 보는 sur- 단어도 뜻을 짐작할 수 있다" }
+      ]
+    },
+    {
+      "headword": "revitalize",
+      "pos": "v.",
+      "ko": "활성화하다, 다시 살리다",
+      "example_en": "The council spent millions to revitalize the decaying waterfront.",
+      "example_ko": "시의회는 쇠락해 가는 해안가를 되살리는 데 수백만 달러를 썼다.",
+      "collocations": ["revitalize the economy", "revitalize a neighborhood"],
+      "note": "re-(다시) + vital(생명의) + -ize(~하게 만들다) — '생기를 다시 불어넣다'. vital·vitality·vitamin이 모두 라틴어 vita(생명)에서 왔다. 도시 재생 기사의 단골 동사.",
+      "family": [
+        { "word": "vital", "pos": "a.", "ko": "필수적인; 생명의" },
+        { "word": "vitality", "pos": "n.", "ko": "활력, 생명력" }
+      ]
+    },
+    {
+      "headword": "dilapidated",
+      "pos": "a.",
+      "ko": "다 허물어져 가는, 낡아 빠진",
+      "example_en": "Several dilapidated buildings near the harbor are scheduled for demolition.",
+      "example_ko": "항구 근처의 허물어져 가는 건물 몇 채가 철거될 예정이다.",
+      "collocations": ["a dilapidated building", "fall into a dilapidated state"],
+      "note": "dis-(흩어져) + lapis(돌) — 돌이 하나씩 빠져나가 무너지는 그림. 오래 방치돼 낡은 건물·차량에 쓰고 사람에게는 쓰지 않는다는 점이 old와 다르다.",
+      "related": [
+        { "word": "run-down", "ko": "황폐한, 허름한", "note": "구어에서 같은 뜻으로 쓰는 짝 — dilapidated가 문어·격식체" }
+      ]
+    },
+    {
+      "headword": "peripheral",
+      "pos": "a.",
+      "ko": "주변부의; 지엽적인, 부차적인",
+      "example_en": "Housing costs are hardly peripheral to the debate over tourism.",
+      "example_ko": "주거 비용은 관광 논쟁에서 결코 지엽적인 문제가 아니다.",
+      "collocations": ["a peripheral issue", "peripheral vision"],
+      "note": "peri-(둘레) + pherein(나르다) → periphery(주변부). 컴퓨터 주변기기를 peripherals라 하는 것도 같은 말이다. 독해에서는 'peripheral to ~(~에서 핵심이 아닌)'라는 비유로 더 자주 나온다.",
+      "family": [
+        { "word": "periphery", "pos": "n.", "ko": "주변부, 외곽" }
+      ]
+    },
+    {
+      "headword": "culminate",
+      "pos": "v.",
+      "ko": "정점에 이르다, 결국 ~로 귀결되다",
+      "example_en": "Months of protest culminated in a citywide vote on tourist caps.",
+      "example_ko": "몇 달에 걸친 시위는 결국 관광객 상한제에 관한 시 전역 투표로 이어졌다.",
+      "collocations": ["culminate in an agreement", "culminate in violence"],
+      "note": "라틴어 culmen(꼭대기)에서 — 'culminate in + 명사' 형태가 거의 고정이라 통째로 외운다. '~로 끝을 맺다'로 옮기면 자연스럽고, 좋은 결말·나쁜 결말 양쪽에 다 쓴다.",
+      "family": [
+        { "word": "culmination", "pos": "n.", "ko": "절정, 정점" }
+      ]
+    },
+    {
+      "headword": "forfeit",
+      "pos": "v.",
+      "ko": "(권리를) 잃다, 몰수당하다",
+      "example_en": "Landlords who violate the rental cap forfeit their license for two years.",
+      "example_ko": "임대 상한을 어긴 임대인은 2년간 허가를 박탈당한다.",
+      "collocations": ["forfeit the right", "forfeit a deposit"],
+      "note": "for-(잘못) + faire(하다) — '잘못한 대가로 내놓게 되다'. 그래서 단순히 잃는 lose와 달리 위반·과실의 대가라는 뉘앙스가 반드시 붙는다.",
+      "related": [
+        { "word": "confiscate", "ko": "압수하다, 몰수하다", "note": "confiscate는 남이 빼앗아 가는 쪽(주어=당국), forfeit는 당사자가 잃는 쪽(주어=위반한 사람)" }
+      ]
+    },
+    {
+      "headword": "warrant",
+      "pos": "v.",
+      "ko": "~할 만하다, 정당화하다 (명사로는 영장)",
+      "example_en": "The volume of complaints warrants a full review of the licensing system.",
+      "example_ko": "민원의 양을 보면 허가 제도 전반을 재검토할 만하다.",
+      "collocations": ["warrant attention", "warrant further investigation"],
+      "note": "뉴스에서는 명사 '영장'으로 익숙하지만, 독해에서는 동사 'warrant + 명사 = ~을 받을 만하다'(deserve의 격식체)로 훨씬 자주 나온다. warranty(품질 보증)와 같은 뿌리 — '보증하다 → 그럴 만하다고 보증하다'.",
+      "family": [
+        { "word": "warranty", "pos": "n.", "ko": "품질 보증(서)" }
+      ]
+    },
+    {
+      "headword": "concede",
+      "pos": "v.",
+      "ko": "(마지못해) 인정하다, 양보하다",
+      "example_en": "Officials conceded that the entry fee had done little to reduce crowds.",
+      "example_ko": "당국자들은 입장료가 인파를 줄이는 데 별 효과가 없었다고 인정했다.",
+      "collocations": ["concede defeat", "grudgingly concede"],
+      "note": "con-(함께) + cedere(가다, 물러나다) — 논쟁에서 한 발 물러서서 상대 말을 인정하는 것. 명사형 concession(양보; 인정)과 세트로 외우고, 같은 cedere 계열인 recede(물러나다)·precede(앞서다)도 함께 묶인다.",
+      "family": [
+        { "word": "concession", "pos": "n.", "ko": "양보, 인정" }
+      ]
+    },
+    {
+      "headword": "provisional",
+      "pos": "a.",
+      "ko": "잠정적인, 임시의",
+      "example_en": "The council approved a provisional cap on cruise ship arrivals.",
+      "example_ko": "시의회는 크루즈선 입항에 대한 잠정 상한을 승인했다.",
+      "collocations": ["a provisional agreement", "provisional results"],
+      "note": "provide(미리 마련해 두다)와 한 뿌리 — '우선 마련해 둔' 것이라 확정 전 임시라는 뜻이다. temporary가 '기간이 짧다'에 초점이라면 provisional은 '확정 전'에 초점.",
+      "family": [
+        { "word": "provision", "pos": "n.", "ko": "(법률·계약의) 조항; 공급, 대비 — 뜻이 셋으로 갈리니 문맥으로 구분" }
+      ]
+    },
+    {
+      "headword": "unprecedented",
+      "pos": "a.",
+      "ko": "전례 없는",
+      "example_en": "The city recorded an unprecedented number of overnight visitors last summer.",
+      "example_ko": "그 도시는 지난여름 전례 없는 수의 숙박 방문객을 기록했다.",
+      "collocations": ["unprecedented growth", "on an unprecedented scale"],
+      "note": "un- + precedent(선례) = pre-(앞) + cedere(가다), 즉 '앞서 간 것이 없다'. concede·recede와 같은 cedere 뿌리로 묶어 두면 한 번에 여러 단어가 정리된다.",
+      "family": [
+        { "word": "precedent", "pos": "n.", "ko": "선례, 판례" },
+        { "word": "precede", "pos": "v.", "ko": "~에 앞서다, 선행하다" }
+      ]
+    },
+    {
+      "headword": "resilient",
+      "pos": "a.",
+      "ko": "회복력 있는, 탄력 있는",
+      "example_en": "The local economy proved surprisingly resilient after the tourism slump.",
+      "example_ko": "지역 경제는 관광 침체 이후에도 놀라울 만큼 회복력이 있는 것으로 드러났다.",
+      "collocations": ["a resilient economy", "remarkably resilient"],
+      "note": "re-(뒤로) + salire(뛰다) — 눌렸다가 '되튀어 오르는' 힘. 경제·사람·소재에 두루 쓴다.",
+      "family": [
+        { "word": "resilience", "pos": "n.", "ko": "회복력, 탄력성" }
+      ],
+      "related": [
+        { "word": "resistant", "ko": "저항력 있는", "note": "resistant는 충격을 '막아 내는' 쪽, resilient는 충격을 맞고 '되돌아오는' 쪽 — 시험에서 자주 갈라 묻는다" }
+      ]
+    },
+    {
+      "headword": "discrete",
+      "pos": "a.",
+      "ko": "별개의, 서로 분리된",
+      "example_en": "The report divides the problem into three discrete categories.",
+      "example_ko": "그 보고서는 문제를 세 개의 별개 범주로 나눈다.",
+      "collocations": ["discrete units", "discrete categories"],
+      "note": "dis-(따로) + cernere(가르다) — 하나하나 '갈라 놓은'. 발음이 똑같은 discreet(신중한)와 철자만 다른 대표적 함정 단어이고, discretion(재량; 신중함)은 discreet 쪽 명사다.",
+      "related": [
+        { "word": "discreet", "ko": "신중한, 입이 무거운", "note": "발음 동일 — discrete는 '따로 떨어진', discreet는 '남 눈에 띄지 않게 조심스러운'" }
+      ]
+    }
+  ]
+}
