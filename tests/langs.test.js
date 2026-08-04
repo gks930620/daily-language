@@ -45,6 +45,26 @@ test('LANGS: 등록된 모든 트랙에 필수 키가 완비돼 있다', () => {
   }
 });
 
+test('LANGS: ttsLang은 모든 트랙에 정의돼 있다(문자열 또는 null)', () => {
+  for (const [lang, config] of Object.entries(LANGS)) {
+    assert.ok(
+      'ttsLang' in config,
+      `${lang}.ttsLang은 정의돼 있어야 한다(음성 없음이면 명시적 null)`
+    );
+    const v = config.ttsLang;
+    assert.ok(
+      v === null || (typeof v === 'string' && v.length > 0),
+      `${lang}.ttsLang은 비어 있지 않은 문자열이거나 null`
+    );
+  }
+});
+
+test('LANGS: 발음 음성은 영어만 — ja는 reading이 발음을 대신한다', () => {
+  assert.equal(LANGS.en.ttsLang, 'en');
+  assert.equal(LANGS['ja-n1'].ttsLang, null);
+  assert.equal(LANGS['ja-n2'].ttsLang, null);
+});
+
 test('LANGS: ja 트랙은 reading 필수, en은 아님', () => {
   assert.equal(LANGS.en.requiresReading, false);
   assert.equal(LANGS['ja-n1'].requiresReading, true);

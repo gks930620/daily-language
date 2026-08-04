@@ -200,6 +200,31 @@ details p {
   font-weight: 600;
 }
 
+/* 표제어 발음 재생 버튼.
+   JS 0줄 원칙을 지키려고 네이티브 <audio controls>를 쓰되, 폭을 줄이고 WebKit/Blink의
+   미디어 컨트롤 하위 요소(타임라인·볼륨·시간)를 숨겨 재생 버튼 하나처럼 보이게 한다. */
+.word-head .say {
+  width: 2.25rem;
+  height: 1.75rem;
+  vertical-align: middle;
+}
+
+.say::-webkit-media-controls-panel {
+  padding: 0;
+  background: transparent;
+}
+
+.say::-webkit-media-controls-current-time-display,
+.say::-webkit-media-controls-time-remaining-display,
+.say::-webkit-media-controls-timeline,
+.say::-webkit-media-controls-timeline-container,
+.say::-webkit-media-controls-volume-slider,
+.say::-webkit-media-controls-volume-control-container,
+.say::-webkit-media-controls-mute-button,
+.say::-webkit-media-controls-overflow-button {
+  display: none;
+}
+
 .word-head .pos {
   color: var(--muted);
   font-size: 0.75em;

@@ -37,7 +37,7 @@ fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공�
 
 | 경로 | 역할 |
 |---|---|
-| `scripts/lib/langs.js` | **트랙 레지스트리(단일 소스, 트랙 = 언어×난이도)**: label·pageTitle·learnerProfile·newWordCandidates·maxNewWords·promptFile·fixtureFile·requiresReading + `resolveLang(argv)`. 학습자 프로필 문자열은 여기에만 있다. ja-n1/ja-n2는 promptFile·fixtureFile을 공유하고 난이도는 learnerProfile(→ brief.json)로 주입된다. |
+| `scripts/lib/langs.js` | **트랙 레지스트리(단일 소스, 트랙 = 언어×난이도)**: label·pageTitle·learnerProfile·newWordCandidates·maxNewWords·promptFile·fixtureFile·requiresReading·ttsLang + `resolveLang(argv)`. 학습자 프로필 문자열은 여기에만 있다. ja-n1/ja-n2는 promptFile·fixtureFile을 공유하고 난이도는 learnerProfile(→ brief.json)로 주입된다. |
 | `scripts/prepare.js` | 하루의 시작(`--lang` 필수). settled면 `ALREADY_DONE` 후 종료. due 단어 선정 → `review.json` 동결, known_words·최근 회화 주제 수집 → `brief.json`. runlog에 `prepared_at` 기록. |
 | `scripts/settle.js` | content.json 검증(lang 교차검증 포함) → 코드 dedup(NFKC 정규화) → 신규 단어 box 1 등록(최대 20개) → review.json의 due 단어 승급 → 최종 선별본 `selected.json` 동결 → runlog에 settled 마킹. **words.json을 쓰는 유일한 스크립트.** settled면 no-op. 재실행 가드: `added_on === 오늘`은 신규 쿼터에 포함, `last_seen === 오늘`은 승급 건너뜀 — 크래시 후 재실행에도 이중 반영 없음. |
 | `scripts/build.js` | **`--lang`을 받지 않는 유일한 스크립트.** 전 언어의 `data/<lang>/*/`(content+review+selected)를 스캔 → `docs/<lang>/days/*.html` + `docs/<lang>/index.html` + 허브 `docs/index.html`을 처음부터 재생성. "오늘의 단어"는 selected.json 기준(없는 과거 데이터만 content.words 폴백). 단어 상태를 읽지 않는 순수 재생성. |
@@ -47,7 +47,7 @@ fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공�
 | `scripts/lib/store.js` | JSON/텍스트 원자적 쓰기(tmp+rename), 루트 경로, 상태 파일 읽기(`readWordsState(lang)`·`readRunlog(lang)` — lang 필수). |
 | `scripts/lib/srs.js` | 순수 함수: due 선정, 승급, 신규 항목 생성. 파일 I/O 없음(언어 무관). |
 | `scripts/lib/validate.js` | content.json 수제 스키마 검증. `validateContent(content, date, lang)` — content.lang 교차검증, requiresReading 언어는 reading 필수. 실패 필드의 경로를 찍는다. |
-| `scripts/lib/html.js` | 이스케이프 + 페이지 템플릿. JS 0줄, 네이티브 `<details>`만. **언어 분기 없음 — "reading 있으면 렌더" 규칙만.** 페이지 본문은 `renderDaySections` = 문장(문단) + 단어(클러스터)만. ja의 문장 reading은 원문에 후리가나를 인라인으로 단 형태(`class="furigana"`). renderConversation/renderQuiz/renderReviewSentence는 정의는 남아 있으나 미호출(2026-07-22 회화·복습 제거, 복원용). |
+| `scripts/lib/html.js` | 이스케이프 + 페이지 템플릿. JS 0줄, 네이티브 `<details>`·`<audio>`만. **언어 분기 없음 — "reading 있으면 렌더"·"ttsLang 있으면 발음 음성" 규칙만.** 페이지 본문은 `renderDaySections` = 문장(문단) + 단어(클러스터)만. ja의 문장 reading은 원문에 후리가나를 인라인으로 단 형태(`class="furigana"`). renderConversation/renderQuiz/renderReviewSentence는 정의는 남아 있으나 미호출(2026-07-22 회화·복습 제거, 복원용). |
 | `prompts/generator.en.md` / `prompts/generator.ja.md` | generate 단계(AI)의 지침. ja 파일은 두 트랙 공유 — 난이도 캘리브레이션 표(N1/N2 취득자)를 내장하고 brief의 learner_profile로 구분. 입력 brief.json, 출력 content.json 하나. 프로필은 brief.json 참조(재기재 금지). |
 | `.github/workflows/daily.yml` | 주 실행 경로. prepare ×3 → [EN 블록: generate→settle→build+verify→commit "daily(en): DATE"] → [JA-N1 블록: 동일, "daily(ja-n1): DATE"] → [JA-N2 블록: 동일, "daily(ja-n2): DATE"]. 2번째 블록부터 push 직전 `git pull --rebase`. settle 스텝은 `set -o pipefail`(기본 셸은 pipefail 꺼짐 — 없으면 tee가 실패를 가림). |
 | `prompts/routine.md` | claude.ai 루틴에 붙여넣는 프롬프트 원본(예비 경로 — 현재 미사용, 언어 축 이전 기준). |
@@ -138,4 +138,5 @@ fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공�
 | [A4] 워크플로 커밋은 트랙별(daily(en) → daily(ja-n1) → daily(ja-n2)) | 한 트랙의 실패가 다른 트랙의 산출물 커밋을 막지 않는다. 2번째 블록부터 push 직전 `git pull --rebase`는 앞 블록 push로 원격이 앞서 있는 경우의 보험. |
 | [A6] ja는 N1/N2 취득자 두 트랙, 프롬프트·픽스처 공유 | 사용자 확정 철학: 기초·시험 대비는 정해진 커리큘럼으로 각자, 생성 콘텐츠는 기초 완료자의 "매일 30분, 흥미 유지"용. 난이도는 파일 복제가 아니라 learnerProfile 주입으로 갈라 중복 정의를 없앤다. |
 | [A7] 단어 지식 필수(note) — 무작위 나열 대신 연관 클러스터+단어 지식 | 사용자 확정: "무작위 단어 나열은 안 외워진다. 예문보다 파생형(-tion/-ive/-ful과 뜻 변화)·혼동어(late/lately)·어원 같은 단어 지식이 중요하고, 회화 주제와 연관된 단어가 잘 외워진다." → 후보의 절반 이상은 그날 회화·문장 소재 연관 클러스터, note는 전 트랙 필수, family(파생)/related(혼동어)는 있으면 담기·card에 스냅샷·퀴즈 정답에서 재노출. 렌더는 "있으면 렌더"라 note 없는 과거 데이터와 하위 호환. |
+| [A9] 표제어 발음 음성은 **URL 생성**(상태·네트워크 없음), 트랙 설정 `ttsLang`으로 켬 | 사용자 요구: "영어 단어는 철자만으로 발음을 모르겠다. 단어 하나의 발음 음성만." 음원 URL을 headword에서 결정적으로 만들어 렌더 시점에 붙이므로 **파이프라인·스키마·상태가 전혀 바뀌지 않고 과거 날짜까지 소급 적용**된다(build는 여전히 순수 재생성). 사람 녹음(dictionaryapi.dev 미디어)은 URL을 알려면 파이프라인에 네트워크 호출이 필요하고 조사 시점에 502라 채택하지 않았다. 음성 엔드포인트가 **Referer가 붙은 요청에 404**를 주므로 `page()`에 `<meta name="referrer" content="no-referrer">`가 한 쌍으로 들어간다(이 페이지의 유일한 외부 요청이라 전역으로 꺼도 안전). ja는 reading(후리가나)이 발음을 이미 보여줘 `ttsLang: null`. JS 0줄 유지를 위해 네이티브 `<audio controls preload="none">`을 CSS로 재생 버튼 크기까지 줄였다. |
 | [A8] 문단(passage) 형식 + 허브 날짜 리스트 | 사용자 확정: 무관한 문장 나열 대신 "어떤 글의 한 문단(수능 한 문제 분량)"을 먼저 통으로 읽고 문장별 분석으로 내려간다 — passage_note 필수, 문단 블록은 passage_note 있을 때만 렌더(과거 데이터 하위 호환). 허브는 트랙 선택이 아니라 날짜 내림차순 리스트(그날 있는 트랙만 링크) — 사용 동선이 "오늘 날짜 → 트랙"이기 때문. 문장 마커(`<li class="sentence">`)는 문장당 1개 불변으로 verify 호환. |

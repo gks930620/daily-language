@@ -18,6 +18,9 @@ export const LANGS = {
     promptFile: 'prompts/generator.en.md',
     fixtureFile: 'fixtures/sample-content.en.json',
     requiresReading: false,
+    // 표제어 발음 음성(TTS)의 언어 코드. null이면 그 트랙은 음성을 렌더하지 않는다("있으면 렌더").
+    // 영어만 켠 이유: ja는 reading(후리가나)이 이미 발음을 보여주지만 영어는 철자만으로 발음을 알 수 없다.
+    ttsLang: 'en',
   },
   'ja-n1': {
     label: '일본어 N1',
@@ -29,6 +32,7 @@ export const LANGS = {
     promptFile: 'prompts/generator.ja.md',
     fixtureFile: 'fixtures/sample-content.ja.json',
     requiresReading: true,
+    ttsLang: null, // reading(후리가나)이 발음을 이미 보여준다
   },
   'ja-n2': {
     label: '일본어 N2',
@@ -40,6 +44,7 @@ export const LANGS = {
     promptFile: 'prompts/generator.ja.md',
     fixtureFile: 'fixtures/sample-content.ja.json',
     requiresReading: true,
+    ttsLang: null,
   },
 };
 

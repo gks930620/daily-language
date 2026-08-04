@@ -44,7 +44,7 @@ ${nav}
 <h1>${esc(date)} ${esc(config.label)} 학습</h1>
 </header>
 <main>
-${renderDaySections(content, review)}
+${renderDaySections(content, review, config.ttsLang)}
 </main>
 <footer>
 ${nav}
@@ -58,7 +58,7 @@ function buildLangIndex(lang, config, days) {
     const latest = days[days.length - 1];
     const { content, review } = loadDay(lang, latest);
     latestBlock = `<p class="latest-date">최신: <a href="days/${esc(latest)}.html">${esc(latest)}</a></p>
-${renderDaySections(content, review)}`;
+${renderDaySections(content, review, config.ttsLang)}`;
   }
   const archive =
     days.length > 0

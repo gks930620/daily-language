@@ -22,6 +22,8 @@ export function page({ title, body, relRoot = '' }) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 발음 음성(TTS) 엔드포인트는 Referer가 붙은 요청에 404를 준다. 이 페이지의 유일한 외부 요청이라 문서 전역으로 꺼도 안전. -->
+<meta name="referrer" content="no-referrer">
 <title>${esc(title)}</title>
 <link rel="stylesheet" href="${relRoot}assets/style.css">
 </head>
@@ -79,6 +81,17 @@ ${items}
 }
 
 /**
+ * 표제어 발음 음성 URL. 트랙의 ttsLang(langs.js)이 있을 때만 쓰인다.
+ * 단어 하나만 읽어 주는 용도 — 예문·문장에는 붙이지 않는다.
+ * 주의: 이 엔드포인트는 Referer가 붙으면 404다. page()의 no-referrer 메타와 한 쌍으로 동작한다.
+ */
+export function ttsUrl(text, ttsLang) {
+  return `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=${encodeURIComponent(
+    ttsLang
+  )}&q=${encodeURIComponent(text)}`;
+}
+
+/**
  * 단어 지식(note·family·related) 보조 렌더 — "있으면 렌더" 원칙(reading과 동일).
  * 단어 표의 예문 셀 하단과 복습 퀴즈 정답 안에서 공유한다.
  * 반환물은 클래스가 다른 서브 요소뿐 — verify의 마커(<tr class="word-row"> 등)와 겹치지 않는다.
@@ -106,14 +119,21 @@ export function renderWordKnowledge(w) {
 
 /**
  * ② 오늘의 단어 섹션(클러스터형). 단어당 마커는 정확히 <article class="word-item"> 하나.
- * head(표제어·reading·품사·뜻) → 예문 → note(어원·감각) → family(파생) → related(구분) →
+ * head(표제어·reading·발음 음성·품사·뜻) → 예문 → note(어원·감각) → family(파생) → related(구분) →
  * collocations 순. reading·note·family·related·collocations는 전부 "있으면 렌더".
+ * ttsLang(트랙 설정)이 있을 때만 표제어 옆에 발음 재생 버튼을 붙인다 — 같은 "있으면 렌더" 규칙.
+ * preload="none"이라 재생을 누르기 전에는 음성을 받지 않는다(단어 15개 × 자동 요청 방지).
  */
-export function renderWords(words) {
+export function renderWords(words, ttsLang = null) {
   const items = words
     .map((w) => {
       const reading = w.reading
         ? ` <small class="reading">${esc(w.reading)}</small>`
+        : '';
+      const say = ttsLang
+        ? ` <audio class="say" controls preload="none" src="${esc(
+            ttsUrl(w.headword, ttsLang)
+          )}"></audio>`
         : '';
       const etym = w.note ? `\n<div class="word-etym">💡 ${esc(w.note)}</div>` : '';
       const family =
@@ -145,7 +165,7 @@ export function renderWords(words) {
             )}</small></div>`
           : '';
       return `<article class="word-item">
-<p class="word-head"><b class="en">${esc(w.headword)}</b>${reading} <span class="pos">${esc(
+<p class="word-head"><b class="en">${esc(w.headword)}</b>${reading}${say} <span class="pos">${esc(
         w.pos
       )}</span> <span class="meaning">${esc(w.ko)}</span></p>
 <p class="word-ex"><span class="en">${esc(w.example_en)}</span><br><small class="ko">${esc(
@@ -245,11 +265,12 @@ ${reading}<p class="ko">${esc(rs.ko)}</p>
  * 회화·복습 퀴즈·복습 문장은 제거(추후 재설계) — renderConversation/renderQuiz/
  * renderReviewSentence 함수 정의는 복원용으로 남겨 두되 여기서 호출하지 않는다.
  * review 인자는 시그니처 호환을 위해 유지(현재 미사용).
+ * ttsLang은 트랙 설정(langs.js)에서 그대로 전달 — null이면 발음 음성이 렌더되지 않는다.
  */
-export function renderDaySections(content, review) {
+export function renderDaySections(content, review, ttsLang = null) {
   return [
     renderSentences(content.sentences, content.passage_note),
-    renderWords(content.words),
+    renderWords(content.words, ttsLang),
   ].join('\n');
 }
 
