@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-05",
+  "passage_note": "환경·농업 — 지하수(대수층) 고갈과 관개 규제의 딜레마(논설)",
+  "sentences": [
+    {
+      "en": "Across much of the world's breadbasket regions, farmers have long treated the aquifers beneath their fields as an inexhaustible reservoir, pumping groundwater at rates that far exceed the pace at which rainfall can replenish it.",
+      "ko": "세계 곡창지대 상당수에서 농부들은 오랫동안 자기 농지 아래의 대수층을 무진장한 저수조로 여겨 왔고, 강수가 그것을 다시 채울 수 있는 속도를 훨씬 웃도는 양으로 지하수를 퍼 올려 왔다.",
+      "structure": "· Across much of ~ regions : 문두에 놓인 전치사구(장소 부사구). 주어는 뒤의 farmers다.\n· treat A as B = 'A를 B로 여기다'. regard A as B, view A as B와 같은 계열.\n· pumping groundwater ~ : 분사구문(동시동작) — 의미상 주어는 주절의 farmers.\n· at rates that far exceed ~ : that은 rates를 받는 주격 관계대명사, far는 비교·정도를 강조하는 부사('훨씬').\n· the pace at which rainfall can replenish it : 「전치사+관계대명사」 at which(= at the pace) — 선행사 pace를 받아 '강수가 ~하는 그 속도'.",
+      "vocab_notes": [
+        { "word": "breadbasket", "ko": "곡창지대" },
+        { "word": "aquifer", "ko": "대수층(지하수를 머금은 지층)" },
+        { "word": "beneath", "ko": "~ 아래에" },
+        { "word": "inexhaustible", "ko": "무진장한, 고갈되지 않는" },
+        { "word": "reservoir", "ko": "저수지, 저장고" },
+        { "word": "pump", "ko": "퍼 올리다" },
+        { "word": "groundwater", "ko": "지하수" },
+        { "word": "exceed", "ko": "초과하다, 넘어서다" },
+        { "word": "pace", "ko": "속도" },
+        { "word": "rainfall", "ko": "강수(량)" },
+        { "word": "replenish", "ko": "다시 채우다, 보충하다" }
+      ]
+    },
+    {
+      "en": "Decades of unchecked extraction have left water tables plummeting, and in the worst-affected districts the ground itself has begun to sink, a phenomenon known as subsidence that permanently destroys the soil's capacity to store water.",
+      "ko": "수십 년에 걸친 무분별한 취수는 지하수면을 계속 곤두박질치게 만들었고, 피해가 가장 심한 지역에서는 땅 자체가 내려앉기 시작했다. 이는 지반 침하라 불리는 현상으로, 물을 저장하는 토양의 능력을 영구히 파괴한다.",
+      "structure": "· 「leave + 목적어 + 현재분사」 have left water tables plummeting = '지하수면이 급락하는 상태로 만들어 놓았다'.\n· in the worst-affected districts : 문중에 삽입된 장소 부사구. worst-affected는 「부사+과거분사」로 만든 복합형용사.\n· the ground itself : itself는 주어를 강조하는 재귀대명사('땅 그 자체가').\n· a phenomenon known as subsidence : 앞 절 내용 전체를 받는 동격 명사구. known as ~는 phenomenon을 뒤에서 수식하는 과거분사구.\n· that permanently destroys ~ : phenomenon을 받는 주격 관계대명사.",
+      "vocab_notes": [
+        { "word": "unchecked", "ko": "제지되지 않은, 방치된" },
+        { "word": "extraction", "ko": "뽑아냄, 채취 (여기서는 취수)" },
+        { "word": "water table", "ko": "지하수면" },
+        { "word": "plummet", "ko": "곤두박질치다, 급락하다" },
+        { "word": "worst-affected", "ko": "피해가 가장 심한" },
+        { "word": "district", "ko": "지역, 구역" },
+        { "word": "sink", "ko": "가라앉다, 내려앉다" },
+        { "word": "phenomenon", "ko": "현상 (복수 phenomena)" },
+        { "word": "subsidence", "ko": "지반 침하" },
+        { "word": "permanently", "ko": "영구히" },
+        { "word": "capacity", "ko": "용량; 능력" }
+      ]
+    },
+    {
+      "en": "Governments have been reluctant to intervene, partly because irrigation subsidies are politically entrenched and partly because metering millions of scattered wells is administratively daunting.",
+      "ko": "정부들은 개입을 꺼려 왔는데, 한편으로는 관개 보조금이 정치적으로 깊이 뿌리내려 있기 때문이고, 다른 한편으로는 흩어져 있는 수백만 개의 우물에 계량기를 다는 일이 행정적으로 엄두가 안 나기 때문이다.",
+      "structure": "· be reluctant to V : '~하기를 꺼리다'. 「형용사 + to부정사」로 감정·태도를 나타내는 형태.\n· partly because A and partly because B : 두 가지 이유를 나란히 제시하는 병렬 구조('한편으로는 ~ 때문이고, 다른 한편으로는 ~ 때문이다').\n· metering millions of scattered wells is ~ : 동명사구가 주어. 동명사 주어는 단수 취급이므로 동사가 is다.\n· entrenched, scattered : 각각 주어의 상태를 나타내는 과거분사(수동 의미).",
+      "vocab_notes": [
+        { "word": "reluctant", "ko": "꺼리는, 마지못한" },
+        { "word": "intervene", "ko": "개입하다" },
+        { "word": "irrigation", "ko": "관개(농지에 물 대기)" },
+        { "word": "subsidy", "ko": "보조금" },
+        { "word": "entrenched", "ko": "깊이 뿌리박힌, 굳어진" },
+        { "word": "meter", "ko": "계량하다, 계량기로 재다 (동사)" },
+        { "word": "scattered", "ko": "흩어져 있는, 산재한" },
+        { "word": "well", "ko": "우물 (명사)" },
+        { "word": "administratively", "ko": "행정적으로" },
+        { "word": "daunting", "ko": "엄두가 안 나는, 벅찬" }
+      ]
+    },
+    {
+      "en": "Where regulators have imposed pumping quotas, the burden has fallen disproportionately on smallholders, who lack the capital to drill deeper or to install the drip systems that would allow them to farm the same acreage with a fraction of the water.",
+      "ko": "규제 당국이 취수 할당량을 부과한 곳에서는 그 부담이 소규모 자작농에게 불균형하게 쏠렸는데, 이들은 더 깊이 시추하거나, 같은 면적을 훨씬 적은 물로 경작하게 해 줄 점적 관개 설비를 설치할 자본이 없다.",
+      "structure": "· Where S+V ~ : 여기서 where는 '~하는 곳에서는'이라는 뜻의 접속사로, 사실상 조건('~한 경우에는')에 가깝게 쓰였다.\n· fall on ~ : 부담·책임이 '~에게 지워지다'.\n· who lack the capital ~ : 콤마 뒤에 온 계속적 용법의 관계대명사('그런데 그들은 ~ 자본이 없다'). 앞의 smallholders를 보충 설명한다.\n· to drill ~ or to install ~ : to부정사 두 개가 or로 병렬되어 the capital을 수식하는 형용사적 용법.\n· that would allow them to farm ~ : the drip systems를 받는 주격 관계대명사 + 「allow + 목적어 + to V」. would는 '설치한다면 ~할 수 있을'이라는 가정의 뉘앙스.",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국, 규제 기관" },
+        { "word": "impose", "ko": "부과하다" },
+        { "word": "quota", "ko": "할당량" },
+        { "word": "burden", "ko": "부담, 짐" },
+        { "word": "disproportionately", "ko": "불균형하게, 지나치게 한쪽으로" },
+        { "word": "smallholder", "ko": "소규모 자작농" },
+        { "word": "lack", "ko": "~이 없다, 부족하다 (타동사)" },
+        { "word": "capital", "ko": "자본, 자금" },
+        { "word": "drill", "ko": "구멍을 뚫다, 시추하다" },
+        { "word": "drip system", "ko": "점적 관개 설비(물방울로 조금씩 주는 방식)" },
+        { "word": "acreage", "ko": "경작 면적" },
+        { "word": "a fraction of", "ko": "~의 극히 일부(아주 적은 양)" }
+      ]
+    },
+    {
+      "en": "Unless allocation rules are redesigned so that conservation becomes profitable rather than punitive, the aquifers will continue to be drained toward a threshold beyond which recovery is measured not in years but in millennia.",
+      "ko": "물 배분 규칙이 절약을 징벌이 아니라 이익이 되게끔 다시 설계되지 않는 한, 대수층은 계속 고갈되어 어떤 임계점을 향해 갈 것이고, 그 지점을 넘어서면 회복은 몇 년이 아니라 수천 년 단위로 측정된다.",
+      "structure": "· Unless S+V : 'if ~ not'과 같은 뜻의 조건 접속사('~하지 않는 한'). 뒤에 다시 부정어를 쓰지 않는다.\n· so that S+V : '~하도록'이라는 목적을 나타내는 부사절.\n· A rather than B : 'B가 아니라 A' — 여기서는 보어 자리의 형용사 profitable과 punitive가 대비된다.\n· continue to be drained : 「to부정사의 수동태(to be p.p.)」 — 대수층이 '고갈되는' 쪽이므로 수동.\n· beyond which ~ : 「전치사+관계대명사」(= beyond the threshold). 선행사 threshold를 받아 '그 지점을 넘어서면'.\n· not A but B : 'A가 아니라 B'. 여기서는 in years와 in millennia가 대비된다.",
+      "vocab_notes": [
+        { "word": "unless", "ko": "~하지 않는 한" },
+        { "word": "allocation", "ko": "배분, 할당" },
+        { "word": "redesign", "ko": "다시 설계하다" },
+        { "word": "conservation", "ko": "보존; (자원) 절약" },
+        { "word": "profitable", "ko": "수익이 되는, 이득이 되는" },
+        { "word": "rather than", "ko": "~라기보다는, ~이 아니라" },
+        { "word": "punitive", "ko": "징벌적인" },
+        { "word": "drain", "ko": "물을 빼내다, 고갈시키다" },
+        { "word": "threshold", "ko": "문턱; 임계점" },
+        { "word": "recovery", "ko": "회복" },
+        { "word": "millennia", "ko": "수천 년 (millennium의 복수)" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "aquifer",
+      "pos": "n.",
+      "ko": "대수층(지하수를 머금은 지층)",
+      "example_en": "Farmers in the region depend almost entirely on an aquifer that is being drained faster than it refills.",
+      "example_ko": "그 지역 농부들은 다시 차는 속도보다 빨리 고갈되고 있는 대수층에 거의 전적으로 의존한다.",
+      "collocations": ["deplete an aquifer", "underground aquifer"],
+      "note": "어원: aqua-(물) + -fer(나르다·품다). aquarium(물+장소)·aqueduct(물+이끌다=수도교)의 aqua와, transfer(가로질러 나르다)·conifer(구과를 품는 나무)의 -fer이 합쳐진 말이라 '물을 품은 층'으로 외운다.",
+      "related": [
+        { "word": "reservoir", "ko": "저수지, 저장고", "note": "reservoir는 지상에 사람이 만든 저수지, aquifer는 땅속 자연 지층 — 기사에서 자주 나란히 나온다" }
+      ]
+    },
+    {
+      "headword": "replenish",
+      "pos": "v.",
+      "ko": "다시 채우다, 보충하다",
+      "example_en": "The store replenishes its shelves twice a week to keep popular items in stock.",
+      "example_ko": "그 매장은 인기 품목의 재고를 유지하려고 일주일에 두 번 진열대를 다시 채운다.",
+      "collocations": ["replenish supplies", "replenish stocks"],
+      "note": "re-(다시) + plen-(가득: plenty 풍부, plenary 전원 참석의, complete 완전한). '비어 버린 것을 다시 가득 채운다'가 핵심이라 재고·자원·체액처럼 '줄어드는 것'에 붙는다.",
+      "family": [
+        { "word": "replenishment", "pos": "n.", "ko": "보충, 재공급" },
+        { "word": "plentiful", "pos": "a.", "ko": "풍부한" }
+      ]
+    },
+    {
+      "headword": "irrigation",
+      "pos": "n.",
+      "ko": "관개(농지에 물을 대는 일)",
+      "example_en": "Efficient irrigation can cut water use by half without reducing crop yields.",
+      "example_ko": "효율적인 관개는 작물 수확량을 줄이지 않고도 물 사용량을 절반으로 줄일 수 있다.",
+      "collocations": ["irrigation system", "drip irrigation"],
+      "note": "라틴 rigare(물을 대다)에서 왔다. 철자가 비슷한 irritate(짜증나게 하다)와 뿌리가 전혀 다르니 '물을 대는 irrigate / 신경을 긁는 irritate'로 갈라서 외운다.",
+      "family": [
+        { "word": "irrigate", "pos": "v.", "ko": "물을 대다, 관개하다" }
+      ],
+      "related": [
+        { "word": "irritate", "ko": "짜증나게 하다", "note": "irrigation과 철자만 닮았을 뿐 뜻이 완전히 다르다 — 시험에서 자주 헷갈리게 내는 짝" }
+      ]
+    },
+    {
+      "headword": "inexhaustible",
+      "pos": "a.",
+      "ko": "무진장한, 고갈되지 않는",
+      "example_en": "No resource is inexhaustible, however abundant it may look today.",
+      "example_ko": "오늘 아무리 풍부해 보여도 무진장한 자원은 없다.",
+      "collocations": ["inexhaustible supply", "inexhaustible resource"],
+      "note": "in-(부정) + exhaust(다 써 버리다) + -ible. 같은 뿌리의 exhaustive는 '지친'이 아니라 '빠짐없이 철저한'(an exhaustive review 철저한 검토)이라는 점이 시험 포인트다.",
+      "family": [
+        { "word": "exhaust", "pos": "v.", "ko": "다 써 버리다; 지치게 하다" },
+        { "word": "exhaustive", "pos": "a.", "ko": "철저한, 빠짐없는 — '지친'이 아님" }
+      ]
+    },
+    {
+      "headword": "subsidence",
+      "pos": "n.",
+      "ko": "지반 침하, 가라앉음",
+      "example_en": "Years of groundwater pumping caused subsidence that cracked roads and pipelines.",
+      "example_ko": "수년간의 지하수 취수는 도로와 배관에 균열을 낸 지반 침하를 일으켰다.",
+      "collocations": ["land subsidence", "ground subsidence"],
+      "note": "sub-(아래) + sid-(앉다: reside 거주하다, preside 주재하다, sediment 침전물) — '아래에 앉아 버림'이 곧 침하다. 동사 subside는 땅이 내려앉는 것 외에 '(통증·소동이) 가라앉다'로도 자주 쓰인다.",
+      "family": [
+        { "word": "subside", "pos": "v.", "ko": "가라앉다, 진정되다" }
+      ]
+    },
+    {
+      "headword": "quota",
+      "pos": "n.",
+      "ko": "할당량, 한도",
+      "example_en": "The government set an annual quota on how much water each farm may pump.",
+      "example_ko": "정부는 각 농가가 퍼 올릴 수 있는 물의 양에 연간 할당량을 정했다.",
+      "collocations": ["import quota", "meet a quota", "quota system"],
+      "note": "라틴 quot(얼마나 많이)에서 온 말로, quotient(몫)·quote(원래 '몇 번째로 매기다')와 한 뿌리다. '전체를 몇으로 나눈 내 몫'이 핵심 이미지라 수입 규제·판매 목표·인원 배정에 두루 쓴다.",
+      "related": [
+        { "word": "quorum", "ko": "의결 정족수", "note": "quota는 '얼마를 배정받는가', quorum은 '몇 명이 모여야 회의가 성립하는가' — 회의·규정 지문에서 짝으로 나온다" }
+      ]
+    },
+    {
+      "headword": "allocation",
+      "pos": "n.",
+      "ko": "배분, 할당",
+      "example_en": "The committee criticized the allocation of funds to projects with little measurable benefit.",
+      "example_ko": "위원회는 측정 가능한 이익이 거의 없는 사업에 자금을 배분한 것을 비판했다.",
+      "collocations": ["budget allocation", "allocation of resources"],
+      "note": "ad-(~로) + loc-(장소: location, local) → '각자의 자리에 놓아 준다'가 배분이다. allocate는 자원을 '용도별로 배정'하는 것이고 distribute는 '여러 사람에게 실제로 나눠 주는' 쪽이라 뉘앙스가 갈린다.",
+      "family": [
+        { "word": "allocate", "pos": "v.", "ko": "배분하다, 할당하다" }
+      ]
+    },
+    {
+      "headword": "arable",
+      "pos": "a.",
+      "ko": "경작에 적합한, 농사지을 수 있는",
+      "example_en": "Only a small share of the country's arable land is suitable for large-scale farming.",
+      "example_ko": "그 나라의 경작 가능한 땅 중 대규모 농업에 적합한 것은 일부에 불과하다.",
+      "collocations": ["arable land", "arable farming"],
+      "note": "라틴 arare(밭을 갈다)에서 왔다 — '쟁기를 댈 수 있는 땅'. 거의 항상 arable land 형태로 붙어 다니므로 통째로 외우는 편이 낫다.",
+      "related": [
+        { "word": "fertile", "ko": "비옥한", "note": "arable은 '갈아서 농사지을 수 있는 조건', fertile은 '양분이 많아 잘 자라는 상태' — 척박해도 arable일 수 있다" }
+      ]
+    },
+    {
+      "headword": "scarcity",
+      "pos": "n.",
+      "ko": "부족, 희소성",
+      "example_en": "Water scarcity has become a bigger constraint on growth than energy prices.",
+      "example_ko": "물 부족은 에너지 가격보다 더 큰 성장의 제약이 되었다.",
+      "collocations": ["water scarcity", "labor scarcity"],
+      "note": "형용사 scarce(부족한)에 -ity가 붙은 명사인데, 부사 scarcely는 '부족하게'가 아니라 '거의 ~ 않다'(= hardly)로 뜻이 완전히 달라진다. He scarcely spoke = 그는 거의 말하지 않았다.",
+      "family": [
+        { "word": "scarce", "pos": "a.", "ko": "부족한, 드문" },
+        { "word": "scarcely", "pos": "ad.", "ko": "거의 ~ 않다 — '부족하게'가 아님" }
+      ]
+    },
+    {
+      "headword": "punitive",
+      "pos": "a.",
+      "ko": "징벌적인, 처벌을 위한",
+      "example_en": "Critics argued that the fines were punitive rather than corrective.",
+      "example_ko": "비판자들은 그 벌금이 시정용이 아니라 징벌적이라고 주장했다.",
+      "collocations": ["punitive damages", "punitive tariffs"],
+      "note": "pun-(벌: punish, penalty)에서 나온 형용사. 법·통상 기사에서 punitive damages(징벌적 손해배상)·punitive tariffs(보복 관세)로 굳어져 나오니 이 두 덩어리로 외운다.",
+      "family": [
+        { "word": "punish", "pos": "v.", "ko": "처벌하다" }
+      ],
+      "related": [
+        { "word": "impunity", "ko": "처벌받지 않음, 면책", "note": "im-(부정)+pun(벌) — with impunity(아무 벌도 받지 않고)로 자주 쓰이는 반대편 단어" }
+      ]
+    },
+    {
+      "headword": "daunting",
+      "pos": "a.",
+      "ko": "엄두가 안 나는, 벅찬",
+      "example_en": "Rebuilding the network within a year is a daunting but not impossible task.",
+      "example_ko": "1년 안에 그 망을 재건하는 것은 벅차지만 불가능하지는 않은 과제다.",
+      "collocations": ["a daunting task", "a daunting challenge"],
+      "note": "동사 daunt(기죽이다)의 현재분사형 — '보는 사람을 주눅 들게 하는'이라는 능동 의미다. un-을 붙인 undaunted는 '(어려움에도) 굴하지 않는'으로 사람에게 쓰니 짝으로 외운다.",
+      "family": [
+        { "word": "daunt", "pos": "v.", "ko": "기죽이다, 겁먹게 하다" },
+        { "word": "undaunted", "pos": "a.", "ko": "굴하지 않는" }
+      ]
+    },
+    {
+      "headword": "disproportionate",
+      "pos": "a.",
+      "ko": "불균형한, 지나치게 큰",
+      "example_en": "Small businesses bear a disproportionate share of the compliance costs.",
+      "example_ko": "소기업이 규제 준수 비용의 불균형하게 큰 몫을 떠안는다.",
+      "collocations": ["a disproportionate share", "disproportionate impact"],
+      "note": "dis-(반대) + proportion(비율) — '비율에 맞지 않는'. 부사 disproportionately는 '규모에 비해 지나치게'라는 뜻으로 통계·정책 기사에서 피해가 특정 집단에 쏠릴 때 거의 관용적으로 쓰인다.",
+      "family": [
+        { "word": "proportion", "pos": "n.", "ko": "비율, 부분" },
+        { "word": "disproportionately", "pos": "ad.", "ko": "불균형하게, 지나치게" }
+      ]
+    },
+    {
+      "headword": "stipulate",
+      "pos": "v.",
+      "ko": "(계약·조건으로) 명시하다, 규정하다",
+      "example_en": "The contract stipulates that all repairs must be completed within thirty days.",
+      "example_ko": "그 계약은 모든 수리가 30일 이내에 완료되어야 한다고 명시하고 있다.",
+      "collocations": ["the contract stipulates", "as stipulated in the agreement"],
+      "note": "'그냥 말했다'가 아니라 계약·법령이 조건으로 못 박았을 때만 쓰는 단어라, 뒤에 that절이 오고 그 안에 must·should 같은 의무 표현이 따라붙는 경우가 많다.",
+      "family": [
+        { "word": "stipulation", "pos": "n.", "ko": "규정, 계약 조항" }
+      ],
+      "related": [
+        { "word": "specify", "ko": "구체적으로 밝히다", "note": "specify는 내용을 자세히 지정하는 것, stipulate는 그것을 '지켜야 할 조건으로' 정하는 것 — 계약서 문맥이면 stipulate" }
+      ]
+    },
+    {
+      "headword": "contingent",
+      "pos": "a.",
+      "ko": "~에 달려 있는, 조건부의",
+      "example_en": "Further funding is contingent on the pilot program meeting its targets.",
+      "example_ko": "추가 자금 지원은 시범 사업이 목표를 달성하는지에 달려 있다.",
+      "collocations": ["contingent on/upon", "contingent liability"],
+      "note": "con-+ting(접촉하다: contact, tangible)에서 나와 '무엇과 맞닿아야 성립하는'이라는 뜻이다. 거의 항상 contingent on[upon] 형태로 쓰이며, 명사 contingency는 '만일의 사태'(contingency plan 비상 계획)로 뜻이 한 걸음 옮겨간다.",
+      "family": [
+        { "word": "contingency", "pos": "n.", "ko": "만일의 사태, 우발 상황" }
+      ]
+    },
+    {
+      "headword": "expedite",
+      "pos": "v.",
+      "ko": "신속히 처리하다, 촉진하다",
+      "example_en": "The agency promised to expedite permits for projects that cut water use.",
+      "example_ko": "그 기관은 물 사용을 줄이는 사업의 허가를 신속히 처리하겠다고 약속했다.",
+      "collocations": ["expedite the process", "expedite shipping"],
+      "note": "ex-(밖으로) + ped-(발) → '묶인 발을 풀어 준다' = 일이 빨리 굴러가게 한다. 정반대로 im-(안으로)+ped-인 impede는 '발을 걸어 방해하다'라 한 쌍으로 외우면 둘 다 잡힌다.",
+      "related": [
+        { "word": "impede", "ko": "방해하다, 지연시키다", "note": "expedite(발을 풀다)와 impede(발을 걸다)는 같은 ped-에서 갈라진 정반대 짝" }
+      ]
+    },
+    {
+      "headword": "forestall",
+      "pos": "v.",
+      "ko": "미연에 방지하다, 선수를 쳐서 막다",
+      "example_en": "The bank cut rates early to forestall a wave of defaults.",
+      "example_ko": "그 은행은 연쇄 채무불이행을 미연에 막으려고 서둘러 금리를 내렸다.",
+      "collocations": ["forestall a crisis", "forestall criticism"],
+      "note": "fore-(미리) + stall(멈춰 세우다) — '먼저 가서 길을 막는다'. prevent가 단순히 '막다'라면 forestall은 '상대보다 앞서 손을 써서 막다'라는 선제의 뉘앙스가 핵심이다.",
+      "related": [
+        { "word": "preempt", "ko": "선점하다, 앞질러 막다", "note": "forestall과 거의 같은 발상 — preempt는 자리·기회를 먼저 차지한다는 쪽에 더 가깝다" }
+      ]
+    },
+    {
+      "headword": "reciprocal",
+      "pos": "a.",
+      "ko": "상호적인, 서로 주고받는",
+      "example_en": "The two countries signed a reciprocal agreement on tariff reductions.",
+      "example_ko": "두 나라는 관세 인하에 관한 상호 협정을 체결했다.",
+      "collocations": ["reciprocal agreement", "reciprocal obligations"],
+      "note": "re-(뒤로) + pro-(앞으로)가 한 단어에 들어 있어 '왔다 갔다 하는' 것이 곧 상호성이다. unilateral(일방적인)의 반대편에 놓고 외우면 통상·외교 지문에서 바로 쓸 수 있다.",
+      "family": [
+        { "word": "reciprocate", "pos": "v.", "ko": "보답하다, 화답하다" },
+        { "word": "reciprocity", "pos": "n.", "ko": "상호주의, 호혜" }
+      ]
+    },
+    {
+      "headword": "attrition",
+      "pos": "n.",
+      "ko": "(자연) 감소; 소모",
+      "example_en": "The company plans to shrink its workforce through attrition rather than layoffs.",
+      "example_ko": "그 회사는 정리해고가 아니라 자연 감소를 통해 인력을 줄일 계획이다.",
+      "collocations": ["a war of attrition", "attrition rate", "through attrition"],
+      "note": "at-(ad) + trit-(문지르다: detriment 손해) → '조금씩 갈려 나감'. 인사 기사에서 through attrition은 '해고하지 않고 퇴직·이직으로 자연히 줄임'을 뜻하고, a war of attrition은 '소모전'이다.",
+      "related": [
+        { "word": "layoff", "ko": "정리해고", "note": "attrition은 사람을 내보내지 않고 빠져나가는 대로 두는 것, layoff는 회사가 내보내는 것 — 대비되어 함께 등장한다" }
+      ]
+    }
+  ]
+}
