@@ -1,0 +1,967 @@
+{
+  "date": "2026-08-06",
+  "due_words": [
+    {
+      "headword": "abate",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "누그러지다, 약해지다; 줄이다, 감면하다",
+        "example_en": "The storm showed no sign of abating, and flights remained grounded.",
+        "example_ko": "폭풍은 누그러질 기미가 없었고, 항공편은 계속 묶여 있었다.",
+        "note": "프랑스어 abattre(때려 눕히다)에서 왔다 — 폭풍·소음·통증·열기처럼 '기세'가 꺾일 때 쓰는 것이 핵심이다. 세금을 깎아 주는 tax abatement도 '부담을 눕힌다'는 같은 발상이다.",
+        "family": [
+          {
+            "word": "abatement",
+            "pos": "n.",
+            "ko": "감소; (세금·요금의) 감면"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "accrue",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "(이자·이익·비용이) 쌓이다, 발생하다",
+        "example_en": "Interest accrues daily on the outstanding balance.",
+        "example_ko": "미상환 잔액에는 이자가 매일 쌓인다.",
+        "note": "라틴 crescere(자라다)에서 왔다 — increase, crescent(자라나는 달 = 초승달)와 한 뿌리. '이자가 저절로 자라 붙는' 그림으로 잡으면 '누가 쌓는 게 아니라 저절로 쌓인다'는 자동사 감각까지 함께 남는다.",
+        "family": [
+          {
+            "word": "accrual",
+            "pos": "n.",
+            "ko": "발생액; (회계) 발생주의"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "allocation",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "배분, 할당",
+        "example_en": "The committee criticized the allocation of funds to projects with little measurable benefit.",
+        "example_ko": "위원회는 측정 가능한 이익이 거의 없는 사업에 자금을 배분한 것을 비판했다.",
+        "note": "ad-(~로) + loc-(장소: location, local) → '각자의 자리에 놓아 준다'가 배분이다. allocate는 자원을 '용도별로 배정'하는 것이고 distribute는 '여러 사람에게 실제로 나눠 주는' 쪽이라 뉘앙스가 갈린다.",
+        "family": [
+          {
+            "word": "allocate",
+            "pos": "v.",
+            "ko": "배분하다, 할당하다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "amplify",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "증폭시키다, 확대하다",
+        "example_en": "Social platforms can amplify rumors far faster than newspapers ever could.",
+        "example_ko": "소셜 플랫폼은 신문이 하던 것보다 훨씬 빠르게 소문을 증폭시킬 수 있다.",
+        "note": "ampl-(넓은) + -fy(만들다) → '넓게 만들다'. ample(충분한)과 같은 뿌리이며, 소리·영향·감정처럼 '세기'를 키울 때 쓴다.",
+        "family": [
+          {
+            "word": "ample",
+            "pos": "a.",
+            "ko": "충분한, 넉넉한"
+          },
+          {
+            "word": "amplification",
+            "pos": "n.",
+            "ko": "증폭, 확대"
+          }
+        ],
+        "related": [
+          {
+            "word": "magnify",
+            "ko": "확대하다",
+            "note": "magnify는 크기를 크게 보이게 하는 쪽(돋보기), amplify는 소리·효과·영향력의 세기를 키우는 쪽"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "aquifer",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "대수층(지하수를 머금은 지층)",
+        "example_en": "Farmers in the region depend almost entirely on an aquifer that is being drained faster than it refills.",
+        "example_ko": "그 지역 농부들은 다시 차는 속도보다 빨리 고갈되고 있는 대수층에 거의 전적으로 의존한다.",
+        "note": "어원: aqua-(물) + -fer(나르다·품다). aquarium(물+장소)·aqueduct(물+이끌다=수도교)의 aqua와, transfer(가로질러 나르다)·conifer(구과를 품는 나무)의 -fer이 합쳐진 말이라 '물을 품은 층'으로 외운다.",
+        "related": [
+          {
+            "word": "reservoir",
+            "ko": "저수지, 저장고",
+            "note": "reservoir는 지상에 사람이 만든 저수지, aquifer는 땅속 자연 지층 — 기사에서 자주 나란히 나온다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "arable",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "경작에 적합한, 농사지을 수 있는",
+        "example_en": "Only a small share of the country's arable land is suitable for large-scale farming.",
+        "example_ko": "그 나라의 경작 가능한 땅 중 대규모 농업에 적합한 것은 일부에 불과하다.",
+        "note": "라틴 arare(밭을 갈다)에서 왔다 — '쟁기를 댈 수 있는 땅'. 거의 항상 arable land 형태로 붙어 다니므로 통째로 외우는 편이 낫다.",
+        "related": [
+          {
+            "word": "fertile",
+            "ko": "비옥한",
+            "note": "arable은 '갈아서 농사지을 수 있는 조건', fertile은 '양분이 많아 잘 자라는 상태' — 척박해도 arable일 수 있다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "austerity",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "긴축 (재정), 내핍",
+        "example_en": "A decade of austerity left the country's public services badly understaffed.",
+        "example_ko": "10년에 걸친 긴축으로 그 나라의 공공 서비스는 인력이 심각하게 부족해졌다.",
+        "note": "austere(엄격한·검소한)의 명사형 — 정부가 허리띠를 졸라매는 정책이 austerity measures다. 앞서 배운 stimulus(경기 부양책)와 정반대 짝으로 함께 외워 두면 시사 기사에서 바로 잡힌다.",
+        "family": [
+          {
+            "word": "austere",
+            "pos": "a.",
+            "ko": "엄격한; 검소한, 소박한"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "cohort",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "(같은 시기의) 집단, 세대 집단; 무리",
+        "example_en": "The study followed a cohort of 5,000 workers who entered the labor market in the same year.",
+        "example_ko": "그 연구는 같은 해에 노동 시장에 진입한 5천 명의 집단을 추적했다.",
+        "note": "원래 로마 군단의 '보병 대대(cohors)' — 함께 움직이는 무리라는 뜻에서, 통계·사회과학에서 '같은 시기에 태어나거나 입사한 집단'으로 굳었다. group과 달리 '같은 시기'라는 조건이 핵심이다.",
+        "related": [
+          {
+            "word": "generation",
+            "ko": "세대",
+            "note": "generation은 20~30년 단위의 큰 세대, cohort는 연구자가 정한 기준(출생 연도·입사 연도)으로 묶은 더 좁은 집단"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "compel",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "강제하다, ~하게 만들다",
+        "example_en": "The court order compelled the agency to release the documents.",
+        "example_ko": "법원 명령은 그 기관이 문서를 공개하도록 강제했다.",
+        "note": "com-(강하게) + pel(밀다) → 밀어붙이다. 같은 pel/puls 뿌리로 expel(밖으로 밀다=추방하다), repel(되밀다=격퇴하다), impulse(안으로 미는 힘=충동)를 묶어서 외운다.",
+        "family": [
+          {
+            "word": "compulsory",
+            "pos": "a.",
+            "ko": "의무적인, 강제적인"
+          },
+          {
+            "word": "compelling",
+            "pos": "a.",
+            "ko": "설득력 있는, 강력한 — '강제적인'이 아님에 주의"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "contingent",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "~에 달려 있는, 조건부의",
+        "example_en": "Further funding is contingent on the pilot program meeting its targets.",
+        "example_ko": "추가 자금 지원은 시범 사업이 목표를 달성하는지에 달려 있다.",
+        "note": "con-+ting(접촉하다: contact, tangible)에서 나와 '무엇과 맞닿아야 성립하는'이라는 뜻이다. 거의 항상 contingent on[upon] 형태로 쓰이며, 명사 contingency는 '만일의 사태'(contingency plan 비상 계획)로 뜻이 한 걸음 옮겨간다.",
+        "family": [
+          {
+            "word": "contingency",
+            "pos": "n.",
+            "ko": "만일의 사태, 우발 상황"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "daunting",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "엄두가 안 나는, 벅찬",
+        "example_en": "Rebuilding the network within a year is a daunting but not impossible task.",
+        "example_ko": "1년 안에 그 망을 재건하는 것은 벅차지만 불가능하지는 않은 과제다.",
+        "note": "동사 daunt(기죽이다)의 현재분사형 — '보는 사람을 주눅 들게 하는'이라는 능동 의미다. un-을 붙인 undaunted는 '(어려움에도) 굴하지 않는'으로 사람에게 쓰니 짝으로 외운다.",
+        "family": [
+          {
+            "word": "daunt",
+            "pos": "v.",
+            "ko": "기죽이다, 겁먹게 하다"
+          },
+          {
+            "word": "undaunted",
+            "pos": "a.",
+            "ko": "굴하지 않는"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "demographic",
+      "box": 2,
+      "card": {
+        "pos": "a./n.",
+        "ko": "인구통계의; (복수형) 인구 구성, 고객층",
+        "example_en": "The retailer changed its advertising after studying the demographic shift among its customers.",
+        "example_ko": "그 소매업체는 고객층의 인구 구성 변화를 연구한 뒤 광고를 바꿨다.",
+        "note": "어원: demos(민중) + graph(기록) — '민중을 기록한 것'이 인구통계다. democracy(민중의 지배)와 앞부분 뿌리가 같다고 묶어서 외우면 뜻이 흔들리지 않는다.",
+        "family": [
+          {
+            "word": "demography",
+            "pos": "n.",
+            "ko": "인구통계학"
+          },
+          {
+            "word": "demographer",
+            "pos": "n.",
+            "ko": "인구통계학자"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "discern",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "식별하다, 알아차리다",
+        "example_en": "It is hard to discern any clear trend from a single quarter's data.",
+        "example_ko": "한 분기 자료만으로는 뚜렷한 추세를 알아보기 어렵다.",
+        "note": "dis-(따로) + cernere(가르다) = '갈라서 구별해 내다'. 같은 뿌리인 discrete(따로 떨어진)·secret(따로 떼어 둔 것)과 묶으면 '나눈다'는 감각이 남는다.",
+        "family": [
+          {
+            "word": "discernible",
+            "pos": "a.",
+            "ko": "알아볼 수 있는, 식별 가능한"
+          },
+          {
+            "word": "discernment",
+            "pos": "n.",
+            "ko": "안목, 통찰력"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "disclose",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "공개하다, 밝히다",
+        "example_en": "Companies must disclose any conflicts of interest to shareholders.",
+        "example_ko": "기업은 어떠한 이해 충돌도 주주에게 공개해야 한다.",
+        "note": "dis-(반대로) + close(닫다) → 닫힌 것을 열다. 반의어 conceal(숨기다)과 짝으로 외우면 계약·공시 문맥이 한번에 잡힌다.",
+        "family": [
+          {
+            "word": "disclosure",
+            "pos": "n.",
+            "ko": "공개, 공시"
+          }
+        ],
+        "related": [
+          {
+            "word": "enclose",
+            "ko": "동봉하다, 둘러싸다",
+            "note": "en-(안에) + close → 안에 넣어 닫다. 토익 이메일에서 'Enclosed please find ~'로 자주 나오니 disclose와 섞지 말 것"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "discrepancy",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "불일치, 차이",
+        "example_en": "We found a discrepancy between the invoice and the actual shipment.",
+        "example_ko": "우리는 청구서와 실제 배송분 사이의 불일치를 발견했다.",
+        "note": "dis-(떨어져) + crep(삐걱대는 소리) → 소리가 어긋나다. 토익 회계·재고·명세서 문맥의 단골이라 between A and B와 함께 통째로 외워 둔다.",
+        "related": [
+          {
+            "word": "inconsistency",
+            "ko": "일관성 없음",
+            "note": "discrepancy는 두 자료·수치가 서로 안 맞는 것, inconsistency는 같은 대상이 앞뒤로 오락가락하는 것"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "discretion",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "재량; 신중함",
+        "example_en": "Refunds are granted at the manager's discretion.",
+        "example_ko": "환불은 관리자의 재량에 따라 승인된다.",
+        "note": "형용사 discreet(신중한)의 명사형인데, 실무에서는 '알아서 판단할 권한 = 재량'의 뜻으로 훨씬 자주 쓰인다.",
+        "family": [
+          {
+            "word": "discreet",
+            "pos": "a.",
+            "ko": "신중한, 입이 무거운"
+          },
+          {
+            "word": "discretionary",
+            "pos": "a.",
+            "ko": "재량에 따른"
+          }
+        ],
+        "related": [
+          {
+            "word": "discrete",
+            "ko": "별개의, 분리된",
+            "note": "discreet(신중한)과 철자 한 끗 차이지만 뜻이 전혀 다르다 — discrete units(개별 단위)"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "disproportionate",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "불균형한, 지나치게 큰",
+        "example_en": "Small businesses bear a disproportionate share of the compliance costs.",
+        "example_ko": "소기업이 규제 준수 비용의 불균형하게 큰 몫을 떠안는다.",
+        "note": "dis-(반대) + proportion(비율) — '비율에 맞지 않는'. 부사 disproportionately는 '규모에 비해 지나치게'라는 뜻으로 통계·정책 기사에서 피해가 특정 집단에 쏠릴 때 거의 관용적으로 쓰인다.",
+        "family": [
+          {
+            "word": "proportion",
+            "pos": "n.",
+            "ko": "비율, 부분"
+          },
+          {
+            "word": "disproportionately",
+            "pos": "ad.",
+            "ko": "불균형하게, 지나치게"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "dwindle",
+      "box": 2,
+      "card": {
+        "pos": "v.",
+        "ko": "점점 줄어들다, 쪼그라들다",
+        "example_en": "Their cash reserves dwindled to less than a month's payroll.",
+        "example_ko": "그들의 현금 보유고는 한 달치 급여도 안 되는 수준까지 줄어들었다.",
+        "note": "고대 영어 dwinan(시들다)에서 온 말 — reduce가 '줄이다(타동사)'라면 dwindle은 스스로 '쪼그라들다(자동사)'라 목적어를 받지 못한다. dwindle the cost 같은 문장은 틀린 문장이다.",
+        "related": [
+          {
+            "word": "diminish",
+            "ko": "줄다, 줄이다",
+            "note": "diminish는 자동·타동 둘 다 되지만, dwindle은 자동사로만 쓴다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "entitlement",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "(법적) 수급권, 자격; 당연하다는 특권 의식",
+        "example_en": "Any reform that reduces pension entitlements is politically dangerous.",
+        "example_ko": "연금 수급권을 줄이는 개혁은 어떤 것이든 정치적으로 위험하다.",
+        "note": "title은 '제목'만이 아니라 '권리·자격'이라는 뜻이 본래 있다 — en(부여하다) + title = '권리를 주다'. 미국 재정 기사의 entitlement programs는 연금·의료처럼 자격만 되면 법으로 지급되는 제도를 가리킨다.",
+        "family": [
+          {
+            "word": "entitle",
+            "pos": "v.",
+            "ko": "자격을 주다; 제목을 붙이다"
+          },
+          {
+            "word": "entitled",
+            "pos": "a.",
+            "ko": "자격이 있는; 특권 의식에 찬"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "entrench",
+      "box": 3,
+      "card": {
+        "pos": "v.",
+        "ko": "(지위·관행을) 굳히다, 고착시키다",
+        "example_en": "The new rules entrenched the dominance of a few large platforms.",
+        "example_ko": "새 규정은 소수 대형 플랫폼의 지배력을 오히려 공고히 했다.",
+        "note": "en-(안으로) + trench(참호) → 참호를 파고 들어앉다. 그래서 be[become] deeply entrenched(뿌리 깊이 박히다) 형태의 수동·형용사 용법이 압도적으로 많다.",
+        "family": [
+          {
+            "word": "trench",
+            "pos": "n.",
+            "ko": "참호, 도랑"
+          },
+          {
+            "word": "entrenchment",
+            "pos": "n.",
+            "ko": "고착, 정착"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "expedite",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "신속히 처리하다, 촉진하다",
+        "example_en": "The agency promised to expedite permits for projects that cut water use.",
+        "example_ko": "그 기관은 물 사용을 줄이는 사업의 허가를 신속히 처리하겠다고 약속했다.",
+        "note": "ex-(밖으로) + ped-(발) → '묶인 발을 풀어 준다' = 일이 빨리 굴러가게 한다. 정반대로 im-(안으로)+ped-인 impede는 '발을 걸어 방해하다'라 한 쌍으로 외우면 둘 다 잡힌다.",
+        "related": [
+          {
+            "word": "impede",
+            "ko": "방해하다, 지연시키다",
+            "note": "expedite(발을 풀다)와 impede(발을 걸다)는 같은 ped-에서 갈라진 정반대 짝"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "imminent",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "임박한, 곧 닥칠",
+        "example_en": "The company denied that a takeover was imminent.",
+        "example_ko": "그 회사는 인수가 임박했다는 것을 부인했다.",
+        "note": "in-(위에) + minere(튀어나오다) — 머리 위로 '툭 튀어나와 곧 덮칠 듯한' 상태가 imminent다. 좋은 일보다는 위협·위험처럼 나쁜 일에 주로 붙는다.",
+        "related": [
+          {
+            "word": "eminent",
+            "ko": "저명한",
+            "note": "eminent는 e-(밖으로) 튀어나와 '눈에 띄는=저명한' — 철자 한 글자 차이인데 뜻이 전혀 다르니 시험에 자주 나온다"
+          },
+          {
+            "word": "immanent",
+            "ko": "내재하는",
+            "note": "발음이 거의 같지만 in-(안에) + manere(머물다)로 '안에 깃든'이라는 철학 용어다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "inadvertently",
+      "box": 3,
+      "card": {
+        "pos": "ad.",
+        "ko": "의도치 않게, 무심코",
+        "example_en": "The clerk inadvertently sent the invoice to the wrong address.",
+        "example_ko": "직원이 무심코 청구서를 잘못된 주소로 보냈다.",
+        "note": "in-(부정) + advert(주의를 돌리다) → 주의를 두지 않은 채. advertise(주의를 끌다=광고하다)와 뿌리가 같다고 보면 연결이 쉽다.",
+        "family": [
+          {
+            "word": "inadvertent",
+            "pos": "a.",
+            "ko": "의도치 않은, 부주의한"
+          }
+        ],
+        "related": [
+          {
+            "word": "deliberately",
+            "ko": "고의로",
+            "note": "정반대 짝. 사고·실수 문맥에서 inadvertently ↔ deliberately로 대비되어 자주 등장한다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "inexhaustible",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "무진장한, 고갈되지 않는",
+        "example_en": "No resource is inexhaustible, however abundant it may look today.",
+        "example_ko": "오늘 아무리 풍부해 보여도 무진장한 자원은 없다.",
+        "note": "in-(부정) + exhaust(다 써 버리다) + -ible. 같은 뿌리의 exhaustive는 '지친'이 아니라 '빠짐없이 철저한'(an exhaustive review 철저한 검토)이라는 점이 시험 포인트다.",
+        "family": [
+          {
+            "word": "exhaust",
+            "pos": "v.",
+            "ko": "다 써 버리다; 지치게 하다"
+          },
+          {
+            "word": "exhaustive",
+            "pos": "a.",
+            "ko": "철저한, 빠짐없는 — '지친'이 아님"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "inflammatory",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "선동적인; (의학) 염증의",
+        "example_en": "The candidate was criticized for making inflammatory remarks about immigrants.",
+        "example_ko": "그 후보는 이민자에 대해 선동적인 발언을 한 것으로 비판받았다.",
+        "note": "flame(불꽃) 계열 — '불을 붙이는'이 본뜻이라 감정을 부추기면 '선동적인', 몸에 불이 나면 '염증의'로 갈라진다.",
+        "family": [
+          {
+            "word": "inflame",
+            "pos": "v.",
+            "ko": "(감정을) 부추기다; 염증을 일으키다"
+          },
+          {
+            "word": "inflammation",
+            "pos": "n.",
+            "ko": "염증"
+          }
+        ],
+        "related": [
+          {
+            "word": "inflammable",
+            "ko": "가연성의",
+            "note": "여기서 in-은 부정이 아니라 강조 — inflammable = flammable(불에 잘 타는). 혼동을 피하려고 요즘은 flammable을 쓴다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "irrigation",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "관개(농지에 물을 대는 일)",
+        "example_en": "Efficient irrigation can cut water use by half without reducing crop yields.",
+        "example_ko": "효율적인 관개는 작물 수확량을 줄이지 않고도 물 사용량을 절반으로 줄일 수 있다.",
+        "note": "라틴 rigare(물을 대다)에서 왔다. 철자가 비슷한 irritate(짜증나게 하다)와 뿌리가 전혀 다르니 '물을 대는 irrigate / 신경을 긁는 irritate'로 갈라서 외운다.",
+        "family": [
+          {
+            "word": "irrigate",
+            "pos": "v.",
+            "ko": "물을 대다, 관개하다"
+          }
+        ],
+        "related": [
+          {
+            "word": "irritate",
+            "ko": "짜증나게 하다",
+            "note": "irrigation과 철자만 닮았을 뿐 뜻이 완전히 다르다 — 시험에서 자주 헷갈리게 내는 짝"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "lapse",
+      "box": 2,
+      "card": {
+        "pos": "n./v.",
+        "ko": "(시간의) 경과; 실수, 착오; (효력이) 소멸하다, ~로 빠지다",
+        "example_en": "His membership lapsed because he forgot to renew it.",
+        "example_ko": "그는 갱신하는 것을 잊어버려서 회원 자격이 소멸했다.",
+        "note": "라틴 labi(미끄러지다) — '미끄러져 떨어지다'가 본뜻이라, 계약·자격이 누가 취소한 게 아니라 그냥 '흘러가서' 효력을 잃을 때 lapse를 쓴다. col-(함께) + lapse = collapse(무너지다)도 같은 뿌리다.",
+        "family": [
+          {
+            "word": "elapse",
+            "pos": "v.",
+            "ko": "(시간이) 경과하다"
+          },
+          {
+            "word": "collapse",
+            "pos": "v./n.",
+            "ko": "붕괴하다; 붕괴"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "longevity",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "수명, 장수; (경력·제품의) 오래감",
+        "example_en": "Rising longevity has forced insurers to recalculate the cost of every pension they sell.",
+        "example_ko": "늘어난 수명 때문에 보험사들은 자기들이 파는 모든 연금의 비용을 다시 계산해야 했다.",
+        "note": "long(긴) + aevum(세월·나이) = '긴 세월'. medieval(중세의 = medium aevum, 중간 시대)의 -ev-와 같은 뿌리라 '세월'이라는 감각이 남아 있다.",
+        "related": [
+          {
+            "word": "lifespan",
+            "ko": "수명",
+            "note": "lifespan은 '한 개체가 사는 기간'이라는 중립적 길이, longevity는 '길다'는 평가가 들어간 말이다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "lucrative",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "수익성이 좋은, 돈이 되는",
+        "example_en": "Streaming turned out to be a lucrative business for the studio.",
+        "example_ko": "스트리밍은 그 제작사에 수익성 좋은 사업으로 판명되었다.",
+        "note": "lucre(금전적 이득)에서 왔다. profitable과 뜻은 겹치지만 lucrative는 '짭짤하다'에 가까운 규모감이 있어 contract·deal·market과 잘 붙는다.",
+        "related": [
+          {
+            "word": "profitable",
+            "ko": "수익이 나는",
+            "note": "profitable은 흑자냐 아니냐의 중립적 판정, lucrative는 '많이 번다'는 강조"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "onerous",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "부담이 큰, 번거로운",
+        "example_en": "Small firms complained that the new reporting rules were unnecessarily onerous.",
+        "example_ko": "소규모 기업들은 새 보고 규정이 불필요하게 부담스럽다고 불평했다.",
+        "note": "라틴 onus(짐·부담)의 형용사형 — '입증 책임은 그쪽에 있다'는 the onus is on you의 그 onus다. 물리적 무게가 아니라 의무·규제·계약이 무거울 때 쓴다.",
+        "related": [
+          {
+            "word": "arduous",
+            "ko": "고된, 험난한",
+            "note": "arduous는 '해내기가 힘든(노력의 양)', onerous는 '떠안기에 부담스러운(책임의 무게)'"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "opaque",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "불투명한; (설명이) 이해하기 어려운",
+        "example_en": "Investors complained that the firm's accounting practices were opaque.",
+        "example_ko": "투자자들은 그 회사의 회계 관행이 불투명하다고 불평했다.",
+        "note": "반의어 transparent(투명한)와 짝으로 외운다. 빛이 안 통한다 → 속이 안 보인다 → 시사 문맥에서는 '깜깜이, 알 수 없는'의 뜻으로 더 자주 쓰인다.",
+        "family": [
+          {
+            "word": "opacity",
+            "pos": "n.",
+            "ko": "불투명(성)"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "plausible",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "그럴듯한, 타당해 보이는",
+        "example_en": "He offered a plausible explanation for the missing shipment.",
+        "example_ko": "그는 사라진 화물에 대해 그럴듯한 설명을 내놓았다.",
+        "note": "plaus-(박수치다, applaud와 같은 뿌리) → 박수받을 만하다 → 말이 되는. 어디까지나 '들어 보니 그럴듯하다'일 뿐 사실 확인은 안 됐다는 뉘앙스가 핵심이다.",
+        "related": [
+          {
+            "word": "feasible",
+            "ko": "실행 가능한",
+            "note": "plausible은 '말이 되는지'(설명·주장), feasible은 '해낼 수 있는지'(계획·일정)에 붙는다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "punitive",
+      "box": 1,
+      "card": {
+        "pos": "a.",
+        "ko": "징벌적인, 처벌을 위한",
+        "example_en": "Critics argued that the fines were punitive rather than corrective.",
+        "example_ko": "비판자들은 그 벌금이 시정용이 아니라 징벌적이라고 주장했다.",
+        "note": "pun-(벌: punish, penalty)에서 나온 형용사. 법·통상 기사에서 punitive damages(징벌적 손해배상)·punitive tariffs(보복 관세)로 굳어져 나오니 이 두 덩어리로 외운다.",
+        "family": [
+          {
+            "word": "punish",
+            "pos": "v.",
+            "ko": "처벌하다"
+          }
+        ],
+        "related": [
+          {
+            "word": "impunity",
+            "ko": "처벌받지 않음, 면책",
+            "note": "im-(부정)+pun(벌) — with impunity(아무 벌도 받지 않고)로 자주 쓰이는 반대편 단어"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "quota",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "할당량, 한도",
+        "example_en": "The government set an annual quota on how much water each farm may pump.",
+        "example_ko": "정부는 각 농가가 퍼 올릴 수 있는 물의 양에 연간 할당량을 정했다.",
+        "note": "라틴 quot(얼마나 많이)에서 온 말로, quotient(몫)·quote(원래 '몇 번째로 매기다')와 한 뿌리다. '전체를 몇으로 나눈 내 몫'이 핵심 이미지라 수입 규제·판매 목표·인원 배정에 두루 쓴다.",
+        "related": [
+          {
+            "word": "quorum",
+            "ko": "의결 정족수",
+            "note": "quota는 '얼마를 배정받는가', quorum은 '몇 명이 모여야 회의가 성립하는가' — 회의·규정 지문에서 짝으로 나온다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "replenish",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "다시 채우다, 보충하다",
+        "example_en": "The store replenishes its shelves twice a week to keep popular items in stock.",
+        "example_ko": "그 매장은 인기 품목의 재고를 유지하려고 일주일에 두 번 진열대를 다시 채운다.",
+        "note": "re-(다시) + plen-(가득: plenty 풍부, plenary 전원 참석의, complete 완전한). '비어 버린 것을 다시 가득 채운다'가 핵심이라 재고·자원·체액처럼 '줄어드는 것'에 붙는다.",
+        "family": [
+          {
+            "word": "replenishment",
+            "pos": "n.",
+            "ko": "보충, 재공급"
+          },
+          {
+            "word": "plentiful",
+            "pos": "a.",
+            "ko": "풍부한"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "scarcity",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "부족, 희소성",
+        "example_en": "Water scarcity has become a bigger constraint on growth than energy prices.",
+        "example_ko": "물 부족은 에너지 가격보다 더 큰 성장의 제약이 되었다.",
+        "note": "형용사 scarce(부족한)에 -ity가 붙은 명사인데, 부사 scarcely는 '부족하게'가 아니라 '거의 ~ 않다'(= hardly)로 뜻이 완전히 달라진다. He scarcely spoke = 그는 거의 말하지 않았다.",
+        "family": [
+          {
+            "word": "scarce",
+            "pos": "a.",
+            "ko": "부족한, 드문"
+          },
+          {
+            "word": "scarcely",
+            "pos": "ad.",
+            "ko": "거의 ~ 않다 — '부족하게'가 아님"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "scrutiny",
+      "box": 3,
+      "card": {
+        "pos": "n.",
+        "ko": "정밀 조사, 철저한 검토",
+        "example_en": "The merger came under intense scrutiny from antitrust regulators.",
+        "example_ko": "그 합병은 반독점 규제 당국의 강도 높은 조사를 받게 되었다.",
+        "note": "원뜻은 '넝마 더미를 뒤지다' — 샅샅이 헤집어 본다는 그림이다. 시사문에서는 come[fall] under scrutiny(감시·조사의 대상이 되다) 덩어리로 외우면 바로 쓴다.",
+        "family": [
+          {
+            "word": "scrutinize",
+            "pos": "v.",
+            "ko": "면밀히 조사하다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "shortfall",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "부족분, 미달액",
+        "example_en": "The city faces a budget shortfall of nearly 200 million dollars next year.",
+        "example_ko": "그 시는 내년에 2억 달러에 가까운 예산 부족에 직면한다.",
+        "note": "short(모자란) + fall(떨어지다) — 목표치에 '못 미쳐 떨어진 양'이라는 뜻이 그대로 보이는 합성어다. 예산·세수 기사에서는 거의 항상 budget/revenue와 붙어 나온다.",
+        "related": [
+          {
+            "word": "deficit",
+            "ko": "적자",
+            "note": "deficit은 수입<지출인 '적자 상태' 자체, shortfall은 목표·필요치 대비 '모자란 액수'를 가리킨다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "solvency",
+      "box": 2,
+      "card": {
+        "pos": "n.",
+        "ko": "지급 능력, 재정 건전성",
+        "example_en": "Regulators questioned whether the insurer could maintain its solvency through a prolonged downturn.",
+        "example_ko": "감독 당국은 그 보험사가 장기 침체 내내 지급 능력을 유지할 수 있을지 의문을 제기했다.",
+        "note": "'문제를 푸는' solve와 같은 뿌리(라틴 solvere = 풀다) — 빚을 '풀어 낼 수 있는' 상태가 solvency다. 재무 기사에서는 '망하지 않고 갚을 수 있느냐'를 묻는 말로 쓴다.",
+        "family": [
+          {
+            "word": "solvent",
+            "pos": "a.",
+            "ko": "지급 능력이 있는 (명사로는 '용매')"
+          },
+          {
+            "word": "insolvent",
+            "pos": "a.",
+            "ko": "지급 불능의, 파산 상태의"
+          },
+          {
+            "word": "insolvency",
+            "pos": "n.",
+            "ko": "지급 불능, 파산"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "stipulate",
+      "box": 1,
+      "card": {
+        "pos": "v.",
+        "ko": "(계약·조건으로) 명시하다, 규정하다",
+        "example_en": "The contract stipulates that all repairs must be completed within thirty days.",
+        "example_ko": "그 계약은 모든 수리가 30일 이내에 완료되어야 한다고 명시하고 있다.",
+        "note": "'그냥 말했다'가 아니라 계약·법령이 조건으로 못 박았을 때만 쓰는 단어라, 뒤에 that절이 오고 그 안에 must·should 같은 의무 표현이 따라붙는 경우가 많다.",
+        "family": [
+          {
+            "word": "stipulation",
+            "pos": "n.",
+            "ko": "규정, 계약 조항"
+          }
+        ],
+        "related": [
+          {
+            "word": "specify",
+            "ko": "구체적으로 밝히다",
+            "note": "specify는 내용을 자세히 지정하는 것, stipulate는 그것을 '지켜야 할 조건으로' 정하는 것 — 계약서 문맥이면 stipulate"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "subsidence",
+      "box": 1,
+      "card": {
+        "pos": "n.",
+        "ko": "지반 침하, 가라앉음",
+        "example_en": "Years of groundwater pumping caused subsidence that cracked roads and pipelines.",
+        "example_ko": "수년간의 지하수 취수는 도로와 배관에 균열을 낸 지반 침하를 일으켰다.",
+        "note": "sub-(아래) + sid-(앉다: reside 거주하다, preside 주재하다, sediment 침전물) — '아래에 앉아 버림'이 곧 침하다. 동사 subside는 땅이 내려앉는 것 외에 '(통증·소동이) 가라앉다'로도 자주 쓰인다.",
+        "family": [
+          {
+            "word": "subside",
+            "pos": "v.",
+            "ko": "가라앉다, 진정되다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "sweeping",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "광범위한, 전면적인",
+        "example_en": "The administration announced sweeping reforms to the tax code.",
+        "example_ko": "행정부는 세법에 대한 전면적인 개혁을 발표했다.",
+        "note": "sweep(비로 쓸다)에서 온 말 — 빗자루가 바닥을 한 번에 훑는 그림. 단, sweeping generalization(성급한 일반화)처럼 '뭉뚱그린'이라는 부정적 뉘앙스로도 쓰인다.",
+        "family": [
+          {
+            "word": "sweep",
+            "pos": "v.",
+            "ko": "쓸다; 휩쓸다"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "tentative",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "잠정적인; 머뭇거리는",
+        "example_en": "The two sides reached a tentative agreement late on Friday.",
+        "example_ko": "양측은 금요일 늦게 잠정 합의에 이르렀다.",
+        "note": "tent-(시도하다, attempt와 같은 뿌리) → '아직 시도 단계인' → 확정 전의. 텐트(tent)와는 무관하니 '시도'로 기억한다.",
+        "family": [
+          {
+            "word": "tentatively",
+            "pos": "ad.",
+            "ko": "잠정적으로"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "untenable",
+      "box": 3,
+      "card": {
+        "pos": "a.",
+        "ko": "지지받기 어려운, 유지할 수 없는",
+        "example_en": "Once the data were published, the company's position became untenable.",
+        "example_ko": "그 데이터가 공개되자 회사의 입장은 더 이상 유지할 수 없게 되었다.",
+        "note": "ten-(잡다, hold) + -able → '(주장을) 붙들 수 없는'. tenant(잡고 있는 사람=세입자), retain(계속 붙잡다), tenure(붙잡고 있는 기간)가 모두 같은 뿌리다.",
+        "family": [
+          {
+            "word": "tenable",
+            "pos": "a.",
+            "ko": "지지할 수 있는, 타당한"
+          }
+        ]
+      }
+    },
+    {
+      "headword": "viable",
+      "box": 2,
+      "card": {
+        "pos": "a.",
+        "ko": "실행 가능한; (계속) 살아남을 수 있는",
+        "example_en": "Without government support, the project was never commercially viable.",
+        "example_ko": "정부 지원이 없었다면 그 사업은 애초에 상업적으로 성립할 수 없었다.",
+        "note": "라틴 vita(생명) — 본뜻이 '살아남을 수 있는'이다. 앞서 배운 feasible이 '기술적으로 해낼 수 있다'는 쪽이라면, viable은 '해 놓고도 계속 유지될 수 있다'는 지속 가능성까지 포함한다.",
+        "family": [
+          {
+            "word": "viability",
+            "pos": "n.",
+            "ko": "실행 가능성, 생존 가능성"
+          },
+          {
+            "word": "vital",
+            "pos": "a.",
+            "ko": "필수적인; 생명의"
+          }
+        ]
+      }
+    }
+  ],
+  "review_sentence": {
+    "from_date": "2026-07-27",
+    "en": "Yet the evidence from cities that have loosened density limits suggests that rents rise more slowly where construction is allowed to keep pace with demand, even if no single reform is a panacea.",
+    "ko": "그러나 밀도 제한을 완화한 도시들에서 나온 증거는, 건설이 수요에 발맞추도록 허용된 곳에서는 임대료가 더 느리게 오른다는 점을 시사한다 — 어떤 한 가지 개혁도 만병통치약은 아니라 해도.",
+    "structure": "· that이 두 번 다른 역할로 쓰였다: cities that have loosened ~(주격 관계대명사) / suggests that ~(명사절 접속사, suggests의 목적어).\n· 주어는 the evidence, 동사는 suggests — 사이에 긴 수식어(from cities that ~ limits)가 끼어 수일치를 놓치기 쉽다.\n· where construction is allowed ~ : 여기서 where는 '~한 곳에서는'이라는 뜻의 부사절 접속사(= in places where).\n· even if ~ : 양보의 부사절. no single reform으로 '어떤 한 개혁도 아니다'라는 전체 부정을 만든다."
+  }
+}
