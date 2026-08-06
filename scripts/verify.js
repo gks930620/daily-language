@@ -31,12 +31,9 @@ function main() {
 
   // 2) 입력 파일 존재
   const contentPath = rootPath('data', lang, date, 'content.json');
-  const reviewPath = rootPath('data', lang, date, 'review.json');
   const content = readJson(contentPath);
-  const review = readJson(reviewPath);
   const selected = readJson(rootPath('data', lang, date, 'selected.json'));
   if (!content) failures.push(`data/${lang}/${date}/content.json 없음 또는 파싱 불가`);
-  if (!review) failures.push(`data/${lang}/${date}/review.json 없음 또는 파싱 불가`);
   if (!selected) failures.push(`data/${lang}/${date}/selected.json 없음 또는 파싱 불가 (settle 미실행?)`);
 
   // 페이지의 "오늘의 단어" 기준: selected.json(없는 과거 데이터만 content.words 폴백)
@@ -52,7 +49,7 @@ function main() {
   if (!existsSync(indexPath)) failures.push(`docs/${lang}/index.html 없음`);
   if (!existsSync(dayPath)) {
     failures.push(`docs/${lang}/days/${date}.html 없음`);
-  } else if (content && review) {
+  } else if (content) {
     const html = readFileSync(dayPath, 'utf8');
     const sentenceCount = countOccurrences(html, '<li class="sentence">');
     const wordCount = countOccurrences(html, '<article class="word-item">');

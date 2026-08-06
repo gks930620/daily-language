@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// build.js — data/<lang>/*/(content.json + review.json)를 전부 스캔해
+// build.js — data/<lang>/*/(content.json + selected.json)를 전부 스캔해
 // docs/<lang>/days/*.html + docs/<lang>/index.html + 허브 docs/index.html을 처음부터 다시 만든다.
 // --lang을 받지 않는 유일한 스크립트: 항상 전 언어 + 허브를 재생성한다.
 // 단어 상태(words.json)는 읽지 않는다. 순수 재생성이므로 몇 번을 돌려도 결과가 같다.
@@ -30,21 +30,20 @@ function listDays(lang) {
  */
 function loadDay(lang, date) {
   const content = readJson(rootPath('data', lang, date, 'content.json'));
-  const review = readJson(rootPath('data', lang, date, 'review.json'));
   const selected = readJson(rootPath('data', lang, date, 'selected.json'));
   const words = Array.isArray(selected?.words) ? selected.words : content.words;
-  return { content: { ...content, words }, review };
+  return { ...content, words };
 }
 
 function buildDayPage(lang, config, date, prevDate, nextDate) {
-  const { content, review } = loadDay(lang, date);
+  const content = loadDay(lang, date);
   const nav = renderDayNav(prevDate, nextDate);
   const body = `<header>
 ${nav}
 <h1>${esc(date)} ${esc(config.label)} 학습</h1>
 </header>
 <main>
-${renderDaySections(content, review, config.ttsLang)}
+${renderDaySections(content, config.ttsLang)}
 </main>
 <footer>
 ${nav}
@@ -56,9 +55,8 @@ function buildLangIndex(lang, config, days) {
   let latestBlock = '<p class="empty">아직 생성된 콘텐츠가 없습니다.</p>';
   if (days.length > 0) {
     const latest = days[days.length - 1];
-    const { content, review } = loadDay(lang, latest);
     latestBlock = `<p class="latest-date">최신: <a href="days/${esc(latest)}.html">${esc(latest)}</a></p>
-${renderDaySections(content, review, config.ttsLang)}`;
+${renderDaySections(loadDay(lang, latest), config.ttsLang)}`;
   }
   const archive =
     days.length > 0

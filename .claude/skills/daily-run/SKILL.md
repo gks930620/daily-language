@@ -49,10 +49,10 @@ node scripts/verify.js --lang ja-n2 --date 2026-07-10
 ```
 
 확인 포인트:
-- 2일차 퀴즈에 1일차 단어 20개(box 1) 등장, settle 후 box 2·`next_due = 2일차+3일`.
-- box 2 단어는 승급일+3일에 재등장(위 예시면 5일차인 07-24 — 4일차 아님에 주의).
-- `state/<lang>/runlog.json`의 notes에 중복 제외 로그(중복 방어 테스트는 `--unique` 없이 2일 실행).
-- ja 트랙은 문장·단어·회화에 reading(히라가나)이 페이지에 렌더되는지.
+- 하루치 페이지에 문단(문장 5) + 단어 15개가 렌더되는지. **이 둘 말고 다른 섹션은 없어야 정상**(복습·퀴즈는 2026-08-04에 제거됨).
+- `--unique` **없이** 2일 연속 실행 → 2일차 `state/<lang>/runlog.json`의 notes에 "중복 단어 N개 제외" 로그가 남는지(같은 단어를 두 번 내지 않는다는 유일한 단어 규칙의 테스트).
+- `state/<lang>/words.json`이 `schema_version: 2`이고 항목이 `{ "added_on": "..." }`뿐인지(settle이 쓸 때 자동 승격).
+- ja 트랙은 문장·단어에 reading(후리가나·히라가나)이 페이지에 렌더되는지.
 
 ## C. 멱등성 확인
 
@@ -76,10 +76,15 @@ node scripts/build.js                   # data/가 진실의 원천 — 전 언�
 
 ```bash
 rm -rf data/L/2* docs/L/days docs/L/index.html
-printf '{\n  "schema_version": 1,\n  "intervals": [1, 3, 7, 14, 30, 60],\n  "words": {}\n}\n' > state/L/words.json
+printf '{\n  "schema_version": 2,\n  "words": {}\n}\n' > state/L/words.json
 printf '{\n  "schema_version": 1,\n  "runs": {}\n}\n' > state/L/runlog.json
 node scripts/build.js                   # docs/에서 시뮬 흔적 제거(허브 포함 재생성)
 ```
+
+⚠️ **build.js는 페이지를 쓰기만 하고 지우지 않는다.** 날짜 폴더만 지우고 재빌드하면 그 날짜의
+`docs/L/days/<날짜>.html`이 고아로 남는다(허브·인덱스에서는 사라지지만 파일은 남음).
+위 절차처럼 `docs/L/days`를 통째로 지우거나, 한 날짜만 되돌릴 때는 그 html도 직접 지운다.
+운영 트랙에서는 `git status`로 남은 파일이 없는지 반드시 확인할 것.
 
 트랙 L의 초기 상태 = `state/L/` 두 파일 빈 값, `data/L/`엔 날짜 폴더 없음. `docs/`엔 `.nojekyll`·`assets/`와 build가 만든 허브·트랙 인덱스만.
 

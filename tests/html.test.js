@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { page, renderWords, renderDaySections, ttsUrl } from '../scripts/lib/html.js';
+import { page, renderWords, renderDaySections, renderDayNav, ttsUrl } from '../scripts/lib/html.js';
 
 const WORD = {
   headword: 'mitigate',
@@ -50,12 +50,33 @@ test('renderWords: 예문에는 음성을 붙이지 않는다 — 표제어 하�
 });
 
 test('renderDaySections: ttsLang을 단어 섹션까지 전달한다', () => {
-  assert.ok(renderDaySections(CONTENT, null, 'en').includes('<audio class="say"'));
-  assert.ok(!renderDaySections(CONTENT, null).includes('<audio'));
+  assert.ok(renderDaySections(CONTENT, 'en').includes('<audio class="say"'));
+  assert.ok(!renderDaySections(CONTENT).includes('<audio'));
+});
+
+test('renderDaySections: 페이지는 문단 + 단어 둘뿐 — 복습 섹션은 렌더되지 않는다', () => {
+  const html = renderDaySections(CONTENT, 'en');
+  assert.ok(html.includes('<section id="sentences">'));
+  assert.ok(html.includes('<section id="words">'));
+  for (const gone of ['id="quiz"', 'id="review-sentence"', 'id="conversation"']) {
+    assert.ok(!html.includes(gone), `${gone} 섹션이 남아 있으면 안 된다`);
+  }
 });
 
 test('page: TTS가 404를 주지 않도록 no-referrer 메타를 넣는다', () => {
   assert.match(page({ title: 't', body: '' }), /<meta name="referrer" content="no-referrer">/);
+});
+
+test('renderDayNav: 홈은 트랙 아카이브가 아니라 사이트 홈(허브)으로 간다', () => {
+  const nav = renderDayNav('2026-08-03', null);
+  // day 페이지는 docs/<lang>/days/ 아래 — 허브(docs/index.html)까지 두 단계 올라가야 한다.
+  assert.match(nav, /<a class="home" href="\.\.\/\.\.\/index\.html">홈<\/a>/);
+  assert.ok(
+    !nav.includes('href="../index.html"'),
+    '../index.html은 그 트랙의 아카이브다 — 홈이 여기로 가면 안 된다'
+  );
+  // 이전/다음은 같은 폴더 안이라 ./ 유지
+  assert.match(nav, /<a class="prev" href="\.\/2026-08-03\.html">/);
 });
 
 test('renderWords: 단어 마커(word-item)는 음성 추가 후에도 단어당 1개 — verify 호환', () => {

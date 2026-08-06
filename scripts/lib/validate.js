@@ -12,7 +12,7 @@ function isNonEmptyString(v) {
  * 각 메시지는 "필드경로: 이유" 형태.
  * lang: 파이프라인의 --lang 값. content.lang과 교차검증하고,
  * requiresReading 언어면 sentences/words의 reading을 필수 검사한다.
- * conversation은 선택 — 있으면 lines의 reading도 검사, 없으면 스킵(2026-07-22 회화 제거).
+ * 페이지에 렌더되는 것(문단 + 단어)만 검사한다 — 회화·복습 스키마는 2026-08-04에 제거했다.
  */
 export function validateContent(content, expectedDate, lang) {
   if (!lang || !LANGS[lang]) {
@@ -149,45 +149,6 @@ export function validateContent(content, expectedDate, lang) {
         }
       }
     });
-  }
-
-  // --- conversation: 선택(사용자 확정 2026-07-22 — 회화 섹션 제거) ---
-  // 없으면 검사 스킵(에러 아님). 있으면(과거 데이터·재도입 대비) 기존 규칙으로 검증한다.
-  if (content.conversation !== undefined) {
-    const conv = content.conversation;
-    if (conv === null || typeof conv !== 'object' || Array.isArray(conv)) {
-      push('conversation', '객체여야 함');
-    } else {
-      for (const f of ['topic', 'situation_ko']) {
-        if (!isNonEmptyString(conv[f])) push(`conversation.${f}`, '비어 있지 않은 문자열이어야 함');
-      }
-      if (!Array.isArray(conv.lines)) {
-        push('conversation.lines', '배열이어야 함');
-      } else {
-        if (conv.lines.length < 6) {
-          push('conversation.lines', `6개 이상이어야 함 (현재: ${conv.lines.length}개)`);
-        }
-        conv.lines.forEach((l, i) => {
-          const p = `conversation.lines[${i}]`;
-          for (const f of ['speaker', 'en', 'ko']) {
-            if (!isNonEmptyString(l?.[f])) push(`${p}.${f}`, '비어 있지 않은 문자열이어야 함');
-          }
-          if (requiresReading && !isNonEmptyString(l?.reading)) {
-            push(`${p}.reading`, '비어 있지 않은 문자열이어야 함 (reading 필수 언어)');
-          }
-        });
-      }
-      if (!Array.isArray(conv.key_expressions) || conv.key_expressions.length < 1) {
-        push('conversation.key_expressions', '1개 이상의 배열이어야 함');
-      } else {
-        conv.key_expressions.forEach((k, i) => {
-          const p = `conversation.key_expressions[${i}]`;
-          for (const f of ['en', 'ko']) {
-            if (!isNonEmptyString(k?.[f])) push(`${p}.${f}`, '비어 있지 않은 문자열이어야 함');
-          }
-        });
-      }
-    }
   }
 
   return errors;

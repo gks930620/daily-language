@@ -92,32 +92,6 @@ export function ttsUrl(text, ttsLang) {
 }
 
 /**
- * 단어 지식(note·family·related) 보조 렌더 — "있으면 렌더" 원칙(reading과 동일).
- * 단어 표의 예문 셀 하단과 복습 퀴즈 정답 안에서 공유한다.
- * 반환물은 클래스가 다른 서브 요소뿐 — verify의 마커(<tr class="word-row"> 등)와 겹치지 않는다.
- */
-export function renderWordKnowledge(w) {
-  if (!w) return '';
-  const parts = [];
-  if (w.note) {
-    parts.push(`<p class="word-note">💡 ${esc(w.note)}</p>`);
-  }
-  if (Array.isArray(w.family) && w.family.length > 0) {
-    const items = w.family
-      .map((m) => `<b>${esc(m.word)}</b>${m.pos ? `(${esc(m.pos)})` : ''} ${esc(m.ko)}`)
-      .join(' · ');
-    parts.push(`<p class="word-family">파생: ${items}</p>`);
-  }
-  if (Array.isArray(w.related) && w.related.length > 0) {
-    const items = w.related
-      .map((r) => `<b>${esc(r.word)}</b>${r.ko ? `(${esc(r.ko)})` : ''} — ${esc(r.note)}`)
-      .join(' · ');
-    parts.push(`<p class="word-related">구분: ${items}</p>`);
-  }
-  return parts.join('\n');
-}
-
-/**
  * ② 오늘의 단어 섹션(클러스터형). 단어당 마커는 정확히 <article class="word-item"> 하나.
  * head(표제어·reading·발음 음성·품사·뜻) → 예문 → note(어원·감각) → family(파생) → related(구분) →
  * collocations 순. reading·note·family·related·collocations는 전부 "있으면 렌더".
@@ -182,99 +156,25 @@ ${items}
 </section>`;
 }
 
-/** ③ 오늘의 회화 섹션. 각 줄을 누르면 해석이 열린다. reading은 있으면 details 안에 렌더. */
-export function renderConversation(conv) {
-  const lines = conv.lines
-    .map((l) => {
-      const reading = l.reading ? `<p class="reading">${esc(l.reading)}</p>` : '';
-      return `<details class="line"><summary><b class="speaker">${esc(l.speaker)}</b> ${esc(l.en)}</summary>${reading}<p class="ko">${esc(l.ko)}</p></details>`;
-    })
-    .join('\n');
-  const keys = conv.key_expressions
-    .map((k) => {
-      const reading = k.reading ? ` <small class="reading">${esc(k.reading)}</small>` : '';
-      return `<li><b>${esc(k.en)}</b>${reading} — ${esc(k.ko)}</li>`;
-    })
-    .join('');
-  return `<section id="conversation">
-<h2>오늘의 회화 — ${esc(conv.topic)}</h2>
-<p class="situation">${esc(conv.situation_ko)}</p>
-<div class="dialogue">
-${lines}
-</div>
-<h3>핵심 표현</h3>
-<ul class="key-expressions">${keys}</ul>
-</section>`;
-}
-
-/** ④ 복습 퀴즈 섹션. 정답(뜻·해석)은 <details> 안에만 둔다. */
-export function renderQuiz(dueWords) {
-  if (!dueWords || dueWords.length === 0) {
-    return `<section id="quiz">
-<h2>복습 퀴즈</h2>
-<p class="empty">오늘 복습할 단어가 없습니다.</p>
-</section>`;
-  }
-  const items = dueWords
-    .map((d) => {
-      const reading = d.card?.reading
-        ? `<p class="reading">${esc(d.card.reading)}</p>\n`
-        : '';
-      // card에 note/family/related가 있으면 정답과 함께 렌더 — 복습 때마다 지식 재노출.
-      const knowledge = renderWordKnowledge(d.card);
-      return `<li class="quiz-item">
-<p class="quiz-word"><b>${esc(d.headword)}</b></p>
-<p class="quiz-example en">${esc(d.card?.example_en ?? '')}</p>
-<details><summary>정답</summary>
-${reading}<p class="answer">${esc(d.card?.pos ?? '')} ${esc(d.card?.ko ?? '')}</p>
-<p class="ko">${esc(d.card?.example_ko ?? '')}</p>
-${knowledge ? `${knowledge}\n` : ''}</details>
-</li>`;
-    })
-    .join('\n');
-  return `<section id="quiz">
-<h2>복습 퀴즈 <span class="count">(${dueWords.length})</span></h2>
-<ol class="quiz-list">
-${items}
-</ol>
-</section>`;
-}
-
-/** ⑤ 복습 문장 섹션. */
-export function renderReviewSentence(rs) {
-  if (!rs) {
-    return `<section id="review-sentence">
-<h2>복습 문장</h2>
-<p class="empty">아직 복습할 과거 문장이 없습니다.</p>
-</section>`;
-  }
-  const reading = rs.reading ? `<p class="reading">${esc(rs.reading)}</p>\n` : '';
-  return `<section id="review-sentence">
-<h2>복습 문장 <span class="from">(${esc(rs.from_date)} 학습)</span></h2>
-<p class="en">${esc(rs.en)}</p>
-<details><summary>정답</summary>
-${reading}<p class="ko">${esc(rs.ko)}</p>
-<p class="structure">${esc(rs.structure)}</p>
-</details>
-</section>`;
-}
-
 /**
  * 하루치 본문(문단 + 단어)을 한 번에. day 페이지와 index가 공유한다.
- * 사용자 확정(2026-07-22): 페이지는 문장(문단) + 단어(클러스터)만.
- * 회화·복습 퀴즈·복습 문장은 제거(추후 재설계) — renderConversation/renderQuiz/
- * renderReviewSentence 함수 정의는 복원용으로 남겨 두되 여기서 호출하지 않는다.
- * review 인자는 시그니처 호환을 위해 유지(현재 미사용).
+ * 사용자 확정: 페이지는 문장(문단) + 단어(클러스터) 둘뿐이다.
+ * 회화·복습 퀴즈·복습 문장 렌더러는 2026-08-04에 삭제했다(사용자 확정: 복습 기능 불필요).
+ * 되살릴 일이 생기면 git 이력의 renderConversation/renderQuiz/renderReviewSentence 참조.
  * ttsLang은 트랙 설정(langs.js)에서 그대로 전달 — null이면 발음 음성이 렌더되지 않는다.
  */
-export function renderDaySections(content, review, ttsLang = null) {
+export function renderDaySections(content, ttsLang = null) {
   return [
     renderSentences(content.sentences, content.passage_note),
     renderWords(content.words, ttsLang),
   ].join('\n');
 }
 
-/** 이전/다음 날짜 내비게이션(day 페이지용). */
+/**
+ * 이전/다음 날짜 내비게이션(day 페이지용).
+ * "홈"은 **사이트 홈(허브 docs/index.html)** 으로 간다. day 페이지는 docs/<lang>/days/ 아래라
+ * 두 단계를 올라가야 한다(`../index.html`은 그 트랙의 아카이브였다 — 2026-08-05 수정).
+ */
 export function renderDayNav(prevDate, nextDate) {
   const prev = prevDate
     ? `<a class="prev" href="./${esc(prevDate)}.html">← ${esc(prevDate)}</a>`
@@ -282,5 +182,5 @@ export function renderDayNav(prevDate, nextDate) {
   const next = nextDate
     ? `<a class="next" href="./${esc(nextDate)}.html">${esc(nextDate)} →</a>`
     : '<span class="next"></span>';
-  return `<nav class="day-nav">${prev}<a class="home" href="../index.html">홈</a>${next}</nav>`;
+  return `<nav class="day-nav">${prev}<a class="home" href="../../index.html">홈</a>${next}</nav>`;
 }

@@ -5,8 +5,8 @@
 - 매일 아침 자동으로 영어 학습 콘텐츠가 생기면 좋겠다. 사용자는 열어서 공부만 한다.
 - 학습자: 토익 700, 수능 2등급(10년 전), 회화 초급. 목표: 토익 900, 시사 독해, 기초 회화.
 - 하루 분량: 문장 5개(수능~시사 난이도, 한국어 해석+구문분석), 단어 20개, 회화 한 문단.
-- 배운 단어는 잊지 않게 간격 반복(SRS) 복습 퀴즈로 다시 나와야 한다.
-- 실행 주체는 GitHub Actions(매일 아침 저장소에서 실행, AI는 구독 토큰의 `claude -p`). 처음엔 claude.ai 클라우드 루틴이었으나 GitHub 연동 없이 되는 Actions로 전환(루틴은 예비 경로).
+- ~~배운 단어는 잊지 않게 간격 반복(SRS) 복습 퀴즈로 다시 나와야 한다.~~ → **사용자 철회(2026-08-04): "퀴즈는 필요없어. 별도 복습도 필요없고."** v1.4에서 제거.
+- 실행 주체는 GitHub Actions(매일 아침 저장소에서 실행, AI는 구독 토큰의 `claude -p`). 처음엔 claude.ai 클라우드 루틴이었으나 GitHub 연동 없이 되는 Actions로 전환(루틴 프롬프트는 방치되어 낡았기에 v1.4에서 삭제).
 - 결과물은 웹페이지로 본다(폰에서). 일본어 학습 확장은 처음엔 "일단 킾"이었으나 **v1.1로 확정 승격** — 트랙 네임스페이스 리팩터로 도입.
 - **콘텐츠 철학(사용자 확정, 2026-07-21)**: 기초 문법·단어는 공부할 내용이 정해져 있으니 정해진 커리큘럼으로 각자 학습(필요하면 나중에 만들 수도 있음 — v2 후보). 매일 생성되는 콘텐츠는 **기초 완료자가 흥미를 잃지 않고 평생 매일 30분** 하기 위한 것. 문법은 따로 가르치지 않고 문장 속에서 자연스럽게.
 - 일본어는 JLPT 기준 **N1 취득자·N2 취득자 두 난이도**(ja-n1·ja-n2), 영어는 기존 프로필 기반 1개 난이도.
@@ -16,11 +16,11 @@
 
 | 항목 | 결정 |
 |---|---|
-| 결과물 형태 | GitHub Pages(`docs/`) 정적 HTML + Leitner SRS 복습 퀴즈 |
-| 실행 주체 | GitHub Actions `.github/workflows/daily.yml`, 매일 18:00 UTC(=03:00 KST). AI 단계는 `claude -p` + `CLAUDE_CODE_OAUTH_TOKEN`(구독 사용량, API 과금 아님). 예비: claude.ai 루틴(`prompts/routine.md`) |
+| 결과물 형태 | GitHub Pages(`docs/`) 정적 HTML — 오늘의 문단 + 오늘의 단어 15개 (복습 퀴즈는 v1.3에서 제거, SRS는 v1.4에서 제거) |
+| 실행 주체 | GitHub Actions `.github/workflows/daily.yml`, 매일 18:00 UTC(=03:00 KST). AI 단계는 `claude -p` + `CLAUDE_CODE_OAUTH_TOKEN`(구독 사용량, API 과금 아님) |
 | 저장소 | GitHub **public** [`gks930620/daily-language`](https://github.com/gks930620/daily-language) (Pages 무료 조건) |
-| SRS | 6박스 Leitner, 간격 `[1,3,7,14,30,60]`일, box 6 노출 후 졸업. 언어별 독립 상태 |
-| 역할 분담 | AI = content.json 생성만. 날짜·SRS·상태·빌드 = Node 스크립트 |
+| 단어 규칙 | ~~6박스 Leitner SRS~~ → **v1.4에서 폐기**. 남은 규칙은 "한 번 나온 단어는 그 트랙에서 다시 나오지 않는다" 하나. 트랙별 독립 장부 |
+| 역할 분담 | AI = content.json 생성만. 날짜·중복 판정·상태·빌드 = Node 스크립트 |
 | 기술 | Node.js only, 외부 의존성 0, ESM, docs/는 JS 0줄 |
 | 멱등성 | `state/<lang>/runlog.json`의 날짜별 `settled`가 언어별 멱등 키 |
 | 트랙 축(v1.1) | 트랙 = 언어×난이도, 3개: `en`·`ja-n1`·`ja-n2`. 디렉터리 네임스페이스 `data/<트랙>/`·`state/<트랙>/`·`docs/<트랙>/`, `--lang` 필수(기본값 없음, build만 예외), 스키마 키(en/ko)는 트랙 무관 고정 + `lang` 필드 + ja 트랙은 `reading` 필수, 워크플로 커밋은 트랙별(`daily(en):`/`daily(ja-n1):`/`daily(ja-n2):`). ja 두 트랙은 프롬프트·픽스처 공유, 난이도는 `langs.js`의 learnerProfile 주입 |
@@ -28,8 +28,8 @@
 ## v1 범위 (이 저장소)
 
 - 파이프라인: `prepare → generate(AI) → settle → build → verify → git(워크플로)`.
-- 하루치 페이지: 문장 5(해석·구문분석 접기) / 단어 20 표(AI 후보 25 중 settle이 선별한 `selected.json` 기준) / 회화 8~12줄 / 복습 퀴즈(정답 접기) / 복습 문장 1.
-- 채점 없는 SRS: "퀴즈에 노출 = 통과"로 승급. 파일 스키마는 채점 확장 가능 구조.
+- 하루치 페이지(v1 당시): 문장 5 / 단어 20 표 / 회화 8~12줄 / 복습 퀴즈 / 복습 문장 1. → **현재는 문단(문장 5) + 단어 15뿐**(v1.3·v1.4에서 축소).
+- 채점 없는 SRS: "퀴즈에 노출 = 통과"로 승급. → **v1.4에서 전면 제거.**
 - 로컬 시뮬레이션(mock-generate + 픽스처)과 node:test 단위 테스트.
 
 ## v1.1 (확정 — 구현됨)
@@ -51,20 +51,29 @@
 
 - **표현 포맷**: 5종 비교 프리뷰(docs/preview) 중 사용자가 **정통 교재형 + 단어만 클러스터형** 선택. 일일 렌더러(`renderDaySections`)를 이 포맷으로 확정. 단어는 표 대신 클러스터(어원·파생·혼동어 칩), 마커 `<article class="word-item">`.
 - **페이지 축소(사용자 확정)**: 페이지 = **문단 + 단어 15개**만. **회화 섹션 제거**(텍스트만으로 회화 학습은 효과 약함 — 영상/음성 연계는 나중), **복습 퀴즈·복습 문장 제거**(복습 방식 재설계 예정). 단어 25→**15**(후보 18 → 선별 15).
-- 구현: html.js `renderDaySections` = 문장+단어만(renderConversation/renderQuiz/renderReviewSentence는 정의만 남김·미호출), validate는 conversation 선택화·단어 15~18, verify는 퀴즈 검사 제거·단어 마커 갱신, langs.js 후보18/최종15, generator·픽스처에서 회화 제거. settle/prepare(SRS·known_words 인프라)는 보존 — 복습 재도입 시 재사용.
+- 구현: html.js `renderDaySections` = 문장+단어만(renderConversation/renderQuiz/renderReviewSentence는 정의만 남김·미호출), validate는 conversation 선택화·단어 15~18, verify는 퀴즈 검사 제거·단어 마커 갱신, langs.js 후보18/최종15, generator·픽스처에서 회화 제거.
+- ⚠️ 이때 settle/prepare의 SRS 인프라를 "복습 재도입 시 재사용"하려고 남겨 뒀는데, **그게 v1.4에서 문제가 됐다** — 읽는 곳 없이 매일 갱신되는 상태가 됐다.
 
-## v1.4 후보 (다음 조정 대상 — 사용자가 매일 콘텐츠를 보며 피드백 예정)
+## v1.4 (확정 — 구현됨, 2026-08-04): 복습·SRS 전면 제거 + 트랙 독립 실행
+
+- **배경**: v1.3에서 복습 퀴즈를 화면에서 뺐지만 settle의 승급 로직은 남아, 화면에 보인 적 없는 단어에 `shown` 기록이 매일 쌓이고 있었다(13일 만에 트랙당 195단어 중 180개). 문서는 "퀴즈에 나오면 승급"이라 적혀 있어 계약과 실제가 어긋난 상태.
+- **사용자 재확정**: "퀴즈는 필요없어. 별도 복습도 필요없고. 현재 화면이 나쁘지 않다." → 화면은 그대로 두고 뒤에 남은 것만 제거.
+- **제거**: srs.js(→ wordbank.js), review.json(파이프라인 + 과거 39개 파일), prepare의 due 선정·복습 문장 선택·recent_conversation_topics, settle의 승급, html.js의 renderConversation/renderQuiz/renderReviewSentence/renderWordKnowledge, validate의 conversation 스키마, 고아 산출물(docs/preview·preview-formats.js), 낡은 prompts/routine.md.
+- **words.json v1 → v2**: SRS 필드와 card 스냅샷을 버리고 `{ added_on }`만. settle이 쓸 때 자동 승격(멱등). 트랙당 184KB → 10KB.
+- **트랙 독립 실행**: 워크플로 스텝 조건을 `!cancelled() && <자기 트랙 앞 단계>.outcome == 'success'`로. 이전에는 en 실패 시 ja 두 트랙이 통째로 skip됐다(ARCHITECTURE.md [A11]).
+- **검증**: 39개 day 페이지 재빌드 후 diff 0(화면 무변경), 테스트 54 통과, verify 3트랙 통과.
+
+## v1.5 후보 (다음 조정 대상 — 사용자가 매일 콘텐츠를 보며 피드백 예정)
 
 - 프로필·난이도 문구 조정(langs.js 한 줄), 분량 조정(문단/단어 수), 트랙 추가·제거.
-- **복습 방식 재설계**(제거된 것 되살리기): 어떤 형태로 복습을 되돌릴지 미정. SRS 인프라(박스·간격·card 스냅샷)는 그대로 있음.
+- ~~복습 방식 재설계~~ — **사용자가 v1.4에서 명시적으로 불필요하다고 확정.** 다시 꺼내지 말 것. 정말 필요해지면 렌더러·SRS는 git 이력에, 단어 카드는 날짜별 selected.json에 있다.
 - **회화 재도입**: 텍스트 한계 → 영상/음성 연계 형태 검토(외부 의존성 주의).
 
 ## v2 후보 (지금은 안 함)
 
 | 후보 | 내용 | 메모 |
 |---|---|---|
-| 성과 기반 채점 | 페이지에서 "틀렸어요"를 누르면 GitHub Issue 폼으로 정답률 수집 → 다음날 settle이 Issue를 읽어 `correct`/`wrong` 이벤트 반영(오답은 box 유지/강등) | JS 0줄 원칙 유지 가능(Issue 폼 링크는 정적 URL). srs.js 확장만 필요 |
-| 문장 SRS | 단어처럼 문장에도 박스를 붙여 간격 복습 | 현재는 D-10~D-3 창 결정적 선택 1문장으로 대체 중 |
+| ~~성과 기반 채점·문장 SRS~~ | 복습 자체가 v1.4에서 제거됐다(사용자 확정). 복습을 안 하므로 채점도 없다 | 되살리려면 v1.4 이전 커밋에서 srs.js·렌더러를 꺼내야 한다 |
 | 회화 음성 | TTS 음원 링크 첨부 | 외부 의존성 발생 — 신중히 |
 
 ## 리스크
@@ -76,6 +85,7 @@
 | AI가 스키마를 어긴 content.json 생성 | settle 실패 | validate.js가 필드 경로까지 찍어 거부, 워크플로가 1회 재생성 후 재시도, 실패 시 커밋 없이 보고 |
 | AI가 알던 단어를 또 냄 | 신규 단어 감소 | settle의 코드 dedup이 최종 방어 + notes에 기록. 미달이어도 진행 |
 | known_words가 계속 자람 | brief.json 비대 | 3,000개 초과 시 최근 1,000개만 전달(내장됨) |
-| 복습량 누적 부담 | 정착기 하루 ~120개 | `intervals` 배열 축소로 즉시 조정 가능(ARCHITECTURE.md 참조) |
+| 단어 장부가 계속 자람 | 트랙당 연 5,400개 | 장부 항목이 `{added_on}` 하나뿐이라 1만 개도 수백 KB. known_words 전달만 3,000개에서 최근 1,000개로 전환 |
+| 발음 음성(비공식 TTS 엔드포인트) 차단 | 영어 단어 재생 버튼이 조용히 죽음(빌드·verify는 통과) | `langs.js`의 `en.ttsLang`을 `null`로 두고 재빌드하면 즉시 제거. README 참조 |
 | Pages 반영 지연 | 아침에 페이지가 늦게 보임 | 수 분 내 해소. README 문제 해결 표 참조 |
 | public 저장소에 학습 데이터 노출 | 개인 학습 기록 공개 | 민감 정보 아님(단어·문장). 이름·이메일 등은 커밋하지 않기 |

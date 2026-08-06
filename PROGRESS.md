@@ -2,9 +2,30 @@
 
 > 갱신 규칙: 작업 단위가 끝날 때마다 이 파일을 갱신하고 커밋·push한다. 새 세션은 이 파일 + `git log --oneline -15`로 상태를 복원한다.
 
-**마지막 갱신**: 2026-08-04
+**마지막 갱신**: 2026-08-05
 
-## 최신 (2026-08-04)
+## 최신 (2026-08-05) — 사용자 피드백 2건
+
+- **day 페이지 "홈" 링크가 엉뚱한 곳으로 가던 버그 수정**. `../index.html`이라 **그 트랙의 아카이브**(docs/en/index.html)로 갔다. day 페이지는 `docs/<lang>/days/` 아래라 사이트 홈(허브)까지 두 단계를 올라가야 한다 → `../../index.html`. 39개 day 페이지 전부 재생성, 내부 링크 222개 전부 실존 확인. 회귀 테스트 추가(`renderDayNav`).
+- **영어 발음 음성은 이미 완성·정상 작동**이었다(2026-08-04 15단어 URL 재확인: HTTP 200 · audio/mpeg). 사용자가 "완성됐는지 모르겠다"고 한 것은 **재생 버튼이 눈에 안 띄어서** — 네이티브 `<audio>`를 2.25×1.75rem으로 줄여 놔 버튼처럼 안 보였다. 2.75×2.1rem으로 키우고 테두리·배경(--border/--surface)을 줘 "누를 수 있는 것"으로 보이게 했다. JS는 여전히 0줄.
+- **"항상 커밋·push"가 사용자 지시로 확정**됐다(묻지 말 것). push 전 `git pull --rebase` — 워크플로가 매일 커밋을 올린다.
+
+## (이전) 2026-08-04 — 전체 검토 후 정리
+
+전체 검토에서 **화면(문단 + 단어 15)은 아무도 불만이 없는데 그 뒤에 죽은 기계가 돌고 있다**는 게 드러나 걷어냈다. 사용자 확정: "퀴즈는 필요없어. 별도 복습도 필요없고. 현재 화면이 나쁘지 않다."
+
+- **SRS(간격 반복 복습) 전면 제거** — 최우선 문제였다. 2026-07-22에 복습 퀴즈를 화면에서 뺐는데 `settle`의 승급 로직은 남아, **화면에 보인 적 없는 단어에 `shown` 기록이 매일 쌓이고 box가 올라가고 있었다**(13일 만에 트랙당 195단어 중 180개). 그대로 뒀으면 약 4개월 뒤 아무도 못 본 단어들이 `graduated`로 순환을 마쳤다. 설계 근거는 ARCHITECTURE.md [A10].
+  - 남은 단어 규칙은 하나뿐: **한 번 나온 단어는 그 트랙에서 다시 나오지 않는다**(known_words + settle의 코드 dedup).
+  - `srs.js` → **`wordbank.js`**(`newWordEntry`·`migrateWordsState`만). `review.json`은 파이프라인에서 제거 + 과거 39개 파일 삭제(렌더에 안 쓰이면서 하루 25~36KB씩 쌓이던 중).
+  - **words.json v1 → v2**: `{ added_on }`만 남기고 SRS 필드·card 스냅샷 제거. `settle`이 쓸 때 자동 승격(멱등)이라 **트랙별로 다음 03:00 실행 한 번에 정리된다** — 지금 저장소의 state는 아직 v1이고 그게 정상이다. 크기는 트랙당 184KB → 약 10KB.
+- **워크플로 트랙 독립** — 명시적 `if:`가 암묵적으로 `success()`와 AND되는 탓에 **en이 실패하면 ja 두 트랙이 통째로 skip**됐다. 모든 스텝을 `!cancelled() && <자기 트랙 앞 단계>.outcome == 'success'`로 바꿔 트랙 간 의존을 끊고 트랙 내 순서는 유지. en 블록에도 `git pull --rebase` 추가, job에 `timeout-minutes: 90`. 근거는 [A11].
+- **죽은 코드·고아 산출물 정리**: prepare의 복습문장 선택·`recent_conversation_topics`(회화 제거 후 13일 내내 빈 배열이었다), html.js의 renderConversation/renderQuiz/renderReviewSentence/renderWordKnowledge, validate의 conversation 스키마, 링크되지 않던 `docs/preview/`·`preview-formats.js`, 언어 축 이전 기준이라 실행하면 틀리는 `prompts/routine.md`.
+- **문서 드리프트 수정**: ARCHITECTURE/README/PLAN/CLAUDE/daily-run 스킬에 남아 있던 "신규 20개·후보 25개·하루 복습 120개"와 낡은 verify 마커(`<tr class="word-row">`)를 실제 값(15/18, `<article class="word-item">`)으로.
+- **검증**: 39개 day 페이지 재빌드 후 **docs diff 0**(화면 완전 무변경), 테스트 54 통과, 3트랙 verify 통과, 가짜 날짜(2026-09-01) 전 파이프라인 1사이클 + 멱등 재실행 + 마이그레이션까지 확인 후 원복.
+- 알려진 성질(고친 것 아님): `build.js`는 페이지를 쓰기만 하고 지우지 않는다 — 날짜 폴더를 지우고 재빌드하면 그 html이 고아로 남는다(daily-run 스킬 E절에 경고 추가).
+- 손대지 않은 것: 발음 음성(A9), 문단 형식(A8), 단어 지식 note/family/related(A7), 콘텐츠 프롬프트의 품질 기준.
+
+## (이전) 2026-08-04
 
 - **영어 표제어 발음 음성 추가**. 단어 옆 재생 버튼 하나(예문·문장에는 안 붙임 — 사용자 요구). 음원 URL을 headword에서 결정적으로 생성하므로 스키마·SRS·파이프라인 무변경이고 **과거 13일치까지 소급 적용**된다. 트랙 스위치는 `langs.js`의 `ttsLang`(en만 켬, ja는 후리가나가 발음을 대신해 null). JS는 여전히 0줄(네이티브 `<audio>` + CSS 축소). 설계 근거는 ARCHITECTURE.md [A9].
   - **주의**: 음성 엔드포인트는 Referer가 붙으면 404다. `page()`의 `<meta name="referrer" content="no-referrer">`를 지우면 전 페이지 음성이 통째로 죽는다.

@@ -4,6 +4,7 @@
 import { readFileSync, writeFileSync, renameSync, mkdirSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { WORDS_SCHEMA_VERSION } from './wordbank.js';
 
 /** 저장소 루트 절대 경로 (scripts/lib/ 기준 두 단계 위). */
 export const ROOT = fileURLToPath(new URL('../..', import.meta.url));
@@ -43,8 +44,7 @@ export function writeTextAtomic(filePath, text) {
 /** state/<lang>/words.json의 초기(빈) 구조. */
 export function emptyWordsState() {
   return {
-    schema_version: 1,
-    intervals: [1, 3, 7, 14, 30, 60],
+    schema_version: WORDS_SCHEMA_VERSION,
     words: {},
   };
 }
@@ -54,7 +54,7 @@ export function emptyRunlog() {
   return { schema_version: 1, runs: {} };
 }
 
-/** state/<lang>/words.json 읽기(없으면 빈 구조). lang 필수. */
+/** state/<lang>/words.json 읽기(없으면 빈 구조). 스키마 승격은 settle.js가 쓰기 직전에 한다. lang 필수. */
 export function readWordsState(lang) {
   if (!lang) throw new Error('readWordsState: lang 필수');
   return readJson(rootPath('state', lang, 'words.json'), emptyWordsState());
