@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-08",
+  "passage_note": "언론·지역사회 — 지역 신문의 붕괴와 '뉴스 사막'이 치르는 대가(논설)",
+  "sentences": [
+    {
+      "en": "Over the past two decades, more than a quarter of the country's local newspapers have folded, leaving vast stretches of the interior as so-called news deserts where no reporter covers city hall.",
+      "ko": "지난 20년 사이 이 나라 지역 신문의 4분의 1이 넘게 문을 닫았고, 그 결과 내륙의 광대한 지역이 시청을 취재하는 기자가 한 명도 없는 이른바 '뉴스 사막'이 되었다.",
+      "structure": "· leaving ~ : 분사구문(결과 용법). 앞 절 전체가 원인이고 '그 결과 ~하게 되었다'로 옮긴다.\n· leave A as B = 'A를 B인 상태로 남겨 두다' — 여기서 A는 vast stretches, B는 news deserts.\n· where no reporter covers city hall : 관계부사 where가 앞의 news deserts를 수식(장소 선행사).\n· more than a quarter of + 복수명사 → 동사도 복수(have folded).",
+      "vocab_notes": [
+        { "word": "decade", "ko": "10년" },
+        { "word": "a quarter of", "ko": "~의 4분의 1" },
+        { "word": "fold", "ko": "(사업체가) 문을 닫다, 도산하다" },
+        { "word": "leave", "ko": "~한 상태로 남겨 두다" },
+        { "word": "vast", "ko": "광대한, 막대한" },
+        { "word": "stretch", "ko": "(길게 뻗은) 구역, 지대" },
+        { "word": "interior", "ko": "내륙, 오지; 내부" },
+        { "word": "so-called", "ko": "이른바, 소위" },
+        { "word": "news desert", "ko": "뉴스 사막(취재 언론이 사라진 지역)" },
+        { "word": "cover", "ko": "취재하다, 보도하다" },
+        { "word": "city hall", "ko": "시청, 시 행정" }
+      ]
+    },
+    {
+      "en": "The causes are not mysterious: classified advertising, once the financial bedrock of the regional press, migrated wholesale to online platforms, and the hedge funds that bought up the survivors stripped their newsrooms to service the debt they had taken on.",
+      "ko": "원인이 알 수 없는 것도 아니다. 한때 지역 언론의 재정적 근간이었던 안내광고가 통째로 온라인 플랫폼으로 옮겨 갔고, 살아남은 신문사를 사들인 헤지펀드들은 자신들이 떠안은 부채를 갚기 위해 편집국 인력을 빼내 버렸다.",
+      "structure": "· once the financial bedrock of the regional press : 주어 classified advertising의 동격어구 삽입(콤마 사이). 원래 (which was) once ~ 에서 which was가 생략된 형태.\n· 콜론(:)은 앞 문장(원인은 알 수 없는 것이 아니다)의 내용을 뒤에서 구체적으로 풀어 준다.\n· that bought up the survivors : 주격 관계대명사절이 the hedge funds를 수식 — 주어가 길어져 동사 stripped가 멀리 떨어졌다.\n· to service the debt : to부정사의 부사적 용법(목적).\n· the debt (that) they had taken on : 목적격 관계대명사 생략 + 과거완료(빚을 진 것이 인력을 뺀 것보다 먼저).",
+      "vocab_notes": [
+        { "word": "mysterious", "ko": "알 수 없는, 불가사의한" },
+        { "word": "classified advertising", "ko": "안내광고(구인·매매 등 항목별 소형 광고)" },
+        { "word": "bedrock", "ko": "근간, 토대" },
+        { "word": "the regional press", "ko": "지역 언론" },
+        { "word": "migrate", "ko": "옮겨 가다, 이동하다" },
+        { "word": "wholesale", "ko": "통째로, 대대적으로" },
+        { "word": "hedge fund", "ko": "헤지펀드" },
+        { "word": "buy up", "ko": "사들이다, 매집하다" },
+        { "word": "survivor", "ko": "살아남은 것(회사·사람)" },
+        { "word": "strip", "ko": "(인력·자산을) 빼내다, 벗겨 내다" },
+        { "word": "newsroom", "ko": "편집국, 보도국" },
+        { "word": "service", "ko": "(부채를) 상환하다, 이자를 갚다" },
+        { "word": "take on debt", "ko": "부채를 떠안다" }
+      ]
+    },
+    {
+      "en": "What is contested is how much this matters, given that national outlets remain abundant and readily accessible.",
+      "ko": "논쟁이 되는 것은 이것이 과연 얼마나 중요한가다 — 전국 단위 매체는 여전히 풍부하고 손쉽게 접근할 수 있다는 점을 감안하면 말이다.",
+      "structure": "· What is contested : 관계대명사 what이 이끄는 명사절이 주어. '논쟁이 되는 것은'.\n· how much this matters : 의문사절이 보어. 명사절 안이므로 어순은 평서문(this matters)임에 주의.\n· given that + 절 = '~을 감안하면' — 접속사처럼 굳어진 분사 표현.\n· remain + 형용사(abundant, accessible) : 2형식 불완전자동사.",
+      "vocab_notes": [
+        { "word": "contest", "ko": "이의를 제기하다, 다투다" },
+        { "word": "matter", "ko": "중요하다" },
+        { "word": "given that", "ko": "~을 감안하면" },
+        { "word": "outlet", "ko": "(언론) 매체" },
+        { "word": "abundant", "ko": "풍부한" },
+        { "word": "readily", "ko": "손쉽게, 선뜻" },
+        { "word": "accessible", "ko": "접근할 수 있는, 이용하기 쉬운" }
+      ]
+    },
+    {
+      "en": "A growing body of research suggests it matters a great deal: in counties that lost their paper, municipal borrowing costs rose, turnout in local elections fell, and incumbents faced fewer challengers — findings consistent with the notion that scrutiny deters malfeasance.",
+      "ko": "점점 쌓여 가는 연구들은 그것이 대단히 중요하다고 말한다. 지역 신문을 잃은 카운티에서는 지방정부의 차입 비용이 올랐고, 지방선거 투표율은 떨어졌으며, 현직자들이 상대할 도전자는 줄었다 — 감시가 비리를 억제한다는 생각과 부합하는 결과들이다.",
+      "structure": "· suggests (that) it matters ~ : 목적어절의 접속사 that 생략.\n· 콜론 뒤에 절 세 개(costs rose / turnout fell / incumbents faced)가 and로 병렬 연결됐다.\n· that lost their paper : 주격 관계대명사절이 counties를 수식.\n· findings consistent with ~ : 앞 내용 전체를 받는 동격 명사구. consistent 이하 형용사구가 findings를 뒤에서 수식(후치 수식).\n· the notion that scrutiny deters malfeasance : 동격의 that절('~라는 생각'). 뒤에 완전한 절이 오므로 관계대명사가 아니다.",
+      "vocab_notes": [
+        { "word": "a growing body of research", "ko": "점점 축적되는 연구들" },
+        { "word": "a great deal", "ko": "대단히, 상당히" },
+        { "word": "county", "ko": "카운티, 군(郡) 단위 행정구역" },
+        { "word": "paper", "ko": "신문" },
+        { "word": "municipal", "ko": "지방자치의, 시(市)의" },
+        { "word": "borrowing costs", "ko": "차입 비용, 조달 금리" },
+        { "word": "turnout", "ko": "투표율, 참가자 수" },
+        { "word": "incumbent", "ko": "현직자" },
+        { "word": "challenger", "ko": "도전자, 대항마" },
+        { "word": "consistent with", "ko": "~와 부합하는, 일치하는" },
+        { "word": "notion", "ko": "생각, 개념" },
+        { "word": "scrutiny", "ko": "감시, 면밀한 조사" },
+        { "word": "deter", "ko": "억제하다, 단념시키다" },
+        { "word": "malfeasance", "ko": "(공직자의) 부정행위, 비리" }
+      ]
+    },
+    {
+      "en": "Philanthropic funds and nonprofit newsrooms have stepped into the breach, but their reach remains patchy, and few would argue that charity constitutes a durable substitute for a business model.",
+      "ko": "자선 재단과 비영리 편집국이 그 빈자리를 메우고 나섰지만, 그 손길이 닿는 범위는 여전히 군데군데일 뿐이고, 자선이 수익 모델의 지속 가능한 대체물이 된다고 주장할 사람은 거의 없다.",
+      "structure": "· 등위접속사 but과 and로 세 개의 절이 이어지는 중문 — but이 앞뒤를 대조시킨다.\n· have stepped : 현재완료(과거의 행동이 지금까지 이어짐).\n· few would argue that ~ : few는 그 자체로 부정어라 '~라고 주장할 사람은 거의 없다'로 옮긴다. a few(약간 있는)와 구분할 것.\n· would는 가정의 뉘앙스('설령 따진다 해도 ~할 사람은 없을 것이다').",
+      "vocab_notes": [
+        { "word": "philanthropic", "ko": "자선의, 박애의" },
+        { "word": "fund", "ko": "기금, 재단" },
+        { "word": "nonprofit", "ko": "비영리의" },
+        { "word": "step into the breach", "ko": "빈자리를 메우고 나서다" },
+        { "word": "reach", "ko": "영향이 미치는 범위" },
+        { "word": "patchy", "ko": "고르지 못한, 군데군데인" },
+        { "word": "few", "ko": "거의 없는(부정)" },
+        { "word": "charity", "ko": "자선, 자선 단체" },
+        { "word": "constitute", "ko": "~에 해당하다, ~을 구성하다" },
+        { "word": "durable", "ko": "오래가는, 지속 가능한" },
+        { "word": "substitute", "ko": "대체물, 대안" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "bedrock",
+      "pos": "n.",
+      "ko": "근간, 토대; 기반암",
+      "example_en": "Public trust is the bedrock of any functioning news organization.",
+      "example_ko": "대중의 신뢰는 제대로 굴러가는 모든 언론사의 근간이다.",
+      "collocations": ["the bedrock of democracy", "bedrock principle"],
+      "note": "흙을 파고 내려가면 나오는 '기반암'이 그대로 비유가 된 말 — 그 위에 모든 것이 올라앉는 맨 아래층이다. 그래서 the bedrock of ~ 는 '없어지면 전부 무너지는 토대'.",
+      "related": [
+        { "word": "cornerstone", "ko": "초석, 주춧돌", "note": "bedrock은 아래에 깔린 기반 전체, cornerstone은 건물 모서리의 돌 하나 — 여러 요소 중 핵심 '하나'를 짚을 땐 cornerstone" }
+      ]
+    },
+    {
+      "headword": "outlet",
+      "pos": "n.",
+      "ko": "(언론) 매체; 배출구; 판매점",
+      "example_en": "Several major news outlets declined to publish the leaked memo.",
+      "example_ko": "주요 언론 매체 몇 곳은 유출된 메모를 보도하기를 거부했다.",
+      "collocations": ["news outlet", "media outlet", "an outlet for stress"],
+      "note": "out + let(내보내다) = '내보내는 구멍'. 물이 나가면 배출구, 감정이 나가면 해소 수단, 기사가 나가면 언론 매체, 재고가 나가면 아울렛 — 갈래는 많아도 뿌리는 하나다.",
+      "related": [
+        { "word": "inlet", "ko": "유입구; 후미", "note": "방향만 뒤집은 짝 — 안으로(in) 들어오는 구멍" }
+      ]
+    },
+    {
+      "headword": "circulation",
+      "pos": "n.",
+      "ko": "발행부수; 순환, 유통",
+      "example_en": "The paper's daily circulation has halved since its peak in 2005.",
+      "example_ko": "그 신문의 일간 발행부수는 2005년 정점 이후 반토막이 났다.",
+      "collocations": ["daily circulation", "in circulation", "blood circulation"],
+      "note": "circle(원)에서 온 말이라 핵심은 '돈다'는 것 — 피가 돌면 혈액순환, 화폐가 돌면 유통, 신문이 돌면 '발행부수'다. 언론 기사에서 circulation은 거의 항상 부수를 뜻한다.",
+      "family": [
+        { "word": "circulate", "pos": "v.", "ko": "순환하다; (소문·문서가) 돌다, 유포되다" },
+        { "word": "circular", "pos": "a.", "ko": "원형의; 순환 논리의" }
+      ]
+    },
+    {
+      "headword": "turnout",
+      "pos": "n.",
+      "ko": "투표율; 참가자 수",
+      "example_en": "Voter turnout in the municipal election fell below thirty percent.",
+      "example_ko": "지방선거 투표율은 30퍼센트 아래로 떨어졌다.",
+      "collocations": ["voter turnout", "a low turnout", "high turnout"],
+      "note": "turn out(모습을 드러내다, 참석하다)의 명사형 — '나와 준 사람의 수'다. 철자가 비슷한 turnover(이직률·매출액)와 시험에서 자주 짝지어 나오니 반드시 갈라 둘 것.",
+      "related": [
+        { "word": "turnover", "ko": "이직률; 매출액; 회전율", "note": "turnout은 '나온 사람 수', turnover는 '뒤집혀 바뀌는 양' — 직원이 바뀌면 이직률, 재고가 돌면 매출액" }
+      ]
+    },
+    {
+      "headword": "municipal",
+      "pos": "a.",
+      "ko": "지방자치의, 시(市)의",
+      "example_en": "The city issued municipal bonds to finance the new water treatment plant.",
+      "example_ko": "시는 새 정수 처리 시설의 재원을 마련하려고 지방채를 발행했다.",
+      "collocations": ["municipal government", "municipal bond", "municipal election"],
+      "note": "라틴어 municipium(자치 도시)에서 온 말로, 행정 층위가 national(국가) → state/provincial(주·도) → municipal(시)로 내려가는 맨 아래 칸을 가리킨다. 시청·시의회·지방채에 모두 붙는다.",
+      "family": [
+        { "word": "municipality", "pos": "n.", "ko": "지방자치단체, 시(市)" }
+      ]
+    },
+    {
+      "headword": "accountability",
+      "pos": "n.",
+      "ko": "책임, 해명할 의무",
+      "example_en": "Without local reporters, there is little accountability for how the budget is spent.",
+      "example_ko": "지역 기자가 없으면 예산이 어떻게 쓰이는지에 대한 책임 추궁이 거의 이루어지지 않는다.",
+      "collocations": ["hold someone accountable", "public accountability", "a lack of accountability"],
+      "note": "account(설명·해명)에서 나온 말이라 핵심은 '왜 그랬는지 설명할 의무'다. responsibility(맡은 일 자체에 대한 책임)와 달리 '누군가에게 답해야 한다'는 관계가 들어 있다.",
+      "family": [
+        { "word": "accountable", "pos": "a.", "ko": "책임이 있는, 해명할 의무가 있는" },
+        { "word": "account", "pos": "n.", "ko": "설명, 진술; 계좌" }
+      ]
+    },
+    {
+      "headword": "watchdog",
+      "pos": "n.",
+      "ko": "감시 기구, 감시자",
+      "example_en": "The agency was created to act as a watchdog over campaign spending.",
+      "example_ko": "그 기관은 선거 자금 지출을 감시하는 기구 역할을 하도록 만들어졌다.",
+      "collocations": ["a watchdog group", "consumer watchdog", "act as a watchdog"],
+      "note": "집 지키는 개 → 권력을 지켜보는 감시자. 영어 시사문은 감시 기능을 잃고 권력에 순종하는 언론을 lapdog(무릎에 앉은 애완견)이라 부르며 대비시키는데, 이 한 쌍으로 같이 외워 두면 논설이 훨씬 잘 읽힌다.",
+      "related": [
+        { "word": "lapdog", "ko": "애완견; 권력에 순종하는 존재", "note": "watchdog의 반대 비유 — 감시하지 않고 주인 무릎에 앉아 있는 언론·기관을 비꼬는 말" }
+      ]
+    },
+    {
+      "headword": "malfeasance",
+      "pos": "n.",
+      "ko": "(공직자의) 부정행위, 비리",
+      "example_en": "The audit uncovered years of malfeasance by senior officials.",
+      "example_ko": "감사에서 고위 공직자들의 수년에 걸친 비리가 드러났다.",
+      "collocations": ["official malfeasance", "corporate malfeasance"],
+      "note": "mal-(나쁜) + feasance(행위) — malfunction(오작동)·malnutrition(영양실조)의 그 mal-이다. 일반적인 잘못이 아니라 '권한을 쥔 자가 저지른 위법 행위'를 가리키는 법률·시사 용어.",
+      "related": [
+        { "word": "misconduct", "ko": "부정행위, 비위", "note": "misconduct는 품행·직무상 잘못까지 폭넓게 쓰지만, malfeasance는 공직자의 위법 행위로 한정되어 훨씬 무겁다" }
+      ]
+    },
+    {
+      "headword": "partisan",
+      "pos": "a.",
+      "ko": "당파적인, 편파적인; 열성 지지자",
+      "example_en": "Coverage of the bill quickly split along partisan lines.",
+      "example_ko": "그 법안에 대한 보도는 순식간에 당파에 따라 갈렸다.",
+      "collocations": ["partisan divide", "along partisan lines", "partisan politics"],
+      "note": "part(부분·정당)에서 온 말로 '한쪽 편에 선'이 핵심 — 그래서 bi-(둘)를 붙인 bipartisan은 '양당의, 초당적인', non-을 붙인 nonpartisan은 '무당파의'가 된다. 접두사만 보면 뜻이 뒤집힌다.",
+      "family": [
+        { "word": "bipartisan", "pos": "a.", "ko": "양당의, 초당적인" },
+        { "word": "nonpartisan", "pos": "a.", "ko": "무당파의, 중립적인" },
+        { "word": "partisanship", "pos": "n.", "ko": "당파성, 편파성" }
+      ]
+    },
+    {
+      "headword": "disseminate",
+      "pos": "v.",
+      "ko": "퍼뜨리다, 유포하다",
+      "example_en": "The findings were disseminated through local radio stations and community papers.",
+      "example_ko": "그 연구 결과는 지역 라디오 방송과 지역 신문을 통해 널리 알려졌다.",
+      "collocations": ["disseminate information", "widely disseminated"],
+      "note": "dis-(사방으로) + semin(씨앗) — seminar(씨를 뿌리듯 지식을 나누는 자리)와 같은 뿌리로, '씨 뿌리듯 널리 흩뿌리다'가 그림이다. 정보·연구 결과에 잘 붙고 허위정보에도 그대로 쓴다.",
+      "family": [
+        { "word": "dissemination", "pos": "n.", "ko": "유포, 보급" }
+      ]
+    },
+    {
+      "headword": "philanthropy",
+      "pos": "n.",
+      "ko": "자선 활동, 박애",
+      "example_en": "Local journalism now depends heavily on philanthropy rather than advertising.",
+      "example_ko": "지역 저널리즘은 이제 광고보다 자선 기부에 크게 의존한다.",
+      "collocations": ["corporate philanthropy", "rely on philanthropy"],
+      "note": "phil-(사랑) + anthrop(인간) — philosophy(지혜를 사랑함)·anthropology(인류학)와 조각을 나눠 쓴다. 개인의 즉흥적 동정인 charity와 달리 재단을 통한 조직적·대규모 기부를 가리킨다.",
+      "family": [
+        { "word": "philanthropic", "pos": "a.", "ko": "자선의, 박애의" },
+        { "word": "philanthropist", "pos": "n.", "ko": "자선가, 기부자" }
+      ]
+    },
+    {
+      "headword": "credibility",
+      "pos": "n.",
+      "ko": "신뢰성, 신빙성",
+      "example_en": "Repeated corrections have damaged the network's credibility with viewers.",
+      "example_ko": "거듭된 정정 보도가 그 방송사의 시청자 신뢰도를 훼손했다.",
+      "collocations": ["lose credibility", "lend credibility to", "credibility gap"],
+      "note": "cred-(믿다) 뿌리라 credit(신용)·incredible(믿기 힘든)과 한 가족이다. credible(믿을 만한)과 credulous(잘 속는)를 반드시 구분할 것 — 앞은 믿음을 '받는' 쪽, 뒤는 아무거나 믿는 '사람' 쪽이다.",
+      "related": [
+        { "word": "credulous", "ko": "잘 속아 넘어가는", "note": "credible과 철자는 닮았지만 방향이 정반대 — credulous한 사람은 credible하지 않은 말까지 믿는다" }
+      ]
+    },
+    {
+      "headword": "constitute",
+      "pos": "v.",
+      "ko": "~에 해당하다; ~을 구성하다",
+      "example_en": "The regulator ruled that the merger would constitute an abuse of market power.",
+      "example_ko": "규제 당국은 그 합병이 시장 지배력 남용에 해당한다고 판단했다.",
+      "collocations": ["constitute a breach", "constitute a threat", "constitute a majority"],
+      "note": "시사·법률문에서는 '구성하다'보다 '~에 해당한다'는 뜻으로 훨씬 자주 나온다(This constitutes a violation = 이는 위반에 해당한다). con-(함께) + statute(세우다)에서 나라를 세우는 틀인 constitution(헌법)도 갈라져 나왔다.",
+      "family": [
+        { "word": "constitution", "pos": "n.", "ko": "헌법; 구성; 체질" },
+        { "word": "constituent", "pos": "n.", "ko": "구성 요소; (선거구) 유권자" }
+      ]
+    },
+    {
+      "headword": "consolidate",
+      "pos": "v.",
+      "ko": "통합하다; 공고히 하다",
+      "example_en": "Two chains consolidated their regional titles into a single newsroom.",
+      "example_ko": "두 신문 체인은 지역 매체들을 하나의 편집국으로 통합했다.",
+      "collocations": ["consolidate power", "consolidate operations", "industry consolidation"],
+      "note": "con-(함께) + solid(단단한) — 흩어진 것을 모아 단단하게 만드는 것이다. 회사끼리 모이면 '통합', 권력·지위가 굳으면 '공고히 하다'로 갈리니 목적어를 보고 판단하면 된다.",
+      "family": [
+        { "word": "consolidation", "pos": "n.", "ko": "통합; 강화" }
+      ]
+    },
+    {
+      "headword": "patchy",
+      "pos": "a.",
+      "ko": "고르지 못한, 군데군데인",
+      "example_en": "Coverage of rural councils is patchy at best.",
+      "example_ko": "농촌 지역 의회에 대한 보도는 잘해야 군데군데 이루어지는 수준이다.",
+      "collocations": ["patchy coverage", "patchy evidence", "patchy fog"],
+      "note": "patch(헝겊 조각)에서 나와 '조각조각 기워진' 상태를 그린다 — 있는 데는 있고 없는 데는 아예 없다는 뜻이라 늘 비판이지 칭찬이 아니다.",
+      "related": [
+        { "word": "uneven", "ko": "고르지 않은, 들쭉날쭉한", "note": "uneven은 있긴 한데 수준의 높낮이가 다른 것, patchy는 있는 곳과 아예 없는 곳으로 갈리는 것" }
+      ]
+    },
+    {
+      "headword": "attrition",
+      "pos": "n.",
+      "ko": "소모; (퇴직에 따른) 자연 감소",
+      "example_en": "The company shrank its staff through attrition rather than layoffs.",
+      "example_ko": "그 회사는 정리해고가 아니라 자연 감소로 인력을 줄였다.",
+      "collocations": ["a war of attrition", "attrition rate", "through attrition"],
+      "note": "at-(~쪽으로) + trit(문지르다) — detriment(손해)와 같은 뿌리로, 계속 문질러 조금씩 닳아 없어지는 그림이다. 인사 기사에서 through attrition은 '해고 없이 퇴직·이직으로 저절로 줄이는 것'을 뜻한다.",
+      "related": [
+        { "word": "layoff", "ko": "정리해고", "note": "attrition은 알아서 빠져나가게 두는 것, layoff는 회사가 잘라 내보내는 것 — 노동 기사에서 늘 대비되어 나온다" }
+      ]
+    },
+    {
+      "headword": "divest",
+      "pos": "v.",
+      "ko": "(자산을) 매각하다, 처분하다; 박탈하다",
+      "example_en": "The fund pledged to divest its holdings in coal within five years.",
+      "example_ko": "그 펀드는 5년 안에 석탄 관련 보유 지분을 매각하겠다고 약속했다.",
+      "collocations": ["divest holdings", "divest oneself of", "fossil fuel divestment"],
+      "note": "di-(떼어내다) + vest(옷을 입히다)라서, 안으로(in-) 넣는 invest(투자하다)의 정확한 반대말이다 — 입힌 것을 벗기듯 투자를 빼는 것. 기후 기사의 divestment(투자 철회)가 대표 용례다.",
+      "family": [
+        { "word": "divestment", "pos": "n.", "ko": "투자 철회, 자산 매각" }
+      ],
+      "related": [
+        { "word": "invest", "ko": "투자하다", "note": "같은 vest(입히다)에 방향 접두사만 다르다 — 안으로 넣으면 invest, 떼어내면 divest" }
+      ]
+    },
+    {
+      "headword": "durable",
+      "pos": "a.",
+      "ko": "오래가는, 내구성 있는",
+      "example_en": "Nobody has yet found a durable business model for local news.",
+      "example_ko": "아직 아무도 지역 뉴스를 위한 지속 가능한 수익 모델을 찾아내지 못했다.",
+      "collocations": ["durable goods", "a durable solution", "durable peace"],
+      "note": "dur-(지속하다) 뿌리로 during(~하는 동안)·endure(견디다)·duration(지속 기간)이 한 가족이다. 경제 기사의 durable goods(내구재)는 자동차·가전처럼 오래 쓰는 물건을 가리키는 고정 용어다.",
+      "family": [
+        { "word": "endure", "pos": "v.", "ko": "견디다; 지속되다" },
+        { "word": "duration", "pos": "n.", "ko": "지속 기간" },
+        { "word": "durability", "pos": "n.", "ko": "내구성" }
+      ]
+    }
+  ]
+}
