@@ -1,0 +1,272 @@
+{
+  "date": "2026-08-07",
+  "words": [
+    {
+      "headword": "tariff",
+      "pos": "n.",
+      "ko": "관세",
+      "example_en": "The administration imposed a 25 percent tariff on imported steel.",
+      "example_ko": "행정부는 수입 철강에 25퍼센트의 관세를 부과했다.",
+      "collocations": [
+        "impose a tariff on",
+        "retaliatory tariffs"
+      ],
+      "note": "아랍어 ta'rīf(고지·목록)에서 온 말로 원뜻은 '세율표'다. 그래서 세금 일반(tax)이 아니라 '수입품에 매기는 관세', 특히 그 세율 체계를 가리킨다.",
+      "related": [
+        {
+          "word": "duty",
+          "ko": "관세, 세",
+          "note": "duty는 실제로 물리는 세액, tariff는 그 세율·품목 체계 쪽 — 게다가 duty에는 '의무'라는 전혀 다른 뜻이 있다"
+        }
+      ]
+    },
+    {
+      "headword": "retaliate",
+      "pos": "v.",
+      "ko": "보복하다, 앙갚음하다",
+      "example_en": "If the export ban goes ahead, trading partners are expected to retaliate with tariffs of their own.",
+      "example_ko": "수출 금지가 강행되면 교역 상대국들도 자국 관세로 보복할 것으로 예상된다.",
+      "collocations": [
+        "retaliate against",
+        "in retaliation for"
+      ],
+      "note": "re-(되돌려) + talio(같은 것으로 갚음 — '눈에는 눈'의 탈리오 법칙) = 당한 만큼 그대로 되돌려주다. 시사 기사에서는 명사 retaliation, 형용사 retaliatory 형태로 더 자주 보인다.",
+      "family": [
+        {
+          "word": "retaliation",
+          "pos": "n.",
+          "ko": "보복"
+        },
+        {
+          "word": "retaliatory",
+          "pos": "a.",
+          "ko": "보복성의"
+        }
+      ]
+    },
+    {
+      "headword": "protectionism",
+      "pos": "n.",
+      "ko": "보호무역주의",
+      "example_en": "Economists warn that creeping protectionism will raise costs for consumers.",
+      "example_ko": "경제학자들은 서서히 번지는 보호무역주의가 소비자 비용을 높일 것이라고 경고한다.",
+      "collocations": [
+        "creeping protectionism",
+        "a retreat into protectionism"
+      ],
+      "note": "protect(보호하다) + -ism(주의) — 국내 산업을 '보호'한다는 명분의 무역 정책이고, 반대말은 free trade(자유무역). protectionist는 형용사(보호무역적인)이자 명사(보호무역론자)로 둘 다 쓴다.",
+      "family": [
+        {
+          "word": "protectionist",
+          "pos": "a./n.",
+          "ko": "보호무역적인; 보호무역론자"
+        }
+      ]
+    },
+    {
+      "headword": "stockpile",
+      "pos": "v./n.",
+      "ko": "비축하다; 비축량",
+      "example_en": "Hospitals began to stockpile protective equipment months before the outbreak peaked.",
+      "example_ko": "병원들은 감염 확산이 정점에 이르기 몇 달 전부터 보호 장비를 비축하기 시작했다.",
+      "collocations": [
+        "stockpile supplies",
+        "a strategic stockpile"
+      ],
+      "note": "stock(재고) + pile(쌓아 둔 더미) = 쌓아 둔 재고. 평상시 재고(inventory)와 달리 전쟁·품귀 같은 위기를 대비해 쌓는다는 절박한 뉘앙스가 붙는다."
+    },
+    {
+      "headword": "bottleneck",
+      "pos": "n.",
+      "ko": "병목(현상), 애로 지점",
+      "example_en": "A shortage of skilled technicians has become the main bottleneck in expanding production.",
+      "example_ko": "숙련 기술자 부족이 생산 확대의 주된 병목이 되었다.",
+      "collocations": [
+        "a bottleneck in the supply chain",
+        "ease a bottleneck"
+      ],
+      "note": "병(bottle)의 목(neck)처럼 좁아져 전체 흐름이 막히는 지점 — '가장 느린 한 곳이 전체 속도를 정한다'는 개념어다. 공정·교통·공급망 어디에나 쓰고, 동사로도 쓸 수 있다."
+    },
+    {
+      "headword": "decouple",
+      "pos": "v.",
+      "ko": "분리하다, 탈동조화하다",
+      "example_en": "Few economists believe the two economies can be fully decoupled without enormous cost.",
+      "example_ko": "두 경제가 엄청난 비용 없이 완전히 분리될 수 있다고 보는 경제학자는 거의 없다.",
+      "collocations": [
+        "decouple from",
+        "decouple growth from emissions"
+      ],
+      "note": "de-(떼어내다) + couple(잇다, 짝짓다) = 붙어 있던 둘을 떼어놓다. 무역 기사에서는 두 나라 경제의 상호 의존을 끊는 '탈동조화', 환경 기사에서는 '성장과 배출을 분리한다'는 뜻으로 굳어졌다.",
+      "family": [
+        {
+          "word": "couple",
+          "pos": "v.",
+          "ko": "연결하다, 잇다"
+        },
+        {
+          "word": "decoupling",
+          "pos": "n.",
+          "ko": "탈동조화, 분리"
+        }
+      ]
+    },
+    {
+      "headword": "embargo",
+      "pos": "n.",
+      "ko": "금수(禁輸) 조치, 통상 금지",
+      "example_en": "The council voted to lift the arms embargo it had imposed a decade earlier.",
+      "example_ko": "이사회는 10년 전에 부과했던 무기 금수 조치를 해제하기로 표결했다.",
+      "collocations": [
+        "impose an embargo",
+        "lift an embargo"
+      ],
+      "note": "스페인어 embargar(막다, 압류하다)에서 온 말로, 특정 국가와의 교역 자체를 국가가 금지하는 조치다. 제재의 한 수단이라는 점에서 상위 개념인 sanction과 구분해 쓴다.",
+      "related": [
+        {
+          "word": "sanction",
+          "ko": "제재",
+          "note": "sanction은 자산 동결·입국 금지까지 아우르는 제재 전반, embargo는 그중 교역 금지에 한정 — 게다가 sanction에는 '승인하다'라는 정반대 뜻도 있다"
+        }
+      ]
+    },
+    {
+      "headword": "exempt",
+      "pos": "v./a.",
+      "ko": "면제하다; 면제된",
+      "example_en": "Small businesses are exempt from the new reporting requirement.",
+      "example_ko": "소규모 사업체는 새 보고 의무에서 면제된다.",
+      "collocations": [
+        "exempt A from B",
+        "tax-exempt"
+      ],
+      "note": "ex-(밖으로) + emere(취하다) = 의무에서 '빼내다'. 같은 뿌리인 example(밖으로 집어낸 것 → 예)과 묶어 두면 기억에 남는다. 「exempt A from B」 형태로 쓰고 명사는 exemption.",
+      "family": [
+        {
+          "word": "exemption",
+          "pos": "n.",
+          "ko": "면제, 공제"
+        }
+      ]
+    },
+    {
+      "headword": "undercut",
+      "pos": "v.",
+      "ko": "(값을) 더 싸게 팔다; 약화시키다",
+      "example_en": "Foreign suppliers undercut domestic firms by nearly thirty percent.",
+      "example_ko": "외국 공급업체들이 국내 기업보다 거의 30퍼센트 싸게 값을 매겼다.",
+      "collocations": [
+        "undercut competitors",
+        "undercut confidence in"
+      ],
+      "note": "under(아래로) + cut(자르다) — 값을 남보다 '아래로 깎아' 파는 것이 1차 뜻이고, 거기서 '남의 입지를 깎아내려 약화시키다'로 넓어졌다.",
+      "related": [
+        {
+          "word": "undermine",
+          "ko": "(서서히) 약화시키다",
+          "note": "undermine은 밑을 파서 무너뜨리는 이미지라 신뢰·권위에, undercut은 가격 경쟁 맥락에 먼저 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "glut",
+      "pos": "n./v.",
+      "ko": "공급 과잉; 과잉 공급하다",
+      "example_en": "A glut of new apartments has pushed rents down for the first time in years.",
+      "example_ko": "신축 아파트의 공급 과잉으로 몇 년 만에 처음으로 임대료가 떨어졌다.",
+      "collocations": [
+        "a glut of",
+        "an oil glut"
+      ],
+      "note": "'실컷 먹이다'라는 뜻에서 온 말 — 시장이 물건을 배 터지게 삼킨 상태가 공급 과잉이다. 반대말은 shortage(부족)이고, 보통 a glut of ~ 형태로 쓴다.",
+      "related": [
+        {
+          "word": "glutton",
+          "ko": "대식가",
+          "note": "같은 뿌리로, '넘치도록 먹는다'는 이미지를 공유한다 — glut을 떠올릴 때 함께 꺼내면 좋다"
+        }
+      ]
+    },
+    {
+      "headword": "leverage",
+      "pos": "n./v.",
+      "ko": "영향력, 지렛대; (강점을) 활용하다",
+      "example_en": "The union has little leverage over a company that can relocate at will.",
+      "example_ko": "마음대로 이전할 수 있는 회사를 상대로 노조가 가진 영향력은 거의 없다.",
+      "collocations": [
+        "gain leverage over",
+        "leverage its expertise"
+      ],
+      "note": "lever(지렛대) + -age — 작은 힘으로 큰 것을 움직이는 지렛대에서, 협상에서의 '지렛대 = 영향력'으로 확장됐다. 금융에서는 빚을 지렛대 삼는 '차입(레버리지)', 동사로는 '가진 강점을 최대한 활용하다'가 된다."
+    },
+    {
+      "headword": "resilience",
+      "pos": "n.",
+      "ko": "회복력, 복원력",
+      "example_en": "Planners now value resilience as much as efficiency when designing power grids.",
+      "example_ko": "설계자들은 이제 전력망을 설계할 때 효율성만큼이나 회복력을 중시한다.",
+      "collocations": [
+        "build resilience",
+        "economic resilience"
+      ],
+      "note": "re-(다시) + salire(뛰어오르다) = 눌렸다가 다시 튀어 오르는 힘. 요즘 공급망·기후 기사에서 efficiency(효율)와 짝을 이뤄 '효율이냐 회복력이냐'라는 대립 축으로 나온다.",
+      "family": [
+        {
+          "word": "resilient",
+          "pos": "a.",
+          "ko": "회복력 있는, 탄력적인"
+        }
+      ]
+    },
+    {
+      "headword": "spur",
+      "pos": "v./n.",
+      "ko": "자극하다, 박차를 가하다; 박차",
+      "example_en": "The tax break was designed to spur investment in rural areas.",
+      "example_ko": "그 세금 감면은 농촌 지역 투자를 자극하기 위해 마련된 것이었다.",
+      "collocations": [
+        "spur growth",
+        "spur A to do"
+      ],
+      "note": "말 옆구리를 차는 '박차(spur)'가 원뜻 — 가만있는 것을 움직이게 만드는 자극이다. 관용구 on the spur of the moment(충동적으로, 즉흥적으로)도 같은 이미지로 묶어 외우면 좋다."
+    },
+    {
+      "headword": "entail",
+      "pos": "v.",
+      "ko": "수반하다, 필연적으로 포함하다",
+      "example_en": "Relocating the plant would entail retraining hundreds of workers.",
+      "example_ko": "공장을 이전하는 일은 수백 명의 노동자 재교육을 수반할 것이다.",
+      "collocations": [
+        "entail costs",
+        "entail a risk"
+      ],
+      "note": "en-(만들다) + tail(자르다·한정하다 — tailor·retail과 같은 뿌리)로, 원래 '상속 범위를 한정하다'라는 법률어였다가 '조건으로 딸려 오다 → 수반하다'가 됐다.",
+      "related": [
+        {
+          "word": "involve",
+          "ko": "포함하다, 수반하다",
+          "note": "involve는 그냥 '포함한다'는 사실, entail은 '반드시 따라온다'는 필연성이 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "counterpart",
+      "pos": "n.",
+      "ko": "(상대편의) 대응 인물, 대응물",
+      "example_en": "The trade minister met her Japanese counterpart in Seoul on Tuesday.",
+      "example_ko": "통상 장관은 화요일 서울에서 일본 측 상대 장관을 만났다.",
+      "collocations": [
+        "her foreign counterpart",
+        "counterparts abroad"
+      ],
+      "note": "counter(맞은편) + part(부분) — 원래 계약서를 둘로 나눠 가진 '짝이 되는 쪽'이다. 지위·역할이 대등한 상대(한국 외교장관 ↔ 미국 국무장관)를 가리키지, 맞서 싸우는 적수가 아니다.",
+      "related": [
+        {
+          "word": "opponent",
+          "ko": "반대자, 적수",
+          "note": "counterpart는 대등한 '짝', opponent는 맞서 싸우는 '적수' — 한국어 '상대'로 뭉뚱그리면 헷갈린다"
+        }
+      ]
+    }
+  ]
+}

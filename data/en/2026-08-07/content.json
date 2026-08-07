@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-07",
+  "passage_note": "무역·산업 — 반도체 공급망 재편과 산업 보조금 경쟁을 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "For decades, manufacturers treated the global supply chain as a marvel of efficiency, outsourcing production to whichever country could make a component most cheaply.",
+      "ko": "수십 년 동안 제조업체들은 세계 공급망을 효율성의 경이로 여기며, 부품을 가장 싸게 만들 수 있는 나라라면 어디로든 생산을 위탁했다.",
+      "structure": "· outsourcing production to ~ : 분사구문(동시동작). and they outsourced ~ 로 풀린다.\n· treat A as B : A를 B로 여기다 — as 뒤에는 명사(a marvel of efficiency)가 온다.\n· whichever country could ~ : 복합관계형용사 whichever가 이끄는 명사절이 전치사 to의 목적어. '어느 나라든 ~한 나라에'.\n· most cheaply : 부사의 최상급(the 없이 쓸 수 있다).",
+      "vocab_notes": [
+        { "word": "for decades", "ko": "수십 년 동안" },
+        { "word": "manufacturer", "ko": "제조업체" },
+        { "word": "treat A as B", "ko": "A를 B로 여기다, 취급하다" },
+        { "word": "supply chain", "ko": "공급망" },
+        { "word": "marvel", "ko": "경이(로운 것)" },
+        { "word": "efficiency", "ko": "효율(성)" },
+        { "word": "outsource", "ko": "외부에 위탁하다, 외주를 주다" },
+        { "word": "whichever", "ko": "어느 ~든" },
+        { "word": "component", "ko": "부품, 구성 요소" }
+      ]
+    },
+    {
+      "en": "The pandemic and a wave of export controls exposed how fragile that arrangement had become: a single bottleneck in one region could idle assembly lines on three continents.",
+      "ko": "팬데믹과 잇따른 수출 통제는 그 체제가 얼마나 취약해졌는지를 드러냈다. 한 지역의 병목 하나가 세 개 대륙의 조립 라인을 멈춰 세울 수 있었던 것이다.",
+      "structure": "· how fragile that arrangement had become : 의문사절(간접의문문)이 exposed의 목적어. 어순은 「how + 형용사 + 주어 + 동사」로, 의문문 어순(had that arrangement become)이 아니다.\n· had become : 드러난 시점(exposed, 과거)보다 앞선 일 → 과거완료.\n· 콜론(:) 뒤 문장은 앞 내용을 구체적으로 풀어 주는 예시·부연이다.\n· idle이 여기서는 '한가한'이라는 형용사가 아니라 '멈춰 세우다'라는 타동사로 쓰였다.",
+      "vocab_notes": [
+        { "word": "pandemic", "ko": "(전 세계적) 감염병 대유행, 팬데믹" },
+        { "word": "a wave of", "ko": "잇따른, 한 차례 밀려온" },
+        { "word": "export control", "ko": "수출 통제" },
+        { "word": "expose", "ko": "드러내다, 노출시키다" },
+        { "word": "fragile", "ko": "취약한, 깨지기 쉬운" },
+        { "word": "arrangement", "ko": "체제, (일을 처리하는) 방식" },
+        { "word": "bottleneck", "ko": "병목(현상)" },
+        { "word": "region", "ko": "지역, 권역" },
+        { "word": "idle", "ko": "멈춰 세우다, 놀리다" },
+        { "word": "assembly line", "ko": "조립 라인" },
+        { "word": "continent", "ko": "대륙" }
+      ]
+    },
+    {
+      "en": "Governments have responded with sweeping industrial policies, pouring public money into domestic chip fabrication and stockpiling the minerals on which advanced manufacturing depends.",
+      "ko": "각국 정부는 전면적인 산업 정책으로 대응해, 국내 반도체 생산에 공적 자금을 쏟아붓고 첨단 제조업이 의존하는 광물을 비축해 왔다.",
+      "structure": "· pouring ~ and stockpiling ~ : 분사구문 두 개가 and로 병렬 연결되어 주절을 부연한다.\n· the minerals on which advanced manufacturing depends : 「전치사 + 관계대명사」. depend on의 on이 관계대명사 앞으로 나간 형태로, which ... depends on 과 같다.\n· have responded : 현재완료 — 과거에 시작된 대응이 지금까지 이어짐.",
+      "vocab_notes": [
+        { "word": "respond with", "ko": "~로 대응하다" },
+        { "word": "sweeping", "ko": "전면적인, 광범위한" },
+        { "word": "industrial policy", "ko": "산업 정책" },
+        { "word": "pour money into", "ko": "~에 돈을 쏟아붓다" },
+        { "word": "domestic", "ko": "국내의" },
+        { "word": "fabrication", "ko": "제조, (반도체) 생산" },
+        { "word": "stockpile", "ko": "비축하다" },
+        { "word": "mineral", "ko": "광물" },
+        { "word": "advanced", "ko": "첨단의, 고도의" },
+        { "word": "depend on", "ko": "~에 의존하다" }
+      ]
+    },
+    {
+      "en": "Critics warn that the resulting subsidy race is a costly duplication of capacity, one that risks producing a glut of chips and inviting retaliatory tariffs from the very allies these programs were meant to reassure.",
+      "ko": "비판자들은 그 결과로 벌어진 보조금 경쟁이 값비싼 생산 능력 중복이며, 반도체 공급 과잉을 낳고 바로 그 프로그램들이 안심시키려 했던 동맹국들로부터 보복 관세를 자초할 위험이 있는 중복이라고 경고한다.",
+      "structure": "· warn that ~ : that절이 warn의 목적어.\n· one that risks ~ : one은 앞의 a costly duplication을 대신 받는 대명사, that은 주격 관계대명사. 콤마 뒤에서 앞 명사를 다시 설명하는 동격 구조다.\n· risk + 동명사(producing / inviting) : risk는 to부정사를 목적어로 취하지 않는다. 두 동명사가 and로 병렬.\n· the very allies (which) these programs were meant to reassure : 목적격 관계대명사가 생략됐다. very는 '바로 그'라는 강조.\n· be meant to ~ : ~하기로 되어 있다, ~할 의도였다.",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판자" },
+        { "word": "warn", "ko": "경고하다" },
+        { "word": "resulting", "ko": "그 결과로 생긴" },
+        { "word": "subsidy", "ko": "보조금" },
+        { "word": "race", "ko": "경쟁, 각축" },
+        { "word": "costly", "ko": "비용이 많이 드는" },
+        { "word": "duplication", "ko": "중복" },
+        { "word": "capacity", "ko": "생산 능력, 설비 용량" },
+        { "word": "risk", "ko": "~할 위험을 무릅쓰다" },
+        { "word": "glut", "ko": "공급 과잉" },
+        { "word": "invite", "ko": "(비판·화를) 자초하다" },
+        { "word": "retaliatory", "ko": "보복성의" },
+        { "word": "tariff", "ko": "관세" },
+        { "word": "ally", "ko": "동맹국" },
+        { "word": "be meant to", "ko": "~하기로 되어 있다" },
+        { "word": "reassure", "ko": "안심시키다" }
+      ]
+    },
+    {
+      "en": "Proponents counter that resilience, unlike efficiency, is never cheap, and that a measure of redundancy is a reasonable price for not being held hostage by a single supplier.",
+      "ko": "옹호자들은 회복력이란 효율성과 달리 결코 값싸지 않으며, 어느 정도의 여분은 단일 공급자에게 인질로 잡히지 않기 위해 치를 만한 값이라고 반박한다.",
+      "structure": "· counter that ~, and that ~ : that절 두 개가 and로 병렬을 이루며 counter의 목적어가 된다.\n· resilience, unlike efficiency, is ~ : 콤마 사이의 삽입구(전치사구). 주어는 resilience, 동사는 is.\n· not being held hostage : 동명사의 수동태(being + p.p.)이며 부정어 not은 동명사 앞에 붙는다. 전치사 for의 목적어.\n· hold A hostage : A를 인질로 잡다 → 수동태에서 hostage가 그대로 남았다(5형식의 목적격 보어).",
+      "vocab_notes": [
+        { "word": "proponent", "ko": "옹호자, 지지자" },
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "resilience", "ko": "회복력, 복원력" },
+        { "word": "unlike", "ko": "~와 달리" },
+        { "word": "a measure of", "ko": "어느 정도의" },
+        { "word": "redundancy", "ko": "여분, 중복(예비 설비)" },
+        { "word": "reasonable", "ko": "합당한, 적정한" },
+        { "word": "hold A hostage", "ko": "A를 인질로 잡다" },
+        { "word": "supplier", "ko": "공급자, 납품업체" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "tariff",
+      "pos": "n.",
+      "ko": "관세",
+      "example_en": "The administration imposed a 25 percent tariff on imported steel.",
+      "example_ko": "행정부는 수입 철강에 25퍼센트의 관세를 부과했다.",
+      "collocations": ["impose a tariff on", "retaliatory tariffs"],
+      "note": "아랍어 ta'rīf(고지·목록)에서 온 말로 원뜻은 '세율표'다. 그래서 세금 일반(tax)이 아니라 '수입품에 매기는 관세', 특히 그 세율 체계를 가리킨다.",
+      "related": [
+        { "word": "duty", "ko": "관세, 세", "note": "duty는 실제로 물리는 세액, tariff는 그 세율·품목 체계 쪽 — 게다가 duty에는 '의무'라는 전혀 다른 뜻이 있다" }
+      ]
+    },
+    {
+      "headword": "retaliate",
+      "pos": "v.",
+      "ko": "보복하다, 앙갚음하다",
+      "example_en": "If the export ban goes ahead, trading partners are expected to retaliate with tariffs of their own.",
+      "example_ko": "수출 금지가 강행되면 교역 상대국들도 자국 관세로 보복할 것으로 예상된다.",
+      "collocations": ["retaliate against", "in retaliation for"],
+      "note": "re-(되돌려) + talio(같은 것으로 갚음 — '눈에는 눈'의 탈리오 법칙) = 당한 만큼 그대로 되돌려주다. 시사 기사에서는 명사 retaliation, 형용사 retaliatory 형태로 더 자주 보인다.",
+      "family": [
+        { "word": "retaliation", "pos": "n.", "ko": "보복" },
+        { "word": "retaliatory", "pos": "a.", "ko": "보복성의" }
+      ]
+    },
+    {
+      "headword": "protectionism",
+      "pos": "n.",
+      "ko": "보호무역주의",
+      "example_en": "Economists warn that creeping protectionism will raise costs for consumers.",
+      "example_ko": "경제학자들은 서서히 번지는 보호무역주의가 소비자 비용을 높일 것이라고 경고한다.",
+      "collocations": ["creeping protectionism", "a retreat into protectionism"],
+      "note": "protect(보호하다) + -ism(주의) — 국내 산업을 '보호'한다는 명분의 무역 정책이고, 반대말은 free trade(자유무역). protectionist는 형용사(보호무역적인)이자 명사(보호무역론자)로 둘 다 쓴다.",
+      "family": [
+        { "word": "protectionist", "pos": "a./n.", "ko": "보호무역적인; 보호무역론자" }
+      ]
+    },
+    {
+      "headword": "stockpile",
+      "pos": "v./n.",
+      "ko": "비축하다; 비축량",
+      "example_en": "Hospitals began to stockpile protective equipment months before the outbreak peaked.",
+      "example_ko": "병원들은 감염 확산이 정점에 이르기 몇 달 전부터 보호 장비를 비축하기 시작했다.",
+      "collocations": ["stockpile supplies", "a strategic stockpile"],
+      "note": "stock(재고) + pile(쌓아 둔 더미) = 쌓아 둔 재고. 평상시 재고(inventory)와 달리 전쟁·품귀 같은 위기를 대비해 쌓는다는 절박한 뉘앙스가 붙는다."
+    },
+    {
+      "headword": "bottleneck",
+      "pos": "n.",
+      "ko": "병목(현상), 애로 지점",
+      "example_en": "A shortage of skilled technicians has become the main bottleneck in expanding production.",
+      "example_ko": "숙련 기술자 부족이 생산 확대의 주된 병목이 되었다.",
+      "collocations": ["a bottleneck in the supply chain", "ease a bottleneck"],
+      "note": "병(bottle)의 목(neck)처럼 좁아져 전체 흐름이 막히는 지점 — '가장 느린 한 곳이 전체 속도를 정한다'는 개념어다. 공정·교통·공급망 어디에나 쓰고, 동사로도 쓸 수 있다."
+    },
+    {
+      "headword": "decouple",
+      "pos": "v.",
+      "ko": "분리하다, 탈동조화하다",
+      "example_en": "Few economists believe the two economies can be fully decoupled without enormous cost.",
+      "example_ko": "두 경제가 엄청난 비용 없이 완전히 분리될 수 있다고 보는 경제학자는 거의 없다.",
+      "collocations": ["decouple from", "decouple growth from emissions"],
+      "note": "de-(떼어내다) + couple(잇다, 짝짓다) = 붙어 있던 둘을 떼어놓다. 무역 기사에서는 두 나라 경제의 상호 의존을 끊는 '탈동조화', 환경 기사에서는 '성장과 배출을 분리한다'는 뜻으로 굳어졌다.",
+      "family": [
+        { "word": "couple", "pos": "v.", "ko": "연결하다, 잇다" },
+        { "word": "decoupling", "pos": "n.", "ko": "탈동조화, 분리" }
+      ]
+    },
+    {
+      "headword": "embargo",
+      "pos": "n.",
+      "ko": "금수(禁輸) 조치, 통상 금지",
+      "example_en": "The council voted to lift the arms embargo it had imposed a decade earlier.",
+      "example_ko": "이사회는 10년 전에 부과했던 무기 금수 조치를 해제하기로 표결했다.",
+      "collocations": ["impose an embargo", "lift an embargo"],
+      "note": "스페인어 embargar(막다, 압류하다)에서 온 말로, 특정 국가와의 교역 자체를 국가가 금지하는 조치다. 제재의 한 수단이라는 점에서 상위 개념인 sanction과 구분해 쓴다.",
+      "related": [
+        { "word": "sanction", "ko": "제재", "note": "sanction은 자산 동결·입국 금지까지 아우르는 제재 전반, embargo는 그중 교역 금지에 한정 — 게다가 sanction에는 '승인하다'라는 정반대 뜻도 있다" }
+      ]
+    },
+    {
+      "headword": "exempt",
+      "pos": "v./a.",
+      "ko": "면제하다; 면제된",
+      "example_en": "Small businesses are exempt from the new reporting requirement.",
+      "example_ko": "소규모 사업체는 새 보고 의무에서 면제된다.",
+      "collocations": ["exempt A from B", "tax-exempt"],
+      "note": "ex-(밖으로) + emere(취하다) = 의무에서 '빼내다'. 같은 뿌리인 example(밖으로 집어낸 것 → 예)과 묶어 두면 기억에 남는다. 「exempt A from B」 형태로 쓰고 명사는 exemption.",
+      "family": [
+        { "word": "exemption", "pos": "n.", "ko": "면제, 공제" }
+      ]
+    },
+    {
+      "headword": "undercut",
+      "pos": "v.",
+      "ko": "(값을) 더 싸게 팔다; 약화시키다",
+      "example_en": "Foreign suppliers undercut domestic firms by nearly thirty percent.",
+      "example_ko": "외국 공급업체들이 국내 기업보다 거의 30퍼센트 싸게 값을 매겼다.",
+      "collocations": ["undercut competitors", "undercut confidence in"],
+      "note": "under(아래로) + cut(자르다) — 값을 남보다 '아래로 깎아' 파는 것이 1차 뜻이고, 거기서 '남의 입지를 깎아내려 약화시키다'로 넓어졌다.",
+      "related": [
+        { "word": "undermine", "ko": "(서서히) 약화시키다", "note": "undermine은 밑을 파서 무너뜨리는 이미지라 신뢰·권위에, undercut은 가격 경쟁 맥락에 먼저 쓴다" }
+      ]
+    },
+    {
+      "headword": "glut",
+      "pos": "n./v.",
+      "ko": "공급 과잉; 과잉 공급하다",
+      "example_en": "A glut of new apartments has pushed rents down for the first time in years.",
+      "example_ko": "신축 아파트의 공급 과잉으로 몇 년 만에 처음으로 임대료가 떨어졌다.",
+      "collocations": ["a glut of", "an oil glut"],
+      "note": "'실컷 먹이다'라는 뜻에서 온 말 — 시장이 물건을 배 터지게 삼킨 상태가 공급 과잉이다. 반대말은 shortage(부족)이고, 보통 a glut of ~ 형태로 쓴다.",
+      "related": [
+        { "word": "glutton", "ko": "대식가", "note": "같은 뿌리로, '넘치도록 먹는다'는 이미지를 공유한다 — glut을 떠올릴 때 함께 꺼내면 좋다" }
+      ]
+    },
+    {
+      "headword": "leverage",
+      "pos": "n./v.",
+      "ko": "영향력, 지렛대; (강점을) 활용하다",
+      "example_en": "The union has little leverage over a company that can relocate at will.",
+      "example_ko": "마음대로 이전할 수 있는 회사를 상대로 노조가 가진 영향력은 거의 없다.",
+      "collocations": ["gain leverage over", "leverage its expertise"],
+      "note": "lever(지렛대) + -age — 작은 힘으로 큰 것을 움직이는 지렛대에서, 협상에서의 '지렛대 = 영향력'으로 확장됐다. 금융에서는 빚을 지렛대 삼는 '차입(레버리지)', 동사로는 '가진 강점을 최대한 활용하다'가 된다."
+    },
+    {
+      "headword": "resilience",
+      "pos": "n.",
+      "ko": "회복력, 복원력",
+      "example_en": "Planners now value resilience as much as efficiency when designing power grids.",
+      "example_ko": "설계자들은 이제 전력망을 설계할 때 효율성만큼이나 회복력을 중시한다.",
+      "collocations": ["build resilience", "economic resilience"],
+      "note": "re-(다시) + salire(뛰어오르다) = 눌렸다가 다시 튀어 오르는 힘. 요즘 공급망·기후 기사에서 efficiency(효율)와 짝을 이뤄 '효율이냐 회복력이냐'라는 대립 축으로 나온다.",
+      "family": [
+        { "word": "resilient", "pos": "a.", "ko": "회복력 있는, 탄력적인" }
+      ]
+    },
+    {
+      "headword": "spur",
+      "pos": "v./n.",
+      "ko": "자극하다, 박차를 가하다; 박차",
+      "example_en": "The tax break was designed to spur investment in rural areas.",
+      "example_ko": "그 세금 감면은 농촌 지역 투자를 자극하기 위해 마련된 것이었다.",
+      "collocations": ["spur growth", "spur A to do"],
+      "note": "말 옆구리를 차는 '박차(spur)'가 원뜻 — 가만있는 것을 움직이게 만드는 자극이다. 관용구 on the spur of the moment(충동적으로, 즉흥적으로)도 같은 이미지로 묶어 외우면 좋다."
+    },
+    {
+      "headword": "entail",
+      "pos": "v.",
+      "ko": "수반하다, 필연적으로 포함하다",
+      "example_en": "Relocating the plant would entail retraining hundreds of workers.",
+      "example_ko": "공장을 이전하는 일은 수백 명의 노동자 재교육을 수반할 것이다.",
+      "collocations": ["entail costs", "entail a risk"],
+      "note": "en-(만들다) + tail(자르다·한정하다 — tailor·retail과 같은 뿌리)로, 원래 '상속 범위를 한정하다'라는 법률어였다가 '조건으로 딸려 오다 → 수반하다'가 됐다.",
+      "related": [
+        { "word": "involve", "ko": "포함하다, 수반하다", "note": "involve는 그냥 '포함한다'는 사실, entail은 '반드시 따라온다'는 필연성이 강하다" }
+      ]
+    },
+    {
+      "headword": "counterpart",
+      "pos": "n.",
+      "ko": "(상대편의) 대응 인물, 대응물",
+      "example_en": "The trade minister met her Japanese counterpart in Seoul on Tuesday.",
+      "example_ko": "통상 장관은 화요일 서울에서 일본 측 상대 장관을 만났다.",
+      "collocations": ["her foreign counterpart", "counterparts abroad"],
+      "note": "counter(맞은편) + part(부분) — 원래 계약서를 둘로 나눠 가진 '짝이 되는 쪽'이다. 지위·역할이 대등한 상대(한국 외교장관 ↔ 미국 국무장관)를 가리키지, 맞서 싸우는 적수가 아니다.",
+      "related": [
+        { "word": "opponent", "ko": "반대자, 적수", "note": "counterpart는 대등한 '짝', opponent는 맞서 싸우는 '적수' — 한국어 '상대'로 뭉뚱그리면 헷갈린다" }
+      ]
+    },
+    {
+      "headword": "distort",
+      "pos": "v.",
+      "ko": "왜곡하다, 뒤틀다",
+      "example_en": "Critics argue that the subsidies distort competition in the global market.",
+      "example_ko": "비판자들은 그 보조금이 세계 시장의 경쟁을 왜곡한다고 주장한다.",
+      "collocations": ["distort the market", "distort the facts"],
+      "note": "dis-(비틀어) + torquere(비틀다) — torture(고문)·torque(회전력)와 같은 뿌리로 '비틀다'가 핵심이다. 사실을 비틀면 '왜곡', 가격 신호를 비틀면 '시장을 왜곡하다'가 된다.",
+      "family": [
+        { "word": "distortion", "pos": "n.", "ko": "왜곡, 뒤틀림" }
+      ]
+    },
+    {
+      "headword": "gauge",
+      "pos": "v./n.",
+      "ko": "가늠하다, 판단하다; 계기, 척도",
+      "example_en": "It is still hard to gauge how consumers will react to the price increase.",
+      "example_ko": "소비자들이 가격 인상에 어떻게 반응할지는 아직 가늠하기 어렵다.",
+      "collocations": ["gauge public opinion", "hard to gauge"],
+      "note": "원래 치수를 재는 '자·계기'라는 명사여서, 동사 gauge는 정확히 측정하기보다 '대략 재보다, 가늠하다'에 가깝다. 발음(게이지)과 철자가 어긋나 guage로 잘못 쓰기 쉬우니 주의."
+    },
+    {
+      "headword": "reciprocal",
+      "pos": "a.",
+      "ko": "상호간의, 호혜적인",
+      "example_en": "The two countries signed a reciprocal agreement on recognizing professional licenses.",
+      "example_ko": "두 나라는 전문 자격증을 상호 인정하는 호혜 협정에 서명했다.",
+      "collocations": ["a reciprocal agreement", "reciprocal access"],
+      "note": "re-(뒤로) + pro-(앞으로) — 앞뒤로 오가는 관계, 즉 '주고받는'. mutual이 '둘이 함께 가진(공통의)'이라면 reciprocal은 '한쪽이 하면 다른 쪽도 갚는' 교환 관계다.",
+      "family": [
+        { "word": "reciprocity", "pos": "n.", "ko": "호혜, 상호주의" },
+        { "word": "reciprocate", "pos": "v.", "ko": "보답하다, 화답하다" }
+      ]
+    }
+  ]
+}
