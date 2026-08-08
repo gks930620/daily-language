@@ -765,6 +765,51 @@
     },
     "patchy": {
       "added_on": "2026-08-08"
+    },
+    "underwrite": {
+      "added_on": "2026-08-09"
+    },
+    "premium": {
+      "added_on": "2026-08-09"
+    },
+    "actuarial": {
+      "added_on": "2026-08-09"
+    },
+    "peril": {
+      "added_on": "2026-08-09"
+    },
+    "indemnify": {
+      "added_on": "2026-08-09"
+    },
+    "reinsurance": {
+      "added_on": "2026-08-09"
+    },
+    "deductible": {
+      "added_on": "2026-08-09"
+    },
+    "catastrophic": {
+      "added_on": "2026-08-09"
+    },
+    "payout": {
+      "added_on": "2026-08-09"
+    },
+    "exposure": {
+      "added_on": "2026-08-09"
+    },
+    "hedge": {
+      "added_on": "2026-08-09"
+    },
+    "adverse": {
+      "added_on": "2026-08-09"
+    },
+    "onset": {
+      "added_on": "2026-08-09"
+    },
+    "subsidiary": {
+      "added_on": "2026-08-09"
+    },
+    "redress": {
+      "added_on": "2026-08-09"
     }
   }
 }
