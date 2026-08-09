@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-10",
+  "passage_note": "과학·연구 — 재현 위기와 연구자를 움직이는 유인 구조(논설)",
+  "sentences": [
+    {
+      "en": "For decades the sciences operated on a comforting presumption: that any finding worth citing had been checked, and that error would eventually be weeded out by the collective scrutiny of the field.",
+      "ko": "수십 년간 과학계는 마음 편한 전제 위에서 움직여 왔다. 인용할 가치가 있는 연구 결과라면 이미 검증을 거쳤을 것이고, 오류는 결국 학계 전체의 정밀한 검토를 통해 걸러질 것이라는 전제다.",
+      "structure": "· 콜론(:) 뒤의 that절 두 개는 앞의 a comforting presumption과 동격인 명사절이다(and로 병렬).\n· worth citing : worth + 동명사 = '~할 가치가 있는'. any finding을 뒤에서 수식.\n· had been checked : 과거(operated)보다 앞선 일을 나타내는 과거완료 수동태.\n· would be weeded out : 과거 시점에서 본 미래(시제 일치) + 수동태.",
+      "vocab_notes": [
+        { "word": "for decades", "ko": "수십 년간" },
+        { "word": "operate on", "ko": "~에 근거해 움직이다, ~을 전제로 작동하다" },
+        { "word": "comforting", "ko": "마음을 편하게 해 주는" },
+        { "word": "presumption", "ko": "전제, 추정" },
+        { "word": "finding", "ko": "(연구) 결과, 발견" },
+        { "word": "worth ~ing", "ko": "~할 가치가 있는" },
+        { "word": "cite", "ko": "인용하다" },
+        { "word": "weed out", "ko": "걸러내다, 제거하다" },
+        { "word": "collective", "ko": "집단적인, 다수가 함께 하는" },
+        { "word": "scrutiny", "ko": "정밀한 검토, 면밀한 조사" },
+        { "word": "field", "ko": "분야, 학계" }
+      ]
+    },
+    {
+      "en": "That confidence has been badly shaken by a decade of replication attempts, in which sizable fractions of published results in psychology, cancer biology and economics could not be corroborated by independent teams.",
+      "ko": "그 믿음은 지난 10년간의 재현 시도들로 크게 흔들렸다. 그 과정에서 심리학·암 생물학·경제학에서 발표된 결과의 상당 부분이 독립적인 연구팀에 의해 확증되지 못했다.",
+      "structure": "· has been shaken : 현재완료 수동태 — 과거에 시작된 일이 지금까지 영향을 미침.\n· in which : 「전치사 + 관계대명사」로 관계부사 역할. 선행사는 a decade of replication attempts(그 시도들 속에서).\n· could not be corroborated : 조동사 + 수동태(be + p.p.). 행위자는 by independent teams.\n· sizable fractions of published results : of 이하가 주어의 범위를 한정하며, 동사는 fractions(복수)에 맞춘다.",
+      "vocab_notes": [
+        { "word": "confidence", "ko": "신뢰, 확신" },
+        { "word": "badly", "ko": "심하게, 크게" },
+        { "word": "shake", "ko": "흔들다 (shaken은 과거분사)" },
+        { "word": "a decade of", "ko": "10년간의" },
+        { "word": "replication", "ko": "재현, 반복 검증" },
+        { "word": "attempt", "ko": "시도" },
+        { "word": "sizable", "ko": "상당한, 꽤 큰" },
+        { "word": "fraction", "ko": "일부, 부분" },
+        { "word": "published", "ko": "발표된, (학술지에) 게재된" },
+        { "word": "cancer biology", "ko": "암 생물학" },
+        { "word": "corroborate", "ko": "확증하다, 뒷받침하다" },
+        { "word": "independent", "ko": "독립적인, 이해관계가 없는" }
+      ]
+    },
+    {
+      "en": "The culprits are less often outright fraud than a set of mundane incentives that reward novelty over rigor: small samples, flexible analyses that can turn a spurious correlation into a headline, and a publication system that quietly discards null results.",
+      "ko": "원인은 노골적인 연구 부정이기보다는, 엄밀함보다 참신함에 보상을 주는 평범한 유인들의 조합인 경우가 더 많다. 적은 표본, 허위 상관관계를 기삿거리로 바꿔 놓을 수 있는 자의적인 분석, 그리고 무효과 결과를 조용히 폐기하는 출판 체계가 그것이다.",
+      "structure": "· less often A than B : '(빈도로 보면) A라기보다 B인 경우가 더 많다' — 비교급을 이용한 대조. A = outright fraud, B = a set of mundane incentives.\n· reward A over B : 'B보다 A에 보상하다'. 여기서는 rigor보다 novelty에 보상.\n· 콜론 뒤의 small samples / flexible analyses / a publication system 세 항목은 incentives를 구체화하는 동격 나열.\n· that can turn ~, that quietly discards ~ : 각각 analyses와 system을 수식하는 주격 관계대명사절.\n· turn A into B : 'A를 B로 바꾸다'.",
+      "vocab_notes": [
+        { "word": "culprit", "ko": "원인, 원흉; 범인" },
+        { "word": "outright", "ko": "노골적인, 완전한" },
+        { "word": "fraud", "ko": "부정, 사기" },
+        { "word": "a set of", "ko": "일련의, ~의 조합" },
+        { "word": "mundane", "ko": "평범한, 대수롭지 않은" },
+        { "word": "incentive", "ko": "유인, 동기 부여 요인" },
+        { "word": "reward", "ko": "보상하다" },
+        { "word": "novelty", "ko": "새로움, 참신함" },
+        { "word": "rigor", "ko": "엄밀함, 엄격함" },
+        { "word": "sample", "ko": "표본" },
+        { "word": "flexible", "ko": "유연한; (여기서는) 자의적인" },
+        { "word": "analyses", "ko": "분석들 (analysis의 복수)" },
+        { "word": "spurious", "ko": "허위의, 겉으로만 그런" },
+        { "word": "correlation", "ko": "상관관계" },
+        { "word": "headline", "ko": "기사 제목, 기삿거리" },
+        { "word": "discard", "ko": "폐기하다, 버리다" },
+        { "word": "null result", "ko": "무효과 결과(유의미한 차이가 나오지 않은 결과)" }
+      ]
+    },
+    {
+      "en": "Reforms have followed — preregistration of hypotheses, mandatory data sharing, journals that commit to publishing negative findings — yet adoption remains patchy, because the metrics that determine hiring and tenure still count papers rather than weigh them.",
+      "ko": "개혁은 뒤따랐다. 가설의 사전 등록, 데이터 공유 의무화, 부정적 결과도 게재하겠다고 약속한 학술지들이 그것이다. 그러나 도입은 여전히 일관되지 않다. 채용과 종신 재직권을 결정하는 지표가 아직도 논문을 세기만 하고 그 무게를 따지지는 않기 때문이다.",
+      "structure": "· 대시(—) 사이의 삽입구는 Reforms를 구체적으로 풀어 놓은 동격 나열이다(주어와 동사 사이에 끼어든 형태).\n· yet : 여기서는 '그러나'라는 뜻의 등위접속사.\n· the metrics that determine hiring and tenure : 주격 관계대명사절이 metrics를 수식. 이 절 전체가 because절의 주어.\n· count papers rather than weigh them : rather than 뒤에 원형부정사가 와서 앞의 동사 count와 병렬을 이룬다.\n· commit to publishing : commit to는 전치사 to이므로 뒤에 동명사가 온다(to publish 아님).",
+      "vocab_notes": [
+        { "word": "reform", "ko": "개혁" },
+        { "word": "follow", "ko": "뒤따르다" },
+        { "word": "preregistration", "ko": "사전 등록" },
+        { "word": "hypothesis", "ko": "가설 (복수 hypotheses)" },
+        { "word": "mandatory", "ko": "의무적인, 강제적인" },
+        { "word": "journal", "ko": "학술지" },
+        { "word": "commit to ~ing", "ko": "~하기로 약속하다, 확실히 하기로 하다" },
+        { "word": "negative findings", "ko": "부정적 결과(효과가 없다는 결과)" },
+        { "word": "adoption", "ko": "채택, 도입" },
+        { "word": "patchy", "ko": "드문드문한, 일관되지 않은" },
+        { "word": "metric", "ko": "(평가) 지표" },
+        { "word": "determine", "ko": "결정하다" },
+        { "word": "hiring", "ko": "채용" },
+        { "word": "tenure", "ko": "종신 재직권; 재임 기간" },
+        { "word": "weigh", "ko": "무게를 재다, 경중을 따지다" }
+      ]
+    },
+    {
+      "en": "Until universities are willing to make careers commensurate with the reliability of a researcher's work rather than its volume, the crisis will be managed rather than resolved.",
+      "ko": "대학들이 연구자의 경력을 연구량이 아니라 연구의 신뢰성에 상응하도록 만들 의지를 갖기까지는, 이 위기는 해결되는 것이 아니라 관리되는 데 그칠 것이다.",
+      "structure": "· Until + 주어 + 동사 ~, 주절 : '~하기까지는 / ~하지 않는 한' 시간·조건 부사절. 부사절에는 미래 대신 현재시제(are)를 쓴다.\n· be willing to V : ~할 의향이 있다.\n· make careers commensurate with ~ : make + 목적어 + 형용사(5형식). commensurate with ~가 목적격보어.\n· A rather than B가 두 번 반복된다(the reliability ~ rather than its volume / managed rather than resolved) — '전자가 아니라 후자'가 아니라 '후자가 아니라 전자'임에 주의.",
+      "vocab_notes": [
+        { "word": "be willing to", "ko": "~할 의향이 있다" },
+        { "word": "career", "ko": "경력, 이력" },
+        { "word": "commensurate with", "ko": "~에 상응하는, ~에 비례하는" },
+        { "word": "reliability", "ko": "신뢰성, 믿을 만함" },
+        { "word": "researcher", "ko": "연구자" },
+        { "word": "volume", "ko": "양, 분량" },
+        { "word": "rather than", "ko": "~이 아니라, ~보다는" },
+        { "word": "resolve", "ko": "해결하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "replicate",
+      "pos": "v.",
+      "ko": "재현하다; 복제하다",
+      "example_en": "Two independent labs failed to replicate the original experiment.",
+      "example_ko": "두 개의 독립적인 연구소가 원래 실험을 재현하지 못했다.",
+      "collocations": ["replicate a study", "replicate the results"],
+      "note": "re-(다시) + pli-(접다) — '다시 똑같이 접어 낸다'. 과학에서는 '재현', IT에서는 '복제(데이터 replication)'로 갈라져 쓰인다. apply·multiply의 pli-와 같은 뿌리.",
+      "family": [
+        { "word": "replication", "pos": "n.", "ko": "재현, 복제" },
+        { "word": "replica", "pos": "n.", "ko": "복제품, 모형" }
+      ]
+    },
+    {
+      "headword": "retraction",
+      "pos": "n.",
+      "ko": "(발표·논문의) 철회, 취소",
+      "example_en": "The journal issued a retraction after the data proved unreliable.",
+      "example_ko": "그 학술지는 데이터가 신뢰할 수 없다고 판명된 뒤 철회 공고를 냈다.",
+      "collocations": ["issue a retraction", "face retraction"],
+      "note": "re-(뒤로) + tract(끌다) → 내놓은 말을 뒤로 끌어당겨 없앰. tract 계열로 묶어 외운다: extract(밖으로 끌다=추출), contract(함께 끌다=계약), distract(딴 데로 끌다=산만하게 하다).",
+      "family": [
+        { "word": "retract", "pos": "v.", "ko": "철회하다, 취소하다" }
+      ]
+    },
+    {
+      "headword": "spurious",
+      "pos": "a.",
+      "ko": "허위의, 가짜의; 겉으로만 그런",
+      "example_en": "The study mistook a spurious correlation for a cause.",
+      "example_ko": "그 연구는 허위 상관관계를 원인으로 착각했다.",
+      "collocations": ["spurious correlation", "spurious claim"],
+      "note": "'겉보기엔 진짜 같은데 출처·근거가 없다'는 말(원래 '혈통이 불분명한'). 통계 기사의 spurious correlation은 '인과가 아니라 우연히 같이 움직이는 관계'를 뜻한다.",
+      "related": [
+        { "word": "dubious", "ko": "의심스러운", "note": "dubious는 보는 사람이 의심한다는 뜻이고, spurious는 실제로 근거가 없다는 판정이다" }
+      ]
+    },
+    {
+      "headword": "rigorous",
+      "pos": "a.",
+      "ko": "엄격한, 엄밀한",
+      "example_en": "Applicants must pass a rigorous screening process.",
+      "example_ko": "지원자들은 엄격한 심사 절차를 통과해야 한다.",
+      "collocations": ["rigorous testing", "rigorous standards"],
+      "note": "라틴 rigere(굳다)에서 — '빳빳하게 굳어 흐트러짐이 없다'. rigid(경직된)와 같은 뿌리이지만, rigorous는 절차·기준에 붙어 칭찬으로 쓰인다.",
+      "family": [
+        { "word": "rigor", "pos": "n.", "ko": "엄밀함, 엄격함" },
+        { "word": "rigorously", "pos": "ad.", "ko": "엄격하게, 엄밀히" }
+      ],
+      "related": [
+        { "word": "rigid", "ko": "경직된, 융통성 없는", "note": "같은 뿌리인데 평가가 갈린다 — rigid는 '융통성 없다'는 비판, rigorous는 '빈틈없다'는 칭찬" }
+      ]
+    },
+    {
+      "headword": "corroborate",
+      "pos": "v.",
+      "ko": "(증거로) 확증하다, 뒷받침하다",
+      "example_en": "Two separate audits corroborated the whistleblower's account.",
+      "example_ko": "별개의 감사 두 건이 내부 제보자의 진술을 확증했다.",
+      "collocations": ["corroborate a claim", "corroborating evidence"],
+      "note": "cor-(함께) + robur(힘, 참나무) → 다른 증거가 '함께 힘을 보태' 주장을 튼튼하게 함. robust(튼튼한)와 같은 뿌리로 기억하면 붙는다.",
+      "related": [
+        { "word": "verify", "ko": "검증하다", "note": "verify는 사실인지 직접 확인하는 것, corroborate는 별개의 증거로 옆에서 뒷받침하는 것" }
+      ]
+    },
+    {
+      "headword": "tenure",
+      "pos": "n.",
+      "ko": "종신 재직권; 재임 기간",
+      "example_en": "She was denied tenure despite strong teaching reviews.",
+      "example_ko": "그는 강의 평가가 좋았음에도 종신 재직권을 얻지 못했다.",
+      "collocations": ["tenure track", "during his tenure"],
+      "note": "ten-(붙잡다, hold) — 지위를 '계속 붙잡고 있는 것'. maintain(손에 쥐고 유지)·retain(다시 붙잡다)과 같은 뿌리다.",
+      "related": [
+        { "word": "tenant", "ko": "세입자", "note": "뿌리는 같지만 뜻이 갈라졌다 — tenure는 '보유·재직 기간', tenant는 '(집을) 붙잡고 사는 사람'" }
+      ]
+    },
+    {
+      "headword": "anomaly",
+      "pos": "n.",
+      "ko": "이례, 변칙, 예외적 현상",
+      "example_en": "Analysts dismissed the spike as a statistical anomaly.",
+      "example_ko": "분석가들은 그 급등을 통계적 변칙으로 일축했다.",
+      "collocations": ["a statistical anomaly", "detect anomalies"],
+      "note": "a-(없음) + nomos(규칙) → 규칙에서 벗어난 것. 뉴스에서는 '설명되지 않는 관측값'이라는 중립적 표현으로 쓰여, 오류라고 단정하지 않고 넘어갈 때 자주 등장한다.",
+      "family": [
+        { "word": "anomalous", "pos": "a.", "ko": "이례적인, 변칙적인" }
+      ]
+    },
+    {
+      "headword": "underpin",
+      "pos": "v.",
+      "ko": "뒷받침하다, ~의 근거가 되다",
+      "example_en": "Decades of clinical data underpin the current guidelines.",
+      "example_ko": "수십 년간의 임상 데이터가 현행 지침을 뒷받침한다.",
+      "collocations": ["underpin the argument", "underpin growth"],
+      "note": "건물 밑(under)에 받침을 대는 공사에서 온 말 — 이론·주장을 아래에서 지탱한다는 뜻으로 확장됐다. underline(밑줄을 그어 강조하다)과 헷갈리지 않도록 주의.",
+      "related": [
+        { "word": "undermine", "ko": "약화시키다", "note": "둘 다 under-로 시작하지만 정반대 — underpin은 밑에서 받쳐 강화, undermine은 밑을 파내 무너뜨림" }
+      ]
+    },
+    {
+      "headword": "pervasive",
+      "pos": "a.",
+      "ko": "만연한, 널리 퍼진",
+      "example_en": "Short-term thinking is pervasive across the industry.",
+      "example_ko": "단기적 사고가 업계 전반에 만연하다.",
+      "collocations": ["pervasive influence", "become pervasive"],
+      "note": "per-(관통) + vad-(가다) → 전체를 뚫고 지나가 스며듦. 같은 vad- 계열로 invade(안으로 들어가다=침입)·evade(피해 나가다=회피)를 함께 묶어 두면 뜻이 안 헷갈린다.",
+      "family": [
+        { "word": "pervade", "pos": "v.", "ko": "널리 퍼지다, 스며들다" }
+      ]
+    },
+    {
+      "headword": "skew",
+      "pos": "v.",
+      "ko": "왜곡하다, 한쪽으로 치우치게 하다",
+      "example_en": "A handful of extreme cases can skew the average.",
+      "example_ko": "극단적인 사례 몇 건이 평균을 왜곡할 수 있다.",
+      "collocations": ["skew the results", "skewed data"],
+      "note": "'비스듬히 틀어진다'가 본뜻 — 수치가 한쪽으로 기울어 실제를 못 보여줄 때 쓴다. bias는 사람·제도의 편향, skew는 데이터·분포의 기울어짐이라는 점에서 갈린다.",
+      "related": [
+        { "word": "distort", "ko": "왜곡하다", "note": "distort는 형태·사실 자체를 비틀어 놓는 것, skew는 분포가 한쪽으로 쏠려 결과가 어긋나는 것" }
+      ]
+    },
+    {
+      "headword": "misconduct",
+      "pos": "n.",
+      "ko": "부정행위, 비위",
+      "example_en": "The panel found no evidence of research misconduct.",
+      "example_ko": "위원회는 연구 부정행위의 증거를 찾지 못했다.",
+      "collocations": ["research misconduct", "professional misconduct"],
+      "note": "mis-(잘못) + conduct(행위) — 특히 직무·직업상의 잘못을 가리키는 공식 용어다. mis- 규칙은 그대로 통한다: misuse(잘못 쓰다)·mislead(잘못 이끌다)·misplace(잘못 두다).",
+      "family": [
+        { "word": "conduct", "pos": "n./v.", "ko": "행위; 수행하다" }
+      ]
+    },
+    {
+      "headword": "refute",
+      "pos": "v.",
+      "ko": "반박하다, 틀렸음을 입증하다",
+      "example_en": "The author refuted the criticism point by point.",
+      "example_ko": "저자는 그 비판을 조목조목 반박했다.",
+      "collocations": ["refute a claim", "refute the allegations"],
+      "note": "핵심은 '근거를 들어 틀렸음을 입증한다'는 것 — 그냥 '아니라고 말하는' deny와 격이 다르다. 신문에서 refute를 쓰면 '반박이 성공했다'는 함의가 실린다.",
+      "family": [
+        { "word": "refutation", "pos": "n.", "ko": "반박, 논박" }
+      ],
+      "related": [
+        { "word": "rebut", "note": "rebut은 반론을 제기하는 행위 자체(성공 여부는 별개), refute는 실제로 틀렸음을 입증한 것" },
+        { "word": "deny", "ko": "부인하다", "note": "deny는 증거 없이도 '아니다'라고 말할 수 있다" }
+      ]
+    },
+    {
+      "headword": "reimburse",
+      "pos": "v.",
+      "ko": "환급하다, (비용을) 변제하다",
+      "example_en": "The company will reimburse employees for travel expenses.",
+      "example_ko": "회사가 직원들에게 출장 경비를 환급해 줄 것이다.",
+      "collocations": ["reimburse expenses", "be reimbursed for"],
+      "note": "re-(다시) + im-(안으로) + burse(지갑) → 빠져나간 돈을 지갑에 다시 넣어 준다. 토익 빈출 어순이 정해져 있다: reimburse + 사람 + for + 비용.",
+      "family": [
+        { "word": "reimbursement", "pos": "n.", "ko": "환급, 변제" }
+      ]
+    },
+    {
+      "headword": "prospective",
+      "pos": "a.",
+      "ko": "장래의, 유망한, 예비 ~",
+      "example_en": "Prospective buyers were invited to tour the site.",
+      "example_ko": "잠재 구매자들이 현장을 둘러보도록 초청받았다.",
+      "collocations": ["prospective buyer", "prospective employee"],
+      "note": "pro-(앞) + spect(보다) → 앞을 내다본. 혼동 3종 세트를 함께 외운다: prospective(장래의) / perspective(관점) / prospectus(투자설명서·안내서).",
+      "family": [
+        { "word": "prospect", "pos": "n.", "ko": "전망, 가능성; 유망 고객" }
+      ],
+      "related": [
+        { "word": "perspective", "ko": "관점, 시각", "note": "per-(통하여)+spect — 꿰뚫어 보는 '시각'. prospective와 스펠링만 비슷하고 뜻은 전혀 다르다" }
+      ]
+    },
+    {
+      "headword": "commensurate",
+      "pos": "a.",
+      "ko": "상응하는, 비례하는",
+      "example_en": "The salary will be commensurate with experience.",
+      "example_ko": "급여는 경력에 상응하여 책정될 것이다.",
+      "collocations": ["commensurate with experience", "commensurate compensation"],
+      "note": "com-(함께) + mensur(재다, measure) → 같은 자로 재어 균형이 맞음. 채용 공고 관용구 'commensurate with experience(경력에 따라 책정)'로 통째로 외우면 오래 남는다.",
+      "family": [
+        { "word": "measure", "pos": "v./n.", "ko": "재다; 척도, 조치" }
+      ]
+    },
+    {
+      "headword": "adhere",
+      "pos": "v.",
+      "ko": "(~을) 고수하다, 준수하다; 달라붙다",
+      "example_en": "All contractors must adhere to the safety guidelines.",
+      "example_ko": "모든 협력업체는 안전 지침을 준수해야 한다.",
+      "collocations": ["adhere to a policy", "adhere strictly to"],
+      "note": "ad-(~에) + haer(붙다) → 물리적으로 '붙다'에서 규칙에 '달라붙어 지키다'로 확장됐다. 자동사이므로 전치사 to가 반드시 따라온다(adhere the rules는 틀린 형태).",
+      "family": [
+        { "word": "adherence", "pos": "n.", "ko": "준수, 고수" },
+        { "word": "adhesive", "pos": "a./n.", "ko": "접착성의; 접착제" }
+      ]
+    },
+    {
+      "headword": "unprecedented",
+      "pos": "a.",
+      "ko": "전례 없는",
+      "example_en": "The heat wave pushed electricity demand to unprecedented levels.",
+      "example_ko": "폭염이 전력 수요를 전례 없는 수준으로 밀어 올렸다.",
+      "collocations": ["unprecedented level", "on an unprecedented scale"],
+      "note": "un-(없다) + pre-(앞) + ced-(가다) → '앞서 간 것(선례)이 없다'. ced- 계열을 함께 묶어 두면 좋다: precede(앞서다), recede(물러나다), concede(양보하다).",
+      "family": [
+        { "word": "precedent", "pos": "n.", "ko": "선례, 전례" },
+        { "word": "precede", "pos": "v.", "ko": "앞서다, 선행하다" }
+      ]
+    },
+    {
+      "headword": "meticulous",
+      "pos": "a.",
+      "ko": "꼼꼼한, 세심한",
+      "example_en": "Her meticulous record-keeping made the audit straightforward.",
+      "example_ko": "그의 꼼꼼한 기록 관리 덕분에 감사가 수월하게 진행됐다.",
+      "collocations": ["meticulous attention to detail", "meticulous records"],
+      "note": "어원은 metus(두려움) — '틀릴까 겁이 나서 하나하나 확인하는' 태도가 출발점이다. 보통은 칭찬이지만 지나칠 때는 '깐깐하다'는 뉘앙스도 실린다.",
+      "related": [
+        { "word": "thorough", "ko": "철저한", "note": "thorough는 빠뜨림 없이 전부 다루는 것, meticulous는 작은 것까지 정확히 챙기는 태도" }
+      ]
+    }
+  ]
+}
