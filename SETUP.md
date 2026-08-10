@@ -16,7 +16,7 @@
 
 | # | 값 | 어디서 나오나 | 어디에 넣나 |
 |---|---|---|---|
-| ① | **DB 비밀번호** | 내가 직접 정함 (2단계) | `DATABASE_URL` |
+| ① | **전용 계정 비밀번호** | 내가 직접 정함 (1단계) | `DATABASE_URL` |
 | ② | **Railway API 주소** | Railway가 발급 (3단계) | `PUBLIC_URL` + 구글 콘솔 |
 | ③ | **구글 클라이언트 ID** | 구글 콘솔 (4단계) | `GOOGLE_CLIENT_ID` |
 | ④ | **구글 클라이언트 보안 비밀번호** | 구글 콘솔 (4단계) | `GOOGLE_CLIENT_SECRET` |
@@ -26,28 +26,50 @@
 
 ---
 
-## 1단계 · DB와 전용 계정 만들기
+## 1단계 · 기존 MySQL 안에 스키마 나누기
 
-Railway의 기존 MySQL에 접속한다(Railway 대시보드 → MySQL 서비스 → **Data** 탭 또는 **Connect**).
+**MySQL 서비스를 새로 만들지 않는다.** 지금 쓰는 인스턴스에 데이터베이스 하나(`daily_language`)를
+더 만들어 기존 `railway` 데이터베이스와 나란히 둔다.
 
-`api/schema.sql` 파일을 연다. 맨 위쪽 `CHANGE_ME`를 **내가 정한 비밀번호**로 바꾼다 → 이게 **값 ①**.
+```
+Railway MySQL 인스턴스 (기존)
+├── railway            ← 기존 프로젝트 (그대로 둔다)
+└── daily_language     ← 이번에 만든다
+```
+
+### (1) 접속
+
+내 PC에서 붙을 땐 **공개 프록시** 주소를 쓴다. Railway MySQL 서비스 → **Variables**의
+`MYSQL_PUBLIC_URL`이 그 값이다(`RAILWAY_TCP_PROXY_DOMAIN` / `RAILWAY_TCP_PROXY_PORT` 사용).
+
+Railway 대시보드의 MySQL 서비스 → **Data** 탭에서 바로 쿼리를 실행해도 된다.
+
+### (2) 실행
+
+`api/schema.sql`을 연다. 맨 위쪽 `CHANGE_ME`를 **내가 정한 비밀번호**로 바꾼다 → 이게 **값 ①**.
 
 ```sql
 CREATE USER IF NOT EXISTS 'daily_language'@'%' IDENTIFIED BY 'CHANGE_ME';
                                                               ^^^^^^^^^ 여기
 ```
 
-바꾼 내용 전체를 MySQL에 실행한다.
+바꾼 내용 전체를 실행한다. 기존 `railway` 데이터베이스는 건드리지 않는다.
 
 - [ ] `daily_language` 데이터베이스 생성됨
-- [ ] `daily_language` 계정 생성됨
+- [ ] `daily_language` 계정 생성됨 (권한은 이 DB에만)
 - [ ] `users` · `study_log` 테이블 생성됨
 
-> **왜 root를 안 쓰나**: 이 인스턴스에는 다른 프로젝트 DB도 같이 있다. 전용 계정을 쓰면
-> 이 프로젝트에 문제가 생겨도 **다른 프로젝트 데이터는 건드릴 수 없다.** root를 재사용하면
-> 그 격리가 사라진다.
+확인:
 
----
+```sql
+SHOW DATABASES;                     -- railway 와 daily_language 둘 다 보이면 성공
+SHOW TABLES IN daily_language;      -- users, study_log
+```
+
+> **왜 root를 그대로 안 쓰나**: Railway가 준 `MYSQLUSER`는 `root`이고 인스턴스 전체 권한을 갖는다.
+> 그 값을 이 API에 넣으면, 여기서 문제가 생겼을 때 **기존 `railway` 데이터베이스까지 노출된다.**
+> 전용 계정은 `daily_language`에만 권한이 있어서 사고 반경이 이 프로젝트 안으로 갇힌다.
+> root는 이 스키마를 만들 때 한 번만 쓰고 끝낸다.
 
 ## 2단계 · Railway에 서비스 추가
 
@@ -123,7 +145,11 @@ CREATE USER IF NOT EXISTS 'daily_language'@'%' IDENTIFIED BY 'CHANGE_ME';
 openssl rand -base64 32
 ```
 
-Railway → 2단계에서 만든 서비스 → **Variables** 탭에 아래를 넣는다.
+Railway → 2단계에서 만든 **API 서비스** → **Variables** 탭에 아래를 넣는다.
+
+Railway는 다른 서비스의 값을 `${{서비스이름.변수명}}`으로 참조할 수 있다. 호스트를 손으로 적지 말고
+참조로 걸어 두면 나중에 MySQL이 옮겨져도 따라간다. 아래 `MySQL`은 **내 MySQL 서비스의 실제 이름**으로
+바꾼다(대시보드에 보이는 이름 그대로).
 
 | 이름 | 값 |
 |---|---|
@@ -131,13 +157,27 @@ Railway → 2단계에서 만든 서비스 → **Variables** 탭에 아래를 �
 | `GOOGLE_CLIENT_SECRET` | 값 ④ |
 | `PUBLIC_URL` | 값 ② — **끝에 `/` 없이** (`https://xxxx.up.railway.app`) |
 | `SESSION_SECRET` | 값 ⑤ |
-| `DATABASE_URL` | `mysql://daily_language:①@<host>:<port>/daily_language` |
+| `DATABASE_URL` | 아래 참조 |
 | `ALLOWED_ORIGINS` | `https://gks930620.github.io` |
 
-`DATABASE_URL`의 `<host>`·`<port>`는 Railway MySQL 서비스의 **Variables**나 **Connect** 탭에 있다.
-같은 프로젝트 안이면 내부 호스트(`mysql.railway.internal`)를 써도 된다.
+`DATABASE_URL`은 **내부 주소**로 붙는다. 같은 프로젝트 안이라 더 빠르고 외부로 나가지 않는다.
+계정은 1단계에서 만든 **전용 계정**, 데이터베이스는 `railway`가 아니라 **`daily_language`**다.
+
+```
+mysql://daily_language:①@${{MySQL.RAILWAY_PRIVATE_DOMAIN}}:3306/daily_language
+```
+
+`①` 자리에 1단계에서 정한 비밀번호를 넣는다. 비밀번호에 `@ : / ?` 가 있으면 URL이 깨지므로
+**영문·숫자로만** 만드는 게 안전하다.
+
+> 내부 주소로 연결이 안 되면(드물다) 공개 프록시로 바꿔 본다:
+> `mysql://daily_language:①@${{MySQL.RAILWAY_TCP_PROXY_DOMAIN}}:${{MySQL.RAILWAY_TCP_PROXY_PORT}}/daily_language`
+
+⚠️ **기존 MySQL 서비스의 변수(`MYSQL_URL`·`MYSQLUSER` 등)는 건드리지 않는다.** 그건 기존 프로젝트가
+쓰는 값이고, 여기에 필요한 건 위 `DATABASE_URL` 하나뿐이다.
 
 > `PORT`는 Railway가 자동으로 넣어 준다. 직접 넣지 않는다.
+> `SESSION_SECRET`을 바꾸면 모든 사용자가 로그아웃된다(기록은 그대로 남는다).
 
 - [ ] 환경변수 6개 입력함
 - [ ] 자동 재배포되어 초록불(Active)로 바뀜
@@ -194,6 +234,33 @@ git add -A && git commit -m "진도 기록 API 주소 연결" && git push
 
 몇 분 뒤 GitHub Pages에 반영되면, 학습 페이지 하단의 진도 버튼이 살아나고
 [내 기록](https://gks930620.github.io/daily-language/me/) 페이지가 채워진다.
+
+---
+
+## 참고 · App Sleeping은 켜지 않는 걸 권한다
+
+Spring 같은 JVM 앱은 가만히 둬도 GC·JIT 스레드가 돌아 sleeping이 남는 장사지만,
+이 API는 성격이 다르다. 실측값:
+
+| | 이 API (Node) | Spring Boot (일반적) |
+|---|---|---|
+| 유휴 메모리 | **약 55~60 MB** | 300~500 MB |
+| 유휴 CPU (30초 측정) | **0초 — 측정 단위 미만** | 계속 돎 |
+| 프로세스 기동 | 0.6초 | 수 초 이상 |
+
+요청이 없으면 Node는 이벤트 루프가 OS 수준에서 잠들어 **CPU를 아예 안 쓴다.** 그래서 켜 두는
+비용은 사실상 메모리 60MB어치뿐이고, 월 1달러가 안 된다(정확한 단가는 Railway 요금표 확인).
+
+반면 sleeping을 켜면 **손해가 더 크다.** 이 앱의 사용 패턴은 "하루 몇 번, 한 번에 요청 하나"라
+몰아치는 구간이 없다. 즉 **거의 모든 요청이 콜드 스타트**를 겪는다. 하필 그 요청이
+"진도 버튼 탭"이라 방금 만든 "탭 한 번, 즉시 기록"이 매번 몇 초짜리 대기로 바뀐다.
+로그인은 구글을 거쳐 돌아오는 다단계라 중간에 깨어나면 더 어색하다.
+
+**절약액은 커피 한 잔 값이 안 되는데, 대가는 매번 체감된다.** 켜 두는 쪽을 권한다.
+
+다만 DB 커넥션은 아껴 둔다 — MySQL 인스턴스를 기존 프로젝트와 공유하므로, 놀고 있는 커넥션은
+30초 뒤 반납하고 최대 1개만 유지한다(`api/src/db.js`). 커넥션 풀은 **첫 질의 때** 만들어지므로,
+아무도 안 쓰는 동안에는 DB에 붙지도 않는다.
 
 ---
 

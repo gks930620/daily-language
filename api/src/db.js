@@ -10,7 +10,11 @@ function getPool() {
     pool = mysql.createPool({
       uri: config.databaseUrl,
       waitForConnections: true,
-      connectionLimit: 5, // 취미 규모 + 인스턴스를 다른 프로젝트와 공유하므로 작게
+      // 이 MySQL 인스턴스는 다른 프로젝트와 함께 쓴다. 커넥션 하나하나가 DB 쪽 메모리를
+      // 잡아먹으므로 최소한만 열고, 놀고 있는 커넥션은 빨리 돌려준다.
+      connectionLimit: 5, // 동시 처리 상한(취미 규모에는 넉넉하다)
+      maxIdle: 1, // 유휴 상태로 붙들고 있을 커넥션 수(기본값은 connectionLimit이라 5개를 물고 있는다)
+      idleTimeout: 30000, // 30초 놀면 끊는다
       queueLimit: 0,
       timezone: 'Z',
       dateStrings: true, // DATE를 "YYYY-MM-DD" 문자열로 — 이 저장소의 날짜 규칙과 맞춘다
