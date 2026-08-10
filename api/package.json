@@ -1,0 +1,18 @@
+{
+  "name": "daily-language-api",
+  "version": "1.0.0",
+  "description": "진도 기록 API — 구글 로그인 검증 + MySQL 저장. 엔드포인트 3개짜리 작은 서버.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "dependencies": {
+    "jose": "^5.9.6",
+    "mysql2": "^3.11.5"
+  }
+}
