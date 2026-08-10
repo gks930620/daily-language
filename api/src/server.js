@@ -15,7 +15,7 @@
 
 import { createServer } from 'node:http';
 import { config } from './config.js';
-import { ping, upsertUser, recordStudy, listStudy, findUser } from './db.js';
+import { ping, ensureSchema, upsertUser, recordStudy, listStudy, findUser } from './db.js';
 import {
   startLogin,
   verifyTx,
@@ -241,9 +241,19 @@ const server = createServer((req, res) => {
   });
 });
 
-server.listen(config.port, () => {
+server.listen(config.port, async () => {
   console.log(`진도 기록 API 시작 — 포트 ${config.port} · 세션 방식 ${config.authMode}`);
   console.log(`허용 출처: ${config.allowedOrigins.join(', ')}`);
+
+  // 테이블이 없으면 만든다. 실패해도 서버는 계속 뜬다 — /health가 이유를 알려 주고,
+  // 원인(비밀번호·권한·DB 이름)을 고쳐 재배포하면 다시 시도한다.
+  try {
+    await ensureSchema();
+    console.log('테이블 확인 완료(users, study_log)');
+  } catch (err) {
+    console.error(`테이블 준비 실패 — ${err.message}`);
+    console.error('SETUP.md 1단계(데이터베이스·계정 생성)를 마쳤는지, DB_* 값이 맞는지 확인하세요.');
+  }
 });
 
 // Railway가 컨테이너를 교체할 때 진행 중인 요청을 끊지 않게.

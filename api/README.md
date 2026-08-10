@@ -164,3 +164,49 @@ SESSION_SECRET=... DATABASE_URL=mysql://... npm start
   여러 개여도 로그인이 깨지지 않는다.
 - `TRACKS`·`LEVELS`(`src/config.js`)는 `scripts/lib/langs.js`·`scripts/lib/studylog.js`와
   같은 값을 유지해야 한다. 트랙을 늘리면 양쪽 다 고친다.
+
+---
+
+# 전용 DB 계정으로 바꾸기 (선택)
+
+기본 설정(SETUP.md)은 기존 Spring 서비스와 같이 **root로 접속**한다. 간단한 대신 이 API가
+뚫리면 같은 인스턴스의 다른 데이터베이스(`businesscard_qr` 등)에도 닿을 수 있다.
+
+권한을 `daily_language` 안으로 가두려면 total_mysql에 root로 붙어 한 번만 실행한다:
+
+```sql
+CREATE DATABASE IF NOT EXISTS daily_language
+  CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE USER IF NOT EXISTS 'daily_language'@'%' IDENTIFIED BY '정한_비밀번호';
+GRANT ALL PRIVILEGES ON daily_language.* TO 'daily_language'@'%';
+FLUSH PRIVILEGES;
+```
+
+그리고 환경변수 두 줄만 바꾼다(나머지 8줄은 그대로):
+
+```
+DB_USER=daily_language
+DB_PASSWORD=정한_비밀번호
+```
+
+테이블은 계속 서버가 알아서 만든다. 기록은 그대로 유지된다.
+
+# 데이터베이스·테이블 자동 생성
+
+`ensureSchema()`가 기동할 때 한 번 돈다(여러 번 돌려도 안전).
+
+1. `CREATE DATABASE IF NOT EXISTS <DB_NAME>` — JDBC의 `createDatabaseIfNotExist=true`와 같은 일.
+   mysql2에는 그 옵션이 없어서 직접 한다. **권한이 없으면 조용히 건너뛴다**(전용 계정을 쓰는
+   경우엔 이미 데이터베이스가 있으므로 문제없다).
+2. `CREATE TABLE IF NOT EXISTS users`, `study_log`
+
+계정(`CREATE USER`)은 만들지 않는다 — 전용 계정을 쓸 때만 사람이 한 번 만든다.
+
+# App Sleeping은 켜지 않는 걸 권한다
+
+실측: 유휴 메모리 55~60MB, 유휴 CPU 30초간 0초(Node는 요청이 없으면 이벤트 루프가 OS 수준에서
+잠든다), 기동 0.6초. 켜 두는 비용이 월 1달러가 안 된다.
+
+반면 "하루 몇 번, 한 번에 요청 하나"라는 사용 패턴에서는 몰아치는 구간이 없어 **거의 모든 요청이
+콜드 스타트**가 된다. 그 요청이 하필 "진도 버튼 탭"이라 매번 몇 초 대기로 바뀐다.
+Spring(300~500MB + 상시 GC/JIT)과는 사정이 다르다.
