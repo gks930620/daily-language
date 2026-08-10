@@ -2,6 +2,9 @@
 // JS 0줄 원칙: 접기/펼치기는 전부 네이티브 <details>로만 처리한다.
 // 모든 동적 텍스트는 esc()를 거친다.
 
+import { checkinUrl } from './site.js';
+import { LEVELS } from './studylog.js';
+
 /** HTML 특수문자 이스케이프. 모든 동적 텍스트에 적용. */
 export function esc(s) {
   return String(s)
@@ -157,6 +160,30 @@ ${items}
 }
 
 /**
+ * 진도 체크인 블록(day 페이지 하단). "얼마나 했는지"를 사용자가 직접 고른다 — 방문 여부가 아니다.
+ * JS 0줄: 각 단계가 제목이 미리 채워진 GitHub 이슈 링크일 뿐이고, 기록·재빌드는 워크플로가 한다.
+ * currentLevel이 있으면 이미 기록된 단계를 표시한다(다시 눌러 고칠 수 있다 — 나중 기록이 이긴다).
+ */
+export function renderCheckin(date, lang, currentLevel = null) {
+  const buttons = Object.entries(LEVELS)
+    .map(([key, { label, dots }]) => {
+      const on = key === currentLevel ? ' checkin-btn--on' : '';
+      return `<a class="checkin-btn${on}" href="${esc(checkinUrl(date, lang, key))}" rel="nofollow noopener"><span class="dots">${dots}</span> ${esc(label)}</a>`;
+    })
+    .join('\n');
+  const status = currentLevel
+    ? `<p class="checkin-now">기록됨: <b>${esc(LEVELS[currentLevel].label)}</b> — 다시 누르면 고쳐집니다.</p>`
+    : '<p class="checkin-now">아직 기록 없음.</p>';
+  return `<section id="checkin">
+<h2>오늘 얼마나 했나요?</h2>
+${status}<div class="checkin-buttons">
+${buttons}
+</div>
+<p class="checkin-help">누르면 GitHub 화면이 열립니다. 제목이 이미 채워져 있으니 <b>Submit</b>만 누르면 기록되고, 1~2분 뒤 <a href="../../me/index.html">내 기록</a>에 반영됩니다.</p>
+</section>`;
+}
+
+/**
  * 하루치 본문(문단 + 단어)을 한 번에. day 페이지와 index가 공유한다.
  * 사용자 확정: 페이지는 문장(문단) + 단어(클러스터) 둘뿐이다.
  * 회화·복습 퀴즈·복습 문장 렌더러는 2026-08-04에 삭제했다(사용자 확정: 복습 기능 불필요).
@@ -168,6 +195,80 @@ export function renderDaySections(content, ttsLang = null) {
     renderSentences(content.sentences, content.passage_note),
     renderWords(content.words, ttsLang),
   ].join('\n');
+}
+
+/**
+ * 내 기록 페이지 본문(docs/me/index.html). JS 0줄 — 순수 표와 CSS 막대.
+ * stats: trackStats() 결과 배열, rows: studyRows() 결과, labels: { lang: 표시 이름 }.
+ */
+export function renderMyPage(stats, rows, labels) {
+  const cards = stats
+    .map((s) => {
+      const parts = Object.entries(LEVELS)
+        .map(([k, v]) => `${v.label} ${s.counts[k]}일`)
+        .join(' · ');
+      return `<article class="stat-card">
+<h3>${esc(labels[s.lang] ?? s.lang)}</h3>
+<p class="stat-main"><b>${s.avgProgress}%</b> <span class="stat-sub">평균 진도</span></p>
+<div class="bar"><span class="bar-fill" style="width:${s.avgProgress}%"></span></div>
+<p class="stat-line">기록한 날 <b>${s.recorded}</b> / ${s.total}일 (${s.recordedPercent}%)</p>
+<p class="stat-line">${esc(parts)}</p>
+<p class="stat-line">연속 <b>${s.currentStreak}일</b> · 최장 ${s.longestStreak}일</p>
+</article>`;
+    })
+    .join('\n');
+
+  const langs = stats.map((s) => s.lang);
+  const head = langs.map((l) => `<th>${esc(labels[l] ?? l)}</th>`).join('');
+  const body = rows
+    .map((r) => {
+      const cells = r.tracks
+        .map((t) => {
+          if (!t.available) return '<td class="cell cell--none">—</td>';
+          const href = `../${esc(t.lang)}/days/${esc(r.date)}.html`;
+          if (!t.level) {
+            return `<td class="cell cell--todo"><a href="${href}" title="안 함">○○○</a></td>`;
+          }
+          const lv = LEVELS[t.level];
+          return `<td class="cell cell--${esc(t.level)}"><a href="${href}" title="${esc(lv.label)}">${lv.dots}</a></td>`;
+        })
+        .join('');
+      return `<tr><th class="date-cell">${esc(r.date)}</th>${cells}</tr>`;
+    })
+    .join('\n');
+
+  const table =
+    rows.length > 0
+      ? `<div class="table-wrap"><table class="study-table">
+<thead><tr><th>날짜</th>${head}</tr></thead>
+<tbody>
+${body}
+</tbody>
+</table></div>`
+      : '<p class="empty">아직 콘텐츠가 없습니다.</p>';
+
+  const legend =
+    Object.values(LEVELS)
+      .map((v) => `<span class="legend-item">${v.dots} ${esc(v.label)}</span>`)
+      .join('') +
+    '<span class="legend-item">○○○ 안 함</span><span class="legend-item">— 콘텐츠 없음</span>';
+
+  return `<header>
+<p class="hub-link"><a href="../index.html">← 홈</a></p>
+<h1>내 기록</h1>
+</header>
+<main>
+<section id="stats">
+<div class="stat-cards">
+${cards}
+</div>
+</section>
+<section id="history">
+<h2>날짜별 진도</h2>
+<p class="legend">${legend}</p>
+${table}
+</section>
+</main>`;
 }
 
 /**

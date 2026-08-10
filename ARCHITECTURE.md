@@ -25,9 +25,11 @@
 ```
 data/<lang>/<날짜>/            brief.json · content.json · selected.json
 state/<lang>/                  words.json · runlog.json  (트랙별 독립 단어 장부·멱등 키)
+state/study-log.json           공부 진도 기록(트랙 공통 — 날짜×트랙×3단계)
 docs/index.html                허브(전 트랙 날짜 합집합의 내림차순 리스트 — 날짜마다 있는 트랙만 링크)
 docs/<lang>/index.html         언어 인덱스(최신 하루치 + 아카이브)
-docs/<lang>/days/<날짜>.html    하루치 페이지
+docs/<lang>/days/<날짜>.html    하루치 페이지(하단에 진도 체크인 버튼 3개)
+docs/me/index.html             내 기록(트랙별 진도 통계 + 날짜별 표)
 docs/assets/ · docs/.nojekyll  루트 유지(공유)
 prompts/generator.{en,ja}.md   generate 지침(ja 파일은 ja-n1·ja-n2 두 트랙이 공유)
 fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공유 — mock이 lang을 실행 트랙으로 덮어씀)
@@ -45,10 +47,14 @@ fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공�
 | `scripts/mock-generate.js` | AI 대역(로컬 시뮬레이션, `--lang` 필수). 픽스처의 `{{DATE}}` 치환 후 **lang을 실행 트랙으로 덮어씀**(픽스처 공유 대응). `--unique`는 headword에 날짜 접미사를 붙여 다일 시뮬레이션 중복 회피. |
 | `scripts/lib/dates.js` | KST 오늘 계산, `--date` 오버라이드, 날짜 가감. **날짜의 유일한 소스.** |
 | `scripts/lib/store.js` | JSON/텍스트 원자적 쓰기(tmp+rename), 루트 경로, 상태 파일 읽기(`readWordsState(lang)`·`readRunlog(lang)` — lang 필수). |
+| `scripts/checkin.js` | 공부 진도 기록(`--lang` `--level` 필수, `--date` 선택). **state/study-log.json을 쓰는 유일한 스크립트.** 그날 그 트랙 콘텐츠가 없으면 거부, 같은 값이면 `NO_CHANGE`. checkin 워크플로가 이슈 제목을 파싱해 호출한다. |
+| `scripts/lib/studylog.js` | 순수 함수: 진도 기록·조회, 트랙별 통계(평균 진도·연속), 날짜별 표 행. 파일 I/O 없음. |
+| `scripts/lib/site.js` | 저장소 상수(`REPO`)와 체크인 이슈 제목·URL 생성. 제목 형식의 단일 소스 — 워크플로 정규식과 짝이다. |
 | `scripts/lib/wordbank.js` | 순수 함수: 장부 항목 생성(`newWordEntry`), 스키마 승격(`migrateWordsState`). 파일 I/O 없음(언어 무관). 2026-08-04까지는 `srs.js`(6박스 Leitner)였다 — [A10] 참조. |
 | `scripts/lib/validate.js` | content.json 수제 스키마 검증. `validateContent(content, date, lang)` — content.lang 교차검증, requiresReading 언어는 reading 필수. 실패 필드의 경로를 찍는다. |
 | `scripts/lib/html.js` | 이스케이프 + 페이지 템플릿. JS 0줄, 네이티브 `<details>`·`<audio>`만. **언어 분기 없음 — "reading 있으면 렌더"·"ttsLang 있으면 발음 음성" 규칙만.** 페이지 본문은 `renderDaySections(content, ttsLang)` = 문장(문단) + 단어(클러스터)뿐이다. ja의 문장 reading은 원문에 후리가나를 인라인으로 단 형태(`class="furigana"`). 회화·퀴즈·복습문장 렌더러는 2026-08-04에 삭제(git 이력 참조). |
 | `prompts/generator.en.md` / `prompts/generator.ja.md` | generate 단계(AI)의 지침. ja 파일은 두 트랙 공유 — 난이도 캘리브레이션 표(N1/N2 취득자)를 내장하고 brief의 learner_profile로 구분. 입력 brief.json, 출력 content.json 하나. 프로필은 brief.json 참조(재기재 금지). |
+| `.github/workflows/checkin.yml` | 진도 체크인 이슈(`study: <날짜> <트랙> <단계>`)를 받아 기록·재빌드·커밋. **저장소 주인이 연 이슈만** 처리한다(공개 저장소라 누구나 이슈를 열 수 있다). push 경합 시 원격 최신에서 다시 시작해 3회까지 재시도(checkin·build 둘 다 멱등). 끝나면 결과를 댓글로 남기고 이슈를 닫는다. |
 | `.github/workflows/daily.yml` | 주 실행 경로. prepare ×3 → [EN 블록: generate→settle→build+verify→commit "daily(en): DATE"] → [JA-N1 블록: 동일] → [JA-N2 블록: 동일]. 모든 push 직전 `git pull --rebase`. settle 스텝은 `set -o pipefail`(기본 셸은 pipefail 꺼짐 — 없으면 tee가 실패를 가림). **트랙 독립**: 모든 스텝 조건이 `!cancelled() && <자기 트랙 앞 단계>.outcome == 'success'` — 앞 트랙 실패가 뒤 트랙을 막지 않는다([A11]). `timeout-minutes: 90`. |
 | `state/<lang>/words.json` | 트랙별 단어 장부 — "이 단어는 이미 나왔는가"(아래 스키마). |
 | `state/<lang>/runlog.json` | 언어별 날짜별 실행 기록 = 멱등 키. |
@@ -72,6 +78,22 @@ fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공�
 - 이 파일이 답하는 질문은 하나다: **"이 단어는 이미 나왔는가, 언제 나왔는가."** 유일한 소비자는 prepare의 `known_words`(같은 단어를 다시 내지 않기 위한 목록)와 settle의 dedup이다.
 - 그날 페이지에 보이는 단어 내용(뜻·예문·note·family·related)은 `data/<lang>/<날짜>/selected.json`이 날짜별로 갖는다. 장부에 중복 보관하지 않는다.
 - **schema_version 2 (2026-08-04)**: v1의 SRS 필드(top-level `intervals`, 항목별 `box`·`next_due`·`last_seen`·`graduated`·`history`)와 `card` 스냅샷을 제거했다. 승격은 `wordbank.js`의 `migrateWordsState`가 하고, **settle이 words.json을 쓸 때마다 통과**시키므로 트랙별로 다음 실행 한 번에 자동 정리된다(멱등). 배경은 [A10].
+
+### state/study-log.json — 공부 진도 기록 (트랙 공통)
+
+```json
+{
+  "schema_version": 1,
+  "days": {
+    "2026-08-06": { "en": "full", "ja-n1": "half" }
+  }
+}
+```
+
+- 단계는 `little`(조금) · `half`(절반) · `full`(다 함) 셋뿐이다(`studylog.js`의 `LEVELS`가 단일 소스, 평균 진도 가중치 30/60/100).
+- **단순 방문 여부가 아니라 사용자가 직접 신고한 진도다.** 정적 사이트는 페이지를 열었는지 알 수 없고, 안다 해도 "열었다 = 공부했다"가 아니다.
+- 같은 (날짜, 트랙)을 다시 기록하면 **나중 것이 이긴다** — 잘못 눌러도 고칠 수 있고, 아침에 "조금" → 저녁에 "다 함"으로 올릴 수 있다.
+- 분모(그날 그 트랙에 콘텐츠가 있었는가)는 `data/<lang>/<날짜>/` 존재 여부라 여기 저장하지 않는다 — 파이프라인이 안 돈 날을 게으름으로 세지 않기 위해서다.
 
 ### state/\<lang\>/runlog.json (날짜 = 멱등 키)
 
@@ -132,3 +154,4 @@ fixtures/sample-content.{en,ja}.json  픽스처(ja 파일은 두 ja 트랙 공�
 | [A8] 문단(passage) 형식 + 허브 날짜 리스트 | 사용자 확정: 무관한 문장 나열 대신 "어떤 글의 한 문단(수능 한 문제 분량)"을 먼저 통으로 읽고 문장별 분석으로 내려간다 — passage_note 필수, 문단 블록은 passage_note 있을 때만 렌더(과거 데이터 하위 호환). 허브는 트랙 선택이 아니라 날짜 내림차순 리스트(그날 있는 트랙만 링크) — 사용 동선이 "오늘 날짜 → 트랙"이기 때문. 문장 마커(`<li class="sentence">`)는 문장당 1개 불변으로 verify 호환. |
 | [A10] **SRS(간격 반복 복습) 전면 제거** — srs.js → wordbank.js, words.json v1 → v2 | 2026-07-22에 복습 퀴즈 섹션을 페이지에서 뺐는데 승급 로직(settle)은 남아 있었다. 그래서 **화면에 보인 적 없는 단어에 `shown` 기록이 쌓이고 box가 올라갔다** — 13일 만에 트랙당 195단어 중 180개가 그 상태가 됐고, 그대로 두면 약 4개월 뒤 아무도 못 본 단어들이 `graduated`로 순환을 마쳤을 것이다. 사용자 재확정(2026-08-04): "퀴즈도 별도 복습 페이지도 필요 없다." → **읽는 곳이 없는 상태는 갖고 있지 않는다**는 원칙으로 due 선정·승급·review.json·박스/간격을 전부 삭제하고, 남은 요구("같은 단어 두 번 내지 않기")만 장부로 남겼다. 복습을 되살리려면 렌더러·SRS를 git 이력에서 꺼내고 card는 날짜별 selected.json에서 재구성하면 된다. |
 | [A11] 워크플로 스텝 조건 = `!cancelled() && <자기 트랙 앞 단계>.outcome == 'success'` | GitHub Actions는 명시적 `if:`를 암묵적으로 `success()`와 AND한다. 조건만 써 두면 **en 트랙이 실패한 순간 ja 두 트랙이 통째로 skip**돼, 트랙별 커밋([A4])으로 만든 독립성이 실행 단계에서 무너진다. `!cancelled()`로 "앞 트랙의 실패"와 끊고, 대신 자기 트랙 앞 단계의 `outcome`을 명시해 트랙 안의 순서 의존만 남겼다. 실패한 트랙은 여전히 job을 실패로 표시해 알림은 살아 있다. |
+| [A12] 공부 진도는 **GitHub 이슈 체크인**으로 저장소에 기록(브라우저 저장 아님) | 사용자 요구(2026-08-06): "이 날 공부했는지 체크하고, 나중에 얼마나 했는지 보고 싶다. 회원가입은 안 되면 나만 써도 좋다." 정적 사이트라 서버가 없고, 혼자 쓰는 데 회원가입은 불필요하다. localStorage는 탭 한 번이지만 **기기마다 따로 놀고 브라우저 정리하면 사라져** "나중에 얼마나 했나"라는 목적 자체에 안 맞고, docs/에 JS를 처음 들이게 된다. 이슈 체크인은 탭이 한 번 더 늘지만 기록이 저장소에 영구히 남고 폰·PC가 같은 기록을 보며 **JS 0줄이 유지**된다. 기록 단위는 방문 여부가 아니라 사용자가 고른 진도 3단계 — "얼마나 했는지"가 알고 싶은 것이기 때문. |

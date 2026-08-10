@@ -797,3 +797,184 @@ p.reading {
 .fmt-key-box h3 {
   margin-top: 0.5rem;
 }
+
+/* ===== 공부 진도 체크인 (day 페이지 하단) =====
+   JS 0줄: 각 버튼은 제목이 미리 채워진 GitHub 이슈 링크일 뿐이다. */
+
+#checkin {
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+}
+
+.checkin-now {
+  margin: 0 0 0.75rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.checkin-buttons {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.checkin-btn {
+  flex: 1 1 6rem;
+  padding: 0.7rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--fg);
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.checkin-btn .dots {
+  display: block;
+  color: var(--accent);
+  letter-spacing: 0.1em;
+}
+
+/* 이미 기록된 단계 */
+.checkin-btn--on {
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
+  font-weight: 600;
+}
+
+.checkin-help {
+  margin: 0.75rem 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+/* ===== 내 기록 페이지 ===== */
+
+.my-link {
+  margin: 0.5rem 0 0;
+}
+
+.my-link a {
+  display: inline-block;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  text-decoration: none;
+}
+
+.stat-cards {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+}
+
+.stat-card {
+  padding: 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+}
+
+.stat-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+}
+
+.stat-main {
+  margin: 0 0 0.4rem;
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+.stat-sub {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.bar {
+  height: 0.5rem;
+  margin-bottom: 0.6rem;
+  border-radius: 999px;
+  background: var(--bg);
+  overflow: hidden;
+}
+
+.bar-fill {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+}
+
+.stat-line {
+  margin: 0.2rem 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.legend {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.legend-item {
+  margin-right: 0.9rem;
+  white-space: nowrap;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+.study-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.study-table th,
+.study-table td {
+  padding: 0.45rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  white-space: nowrap;
+}
+
+.study-table thead th {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+.date-cell {
+  text-align: left !important;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.cell a {
+  text-decoration: none;
+  letter-spacing: 0.08em;
+}
+
+.cell--full a {
+  color: var(--accent);
+}
+
+.cell--half a,
+.cell--little a {
+  color: var(--fg);
+}
+
+.cell--todo a {
+  color: var(--muted);
+}
+
+.cell--none {
+  color: var(--border);
+}

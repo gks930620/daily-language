@@ -1,0 +1,137 @@
+# 공부 진도 체크인 — day 페이지의 진도 버튼이 연 이슈를 받아 기록한다.
+#
+# 흐름: 페이지에서 진도 버튼 탭 → 제목이 채워진 새 이슈 → Submit
+#       → 이 워크플로가 제목을 파싱 → state/study-log.json 갱신 → docs 재빌드 → 커밋·push
+#       → 이슈에 결과를 댓글로 남기고 닫는다.
+#
+# 제목 형식(엄격): "study: YYYY-MM-DD <트랙> <단계>"   예) study: 2026-08-06 en full
+# 형식이 아니면 아무것도 하지 않는다(일반 이슈는 그대로 열려 있다).
+name: checkin
+
+permissions:
+  contents: write # state·docs 커밋용
+  issues: write # 결과 댓글·닫기
+
+on:
+  issues:
+    types: [opened]
+
+concurrency:
+  group: checkin # 체크인끼리는 직렬화(같은 파일을 쓴다)
+  cancel-in-progress: false
+
+jobs:
+  record:
+    # 제목이 체크인 형식이고, **저장소 주인이 연 이슈**일 때만 실행한다.
+    # 공개 저장소라 누구나 이슈를 열 수 있으므로 이 확인이 없으면 남이 내 기록을 더럽힐 수 있다.
+    if: >-
+      startsWith(github.event.issue.title, 'study:') &&
+      github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 제목 파싱
+        id: parse
+        env:
+          TITLE: ${{ github.event.issue.title }}
+        run: |
+          set -euo pipefail
+          # 앞뒤 공백을 흡수하고 정확히 세 조각만 받는다.
+          if [[ ! "$TITLE" =~ ^study:[[:space:]]*([0-9]{4}-[0-9]{2}-[0-9]{2})[[:space:]]+([a-z0-9-]+)[[:space:]]+([a-z]+)[[:space:]]*$ ]]; then
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            echo "reason=제목 형식이 올바르지 않습니다. 예: \`study: 2026-08-06 en full\`" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "ok=true" >> "$GITHUB_OUTPUT"
+          echo "date=${BASH_REMATCH[1]}" >> "$GITHUB_OUTPUT"
+          echo "lang=${BASH_REMATCH[2]}" >> "$GITHUB_OUTPUT"
+          echo "level=${BASH_REMATCH[3]}" >> "$GITHUB_OUTPUT"
+
+      # 기록 → 재빌드 → push. 경합(daily 워크플로가 동시에 push)에 대비해
+      # 매 시도마다 원격 최신에서 다시 시작한다. checkin.js·build.js 둘 다 멱등이라 안전하다.
+      - name: 기록·재빌드·push
+        id: record
+        if: steps.parse.outputs.ok == 'true'
+        env:
+          DATE: ${{ steps.parse.outputs.date }}
+          LANG_CODE: ${{ steps.parse.outputs.lang }}
+          LEVEL: ${{ steps.parse.outputs.level }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+
+            if ! OUT="$(node scripts/checkin.js --lang "$LANG_CODE" --level "$LEVEL" --date "$DATE" 2>&1)"; then
+              echo "$OUT"
+              {
+                echo "ok=false"
+                echo "message<<EOF"
+                echo "$OUT"
+                echo "EOF"
+              } >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "$OUT"
+
+            node scripts/build.js
+            git add -A
+            if git diff --cached --quiet; then
+              echo "변경 없음 — 이미 같은 기록"
+              {
+                echo "ok=true"
+                echo "message=이미 같은 기록이라 변경 없음."
+              } >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+
+            git commit -m "checkin($LANG_CODE): $DATE $LEVEL"
+            if git push; then
+              {
+                echo "ok=true"
+                echo "message<<EOF"
+                echo "$OUT"
+                echo "EOF"
+              } >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "::warning::push 경합 — 재시도 $attempt/3"
+          done
+          echo "ok=false" >> "$GITHUB_OUTPUT"
+          echo "message=push 경합이 3회 연속 발생했습니다. 잠시 뒤 다시 눌러 주세요." >> "$GITHUB_OUTPUT"
+
+      - name: 결과 댓글 + 이슈 닫기
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          PARSE_OK: ${{ steps.parse.outputs.ok }}
+          PARSE_REASON: ${{ steps.parse.outputs.reason }}
+          REC_OK: ${{ steps.record.outputs.ok }}
+          REC_MSG: ${{ steps.record.outputs.message }}
+        run: |
+          set -euo pipefail
+          if [ "$PARSE_OK" != "true" ]; then
+            BODY="❌ $PARSE_REASON"
+          elif [ "$REC_OK" = "true" ]; then
+            BODY="✅ $REC_MSG
+
+          내 기록: https://gks930620.github.io/daily-language/me/ (반영까지 1~2분)"
+          else
+            BODY="❌ 기록 실패
+
+          \`\`\`
+          $REC_MSG
+          \`\`\`"
+          fi
+          gh issue comment "$NUMBER" --body "$BODY"
+          gh issue close "$NUMBER"

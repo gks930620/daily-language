@@ -2,13 +2,15 @@
 // build.js — data/<lang>/*/(content.json + selected.json)를 전부 스캔해
 // docs/<lang>/days/*.html + docs/<lang>/index.html + 허브 docs/index.html을 처음부터 다시 만든다.
 // --lang을 받지 않는 유일한 스크립트: 항상 전 언어 + 허브를 재생성한다.
-// 단어 상태(words.json)는 읽지 않는다. 순수 재생성이므로 몇 번을 돌려도 결과가 같다.
+// 단어 장부(words.json)는 읽지 않는다. 공부 진도(study-log.json)는 **읽기만** 한다
+// (쓰는 것은 checkin.js뿐). 순수 재생성이므로 몇 번을 돌려도 결과가 같다.
 
 import { readdirSync, existsSync } from 'node:fs';
 import { isValidDateString } from './lib/dates.js';
 import { rootPath, readJson, writeTextAtomic, readRunlog, writeJsonAtomic } from './lib/store.js';
 import { LANGS } from './lib/langs.js';
-import { page, esc, renderDaySections, renderDayNav } from './lib/html.js';
+import { page, esc, renderDaySections, renderDayNav, renderCheckin, renderMyPage } from './lib/html.js';
+import { emptyStudyLog, levelOf, trackStats, studyRows } from './lib/studylog.js';
 
 function listDays(lang) {
   const dataDir = rootPath('data', lang);
@@ -35,7 +37,7 @@ function loadDay(lang, date) {
   return { ...content, words };
 }
 
-function buildDayPage(lang, config, date, prevDate, nextDate) {
+function buildDayPage(lang, config, date, prevDate, nextDate, studyLog) {
   const content = loadDay(lang, date);
   const nav = renderDayNav(prevDate, nextDate);
   const body = `<header>
@@ -44,6 +46,7 @@ ${nav}
 </header>
 <main>
 ${renderDaySections(content, config.ttsLang)}
+${renderCheckin(date, lang, levelOf(studyLog, date, lang))}
 </main>
 <footer>
 ${nav}
@@ -114,6 +117,7 @@ ${items}
       : '<p class="empty">아직 생성된 콘텐츠가 없습니다.</p>';
   const body = `<header>
 <h1>매일 언어 학습</h1>
+<p class="my-link"><a href="me/index.html">📊 내 기록 — 얼마나 했나</a></p>
 <p class="track-archives">아카이브: ${archives}</p>
 </header>
 <main>
@@ -123,13 +127,15 @@ ${list}
 }
 
 function main() {
+  // 공부 진도 기록은 읽기 전용으로 쓴다(단일 작성자는 checkin.js).
+  const studyLog = readJson(rootPath('state', 'study-log.json'), emptyStudyLog());
   const daysByLang = {};
   for (const [lang, config] of Object.entries(LANGS)) {
     const days = listDays(lang);
     daysByLang[lang] = days;
     for (let i = 0; i < days.length; i++) {
       const date = days[i];
-      const html = buildDayPage(lang, config, date, days[i - 1] ?? null, days[i + 1] ?? null);
+      const html = buildDayPage(lang, config, date, days[i - 1] ?? null, days[i + 1] ?? null, studyLog);
       writeTextAtomic(rootPath('docs', lang, 'days', `${date}.html`), html);
     }
     writeTextAtomic(rootPath('docs', lang, 'index.html'), buildLangIndex(lang, config, days));
@@ -146,13 +152,26 @@ function main() {
   }
   writeTextAtomic(rootPath('docs', 'index.html'), buildHub(daysByLang));
 
+  // 내 기록 페이지 — 트랙별 진도 통계 + 날짜별 표.
+  const langKeys = Object.keys(LANGS);
+  const labels = Object.fromEntries(langKeys.map((l) => [l, LANGS[l].label]));
+  const stats = langKeys.map((l) => trackStats(studyLog, l, daysByLang[l] ?? []));
+  writeTextAtomic(
+    rootPath('docs', 'me', 'index.html'),
+    page({
+      title: '내 기록 — 매일 언어 학습',
+      body: renderMyPage(stats, studyRows(studyLog, daysByLang, langKeys), labels),
+      relRoot: '../',
+    })
+  );
+
   for (const [lang, days] of Object.entries(daysByLang)) {
     console.log(
       `빌드 완료(${lang}): day 페이지 ${days.length}개 + docs/${lang}/index.html` +
         (days.length > 0 ? ` (최신: docs/${lang}/days/${days[days.length - 1]}.html)` : '')
     );
   }
-  console.log('허브: docs/index.html');
+  console.log('허브: docs/index.html · 내 기록: docs/me/index.html');
 }
 
 main();
