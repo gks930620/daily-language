@@ -64,13 +64,29 @@ test('세션: 쿠키로도 Authorization 헤더로도 사용자 id가 나온다'
 
 test('세션: 위조·형식오류·없음은 전부 null', async () => {
   const token = await issueSession(42);
+  const [head, payload, sig] = token.split('.');
+
   assert.equal(await userIdFromRequest({}), null);
   assert.equal(await userIdFromRequest({ authorizationHeader: token }), null, 'Bearer 없음');
   assert.equal(await userIdFromRequest({ sessionCookie: 'not.a.jwt' }), null);
+
+  // 서명 변조 — 첫 글자를 바꾼다. base64url의 **마지막** 글자는 유효 비트가 2개뿐이라
+  // 다른 글자로 바꿔도 같은 바이트로 디코딩될 수 있다(그러면 서명이 그대로라 통과한다).
+  // 첫 글자는 6비트를 온전히 담으므로 바꾸면 반드시 다른 서명이 된다.
+  const badSig = (sig[0] === 'A' ? 'B' : 'A') + sig.slice(1);
   assert.equal(
-    await userIdFromRequest({ sessionCookie: token.slice(0, -1) + (token.at(-1) === 'A' ? 'B' : 'A') }),
+    await userIdFromRequest({ sessionCookie: `${head}.${payload}.${badSig}` }),
     null,
     '서명 변조'
+  );
+
+  // 페이로드 변조 — 남의 사용자 id로 바꿔치기하고 서명은 그대로 둔 경우
+  const claims = JSON.parse(Buffer.from(payload, 'base64url').toString('utf8'));
+  const forged = Buffer.from(JSON.stringify({ ...claims, sub: '999' })).toString('base64url');
+  assert.equal(
+    await userIdFromRequest({ sessionCookie: `${head}.${forged}.${sig}` }),
+    null,
+    '페이로드 변조(남의 id로 바꿔치기)'
   );
 });
 
