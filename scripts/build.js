@@ -2,8 +2,8 @@
 // build.js — data/<lang>/*/(content.json + selected.json)를 전부 스캔해
 // docs/<lang>/days/*.html + docs/<lang>/index.html + 허브 docs/index.html을 처음부터 다시 만든다.
 // --lang을 받지 않는 유일한 스크립트: 항상 전 언어 + 허브를 재생성한다.
-// 단어 장부(words.json)는 읽지 않는다. 공부 진도(study-log.json)는 **읽기만** 한다
-// (쓰는 것은 checkin.js뿐). 순수 재생성이므로 몇 번을 돌려도 결과가 같다.
+// 단어 장부(words.json)도 진도 기록도 읽지 않는다(진도는 Railway API가 갖고 브라우저가 받아 온다).
+// 순수 재생성이므로 몇 번을 돌려도 결과가 같다.
 
 import { readdirSync, existsSync, readFileSync } from 'node:fs';
 import { isValidDateString } from './lib/dates.js';

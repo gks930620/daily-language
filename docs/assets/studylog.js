@@ -1,11 +1,15 @@
-// studylog.js — 공부 진도 기록(state/study-log.json)의 순수 함수.
-// 파일을 읽거나 쓰지 않는다. 실제로 쓰는 곳은 scripts/checkin.js 하나다.
+// studylog.js — 공부 진도 통계의 순수 함수. 파일도 네트워크도 건드리지 않는다.
 //
-// 기록하는 것: "어느 날, 어느 트랙을, 얼마나 했는가"(사용자가 직접 고른 3단계).
-// 단순 방문 여부가 아니다 — 페이지를 열었는지가 아니라 본인이 신고한 진도가 기준이다.
-// 분모(그날 그 트랙에 콘텐츠가 있었는가)는 data/<lang>/<날짜>/ 존재 여부라 여기 저장하지 않는다.
-
-export const STUDY_LOG_SCHEMA_VERSION = 1;
+// **기록을 쓰는 곳은 이 저장소가 아니다.** 진도는 Railway의 API 서버가 MySQL에 저장하고
+// (api/src/db.js), 이 파일은 그렇게 받아온 기록을 **읽어서 통계로 바꾸는 일만** 한다.
+//
+// 이 파일은 두 곳에서 같이 쓰인다:
+//   - scripts/lib/html.js — 진도 버튼의 라벨(LEVELS)
+//   - docs/assets/studylog.js — build.js가 그대로 복사해 브라우저가 import한다
+// 그래서 통계 로직이 한 벌뿐이고, tests/studylog.test.js가 양쪽을 동시에 지킨다.
+//
+// 입력 log의 모양은 API의 GET /study/me 응답 그대로다:
+//   { schema_version: 1, days: { "2026-08-10": { en: "full", "ja-n1": "half" } } }
 
 /** 진도 3단계. 순서가 곧 크기이고, weight는 "평균 진도" 계산에만 쓴다. */
 export const LEVELS = {
@@ -14,32 +18,10 @@ export const LEVELS = {
   full: { label: '다 함', weight: 100, dots: '●●●' },
 };
 
-/** 등록된 진도 단계인가. 이슈 제목 파싱의 방어선. */
-export function isLevel(v) {
-  return typeof v === 'string' && Object.hasOwn(LEVELS, v);
-}
-
-/** state/study-log.json의 초기(빈) 구조. */
-export function emptyStudyLog() {
-  return { schema_version: STUDY_LOG_SCHEMA_VERSION, days: {} };
-}
-
-/**
- * 진도 기록. 순수 함수 — 새 객체를 돌려준다.
- * 같은 (날짜, 트랙)을 다시 기록하면 **나중 것이 이긴다** — 잘못 눌렀을 때 다시 눌러 고칠 수 있고,
- * 아침에 "조금"을 눌렀다가 저녁에 "다 함"으로 올리는 것도 자연스럽다.
- */
-export function recordStudy(log, date, lang, level) {
-  if (!isLevel(level)) throw new Error(`알 수 없는 진도 단계: ${JSON.stringify(level)}`);
-  const days = { ...(log?.days ?? {}) };
-  days[date] = { ...(days[date] ?? {}), [lang]: level };
-  return { schema_version: STUDY_LOG_SCHEMA_VERSION, days };
-}
-
-/** 그날 그 트랙의 진도 단계. 기록이 없으면 null. */
+/** 그날 그 트랙의 진도 단계. 기록이 없거나 모르는 값이면 null. */
 export function levelOf(log, date, lang) {
   const v = log?.days?.[date]?.[lang];
-  return isLevel(v) ? v : null;
+  return Object.hasOwn(LEVELS, v ?? '') ? v : null;
 }
 
 /**
