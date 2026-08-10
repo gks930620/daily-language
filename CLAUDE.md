@@ -11,6 +11,7 @@
 3. **날짜는 `scripts/lib/dates.js`만 계산한다.** 어디서도 `new Date()`로 날짜 문자열을 직접 만들지 않는다(KST 고정).
 4. **`docs/`는 빌드 산출물이다.** 직접 수정 금지 — 고칠 것은 `scripts/lib/html.js`·`docs/assets/style.css`(예외: style.css는 소스임)이고, `node scripts/build.js`로 재생성한다.
 5. 외부 의존성 추가 금지(Node 내장만). docs/에 JS 추가 금지(`<details>`로 해결).
+   - **예외: `api/`**(진도 기록 서버)는 별도 컴포넌트라 자체 package.json을 가진다(`mysql2`·`jose` 둘뿐). `scripts/` 파이프라인에는 이 예외가 적용되지 않는다.
 6. **트랙별 설정(프로필·프롬프트 경로·reading 필수 여부)의 단일 소스는 `scripts/lib/langs.js`다**(트랙 = 언어×난이도). 프롬프트에 프로필을 재기재하지 않는다(brief.json 참조로 통일).
 
 ## 파이프라인 명령 순서 (트랙별 — `--lang en|ja-n1|ja-n2` 필수, build만 예외)
@@ -37,6 +38,8 @@ node scripts/verify.js --lang en       # 커밋 전 게이트 (실패 시 exit 1
 
 | 문서 | 언제 읽나 |
 |---|---|
+| `SETUP.md` | **진도 기록 기능을 켜려면**(사용자가 직접 해야 하는 구글 OAuth·Railway 설정 체크리스트) |
+| `api/README.md` | 진도 기록 API의 설계·엔드포인트·AUTH_MODE를 알아야 할 때 |
 | `README.md` | 사용자 관점·최초 설정·문제 해결이 궁금할 때 |
 | `ARCHITECTURE.md` | 코드를 고치기 전(상태 스키마·트랙 축·설계 결정 근거 [A1]~[A12]) |
 | `PLAN.md` | 범위 판단이 필요할 때(v1/v2 경계, 확정 결정, 리스크) |
