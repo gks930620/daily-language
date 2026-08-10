@@ -169,10 +169,31 @@ https://xxxx.up.railway.app/auth/start
 
 ---
 
-## 다 되면 알려줄 것
+## 7단계 · 학습 사이트에 연결
 
-**Railway API 주소(값 ②)** 하나만 알려주면 된다. 그걸로 학습 페이지에 로그인 버튼과
-진도 버튼을 붙인다. (값 ①③④⑤는 알려줄 필요 없다 — 서버 안에만 있으면 된다.)
+여기까지 하면 서버는 준비됐다. 마지막으로 학습 사이트가 그 주소를 알게 해준다.
+
+`scripts/lib/site.js`를 열어 **값 ②**를 넣는다. 이 한 줄이 전부다.
+
+```js
+export const API_BASE = 'https://xxxx.up.railway.app';
+```
+
+그리고 다시 빌드해서 올린다.
+
+```bash
+node scripts/build.js
+git add -A && git commit -m "진도 기록 API 주소 연결" && git push
+```
+
+- [ ] `API_BASE`에 주소 넣음
+- [ ] 빌드·push 완료
+
+> 직접 하기 번거로우면 **값 ② 주소만 알려주면 대신 해준다.**
+> 비밀값(①③④⑤)은 알려줄 필요 없다 — 서버 안에만 있으면 된다.
+
+몇 분 뒤 GitHub Pages에 반영되면, 학습 페이지 하단의 진도 버튼이 살아나고
+[내 기록](https://gks930620.github.io/daily-language/me/) 페이지가 채워진다.
 
 ---
 

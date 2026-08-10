@@ -1,8 +1,9 @@
 // html.js — HTML 이스케이프와 페이지 템플릿.
-// JS 0줄 원칙: 접기/펼치기는 전부 네이티브 <details>로만 처리한다.
+// 학습 콘텐츠는 JS 0줄이다: 접기/펼치기는 전부 네이티브 <details>로만 처리한다.
+// 유일한 JS는 assets/app.js(진도 기록)이고, defer 로드라 콘텐츠 렌더를 막지 않는다.
+// app.js가 실패해도 문단·단어는 그대로 보인다.
 // 모든 동적 텍스트는 esc()를 거친다.
 
-import { checkinUrl } from './site.js';
 import { LEVELS } from './studylog.js';
 
 /** HTML 특수문자 이스케이프. 모든 동적 텍스트에 적용. */
@@ -29,6 +30,7 @@ export function page({ title, body, relRoot = '' }) {
 <meta name="referrer" content="no-referrer">
 <title>${esc(title)}</title>
 <link rel="stylesheet" href="${relRoot}assets/style.css">
+<script type="module" src="${relRoot}assets/app.js"></script>
 </head>
 <body>
 ${body}
@@ -161,25 +163,25 @@ ${items}
 
 /**
  * 진도 체크인 블록(day 페이지 하단). "얼마나 했는지"를 사용자가 직접 고른다 — 방문 여부가 아니다.
- * JS 0줄: 각 단계가 제목이 미리 채워진 GitHub 이슈 링크일 뿐이고, 기록·재빌드는 워크플로가 한다.
- * currentLevel이 있으면 이미 기록된 단계를 표시한다(다시 눌러 고칠 수 있다 — 나중 기록이 이긴다).
+ *
+ * 여기서는 **껍데기만** 만든다. 로그인 상태 확인·현재 기록 표시·저장은 docs/assets/app.js가
+ * data-* 속성을 읽어 처리한다(인라인 스크립트 없음). JS가 꺼져 있거나 API 주소가 아직
+ * 설정되지 않았으면 안내 문구만 남고 버튼은 비활성이다 — 학습 콘텐츠에는 영향이 없다.
  */
-export function renderCheckin(date, lang, currentLevel = null) {
+export function renderCheckin(date, lang) {
   const buttons = Object.entries(LEVELS)
-    .map(([key, { label, dots }]) => {
-      const on = key === currentLevel ? ' checkin-btn--on' : '';
-      return `<a class="checkin-btn${on}" href="${esc(checkinUrl(date, lang, key))}" rel="nofollow noopener"><span class="dots">${dots}</span> ${esc(label)}</a>`;
-    })
+    .map(
+      ([key, { label, dots }]) =>
+        `<button type="button" class="checkin-btn" data-level="${esc(key)}" disabled><span class="dots">${dots}</span> ${esc(label)}</button>`
+    )
     .join('\n');
-  const status = currentLevel
-    ? `<p class="checkin-now">기록됨: <b>${esc(LEVELS[currentLevel].label)}</b> — 다시 누르면 고쳐집니다.</p>`
-    : '<p class="checkin-now">아직 기록 없음.</p>';
-  return `<section id="checkin">
+  return `<section id="checkin" data-checkin data-date="${esc(date)}" data-track="${esc(lang)}">
 <h2>오늘 얼마나 했나요?</h2>
-${status}<div class="checkin-buttons">
+<p class="checkin-status" data-role="status">준비 중…</p>
+<div class="checkin-buttons">
 ${buttons}
 </div>
-<p class="checkin-help">누르면 GitHub 화면이 열립니다. 제목이 이미 채워져 있으니 <b>Submit</b>만 누르면 기록되고, 1~2분 뒤 <a href="../../me/index.html">내 기록</a>에 반영됩니다.</p>
+<p class="checkin-help" data-role="help"></p>
 </section>`;
 }
 
@@ -195,80 +197,6 @@ export function renderDaySections(content, ttsLang = null) {
     renderSentences(content.sentences, content.passage_note),
     renderWords(content.words, ttsLang),
   ].join('\n');
-}
-
-/**
- * 내 기록 페이지 본문(docs/me/index.html). JS 0줄 — 순수 표와 CSS 막대.
- * stats: trackStats() 결과 배열, rows: studyRows() 결과, labels: { lang: 표시 이름 }.
- */
-export function renderMyPage(stats, rows, labels) {
-  const cards = stats
-    .map((s) => {
-      const parts = Object.entries(LEVELS)
-        .map(([k, v]) => `${v.label} ${s.counts[k]}일`)
-        .join(' · ');
-      return `<article class="stat-card">
-<h3>${esc(labels[s.lang] ?? s.lang)}</h3>
-<p class="stat-main"><b>${s.avgProgress}%</b> <span class="stat-sub">평균 진도</span></p>
-<div class="bar"><span class="bar-fill" style="width:${s.avgProgress}%"></span></div>
-<p class="stat-line">기록한 날 <b>${s.recorded}</b> / ${s.total}일 (${s.recordedPercent}%)</p>
-<p class="stat-line">${esc(parts)}</p>
-<p class="stat-line">연속 <b>${s.currentStreak}일</b> · 최장 ${s.longestStreak}일</p>
-</article>`;
-    })
-    .join('\n');
-
-  const langs = stats.map((s) => s.lang);
-  const head = langs.map((l) => `<th>${esc(labels[l] ?? l)}</th>`).join('');
-  const body = rows
-    .map((r) => {
-      const cells = r.tracks
-        .map((t) => {
-          if (!t.available) return '<td class="cell cell--none">—</td>';
-          const href = `../${esc(t.lang)}/days/${esc(r.date)}.html`;
-          if (!t.level) {
-            return `<td class="cell cell--todo"><a href="${href}" title="안 함">○○○</a></td>`;
-          }
-          const lv = LEVELS[t.level];
-          return `<td class="cell cell--${esc(t.level)}"><a href="${href}" title="${esc(lv.label)}">${lv.dots}</a></td>`;
-        })
-        .join('');
-      return `<tr><th class="date-cell">${esc(r.date)}</th>${cells}</tr>`;
-    })
-    .join('\n');
-
-  const table =
-    rows.length > 0
-      ? `<div class="table-wrap"><table class="study-table">
-<thead><tr><th>날짜</th>${head}</tr></thead>
-<tbody>
-${body}
-</tbody>
-</table></div>`
-      : '<p class="empty">아직 콘텐츠가 없습니다.</p>';
-
-  const legend =
-    Object.values(LEVELS)
-      .map((v) => `<span class="legend-item">${v.dots} ${esc(v.label)}</span>`)
-      .join('') +
-    '<span class="legend-item">○○○ 안 함</span><span class="legend-item">— 콘텐츠 없음</span>';
-
-  return `<header>
-<p class="hub-link"><a href="../index.html">← 홈</a></p>
-<h1>내 기록</h1>
-</header>
-<main>
-<section id="stats">
-<div class="stat-cards">
-${cards}
-</div>
-</section>
-<section id="history">
-<h2>날짜별 진도</h2>
-<p class="legend">${legend}</p>
-${table}
-</section>
-</main>`;
 }
 
 /**

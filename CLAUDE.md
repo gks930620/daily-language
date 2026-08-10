@@ -10,7 +10,9 @@
 2. **상태 파일마다 작성자는 하나다.** `state/<lang>/words.json`(단어 장부)은 `scripts/settle.js`뿐, `state/study-log.json`(공부 진도)은 `scripts/checkin.js`뿐이다. 손으로도, 다른 스크립트로도 고치지 않는다. 장부는 "이 단어가 이미 나왔는가"만 답한다 — **복습·SRS는 이 저장소에 없다**(2026-08-04 제거, ARCHITECTURE.md [A10]). 화면에 없는 기능의 상태를 되살리지 말 것.
 3. **날짜는 `scripts/lib/dates.js`만 계산한다.** 어디서도 `new Date()`로 날짜 문자열을 직접 만들지 않는다(KST 고정).
 4. **`docs/`는 빌드 산출물이다.** 직접 수정 금지 — 고칠 것은 `scripts/lib/html.js`·`docs/assets/style.css`(예외: style.css는 소스임)이고, `node scripts/build.js`로 재생성한다.
-5. 외부 의존성 추가 금지(Node 내장만). docs/에 JS 추가 금지(`<details>`로 해결).
+5. 외부 의존성 추가 금지(Node 내장만). **학습 콘텐츠는 JS 0줄** — 접기/펼치기는 `<details>`로 해결한다.
+   - docs/의 JS는 `assets/app.js`(진도 기록) **하나뿐**이고 여기서 늘리지 않는다. 이 파일이 실패해도 문단·단어는 그대로 보여야 한다.
+   - `docs/assets/studylog.js`·`config.js`·`days.json`은 **빌드 산출물**이다(직접 수정 금지).
    - **예외: `api/`**(진도 기록 서버)는 별도 컴포넌트라 자체 package.json을 가진다(`mysql2`·`jose` 둘뿐). `scripts/` 파이프라인에는 이 예외가 적용되지 않는다.
 6. **트랙별 설정(프로필·프롬프트 경로·reading 필수 여부)의 단일 소스는 `scripts/lib/langs.js`다**(트랙 = 언어×난이도). 프롬프트에 프로필을 재기재하지 않는다(brief.json 참조로 통일).
 

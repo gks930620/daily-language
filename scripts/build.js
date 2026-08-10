@@ -5,12 +5,12 @@
 // 단어 장부(words.json)는 읽지 않는다. 공부 진도(study-log.json)는 **읽기만** 한다
 // (쓰는 것은 checkin.js뿐). 순수 재생성이므로 몇 번을 돌려도 결과가 같다.
 
-import { readdirSync, existsSync } from 'node:fs';
+import { readdirSync, existsSync, readFileSync } from 'node:fs';
 import { isValidDateString } from './lib/dates.js';
 import { rootPath, readJson, writeTextAtomic, readRunlog, writeJsonAtomic } from './lib/store.js';
 import { LANGS } from './lib/langs.js';
-import { page, esc, renderDaySections, renderDayNav, renderCheckin, renderMyPage } from './lib/html.js';
-import { emptyStudyLog, levelOf, trackStats, studyRows } from './lib/studylog.js';
+import { page, esc, renderDaySections, renderDayNav, renderCheckin } from './lib/html.js';
+import { API_BASE } from './lib/site.js';
 
 function listDays(lang) {
   const dataDir = rootPath('data', lang);
@@ -37,7 +37,7 @@ function loadDay(lang, date) {
   return { ...content, words };
 }
 
-function buildDayPage(lang, config, date, prevDate, nextDate, studyLog) {
+function buildDayPage(lang, config, date, prevDate, nextDate) {
   const content = loadDay(lang, date);
   const nav = renderDayNav(prevDate, nextDate);
   const body = `<header>
@@ -46,7 +46,7 @@ ${nav}
 </header>
 <main>
 ${renderDaySections(content, config.ttsLang)}
-${renderCheckin(date, lang, levelOf(studyLog, date, lang))}
+${renderCheckin(date, lang)}
 </main>
 <footer>
 ${nav}
@@ -127,15 +127,13 @@ ${list}
 }
 
 function main() {
-  // 공부 진도 기록은 읽기 전용으로 쓴다(단일 작성자는 checkin.js).
-  const studyLog = readJson(rootPath('state', 'study-log.json'), emptyStudyLog());
   const daysByLang = {};
   for (const [lang, config] of Object.entries(LANGS)) {
     const days = listDays(lang);
     daysByLang[lang] = days;
     for (let i = 0; i < days.length; i++) {
       const date = days[i];
-      const html = buildDayPage(lang, config, date, days[i - 1] ?? null, days[i + 1] ?? null, studyLog);
+      const html = buildDayPage(lang, config, date, days[i - 1] ?? null, days[i + 1] ?? null);
       writeTextAtomic(rootPath('docs', lang, 'days', `${date}.html`), html);
     }
     writeTextAtomic(rootPath('docs', lang, 'index.html'), buildLangIndex(lang, config, days));
@@ -152,19 +150,40 @@ function main() {
   }
   writeTextAtomic(rootPath('docs', 'index.html'), buildHub(daysByLang));
 
-  // 내 기록 페이지 — 트랙별 진도 통계 + 날짜별 표.
-  const langKeys = Object.keys(LANGS);
-  const labels = Object.fromEntries(langKeys.map((l) => [l, LANGS[l].label]));
-  const stats = langKeys.map((l) => trackStats(studyLog, l, daysByLang[l] ?? []));
+  // 진도 기록 프런트엔드에 필요한 것들.
+  // ① days.json — 어느 날 어느 트랙에 콘텐츠가 있었는가. 통계의 **분모**이고 DB가 모르는 정보다.
+  const labels = Object.fromEntries(Object.keys(LANGS).map((l) => [l, LANGS[l].label]));
+  writeJsonAtomic(rootPath('docs', 'days.json'), { schema_version: 1, daysByLang, labels });
+
+  // ② config.js — API 주소(scripts/lib/site.js가 단일 소스). 비어 있으면 진도 기능이 꺼진 채 렌더된다.
+  writeTextAtomic(
+    rootPath('docs', 'assets', 'config.js'),
+    `// 빌드가 생성한다 — 고치려면 scripts/lib/site.js의 API_BASE를 바꾸고 build.js를 다시 돌린다.
+export const API_BASE = ${JSON.stringify(API_BASE)};
+`
+  );
+
+  // ③ studylog.js — 통계 순수 함수를 브라우저에서 **그대로** 재사용한다(로직 두 벌 방지).
+  writeTextAtomic(
+    rootPath('docs', 'assets', 'studylog.js'),
+    readFileSync(rootPath('scripts', 'lib', 'studylog.js'), 'utf8')
+  );
+
+  // ④ 내 기록 페이지 — 사람마다 내용이 달라 빌드 시점에 구울 수 없다. 껍데기만 만들고 app.js가 채운다.
   writeTextAtomic(
     rootPath('docs', 'me', 'index.html'),
     page({
       title: '내 기록 — 매일 언어 학습',
-      body: renderMyPage(stats, studyRows(studyLog, daysByLang, langKeys), labels),
+      body: `<header>
+<p class="hub-link"><a href="../index.html">← 홈</a></p>
+<h1>내 기록</h1>
+</header>
+<main data-mypage>
+<p class="empty">불러오는 중…</p>
+</main>`,
       relRoot: '../',
     })
   );
-
   for (const [lang, days] of Object.entries(daysByLang)) {
     console.log(
       `빌드 완료(${lang}): day 페이지 ${days.length}개 + docs/${lang}/index.html` +

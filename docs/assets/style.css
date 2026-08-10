@@ -978,3 +978,36 @@ p.reading {
 .cell--none {
   color: var(--border);
 }
+
+/* 진도 버튼이 <a>에서 <button>으로 바뀌면서 필요한 것들(app.js가 활성화한다). */
+button.checkin-btn {
+  font: inherit;
+  cursor: pointer;
+}
+
+button.checkin-btn:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.login-link {
+  display: inline-block;
+  margin-top: 0.25rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg);
+  font-size: 0.9rem;
+}
+
+.logout-btn {
+  margin-top: 2rem;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}

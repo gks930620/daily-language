@@ -9,7 +9,7 @@ import {
   studyRows,
   LEVELS,
 } from '../scripts/lib/studylog.js';
-import { checkinTitle, checkinUrl } from '../scripts/lib/site.js';
+import { API_BASE, apiConfigured } from '../scripts/lib/site.js';
 
 const D = (n) => `2026-08-${String(n).padStart(2, '0')}`;
 
@@ -101,12 +101,8 @@ test('studyRows: 콘텐츠 없는 날은 available=false로 구분된다', () =>
   );
 });
 
-test('checkinTitle/Url: 워크플로 정규식이 받는 형식 그대로 만든다', () => {
-  assert.equal(checkinTitle('2026-08-06', 'ja-n1', 'full'), 'study: 2026-08-06 ja-n1 full');
-  // 워크플로의 파싱 정규식과 동일한 형태
-  const re = /^study:\s*(\d{4}-\d{2}-\d{2})\s+([a-z0-9-]+)\s+([a-z]+)\s*$/;
-  assert.match(checkinTitle('2026-08-06', 'ja-n1', 'full'), re);
-  const url = checkinUrl('2026-08-06', 'en', 'half');
-  assert.ok(url.startsWith('https://github.com/gks930620/daily-language/issues/new?title='));
-  assert.ok(url.includes('study%3A%202026-08-06%20en%20half'), 'URL 인코딩된 제목');
+test('site: API_BASE가 비어 있으면 진도 기능이 꺼진 것으로 판단한다', () => {
+  // 설정 전 기본 상태 — 학습 콘텐츠는 그대로 보이고 진도 영역만 안내로 대체된다.
+  assert.equal(typeof API_BASE, 'string');
+  assert.equal(apiConfigured(), API_BASE.trim().length > 0);
 });
