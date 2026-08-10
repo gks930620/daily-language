@@ -14,7 +14,7 @@ const { issueSession, userIdFromRequest, safeReturnTo, startLogin, verifyTx } = 
   '../src/auth.js'
 );
 const { readCookie, serializeCookie, clearCookie } = await import('../src/cookies.js');
-const { REDIRECT_URI } = await import('../src/config.js');
+const { REDIRECT_URI, resolveDbConfig } = await import('../src/config.js');
 
 // ---------------------------------------------------------------- 입력 검증
 
@@ -172,4 +172,58 @@ test('쿠키: 읽기와 삭제', () => {
   assert.equal(readCookie('a=1', 'dl_session'), null);
   assert.equal(readCookie(undefined, 'dl_session'), null);
   assert.ok(clearCookie('dl_session').includes('Max-Age=0'));
+});
+
+// ---------------------------------------------------------------- DB 접속 정보
+
+test('resolveDbConfig: 항목별 변수(권장) — Spring의 USERNAME/PASSWORD 방식과 같다', () => {
+  assert.deepEqual(
+    resolveDbConfig({
+      DB_HOST: 'mysql.railway.internal',
+      DB_PORT: '3306',
+      DB_USER: 'daily_language',
+      DB_PASSWORD: 'secret',
+      DB_NAME: 'daily_language',
+    }),
+    {
+      host: 'mysql.railway.internal',
+      port: 3306,
+      user: 'daily_language',
+      password: 'secret',
+      database: 'daily_language',
+    }
+  );
+});
+
+test('resolveDbConfig: 비밀번호의 @ : / ? 가 깨지지 않는다 — URL을 거치지 않기 때문', () => {
+  const password = 'p@ss:w/rd?#!';
+  const got = resolveDbConfig({
+    DB_HOST: 'h',
+    DB_USER: 'u',
+    DB_PASSWORD: password,
+    DB_NAME: 'd',
+  });
+  assert.equal(got.password, password, '특수문자가 그대로 살아 있어야 한다');
+  assert.equal(got.port, 3306, 'DB_PORT 생략 시 기본값');
+});
+
+test('resolveDbConfig: DATABASE_URL 한 줄도 받는다(둘 다 있으면 항목별이 이긴다)', () => {
+  assert.deepEqual(resolveDbConfig({ DATABASE_URL: 'mysql://u:p@h:3306/d' }), {
+    uri: 'mysql://u:p@h:3306/d',
+  });
+  const both = resolveDbConfig({
+    DATABASE_URL: 'mysql://old:old@old:3306/old',
+    DB_HOST: 'h',
+    DB_USER: 'u',
+    DB_PASSWORD: 'p',
+    DB_NAME: 'd',
+  });
+  assert.equal(both.host, 'h');
+  assert.equal(both.uri, undefined);
+});
+
+test('resolveDbConfig: 빠진 값이 있으면 무엇이 빠졌는지 알려 준다', () => {
+  assert.throws(() => resolveDbConfig({ DB_HOST: 'h' }), /DB_USER, DB_PASSWORD, DB_NAME/);
+  assert.throws(() => resolveDbConfig({ DB_HOST: 'h', DB_USER: 'u' }), /DB_PASSWORD, DB_NAME/);
+  assert.throws(() => resolveDbConfig({}), /DB 접속 정보가 없습니다/);
 });

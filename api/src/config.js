@@ -18,6 +18,44 @@ function optional(name, fallback) {
 }
 
 /**
+ * DB 접속 정보. 두 가지 방식을 받는다 — 순수 함수라 테스트할 수 있다.
+ *
+ *   ① 항목별(권장): DB_HOST · DB_PORT · DB_USER · DB_PASSWORD · DB_NAME
+ *      기존 Spring의 SPRING_DATASOURCE_USERNAME/PASSWORD와 같은 방식이고,
+ *      **비밀번호에 @ : / ? 같은 문자가 있어도 안전하다**(URL 파싱을 거치지 않는다).
+ *   ② 한 줄: DATABASE_URL = mysql://user:pass@host:port/db
+ *      이미 이 형태로 갖고 있을 때만 쓴다.
+ *
+ * 둘 다 있으면 항목별이 이긴다.
+ */
+export function resolveDbConfig(env = process.env) {
+  const pick = (name) => (env[name] ?? '').trim();
+
+  if (pick('DB_HOST')) {
+    const missing = ['DB_USER', 'DB_PASSWORD', 'DB_NAME'].filter((n) => !pick(n));
+    if (missing.length > 0) {
+      throw new Error(
+        `DB_HOST를 넣었으면 ${missing.join(', ')}도 필요합니다. (Railway Variables 확인)`
+      );
+    }
+    return {
+      host: pick('DB_HOST'),
+      port: Number(pick('DB_PORT') || '3306'),
+      user: pick('DB_USER'),
+      password: pick('DB_PASSWORD'),
+      database: pick('DB_NAME'),
+    };
+  }
+
+  if (pick('DATABASE_URL')) return { uri: pick('DATABASE_URL') };
+
+  throw new Error(
+    'DB 접속 정보가 없습니다. DB_HOST·DB_PORT·DB_USER·DB_PASSWORD·DB_NAME를 넣거나, ' +
+      'DATABASE_URL 한 줄을 넣어 주세요.'
+  );
+}
+
+/**
  * 세션을 어디에 보관할지.
  *
  *   cookie — HttpOnly 쿠키. JS가 읽을 수 없어 XSS에도 안 털린다. **가장 안전하다.**
@@ -56,8 +94,8 @@ export const config = {
   /** cookie 모드에서 쿠키를 공유할 도메인(예: .example.com). 비우면 API 호스트 전용. */
   cookieDomain: optional('COOKIE_DOMAIN', ''),
 
-  /** mysql://user:pass@host:port/db — Railway MySQL이 주는 값. */
-  databaseUrl: required('DATABASE_URL'),
+  /** MySQL 접속 정보(항목별 또는 URL). */
+  db: resolveDbConfig(),
 
   /**
    * 로그인 후 돌아갈 수 있는 사이트. 쉼표로 여러 개.

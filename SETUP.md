@@ -16,7 +16,7 @@
 
 | # | 값 | 어디서 나오나 | 어디에 넣나 |
 |---|---|---|---|
-| ① | **전용 계정 비밀번호** | 내가 직접 정함 (1단계) | `DATABASE_URL` |
+| ① | **전용 계정 비밀번호** | 내가 직접 정함 (1단계) | `DB_PASSWORD` |
 | ② | **Railway API 주소** | Railway가 발급 (3단계) | `PUBLIC_URL` + 구글 콘솔 |
 | ③ | **구글 클라이언트 ID** | 구글 콘솔 (4단계) | `GOOGLE_CLIENT_ID` |
 | ④ | **구글 클라이언트 보안 비밀번호** | 구글 콘솔 (4단계) | `GOOGLE_CLIENT_SECRET` |
@@ -98,18 +98,21 @@ Railway에는 서비스를 묶는 별도의 "연결" 버튼이 없다. **다른 
 
 ```
 SPRING_DATASOURCE_URL="jdbc:mysql://${{total_mysql.MYSQLHOST}}:${{total_mysql.MYSQLPORT}}/businesscard_qr?..."
+SPRING_DATASOURCE_USERNAME="${{total_mysql.MYSQLUSER}}"
+SPRING_DATASOURCE_PASSWORD="${{total_mysql.MYSQLPASSWORD}}"
 ```
 
-이 API도 똑같이 `${{total_mysql.…}}`로 호스트·포트를 가져온다(5단계).
+이 API도 똑같이 **호스트·포트·계정·비밀번호·DB이름을 각각** 넣는다(5단계에 표로 있다).
 
-**다만 계정은 참조하지 않는다.** Spring은 `${{total_mysql.MYSQLUSER}}`·`${{total_mysql.MYSQLPASSWORD}}`를
-그대로 쓰는데 그건 **root**다. 이 API는 1단계에서 만든 전용 계정(`daily_language`)을 직접 적는다 —
-그래야 여기가 뚫려도 `businesscard_qr` 같은 다른 데이터베이스에 닿지 못한다.
+**딱 하나 다른 점 — 계정은 참조하지 않고 직접 적는다.** Spring이 참조하는
+`${{total_mysql.MYSQLUSER}}`·`${{total_mysql.MYSQLPASSWORD}}`는 **root**다. 이 API가 root로 붙으면
+여기가 뚫렸을 때 `businesscard_qr`까지 열린다. 그래서 1단계에서 만든 전용 계정
+(`daily_language`)을 직접 적어, 사고 반경을 이 프로젝트 데이터베이스 안에 가둔다.
 
 | | 호스트·포트 | 계정·비밀번호 |
 |---|---|---|
-| 기존 Spring | `${{total_mysql.…}}` 참조 | `${{total_mysql.…}}` 참조 (= root) |
-| 이 API | `${{total_mysql.…}}` 참조 | **전용 계정을 직접 입력** |
+| 기존 Spring | `${{total_mysql.…}}` 참조 | `${{total_mysql.…}}` 참조 (= root, 인스턴스 전체 권한) |
+| 이 API | `${{total_mysql.…}}` 참조 | **전용 계정을 직접 입력** (daily_language DB에만 권한) |
 
 지킬 것 두 가지:
 
@@ -179,42 +182,50 @@ SPRING_DATASOURCE_URL="jdbc:mysql://${{total_mysql.MYSQLHOST}}:${{total_mysql.MY
 openssl rand -base64 32
 ```
 
-Railway → 2단계에서 만든 **API 서비스** → **Variables** 탭에 아래를 넣는다.
+Railway → 2단계에서 만든 **API 서비스** → **Variables** 탭에 아래 **10개**를 넣는다.
 
-기존 Spring 서비스와 같은 방식으로 `${{total_mysql.…}}` 참조를 쓴다(2단계 설명 참고).
-호스트를 손으로 적지 않으므로 나중에 MySQL이 옮겨져도 따라간다.
-**`total_mysql`은 지금 MySQL 서비스의 이름이다** — 이름을 바꾸면 여기도 같이 고친다.
+`${{total_mysql.…}}` 부분은 기존 Spring 서비스와 같은 참조 방식이다(2단계 설명 참고).
+`total_mysql`은 지금 MySQL 서비스의 이름이다 — 이름이 다르면 그에 맞게 바꾼다.
+
+**① 구글 로그인**
 
 | 이름 | 값 |
 |---|---|
 | `GOOGLE_CLIENT_ID` | 값 ③ (`....apps.googleusercontent.com`) |
 | `GOOGLE_CLIENT_SECRET` | 값 ④ |
+
+**② 이 서비스 자신**
+
+| 이름 | 값 |
+|---|---|
 | `PUBLIC_URL` | 값 ② — **끝에 `/` 없이** (`https://xxxx.up.railway.app`) |
-| `SESSION_SECRET` | 값 ⑤ |
-| `DATABASE_URL` | 아래 참조 |
+| `SESSION_SECRET` | 값 ⑤ (`openssl rand -base64 32`) |
 | `ALLOWED_ORIGINS` | `https://gks930620.github.io` |
 
-`DATABASE_URL`은 **내부 주소**(`MYSQLHOST` = 내부 도메인)로 붙는다. 같은 프로젝트 안이라 더 빠르고
-외부로 나가지 않는다. 계정은 1단계에서 만든 **전용 계정**이고(root 참조를 쓰지 않는다),
-데이터베이스는 `railway`나 `businesscard_qr`가 아니라 **`daily_language`**다.
+**③ DB 접속 — 항목별로 나눠 넣는다**
 
-```
-mysql://daily_language:①@${{total_mysql.MYSQLHOST}}:${{total_mysql.MYSQLPORT}}/daily_language
-```
+| 이름 | 값 | 설명 |
+|---|---|---|
+| `DB_HOST` | `${{total_mysql.MYSQLHOST}}` | 참조 — 내부 주소 |
+| `DB_PORT` | `${{total_mysql.MYSQLPORT}}` | 참조 — 보통 3306 |
+| `DB_USER` | `daily_language` | **직접 입력** (root 아님) |
+| `DB_PASSWORD` | 값 ① | **직접 입력** — 1단계에서 정한 비밀번호 |
+| `DB_NAME` | `daily_language` | **직접 입력** — `railway`나 `businesscard_qr` 아님 |
 
-`①` 자리에 1단계에서 정한 비밀번호를 넣는다. 비밀번호에 `@ : / ?` 가 있으면 URL이 깨지므로
-**영문·숫자로만** 만드는 게 안전하다.
+비밀번호에 `@ : / ?` 같은 문자가 있어도 괜찮다. 항목별로 받기 때문에 URL 파싱을 거치지 않는다.
 
-> 내부 주소로 연결이 안 되면(드물다) 공개 프록시로 바꿔 본다:
-> `mysql://daily_language:①@${{total_mysql.RAILWAY_TCP_PROXY_DOMAIN}}:${{total_mysql.RAILWAY_TCP_PROXY_PORT}}/daily_language`
+> **한 줄로 넣고 싶다면**: `DB_*` 다섯 개 대신 `DATABASE_URL` 하나만 넣어도 된다.
+> `mysql://daily_language:비밀번호@${{total_mysql.MYSQLHOST}}:${{total_mysql.MYSQLPORT}}/daily_language`
+> 이 경우엔 비밀번호에 특수문자가 있으면 URL이 깨지므로 영문·숫자로만 만든다.
+> 둘 다 넣으면 `DB_*`가 우선한다.
 
-⚠️ **기존 MySQL 서비스의 변수(`MYSQL_URL`·`MYSQLUSER` 등)는 건드리지 않는다.** 그건 기존 프로젝트가
-쓰는 값이고, 여기에 필요한 건 위 `DATABASE_URL` 하나뿐이다.
+⚠️ **기존 MySQL 서비스(`total_mysql`)의 변수는 건드리지 않는다.** 그건 기존 프로젝트가 쓰는 값이다.
+여기서 하는 일은 API 서비스 쪽에 변수를 넣는 것뿐이다.
 
 > `PORT`는 Railway가 자동으로 넣어 준다. 직접 넣지 않는다.
 > `SESSION_SECRET`을 바꾸면 모든 사용자가 로그아웃된다(기록은 그대로 남는다).
 
-- [ ] 환경변수 6개 입력함
+- [ ] 환경변수 10개 입력함 (DB_* 다섯 개 포함)
 - [ ] 자동 재배포되어 초록불(Active)로 바뀜
 
 ---
@@ -309,6 +320,8 @@ Railway 서비스 → **Deployments → 로그**를 먼저 본다. 원인이 대
 | 구글이 **`access_denied`** / 접근 차단 | 동의 화면이 테스트 상태인데 그 계정이 테스트 사용자에 없다. 계정 추가하거나 앱 게시 |
 | `/health`가 **`{"ok":false,...}`** | `DATABASE_URL`이 틀렸거나 DB 권한 문제. 비밀번호·호스트·포트 확인, 1단계 SQL이 실제로 실행됐는지 확인 |
 | 로그에 **`환경변수 XXX이(가) 없습니다`** | 5단계에서 그 변수가 빠졌다 |
+| 로그에 **`DB 접속 정보가 없습니다`** | `DB_HOST`~`DB_NAME` 다섯 개를 넣었는지 확인(또는 `DATABASE_URL` 한 줄) |
+| 로그에 **`DB_HOST를 넣었으면 …도 필요합니다`** | 메시지에 적힌 변수가 빠졌다 |
 | 배포가 계속 실패 | Root Directory가 `api`인지 확인 (저장소 전체를 빌드하려다 실패하는 경우가 많다) |
 | 로그인 후 **`?login=failed`** 로 돌아옴 | 로그에 실제 사유가 찍힌다. 대개 리디렉션 URI 불일치나 쿠키 차단(시크릿 모드에서 재시도) |
 

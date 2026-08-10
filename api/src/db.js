@@ -8,7 +8,7 @@ let pool = null;
 function getPool() {
   if (!pool) {
     pool = mysql.createPool({
-      uri: config.databaseUrl,
+      ...config.db, // 항목별(host/user/password/…) 또는 { uri } — config.js가 정리해 준다
       waitForConnections: true,
       // 이 MySQL 인스턴스는 다른 프로젝트와 함께 쓴다. 커넥션 하나하나가 DB 쪽 메모리를
       // 잡아먹으므로 최소한만 열고, 놀고 있는 커넥션은 빨리 돌려준다.

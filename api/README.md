@@ -78,7 +78,8 @@ Railway MySQL에 접속해 [`schema.sql`](schema.sql)을 실행한다. 실행 �
 | `GOOGLE_CLIENT_SECRET` | 1단계의 클라이언트 보안 비밀번호 | ✅ |
 | `PUBLIC_URL` | 이 서비스의 공개 주소 (`https://xxx.up.railway.app`, 끝에 `/` 없이) | ✅ |
 | `SESSION_SECRET` | 32자 이상 랜덤 문자열. `openssl rand -base64 32` | ✅ |
-| `DATABASE_URL` | `mysql://daily_language:<비밀번호>@<host>:<port>/daily_language` | ✅ |
+| `DB_HOST` `DB_PORT` `DB_USER` `DB_PASSWORD` `DB_NAME` | MySQL 접속 정보(항목별 — 권장). 비밀번호에 특수문자가 있어도 안전하다 | ✅ |
+| `DATABASE_URL` | 위 다섯 개 대신 한 줄로: `mysql://user:pass@host:port/db`. 둘 다 있으면 `DB_*`가 이긴다 | ⬜ |
 | `ALLOWED_ORIGINS` | `https://gks930620.github.io` (쉼표로 여러 개) | ✅ |
 | `AUTH_MODE` | `token` (기본값) 또는 `cookie` — 아래 설명 참고 | ⬜ |
 | `SESSION_DAYS` | 로그인 유지 일수, 기본 30 | ⬜ |
