@@ -1,8 +1,9 @@
 -- schema.sql — 진도 기록용 스키마. Railway MySQL에 한 번만 실행한다.
 --
--- 기존 프로젝트와 같은 인스턴스를 쓰되 **데이터베이스와 계정을 분리**한다.
--- 이 프로젝트에 문제가 생겨도 다른 프로젝트 데이터는 건드릴 수 없게 하는 것이 핵심이다.
--- (root 계정을 재사용하면 그 격리가 사라진다.)
+-- total_mysql 인스턴스를 그대로 쓰되 **데이터베이스와 계정을 분리**한다.
+-- 이 인스턴스에는 이미 railway·businesscard_qr(기존 Spring 프로젝트)가 들어 있고,
+-- 그 옆에 daily_language를 추가하는 것이다. 기존 데이터베이스는 건드리지 않는다.
+-- 계정도 나눈다 — root를 재사용하면 이 API가 뚫렸을 때 businesscard_qr까지 노출된다.
 
 CREATE DATABASE IF NOT EXISTS daily_language
   CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;

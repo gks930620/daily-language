@@ -32,9 +32,10 @@
 더 만들어 기존 `railway` 데이터베이스와 나란히 둔다.
 
 ```
-Railway MySQL 인스턴스 (기존)
-├── railway            ← 기존 프로젝트 (그대로 둔다)
-└── daily_language     ← 이번에 만든다
+total_mysql 인스턴스 (기존 — 여러 프로젝트가 이미 나눠 쓰고 있다)
+├── railway            ← Railway 기본 데이터베이스
+├── businesscard_qr    ← 기존 Spring 프로젝트 (그대로 둔다)
+└── daily_language     ← 이번에 추가한다
 ```
 
 ### (1) 접속
@@ -90,23 +91,37 @@ SHOW TABLES IN daily_language;      -- users, study_log
 > 지금 단계에서 **배포가 실패하는 게 정상이다.** 환경변수가 아직 없어서
 > `환경변수 GOOGLE_CLIENT_ID이(가) 없습니다` 같은 로그를 남기고 죽는다. 5단계에서 해결된다.
 
-### DB를 따로 "연결"하는 절차는 없다
+### DB 연결 = 참조 변수 (기존 Spring과 같은 방식)
 
-Railway에는 서비스끼리 묶는 별도의 연결 버튼이 필요 없다. **같은 프로젝트·같은 환경 안에 있으면
-내부 네트워크로 이미 서로 닿는다.** 실제 연결은 5단계에서 넣는 `DATABASE_URL` 한 줄이 전부다.
+Railway에는 서비스를 묶는 별도의 "연결" 버튼이 없다. **다른 서비스의 값을 `${{서비스이름.변수}}`로
+참조하는 것이 곧 연결**이다. 기존 Spring 서비스가 이렇게 하고 있는 것과 같다.
 
-단 두 가지만 지키면 된다.
+```
+SPRING_DATASOURCE_URL="jdbc:mysql://${{total_mysql.MYSQLHOST}}:${{total_mysql.MYSQLPORT}}/businesscard_qr?..."
+```
 
-1. **MySQL과 같은 프로젝트, 같은 환경(environment)에 만들 것.** 다른 프로젝트에 만들면
-   내부 주소(`RAILWAY_PRIVATE_DOMAIN`)가 안 잡히고, 공개 프록시 주소로 붙어야 한다.
-2. **서비스 이름을 정확히 쓸 것.** `${{MySQL.RAILWAY_PRIVATE_DOMAIN}}`의 `MySQL`은
-   대시보드에 보이는 이름 그대로여야 한다(대소문자 구분).
+이 API도 똑같이 `${{total_mysql.…}}`로 호스트·포트를 가져온다(5단계).
 
-Variables 화면에서 직접 타이핑하는 대신 **Add Reference(또는 Connect)** 로 MySQL 서비스의 변수를
-골라도 된다 — 결과는 같은 `${{...}}` 참조다.
+**다만 계정은 참조하지 않는다.** Spring은 `${{total_mysql.MYSQLUSER}}`·`${{total_mysql.MYSQLPASSWORD}}`를
+그대로 쓰는데 그건 **root**다. 이 API는 1단계에서 만든 전용 계정(`daily_language`)을 직접 적는다 —
+그래야 여기가 뚫려도 `businesscard_qr` 같은 다른 데이터베이스에 닿지 못한다.
 
-> 내부 네트워크는 컨테이너가 뜬 직후 아주 잠깐 준비 중일 수 있다. 이 API는 **첫 질의 때** DB에
-> 붙기 때문에(부팅만으로는 붙지 않는다) 그 시점에는 이미 준비가 끝나 있다.
+| | 호스트·포트 | 계정·비밀번호 |
+|---|---|---|
+| 기존 Spring | `${{total_mysql.…}}` 참조 | `${{total_mysql.…}}` 참조 (= root) |
+| 이 API | `${{total_mysql.…}}` 참조 | **전용 계정을 직접 입력** |
+
+지킬 것 두 가지:
+
+1. **MySQL과 같은 프로젝트, 같은 환경(environment)에 만들 것.** 다른 프로젝트에 만들면 참조가
+   해석되지 않는다.
+2. **서비스 이름을 정확히 쓸 것** — 지금은 `total_mysql`이다(대소문자 구분). 이름을 바꾸면 참조도
+   같이 고쳐야 한다.
+
+직접 타이핑 대신 Variables 화면의 **Add Reference**로 골라도 된다 — 결과는 같은 `${{...}}`다.
+
+> 내부 네트워크는 컨테이너가 뜬 직후 잠깐 준비 중일 수 있다. 이 API는 **첫 질의 때** DB에 붙기
+> 때문에(부팅만으로는 붙지 않는다) 그 시점에는 이미 준비가 끝나 있다.
 
 ---
 
@@ -166,9 +181,9 @@ openssl rand -base64 32
 
 Railway → 2단계에서 만든 **API 서비스** → **Variables** 탭에 아래를 넣는다.
 
-Railway는 다른 서비스의 값을 `${{서비스이름.변수명}}`으로 참조할 수 있다. 호스트를 손으로 적지 말고
-참조로 걸어 두면 나중에 MySQL이 옮겨져도 따라간다. 아래 `MySQL`은 **내 MySQL 서비스의 실제 이름**으로
-바꾼다(대시보드에 보이는 이름 그대로).
+기존 Spring 서비스와 같은 방식으로 `${{total_mysql.…}}` 참조를 쓴다(2단계 설명 참고).
+호스트를 손으로 적지 않으므로 나중에 MySQL이 옮겨져도 따라간다.
+**`total_mysql`은 지금 MySQL 서비스의 이름이다** — 이름을 바꾸면 여기도 같이 고친다.
 
 | 이름 | 값 |
 |---|---|
@@ -179,18 +194,19 @@ Railway는 다른 서비스의 값을 `${{서비스이름.변수명}}`으로 참
 | `DATABASE_URL` | 아래 참조 |
 | `ALLOWED_ORIGINS` | `https://gks930620.github.io` |
 
-`DATABASE_URL`은 **내부 주소**로 붙는다. 같은 프로젝트 안이라 더 빠르고 외부로 나가지 않는다.
-계정은 1단계에서 만든 **전용 계정**, 데이터베이스는 `railway`가 아니라 **`daily_language`**다.
+`DATABASE_URL`은 **내부 주소**(`MYSQLHOST` = 내부 도메인)로 붙는다. 같은 프로젝트 안이라 더 빠르고
+외부로 나가지 않는다. 계정은 1단계에서 만든 **전용 계정**이고(root 참조를 쓰지 않는다),
+데이터베이스는 `railway`나 `businesscard_qr`가 아니라 **`daily_language`**다.
 
 ```
-mysql://daily_language:①@${{MySQL.RAILWAY_PRIVATE_DOMAIN}}:3306/daily_language
+mysql://daily_language:①@${{total_mysql.MYSQLHOST}}:${{total_mysql.MYSQLPORT}}/daily_language
 ```
 
 `①` 자리에 1단계에서 정한 비밀번호를 넣는다. 비밀번호에 `@ : / ?` 가 있으면 URL이 깨지므로
 **영문·숫자로만** 만드는 게 안전하다.
 
 > 내부 주소로 연결이 안 되면(드물다) 공개 프록시로 바꿔 본다:
-> `mysql://daily_language:①@${{MySQL.RAILWAY_TCP_PROXY_DOMAIN}}:${{MySQL.RAILWAY_TCP_PROXY_PORT}}/daily_language`
+> `mysql://daily_language:①@${{total_mysql.RAILWAY_TCP_PROXY_DOMAIN}}:${{total_mysql.RAILWAY_TCP_PROXY_PORT}}/daily_language`
 
 ⚠️ **기존 MySQL 서비스의 변수(`MYSQL_URL`·`MYSQLUSER` 등)는 건드리지 않는다.** 그건 기존 프로젝트가
 쓰는 값이고, 여기에 필요한 건 위 `DATABASE_URL` 하나뿐이다.
