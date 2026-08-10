@@ -1,5 +1,8 @@
 # SETUP.md — 진도 기록 켜기
 
+> ✅ **2026-08-10 설정 완료.** 아래는 처음부터 다시 하거나 다른 곳에 옮길 때 쓰는 절차다.
+> 현재 API 주소: `https://daily-language-production.up.railway.app`
+
 위에서부터 순서대로 따라 하면 된다. **손으로 SQL 실행할 것 없다.**
 데이터베이스(`daily_language`)와 테이블은 서버가 처음 켜질 때 자동으로 만든다 —
 Spring이 `createDatabaseIfNotExist=true`로 `businesscard_qr`를 만든 것과 같다.

@@ -12,7 +12,7 @@ export const REPO = 'gks930620/daily-language';
  *
  * 예: 'https://daily-language-api.up.railway.app'
  */
-export const API_BASE = '';
+export const API_BASE = 'https://daily-language-production.up.railway.app';
 
 /** 진도 기록 기능을 켤 수 있는 상태인가. */
 export function apiConfigured() {

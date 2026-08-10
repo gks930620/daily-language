@@ -2,9 +2,19 @@
 
 > 갱신 규칙: 작업 단위가 끝날 때마다 이 파일을 갱신하고 커밋·push한다. 새 세션은 이 파일 + `git log --oneline -15`로 상태를 복원한다.
 
-**마지막 갱신**: 2026-08-10
+**마지막 갱신**: 2026-08-10 (진도 기록 가동)
 
-## 최신 (2026-08-10) — 진도 기록을 다중 사용자로: 구글 OAuth + Railway MySQL
+## 최신 (2026-08-10) — 진도 기록 기능 **가동 시작**
+
+Railway API 배포 완료, 사이트 연결 완료. 이제 실제로 동작한다.
+
+- API: `https://daily-language-production.up.railway.app` (Railway 서비스 `daily-language`, Root Directory `api`)
+- DB: `total_mysql` 인스턴스 안의 `daily_language` 스키마(테이블 users·study_log)
+- `scripts/lib/site.js`의 `API_BASE`에 주소를 넣어 프런트와 연결 — 이 값이 비면 진도 영역이 "설정 안 됨"으로 렌더되고 학습 콘텐츠는 그대로 나온다(안전한 기본값).
+- 배포 검증(실제 호출): `/health` = {"ok":true}, `/auth/me` = {"loggedIn":false}, `/auth/start` → 구글 302(redirect_uri가 PUBLIC_URL과 일치, PKCE S256·state 있음, client_secret 미노출), CORS는 github.io만 허용·타 출처 차단, 미인증 `PUT /study` → 401.
+- 사이트 검증: docs 링크·자산 579개 전부 유효, day 페이지마다 진도 버튼 3개, 테스트 66+18 통과.
+
+## (이전) 2026-08-10 — 구글 OAuth + Railway MySQL 구축
 
 **코드는 전부 완성됐고, 켜는 것만 남았다.** 사용자가 구글 콘솔·Railway 설정을 마치고 API 주소를 연결하면 동작한다 → **[SETUP.md](SETUP.md)**.
 
