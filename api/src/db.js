@@ -44,6 +44,12 @@ export async function upsertUser({ sub, email, name }) {
   return rows[0].id;
 }
 
+/** 사용자 1명 조회(로그인 상태 확인용). 없으면 null. */
+export async function findUser(userId) {
+  const rows = await query('SELECT id, email, name FROM users WHERE id = ?', [userId]);
+  return rows[0] ?? null;
+}
+
 /**
  * 진도 1건 기록. 같은 (사용자, 날짜, 트랙)이면 덮어쓴다 — "나중 기록이 이긴다".
  * user_id는 **호출자가 토큰에서 꺼낸 값**이다. 클라이언트가 보낸 값을 쓰면 안 된다.
