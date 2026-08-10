@@ -42,6 +42,7 @@ node scripts/verify.js --lang en       # 커밋 전 게이트 (실패 시 exit 1
 |---|---|
 | `SETUP.md` | **진도 기록 기능을 켜려면**(사용자가 직접 해야 하는 구글 OAuth·Railway 설정 체크리스트) |
 | `api/README.md` | 진도 기록 API의 설계·엔드포인트·AUTH_MODE를 알아야 할 때 |
+| `DB-SCHEMA.md` | MySQL의 데이터베이스=스키마 관계와 Oracle·PostgreSQL과의 차이(용어 혼동 정리) |
 | `README.md` | 사용자 관점·최초 설정·문제 해결이 궁금할 때 |
 | `ARCHITECTURE.md` | 코드를 고치기 전(상태 스키마·트랙 축·설계 결정 근거 [A1]~[A12]) |
 | `PLAN.md` | 범위 판단이 필요할 때(v1/v2 경계, 확정 결정, 리스크) |

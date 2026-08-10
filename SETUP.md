@@ -131,3 +131,6 @@ Railway → daily-language → **Deployments → 로그**를 본다.
 | 로그인 후 `?login=failed` | 로그에 사유가 찍힌다. 대개 리디렉션 URI 불일치 |
 
 그 밖의 것(전용 DB 계정으로 바꾸기, AUTH_MODE, sleeping)은 [`api/README.md`](api/README.md)에.
+
+> MySQL의 데이터베이스와 스키마가 왜 같은 말인지, Oracle·PostgreSQL과 어떻게 다른지는
+> [DB-SCHEMA.md](DB-SCHEMA.md)에 정리해 뒀다.
