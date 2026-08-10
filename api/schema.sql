@@ -1,4 +1,11 @@
--- schema.sql — 진도 기록용 스키마. Railway MySQL에 한 번만 실행한다.
+-- schema.sql — **보통은 실행할 필요가 없다.**
+--
+-- 데이터베이스(daily_language)와 테이블은 API 서버가 기동할 때 자동으로 만든다
+-- (src/db.js의 ensureSchema — JDBC의 createDatabaseIfNotExist와 같은 일).
+--
+-- 이 파일이 필요한 경우는 하나뿐이다: root 대신 **전용 계정**으로 접속하고 싶을 때.
+-- 계정 생성(CREATE USER)만은 서버가 못 하기 때문이다. 자세한 건 api/README.md의
+-- "전용 DB 계정으로 바꾸기" 절 참고.
 --
 -- total_mysql 인스턴스를 그대로 쓰되 **데이터베이스와 계정을 분리**한다.
 -- 이 인스턴스에는 이미 railway·businesscard_qr(기존 Spring 프로젝트)가 들어 있고,
