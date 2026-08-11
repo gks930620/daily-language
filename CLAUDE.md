@@ -2,14 +2,15 @@
 
 **진행 중 작업이 있는지 먼저 `PROGRESS.md`를 확인하라** (체크포인트 문서 — 미완 작업과 이어받는 법).
 
-**목적 한 줄**: 매일 아침 GitHub Actions(`.github/workflows/daily.yml`)가 트랙별(en·ja-n1·ja-n2) 학습 페이지(오늘의 문단 + 단어 15)를 자동 생성해 GitHub Pages에 올리는 파이프라인. 사용자는 페이지 하단 버튼으로 그날 진도(조금/절반/다 함)를 기록하고 `docs/me/`에서 누적을 본다. AI 단계는 `claude -p` + 구독 토큰(`CLAUDE_CODE_OAUTH_TOKEN` 시크릿). 콘텐츠는 기초 완료자 대상 "매일 30분·흥미 유지"용(ja는 JLPT N1/N2 취득자 두 난이도).
+**목적 한 줄**: 매일 아침 GitHub Actions(`.github/workflows/daily.yml`)가 트랙별(en·ja-n1·ja-n2) 학습 페이지(오늘의 문단 + 단어 15)를 자동 생성해 GitHub Pages에 올리는 파이프라인. 사용자는 구글 로그인 후 페이지 하단 버튼으로 그날 진도(조금/절반/다 함)를 기록하고 `docs/me/`에서 누적을 본다(기록은 Railway API + MySQL — `api/`, 설정은 `SETUP.md`). AI 단계는 `claude -p` + 구독 토큰(`CLAUDE_CODE_OAUTH_TOKEN` 시크릿). 콘텐츠는 기초 완료자 대상 "매일 30분·흥미 유지"용(ja는 JLPT N1/N2 취득자 두 난이도).
 
 ## 절대 규칙
 
 1. **AI(generate 단계)는 `data/<lang>/<날짜>/content.json` 하나만 만든다.** 다른 파일 생성·수정 금지.
-2. **상태 파일마다 작성자는 하나다.** `state/<lang>/words.json`(단어 장부)은 `scripts/settle.js`뿐, `state/study-log.json`(공부 진도)은 `scripts/checkin.js`뿐이다. 손으로도, 다른 스크립트로도 고치지 않는다. 장부는 "이 단어가 이미 나왔는가"만 답한다 — **복습·SRS는 이 저장소에 없다**(2026-08-04 제거, ARCHITECTURE.md [A10]). 화면에 없는 기능의 상태를 되살리지 말 것.
+2. **`state/<lang>/words.json`(단어 장부)을 쓰는 것은 `scripts/settle.js`뿐이다.** 손으로도, 다른 스크립트로도 고치지 않는다. 공부 진도는 이 저장소가 아니라 **Railway API가 MySQL에** 저장한다(`api/`). 장부는 "이 단어가 이미 나왔는가"만 답한다 — **복습·SRS는 이 저장소에 없다**(2026-08-04 제거, ARCHITECTURE.md [A10]). 화면에 없는 기능의 상태를 되살리지 말 것.
 3. **날짜는 `scripts/lib/dates.js`만 계산한다.** 어디서도 `new Date()`로 날짜 문자열을 직접 만들지 않는다(KST 고정).
-4. **`docs/`는 빌드 산출물이다.** 직접 수정 금지 — 고칠 것은 `scripts/lib/html.js`·`docs/assets/style.css`(예외: style.css는 소스임)이고, `node scripts/build.js`로 재생성한다.
+4. **`docs/`는 빌드 산출물이다.** 직접 수정 금지 — 고칠 것은 `scripts/lib/html.js`·`docs/assets/style.css`·`docs/assets/halo-tokens.css`(이 CSS 둘은 예외적으로 소스)이고, `node scripts/build.js`로 재생성한다.
+   - **디자인: Halo** — 원칙은 `디자인_Halo/halo-design-kit/HALO-디자인-가이드.md`. **단일 출처는 `halo-tokens.css`의 토큰**이니 새 컴포넌트는 토큰만 조합해 만들고 색·그림자·둥글기를 하드코딩하지 않는다(하드코딩하면 다크 모드가 그 부분만 깨진다).
 5. 외부 의존성 추가 금지(Node 내장만). **학습 콘텐츠는 JS 0줄** — 접기/펼치기는 `<details>`로 해결한다.
    - docs/의 JS는 `assets/app.js`(진도 기록) **하나뿐**이고 여기서 늘리지 않는다. 이 파일이 실패해도 문단·단어는 그대로 보여야 한다.
    - `docs/assets/studylog.js`·`config.js`·`days.json`은 **빌드 산출물**이다(직접 수정 금지).
@@ -48,4 +49,3 @@ node scripts/verify.js --lang en       # 커밋 전 게이트 (실패 시 exit 1
 | `PLAN.md` | 범위 판단이 필요할 때(v1/v2 경계, 확정 결정, 리스크) |
 | `prompts/generator.en.md` / `prompts/generator.ja.md` | generate 단계의 콘텐츠 품질 기준(ja는 ja-n1·ja-n2 공유, 난이도 캘리브레이션 표 내장) |
 | `.github/workflows/daily.yml` | 실제 매일 실행 경로(주 경로). en → ja-n1 → ja-n2 블록, 트랙별 커밋·트랙별 독립 실행 |
-| `.github/workflows/checkin.yml` | 공부 진도 체크인(이슈 → 기록 → 재빌드). 제목 형식의 단일 소스는 `scripts/lib/site.js` |
