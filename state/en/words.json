@@ -855,6 +855,51 @@
     },
     "commensurate": {
       "added_on": "2026-08-10"
+    },
+    "credential": {
+      "added_on": "2026-08-12"
+    },
+    "accreditation": {
+      "added_on": "2026-08-12"
+    },
+    "apprenticeship": {
+      "added_on": "2026-08-12"
+    },
+    "vocational": {
+      "added_on": "2026-08-12"
+    },
+    "tuition": {
+      "added_on": "2026-08-12"
+    },
+    "enrollment": {
+      "added_on": "2026-08-12"
+    },
+    "attainment": {
+      "added_on": "2026-08-12"
+    },
+    "proxy": {
+      "added_on": "2026-08-12"
+    },
+    "aptitude": {
+      "added_on": "2026-08-12"
+    },
+    "meritocracy": {
+      "added_on": "2026-08-12"
+    },
+    "prerequisite": {
+      "added_on": "2026-08-12"
+    },
+    "devalue": {
+      "added_on": "2026-08-12"
+    },
+    "exacerbate": {
+      "added_on": "2026-08-12"
+    },
+    "bolster": {
+      "added_on": "2026-08-12"
+    },
+    "outset": {
+      "added_on": "2026-08-12"
     }
   }
 }

@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-12",
+  "passage_note": "교육·노동 — 학력 인플레이션과 학위 요건을 걷어내려는 시도(논설)",
+  "sentences": [
+    {
+      "en": "For decades, a university degree functioned as a reliable proxy for competence, sparing employers the trouble of assessing applicants they could not otherwise evaluate.",
+      "ko": "수십 년 동안 대학 학위는 능력을 가늠하는 믿을 만한 대리 지표로 기능하며, 달리 평가할 방법이 없는 지원자들을 일일이 살펴봐야 하는 수고를 고용주에게서 덜어 주었다.",
+      "structure": "· sparing ~ : 분사구문(= and it spared ~). 주절과 동시에 따라오는 결과를 나타낸다.\n· spare A B : 4형식으로 'A에게서 B(수고·고생)를 덜어 주다'.\n· applicants (whom) they could not otherwise evaluate : 목적격 관계대명사 생략. otherwise = '(학위가 없다면) 다른 방법으로는'.",
+      "vocab_notes": [
+        { "word": "decade", "ko": "10년" },
+        { "word": "degree", "ko": "학위" },
+        { "word": "function as", "ko": "~로서 기능하다, ~ 역할을 하다" },
+        { "word": "reliable", "ko": "믿을 만한, 신뢰할 수 있는" },
+        { "word": "proxy", "ko": "대리 지표, 대신 쓰는 척도" },
+        { "word": "competence", "ko": "능력, 역량" },
+        { "word": "spare", "ko": "(수고·고생을) 덜어 주다" },
+        { "word": "employer", "ko": "고용주" },
+        { "word": "assess", "ko": "평가하다, 가늠하다" },
+        { "word": "applicant", "ko": "지원자" },
+        { "word": "otherwise", "ko": "달리, 다른 방법으로는" }
+      ]
+    },
+    {
+      "en": "As enrollment expanded and tuition climbed, however, the signal grew noisier: when nearly everyone holds a credential, holding one distinguishes no one.",
+      "ko": "그러나 대학 등록자가 늘고 등록금이 치솟으면서 그 신호는 점점 흐릿해졌다. 거의 모두가 자격증을 가진 상황에서는, 자격증을 가진다는 것이 아무도 돋보이게 해 주지 못한다.",
+      "structure": "· As ~ : '~함에 따라'를 뜻하는 접속사(시간·비례). expanded와 climbed 두 동사가 and로 병렬.\n· grew noisier : grow + 비교급 형용사 = '점점 더 ~해지다'(2형식).\n· 콜론(:) 뒤 문장은 앞의 the signal grew noisier를 구체적으로 풀어 주는 자리다.\n· holding one distinguishes no one : 동명사 holding이 주어(단수 취급 → distinguishes).",
+      "vocab_notes": [
+        { "word": "enrollment", "ko": "등록, 등록자 수" },
+        { "word": "expand", "ko": "확대되다, 늘어나다" },
+        { "word": "tuition", "ko": "등록금, 수업료" },
+        { "word": "climb", "ko": "(값이) 오르다" },
+        { "word": "signal", "ko": "신호 (여기서는 '능력을 알려 주는 표시')" },
+        { "word": "noisy", "ko": "잡음이 많은, (신호가) 흐릿한" },
+        { "word": "nearly", "ko": "거의" },
+        { "word": "hold", "ko": "(자격·지위를) 보유하다" },
+        { "word": "credential", "ko": "자격증, 자격 요건" },
+        { "word": "distinguish", "ko": "구별해 주다, 돋보이게 하다" }
+      ]
+    },
+    {
+      "en": "Employers responded not by abandoning the filter but by raising it, quietly appending degree requirements to jobs that had never demanded them — a practice critics call credential inflation.",
+      "ko": "고용주들은 그 걸름망을 버리는 것이 아니라 오히려 높이는 것으로 대응했고, 한 번도 학위를 요구한 적이 없던 일자리에까지 슬그머니 학위 요건을 덧붙였다. 비판자들이 학력 인플레이션이라 부르는 관행이다.",
+      "structure": "· not by A but by B : 'A함으로써가 아니라 B함으로써' — 상관접속사 not A but B가 전치사구 둘을 연결.\n· appending ~ : 분사구문(= and they quietly appended ~).\n· that had never demanded them : 주격 관계대명사절. 과거완료로 '덧붙이던 시점보다 더 앞선 과거'를 나타낸다.\n· a practice (which) critics call credential inflation : 앞 내용 전체를 받는 동격 명사구 + 목적격 관계대명사 생략. call A B(5형식)의 B가 앞으로 나간 형태.",
+      "vocab_notes": [
+        { "word": "respond", "ko": "대응하다, 반응하다" },
+        { "word": "abandon", "ko": "버리다, 포기하다" },
+        { "word": "filter", "ko": "걸름망, 선별 장치" },
+        { "word": "raise", "ko": "(기준을) 높이다" },
+        { "word": "quietly", "ko": "조용히, 슬그머니" },
+        { "word": "append", "ko": "덧붙이다, 추가하다" },
+        { "word": "requirement", "ko": "요건, 필요 조건" },
+        { "word": "demand", "ko": "요구하다" },
+        { "word": "practice", "ko": "관행" },
+        { "word": "critic", "ko": "비판자" },
+        { "word": "credential inflation", "ko": "학력 인플레이션(자격 요건의 남발)" }
+      ]
+    },
+    {
+      "en": "The consequences fall hardest on those least able to absorb them, since workers whose aptitude is evident but whose paperwork is not are screened out before anyone examines what they can actually do.",
+      "ko": "그 여파는 그것을 감당할 힘이 가장 없는 사람들에게 가장 무겁게 떨어진다. 소질은 분명하지만 서류상 자격은 그렇지 못한 노동자들이, 실제로 무엇을 할 수 있는지 누가 들여다보기도 전에 걸러져 나가기 때문이다.",
+      "structure": "· fall on : '(부담·책임이) ~에게 돌아가다'. hardest는 부사 hard의 최상급.\n· those (who are) least able to absorb them : 「주격 관계대명사 + be동사」 생략. those = '~한 사람들'.\n· workers whose aptitude is evident but whose paperwork is not : 소유격 관계대명사 whose 두 개가 but으로 병렬. is not 뒤에 evident가 생략됐다.\n· 문장의 진짜 동사는 are screened out(수동태)이다 — 긴 관계사절 뒤에 나오므로 주어 workers와 연결해 읽는다.\n· what they can actually do : 관계대명사 what이 이끄는 명사절(examines의 목적어).",
+      "vocab_notes": [
+        { "word": "consequence", "ko": "결과, 여파" },
+        { "word": "fall on", "ko": "(부담이) ~에게 떨어지다" },
+        { "word": "absorb", "ko": "감당하다, 흡수하다" },
+        { "word": "aptitude", "ko": "소질, 적성" },
+        { "word": "evident", "ko": "분명한, 뚜렷한" },
+        { "word": "paperwork", "ko": "서류(상의 자격), 서류 작업" },
+        { "word": "screen out", "ko": "걸러 내다, 탈락시키다" },
+        { "word": "examine", "ko": "살펴보다, 검토하다" },
+        { "word": "actually", "ko": "실제로" }
+      ]
+    },
+    {
+      "en": "A handful of governments have begun stripping degree prerequisites from public postings and expanding apprenticeships, though whether such gestures can dislodge a habit this entrenched remains an open question.",
+      "ko": "일부 정부는 공공 부문 채용 공고에서 학위 필수 요건을 걷어 내고 도제식 직업 훈련을 확대하기 시작했다. 다만 그런 조치들이 이토록 굳어진 관행을 밀어낼 수 있을지는 여전히 미지수다.",
+      "structure": "· stripping ~ and expanding ~ : begun의 목적어인 동명사 두 개가 병렬. strip A from B = 'B에서 A를 벗겨 내다'.\n· whether such gestures can dislodge ~ remains an open question : whether가 이끄는 명사절이 주어이고, 동사는 remains(명사절 주어는 단수 취급).\n· a habit this entrenched : 「this + 형용사」 = '이 정도로 ~한'. 과거분사 entrenched가 habit을 뒤에서 수식(= a habit that is this entrenched).\n· an open question : '아직 결론이 나지 않은 문제'라는 관용 표현.",
+      "vocab_notes": [
+        { "word": "a handful of", "ko": "소수의, 일부의" },
+        { "word": "strip A from B", "ko": "B에서 A를 벗겨 내다, 없애다" },
+        { "word": "prerequisite", "ko": "필수 선행 요건" },
+        { "word": "posting", "ko": "(채용) 공고" },
+        { "word": "apprenticeship", "ko": "도제 훈련, 견습 과정" },
+        { "word": "gesture", "ko": "제스처, 형식적인 조치" },
+        { "word": "dislodge", "ko": "밀어내다, 몰아내다" },
+        { "word": "entrenched", "ko": "굳어진, 뿌리 깊은" },
+        { "word": "an open question", "ko": "미지수, 결론 나지 않은 문제" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "credential",
+      "pos": "n.",
+      "ko": "자격 증명, 자격 요건 (보통 복수 credentials)",
+      "example_en": "Employers increasingly ask for credentials that have little bearing on the job itself.",
+      "example_ko": "고용주들은 정작 그 업무와는 별 상관이 없는 자격 요건을 점점 더 요구한다.",
+      "collocations": ["academic credentials", "credential inflation"],
+      "note": "cred-(믿다)가 뿌리 — '이 사람은 믿을 만하다'를 증명해 주는 종이가 credential이다. credit(신용)·credible(믿을 만한)·incredible(믿기지 않는)이 모두 한 가족.",
+      "family": [
+        { "word": "credible", "pos": "a.", "ko": "믿을 만한" },
+        { "word": "credibility", "pos": "n.", "ko": "신뢰성" },
+        { "word": "accredit", "pos": "v.", "ko": "인가하다, 공인하다" }
+      ]
+    },
+    {
+      "headword": "accreditation",
+      "pos": "n.",
+      "ko": "(기관) 인가, 공인",
+      "example_en": "The nursing program lost its accreditation after failing an external review.",
+      "example_ko": "그 간호 과정은 외부 심사를 통과하지 못해 인가를 잃었다.",
+      "collocations": ["lose accreditation", "accreditation body"],
+      "note": "ac-(=to) + credit(믿다) = '공적으로 믿어 주다'. 사람이 따는 credential과 달리 accreditation은 학교·병원 같은 기관이 받는 인가라는 점에서 갈린다.",
+      "related": [
+        { "word": "certification", "ko": "(개인) 자격 인증", "note": "certification은 개인이 시험을 봐서 따는 자격, accreditation은 기관이 심사받아 얻는 인가" }
+      ]
+    },
+    {
+      "headword": "apprenticeship",
+      "pos": "n.",
+      "ko": "도제 훈련, 견습 과정",
+      "example_en": "Germany's apprenticeship system channels students into skilled trades without a degree.",
+      "example_ko": "독일의 도제 훈련 제도는 학위 없이도 학생들을 숙련 기술직으로 이끈다.",
+      "collocations": ["complete an apprenticeship", "apprenticeship program"],
+      "note": "apprentice는 프랑스어 apprendre(배우다)에서 왔다 — 교실이 아니라 '현장에서 일하며 배우는' 사람. 여기에 상태·기간을 만드는 -ship이 붙었다(internship, membership과 같은 방식).",
+      "family": [
+        { "word": "apprentice", "pos": "n.", "ko": "견습생, 도제" }
+      ]
+    },
+    {
+      "headword": "vocational",
+      "pos": "a.",
+      "ko": "직업 교육의, 실무 훈련의",
+      "example_en": "Enrollment in vocational courses has risen as degree costs climb.",
+      "example_ko": "학위 취득 비용이 오르면서 직업 교육 과정 등록이 늘었다.",
+      "collocations": ["vocational training", "vocational school"],
+      "note": "voc-(부르다)가 뿌리 — '(하늘의) 부름=천직'에서 '직업'으로 굳었다. advocate(~를 향해 목소리를 내다=옹호하다)·provoke(불러일으키다)와 한 뿌리다.",
+      "family": [
+        { "word": "vocation", "pos": "n.", "ko": "천직, 직업" }
+      ],
+      "related": [
+        { "word": "vacation", "ko": "휴가", "note": "vocational과 철자가 한 글자 차이지만 vac-은 '비다(empty)' 계열이라 뜻이 전혀 다르다 — vacant(빈), evacuate(비우다=대피시키다)" }
+      ]
+    },
+    {
+      "headword": "tuition",
+      "pos": "n.",
+      "ko": "등록금, 수업료; (영국) 교습",
+      "example_en": "Public universities have raised tuition for five consecutive years.",
+      "example_ko": "공립대학들은 5년 연속으로 등록금을 인상했다.",
+      "collocations": ["tuition fees", "raise tuition"],
+      "note": "tut-/tuit-(지켜보다, 가르치다)에서 나와 tutor(개인 교사)와 한 뿌리. 미국 영어에서는 '수업료(=tuition fees)'지만 영국 영어에서는 '교습·지도' 자체를 뜻해 의미가 갈린다.",
+      "family": [
+        { "word": "tutor", "pos": "n./v.", "ko": "개인 교사; 가르치다" }
+      ]
+    },
+    {
+      "headword": "enrollment",
+      "pos": "n.",
+      "ko": "등록; 등록자 수, 재학생 수",
+      "example_en": "Enrollment fell sharply the year after the tuition hike.",
+      "example_ko": "등록금 인상 이듬해에 등록자 수가 급감했다.",
+      "collocations": ["enrollment rate", "boost enrollment"],
+      "note": "roll에 '명부(두루마리)'라는 뜻이 있어, 이름을 명부에 올리는(en-) 것이 enroll이다. 미국 enrollment / 영국 enrolment 로 l 개수가 달라지니 철자에 주의.",
+      "family": [
+        { "word": "enroll", "pos": "v.", "ko": "등록하다, 입학시키다" }
+      ]
+    },
+    {
+      "headword": "attainment",
+      "pos": "n.",
+      "ko": "달성, 성취(도); 학력 수준",
+      "example_en": "Educational attainment no longer predicts earnings as reliably as it once did.",
+      "example_ko": "학력 수준은 예전만큼 소득을 확실하게 예측해 주지 못한다.",
+      "collocations": ["educational attainment", "attainment gap"],
+      "note": "at-(~에) + tain(붙잡다) — '노력해서 손이 닿다'라는 그림이라, achieve보다 '정해진 기준·수준에 도달했다'는 뉘앙스가 강하다. contain(함께 붙잡다)·retain(계속 붙잡다)과 한 뿌리.",
+      "family": [
+        { "word": "attain", "pos": "v.", "ko": "달성하다, 도달하다" },
+        { "word": "attainable", "pos": "a.", "ko": "달성 가능한" }
+      ]
+    },
+    {
+      "headword": "proxy",
+      "pos": "n.",
+      "ko": "대리(인); 대리 지표",
+      "example_en": "Test scores are often used as a proxy for ability, however crude the measure.",
+      "example_ko": "시험 점수는 척도가 아무리 조악해도 흔히 능력의 대리 지표로 쓰인다.",
+      "collocations": ["serve as a proxy for", "by proxy"],
+      "note": "procuracy(대리권)가 줄어든 말로 '대신 세우는 것'. 시사·통계 글의 a proxy for X는 'X를 직접 잴 수 없어 대신 쓰는 지표'라는 뜻으로 아주 자주 나온다.",
+      "related": [
+        { "word": "surrogate", "ko": "대리의, 대신하는 것", "note": "둘 다 '대신'이지만 proxy는 권한·지표를 대신하고, surrogate는 사람·역할을 대신한다(surrogate mother)" }
+      ]
+    },
+    {
+      "headword": "aptitude",
+      "pos": "n.",
+      "ko": "소질, 적성",
+      "example_en": "The exam measures aptitude rather than accumulated knowledge.",
+      "example_ko": "그 시험은 쌓아 온 지식이 아니라 소질을 측정한다.",
+      "collocations": ["aptitude test", "an aptitude for"],
+      "note": "apt(적합한)의 명사형 — '그 일에 딱 맞는 성질'. 훈련으로 쌓는 skill과 달리 aptitude는 타고난 잠재력 쪽을 가리킨다. adapt(맞춰 바꾸다)·adept(능숙한)와 한 뿌리.",
+      "family": [
+        { "word": "apt", "pos": "a.", "ko": "적절한; ~하기 쉬운" }
+      ],
+      "related": [
+        { "word": "attitude", "ko": "태도", "note": "aptitude(적성)와 attitude(태도)는 한 글자 차이인데 뜻은 완전히 다르다 — 듣기·읽기에서 자주 헷갈린다" }
+      ]
+    },
+    {
+      "headword": "meritocracy",
+      "pos": "n.",
+      "ko": "능력주의, 실력 본위 체제",
+      "example_en": "Critics argue that the system rewards inherited advantage while calling itself a meritocracy.",
+      "example_ko": "비판자들은 그 체제가 스스로를 능력주의라 부르면서 실은 물려받은 이점에 보상한다고 주장한다.",
+      "collocations": ["a genuine meritocracy", "the myth of meritocracy"],
+      "note": "merit(공적·실력) + -cracy(지배) — democracy(민중 지배)·bureaucracy(관료 지배)와 같은 조어법이라, -cracy만 보면 '~가 지배하는 체제'로 읽으면 된다.",
+      "family": [
+        { "word": "merit", "pos": "n.", "ko": "장점, 공적, 실력" },
+        { "word": "meritocratic", "pos": "a.", "ko": "능력주의적인" }
+      ]
+    },
+    {
+      "headword": "prerequisite",
+      "pos": "n.",
+      "ko": "필수 선행 조건, 선수 과목",
+      "example_en": "A bachelor's degree remains a prerequisite for most managerial roles.",
+      "example_ko": "학사 학위는 대부분의 관리직에서 여전히 필수 요건으로 남아 있다.",
+      "collocations": ["a prerequisite for", "meet the prerequisites"],
+      "note": "pre-(먼저) + require(요구하다) = '먼저 요구되는 것'. requirement가 그냥 '요건'이라면 prerequisite에는 '그것이 있어야 다음 단계로 넘어간다'는 순서 개념이 들어 있다.",
+      "related": [
+        { "word": "requisite", "ko": "필수의, 필수품", "note": "requisite도 '필수의'지만 '먼저(pre-)'라는 선후 관계는 prerequisite에만 있다" }
+      ]
+    },
+    {
+      "headword": "devalue",
+      "pos": "v.",
+      "ko": "가치를 떨어뜨리다; 평가절하하다",
+      "example_en": "An oversupply of graduates has devalued the degree itself.",
+      "example_ko": "졸업생의 공급 과잉이 학위 자체의 값어치를 떨어뜨렸다.",
+      "collocations": ["devalue a currency", "devalue a qualification"],
+      "note": "de-(아래로) + value — 경제 기사에서는 '통화 평가절하', 사회 기사에서는 '~의 값어치를 깎다'로 쓰인다. de-는 이렇게 '내리다·없애다'를 만드는 접두사다(deregulate 규제를 풀다, demoralize 사기를 꺾다).",
+      "family": [
+        { "word": "devaluation", "pos": "n.", "ko": "평가절하, 가치 하락" }
+      ]
+    },
+    {
+      "headword": "exacerbate",
+      "pos": "v.",
+      "ko": "악화시키다, 더 나쁘게 만들다",
+      "example_en": "The subsidy exacerbated the very shortage it was meant to relieve.",
+      "example_ko": "그 보조금은 완화하려던 바로 그 부족 사태를 오히려 악화시켰다.",
+      "collocations": ["exacerbate tensions", "exacerbate the problem"],
+      "note": "acerb-(쓴맛·신맛)이 뿌리 — 이미 쓴 것을 더 쓰게 만든다는 그림이다. 반드시 나쁜 상황에만 쓰고, 좋은 것을 '더 강화하다'에는 쓰지 않는다.",
+      "related": [
+        { "word": "aggravate", "ko": "악화시키다", "note": "거의 동의어지만 aggravate는 구어에서 '사람을 짜증나게 하다'로도 쓰인다는 점이 다르다" }
+      ]
+    },
+    {
+      "headword": "bolster",
+      "pos": "v.",
+      "ko": "강화하다, 뒷받침하다",
+      "example_en": "The agency released new figures to bolster its case for the reform.",
+      "example_ko": "그 기관은 개혁의 명분을 뒷받침하기 위해 새 수치를 공개했다.",
+      "collocations": ["bolster confidence", "bolster an argument"],
+      "note": "명사 bolster가 원래 '긴 베개·받침대'다 — 밑에서 받쳐 준다는 그림이 그대로 동사 뜻이 됐다. 주장·사기·수치처럼 눈에 보이지 않는 것을 받쳐 줄 때 특히 잘 붙는다.",
+      "related": [
+        { "word": "reinforce", "ko": "보강하다", "note": "reinforce는 구조물·물리적 보강에도 널리 쓰이는 반면 bolster는 주장·자신감 같은 추상적 대상에 주로 쓴다" }
+      ]
+    },
+    {
+      "headword": "outset",
+      "pos": "n.",
+      "ko": "처음, 착수 시점",
+      "example_en": "The risks were flagged from the outset, but no one acted on them.",
+      "example_ko": "위험은 처음부터 지적됐지만 아무도 대응하지 않았다.",
+      "collocations": ["from the outset", "at the outset"],
+      "note": "사실상 from/at the outset 형태로만 쓰는 단어라 통째로 외우면 된다. 철자가 비슷한 onset과 헷갈리기 쉬운데, outset은 중립적인 '일의 처음'이다.",
+      "related": [
+        { "word": "onset", "ko": "개시, 발병", "note": "onset은 질병·한파처럼 달갑지 않은 것이 '닥치기 시작함'을 뜻해 부정적 색채가 있다 — the onset of winter" }
+      ]
+    },
+    {
+      "headword": "indispensable",
+      "pos": "a.",
+      "ko": "없어서는 안 될, 필수적인",
+      "example_en": "Fieldwork proved indispensable to the study's credibility.",
+      "example_ko": "현장 조사는 그 연구의 신뢰성에 없어서는 안 될 요소로 드러났다.",
+      "collocations": ["indispensable to", "an indispensable role"],
+      "note": "dispense with가 '~ 없이 지내다'라는 뜻이라, 여기에 부정의 in-이 붙어 '없이는 지낼 수 없는'이 됐다. in- 하나로 dispensable(없어도 되는)과 정반대 뜻이 되니 접두사를 놓치면 안 된다.",
+      "family": [
+        { "word": "dispensable", "pos": "a.", "ko": "없어도 되는, 불필요한" },
+        { "word": "dispense", "pos": "v.", "ko": "나눠 주다; (with와 함께) ~ 없이 지내다" }
+      ]
+    },
+    {
+      "headword": "incremental",
+      "pos": "a.",
+      "ko": "점진적인, 조금씩 늘어나는",
+      "example_en": "The reform delivered incremental gains rather than the breakthrough it promised.",
+      "example_ko": "그 개혁은 약속했던 돌파구가 아니라 조금씩의 개선만을 가져왔다.",
+      "collocations": ["incremental change", "incremental cost"],
+      "note": "cre-(자라다)가 뿌리라 increase·crescent(점점 커지는 초승달)와 한 가족 — '한 번에 확'이 아니라 '한 칸(increment)씩' 늘어난다는 뜻이다. 반대 결의 단어는 sweeping·radical.",
+      "family": [
+        { "word": "increment", "pos": "n.", "ko": "증가분, 증분" }
+      ]
+    },
+    {
+      "headword": "articulate",
+      "pos": "v.",
+      "ko": "(생각을) 분명히 표현하다; (a.) 조리 있게 말하는",
+      "example_en": "Few officials could articulate what the policy was actually meant to achieve.",
+      "example_ko": "그 정책이 실제로 무엇을 이루려는 것인지 분명히 설명할 수 있는 관료는 거의 없었다.",
+      "collocations": ["articulate a vision", "clearly articulated"],
+      "note": "artic-(관절·마디)이 뿌리 — 말을 마디마디 또렷하게 끊어 낸다는 그림이다. 동사일 때는 끝을 [-eit]로, 형용사일 때는 [-ət]으로 발음이 갈리는 대표적인 단어.",
+      "family": [
+        { "word": "articulation", "pos": "n.", "ko": "명확한 표현; 조음" }
+      ]
+    }
+  ]
+}
