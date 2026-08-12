@@ -900,6 +900,51 @@
     },
     "outset": {
       "added_on": "2026-08-12"
+    },
+    "vessel": {
+      "added_on": "2026-08-13"
+    },
+    "fleet": {
+      "added_on": "2026-08-13"
+    },
+    "bycatch": {
+      "added_on": "2026-08-13"
+    },
+    "spawn": {
+      "added_on": "2026-08-13"
+    },
+    "artisanal": {
+      "added_on": "2026-08-13"
+    },
+    "livelihood": {
+      "added_on": "2026-08-13"
+    },
+    "enforcement": {
+      "added_on": "2026-08-13"
+    },
+    "traceability": {
+      "added_on": "2026-08-13"
+    },
+    "illicit": {
+      "added_on": "2026-08-13"
+    },
+    "lax": {
+      "added_on": "2026-08-13"
+    },
+    "perverse": {
+      "added_on": "2026-08-13"
+    },
+    "ratify": {
+      "added_on": "2026-08-13"
+    },
+    "signatory": {
+      "added_on": "2026-08-13"
+    },
+    "binding": {
+      "added_on": "2026-08-13"
+    },
+    "concerted": {
+      "added_on": "2026-08-13"
     }
   }
 }

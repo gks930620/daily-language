@@ -1,0 +1,355 @@
+{
+  "date": "2026-08-13",
+  "words": [
+    {
+      "headword": "vessel",
+      "pos": "n.",
+      "ko": "선박; 그릇; 혈관",
+      "example_en": "The port authority detained two fishing vessels for falsifying their catch records.",
+      "example_ko": "항만 당국은 어획 기록을 위조한 혐의로 어선 두 척을 억류했다.",
+      "collocations": [
+        "fishing vessel",
+        "cargo vessel",
+        "board a vessel"
+      ],
+      "note": "원뜻은 '무언가를 담는 그릇' — 물 위에서 사람과 짐을 담는 것이 배, 몸속에서 피를 담아 나르는 것이 blood vessel(혈관)이다. ship보다 격식체라 해운·법률·뉴스 문서에서는 vessel을 쓴다.",
+      "related": [
+        {
+          "word": "craft",
+          "ko": "(작은) 배, 항공기",
+          "note": "vessel은 큰 배까지 포함하는 격식어, craft는 보트·소형기처럼 작은 탈것에 쓰고 단복수가 같다"
+        }
+      ]
+    },
+    {
+      "headword": "fleet",
+      "pos": "n.",
+      "ko": "선단, 함대; (회사가 보유한) 차량·항공기 전체",
+      "example_en": "The airline is replacing a third of its fleet with more fuel-efficient jets.",
+      "example_ko": "그 항공사는 보유 기재의 3분의 1을 연료 효율이 더 좋은 제트기로 교체하고 있다.",
+      "collocations": [
+        "fishing fleet",
+        "fleet management",
+        "expand the fleet"
+      ],
+      "note": "군함 무리만이 아니라 '한 조직이 굴리는 탈것 전체'를 뜻해 토익에 fleet management(차량 관리), a fleet of trucks 형태로 자주 나온다. 배가 아니어도 쓴다는 점이 핵심.",
+      "related": [
+        {
+          "word": "fleeting",
+          "ko": "순식간의, 덧없는",
+          "note": "생김새는 닮았지만 뜻이 전혀 다르다 — a fleeting moment(찰나)처럼 시간에만 붙고 '무리'와는 무관하다"
+        }
+      ]
+    },
+    {
+      "headword": "bycatch",
+      "pos": "n.",
+      "ko": "혼획(목표 어종이 아닌데 함께 잡히는 것)",
+      "example_en": "Environmental groups say the new nets have cut bycatch of sea turtles by half.",
+      "example_ko": "환경 단체들은 새 그물이 바다거북 혼획을 절반으로 줄였다고 말한다.",
+      "collocations": [
+        "reduce bycatch",
+        "bycatch of dolphins"
+      ],
+      "note": "by-는 '곁의·부수적인'이라는 접두사다(by-product 부산물, bystander 구경꾼, byroad 샛길). catch(어획물) 앞에 붙어 '곁다리로 딸려 잡힌 것' — 접두사만 알면 처음 봐도 뜻이 풀린다.",
+      "family": [
+        {
+          "word": "by-product",
+          "pos": "n.",
+          "ko": "부산물"
+        },
+        {
+          "word": "bystander",
+          "pos": "n.",
+          "ko": "구경꾼, 방관자"
+        }
+      ]
+    },
+    {
+      "headword": "spawn",
+      "pos": "v.",
+      "ko": "산란하다; (무언가를) 우후죽순 낳다",
+      "example_en": "The scandal spawned a wave of lawsuits against the company.",
+      "example_ko": "그 스캔들은 회사를 상대로 한 소송의 물결을 낳았다.",
+      "collocations": [
+        "spawn imitators",
+        "spawn a debate",
+        "return to spawn"
+      ],
+      "note": "물고기가 알을 한꺼번에 뿌리는 그림에서 출발해, 뉴스에서는 '한 사건이 비슷한 것들을 대량으로 파생시키다'라는 비유로 더 자주 쓴다(spawned three sequels = 속편 셋을 낳았다).",
+      "related": [
+        {
+          "word": "generate",
+          "ko": "발생시키다",
+          "note": "generate는 중립적으로 '만들어 내다', spawn은 '통제 없이 우르르 생겨난다'는 부정적 뉘앙스를 자주 띤다"
+        }
+      ]
+    },
+    {
+      "headword": "artisanal",
+      "pos": "a.",
+      "ko": "영세한, 소규모 전통 방식의; 수제의",
+      "example_en": "Artisanal fishers operate small wooden boats within sight of the shore.",
+      "example_ko": "영세 어민들은 해안이 보이는 범위 안에서 작은 목선을 몬다.",
+      "collocations": [
+        "artisanal fishing",
+        "artisanal mining",
+        "artisanal bread"
+      ],
+      "note": "art(기술)에서 나온 artisan(장인)의 형용사형. 식품 광고의 artisanal bread(수제 빵)와 개발·환경 기사의 artisanal fishing(영세 어업)이 같은 단어이며, 공통 뜻은 '공장식 대량 방식이 아닌'이다.",
+      "family": [
+        {
+          "word": "artisan",
+          "pos": "n.",
+          "ko": "장인, 수공업자"
+        },
+        {
+          "word": "artifact",
+          "pos": "n.",
+          "ko": "인공물, 유물"
+        }
+      ]
+    },
+    {
+      "headword": "livelihood",
+      "pos": "n.",
+      "ko": "생계, 생계 수단",
+      "example_en": "Thousands of coastal families depend on the reef for their livelihoods.",
+      "example_ko": "수천 가구의 해안 주민이 그 산호초에 생계를 의존하고 있다.",
+      "collocations": [
+        "earn a livelihood",
+        "threaten livelihoods",
+        "lose one's livelihood"
+      ],
+      "note": "-hood는 '상태·신분'을 만드는 접미사다(childhood 어린 시절, neighborhood 이웃). 그래서 '생명'이 아니라 '먹고사는 수단'이며, 개발·환경 기사에서 어떤 산업이 무너질 때 잃는 것이 바로 livelihoods다.",
+      "family": [
+        {
+          "word": "childhood",
+          "pos": "n.",
+          "ko": "어린 시절"
+        },
+        {
+          "word": "neighborhood",
+          "pos": "n.",
+          "ko": "이웃, 동네"
+        }
+      ]
+    },
+    {
+      "headword": "enforcement",
+      "pos": "n.",
+      "ko": "(법·규정의) 집행, 단속",
+      "example_en": "Weak enforcement of the quota has allowed the fleet to fish far beyond its limit.",
+      "example_ko": "쿼터 단속이 허술해 그 선단은 한도를 훨씬 넘겨 조업할 수 있었다.",
+      "collocations": [
+        "law enforcement",
+        "strict enforcement",
+        "lax enforcement"
+      ],
+      "note": "en-(만들다) + force(힘) → 법에 힘을 실어 지키게 만드는 일. reinforcement(보강, 강화)와 헷갈리기 쉬운데 re-가 붙으면 '다시 힘을 준다'는 뜻이 되어 법 집행과 무관해진다.",
+      "family": [
+        {
+          "word": "enforce",
+          "pos": "v.",
+          "ko": "시행하다, 집행하다"
+        },
+        {
+          "word": "enforceable",
+          "pos": "a.",
+          "ko": "집행할 수 있는, 강제력이 있는"
+        }
+      ],
+      "related": [
+        {
+          "word": "reinforcement",
+          "ko": "보강, 강화",
+          "note": "철자가 한 음절 차이지만 '법을 집행하다'가 아니라 '더 튼튼하게 하다'로 뜻이 완전히 갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "traceability",
+      "pos": "n.",
+      "ko": "이력 추적 가능성(어디서 왔는지 되짚을 수 있음)",
+      "example_en": "Retailers now demand full traceability from boat to shelf.",
+      "example_ko": "유통업체들은 이제 배에서 매대까지의 완전한 이력 추적을 요구한다.",
+      "collocations": [
+        "full traceability",
+        "traceability system",
+        "improve traceability"
+      ],
+      "note": "trace(추적하다) + -able(할 수 있는) + -ity(성질) — 형용사에 -ity를 붙여 성질 명사를 만드는 규칙이 그대로 보인다(reliable→reliability, accountable→accountability). 규칙만 알면 -bility로 끝나는 긴 단어는 대부분 뜻이 저절로 풀린다.",
+      "family": [
+        {
+          "word": "trace",
+          "pos": "v.",
+          "ko": "추적하다, 거슬러 올라가다"
+        },
+        {
+          "word": "traceable",
+          "pos": "a.",
+          "ko": "추적할 수 있는"
+        }
+      ]
+    },
+    {
+      "headword": "illicit",
+      "pos": "a.",
+      "ko": "불법의, 은밀히 이루어지는",
+      "example_en": "Investigators traced the shipment to an illicit trade in protected species.",
+      "example_ko": "수사관들은 그 화물을 보호종의 불법 거래로 추적해 냈다.",
+      "collocations": [
+        "illicit trade",
+        "illicit funds",
+        "illicit drugs"
+      ],
+      "note": "il-(부정) + licit(허용된 — license와 같은 뿌리) → '허가받지 않은'. 동사 elicit(이끌어 내다)과 발음이 비슷해 헷갈리는데, illicit은 형용사이고 elicit은 동사라 문장 자리부터 다르다.",
+      "related": [
+        {
+          "word": "elicit",
+          "ko": "이끌어 내다",
+          "note": "elicit a response(반응을 이끌어 내다)처럼 동사로만 쓴다 — 품사로 구분하면 절대 헷갈리지 않는다"
+        },
+        {
+          "word": "illegal",
+          "ko": "불법의",
+          "note": "illegal은 명문화된 법 위반을 가리키는 딱딱한 말, illicit은 뒷거래·암시장처럼 '음성적'이라는 어감이 더해진다"
+        }
+      ]
+    },
+    {
+      "headword": "lax",
+      "pos": "a.",
+      "ko": "느슨한, 해이한",
+      "example_en": "Auditors blamed lax oversight for the repeated safety violations.",
+      "example_ko": "감사관들은 반복된 안전 규정 위반의 원인으로 허술한 관리·감독을 지목했다.",
+      "collocations": [
+        "lax enforcement",
+        "lax standards",
+        "lax security"
+      ],
+      "note": "relax(긴장을 풀다)의 그 lax — 원뜻이 '느슨하다'다. 규제·단속·기준처럼 조여야 할 것이 물렁할 때 붙으며, 반대말은 stringent(엄격한)이다.",
+      "related": [
+        {
+          "word": "relax",
+          "ko": "긴장을 풀다",
+          "note": "re-(뒤로) + lax(느슨한) — lax의 뜻을 잊었을 때 relax를 떠올리면 바로 복원된다"
+        },
+        {
+          "word": "lack",
+          "ko": "부족, 부족하다",
+          "note": "철자 한 글자 차이지만 lax는 형용사(느슨한), lack은 명사·동사(부족)로 품사부터 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "perverse",
+      "pos": "a.",
+      "ko": "(의도와) 정반대로 가는, 비뚤어진",
+      "example_en": "Taxing repairs creates a perverse incentive to throw away goods that could be fixed.",
+      "example_ko": "수리에 세금을 매기면 고쳐 쓸 수 있는 물건을 버리게 만드는 역효과 유인이 생긴다.",
+      "collocations": [
+        "perverse incentive",
+        "perverse effect",
+        "perversely"
+      ],
+      "note": "per-(완전히) + vert(돌리다) → 방향이 완전히 뒤틀린 상태. 경제 기사에 상투적으로 나오는 perverse incentive는 '좋으라고 만든 유인이 정반대 결과를 낳는 것'이라는 뜻이니 통째로 외워 두면 지문 한 단락이 풀린다.",
+      "family": [
+        {
+          "word": "pervert",
+          "pos": "v.",
+          "ko": "왜곡하다, 곡해하다"
+        },
+        {
+          "word": "convert",
+          "pos": "v.",
+          "ko": "전환하다 — 같은 vert(돌리다) 계열"
+        }
+      ]
+    },
+    {
+      "headword": "ratify",
+      "pos": "v.",
+      "ko": "(조약·합의를) 비준하다, 공식 승인하다",
+      "example_en": "The treaty takes effect only after sixty countries have ratified it.",
+      "example_ko": "그 조약은 60개국이 비준한 뒤에야 발효된다.",
+      "collocations": [
+        "ratify a treaty",
+        "ratify an agreement",
+        "await ratification"
+      ],
+      "note": "국제뉴스를 읽을 때 sign(서명)과 ratify(비준)를 구분하는 것이 핵심이다 — 서명은 협상 대표가 하는 것이고, 비준은 의회가 국내 절차로 확정해 법적 효력을 주는 단계라 서명해 놓고 비준을 안 하는 나라가 흔하다.",
+      "family": [
+        {
+          "word": "ratification",
+          "pos": "n.",
+          "ko": "비준, 공식 승인"
+        }
+      ]
+    },
+    {
+      "headword": "signatory",
+      "pos": "n.",
+      "ko": "서명국, 서명 당사자",
+      "example_en": "All thirty signatories agreed to publish their subsidy figures each year.",
+      "example_ko": "서명한 30개국 전부가 매년 자국의 보조금 수치를 공개하기로 합의했다.",
+      "collocations": [
+        "a signatory to the treaty",
+        "original signatories"
+      ],
+      "note": "sign에 -atory가 붙어 '서명한 쪽(사람·나라)'을 가리키는 명사가 된다. 짝 전치사는 to이며(a signatory to the agreement), '서명 그 자체'인 signature와 달리 사람·국가를 뜻한다는 점이 시험 포인트다.",
+      "related": [
+        {
+          "word": "signature",
+          "ko": "서명",
+          "note": "signature는 종이에 남은 서명, signatory는 그 서명을 한 주체 — 같은 뿌리에서 사물과 사람으로 갈렸다"
+        }
+      ]
+    },
+    {
+      "headword": "binding",
+      "pos": "a.",
+      "ko": "구속력 있는, 법적 효력이 있는",
+      "example_en": "The pledge is political rather than legally binding, so no penalty follows a breach.",
+      "example_ko": "그 서약은 법적 구속력이 있다기보다 정치적인 것이어서 위반해도 처벌이 따르지 않는다.",
+      "collocations": [
+        "legally binding",
+        "non-binding agreement",
+        "binding arbitration"
+      ],
+      "note": "bind(묶다)의 -ing형이 형용사로 굳은 말 — 계약·조약이 당사자를 '묶어' 못 빠져나가게 한다는 그림이다. 국제 합의 기사에서는 binding이냐 non-binding이냐가 기사 전체의 결론을 가르는 갈림길이다.",
+      "family": [
+        {
+          "word": "bind",
+          "pos": "v.",
+          "ko": "묶다, 구속하다"
+        },
+        {
+          "word": "bond",
+          "pos": "n.",
+          "ko": "유대; 채권 — 같은 '묶다' 뿌리"
+        }
+      ]
+    },
+    {
+      "headword": "concerted",
+      "pos": "a.",
+      "ko": "합심한, 공동으로 하는",
+      "example_en": "Ending the practice will require a concerted effort by importing and exporting states alike.",
+      "example_ko": "그 관행을 끝내려면 수입국과 수출국 양쪽의 총력을 모은 노력이 필요할 것이다.",
+      "collocations": [
+        "a concerted effort",
+        "concerted action",
+        "concerted campaign"
+      ],
+      "note": "concert(협주)에서 왔다 — 여러 연주자가 박자를 맞추듯 여럿이 힘을 모은다는 그림이다. concerned(걱정하는, 관련된)와 한 글자 차이로 뜻이 완전히 다르니 a concerted effort(총력)를 통으로 외워 구분하라.",
+      "related": [
+        {
+          "word": "concerned",
+          "ko": "걱정하는; 관련된",
+          "note": "the parties concerned(관련 당사자들)처럼 쓰며 '협력'과는 아무 상관이 없다"
+        }
+      ]
+    }
+  ]
+}
