@@ -945,6 +945,51 @@
     },
     "concerted": {
       "added_on": "2026-08-13"
+    },
+    "creditor": {
+      "added_on": "2026-08-14"
+    },
+    "default": {
+      "added_on": "2026-08-14"
+    },
+    "arrears": {
+      "added_on": "2026-08-14"
+    },
+    "restructure": {
+      "added_on": "2026-08-14"
+    },
+    "maturity": {
+      "added_on": "2026-08-14"
+    },
+    "collateral": {
+      "added_on": "2026-08-14"
+    },
+    "sovereign": {
+      "added_on": "2026-08-14"
+    },
+    "bilateral": {
+      "added_on": "2026-08-14"
+    },
+    "indebted": {
+      "added_on": "2026-08-14"
+    },
+    "holdout": {
+      "added_on": "2026-08-14"
+    },
+    "liquidity": {
+      "added_on": "2026-08-14"
+    },
+    "bailout": {
+      "added_on": "2026-08-14"
+    },
+    "principal": {
+      "added_on": "2026-08-14"
+    },
+    "forbearance": {
+      "added_on": "2026-08-14"
+    },
+    "impasse": {
+      "added_on": "2026-08-14"
     }
   }
 }

@@ -1,0 +1,320 @@
+{
+  "date": "2026-08-14",
+  "words": [
+    {
+      "headword": "creditor",
+      "pos": "n.",
+      "ko": "채권자, 돈을 빌려준 쪽",
+      "example_en": "The company's largest creditor refused to accept any further delay in payment.",
+      "example_ko": "그 회사의 최대 채권자는 지급을 더 미루는 것을 받아들이지 않았다.",
+      "collocations": [
+        "major creditor",
+        "creditor bank"
+      ],
+      "note": "cred-(믿다) 계열. credit(믿고 내주는 돈)에 '사람'을 뜻하는 -or이 붙어 '돈을 내준 쪽'. 한국어 '채권자/채무자'가 헷갈리면 'credit을 준 쪽 = creditor'로 기억한다.",
+      "family": [
+        {
+          "word": "credit",
+          "pos": "n.",
+          "ko": "신용, 외상"
+        },
+        {
+          "word": "creditworthy",
+          "pos": "a.",
+          "ko": "신용도가 높은"
+        }
+      ],
+      "related": [
+        {
+          "word": "debtor",
+          "ko": "채무자",
+          "note": "정반대 쪽 — 갚아야 하는 사람. -or로 끝나 형태가 닮았으니 짝으로 외운다"
+        }
+      ]
+    },
+    {
+      "headword": "default",
+      "pos": "n./v.",
+      "ko": "채무 불이행(하다), 부도(나다)",
+      "example_en": "If the government misses this payment, it will be in default for the first time in its history.",
+      "example_ko": "정부가 이번 상환을 놓치면 사상 처음으로 채무 불이행 상태가 된다.",
+      "collocations": [
+        "default on a loan",
+        "sovereign default"
+      ],
+      "note": "de-(빗나가) + fault(잘못·실패) — 해야 할 일을 안 함. 컴퓨터의 '기본값(default)'도 '사용자가 아무것도 하지 않았을 때 그대로 가는 값'이라는 같은 뿌리다.",
+      "related": [
+        {
+          "word": "fault",
+          "ko": "잘못, 결함",
+          "note": "default에서 -fault를 떼어 보면 뜻이 보인다"
+        }
+      ]
+    },
+    {
+      "headword": "arrears",
+      "pos": "n.",
+      "ko": "연체금, 밀린 돈",
+      "example_en": "Several tenants were three months in arrears on their rent.",
+      "example_ko": "몇몇 세입자는 임대료가 석 달치 밀려 있었다.",
+      "collocations": [
+        "in arrears",
+        "fall into arrears"
+      ],
+      "note": "ar-(=ad-, ~쪽으로) + rear(뒤) — 갚아야 할 시점보다 '뒤에 처져' 있는 돈. 항상 복수형으로 쓰고, in arrears(밀린 상태로)라는 덩어리째 외우는 것이 실전에 쓸모 있다."
+    },
+    {
+      "headword": "restructure",
+      "pos": "v.",
+      "ko": "구조를 다시 짜다, (부채를) 재조정하다",
+      "example_en": "The airline restructured its debt to avoid bankruptcy.",
+      "example_ko": "그 항공사는 파산을 피하기 위해 부채를 재조정했다.",
+      "collocations": [
+        "restructure debt",
+        "corporate restructuring"
+      ],
+      "note": "re-(다시) + structure(짜다). 회사에 붙으면 '인력·사업 재편(구조조정)', 빚에 붙으면 '만기와 이자 조건을 다시 짜기'로 뜻이 갈린다 — 기사에서는 뒤쪽 뜻이 압도적으로 많다.",
+      "family": [
+        {
+          "word": "restructuring",
+          "pos": "n.",
+          "ko": "구조조정, 재조정"
+        },
+        {
+          "word": "structure",
+          "pos": "n./v.",
+          "ko": "구조; 짜다"
+        }
+      ]
+    },
+    {
+      "headword": "maturity",
+      "pos": "n.",
+      "ko": "(채권·어음의) 만기; 성숙",
+      "example_en": "The bonds reach maturity in ten years, at which point the principal must be repaid.",
+      "example_ko": "그 채권은 10년 뒤 만기가 되고, 그 시점에 원금을 상환해야 한다.",
+      "collocations": [
+        "reach maturity",
+        "maturity date"
+      ],
+      "note": "mature가 '어른이 되다'와 '(금융 상품이) 기한이 차다' 두 갈래로 갈라진 단어다. 경제 기사에서 maturity를 '성숙'으로 읽으면 문장이 통째로 어그러지니 '만기'를 먼저 떠올린다.",
+      "family": [
+        {
+          "word": "mature",
+          "pos": "v./a.",
+          "ko": "만기가 되다; 성숙한"
+        },
+        {
+          "word": "immature",
+          "pos": "a.",
+          "ko": "미숙한"
+        }
+      ]
+    },
+    {
+      "headword": "collateral",
+      "pos": "n./a.",
+      "ko": "담보; 부수적인",
+      "example_en": "Small firms often struggle to borrow because they have no property to offer as collateral.",
+      "example_ko": "소규모 기업은 담보로 내놓을 자산이 없어 대출에 어려움을 겪는 경우가 많다.",
+      "collocations": [
+        "offer as collateral",
+        "collateral damage"
+      ],
+      "note": "col-(함께) + lateral(옆) — 본 계약 '옆에 나란히' 붙여 두는 것이 담보다. 같은 뿌리에서 형용사 '부수적인'이 나와 collateral damage(부수적 피해)가 된다.",
+      "family": [
+        {
+          "word": "lateral",
+          "pos": "a.",
+          "ko": "옆의, 측면의"
+        }
+      ],
+      "related": [
+        {
+          "word": "security",
+          "ko": "증권; 담보",
+          "note": "금융 문맥의 security는 '안전'이 아니라 '증권'인 경우가 많다 — collateral(담보물)과 헷갈리지 않게 문맥으로 가른다"
+        }
+      ]
+    },
+    {
+      "headword": "sovereign",
+      "pos": "a./n.",
+      "ko": "주권의, 국가의; 군주",
+      "example_en": "Investors are demanding higher returns to hold sovereign debt issued by emerging economies.",
+      "example_ko": "투자자들은 신흥국이 발행한 국채를 보유하는 대가로 더 높은 수익을 요구하고 있다.",
+      "collocations": [
+        "sovereign debt",
+        "sovereign wealth fund"
+      ],
+      "note": "'위에(super-) 있는 존재'에서 온 말이라 군주·주권을 뜻한다. 금융 기사에서 sovereign이 붙으면 거의 언제나 '한 나라(정부) 자체의'라는 뜻 — sovereign debt는 국채, sovereign default는 국가 부도다.",
+      "family": [
+        {
+          "word": "sovereignty",
+          "pos": "n.",
+          "ko": "주권"
+        }
+      ]
+    },
+    {
+      "headword": "bilateral",
+      "pos": "a.",
+      "ko": "양자 간의, 쌍방의",
+      "example_en": "The two governments signed a bilateral agreement on tariffs.",
+      "example_ko": "두 정부는 관세에 관한 양자 협정을 체결했다.",
+      "collocations": [
+        "bilateral agreement",
+        "bilateral talks"
+      ],
+      "note": "bi-(둘) + lateral(옆) — 두 편이 마주 선 관계. 뉴스에서는 bilateral(양자)·multilateral(다자)·unilateral(일방적)이 한 세트로 돌아가므로 접두사 bi-/multi-/uni-만 갈아 끼우면 된다.",
+      "family": [
+        {
+          "word": "multilateral",
+          "pos": "a.",
+          "ko": "다자간의"
+        },
+        {
+          "word": "unilateral",
+          "pos": "a.",
+          "ko": "일방적인"
+        }
+      ]
+    },
+    {
+      "headword": "indebted",
+      "pos": "a.",
+      "ko": "빚을 진; 신세를 진",
+      "example_en": "Heavily indebted households are the first to suffer when interest rates rise.",
+      "example_ko": "빚이 많은 가계가 금리가 오를 때 가장 먼저 타격을 입는다.",
+      "collocations": [
+        "heavily indebted",
+        "deeply indebted to"
+      ],
+      "note": "in-(안에) + debt(빚) — 빚 속에 들어가 있는 상태. 돈 얘기가 아닐 때는 'I am indebted to you(신세를 졌습니다)'처럼 감사 표현이 된다. debt의 b는 발음하지 않는다(라틴어 debitum을 흉내 내 나중에 끼워 넣은 철자).",
+      "family": [
+        {
+          "word": "debt",
+          "pos": "n.",
+          "ko": "빚, 부채"
+        },
+        {
+          "word": "indebtedness",
+          "pos": "n.",
+          "ko": "부채 상태, 부채 규모"
+        }
+      ]
+    },
+    {
+      "headword": "holdout",
+      "pos": "n.",
+      "ko": "끝까지 버티는 쪽, 합의를 거부하는 당사자",
+      "example_en": "A single holdout can block a settlement that every other creditor has approved.",
+      "example_ko": "다른 채권자가 모두 승인한 합의를 단 한 곳의 버티기가 막을 수 있다.",
+      "collocations": [
+        "a lone holdout",
+        "holdout creditor"
+      ],
+      "note": "동사구 hold out(굽히지 않고 버티다)이 그대로 명사로 굳은 말. 「동사 + 부사 → 붙여 쓴 명사」는 turnout(투표율)·outbreak(발발)처럼 흔한 패턴이라, 모르는 명사를 만나면 두 조각으로 갈라 보면 뜻이 잡힌다."
+    },
+    {
+      "headword": "liquidity",
+      "pos": "n.",
+      "ko": "유동성, 현금화 능력",
+      "example_en": "The bank was profitable on paper but ran out of liquidity within a week.",
+      "example_ko": "그 은행은 장부상으로는 이익을 내고 있었지만 일주일 만에 유동성이 바닥났다.",
+      "collocations": [
+        "liquidity crisis",
+        "provide liquidity"
+      ],
+      "note": "liquid(액체)에서 온 말 — 자산이 물처럼 곧바로 현금으로 흘러갈 수 있는 정도. 부채 기사에서는 liquidity 문제(당장 현금이 없음)와 solvency 문제(자산보다 빚이 큼)를 구분하는 것이 논지의 핵심이다.",
+      "family": [
+        {
+          "word": "liquid",
+          "pos": "n./a.",
+          "ko": "액체; 현금화가 쉬운"
+        },
+        {
+          "word": "liquidate",
+          "pos": "v.",
+          "ko": "(자산을) 처분하다, 청산하다"
+        }
+      ]
+    },
+    {
+      "headword": "bailout",
+      "pos": "n.",
+      "ko": "구제금융, 긴급 지원",
+      "example_en": "Taxpayers were asked to fund a bailout of the country's largest lender.",
+      "example_ko": "납세자들은 그 나라 최대 은행에 대한 구제금융을 떠맡아 달라는 요구를 받았다.",
+      "collocations": [
+        "government bailout",
+        "bail out a bank"
+      ],
+      "note": "물이 찬 배에서 물을 퍼내는 bail out에서 온 말 — 가라앉는 쪽의 물을 돈으로 퍼내 준다는 그림이다. 동사는 두 단어(bail out), 명사는 붙여 쓴 한 단어(bailout)로 철자가 갈린다.",
+      "related": [
+        {
+          "word": "bail",
+          "ko": "보석금",
+          "note": "법정에서 풀어 주는 대가로 맡기는 돈 — '갇힌 상태에서 빼내 준다'는 감각은 bailout과 통한다"
+        }
+      ]
+    },
+    {
+      "headword": "principal",
+      "pos": "n./a.",
+      "ko": "원금; 주요한; 교장",
+      "example_en": "Only the interest is due this year; the principal is repaid at the end of the term.",
+      "example_ko": "올해는 이자만 내면 되고, 원금은 기간이 끝날 때 상환한다.",
+      "collocations": [
+        "repay the principal",
+        "principal and interest"
+      ],
+      "note": "principle(원칙)과 발음이 같아 늘 헷갈리는 짝. '원칙(rule)'으로 바꿔 말이 되면 principle, 그 외의 '주된 것·으뜸가는 것'은 모두 principal이다 — 빌린 돈의 '으뜸(본체)'이 원금, 학교의 '으뜸'이 교장.",
+      "related": [
+        {
+          "word": "principle",
+          "ko": "원칙, 원리",
+          "note": "-ple로 끝나면 '원칙' 하나뿐 — 명사로만 쓰이고 형용사가 없다"
+        }
+      ]
+    },
+    {
+      "headword": "forbearance",
+      "pos": "n.",
+      "ko": "(상환) 유예; 참고 견딤",
+      "example_en": "The lender granted three months' forbearance to borrowers who had lost their jobs.",
+      "example_ko": "대출 기관은 실직한 차주들에게 석 달간 상환 유예를 해 주었다.",
+      "collocations": [
+        "grant forbearance",
+        "mortgage forbearance"
+      ],
+      "note": "for-는 '삼가다·하지 않다'를 뜻하는 접두사로 forgo(포기하다)·forbid(금하다)와 한 계열이다. 따라서 forbear는 '참고 하지 않다' — 갚으라고 하는 것을 참아 주는 것이 금융의 forbearance(상환 유예)다.",
+      "family": [
+        {
+          "word": "forbear",
+          "pos": "v.",
+          "ko": "삼가다, 참다"
+        }
+      ]
+    },
+    {
+      "headword": "impasse",
+      "pos": "n.",
+      "ko": "교착 상태, 막다른 길",
+      "example_en": "Talks between the union and management have reached an impasse over wages.",
+      "example_ko": "노조와 사측의 협상은 임금 문제로 교착 상태에 빠졌다.",
+      "collocations": [
+        "reach an impasse",
+        "break the impasse"
+      ],
+      "note": "im-(못) + passe(지나가다) — 더 지나갈 수 없는 막다른 골목. 프랑스어에서 그대로 들여온 말이라 끝의 -e를 살려 '임패스'에 가깝게 읽는다.",
+      "related": [
+        {
+          "word": "deadlock",
+          "ko": "교착 상태",
+          "note": "거의 동의어지만 deadlock은 표가 반반으로 갈린 상황·기계의 잠김까지 아우르고, impasse는 협상이 더 나아가지 못하는 상태에 주로 쓴다"
+        }
+      ]
+    }
+  ]
+}
