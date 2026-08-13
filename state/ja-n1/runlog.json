@@ -171,7 +171,11 @@
     },
     "2026-08-14": {
       "prepared_at": "2026-08-13T19:04:08.590Z",
-      "settled": false
+      "settled": true,
+      "settled_at": "2026-08-13T19:18:04.817Z",
+      "content_sha256": "c7d5282df3dd8d0ca68fe5ae6d81bc56622a542a67ca23a784ea72293a077aaf",
+      "notes": [],
+      "built_at": "2026-08-13T19:18:04.900Z"
     }
   }
 }
