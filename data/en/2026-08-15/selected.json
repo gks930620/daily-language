@@ -1,0 +1,326 @@
+{
+  "date": "2026-08-15",
+  "words": [
+    {
+      "headword": "ignite",
+      "pos": "v.",
+      "ko": "불을 붙이다, 점화하다; (논쟁을) 촉발하다",
+      "example_en": "A single spark from a power line ignited a fire that burned for weeks.",
+      "example_ko": "송전선에서 튄 불꽃 하나가 몇 주 동안 이어진 화재를 일으켰다.",
+      "collocations": [
+        "ignite a fire",
+        "ignite a debate"
+      ],
+      "note": "ign-(불) 뿌리 — ignition(점화 장치)·igneous rock(화성암)이 한 집안이다. 신문에서는 ignite a debate처럼 '논쟁에 불을 붙이다'라는 비유로 더 자주 만난다.",
+      "family": [
+        {
+          "word": "ignition",
+          "pos": "n.",
+          "ko": "점화, 시동(장치)"
+        }
+      ],
+      "related": [
+        {
+          "word": "kindle",
+          "ko": "불을 붙이다",
+          "note": "kindle은 작은 불을 살살 살려 내는 쪽, ignite는 한순간에 확 붙이는 쪽이다"
+        }
+      ]
+    },
+    {
+      "headword": "blaze",
+      "pos": "n.",
+      "ko": "큰 불길, 화재",
+      "example_en": "Firefighters battled the blaze for three days before bringing it under control.",
+      "example_ko": "소방관들은 사흘 동안 불길과 싸운 끝에 진화했다.",
+      "collocations": [
+        "battle a blaze",
+        "bring a blaze under control"
+      ],
+      "note": "fire보다 '크고 밝게 타오르는' 불이라, 지면이 좁은 뉴스 헤드라인이 화재를 가리킬 때 즐겨 쓴다. blazing sun(이글거리는 태양)처럼 형용사로도 자주 나온다.",
+      "family": [
+        {
+          "word": "blazing",
+          "pos": "a.",
+          "ko": "활활 타는, 이글거리는"
+        }
+      ]
+    },
+    {
+      "headword": "suppression",
+      "pos": "n.",
+      "ko": "진압, 억제",
+      "example_en": "Critics argue that the government's suppression of dissent has gone too far.",
+      "example_ko": "비판자들은 정부의 반대 여론 억압이 도를 넘었다고 주장한다.",
+      "collocations": [
+        "fire suppression",
+        "suppression of dissent"
+      ],
+      "note": "sup-(=sub 아래) + press(누르다) = '아래로 눌러 놓다'. press 집안은 접두사만 갈아 끼우면 뜻이 보인다 — oppress(맞눌러 억압하다), repress(도로 눌러 억누르다), express(밖으로 밀어내다=표현하다).",
+      "family": [
+        {
+          "word": "suppress",
+          "pos": "v.",
+          "ko": "진압하다, 억누르다"
+        }
+      ],
+      "related": [
+        {
+          "word": "repress",
+          "ko": "억누르다",
+          "note": "repress는 감정·기억을 안으로 억누르는 쪽, suppress는 시위·화재처럼 밖의 것을 눌러 꺾는 쪽에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "ember",
+      "pos": "n.",
+      "ko": "불씨, 잉걸불",
+      "example_en": "Embers carried by the wind started new fires miles away.",
+      "example_ko": "바람에 실려 간 불씨들이 몇 마일 떨어진 곳에서 새 불을 냈다.",
+      "collocations": [
+        "glowing embers",
+        "flying embers"
+      ],
+      "note": "불꽃(flame)이 사그라든 뒤 붉게 달아올라 남은 덩어리 — 산불 기사에서 '바람에 날아가 새 불을 낸다'는 대목에 늘 등장한다. the embers of a conflict처럼 '아직 식지 않은 앙금'이라는 비유로도 쓴다."
+    },
+    {
+      "headword": "smolder",
+      "pos": "v.",
+      "ko": "연기만 내며 타다; (감정이) 속으로 끓다",
+      "example_en": "The fire smoldered underground for months before flaring up again.",
+      "example_ko": "그 불은 몇 달 동안 땅속에서 연기만 내며 타다가 다시 치솟았다.",
+      "collocations": [
+        "smoldering ruins",
+        "smoldering resentment"
+      ],
+      "note": "겉으로 불꽃 없이 속에서 타는 상태 — 그래서 '겉으로 드러나지 않고 속에서 끓는 분노'라는 비유로 더 자주 쓰인다(smoldering resentment). 영국식 철자는 smoulder.",
+      "related": [
+        {
+          "word": "smother",
+          "ko": "덮어 끄다, 질식시키다",
+          "note": "철자가 한 글자 차이지만 정반대 — smolder는 '타고 있다', smother는 '덮어서 끈다'"
+        }
+      ]
+    },
+    {
+      "headword": "tinder",
+      "pos": "n.",
+      "ko": "불쏘시개, 바싹 마른 땔감",
+      "example_en": "Years of drought had turned the forest floor into tinder.",
+      "example_ko": "수년간의 가뭄이 숲 바닥을 불쏘시개로 만들어 놓았다.",
+      "collocations": [
+        "dry as tinder",
+        "a tinderbox region"
+      ],
+      "note": "'불을 붙이려고 쓰는 마른 것'이 원뜻이고, 파생어 tinderbox(부싯깃통)는 비유로 '언제 터질지 모르는 화약고 같은 지역·정세'를 뜻한다.",
+      "related": [
+        {
+          "word": "tender",
+          "ko": "부드러운; 입찰(하다)",
+          "note": "철자가 한 글자 차이인 완전히 다른 단어 — 시험에서 자주 노리는 혼동 쌍이다"
+        }
+      ]
+    },
+    {
+      "headword": "undergrowth",
+      "pos": "n.",
+      "ko": "(숲 바닥의) 덤불, 하층 식생",
+      "example_en": "The trail vanished beneath thick undergrowth.",
+      "example_ko": "그 오솔길은 무성한 덤불 아래로 사라졌다.",
+      "collocations": [
+        "thick undergrowth",
+        "clear the undergrowth"
+      ],
+      "note": "under(아래) + growth(자란 것) — 큰 나무 아래에서 자라는 관목·풀. 영어는 이렇게 「전치사 + 명사」를 붙여 만든 합성어가 많아(undercurrent 저류, overgrowth 웃자람) 쪼개서 읽으면 뜻이 잡힌다.",
+      "related": [
+        {
+          "word": "underbrush",
+          "ko": "덤불",
+          "note": "같은 뜻의 미국식 표현 — 산불 기사에서는 underbrush 쪽이 더 흔하다"
+        }
+      ]
+    },
+    {
+      "headword": "evacuation",
+      "pos": "n.",
+      "ko": "대피, 소개(疏開)",
+      "example_en": "Authorities ordered the evacuation of three coastal towns before the storm.",
+      "example_ko": "당국은 폭풍이 오기 전에 해안 마을 세 곳에 대피령을 내렸다.",
+      "collocations": [
+        "order an evacuation",
+        "a mandatory evacuation"
+      ],
+      "note": "e-(밖으로) + vac(비다) = '안을 비워 내보내다'. vac 집안을 묶어 두면 편하다 — vacant(비어 있는), vacuum(진공), vacation(일을 비워 두는 기간=휴가).",
+      "family": [
+        {
+          "word": "evacuate",
+          "pos": "v.",
+          "ko": "대피시키다, 대피하다"
+        },
+        {
+          "word": "evacuee",
+          "pos": "n.",
+          "ko": "대피한 사람, 피난민"
+        }
+      ]
+    },
+    {
+      "headword": "containment",
+      "pos": "n.",
+      "ko": "봉쇄, 억제; (산불의) 진화 진척도",
+      "example_en": "The fire had reached 60 percent containment by Friday morning.",
+      "example_ko": "그 산불은 금요일 아침까지 60퍼센트 진화되었다.",
+      "collocations": [
+        "containment of the outbreak",
+        "a containment strategy"
+      ],
+      "note": "contain은 '담고 있다'뿐 아니라 '더 번지지 못하게 가두다'라는 뜻이 있다. 그래서 뉴스의 60% containment는 '불의 60%를 껐다'가 아니라 '화선의 60%를 둘러쌌다'는 말이다.",
+      "family": [
+        {
+          "word": "contain",
+          "pos": "v.",
+          "ko": "담고 있다; 억제하다, 가두다"
+        }
+      ]
+    },
+    {
+      "headword": "flammable",
+      "pos": "a.",
+      "ko": "불에 잘 타는, 가연성의",
+      "example_en": "Flammable materials must be stored away from any heat source.",
+      "example_ko": "가연성 물질은 열원에서 떨어진 곳에 보관해야 한다.",
+      "collocations": [
+        "highly flammable",
+        "flammable materials"
+      ],
+      "note": "대표적 함정 — inflammable도 뜻이 '불에 잘 타는'으로 똑같다(여기 in-은 부정이 아니라 '안으로'). 오해로 사고가 나서 안전 표지는 flammable / non-flammable로 통일했다.",
+      "related": [
+        {
+          "word": "inflammable",
+          "ko": "불에 잘 타는",
+          "note": "flammable의 반대말이 아니라 같은 뜻 — 부정은 non-flammable이다"
+        }
+      ]
+    },
+    {
+      "headword": "hazard",
+      "pos": "n.",
+      "ko": "위험 요소, 위해",
+      "example_en": "The inspection identified several fire hazards in the building.",
+      "example_ko": "점검에서 그 건물의 화재 위험 요소 몇 가지가 확인되었다.",
+      "collocations": [
+        "a fire hazard",
+        "an occupational hazard"
+      ],
+      "note": "risk가 '나쁜 일이 벌어질 가능성(확률)'이라면 hazard는 '그 일을 일으키는 요소·물건' 자체다. occupational hazard는 '직업상 감수할 수밖에 없는 위험'이라는 관용 표현.",
+      "family": [
+        {
+          "word": "hazardous",
+          "pos": "a.",
+          "ko": "위험한, 유해한"
+        }
+      ],
+      "related": [
+        {
+          "word": "risk",
+          "ko": "위험(성)",
+          "note": "hazard = 위험의 원인, risk = 그 원인이 실제로 해를 끼칠 확률 — 보험·안전 문서에서 둘을 구분해서 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "aftermath",
+      "pos": "n.",
+      "ko": "(사건 직후의) 여파, 후유증",
+      "example_en": "In the aftermath of the flood, thousands were left without clean water.",
+      "example_ko": "홍수의 여파로 수천 명이 깨끗한 물 없이 지내게 되었다.",
+      "collocations": [
+        "in the aftermath of",
+        "the immediate aftermath"
+      ],
+      "note": "after + math(옛말로 '베어 내기' — 수확 뒤 다시 돋은 풀)에서 왔다. 거의 언제나 in the aftermath of ~ 꼴로, 재난·전쟁·사고처럼 나쁜 일 뒤에만 붙는다.",
+      "related": [
+        {
+          "word": "wake",
+          "ko": "(배가 지나간) 자국",
+          "note": "in the wake of ~ 도 '~의 여파로'인데, 좋은 일 뒤에도 쓸 수 있다는 점이 aftermath와 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "prescribe",
+      "pos": "v.",
+      "ko": "처방하다; (규칙으로) 규정하다",
+      "example_en": "The law prescribes strict penalties for filing a false report.",
+      "example_ko": "그 법은 허위 신고에 엄격한 벌칙을 규정하고 있다.",
+      "collocations": [
+        "prescribe medication",
+        "as prescribed by law"
+      ],
+      "note": "pre-(미리) + scribe(쓰다) = '미리 써 두다' — 의사가 미리 써 주면 처방, 법이 미리 써 두면 규정이다. proscribe(금지하다)와 철자 한 글자 차이인데 뜻은 사실상 정반대다.",
+      "family": [
+        {
+          "word": "prescription",
+          "pos": "n.",
+          "ko": "처방(전); 규정"
+        },
+        {
+          "word": "prescriptive",
+          "pos": "a.",
+          "ko": "규정하는, 규범적인"
+        }
+      ],
+      "related": [
+        {
+          "word": "proscribe",
+          "ko": "금지하다",
+          "note": "prescribe(하라고 정하다) ↔ proscribe(하지 말라고 막다) — pre/pro 한 글자로 뜻이 뒤집힌다"
+        }
+      ]
+    },
+    {
+      "headword": "adhere",
+      "pos": "v.",
+      "ko": "고수하다, (규칙을) 따르다; 들러붙다",
+      "example_en": "All contractors must adhere to the safety guidelines on site.",
+      "example_ko": "모든 협력업체는 현장에서 안전 지침을 준수해야 한다.",
+      "collocations": [
+        "adhere to guidelines",
+        "adhere to a schedule"
+      ],
+      "note": "ad-(~에) + here(붙다) — 물리적으로 '붙다'에서 '규칙에 딱 붙어 지키다'로 넓어졌다. 자동사라 목적어 앞에 to가 반드시 오고(adhere to the rules), adhesive(접착제)가 같은 뿌리다.",
+      "family": [
+        {
+          "word": "adherence",
+          "pos": "n.",
+          "ko": "준수, 고수"
+        },
+        {
+          "word": "adhesive",
+          "pos": "n.",
+          "ko": "접착제"
+        }
+      ]
+    },
+    {
+      "headword": "incur",
+      "pos": "v.",
+      "ko": "(비용·손실·비난을) 초래하다, 떠안다",
+      "example_en": "The company incurred heavy losses during the downturn.",
+      "example_ko": "그 회사는 경기 침체기에 큰 손실을 입었다.",
+      "collocations": [
+        "incur costs",
+        "incur a penalty"
+      ],
+      "note": "in-(안으로) + cur(달리다) = '내 쪽으로 달려 들어오게 하다'. 좋은 일에는 안 쓰고 cost·debt·loss·criticism·penalty처럼 나쁜 것만 목적어로 받는다. cur(달리다) 집안: occur, recur, current.",
+      "related": [
+        {
+          "word": "occur",
+          "ko": "일어나다, 발생하다",
+          "note": "철자가 비슷해 헷갈리지만 incur는 '내가 떠안다'(타동사), occur는 '저절로 일어나다'(자동사)로 주어가 다르다"
+        }
+      ]
+    }
+  ]
+}

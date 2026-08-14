@@ -990,6 +990,51 @@
     },
     "impasse": {
       "added_on": "2026-08-14"
+    },
+    "ignite": {
+      "added_on": "2026-08-15"
+    },
+    "blaze": {
+      "added_on": "2026-08-15"
+    },
+    "suppression": {
+      "added_on": "2026-08-15"
+    },
+    "ember": {
+      "added_on": "2026-08-15"
+    },
+    "smolder": {
+      "added_on": "2026-08-15"
+    },
+    "tinder": {
+      "added_on": "2026-08-15"
+    },
+    "undergrowth": {
+      "added_on": "2026-08-15"
+    },
+    "evacuation": {
+      "added_on": "2026-08-15"
+    },
+    "containment": {
+      "added_on": "2026-08-15"
+    },
+    "flammable": {
+      "added_on": "2026-08-15"
+    },
+    "hazard": {
+      "added_on": "2026-08-15"
+    },
+    "aftermath": {
+      "added_on": "2026-08-15"
+    },
+    "prescribe": {
+      "added_on": "2026-08-15"
+    },
+    "adhere": {
+      "added_on": "2026-08-15"
+    },
+    "incur": {
+      "added_on": "2026-08-15"
     }
   }
 }
