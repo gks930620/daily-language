@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-16",
+  "passage_note": "사이버안보 — 기간시설을 겨눈 랜섬웨어와 '몸값 지불' 금지 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "What began as a crude scheme to extort a few hundred dollars from individual computer users has hardened into a criminal industry capable of paralyzing hospitals, pipelines, and municipal water systems for weeks at a time.",
+      "ko": "개인 컴퓨터 사용자에게서 몇백 달러를 갈취하려는 조잡한 수법으로 시작된 것이, 병원과 송유관, 지방자치단체의 상수도 시스템을 한 번에 몇 주씩 마비시킬 수 있는 범죄 산업으로 굳어졌다.",
+      "structure": "· What began as ~ 가 문장 전체의 주어 — 선행사를 포함하는 관계대명사 what절('~한 것')이고, 이에 대응하는 동사는 한참 뒤의 has hardened다.\n· harden into A : '굳어져 A가 되다'. 주어가 단수 취급되는 what절이므로 has(단수)로 받았다.\n· capable of paralyzing ~ 는 형용사구가 a criminal industry를 뒤에서 수식하는 형태(관계대명사 which is의 생략으로 봐도 된다).\n· paralyzing의 목적어로 hospitals, pipelines, and municipal water systems 세 개가 병렬로 이어진다.",
+      "vocab_notes": [
+        { "word": "crude", "ko": "조잡한, 투박한" },
+        { "word": "scheme", "ko": "수법, 계략" },
+        { "word": "extort", "ko": "갈취하다, 뜯어내다" },
+        { "word": "harden into", "ko": "굳어져 ~가 되다" },
+        { "word": "criminal", "ko": "범죄의, 범죄자" },
+        { "word": "capable of", "ko": "~할 수 있는" },
+        { "word": "paralyze", "ko": "마비시키다" },
+        { "word": "pipeline", "ko": "송유관, 가스관" },
+        { "word": "municipal", "ko": "지방자치의, 시(市)의" },
+        { "word": "at a time", "ko": "한 번에" }
+      ]
+    },
+    {
+      "en": "The economics are brutally simple: because the perpetrators operate from jurisdictions that have no intention of extraditing them, and because payments can be routed through channels that preserve their anonymity, the expected cost of getting caught is close to zero.",
+      "ko": "그 수지 계산은 지독하리만치 단순하다. 가해자들은 자신들을 인도할 의사가 전혀 없는 관할권에서 활동하고, 대금은 익명성을 지켜 주는 경로로 우회시킬 수 있기 때문에, 붙잡힐 것을 감안한 기대 비용이 거의 0에 가깝다.",
+      "structure": "· 콜론(:) 뒤 전체가 앞의 The economics are brutally simple을 구체적으로 풀어 주는 설명이다.\n· because ~ , and because ~ 두 개의 이유 부사절이 병렬로 앞에 나오고, 주절은 맨 뒤의 the expected cost ~ is close to zero다. 부사절이 길어 주절이 뒤로 밀린 구조.\n· that have no intention of extraditing / that preserve their anonymity : 각각 jurisdictions와 channels를 수식하는 주격 관계대명사절.\n· have no intention of -ing : '~할 의사가 전혀 없다'. of 뒤에는 동명사가 온다.\n· of getting caught : 전치사의 목적어인 동명사이면서 get + 과거분사 형태의 수동('붙잡히다').",
+      "vocab_notes": [
+        { "word": "economics", "ko": "경제 논리, 수지 계산" },
+        { "word": "brutally", "ko": "지독히, 냉혹할 만큼" },
+        { "word": "perpetrator", "ko": "가해자, 범인" },
+        { "word": "jurisdiction", "ko": "관할권, 사법 관할 구역" },
+        { "word": "intention", "ko": "의사, 의도" },
+        { "word": "extradite", "ko": "(범죄인을) 인도하다" },
+        { "word": "route", "ko": "(특정 경로로) 보내다, 우회시키다" },
+        { "word": "channel", "ko": "경로, 통로" },
+        { "word": "preserve", "ko": "지키다, 유지하다" },
+        { "word": "anonymity", "ko": "익명성" }
+      ]
+    },
+    {
+      "en": "Faced with an outage that halts emergency care, hospital executives seldom find it prudent to gamble on a lengthy restoration from backups, and many quietly succumb to the demand.",
+      "ko": "응급 진료를 멈춰 세우는 가동 중단에 직면하면, 병원 경영진은 백업으로부터의 오랜 복구에 도박을 거는 것이 신중한 처사라고 좀처럼 여기지 않으며, 상당수는 조용히 그 요구에 굴복한다.",
+      "structure": "· Faced with ~ 는 과거분사로 시작하는 분사구문(수동) — 의미상 주어는 주절의 hospital executives이고, '~에 직면하여/직면하면'으로 푼다.\n· find it prudent to gamble ~ : it이 가목적어, to gamble 이하가 진목적어인 find + 목적어 + 목적격보어 구문.\n· seldom은 준부정어 — '좀처럼 ~하지 않는다'. not 없이도 부정의 뜻을 낸다.\n· and로 두 개의 절이 이어지고, 뒤 절의 주어 many는 many executives에서 명사가 생략된 형태.\n· succumb to + 명사 : 항상 전치사 to를 동반한다.",
+      "vocab_notes": [
+        { "word": "faced with", "ko": "~에 직면하여" },
+        { "word": "outage", "ko": "(전기·서비스의) 가동 중단, 정전" },
+        { "word": "halt", "ko": "멈춰 세우다, 중단시키다" },
+        { "word": "emergency care", "ko": "응급 진료" },
+        { "word": "executive", "ko": "경영진, 임원" },
+        { "word": "seldom", "ko": "좀처럼 ~않는" },
+        { "word": "prudent", "ko": "신중한, 분별 있는" },
+        { "word": "gamble on", "ko": "~에 도박을 걸다, 운에 맡기다" },
+        { "word": "lengthy", "ko": "오래 걸리는, 장황한" },
+        { "word": "restoration", "ko": "복구, 복원" },
+        { "word": "succumb to", "ko": "~에 굴복하다" }
+      ]
+    },
+    {
+      "en": "Insurers, who once treated the ransom as a routine claim, now concede that reimbursement underwrites the next attack, and several governments have moved to forbid public bodies from paying at all.",
+      "ko": "한때 몸값을 통상적인 보험금 청구 건으로 처리하던 보험사들은 이제 그 변제가 다음 공격의 밑돈을 대 준다는 점을 인정하며, 몇몇 정부는 공공기관이 아예 지급하지 못하도록 금지하는 조치에 나섰다.",
+      "structure": "· who once treated ~ 는 콤마로 묶인 계속적 용법의 관계대명사절 — Insurers를 부연 설명한다(제한이 아니라 보충).\n· treat A as B : 'A를 B로 취급하다'.\n· concede that ~ : that절이 concede의 목적어.\n· move to + 동사원형 : '~하려는 조치를 취하다'.\n· forbid A from -ing : 'A가 ~하는 것을 금지하다'. prevent/prohibit A from -ing와 같은 틀.",
+      "vocab_notes": [
+        { "word": "insurer", "ko": "보험사" },
+        { "word": "ransom", "ko": "몸값" },
+        { "word": "routine", "ko": "통상적인, 일상적인" },
+        { "word": "claim", "ko": "(보험금) 청구" },
+        { "word": "concede", "ko": "인정하다, 시인하다" },
+        { "word": "reimbursement", "ko": "변제, 비용 보전" },
+        { "word": "underwrite", "ko": "(자금을) 대다, 뒷받침하다" },
+        { "word": "forbid", "ko": "금지하다" },
+        { "word": "public body", "ko": "공공기관" }
+      ]
+    },
+    {
+      "en": "Yet a prohibition that is not paired with sustained investment in replacing legacy systems would forestall nothing; it would merely shift the loss onto the patients and ratepayers who depend on infrastructure that was never designed to be defended.",
+      "ko": "그러나 구형 시스템 교체에 대한 지속적인 투자와 병행되지 않는 금지는 아무것도 미연에 막지 못할 것이다. 그것은 애초에 방어를 염두에 두고 설계된 적이 없는 기반시설에 의존하는 환자와 공공요금 납부자에게 손실을 떠넘길 뿐일 것이다.",
+      "structure": "· Yet은 앞 문장에 대한 역접 접속부사 — '그러나'.\n· 주어 a prohibition 뒤에 관계대명사절 that is not paired with ~ 이 길게 붙어 주어와 동사(would forestall)가 멀어졌다. 긴 수식어를 괄호로 묶고 주어-동사를 먼저 찾는 것이 요령.\n· would forestall / would shift : '(그런 금지라면) ~일 것이다'라는 가정법적 함의를 담은 would.\n· 세미콜론(;)이 두 개의 독립절을 연결한다 — 접속사 대신 쓰인 것.\n· who depend on ~ 은 the patients and ratepayers를, that was never designed ~ 는 infrastructure를 수식하는 관계사절이 겹친 구조.\n· to be defended : to부정사의 수동태 — '방어되도록'.",
+      "vocab_notes": [
+        { "word": "prohibition", "ko": "금지" },
+        { "word": "be paired with", "ko": "~와 짝을 이루다, 병행되다" },
+        { "word": "sustained", "ko": "지속적인, 꾸준한" },
+        { "word": "legacy system", "ko": "구형 시스템, 낡은 시스템" },
+        { "word": "forestall", "ko": "미연에 방지하다" },
+        { "word": "merely", "ko": "단지, ~일 뿐" },
+        { "word": "shift A onto B", "ko": "A를 B에게 떠넘기다" },
+        { "word": "ratepayer", "ko": "공공요금 납부자" },
+        { "word": "infrastructure", "ko": "기반시설" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "extortion",
+      "pos": "n.",
+      "ko": "갈취, 금품 강요",
+      "example_en": "Investigators described the ransomware campaign as extortion on an industrial scale.",
+      "example_ko": "수사관들은 그 랜섬웨어 공격을 산업적 규모의 갈취라고 표현했다.",
+      "collocations": ["attempted extortion", "extortion scheme"],
+      "note": "어원: ex-(밖으로) + tort-(비틀다) — 남에게서 돈을 '비틀어 짜내는' 것. 같은 뿌리인 distort(비틀어 왜곡하다)·torture(고문)와 묶어 두면 '비틀다' 이미지로 뜻이 고정된다.",
+      "family": [
+        { "word": "extort", "pos": "v.", "ko": "갈취하다, 뜯어내다" },
+        { "word": "extortionate", "pos": "a.", "ko": "터무니없이 비싼 — 값이 '갈취 수준'이라는 뜻" }
+      ]
+    },
+    {
+      "headword": "breach",
+      "pos": "n.",
+      "ko": "위반; (보안) 침해·유출",
+      "example_en": "The company disclosed the data breach three weeks after it was detected.",
+      "example_ko": "그 회사는 데이터 유출을 탐지한 지 3주 만에 공개했다.",
+      "collocations": ["data breach", "breach of contract", "security breach"],
+      "note": "원뜻은 '벽에 난 갈라진 틈'(break와 한 뿌리). 그 '깨진 자리'가 계약이 깨지면 breach of contract, 보안이 뚫리면 data breach로 확장됐다 — 한 단어의 두 용법이 사실 같은 그림이다.",
+      "related": [
+        { "word": "infringement", "ko": "침해", "note": "infringement는 저작권·특허 같은 권리를 침범할 때, breach는 계약·보안·신뢰가 '깨진' 상황에 쓴다" }
+      ]
+    },
+    {
+      "headword": "intrusion",
+      "pos": "n.",
+      "ko": "침입; (사생활) 침해",
+      "example_en": "The utility detected an intrusion into its control network months after the fact.",
+      "example_ko": "그 공익사업체는 제어망 침입을 몇 달이나 지난 뒤에야 탐지했다.",
+      "collocations": ["network intrusion", "intrusion detection"],
+      "note": "어원: in-(안으로) + trud-(밀다) — 안으로 밀고 들어옴. 같은 뿌리 protrude(앞으로 밀다 = 튀어나오다)와 함께 'trud = 밀다'로 묶으면 처음 보는 파생어도 뜻이 잡힌다.",
+      "family": [
+        { "word": "intrude", "pos": "v.", "ko": "침입하다, 끼어들다" },
+        { "word": "intrusive", "pos": "a.", "ko": "거슬리는, 참견하는" }
+      ]
+    },
+    {
+      "headword": "encryption",
+      "pos": "n.",
+      "ko": "암호화",
+      "example_en": "The attackers used strong encryption to lock the hospital's patient records.",
+      "example_ko": "공격자들은 강력한 암호화를 이용해 병원의 환자 기록을 잠갔다.",
+      "collocations": ["end-to-end encryption", "strong encryption"],
+      "note": "crypt-(숨기다)가 핵심 — cryptic(수수께끼 같은)·crypt(지하 묘실)와 한 뿌리다. en-은 '~한 상태로 만들다'라서 encrypt = '숨겨진 상태로 만들다'. 반대는 de-(떼어 내다)를 붙인 decrypt.",
+      "family": [
+        { "word": "encrypt", "pos": "v.", "ko": "암호화하다" },
+        { "word": "decrypt", "pos": "v.", "ko": "복호화하다, 암호를 풀다" }
+      ]
+    },
+    {
+      "headword": "adversary",
+      "pos": "n.",
+      "ko": "적수, 상대편",
+      "example_en": "The report treats state-backed hackers as a persistent adversary rather than a one-off threat.",
+      "example_ko": "그 보고서는 국가가 후원하는 해커를 일회성 위협이 아니라 지속적인 적수로 다룬다.",
+      "collocations": ["a formidable adversary", "political adversary"],
+      "note": "ad-(~를 향해) + vers-(돌다) — 나를 향해 '돌아선' 사람. enemy보다 격식 있어 안보·법정·정치 기사에 쓴다. 형용사 adversarial(대립적인)과 adverse(불리한)는 뿌리는 같아도 쓰임이 갈리니 구별해 둘 것.",
+      "related": [
+        { "word": "adverse", "ko": "불리한, 부정적인", "note": "adverse는 상황이 불리한 것(adverse effect 부작용), adversary는 '사람인 적수' — 같은 뿌리에서 갈라진 대표적 혼동 쌍" }
+      ]
+    },
+    {
+      "headword": "perpetrator",
+      "pos": "n.",
+      "ko": "가해자, 범인",
+      "example_en": "Prosecutors have yet to identify the perpetrators of the attack.",
+      "example_ko": "검찰은 아직 그 공격의 가해자들을 특정하지 못했다.",
+      "collocations": ["identify the perpetrator", "the perpetrators of the crime"],
+      "note": "언론 문어체에서 victim(피해자)의 짝으로 나오는 단어(구어 축약형은 perp). 동사 perpetrate(범죄를 저지르다)는 철자가 한 끗 차이인 perpetuate(영속시키다)와 뜻이 전혀 다르니 함께 외워야 한다.",
+      "family": [
+        { "word": "perpetrate", "pos": "v.", "ko": "(범죄·나쁜 짓을) 저지르다" }
+      ],
+      "related": [
+        { "word": "perpetuate", "ko": "영속시키다", "note": "perpetrate(저지르다) vs perpetuate(잘못된 상태를 계속 이어지게 하다) — 시험·독해에서 서로 바꿔 놓고 함정을 만드는 단짝" }
+      ]
+    },
+    {
+      "headword": "paralyze",
+      "pos": "v.",
+      "ko": "마비시키다, 기능을 멈추게 하다",
+      "example_en": "A single ransomware infection paralyzed the port's cargo operations for ten days.",
+      "example_ko": "단 한 번의 랜섬웨어 감염이 그 항구의 화물 운영을 열흘간 마비시켰다.",
+      "collocations": ["paralyze the economy", "be paralyzed by a strike"],
+      "note": "의학의 '신체 마비'에서 출발해 조직·교통·행정이 멈추는 상황으로 확장됐다 — 시사에서는 이 비유적 용법이 압도적으로 많다. 명사 paralysis는 강세가 뒤(pa-RAL-y-sis)로 가고, 영국식 철자는 paralyse다.",
+      "family": [
+        { "word": "paralysis", "pos": "n.", "ko": "마비; 기능 정지" }
+      ]
+    },
+    {
+      "headword": "outage",
+      "pos": "n.",
+      "ko": "(전기·서비스의) 중단, 정전",
+      "example_en": "The outage left thousands of customers without power for two days.",
+      "example_ko": "그 정전으로 수천 명의 고객이 이틀 동안 전기 없이 지냈다.",
+      "collocations": ["power outage", "planned outage", "service outage"],
+      "note": "out + -age(상태·행위를 나타내는 명사 접미사) = '나가 있는 상태'. shortage(부족)·leakage(누출)·spoilage(부패)처럼 -age가 붙어 상태 명사가 되는 패턴으로 한 묶음에 외워 두면 좋다.",
+      "family": [
+        { "word": "shortage", "pos": "n.", "ko": "부족 — 같은 -age 패턴" }
+      ]
+    },
+    {
+      "headword": "coerce",
+      "pos": "v.",
+      "ko": "강요하다, 강압하다",
+      "example_en": "The gang tried to coerce the firm into paying by threatening to publish stolen files.",
+      "example_ko": "그 조직은 훔친 파일을 공개하겠다고 협박해 그 회사가 돈을 내도록 강요하려 했다.",
+      "collocations": ["coerce someone into doing", "coerce a confession"],
+      "note": "co-(함께) + arcere(가두다) — 몰아 가둬 선택지를 없애는 것. force가 물리적 힘이라면 coerce는 협박·압박으로 '어쩔 수 없게' 만드는 쪽이고, coerce A into -ing 형태로 거의 굳어져 쓰인다.",
+      "family": [
+        { "word": "coercion", "pos": "n.", "ko": "강압, 강제" },
+        { "word": "coercive", "pos": "a.", "ko": "강압적인" }
+      ],
+      "related": [
+        { "word": "compel", "ko": "~하지 않을 수 없게 하다", "note": "compel은 상황·규정이 그렇게 만드는 경우까지 포함하지만, coerce는 위협을 가하는 주체가 있어 부정적 뉘앙스가 훨씬 강하다" }
+      ]
+    },
+    {
+      "headword": "covert",
+      "pos": "a.",
+      "ko": "은밀한, 비밀리에 이뤄지는",
+      "example_en": "The agency ran a covert operation to trace the ransom payments.",
+      "example_ko": "그 기관은 몸값 지급 경로를 추적하기 위해 은밀한 작전을 폈다.",
+      "collocations": ["covert operation", "covert surveillance"],
+      "note": "cover(덮다)의 친척 — '덮여 있는'. 반의어 overt(공공연한)와 c/o 한 글자만 다르니 covert ↔ overt를 반드시 한 쌍으로 외운다.",
+      "related": [
+        { "word": "overt", "ko": "공공연한, 드러난", "note": "covert(숨긴) ↔ overt(드러낸) — 철자 한 글자 차이로 정반대가 되는 대표적 쌍" }
+      ]
+    },
+    {
+      "headword": "succumb",
+      "pos": "v.",
+      "ko": "굴복하다; (병·부상으로) 죽다",
+      "example_en": "Rather than succumb to the demand, the city restored its systems from backups.",
+      "example_ko": "그 시(市)는 요구에 굴복하는 대신 백업으로 시스템을 복구했다.",
+      "collocations": ["succumb to pressure", "succumb to temptation"],
+      "note": "sub-(아래) + cumb-(눕다) — 압력 아래 '드러눕다'가 원래 그림. 항상 succumb to + 명사 꼴이고, 뉴스의 'succumbed to his injuries'는 완곡어법으로 '부상으로 사망했다'는 뜻이니 문맥으로 갈라 읽어야 한다.",
+      "related": [
+        { "word": "surrender", "ko": "항복하다", "note": "surrender는 무기를 내려놓는 공식적 항복, succumb은 압력·유혹·병에 서서히 무너지는 쪽" }
+      ]
+    },
+    {
+      "headword": "legacy",
+      "pos": "a.",
+      "ko": "(IT) 구형의, 낡은 / n. 유산",
+      "example_en": "Much of the network still runs on legacy software that the vendor stopped supporting years ago.",
+      "example_ko": "그 망의 상당 부분은 공급업체가 몇 년 전에 지원을 끊은 구형 소프트웨어로 여전히 돌아간다.",
+      "collocations": ["legacy system", "leave a legacy", "legacy code"],
+      "note": "명사로는 '물려받은 유산'이라 긍정적인데, IT 문맥에서 형용사로 쓰이면 '낡아서 손댈 수 없는 골칫거리'라는 부정적 뉘앙스로 뒤집힌다 — 같은 단어의 두 얼굴을 문맥으로 갈라야 한다.",
+      "related": [
+        { "word": "heritage", "ko": "유산", "note": "heritage는 문화·전통처럼 사회가 물려받아 지킬 것, legacy는 한 사람·한 시대가 남긴 결과물(좋은 것도 나쁜 것도)" }
+      ]
+    },
+    {
+      "headword": "prudent",
+      "pos": "a.",
+      "ko": "신중한, 분별 있는",
+      "example_en": "It would be prudent to set aside a reserve for cyber incidents.",
+      "example_ko": "사이버 사고에 대비해 준비금을 따로 떼어 두는 것이 신중한 처사일 것이다.",
+      "collocations": ["a prudent decision", "prudent management"],
+      "note": "provident(앞을 내다보는)가 줄어든 말 — 앞일을 내다보고 조심한다는 뜻이다. careful이 '실수하지 않으려는 주의'라면 prudent는 '손해를 피하려는 판단'에 가까워 금융·경영 문서에 특히 자주 나온다.",
+      "family": [
+        { "word": "prudence", "pos": "n.", "ko": "신중함, 분별" },
+        { "word": "imprudent", "pos": "a.", "ko": "경솔한" }
+      ]
+    },
+    {
+      "headword": "consecutive",
+      "pos": "a.",
+      "ko": "연속적인, 연이은",
+      "example_en": "The service went down on three consecutive weekends.",
+      "example_ko": "그 서비스는 3주 연속 주말마다 다운됐다.",
+      "collocations": ["for the third consecutive year", "consecutive days"],
+      "note": "con-(함께) + sequ-(따르다) — 줄줄이 따라옴. sequence(순서)·consequence(결과)·subsequent(그 뒤의)가 모두 'sequ = 따르다' 한 뿌리다. 시사에서는 숫자와 붙은 'for the fourth consecutive quarter(4분기 연속)' 꼴로 굳어져 나온다.",
+      "family": [
+        { "word": "consecutively", "pos": "ad.", "ko": "연속으로" },
+        { "word": "subsequent", "pos": "a.", "ko": "그 뒤의, 이후의" }
+      ]
+    },
+    {
+      "headword": "indispensable",
+      "pos": "a.",
+      "ko": "없어서는 안 될, 필수적인",
+      "example_en": "Offline backups are indispensable to any credible recovery plan.",
+      "example_ko": "오프라인 백업은 신뢰할 만한 어떤 복구 계획에도 없어서는 안 될 요소다.",
+      "collocations": ["indispensable to", "an indispensable role"],
+      "note": "dispense with(~없이 지내다)에 in-(부정) + -able을 붙인 말 = '없이 지낼 수 없는'. dispense를 '나눠 주다'로만 알면 뜻이 안 잡히니 반드시 dispense with라는 숙어와 함께 외운다. 뒤에는 to 또는 for가 붙는다.",
+      "family": [
+        { "word": "dispensable", "pos": "a.", "ko": "없어도 되는, 그다지 중요치 않은" },
+        { "word": "dispense with", "ko": "~없이 지내다, ~을 생략하다" }
+      ]
+    },
+    {
+      "headword": "forestall",
+      "pos": "v.",
+      "ko": "미연에 방지하다, 선수 쳐서 막다",
+      "example_en": "The regulator acted early to forestall a run on the bank.",
+      "example_ko": "감독 당국은 은행에 대한 예금 인출 사태를 미연에 막으려 일찍 움직였다.",
+      "collocations": ["forestall a crisis", "forestall criticism"],
+      "note": "fore-(미리) + stall(막아 세우다) — 상대가 움직이기 전에 길목을 막는 그림. prevent가 '결과를 막는다'는 뜻이라면 forestall에는 '먼저 손을 쓴다'는 시간 개념이 핵심으로 들어 있다.",
+      "related": [
+        { "word": "deter", "ko": "단념시키다", "note": "deter는 겁을 줘 상대가 스스로 그만두게 하는 것, forestall은 먼저 손을 써서 기회 자체를 없애는 것" }
+      ]
+    },
+    {
+      "headword": "pertinent",
+      "pos": "a.",
+      "ko": "관련 있는, (사안에) 적절한",
+      "example_en": "Only the documents pertinent to the breach were handed over to regulators.",
+      "example_ko": "그 유출 사건과 관련 있는 문서만 감독 당국에 넘겨졌다.",
+      "collocations": ["pertinent to", "pertinent information"],
+      "note": "per-(완전히) + tin-(붙잡다) — 사안에 딱 '붙어 있는'. relevant와 뜻은 거의 같지만 더 격식체라 보고서·계약서에 쓰이고, 동사형 pertain to(~에 관계되다)로도 자주 나온다.",
+      "family": [
+        { "word": "pertain", "pos": "v.", "ko": "(~에) 관계되다, 해당하다" }
+      ],
+      "related": [
+        { "word": "impertinent", "ko": "무례한, 건방진", "note": "접두사 im-이 붙었는데 '관련 없는'이 아니라 '무례한'으로 뜻이 튀어 버린 대표적 함정" }
+      ]
+    },
+    {
+      "headword": "appraisal",
+      "pos": "n.",
+      "ko": "평가; 감정(가치 산정)",
+      "example_en": "The insurer ordered an independent appraisal of the damage before settling the claim.",
+      "example_ko": "보험사는 보험금을 지급하기 전에 피해에 대한 독립적인 감정을 지시했다.",
+      "collocations": ["performance appraisal", "an independent appraisal"],
+      "note": "ap- + praise(값을 매기다) — 원래 '값을 매기다'였던 말이 '칭찬하다(praise)'로 갈라져 나갔다. appraisal은 가치·성과를 값으로 환산하는 평가(performance appraisal 인사고과)이고, 사안을 따져 보는 검토는 assessment 쪽이 자연스럽다.",
+      "family": [
+        { "word": "appraise", "pos": "v.", "ko": "평가하다, 감정하다" }
+      ],
+      "related": [
+        { "word": "apprise", "ko": "알리다, 통지하다", "note": "appraise(평가하다) vs apprise(통지하다) — 철자 a 하나 차이에 뜻이 완전히 다르다. apprise A of B(A에게 B를 알리다) 꼴로 쓴다" }
+      ]
+    }
+  ]
+}

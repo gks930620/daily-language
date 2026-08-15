@@ -1035,6 +1035,51 @@
     },
     "incur": {
       "added_on": "2026-08-15"
+    },
+    "extortion": {
+      "added_on": "2026-08-16"
+    },
+    "breach": {
+      "added_on": "2026-08-16"
+    },
+    "intrusion": {
+      "added_on": "2026-08-16"
+    },
+    "encryption": {
+      "added_on": "2026-08-16"
+    },
+    "adversary": {
+      "added_on": "2026-08-16"
+    },
+    "perpetrator": {
+      "added_on": "2026-08-16"
+    },
+    "paralyze": {
+      "added_on": "2026-08-16"
+    },
+    "outage": {
+      "added_on": "2026-08-16"
+    },
+    "coerce": {
+      "added_on": "2026-08-16"
+    },
+    "covert": {
+      "added_on": "2026-08-16"
+    },
+    "succumb": {
+      "added_on": "2026-08-16"
+    },
+    "legacy": {
+      "added_on": "2026-08-16"
+    },
+    "prudent": {
+      "added_on": "2026-08-16"
+    },
+    "consecutive": {
+      "added_on": "2026-08-16"
+    },
+    "indispensable": {
+      "added_on": "2026-08-16"
     }
   }
 }
