@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-17",
+  "passage_note": "보건·산업 — 의약품 특허와 약가를 둘러싼 논쟁, 그리고 강제실시권의 한계(논설)",
+  "sentences": [
+    {
+      "en": "For decades the pharmaceutical industry has defended patent exclusivity as the price society pays for innovation: without a temporary monopoly, it argues, few firms would shoulder the outlays that bringing a drug to market entails.",
+      "ko": "수십 년 동안 제약업계는 특허 독점권을 사회가 혁신의 대가로 치르는 값이라며 옹호해 왔다. 한시적 독점이 없다면 약 하나를 시장에 내놓는 데 수반되는 지출을 떠맡을 회사는 거의 없으리라는 것이다.",
+      "structure": "· 콜론(:) 뒤는 앞 문장의 근거를 부연하는 자리 — 업계의 논리를 그대로 옮겨 놓았다.\n· without a temporary monopoly ~ would shoulder : without이 if it were not for를 대신하는 가정법 과거. 주절에 would가 오는 것이 신호다.\n· it argues : 삽입절(문장 중간에 끼워 넣은 주절). 콤마 둘 사이를 들어내도 문장이 성립한다.\n· the outlays that bringing a drug to market entails : that은 목적격 관계대명사이고, 관계사절의 주어는 동명사구 bringing a drug to market, 동사는 entails다(entails의 목적어 자리가 비어 있다)."
+    },
+    {
+      "en": "Critics counter that the system has drifted from that rationale, pointing to secondary patents stacked on trivial reformulations so that a profitable drug can fend off generic competition long after its original protection lapses.",
+      "ko": "비판론자들은 이 제도가 그 명분에서 멀어졌다고 반박하며, 수익성 좋은 약이 원래의 보호 기간이 만료된 뒤에도 한참 동안 복제약과의 경쟁을 막아 낼 수 있도록 사소한 제형 변경에 덧쌓아 놓은 2차 특허들을 지적한다.",
+      "structure": "· counter that ~ : that절을 목적어로 받는 '반박하다'. counter는 명사(반대)·동사(반박하다) 둘 다 된다.\n· pointing to ~ : 분사구문(주어는 주절과 같은 Critics). '~하면서, 그러면서 ~을 지적한다'는 동시·부연.\n· stacked on trivial reformulations : 과거분사구가 앞의 secondary patents를 뒤에서 수식(관계사절 which are stacked ~의 축약).\n· so that + 주어 + can ~ : 목적('~할 수 있도록'). 결과의 so ~ that과 혼동하지 말 것.\n· long after ~ lapses : after가 이끄는 시간 부사절이고 long은 그 절을 강조하는 부사('~한 뒤로도 한참')."
+    },
+    {
+      "en": "The consequences fall unevenly: where insurers and intermediaries do little to cushion the markup, a regimen costing a few dollars to manufacture may be priced beyond the reach of the very patients whose ailments it was meant to treat.",
+      "ko": "그 여파는 고르게 오지 않는다. 보험사와 중간 유통업자가 가격 인상폭을 완충해 주지 못하는 곳에서는, 제조 원가가 몇 달러에 불과한 요법이 정작 그 약이 치료하려던 환자들의 손이 닿지 않는 값에 매겨질 수 있다.",
+      "structure": "· 콜론(:) 뒤에서 '고르지 않다'는 앞말을 구체적으로 풀어 준다.\n· where ~ do little to cushion : where가 이끄는 장소 부사절('~한 곳에서는'). 관계부사가 아니라 접속사 용법이다.\n· a regimen costing a few dollars to manufacture : 현재분사구가 regimen을 후치수식(= which costs ~). to manufacture는 '제조하는 데'라는 부사적 용법.\n· the very patients : very가 명사 앞에서 '바로 그'라는 강조 형용사로 쓰였다.\n· whose ailments it was meant to treat : 소유격 관계대명사 whose가 이끄는 절. treat의 목적어(ailments)가 관계사로 빠져나간 자리에 주목."
+    },
+    {
+      "en": "Faced with such disparities, several governments have invoked compulsory licensing, which lets a state authorize generic production in exchange for a modest royalty, only to be met with threats of litigation and trade retaliation.",
+      "ko": "이런 격차에 직면한 몇몇 정부는 강제실시권을 발동했다. 국가가 많지 않은 사용료를 대가로 복제약 생산을 허가할 수 있게 해 주는 제도인데, 결국 소송과 무역 보복의 위협에 부딪히고 말았다.",
+      "structure": "· Faced with ~ : 과거분사 분사구문(Being이 생략된 수동형). 주어인 governments가 '직면당한' 쪽이라 과거분사를 쓴다.\n· which lets a state authorize ~ : 콤마 뒤 계속적 용법의 관계대명사(앞 내용 전체가 아니라 compulsory licensing을 받는다). 사역동사 let + 목적어 + 원형부정사(authorize) 구조.\n· in exchange for ~ : '~의 대가로'.\n· only to be met with ~ : 결과를 나타내는 to부정사('~했지만 결국 ~하게 되다'). 여기서는 수동태(be met with)까지 겹쳤다."
+    },
+    {
+      "en": "Whether those threats are credible matters less than their chilling effect; so long as health ministries fear years of legal attrition, a provision meant to serve as a safeguard will remain a bargaining chip rather than a remedy.",
+      "ko": "그 위협이 실제로 실행될 만한 것인지는 그것이 낳는 위축 효과보다 덜 중요하다. 보건 당국이 몇 년에 걸친 법적 소모전을 두려워하는 한, 안전장치 노릇을 하라고 만들어 둔 조항은 구제책이 아니라 협상 카드로 남을 것이다.",
+      "structure": "· Whether those threats are credible : whether가 이끄는 명사절이 문장의 주어. 동사는 matters(단수 취급).\n· matters less than ~ : '~보다 덜 중요하다'는 열등비교. 여기서 matter는 '중요하다'라는 자동사다.\n· 세미콜론(;)이 두 개의 독립절을 접속사 없이 잇는다.\n· so long as ~ : '~하는 한'이라는 조건 접속사(= as long as).\n· a provision meant to serve as a safeguard : 과거분사구가 provision을 후치수식(= which is meant to ~).\n· A rather than B : 'B가 아니라 A' — 문장 끝에서 대비를 만든다."
+    }
+  ],
+  "words": [
+    {
+      "headword": "patent",
+      "pos": "n.",
+      "ko": "특허(권); (형용사) 명백한",
+      "example_en": "The company filed a patent for a manufacturing process that cuts energy use by half.",
+      "example_ko": "그 회사는 에너지 사용을 절반으로 줄이는 제조 공정에 대해 특허를 출원했다.",
+      "collocations": ["file a patent", "patent expires", "hold a patent"],
+      "note": "어원: 라틴어 patere(열려 있다) — 원래 letters patent는 '누구나 볼 수 있게 공개된 문서'였다. 발명을 공개하는 대가로 독점권을 주는 제도라 뿌리가 '열다'인 것. 형용사 patent(명백한)가 '훤히 드러난'을 뜻하는 이유도 같다.",
+      "family": [
+        { "word": "patented", "pos": "a.", "ko": "특허받은" },
+        { "word": "patentable", "pos": "a.", "ko": "특허를 받을 수 있는" }
+      ],
+      "related": [
+        { "word": "latent", "ko": "잠재된", "note": "철자가 한 글자 차이인데 뜻은 반대쪽 — latent는 '숨어 있는', 형용사 patent는 '훤히 드러난'" }
+      ]
+    },
+    {
+      "headword": "exclusivity",
+      "pos": "n.",
+      "ko": "독점(권), 배타성",
+      "example_en": "The contract grants the distributor five years of exclusivity in the domestic market.",
+      "example_ko": "그 계약은 유통업체에 국내 시장에서의 5년간 독점권을 부여한다.",
+      "collocations": ["market exclusivity", "period of exclusivity"],
+      "note": "exclude(ex- 밖으로 + claud- 닫다)에서 나온 말 — 남을 밖으로 닫아 두는 상태. 형용사 exclusive는 '독점적인'과 '고급의(아무나 못 들어오는)' 두 갈래로 뜻이 벌어지니 문맥으로 갈라 읽어야 한다.",
+      "family": [
+        { "word": "exclude", "pos": "v.", "ko": "배제하다, 제외하다" },
+        { "word": "exclusive", "pos": "a.", "ko": "독점적인; 고급의, 회원제의" },
+        { "word": "exclusion", "pos": "n.", "ko": "배제, 제외" }
+      ]
+    },
+    {
+      "headword": "infringement",
+      "pos": "n.",
+      "ko": "(권리) 침해, 위반",
+      "example_en": "The studio sued a rival firm for copyright infringement.",
+      "example_ko": "그 제작사는 경쟁 업체를 저작권 침해로 고소했다.",
+      "collocations": ["copyright infringement", "patent infringement"],
+      "note": "fring-은 fracture·fragile의 fract-와 한 뿌리로 '부수다' — 남의 권리를 깨고 들어가는 것이 infringement다. 권리를 침범하면 infringement, 계약·신뢰를 깨면 breach로 짝이 갈린다.",
+      "family": [
+        { "word": "infringe", "pos": "v.", "ko": "침해하다, 위반하다" }
+      ],
+      "related": [
+        { "word": "breach", "ko": "위반, 파기", "note": "breach는 계약·약속·보안을 '깨는' 쪽(breach of contract), infringement는 특허·저작권 같은 권리를 침범하는 쪽" }
+      ]
+    },
+    {
+      "headword": "generic",
+      "pos": "a.",
+      "ko": "상표 없는, 복제약의; 일반적인 (명사로 '복제약')",
+      "example_en": "Prices fell sharply once generic versions of the drug entered the market.",
+      "example_ko": "그 약의 복제약이 시장에 들어오자 가격이 급격히 떨어졌다.",
+      "collocations": ["generic drug", "generic version", "generic brand"],
+      "note": "genus(종·속), gene(유전자)와 한 뿌리로 '그 종 전체에 해당하는' — 그래서 특정 상표를 달지 않은 물건을 가리킨다. 제약에서는 특허가 끝난 뒤 나오는 복제약을 뜻하는 전문어로 굳었다.",
+      "related": [
+        { "word": "general", "ko": "전반적인", "note": "뿌리는 같지만 쓰임이 다르다 — generic은 '상표 없는·종 전체의', general은 '전반적인'. 복제약을 general drug라고 하면 통하지 않는다" }
+      ]
+    },
+    {
+      "headword": "efficacy",
+      "pos": "n.",
+      "ko": "효능, 효험",
+      "example_en": "Regulators demanded further data on the vaccine's efficacy in older patients.",
+      "example_ko": "규제 당국은 고령 환자에서의 백신 효능에 관한 추가 데이터를 요구했다.",
+      "collocations": ["clinical efficacy", "demonstrate efficacy", "efficacy and safety"],
+      "note": "effect·efficient와 같은 fac-(만들다) 뿌리 — '의도한 효과를 내는 힘'. 임상 문헌에서는 통제된 시험에서의 효능을 efficacy, 실제 진료 현장에서의 효과를 effectiveness로 구분해 쓴다.",
+      "family": [
+        { "word": "efficacious", "pos": "a.", "ko": "효험 있는" }
+      ],
+      "related": [
+        { "word": "efficiency", "ko": "효율", "note": "efficiency는 '적은 자원으로 해내는가'(투입 대비), efficacy는 '의도한 효과가 나는가'(결과)" }
+      ]
+    },
+    {
+      "headword": "compulsory",
+      "pos": "a.",
+      "ko": "강제적인, 의무적인",
+      "example_en": "Attendance at the safety briefing is compulsory for all contractors.",
+      "example_ko": "안전 교육 참석은 모든 협력업체 직원에게 의무다.",
+      "collocations": ["compulsory education", "compulsory licensing", "compulsory insurance"],
+      "note": "compel(pel- 밀다 → 밀어붙이다)의 형용사. 제도가 강제하는 것에는 compulsory, 사람의 마음이 강박적인 것에는 compulsive로 뜻이 갈라진다.",
+      "family": [
+        { "word": "compel", "pos": "v.", "ko": "강요하다, ~하게 만들다" },
+        { "word": "compulsion", "pos": "n.", "ko": "강제; 강박 충동" }
+      ],
+      "related": [
+        { "word": "compulsive", "ko": "강박적인", "note": "파생에서 뜻이 갈라지는 짝 — compulsory는 '(규정상) 의무인', compulsive는 '(성격상) 못 참고 하는'. compulsive gambler는 상습 도박꾼" }
+      ]
+    },
+    {
+      "headword": "royalty",
+      "pos": "n.",
+      "ko": "사용료, 인세; 왕족",
+      "example_en": "The inventor receives a royalty on every unit the licensee sells.",
+      "example_ko": "그 발명가는 실시권자가 판매하는 모든 제품에 대해 사용료를 받는다.",
+      "collocations": ["pay royalties", "royalty payment", "royalty rate"],
+      "note": "royal(왕의)에서 나온 말 — 옛날 왕이 광산·토지 사용을 허락하고 받아 가던 몫이 그대로 특허·저작권 사용료를 가리키게 됐다. 한 단어에 '왕족'과 '사용료'가 같이 들어 있는 이유가 여기 있다. 사용료 뜻일 때는 보통 복수형 royalties.",
+      "family": [
+        { "word": "royal", "pos": "a.", "ko": "왕의, 왕실의" }
+      ]
+    },
+    {
+      "headword": "litigation",
+      "pos": "n.",
+      "ko": "소송, 법적 다툼",
+      "example_en": "The dispute dragged on for years of costly litigation.",
+      "example_ko": "그 분쟁은 비용이 많이 드는 소송으로 몇 년을 끌었다.",
+      "collocations": ["costly litigation", "threat of litigation", "face litigation"],
+      "note": "lit-(다툼) 뿌리. lawsuit이 소송 '한 건'을 세는 말이라면 litigation은 법정에서 다투는 과정 전체를 가리키는 불가산 명사다 — 그래서 a litigation이라고 하지 않는다.",
+      "family": [
+        { "word": "litigate", "pos": "v.", "ko": "소송으로 다투다" },
+        { "word": "litigant", "pos": "n.", "ko": "소송 당사자" }
+      ],
+      "related": [
+        { "word": "arbitration", "ko": "중재", "note": "분쟁을 법정에서 풀면 litigation, 법정 밖에서 중재인에게 맡기면 arbitration" }
+      ]
+    },
+    {
+      "headword": "recoup",
+      "pos": "v.",
+      "ko": "(비용·손실을) 회수하다, 벌충하다",
+      "example_en": "It took the airline three years to recoup the cost of the new fleet.",
+      "example_ko": "그 항공사가 새 기단의 비용을 회수하는 데 3년이 걸렸다.",
+      "collocations": ["recoup costs", "recoup losses", "recoup an investment"],
+      "note": "프랑스어 couper(자르다)에서 온 말로 '떼어 두었다가 되찾다'가 본뜻. recover가 건강·물건까지 두루 쓰이는 반면 recoup은 '들어간 돈을 벌어서 메운다'는 회계·투자 맥락에 거의 고정돼 있다.",
+      "related": [
+        { "word": "recover", "ko": "회복하다; 되찾다", "note": "recover는 건강·경기·분실물까지 폭넓게, recoup은 비용·손실을 메우는 돈 이야기에 쓴다" }
+      ]
+    },
+    {
+      "headword": "regimen",
+      "pos": "n.",
+      "ko": "(투약·식이) 요법, 규칙적인 관리법",
+      "example_en": "Patients who complete the full regimen are far less likely to relapse.",
+      "example_ko": "전체 요법을 끝까지 마친 환자는 재발할 가능성이 훨씬 낮다.",
+      "collocations": ["treatment regimen", "daily regimen", "strict regimen"],
+      "note": "reg-(다스리다) 뿌리라 regime(정권)·regiment(연대)와 형제다 — '몸을 다스리는 규칙'이 regimen. e 하나 차이인 regime과 헷갈리기 쉬우니 의학 문맥이면 regimen을 떠올리면 된다.",
+      "related": [
+        { "word": "regime", "ko": "정권, 체제", "note": "regimen은 의학의 '요법', regime은 정치의 '정권·체제'. 철자는 e 하나 차이지만 만나는 자리가 전혀 다르다" }
+      ]
+    },
+    {
+      "headword": "ailment",
+      "pos": "n.",
+      "ko": "(가벼운·만성) 질환, 병",
+      "example_en": "The clinic treats minor ailments that would otherwise crowd emergency rooms.",
+      "example_ko": "그 진료소는 그러지 않으면 응급실을 붐비게 할 가벼운 질환들을 치료한다.",
+      "collocations": ["minor ailment", "chronic ailment", "common ailments"],
+      "note": "ail(괴롭히다, 앓게 하다) + -ment. 목숨을 위협하는 중병이 아니라 '앓는 정도'의 병에 쓰는 말이라 minor·common과 잘 붙는다. 중병은 disease나 illness 쪽. 형용사 ailing은 사람뿐 아니라 '부진한 경제·기업'에도 쓴다.",
+      "family": [
+        { "word": "ail", "pos": "v.", "ko": "괴롭히다, 앓다" },
+        { "word": "ailing", "pos": "a.", "ko": "병든; (경제·기업이) 부진한" }
+      ]
+    },
+    {
+      "headword": "markup",
+      "pos": "n.",
+      "ko": "(원가에 얹는) 가격 인상폭, 마진",
+      "example_en": "Retailers apply a markup of roughly forty percent on imported goods.",
+      "example_ko": "소매업체들은 수입품에 대략 40퍼센트의 가격 인상폭을 붙인다.",
+      "collocations": ["a high markup", "apply a markup", "markup on ~"],
+      "note": "동사구 mark up(값을 올려 매기다)이 통째로 명사가 된 말 — output·outbreak처럼 구동사가 굳은 사례다. 원가에 얹는 폭이 markup, 매긴 값에서 깎는 폭이 markdown이라 짝으로 외우면 좋다.",
+      "related": [
+        { "word": "markdown", "ko": "가격 인하폭", "note": "markup의 반대짝 — 값을 얹으면 markup, 내리면 markdown" }
+      ]
+    },
+    {
+      "headword": "disparity",
+      "pos": "n.",
+      "ko": "격차, 불균형",
+      "example_en": "The report highlights a widening disparity in wages between the two regions.",
+      "example_ko": "그 보고서는 두 지역 간 임금 격차가 벌어지고 있음을 부각한다.",
+      "collocations": ["income disparity", "wide disparity", "regional disparity"],
+      "note": "dis-(아닌) + par(동등한 — parity·compare의 그 par). 단순한 차이(difference)가 아니라 '같아야 할 것이 같지 않다'는 불공평의 뉘앙스가 있어서 소득·의료·교육 격차 기사에 늘 등장한다.",
+      "family": [
+        { "word": "parity", "pos": "n.", "ko": "동등, 등가" },
+        { "word": "disparate", "pos": "a.", "ko": "이질적인, 전혀 다른" }
+      ]
+    },
+    {
+      "headword": "intermediary",
+      "pos": "n.",
+      "ko": "중개자, 중간 유통업자 (형용사로 '중간의')",
+      "example_en": "Cutting out intermediaries allowed the cooperative to pay farmers more.",
+      "example_ko": "중간 유통업자를 없앤 덕분에 그 협동조합은 농가에 더 많이 지급할 수 있었다.",
+      "collocations": ["financial intermediary", "act as an intermediary", "cut out intermediaries"],
+      "note": "inter-(사이) + medi-(가운데) — 양쪽 사이에 서는 존재. 사람·기관·물질을 모두 가리키고, 금융에서는 예금과 대출을 잇는 은행 같은 financial intermediary가 대표 용례다.",
+      "family": [
+        { "word": "mediate", "pos": "v.", "ko": "중재하다" },
+        { "word": "mediation", "pos": "n.", "ko": "중재, 조정" },
+        { "word": "intermediate", "pos": "a.", "ko": "중간의, 중급의" }
+      ]
+    },
+    {
+      "headword": "outlay",
+      "pos": "n.",
+      "ko": "지출, 경비",
+      "example_en": "The initial outlay is steep, but the system pays for itself within four years.",
+      "example_ko": "초기 지출은 부담스럽지만, 그 시스템은 4년 안에 본전을 뽑는다.",
+      "collocations": ["initial outlay", "capital outlay", "a large outlay"],
+      "note": "lay out(돈을 쓰다)이 뒤집혀 명사가 된 말 — output·outbreak과 같은 방식이다. 일상적인 지출 전반은 expenditure, 한 번에 크게 나가는 초기 투자는 outlay 쪽이 자연스럽다.",
+      "related": [
+        { "word": "expenditure", "ko": "지출, 경비", "note": "expenditure는 지출 전반을 가리키는 격식어, outlay는 특정 목적에 한 번에 들어가는 목돈" }
+      ]
+    },
+    {
+      "headword": "reap",
+      "pos": "v.",
+      "ko": "(이익을) 거두다; 수확하다",
+      "example_en": "Early investors reaped enormous returns when the firm went public.",
+      "example_ko": "초기 투자자들은 그 회사가 상장했을 때 막대한 수익을 거두었다.",
+      "collocations": ["reap the benefits", "reap rewards", "reap profits"],
+      "note": "원뜻은 곡식을 '수확하다'라서 You reap what you sow(뿌린 대로 거둔다)는 속담이 나왔다. 요즘 글에서는 비유로 쓰는 reap the benefits/rewards가 압도적으로 자주 보인다.",
+      "related": [
+        { "word": "sow", "ko": "씨를 뿌리다", "note": "reap과 짝을 이루는 말 — 뿌리는 것이 sow, 거두는 것이 reap" }
+      ]
+    },
+    {
+      "headword": "amortize",
+      "pos": "v.",
+      "ko": "(부채를) 분할 상환하다; (비용을) 여러 해에 나누어 계상하다",
+      "example_en": "The firm amortizes the licensing fee over the ten-year term of the agreement.",
+      "example_ko": "그 회사는 실시권 사용료를 계약 기간 10년에 걸쳐 나누어 상각한다.",
+      "collocations": ["amortize a loan", "amortize the cost over ~"],
+      "note": "a-(~쪽으로) + mort(죽음 — mortal·mortgage의 그 mort) — 빚을 조금씩 '죽여' 없앤다는 발상에서 왔다. mortgage(주택담보대출)도 같은 뿌리라 묶어 두면 둘 다 기억에 남는다.",
+      "family": [
+        { "word": "amortization", "pos": "n.", "ko": "분할 상환; (무형자산) 상각" }
+      ],
+      "related": [
+        { "word": "depreciate", "ko": "감가상각하다; 가치가 떨어지다", "note": "기계·건물 같은 유형자산의 가치 감소는 depreciate, 특허·영업권 같은 무형자산이나 부채를 기간에 나누는 것은 amortize" }
+      ]
+    },
+    {
+      "headword": "attrition",
+      "pos": "n.",
+      "ko": "소모, 마모; (인력의) 자연 감소",
+      "example_en": "The company shrank its workforce through attrition rather than layoffs.",
+      "example_ko": "그 회사는 정리해고가 아니라 자연 감소를 통해 인력을 줄였다.",
+      "collocations": ["war of attrition", "attrition rate", "through attrition"],
+      "note": "at- + trit-(문지르다)에서 온 말로 '조금씩 갈려 나가는 것'. 대표 표현은 war of attrition(소모전)이고, 인사 기사에서는 해고 없이 퇴직·이직으로 인원이 빠지는 natural attrition을 뜻하니 문맥으로 갈라 읽어야 한다.",
+      "related": [
+        { "word": "erosion", "ko": "침식, 잠식", "note": "둘 다 '조금씩 닳음'이지만 erosion은 땅·신뢰·가치가 깎이는 쪽, attrition은 인력·전력이 소모되어 줄어드는 쪽에 붙는다" }
+      ]
+    }
+  ]
+}
