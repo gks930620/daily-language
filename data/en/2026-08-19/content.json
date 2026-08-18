@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-19",
+  "passage_note": "환경·산업 — 전자폐기물과 '수리할 권리'를 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "For decades, manufacturers have quietly designed consumer electronics to be replaced rather than repaired, embedding proprietary screws, glued-in batteries, and software locks that render independent servicing all but impossible.",
+      "ko": "수십 년 동안 제조업체들은 가전제품을 수리되기보다는 교체되도록 조용히 설계해 왔다. 특수 규격의 나사, 접착제로 붙여 놓은 배터리, 그리고 독립 수리를 사실상 불가능하게 만드는 소프트웨어 잠금장치를 심어 놓으면서 말이다.",
+      "structure": "· For decades + 현재완료(have designed) : '지난 수십 년간 계속 ~해 왔다'는 계속 용법. for + 기간이 현재완료를 부른다.\n· designed A to be replaced rather than repaired : 수동 부정사 두 개가 rather than으로 병렬 — '수리되기보다 교체되도록'.\n· embedding ~ : 분사구문(동시동작). 생략된 주어는 주절과 같은 manufacturers.\n· that render ~ : software locks를 받는 주격 관계대명사. render + 목적어 + 형용사(5형식)로 '~을 …한 상태로 만들다'.",
+      "vocab_notes": [
+        { "word": "manufacturer", "ko": "제조업체" },
+        { "word": "consumer electronics", "ko": "가전제품, 소비자 전자기기" },
+        { "word": "rather than", "ko": "~보다는, ~하지 않고" },
+        { "word": "repair", "ko": "수리하다" },
+        { "word": "embed", "ko": "박아 넣다, 심어 두다" },
+        { "word": "proprietary", "ko": "그 회사 고유의, 독점적인" },
+        { "word": "screw", "ko": "나사" },
+        { "word": "glued-in", "ko": "접착제로 붙여 놓은" },
+        { "word": "software lock", "ko": "소프트웨어 잠금장치" },
+        { "word": "render", "ko": "(어떤 상태로) 만들다" },
+        { "word": "servicing", "ko": "정비, 수리" },
+        { "word": "all but", "ko": "사실상, 거의 (= almost)" }
+      ]
+    },
+    {
+      "en": "The consequences are visible in the mountains of discarded devices piling up in landfills, where heavy metals leach into groundwater long after the gadgets themselves have been forgotten.",
+      "ko": "그 결과는 매립지에 쌓여 가는 폐기된 기기들의 산더미에서 눈으로 확인된다. 그곳에서는 그 기기들이 잊힌 지 한참 뒤에도 중금속이 지하수로 스며든다.",
+      "structure": "· discarded devices piling up ~ : 과거분사 discarded는 앞에서, 현재분사구 piling up은 뒤에서 devices를 수식 — 한 명사를 앞뒤로 꾸미는 형태.\n· , where : landfills를 받는 관계부사(= in which)의 계속적 용법. 콤마가 있으므로 '그리고 그곳에서는'으로 이어 읽는다.\n· long after + 절 : '~한 지 한참 뒤에도'.\n· themselves : the gadgets를 강조하는 재귀대명사(강조 용법이라 빼도 문장이 성립한다).",
+      "vocab_notes": [
+        { "word": "consequence", "ko": "결과, 여파" },
+        { "word": "visible", "ko": "눈에 보이는, 뚜렷한" },
+        { "word": "mountains of", "ko": "산더미 같은 ~" },
+        { "word": "discard", "ko": "버리다, 폐기하다" },
+        { "word": "pile up", "ko": "쌓이다" },
+        { "word": "landfill", "ko": "쓰레기 매립지" },
+        { "word": "heavy metal", "ko": "중금속" },
+        { "word": "leach", "ko": "스며 나오다, 침출되다" },
+        { "word": "groundwater", "ko": "지하수" },
+        { "word": "gadget", "ko": "(작은) 기기, 장치" }
+      ]
+    },
+    {
+      "en": "Frustrated by the mounting waste, legislators on both continents have begun to enact so-called right-to-repair statutes, which compel firms to sell spare parts and diagnostic tools to independent workshops at reasonable prices.",
+      "ko": "늘어나는 폐기물에 답답해진 양 대륙의 입법자들은 이른바 '수리할 권리' 법령을 제정하기 시작했는데, 이 법은 기업들이 예비 부품과 진단 장비를 독립 수리점에 합리적인 가격으로 판매하도록 강제한다.",
+      "structure": "· Frustrated by ~ : 과거분사로 시작하는 분사구문(수동). 원래는 Because they were frustrated by ~.\n· mounting : '점점 커지는'이라는 뜻의 현재분사가 형용사로 굳어져 waste를 수식.\n· , which : statutes를 받는 계속적 용법의 관계대명사. 콤마 뒤이므로 that으로 바꿔 쓸 수 없다.\n· compel + 목적어 + to부정사 : '~가 …하도록 강제하다'. 같은 형식을 취하는 동사: force, oblige, require.",
+      "vocab_notes": [
+        { "word": "frustrated", "ko": "좌절한, 답답해하는" },
+        { "word": "mounting", "ko": "점점 늘어나는" },
+        { "word": "waste", "ko": "폐기물, 쓰레기" },
+        { "word": "legislator", "ko": "입법자, 국회의원" },
+        { "word": "continent", "ko": "대륙" },
+        { "word": "enact", "ko": "(법을) 제정하다" },
+        { "word": "so-called", "ko": "이른바" },
+        { "word": "statute", "ko": "법령, 제정법" },
+        { "word": "compel", "ko": "강제하다" },
+        { "word": "spare parts", "ko": "예비 부품, 교체용 부품" },
+        { "word": "diagnostic", "ko": "진단(용)의" },
+        { "word": "workshop", "ko": "작업장, 수리점" }
+      ]
+    },
+    {
+      "en": "Industry groups counter that unrestricted access to repair manuals would jeopardize both user safety and intellectual property, arguing that untrained technicians could inadvertently damage batteries prone to catching fire.",
+      "ko": "업계 단체들은 수리 설명서에 대한 무제한 접근이 사용자 안전과 지식재산권을 모두 위태롭게 할 것이라고 반박하면서, 훈련받지 않은 기술자들이 화재가 나기 쉬운 배터리를 본의 아니게 손상시킬 수 있다고 주장한다.",
+      "structure": "· counter that ~ : counter가 '반박하다'라는 동사로 쓰여 that절을 목적어로 받는다(명사 '반대'가 아님에 주의).\n· would : if절 없이 조동사만으로 가정을 나타낸 형태 — '(그렇게 한다면) ~할 것이다'.\n· both A and B : user safety와 intellectual property의 병렬.\n· arguing that ~ : 분사구문(동시동작). 주어는 주절과 같은 Industry groups.\n· batteries prone to catching fire : 형용사구 prone to ~가 batteries를 뒤에서 수식. prone to의 to는 전치사라 뒤에 동명사가 온다.",
+      "vocab_notes": [
+        { "word": "industry group", "ko": "업계 단체" },
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "unrestricted", "ko": "제한 없는" },
+        { "word": "access", "ko": "접근(권)" },
+        { "word": "repair manual", "ko": "수리 설명서" },
+        { "word": "jeopardize", "ko": "위태롭게 하다" },
+        { "word": "intellectual property", "ko": "지식재산권" },
+        { "word": "untrained", "ko": "훈련받지 않은" },
+        { "word": "technician", "ko": "기술자, 정비공" },
+        { "word": "inadvertently", "ko": "본의 아니게, 무심코" },
+        { "word": "prone to", "ko": "~하기 쉬운" },
+        { "word": "catch fire", "ko": "불이 붙다" }
+      ]
+    },
+    {
+      "en": "Critics dismiss this as a pretext, noting that what is really at stake is a lucrative aftermarket in which authorized service centers charge a hefty premium for repairs that a competent hobbyist could carry out for a fraction of the cost.",
+      "ko": "비판자들은 이를 구실에 불과하다고 치부하며, 정말로 걸려 있는 것은 수익성 좋은 애프터마켓이라고 지적한다. 그 시장에서는 공인 서비스 센터들이, 능숙한 취미 수리인이라면 비용의 몇 분의 일로 해낼 수 있을 수리에 대해 두둑한 웃돈을 매긴다.",
+      "structure": "· dismiss A as B : 'A를 B로 치부하다, 일축하다'. as 뒤에는 명사나 형용사가 온다.\n· noting that ~ : 분사구문(동시동작).\n· what is really at stake : 관계대명사 what이 이끄는 명사절이 that절 안의 주어 — '정말로 걸려 있는 것은'.\n· in which : aftermarket을 받는 '전치사 + 관계대명사'(= where).\n· repairs that a competent hobbyist could carry out : that은 repairs를 받는 목적격 관계대명사(carry out 뒤 목적어 자리가 비어 있다).",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판자" },
+        { "word": "dismiss A as B", "ko": "A를 B로 치부하다" },
+        { "word": "pretext", "ko": "구실, 핑계" },
+        { "word": "note", "ko": "지적하다, 언급하다" },
+        { "word": "at stake", "ko": "걸려 있는, 관건인" },
+        { "word": "lucrative", "ko": "수익성 좋은" },
+        { "word": "aftermarket", "ko": "애프터마켓(부품·수리 시장)" },
+        { "word": "authorized", "ko": "공인된, 인가받은" },
+        { "word": "hefty", "ko": "상당한, 두둑한" },
+        { "word": "premium", "ko": "웃돈, 할증금" },
+        { "word": "competent", "ko": "유능한, 능숙한" },
+        { "word": "hobbyist", "ko": "취미로 하는 사람, 동호인" },
+        { "word": "carry out", "ko": "수행하다, 해내다" },
+        { "word": "a fraction of", "ko": "~의 몇 분의 일" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "refurbish",
+      "pos": "v.",
+      "ko": "손봐서 새것처럼 만들다, 재정비하다",
+      "example_en": "The carrier sells refurbished handsets at half the price of new models.",
+      "example_ko": "그 통신사는 재정비한 단말기를 신제품 가격의 절반에 판다.",
+      "collocations": ["refurbished device", "refurbish an office"],
+      "note": "re-(다시) + furbish(광내다) — 헌것을 다시 닦아 새것처럼 만든다. 중고를 손봐 되판 '리퍼 제품'이 refurbished product. 철자가 비슷한 furnish(가구를 들이다, 제공하다)와는 뿌리가 다르다.",
+      "related": [
+        { "word": "renovate", "ko": "개조하다", "note": "renovate는 건물·공간을 뜯어고치는 쪽, refurbish는 기기·설비를 손봐 새것 상태로 되돌리는 쪽" }
+      ]
+    },
+    {
+      "headword": "dismantle",
+      "pos": "v.",
+      "ko": "분해하다, 해체하다",
+      "example_en": "Technicians had to dismantle the entire unit just to replace a single sensor.",
+      "example_ko": "기술자들은 센서 하나를 교체하려고 장치 전체를 분해해야 했다.",
+      "collocations": ["dismantle a device", "dismantle the system"],
+      "note": "dis-(반대로) + mantle(망토를 두르다) — '두른 것을 벗겨 내다'가 본뜻. 기계를 뜯는 물리적 분해뿐 아니라 dismantle the welfare system(복지 제도를 해체하다)처럼 제도·권력을 허무는 비유로 더 자주 쓰인다.",
+      "related": [
+        { "word": "disassemble", "ko": "분해하다", "note": "disassemble은 물리적 분해에만 쓰지만, dismantle은 제도·조직을 무너뜨리는 비유에도 쓴다" }
+      ]
+    },
+    {
+      "headword": "landfill",
+      "pos": "n.",
+      "ko": "쓰레기 매립지",
+      "example_en": "Nearly forty million tons of electronic waste end up in landfills every year.",
+      "example_ko": "해마다 거의 4천만 톤의 전자폐기물이 매립지로 간다.",
+      "collocations": ["end up in a landfill", "landfill site"],
+      "note": "land(땅) + fill(채우다) — 땅을 쓰레기로 채운 곳. 환경 기사에서는 end up in a landfill(결국 매립지로 가다)이 거의 관용구로 굳어져 나온다. 쌍으로 외울 짝은 incineration(소각).",
+      "family": [
+        { "word": "fill in", "ko": "메우다, (양식을) 채워 넣다" }
+      ]
+    },
+    {
+      "headword": "leach",
+      "pos": "v.",
+      "ko": "(액체에) 스며 나오다, 침출되다",
+      "example_en": "Toxic compounds from the batteries slowly leach into the surrounding soil.",
+      "example_ko": "배터리에서 나온 독성 화합물이 서서히 주변 토양으로 스며든다.",
+      "collocations": ["leach into groundwater", "leach out of the soil"],
+      "note": "오염물질이 흙·물로 '새어 나오는' 움직임을 가리켜 환경 기사에서 leach into ~ 형태로 붙어 다닌다. 발음이 똑같은 leech(거머리)와 철자만 다르니 a/ee로 구분해 외운다.",
+      "related": [
+        { "word": "leech", "ko": "거머리", "note": "발음이 leach와 같다. 비유로는 '남에게 빌붙는 사람'. 철자 a와 ee로만 갈린다" }
+      ]
+    },
+    {
+      "headword": "scrap",
+      "pos": "v.",
+      "ko": "폐기하다, 없애다; (명사) 고철, 조각",
+      "example_en": "The ministry scrapped the subsidy program after two disappointing years.",
+      "example_ko": "부처는 실망스러운 2년을 보낸 뒤 그 보조금 사업을 폐기했다.",
+      "collocations": ["scrap a plan", "scrap metal"],
+      "note": "본뜻은 '조각' → 못 쓰는 조각, 즉 고철 → 거기서 계획·법안을 '내다 버리다(폐기하다)'로 확장됐다. 뉴스 헤드라인의 scrap the deal은 '합의를 백지화하다'.",
+      "related": [
+        { "word": "scrape", "ko": "긁다, 긁어내다", "note": "scrap(폐기하다)과 철자 한 글자 차이지만 뜻이 전혀 다르다. scrape by는 '겨우 먹고살다'" }
+      ]
+    },
+    {
+      "headword": "warranty",
+      "pos": "n.",
+      "ko": "품질보증(서)",
+      "example_en": "Opening the case yourself will void the manufacturer's warranty.",
+      "example_ko": "케이스를 직접 열면 제조사의 품질보증이 무효가 된다.",
+      "collocations": ["void a warranty", "under warranty", "a two-year warranty"],
+      "note": "이미 아는 동사 warrant(~할 만하다, 정당화하다)와 뿌리는 같지만 쓰임이 갈린다 — The issue warrants attention(주목할 만하다) / still under warranty(아직 보증 기간 중). 시험에서는 이 둘을 바꿔 놓고 고르게 한다.",
+      "family": [
+        { "word": "warrant", "pos": "v.", "ko": "~할 만하다, 정당화하다; (명사) 영장" }
+      ],
+      "related": [
+        { "word": "guarantee", "ko": "보장(하다)", "note": "guarantee는 약속·보장 전반에 두루 쓰지만, warranty는 주로 제품 하자에 대한 문서화된 보증을 가리킨다" }
+      ]
+    },
+    {
+      "headword": "discard",
+      "pos": "v.",
+      "ko": "버리다, 폐기하다",
+      "example_en": "Consumers discard perfectly functional phones simply because a newer model has arrived.",
+      "example_ko": "소비자들은 더 새 모델이 나왔다는 이유만으로 멀쩡히 작동하는 휴대전화를 버린다.",
+      "collocations": ["discard waste", "be discarded as useless"],
+      "note": "dis-(버리다) + card(카드) — 카드놀이에서 '패를 버리다'가 어원. throw away의 격식체라 논설·보고서에 자주 나온다. 철자가 비슷한 discharge(방출하다·퇴원시키다)와 헷갈리지 말 것.",
+      "related": [
+        { "word": "discharge", "ko": "방출하다; 퇴원·제대시키다", "note": "discard(버리다)와 철자만 비슷하고 뜻은 전혀 다르다. 공장 폐수는 discharge, 물건은 discard" }
+      ]
+    },
+    {
+      "headword": "embed",
+      "pos": "v.",
+      "ko": "박아 넣다, 깊이 심다",
+      "example_en": "Safety limits are embedded in the device's firmware and cannot be altered.",
+      "example_ko": "안전 제한값은 기기의 펌웨어에 내장되어 있어 변경할 수 없다.",
+      "collocations": ["deeply embedded in", "embedded system"],
+      "note": "em-(안으로) + bed(자리) — '자리 안에 눕히다'. 물리적으로 박는 것보다 embedded in the culture(문화에 깊이 배어 있는)처럼 추상적 용법으로 더 자주 쓴다. 부대에 동행하는 종군기자를 embedded reporter라 하는 것도 같은 뜻.",
+      "family": [
+        { "word": "embedded", "pos": "a.", "ko": "내장된, 깊이 배어 있는" }
+      ]
+    },
+    {
+      "headword": "tamper",
+      "pos": "v.",
+      "ko": "함부로 손대다, 조작하다",
+      "example_en": "Investigators concluded that someone had tampered with the meter readings.",
+      "example_ko": "조사관들은 누군가 계량기 수치를 조작했다고 결론지었다.",
+      "collocations": ["tamper with evidence", "tamper-proof packaging"],
+      "note": "거의 항상 tamper with 형태로 쓰며 '허락 없이 건드려 망친다'는 부정적 뉘앙스다. tamper-proof(개봉 흔적이 남는, 조작 방지의)로 자주 등장. 철자 한 글자 차이인 temper와 반드시 구분할 것.",
+      "related": [
+        { "word": "temper", "ko": "성질, 기질; 누그러뜨리다", "note": "lose one's temper(화를 내다)의 temper. tamper(손대다)와 a/e 한 글자 차이라 시험 단골 함정" }
+      ]
+    },
+    {
+      "headword": "adhesive",
+      "pos": "n.",
+      "ko": "접착제; (형용사) 잘 들러붙는",
+      "example_en": "Manufacturers use industrial adhesive instead of screws to make the case thinner.",
+      "example_ko": "제조사들은 케이스를 더 얇게 만들려고 나사 대신 산업용 접착제를 쓴다.",
+      "collocations": ["industrial adhesive", "adhesive tape"],
+      "note": "ad-(~쪽으로) + haerere(달라붙다) — 이미 아는 adhere(들러붙다; 규칙을 준수하다)의 명사·형용사형이다. 같은 뿌리에 co-(함께)가 붙으면 cohesive(응집력 있는), in-(아닌)이 붙으면 incoherent 계열로 갈린다.",
+      "family": [
+        { "word": "adhere", "pos": "v.", "ko": "들러붙다; (규칙을) 준수하다" },
+        { "word": "adhesion", "pos": "n.", "ko": "부착, 접착" }
+      ]
+    },
+    {
+      "headword": "obsolescence",
+      "pos": "n.",
+      "ko": "노후화, 진부화(더는 쓰이지 않게 됨)",
+      "example_en": "Critics accuse the industry of planned obsolescence designed to keep sales rising.",
+      "example_ko": "비판자들은 업계가 판매를 계속 늘리려고 계획적 진부화를 쓴다고 비난한다.",
+      "collocations": ["planned obsolescence", "built-in obsolescence"],
+      "note": "아는 형용사 obsolete(구식의)의 명사형인데 철자가 -escence로 크게 바뀌니 따로 외워야 한다. planned obsolescence(일부러 수명을 짧게 설계하는 것)는 소비·환경 기사의 핵심 용어라 통째로 익혀 둘 것.",
+      "family": [
+        { "word": "obsolete", "pos": "a.", "ko": "구식의, 더는 쓰이지 않는" }
+      ]
+    },
+    {
+      "headword": "jeopardize",
+      "pos": "v.",
+      "ko": "위태롭게 하다",
+      "example_en": "A single security breach could jeopardize the company's entire contract.",
+      "example_ko": "단 한 번의 보안 침해가 회사의 계약 전체를 위태롭게 할 수 있다.",
+      "collocations": ["jeopardize safety", "jeopardize the deal"],
+      "note": "어원은 고대 프랑스어 jeu parti(승부가 반반인 게임) — 어느 쪽으로 튈지 모르는 위험에 놓는다는 그림. 명사 jeopardy는 in jeopardy(위기에 처한) 형태로 굳어져 나오니 짝으로 외운다.",
+      "family": [
+        { "word": "jeopardy", "pos": "n.", "ko": "위험, 위기 — in jeopardy(위태로운)" }
+      ]
+    },
+    {
+      "headword": "pretext",
+      "pos": "n.",
+      "ko": "구실, 핑계",
+      "example_en": "The tariffs were imposed under the pretext of protecting national security.",
+      "example_ko": "그 관세는 국가 안보를 지킨다는 구실로 부과되었다.",
+      "collocations": ["under the pretext of", "a mere pretext"],
+      "note": "pre-(미리) + text(짜다) — 진짜 이유를 가리려고 '미리 짜 놓은 이야기'가 구실이다. 같은 뿌리에서 context(함께 짠 것 = 맥락)·textile(직물)이 나온다. 시험 단골 형태는 under the pretext of ~.",
+      "related": [
+        { "word": "excuse", "ko": "변명", "note": "excuse는 잘못을 덮으려는 일반적 변명, pretext는 다른 속셈을 감추려고 내세우는 그럴듯한 명분이다" }
+      ]
+    },
+    {
+      "headword": "render",
+      "pos": "v.",
+      "ko": "(어떤 상태로) 만들다; 제공하다",
+      "example_en": "The new regulation rendered thousands of older machines illegal overnight.",
+      "example_ko": "새 규정은 하룻밤 사이에 수천 대의 구형 기계를 불법으로 만들었다.",
+      "collocations": ["render obsolete", "render it impossible", "render services"],
+      "note": "본뜻은 '되돌려 주다(give back)' — 여기서 ① render + 목적어 + 형용사 = '~을 …한 상태로 만들다'(make의 격식체) ② render services = 서비스를 제공하다, 두 갈래로 갈린다. 독해에서는 거의 ①이니 render A B를 보면 make로 바꿔 읽으면 된다.",
+      "family": [
+        { "word": "surrender", "pos": "v.", "ko": "항복하다, 내주다 — '완전히(sur-) 넘겨주다'" }
+      ]
+    },
+    {
+      "headword": "rebuke",
+      "pos": "v.",
+      "ko": "질책하다, 꾸짖다; (명사) 질책",
+      "example_en": "The board publicly rebuked the executive for concealing the defect.",
+      "example_ko": "이사회는 결함을 숨긴 그 임원을 공개적으로 질책했다.",
+      "collocations": ["sharply rebuke", "a stinging rebuke"],
+      "note": "이미 아는 rebut(반박하다)·refute(논박하다)는 '주장'을 겨누지만, rebuke는 '사람의 행동'을 꾸짖는다. 대상이 주장인지 사람인지로 갈라 외우면 셋이 섞이지 않는다.",
+      "related": [
+        { "word": "rebut", "ko": "반박하다", "note": "rebut의 대상은 주장·증거, rebuke의 대상은 사람이다. 철자가 비슷해 가장 잘 헷갈리는 짝" },
+        { "word": "reproach", "ko": "나무라다", "note": "reproach는 실망 섞인 부드러운 나무람, rebuke는 더 공식적이고 강한 질책" }
+      ]
+    },
+    {
+      "headword": "ambiguous",
+      "pos": "a.",
+      "ko": "모호한, 뜻이 두 갈래로 갈리는",
+      "example_en": "The contract's wording is so ambiguous that both sides claim victory.",
+      "example_ko": "계약서 문구가 너무 모호해서 양측이 모두 승리를 주장한다.",
+      "collocations": ["ambiguous wording", "deliberately ambiguous"],
+      "note": "ambi-(둘 다) + ag-(몰다) — '두 방향으로 몰고 갈 수 있는'이 본뜻이라, 뜻이 여러 갈래로 읽히는 경우에 쓴다. 같은 ambi-에서 ambivalent(양가감정의)·ambidextrous(양손잡이의)가 나온다.",
+      "family": [
+        { "word": "ambiguity", "pos": "n.", "ko": "모호함, 중의성" }
+      ],
+      "related": [
+        { "word": "vague", "ko": "막연한", "note": "vague는 정보가 부족해 흐릿한 것, ambiguous는 해석이 둘 이상으로 갈리는 것 — 원인이 다르다" }
+      ]
+    },
+    {
+      "headword": "durable",
+      "pos": "a.",
+      "ko": "내구성 있는, 오래가는",
+      "example_en": "Demand for durable goods fell sharply in the second quarter.",
+      "example_ko": "2분기에 내구재 수요가 급감했다.",
+      "collocations": ["durable goods", "durable materials"],
+      "note": "dur-(지속하다)가 뿌리라 during(~ 동안)·duration(지속 기간)·endure(견디다)가 한 가족이다. 경제 기사의 durable goods(내구재 — 자동차·가전처럼 오래 쓰는 재화)는 지표 이름으로 통째로 나오니 그대로 외워 둘 것.",
+      "family": [
+        { "word": "durability", "pos": "n.", "ko": "내구성" },
+        { "word": "duration", "pos": "n.", "ko": "지속 기간" },
+        { "word": "endure", "pos": "v.", "ko": "견디다; 오래 지속되다" }
+      ]
+    },
+    {
+      "headword": "incremental",
+      "pos": "a.",
+      "ko": "점진적인, 조금씩 늘어나는",
+      "example_en": "The reform brought only incremental gains rather than the promised overhaul.",
+      "example_ko": "그 개혁은 약속된 전면 개편이 아니라 점진적 개선만 가져왔다.",
+      "collocations": ["incremental change", "incremental cost"],
+      "note": "in-(위로) + cre-(자라다) — increase와 같은 뿌리다. 명사 increment는 '증가분, 임금 인상액'. 논설에서는 incremental change와 radical/sweeping change를 대비시키는 짝으로 거의 항상 함께 나온다.",
+      "family": [
+        { "word": "increment", "pos": "n.", "ko": "증가분, 인상액" }
+      ],
+      "related": [
+        { "word": "radical", "ko": "급진적인", "note": "incremental(조금씩)의 반대편 짝. 논설에서 두 단어를 대비시켜 개혁의 속도를 논한다" }
+      ]
+    }
+  ]
+}

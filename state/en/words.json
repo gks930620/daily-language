@@ -1125,6 +1125,51 @@
     },
     "outlay": {
       "added_on": "2026-08-17"
+    },
+    "refurbish": {
+      "added_on": "2026-08-19"
+    },
+    "dismantle": {
+      "added_on": "2026-08-19"
+    },
+    "landfill": {
+      "added_on": "2026-08-19"
+    },
+    "leach": {
+      "added_on": "2026-08-19"
+    },
+    "scrap": {
+      "added_on": "2026-08-19"
+    },
+    "warranty": {
+      "added_on": "2026-08-19"
+    },
+    "discard": {
+      "added_on": "2026-08-19"
+    },
+    "embed": {
+      "added_on": "2026-08-19"
+    },
+    "tamper": {
+      "added_on": "2026-08-19"
+    },
+    "adhesive": {
+      "added_on": "2026-08-19"
+    },
+    "obsolescence": {
+      "added_on": "2026-08-19"
+    },
+    "jeopardize": {
+      "added_on": "2026-08-19"
+    },
+    "pretext": {
+      "added_on": "2026-08-19"
+    },
+    "render": {
+      "added_on": "2026-08-19"
+    },
+    "rebuke": {
+      "added_on": "2026-08-19"
     }
   }
 }
