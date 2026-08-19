@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-20",
+  "words": [
+    {
+      "headword": "emigration",
+      "pos": "n.",
+      "ko": "국외 이주, (인력의) 국외 유출",
+      "example_en": "Mass emigration of young workers has left the region with an aging labor force.",
+      "example_ko": "젊은 노동자들의 대규모 국외 이주로 그 지역에는 고령화된 노동력만 남았다.",
+      "collocations": [
+        "mass emigration",
+        "emigration rate"
+      ],
+      "note": "e-(밖으로)+migrare(이동하다) — 나가는 쪽이 emigration, 들어오는 쪽이 immigration(im-=안으로)이다. 떠나는 나라를 기준으로 말하면 emigrate, 도착한 나라를 기준으로 말하면 immigrate로 갈린다.",
+      "family": [
+        {
+          "word": "emigrate",
+          "pos": "v.",
+          "ko": "(타국으로) 이주해 나가다"
+        },
+        {
+          "word": "emigrant",
+          "pos": "n.",
+          "ko": "국외로 떠나는 이주민"
+        },
+        {
+          "word": "migrate",
+          "pos": "v.",
+          "ko": "이동하다, 이주하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "immigration",
+          "ko": "이민(유입)",
+          "note": "방향이 정반대 — 같은 사람도 떠난 나라에선 emigrant, 도착한 나라에선 immigrant다"
+        }
+      ]
+    },
+    {
+      "headword": "remittance",
+      "pos": "n.",
+      "ko": "송금, 송금액",
+      "example_en": "Remittances from workers abroad account for nearly a tenth of the country's economy.",
+      "example_ko": "해외 노동자들의 송금이 그 나라 경제의 거의 10분의 1을 차지한다.",
+      "collocations": [
+        "remittance flows",
+        "send a remittance"
+      ],
+      "note": "re-(도로)+mit(보내다) — 돈을 '되돌려 보냄'. submit(밑으로 보내다=제출)·transmit(가로질러 보내다=전송)과 같은 뿌리다. 동사 remit는 '송금하다' 외에 '(빚·형벌을) 면제하다'로도 쓰이니 문맥으로 갈라 읽어야 한다.",
+      "family": [
+        {
+          "word": "remit",
+          "pos": "v.",
+          "ko": "송금하다; (빚·형벌을) 면제하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "remuneration",
+          "ko": "보수, 급여",
+          "note": "철자가 비슷해 자주 헷갈리지만 뿌리가 다르다 — remuneration은 일한 대가로 '받는' 돈, remittance는 '부치는' 돈"
+        }
+      ]
+    },
+    {
+      "headword": "diaspora",
+      "pos": "n.",
+      "ko": "해외 이주민 집단, 이산(離散)",
+      "example_en": "The government is courting its diaspora, hoping that successful engineers will invest back home.",
+      "example_ko": "정부는 성공한 엔지니어들이 본국에 투자하기를 바라며 해외 동포 사회에 공을 들이고 있다.",
+      "collocations": [
+        "the Korean diaspora",
+        "diaspora community"
+      ],
+      "note": "그리스어 dia-(흩어져)+speirein(뿌리다) — 씨앗을 흩뿌린 모습에서 왔다. 본래 유대인의 이산을 가리키던 말이 지금은 '해외에 퍼져 사는 한 민족 전체'를 뜻하는 일반 명사로 굳었고, 집합 개념이라 개인 한 명에게는 쓰지 않는다.",
+      "related": [
+        {
+          "word": "expatriate",
+          "ko": "국외 거주자",
+          "note": "diaspora가 집단 전체라면 expatriate(줄여서 expat)는 국외에 나가 사는 개인 한 사람을 가리킨다"
+        }
+      ]
+    },
+    {
+      "headword": "poach",
+      "pos": "v.",
+      "ko": "(인력을) 빼가다, 스카우트하다; 밀렵하다",
+      "example_en": "Rival firms have been poaching our most experienced engineers with double the salary.",
+      "example_ko": "경쟁사들이 두 배의 연봉으로 우리 회사의 가장 노련한 엔지니어들을 빼가고 있다.",
+      "collocations": [
+        "poach staff from a rival",
+        "poach talent"
+      ],
+      "note": "'남의 땅에 몰래 들어가 잡아간다'는 밀렵의 이미지가 인력·고객을 가로채는 뜻으로 넓어진 말이다. 그래서 recruit(정상적으로 채용하다)와 달리 poach에는 '남의 것을 부당하게 빼간다'는 비난이 깔려 있다. 요리의 poach(수란을 삶다)는 어원이 다른 동음이의어다.",
+      "related": [
+        {
+          "word": "recruit",
+          "ko": "채용하다, 모집하다",
+          "note": "중립적인 '뽑다'. 같은 행위를 데려가는 쪽이 말하면 recruit, 빼앗기는 쪽이 말하면 poach가 된다"
+        }
+      ]
+    },
+    {
+      "headword": "attrition",
+      "pos": "n.",
+      "ko": "(자연) 인력 감소, 소모",
+      "example_en": "The hospital plans to cut costs through attrition rather than layoffs.",
+      "example_ko": "그 병원은 정리해고가 아니라 자연 감원을 통해 비용을 줄일 계획이다.",
+      "collocations": [
+        "attrition rate",
+        "reduce staff through attrition"
+      ],
+      "note": "at-(~에)+terere(문지르다) — 마찰로 조금씩 닳아 없어지는 것. 인사 기사에서 layoff(내보내는 해고)와 대비해 읽어야 한다. attrition은 퇴직·이직으로 빠진 자리를 채우지 않아 저절로 줄어드는 것이라 '조용한 감원'에 가깝다.",
+      "related": [
+        {
+          "word": "layoff",
+          "ko": "정리해고",
+          "note": "attrition은 나가는 사람을 안 채우는 것, layoff는 있는 사람을 내보내는 것 — 뉴스에서 둘을 구별해 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "retention",
+      "pos": "n.",
+      "ko": "(인력·고객의) 유지, 보유",
+      "example_en": "Higher pay alone has done little to improve nurse retention.",
+      "example_ko": "임금 인상만으로는 간호사 인력 유지를 개선하는 데 거의 도움이 되지 않았다.",
+      "collocations": [
+        "employee retention",
+        "customer retention rate"
+      ],
+      "note": "re-(뒤로)+tenere(붙잡다) — 나가려는 것을 붙잡아 두기. 같은 tenere에서 tenant(붙잡고 사는 사람=세입자)·tenure(붙잡고 있는 기간=재임 기간)가 나왔다. 인사에서는 '이직 방지', 마케팅에서는 '고객 이탈 방지'를 뜻한다.",
+      "family": [
+        {
+          "word": "retain",
+          "pos": "v.",
+          "ko": "유지하다, 계속 보유하다"
+        },
+        {
+          "word": "retentive",
+          "pos": "a.",
+          "ko": "잘 간직하는 (a retentive memory 기억력이 좋은)"
+        }
+      ]
+    },
+    {
+      "headword": "repatriate",
+      "pos": "v.",
+      "ko": "본국으로 돌려보내다, 귀국시키다; (수익을) 본국으로 들여오다",
+      "example_en": "The firm repatriated most of its overseas profits after the tax rules changed.",
+      "example_ko": "그 회사는 세제가 바뀐 뒤 해외 수익의 대부분을 본국으로 들여왔다.",
+      "collocations": [
+        "repatriate profits",
+        "repatriate refugees"
+      ],
+      "note": "re-(다시)+patria(조국) — 조국으로 되돌리기. 반대는 ex-(밖으로)+patria = expatriate(국외로 내보내다, 국외 거주자). 사람뿐 아니라 돈·유물에도 그대로 써서, 금융 기사의 repatriate profits는 '해외에 쌓인 이익을 본국으로 회수하다'라는 뜻이다.",
+      "family": [
+        {
+          "word": "repatriation",
+          "pos": "n.",
+          "ko": "본국 송환, (자금의) 본국 회수"
+        }
+      ],
+      "related": [
+        {
+          "word": "expatriate",
+          "ko": "국외 거주자; 국외로 내보내다",
+          "note": "patria(조국)를 기준으로 re-(돌아옴)와 ex-(나감)가 정확히 반대 방향"
+        }
+      ]
+    },
+    {
+      "headword": "outflow",
+      "pos": "n.",
+      "ko": "유출, 빠져나감",
+      "example_en": "The central bank raised rates to stem the outflow of foreign capital.",
+      "example_ko": "중앙은행은 외국 자본의 유출을 막기 위해 금리를 올렸다.",
+      "collocations": [
+        "capital outflow",
+        "stem the outflow"
+      ],
+      "note": "out+flow가 그대로 붙은 투명한 합성어로, 짝은 inflow(유입)다. 돈·물처럼 '흐르는' 것에 쓰는 말이라 자본·자금 기사에 가장 자주 나오고, 사람이 대거 빠져나가는 것은 보통 exodus를 쓴다.",
+      "related": [
+        {
+          "word": "influx",
+          "ko": "유입, 밀려듦",
+          "note": "방향이 반대이며, influx는 '갑자기 밀려든다'는 느낌이 강해 an influx of tourists처럼 사람에도 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "shortage",
+      "pos": "n.",
+      "ko": "부족, 결핍",
+      "example_en": "A chronic shortage of nurses has forced several wards to close.",
+      "example_ko": "만성적인 간호사 부족으로 몇몇 병동이 문을 닫아야 했다.",
+      "collocations": [
+        "labor shortage",
+        "chronic shortage"
+      ],
+      "note": "short(모자란)+-age(상태). 시험에 잘 나오는 구별은 shortfall과의 차이인데, shortage는 '물건·인력이 모자란 상태'이고 shortfall은 '목표치에 못 미친 그 차액(수치)'이다. a shortage of nurses는 되지만 a shortage of 300 million won은 어색하다.",
+      "related": [
+        {
+          "word": "shortfall",
+          "ko": "부족분, 미달액",
+          "note": "숫자로 셀 수 있는 '모자란 액수·수량'에 쓴다 — a budget shortfall of $2 billion"
+        }
+      ]
+    },
+    {
+      "headword": "brain drain",
+      "pos": "n.",
+      "ko": "두뇌 유출 (고급 인력의 국외 유출)",
+      "example_en": "Low salaries and poor facilities have caused a steady brain drain of researchers.",
+      "example_ko": "낮은 급여와 열악한 시설이 연구 인력의 꾸준한 두뇌 유출을 불러왔다.",
+      "collocations": [
+        "suffer a brain drain",
+        "reverse the brain drain"
+      ],
+      "note": "drain은 '배수구, 물을 빼내다'로, 욕조 물이 빠지듯 인재가 새어 나간다는 비유에서 만들어진 표현이다. 인재를 받아들이는 쪽에서 보면 brain gain이라 부르고, 국가 간뿐 아니라 지방에서 수도권으로의 이동에도 그대로 쓴다.",
+      "related": [
+        {
+          "word": "drain",
+          "ko": "빼내다, 고갈시키다",
+          "note": "drain resources(자원을 고갈시키다), a drain on the budget(예산을 축내는 요인)처럼 '빠져나가 바닥남'의 이미지로 확장된다"
+        }
+      ]
+    },
+    {
+      "headword": "destitute",
+      "pos": "a.",
+      "ko": "극빈한, 궁핍한",
+      "example_en": "The scheme provides emergency housing for families left destitute by the floods.",
+      "example_ko": "그 제도는 홍수로 극빈 상태에 놓인 가정에 긴급 주거를 제공한다.",
+      "collocations": [
+        "leave someone destitute",
+        "destitute families"
+      ],
+      "note": "de-(아래로)+statuere(세우다) — 서 있던 자리에서 완전히 내려앉음. poor보다 훨씬 강해 '먹을 것도 잘 곳도 없는' 수준을 말하므로 아무 데나 쓰면 과장이 된다. destitute of ~ 형태로는 '~이 전혀 없는'이라는 뜻도 된다.",
+      "family": [
+        {
+          "word": "destitution",
+          "pos": "n.",
+          "ko": "극빈, 궁핍"
+        }
+      ]
+    },
+    {
+      "headword": "stagnate",
+      "pos": "v.",
+      "ko": "정체되다, 침체하다",
+      "example_en": "Real wages have stagnated for a decade even as productivity rose.",
+      "example_ko": "생산성은 올랐는데도 실질임금은 10년째 정체되어 왔다.",
+      "collocations": [
+        "wages stagnate",
+        "a stagnating economy"
+      ],
+      "note": "라틴어 stagnum(고인 물)에서 왔다 — 흐르지 않고 고여 썩는 물의 이미지. 경제 기사의 stagflation은 stagnation(침체)과 inflation(물가 상승)을 붙여 만든 합성어이니, 이 뿌리를 알면 그 말도 함께 풀린다.",
+      "family": [
+        {
+          "word": "stagnation",
+          "pos": "n.",
+          "ko": "침체, 정체"
+        },
+        {
+          "word": "stagnant",
+          "pos": "a.",
+          "ko": "고여 있는; 침체된"
+        }
+      ]
+    },
+    {
+      "headword": "lure",
+      "pos": "v.",
+      "ko": "꾀어내다, 유인하다; n. 유혹, 미끼",
+      "example_en": "Hospitals abroad lure young doctors with salaries three times higher.",
+      "example_ko": "해외 병원들은 세 배 높은 연봉으로 젊은 의사들을 끌어들인다.",
+      "collocations": [
+        "lure workers abroad",
+        "the lure of higher pay"
+      ],
+      "note": "원래 매사냥에서 매를 불러들이던 '미끼 도구'를 뜻했다. 그래서 lure는 '이익을 미끼로 끌어당긴다'는 중립적인 쓰임이 가능하고, 나쁜 길로 꾀는 뉘앙스가 강한 tempt·entice보다 기사문에서 훨씬 자주 보인다.",
+      "related": [
+        {
+          "word": "entice",
+          "ko": "꾀다, 유혹하다",
+          "note": "거의 동의어지만 entice는 '살살 꼬드긴다'는 느낌이 강하고, lure는 the lure of ~처럼 명사로 쓰는 쪽이 특히 흔하다"
+        }
+      ]
+    },
+    {
+      "headword": "impede",
+      "pos": "v.",
+      "ko": "방해하다, 지연시키다",
+      "example_en": "Excessive paperwork impedes the licensing of foreign-trained doctors.",
+      "example_ko": "지나친 서류 절차가 외국에서 교육받은 의사들의 면허 취득을 지연시킨다.",
+      "collocations": [
+        "impede progress",
+        "impede growth"
+      ],
+      "note": "im-(안에)+ped(발) — 발에 족쇄를 채워 못 가게 함. 반대로 ex-(밖으로)+ped = expedite(발을 빼내 주다 → 신속히 처리하다)가 된다. pedal·pedestrian도 같은 ped(발) 계열이라 묶어 외우면 좋다.",
+      "family": [
+        {
+          "word": "impediment",
+          "pos": "n.",
+          "ko": "장애물, 걸림돌"
+        }
+      ],
+      "related": [
+        {
+          "word": "expedite",
+          "ko": "신속히 처리하다",
+          "note": "같은 ped(발)에 im-(안으로 묶다)과 ex-(밖으로 풀다)가 붙어 정확히 반대말이 되었다"
+        }
+      ]
+    },
+    {
+      "headword": "seductive",
+      "pos": "a.",
+      "ko": "솔깃한, 그럴듯한; 매혹적인",
+      "example_en": "It is a seductive argument, but the numbers do not support it.",
+      "example_ko": "그것은 솔깃한 주장이지만, 수치가 그것을 뒷받침하지 않는다.",
+      "collocations": [
+        "a seductive argument",
+        "seductive simplicity"
+      ],
+      "note": "se-(옆으로 떨어져)+ducere(이끌다) — 옆길로 데려감. 논설에서 a seductive idea라고 하면 '매력적이지만 결국 틀렸다'는 반박이 뒤따른다는 신호로 읽어야 한다. 같은 ducere 계열로 conduct(함께 이끌다)·induce(안으로 이끌다)가 있다.",
+      "family": [
+        {
+          "word": "seduce",
+          "pos": "v.",
+          "ko": "꾀다, 유혹하다"
+        },
+        {
+          "word": "seduction",
+          "pos": "n.",
+          "ko": "유혹"
+        }
+      ]
+    }
+  ]
+}
