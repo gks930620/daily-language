@@ -1,0 +1,366 @@
+{
+  "date": "2026-08-21",
+  "words": [
+    {
+      "headword": "perishable",
+      "pos": "a.",
+      "ko": "잘 상하는, 오래 못 가는",
+      "example_en": "The warehouse keeps perishable goods in a separate refrigerated section.",
+      "example_ko": "그 창고는 신선식품을 별도의 냉장 구역에 보관한다.",
+      "collocations": [
+        "perishable goods",
+        "highly perishable"
+      ],
+      "note": "어원: per-(완전히) + ish(가다) → '완전히 가 버리다'가 perish(소멸하다). 여기에 '~하기 쉬운'의 -able이 붙어 '금방 상하는'. 물류·식품 문서의 perishable goods(신선식품)로 토익에 자주 나온다.",
+      "family": [
+        {
+          "word": "perish",
+          "pos": "v.",
+          "ko": "죽다, 소멸하다"
+        },
+        {
+          "word": "imperishable",
+          "pos": "a.",
+          "ko": "썩지 않는, 불멸의"
+        }
+      ]
+    },
+    {
+      "headword": "repository",
+      "pos": "n.",
+      "ko": "저장소, 보관소",
+      "example_en": "The agency runs a public repository of climate data that anyone can download.",
+      "example_ko": "그 기관은 누구나 내려받을 수 있는 기후 데이터 공개 저장소를 운영한다.",
+      "collocations": [
+        "a central repository",
+        "a repository of information"
+      ],
+      "note": "re-(도로) + pos(놓다) + -itory(장소) = '도로 갖다 놓는 곳'. deposit(맡기다)·compose(함께 놓다=구성하다)와 같은 pos 뿌리라 묶어서 외우면 좋다.",
+      "related": [
+        {
+          "word": "archive",
+          "ko": "기록 보관소",
+          "note": "repository는 무엇이든 '쌓아 두는 장소' 일반, archive는 보존 가치가 있는 '기록'을 모아 둔 곳이라는 점이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "retrieve",
+      "pos": "v.",
+      "ko": "되찾다, 찾아내다; (데이터를) 불러오다",
+      "example_en": "Auditors could not retrieve the original invoices from the old system.",
+      "example_ko": "감사인들은 예전 시스템에서 원본 송장을 불러올 수 없었다.",
+      "collocations": [
+        "retrieve data",
+        "retrieve a file"
+      ],
+      "note": "re-(다시) + trouver(찾다, 프랑스어) — 사냥감을 '다시 물어 오는' 개가 retriever다. 실제 시험·업무 영어에서는 '데이터를 불러오다'라는 IT 용법 비중이 가장 크다.",
+      "family": [
+        {
+          "word": "retrieval",
+          "pos": "n.",
+          "ko": "회수; (정보) 검색"
+        },
+        {
+          "word": "retrievable",
+          "pos": "a.",
+          "ko": "되찾을 수 있는"
+        }
+      ]
+    },
+    {
+      "headword": "archive",
+      "pos": "n.",
+      "ko": "기록 보관소; 보관 자료 (v. 보관하다)",
+      "example_en": "The newspaper digitized its entire archive and put it online.",
+      "example_ko": "그 신문사는 기록물 전체를 디지털화해 온라인에 올렸다.",
+      "collocations": [
+        "a digital archive",
+        "archive footage"
+      ],
+      "note": "그리스어 arkhē(시작·통치) → 관청 문서 → 기록 보관소. monarch(1인 통치)·anarchy(통치 없음)와 뿌리가 같다. 동사로 쓰면 '(당장 안 쓰지만) 따로 보관해 두다'는 뜻이라 메일함의 '보관' 버튼이 바로 이것이다.",
+      "family": [
+        {
+          "word": "archival",
+          "pos": "a.",
+          "ko": "기록 보관의, 보존용의"
+        },
+        {
+          "word": "archivist",
+          "pos": "n.",
+          "ko": "기록 관리자"
+        }
+      ]
+    },
+    {
+      "headword": "ephemeral",
+      "pos": "a.",
+      "ko": "수명이 짧은, 덧없는",
+      "example_en": "Most social media posts are ephemeral, but the data behind them is not.",
+      "example_ko": "소셜미디어 게시물 대부분은 금세 사라지지만, 그 뒤의 데이터는 그렇지 않다.",
+      "collocations": [
+        "ephemeral content",
+        "ephemeral nature"
+      ],
+      "note": "그리스어 epi-(위에) + hēmera(하루) = '하루짜리'. 하루살이를 뜻하는 ephemera에서 왔으니 '딱 하루 가는 것'으로 기억하면 된다.",
+      "related": [
+        {
+          "word": "transient",
+          "ko": "일시적인",
+          "note": "transient는 '지나가는'이라는 중립적 일시성, ephemeral은 '금세 사라져 붙잡을 수 없다'는 아쉬움의 뉘앙스가 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "perpetuity",
+      "pos": "n.",
+      "ko": "영속, 영구히 계속됨",
+      "example_en": "The donor granted the museum the right to display the collection in perpetuity.",
+      "example_ko": "기증자는 박물관에 그 소장품을 영구히 전시할 권리를 주었다.",
+      "collocations": [
+        "in perpetuity",
+        "hold in perpetuity"
+      ],
+      "note": "per-(내내) + pet(향해 나아가다) — 끝까지 계속 간다. 계약서에서는 거의 항상 in perpetuity(영구히) 형태로 나오니 통째로 외우는 편이 낫다.",
+      "family": [
+        {
+          "word": "perpetual",
+          "pos": "a.",
+          "ko": "영구적인, 끊임없는"
+        },
+        {
+          "word": "perpetuate",
+          "pos": "v.",
+          "ko": "영속시키다 — 보통 차별·오해 같은 나쁜 것을 '고착시키다'는 부정적 뉘앙스"
+        }
+      ]
+    },
+    {
+      "headword": "degrade",
+      "pos": "v.",
+      "ko": "질을 떨어뜨리다, 삭다; 비하하다",
+      "example_en": "Magnetic tape degrades within decades unless it is stored in controlled conditions.",
+      "example_ko": "자기 테이프는 관리된 환경에 보관하지 않으면 수십 년 안에 열화된다.",
+      "collocations": [
+        "degrade over time",
+        "degrade performance"
+      ],
+      "note": "de-(아래로) + grade(등급) = 등급을 끌어내리다. 물건·성능이 '삭는다'는 뜻과 사람을 '비하한다'는 뜻을 한 단어가 함께 가진다.",
+      "family": [
+        {
+          "word": "degradation",
+          "pos": "n.",
+          "ko": "저하, 열화; 비하"
+        },
+        {
+          "word": "biodegradable",
+          "pos": "a.",
+          "ko": "생분해성의 — 미생물이 '등급을 내려' 분해한다"
+        }
+      ],
+      "related": [
+        {
+          "word": "downgrade",
+          "ko": "등급을 낮추다",
+          "note": "degrade는 품질이 서서히 나빠지는 것, downgrade는 신용등급처럼 평가를 공식적으로 한 단계 내리는 것"
+        }
+      ]
+    },
+    {
+      "headword": "discontinue",
+      "pos": "v.",
+      "ko": "중단하다, 단종하다",
+      "example_en": "The manufacturer discontinued the model after sales fell for three quarters.",
+      "example_ko": "그 제조사는 세 분기 연속 매출이 떨어지자 그 모델을 단종했다.",
+      "collocations": [
+        "discontinue a product",
+        "discontinued item"
+      ],
+      "note": "dis-(반대) + continue. 토익 공지문에서 'This item has been discontinued'는 '단종되었습니다'라는 정해진 표현이다.",
+      "family": [
+        {
+          "word": "discontinuation",
+          "pos": "n.",
+          "ko": "중단, 단종"
+        },
+        {
+          "word": "discontinuity",
+          "pos": "n.",
+          "ko": "단절, 불연속 — '중단'이 아니라 '이어지지 않음'이라는 다른 뜻이니 구별할 것"
+        }
+      ]
+    },
+    {
+      "headword": "custody",
+      "pos": "n.",
+      "ko": "보관, 관리 책임; 구금",
+      "example_en": "The bank takes custody of the securities on behalf of its clients.",
+      "example_ko": "그 은행은 고객을 대신해 유가증권을 보관한다.",
+      "collocations": [
+        "take custody of",
+        "in custody",
+        "chain of custody"
+      ],
+      "note": "'양육권(child custody)', '경찰 구금(in custody)', '자산 보관'까지 뜻이 넓어 보이지만 공통점은 하나 — '맡아 두고 책임진다'. 증거물이 오간 기록을 뜻하는 chain of custody도 같은 발상이다.",
+      "family": [
+        {
+          "word": "custodian",
+          "pos": "n.",
+          "ko": "관리인, 수탁자"
+        },
+        {
+          "word": "custodial",
+          "pos": "a.",
+          "ko": "보관의; 구금의"
+        }
+      ]
+    },
+    {
+      "headword": "illegible",
+      "pos": "a.",
+      "ko": "읽을 수 없는, 판독 불가능한",
+      "example_en": "The signature on the contract was illegible, so the clerk asked for the name in print.",
+      "example_ko": "계약서의 서명이 알아볼 수 없어서 직원이 이름을 정자로 써 달라고 했다.",
+      "collocations": [
+        "illegible handwriting",
+        "barely legible"
+      ],
+      "note": "il-(부정) + leg(읽다) + -ible. lecture(읽어 주는 것=강의)·legend(읽어야 할 것=전설)와 같은 leg- 뿌리다.",
+      "family": [
+        {
+          "word": "legible",
+          "pos": "a.",
+          "ko": "읽기 쉬운"
+        },
+        {
+          "word": "legibility",
+          "pos": "n.",
+          "ko": "가독성"
+        }
+      ],
+      "related": [
+        {
+          "word": "eligible",
+          "ko": "자격이 있는",
+          "note": "철자가 illegible과 비슷해 헷갈리지만 e-(밖으로) + lig(고르다) = '골라 뽑힐 만한'이라는 전혀 다른 단어다"
+        }
+      ]
+    },
+    {
+      "headword": "migrate",
+      "pos": "v.",
+      "ko": "이주하다; (데이터를) 옮기다",
+      "example_en": "The firm plans to migrate all customer records to the new platform by June.",
+      "example_ko": "그 회사는 6월까지 모든 고객 기록을 새 플랫폼으로 이전할 계획이다.",
+      "collocations": [
+        "migrate data",
+        "migrate to a new system"
+      ],
+      "note": "'철새가 이동한다'는 본뜻보다 실무에서는 '데이터·시스템을 새 환경으로 옮기다'라는 IT 용법을 훨씬 자주 만난다.",
+      "family": [
+        {
+          "word": "migration",
+          "pos": "n.",
+          "ko": "이주; 이전"
+        },
+        {
+          "word": "migratory",
+          "pos": "a.",
+          "ko": "이동하는, 철새의"
+        }
+      ],
+      "related": [
+        {
+          "word": "emigrate / immigrate",
+          "note": "emigrate는 나가는 쪽(e-=밖으로), immigrate는 들어오는 쪽(im-=안으로), migrate는 방향을 따지지 않는 중립어다"
+        }
+      ]
+    },
+    {
+      "headword": "underlying",
+      "pos": "a.",
+      "ko": "근본적인, 밑에 깔린",
+      "example_en": "Treating the symptoms does nothing about the underlying cause of the shortage.",
+      "example_ko": "증상을 다루는 것은 그 부족 사태의 근본 원인에 대해서는 아무것도 하지 못한다.",
+      "collocations": [
+        "underlying cause",
+        "underlying assumption"
+      ],
+      "note": "말 그대로 '아래에 놓인' — 겉으로 드러난 증상 밑의 원인(underlying cause), 기저질환(underlying condition), 금융의 기초자산(underlying asset)까지 쓰임이 같은 그림이다.",
+      "related": [
+        {
+          "word": "underlie",
+          "ko": "기저를 이루다",
+          "note": "동사 underlie는 lie(눕다) 활용을 따라 underlay–underlain으로 변한다. 타동사 underlay(밑에 깔다)와 형태가 겹쳐 혼동하기 쉽다"
+        }
+      ]
+    },
+    {
+      "headword": "meticulous",
+      "pos": "a.",
+      "ko": "꼼꼼한, 세심한",
+      "example_en": "She kept meticulous records of every transaction, which saved the company during the audit.",
+      "example_ko": "그는 모든 거래를 꼼꼼히 기록해 두었고, 그것이 감사 때 회사를 구했다.",
+      "collocations": [
+        "meticulous records",
+        "meticulous attention to detail"
+      ],
+      "note": "라틴어 metus(두려움)에서 왔다 — 틀릴까 '겁내며' 하나하나 확인하는 태도. 어원은 부정적이지만 지금은 분명한 칭찬으로 쓴다.",
+      "related": [
+        {
+          "word": "scrupulous",
+          "ko": "빈틈없는; 양심적인",
+          "note": "meticulous는 정확성에, scrupulous는 도덕적 양심에 무게가 실린다"
+        }
+      ]
+    },
+    {
+      "headword": "forestall",
+      "pos": "v.",
+      "ko": "미리 막다, 선수 쳐서 저지하다",
+      "example_en": "The central bank raised rates early to forestall a wage-price spiral.",
+      "example_ko": "중앙은행은 임금과 물가가 서로를 밀어 올리는 악순환을 미리 막으려고 일찍 금리를 올렸다.",
+      "collocations": [
+        "forestall criticism",
+        "forestall a crisis"
+      ],
+      "note": "fore-(미리) + stall(멈춰 세우다) — 상대가 움직이기 전에 앞질러 세운다. 그냥 prevent와 달리 '먼저 손을 쓴다'는 시간 순서가 뜻의 핵심이다.",
+      "related": [
+        {
+          "word": "preempt",
+          "ko": "선수를 치다",
+          "note": "둘 다 앞질러 막지만 preempt는 '먼저 차지해' 무력화하는 쪽, forestall은 '미리 손 써서' 못 일어나게 하는 쪽이다"
+        }
+      ]
+    },
+    {
+      "headword": "unprecedented",
+      "pos": "a.",
+      "ko": "전례 없는",
+      "example_en": "The court's ruling was unprecedented and left regulators without a template to follow.",
+      "example_ko": "그 법원 판결은 전례가 없어서 규제 당국은 따를 만한 본보기가 없었다.",
+      "collocations": [
+        "unprecedented scale",
+        "unprecedented move"
+      ],
+      "note": "un- + precedent(선례) — pre(앞서) + ced(가다), 즉 '앞서 간 것'이 없다는 말이다. precede·recede·proceed 같은 ced/cede 뿌리 단어를 한 묶음으로 정리해 두면 좋다.",
+      "family": [
+        {
+          "word": "precedent",
+          "pos": "n.",
+          "ko": "선례, 판례"
+        },
+        {
+          "word": "precede",
+          "pos": "v.",
+          "ko": "~에 앞서다"
+        },
+        {
+          "word": "precedence",
+          "pos": "n.",
+          "ko": "우선함 — take precedence over(~보다 우선하다)"
+        }
+      ]
+    }
+  ]
+}

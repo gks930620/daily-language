@@ -1215,6 +1215,51 @@
     },
     "seductive": {
       "added_on": "2026-08-20"
+    },
+    "perishable": {
+      "added_on": "2026-08-21"
+    },
+    "repository": {
+      "added_on": "2026-08-21"
+    },
+    "retrieve": {
+      "added_on": "2026-08-21"
+    },
+    "archive": {
+      "added_on": "2026-08-21"
+    },
+    "ephemeral": {
+      "added_on": "2026-08-21"
+    },
+    "perpetuity": {
+      "added_on": "2026-08-21"
+    },
+    "degrade": {
+      "added_on": "2026-08-21"
+    },
+    "discontinue": {
+      "added_on": "2026-08-21"
+    },
+    "custody": {
+      "added_on": "2026-08-21"
+    },
+    "illegible": {
+      "added_on": "2026-08-21"
+    },
+    "migrate": {
+      "added_on": "2026-08-21"
+    },
+    "underlying": {
+      "added_on": "2026-08-21"
+    },
+    "meticulous": {
+      "added_on": "2026-08-21"
+    },
+    "forestall": {
+      "added_on": "2026-08-21"
+    },
+    "unprecedented": {
+      "added_on": "2026-08-21"
     }
   }
 }
