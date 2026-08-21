@@ -1,0 +1,316 @@
+{
+  "date": "2026-08-22",
+  "words": [
+    {
+      "headword": "outpace",
+      "pos": "v.",
+      "ko": "앞지르다, 웃돌다",
+      "example_en": "Demand for chargers has outpaced the grid upgrades needed to support them.",
+      "example_ko": "충전기 수요가 그것을 감당하는 데 필요한 전력망 개선 속도를 앞질렀다.",
+      "collocations": [
+        "outpace demand",
+        "outpace growth"
+      ],
+      "note": "pace(속도)에 접두사 out-이 붙은 형태. 여기서 out-은 '밖으로'가 아니라 '상대보다 더'라는 뜻이어서, out-이 붙으면 대부분 '~에서 상대를 이기다'로 풀린다(outnumber 수에서 앞서다, outlive 더 오래 살다).",
+      "family": [
+        {
+          "word": "outnumber",
+          "pos": "v.",
+          "ko": "수적으로 앞서다"
+        },
+        {
+          "word": "outperform",
+          "pos": "v.",
+          "ko": "성과에서 앞지르다"
+        }
+      ]
+    },
+    {
+      "headword": "grueling",
+      "pos": "a.",
+      "ko": "고된, 녹초로 만드는",
+      "example_en": "Auditors face a grueling schedule in the weeks before the fiscal year closes.",
+      "example_ko": "회계사들은 회계연도가 끝나기 전 몇 주간 고된 일정에 시달린다.",
+      "collocations": [
+        "a grueling schedule",
+        "grueling work"
+      ],
+      "note": "gruel(죄수에게 주던 묽은 죽)에서 나온 말 — 죽만 먹이며 몰아붙이는 그림을 떠올리면 된다. 사람이 아니라 일정·훈련·업무 같은 '겪는 대상'에 붙는다.",
+      "related": [
+        {
+          "word": "strenuous",
+          "ko": "격렬한, 힘이 많이 드는",
+          "note": "strenuous는 한 번에 큰 힘을 쏟는 것, grueling은 오래 이어져 사람을 소진시키는 것"
+        }
+      ]
+    },
+    {
+      "headword": "frail",
+      "pos": "a.",
+      "ko": "노쇠한, 허약한",
+      "example_en": "The program delivers meals to frail elderly residents living alone.",
+      "example_ko": "그 사업은 혼자 사는 노쇠한 고령 주민들에게 식사를 배달한다.",
+      "collocations": [
+        "frail elderly",
+        "frail health"
+      ],
+      "note": "fragile(부서지기 쉬운)과 같은 뿌리(frag- 부수다)에서 갈라진 말이지만 쓰임이 나뉜다 — frail은 사람의 몸·건강에, fragile은 유리·물건·평화 같은 대상에 붙는다.",
+      "family": [
+        {
+          "word": "frailty",
+          "pos": "n.",
+          "ko": "노쇠, 허약함; 약점"
+        }
+      ]
+    },
+    {
+      "headword": "stipend",
+      "pos": "n.",
+      "ko": "(정기적으로 주는) 수당",
+      "example_en": "Interns receive a modest monthly stipend rather than a salary.",
+      "example_ko": "인턴들은 급여가 아니라 많지 않은 월 수당을 받는다.",
+      "collocations": [
+        "a monthly stipend",
+        "receive a stipend"
+      ],
+      "note": "stips(잔돈) + pendere(달아서 지불하다)에서 온 말. pend-는 '달다·지불하다'라서 pension(연금)·expend(지출하다)·compensate(보상하다)가 모두 한 뿌리다. 정식 임금(salary)보다 적은 '생활 보조성 돈'이라는 뉘앙스가 있다.",
+      "related": [
+        {
+          "word": "salary",
+          "ko": "급여, 봉급",
+          "note": "salary는 노동의 대가인 정규 임금, stipend는 생계를 거들어 주는 성격의 정액 지급금"
+        }
+      ]
+    },
+    {
+      "headword": "turnover",
+      "pos": "n.",
+      "ko": "이직률; (기업의) 총매출",
+      "example_en": "High staff turnover forced the chain to retrain new hires every few months.",
+      "example_ko": "높은 직원 이직률 탓에 그 체인은 몇 달마다 신입을 다시 교육해야 했다.",
+      "collocations": [
+        "staff turnover",
+        "high turnover",
+        "annual turnover"
+      ],
+      "note": "뜻이 두 갈래로 갈리는데 '돌아 나간다'는 그림 하나로 묶인다 — 사람이 돌아 나가면 이직률, 돈이 돌아 나가면 매출액. 이미 배운 turnout(투표율·참가 인원)과 철자가 비슷하니 헷갈리지 말 것.",
+      "related": [
+        {
+          "word": "turnout",
+          "ko": "투표율, 참가 인원",
+          "note": "turnout은 '나와 준 사람 수', turnover는 '빠져나간 비율' — 정반대 방향이다"
+        }
+      ]
+    },
+    {
+      "headword": "vacancy",
+      "pos": "n.",
+      "ko": "공석, 결원; 빈방",
+      "example_en": "The hospital has been unable to fill more than a hundred nursing vacancies.",
+      "example_ko": "그 병원은 백 자리가 넘는 간호 인력 결원을 채우지 못하고 있다.",
+      "collocations": [
+        "fill a vacancy",
+        "job vacancy"
+      ],
+      "note": "vac-(비어 있다) 계열의 대표 단어. 같은 뿌리로 vacuum(진공), evacuate(비우다 → 대피시키다), vacation(자리를 비우는 기간 → 휴가)이 있으니 한 묶음으로 외우면 손해가 없다.",
+      "family": [
+        {
+          "word": "vacant",
+          "pos": "a.",
+          "ko": "비어 있는"
+        },
+        {
+          "word": "vacate",
+          "pos": "v.",
+          "ko": "(자리·건물을) 비우다"
+        }
+      ]
+    },
+    {
+      "headword": "eligibility",
+      "pos": "n.",
+      "ko": "자격, 자격 요건",
+      "example_en": "The bill widens eligibility for subsidized child care.",
+      "example_ko": "그 법안은 보육료 지원 대상의 자격 요건을 넓힌다.",
+      "collocations": [
+        "eligibility criteria",
+        "eligibility for benefits"
+      ],
+      "note": "-lig-는 '고르다'로 elect(선출하다)·select(고르다)와 한 뿌리다. '골라질 만한 상태'가 곧 자격이라고 보면 된다. 형용사 eligible은 앞서 나온 illegible(읽을 수 없는)과 생김새가 비슷하니 주의.",
+      "family": [
+        {
+          "word": "eligible",
+          "pos": "a.",
+          "ko": "자격이 있는"
+        }
+      ],
+      "related": [
+        {
+          "word": "illegible",
+          "ko": "읽을 수 없는",
+          "note": "eligible은 '고를 만한(자격 있는)', illegible은 leg-(읽다)에서 온 '못 읽을'로 뿌리가 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "recruit",
+      "pos": "v.",
+      "ko": "모집하다, 채용하다; (명사) 신입",
+      "example_en": "The agency is struggling to recruit and retain qualified carers.",
+      "example_ko": "그 기관은 자격을 갖춘 돌봄 인력을 채용하고 붙잡아 두는 데 애를 먹고 있다.",
+      "collocations": [
+        "recruit staff",
+        "recruit and retain"
+      ],
+      "note": "re-(다시) + cre-/cru-(자라다)로 '줄어든 인원을 다시 키워 채우다'가 원뜻이다. 같은 뿌리에 increase(늘다)·crescent(초승달, 자라나는 달)가 있다. 채용 문맥에서는 recruit and retain(뽑고 붙잡아 두다)이 한 덩어리로 자주 나온다.",
+      "family": [
+        {
+          "word": "recruitment",
+          "pos": "n.",
+          "ko": "채용, 모집"
+        },
+        {
+          "word": "recruiter",
+          "pos": "n.",
+          "ko": "채용 담당자"
+        }
+      ]
+    },
+    {
+      "headword": "shoulder",
+      "pos": "v.",
+      "ko": "(부담·책임·비용을) 떠맡다",
+      "example_en": "Small suppliers were left to shoulder the cost of the recall.",
+      "example_ko": "리콜 비용은 결국 영세 납품업체들이 떠맡게 되었다.",
+      "collocations": [
+        "shoulder the cost",
+        "shoulder the blame",
+        "shoulder the burden"
+      ],
+      "note": "명사 '어깨'가 그대로 동사가 된 경우로 '어깨에 짊어지다 → 떠맡다'. 목적어는 거의 항상 cost·burden·blame·responsibility처럼 무거운 추상명사다. 영어에는 이렇게 신체 명사가 동사로 넘어간 말이 많다(head 이끌다, face 직면하다, hand 건네다).",
+      "family": [
+        {
+          "word": "shoulder",
+          "pos": "n.",
+          "ko": "어깨; (도로의) 갓길"
+        }
+      ]
+    },
+    {
+      "headword": "brunt",
+      "pos": "n.",
+      "ko": "(공격·충격의) 정면, 가장 큰 타격",
+      "example_en": "Coastal towns bore the brunt of the storm.",
+      "example_ko": "해안 마을들이 그 폭풍의 직격탄을 맞았다.",
+      "collocations": [
+        "bear the brunt of",
+        "take the brunt of"
+      ],
+      "note": "혼자서는 거의 쓰이지 않고 bear/take the brunt of ~ 형태로만 나온다. 단어 하나로 외우지 말고 '~의 직격탄을 맞다'라는 통째 표현으로 외워야 실제로 쓸 수 있다.",
+      "related": [
+        {
+          "word": "blunt",
+          "ko": "무딘; 직설적인",
+          "note": "철자가 한 글자 차이라 헷갈린다 — brunt는 명사 '충격', blunt는 형용사 '무딘'"
+        }
+      ]
+    },
+    {
+      "headword": "toll",
+      "pos": "n.",
+      "ko": "대가, 피해; 통행료",
+      "example_en": "Years of overtime took a heavy toll on his health.",
+      "example_ko": "수년간의 초과 근무가 그의 건강에 큰 타격을 주었다.",
+      "collocations": [
+        "take a toll on",
+        "death toll",
+        "toll road"
+      ],
+      "note": "본뜻은 '통행료' — 지나가려면 반드시 내야 하는 값이다. 여기서 '재난·과로가 받아 가는 대가'로 뜻이 넓어졌다. take a toll on ~(~에 타격을 주다), death toll(사망자 수) 두 표현이 뉴스에 가장 자주 나온다.",
+      "related": [
+        {
+          "word": "tuition",
+          "ko": "수업료",
+          "note": "toll(통행료)·tuition(수업료)·tariff(관세)는 모두 '내야 하는 돈'이지만 무엇에 대한 값인지가 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "strain",
+      "pos": "n.",
+      "ko": "부담, 압박; (동사) 무리를 주다",
+      "example_en": "The influx of patients put an enormous strain on the emergency ward.",
+      "example_ko": "환자가 몰리면서 응급 병동에 엄청난 부담이 가해졌다.",
+      "collocations": [
+        "put a strain on",
+        "financial strain",
+        "strain a muscle"
+      ],
+      "note": "본뜻은 '팽팽히 당기다'. 근육을 당기면 접질리고(strain a muscle), 예산을 당기면 쪼들린다(strain the budget)로 자연스럽게 이어진다. stress가 주로 심리적 압박이라면 strain은 '견디는 쪽이 실제로 받는 부하'에 가깝다.",
+      "related": [
+        {
+          "word": "stress",
+          "ko": "스트레스, 압박",
+          "note": "stress는 가해지는 힘, strain은 그 힘 때문에 대상에 생긴 변형·무리 — 공학 용어에서도 이렇게 구분한다"
+        }
+      ]
+    },
+    {
+      "headword": "earmark",
+      "pos": "v.",
+      "ko": "(자금·용도를) 지정해 두다",
+      "example_en": "Half of the grant has been earmarked for rural clinics.",
+      "example_ko": "그 보조금의 절반은 농촌 진료소용으로 배정되어 있다.",
+      "collocations": [
+        "be earmarked for",
+        "earmark funds"
+      ],
+      "note": "가축의 귀(ear)에 표시(mark)를 해서 주인을 구분하던 관습에서 나온 말 — 돈에 꼬리표를 붙여 다른 데 못 쓰게 묶어 두는 것이다. 실제 문장에서는 대부분 수동태 be earmarked for ~로 나온다.",
+      "related": [
+        {
+          "word": "allocate",
+          "ko": "배정하다, 할당하다",
+          "note": "allocate는 실제로 나눠 주는 행위, earmark는 '이 용도로만 쓴다'고 미리 못 박아 두는 것"
+        }
+      ]
+    },
+    {
+      "headword": "stopgap",
+      "pos": "n.",
+      "ko": "임시방편, 미봉책",
+      "example_en": "The emergency loan is only a stopgap until the budget is passed.",
+      "example_ko": "그 긴급 대출은 예산안이 통과될 때까지의 임시방편일 뿐이다.",
+      "collocations": [
+        "a stopgap measure",
+        "a stopgap solution"
+      ],
+      "note": "구멍(gap)을 막는다(stop)는 그림 그대로 — 근본 해결이 아니라 급한 대로 때우는 조치를 가리킨다. 명사로도 쓰지만 a stopgap measure처럼 명사를 꾸미는 자리에 오는 경우가 압도적으로 많다.",
+      "related": [
+        {
+          "word": "makeshift",
+          "ko": "임시변통의",
+          "note": "makeshift는 천막·책상 같은 물건·시설에, stopgap은 정책·조치·인사에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "languish",
+      "pos": "v.",
+      "ko": "방치되다, 처박혀 있다; 시들다",
+      "example_en": "The proposal languished in committee for three years.",
+      "example_ko": "그 법안은 삼 년 동안 위원회에서 잠자고 있었다.",
+      "collocations": [
+        "languish in committee",
+        "languish in prison"
+      ],
+      "note": "languid(나른한)·languor(무기력)와 한 뿌리로 '기운이 빠져 늘어지다'가 본뜻이다. 그래서 뒤에 장소를 뜻하는 in이 붙어 '법안이 위원회에, 사람이 감옥에, 재고가 창고에 처박혀 있다'는 식으로 쓴다.",
+      "family": [
+        {
+          "word": "languid",
+          "pos": "a.",
+          "ko": "나른한, 활기 없는"
+        }
+      ]
+    }
+  ]
+}
