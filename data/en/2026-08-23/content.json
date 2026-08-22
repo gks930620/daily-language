@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-23",
+  "passage_note": "스포츠·재정 — 국제 대회 유치의 경제학과 남겨진 시설의 비용(논설)",
+  "sentences": [
+    {
+      "en": "Every few years, a handful of cities scramble to win the right to host a global sporting spectacle, and the bids they submit are invariably wrapped in promises of tourism, jobs, and lasting prestige.",
+      "ko": "몇 년에 한 번씩 소수의 도시들이 세계적인 스포츠 행사를 개최할 권리를 따내려 앞다투어 나서는데, 그들이 제출하는 유치 신청서는 예외 없이 관광과 일자리, 그리고 오래가는 위신이라는 약속으로 포장되어 있다.",
+      "structure": "· the bids (which/that) they submit : 목적격 관계대명사가 생략된 관계사절이 the bids를 뒤에서 수식한다.\n· are wrapped in ~ : wrap A in B(A를 B로 감싸다)의 수동태 — '~로 포장돼 있다'.\n· to win은 목적을 나타내는 부사적 용법, to host는 앞의 the right를 수식하는 형용사적 용법이다.\n· of tourism, jobs, and lasting prestige : 전치사 of 뒤에 명사 셋이 A, B, and C로 병렬 연결된다.",
+      "vocab_notes": [
+        { "word": "a handful of", "ko": "소수의, 한 줌의" },
+        { "word": "scramble", "ko": "앞다투어 서두르다" },
+        { "word": "host", "ko": "개최하다, 주최하다" },
+        { "word": "sporting", "ko": "스포츠의, 경기의" },
+        { "word": "spectacle", "ko": "볼거리, 대형 행사" },
+        { "word": "bid", "ko": "유치 신청, 입찰" },
+        { "word": "submit", "ko": "제출하다" },
+        { "word": "invariably", "ko": "예외 없이, 언제나" },
+        { "word": "be wrapped in", "ko": "~로 감싸이다, ~로 포장되다" },
+        { "word": "lasting", "ko": "오래가는, 지속되는" },
+        { "word": "prestige", "ko": "위신, 명성" }
+      ]
+    },
+    {
+      "en": "Yet the accounting that underpins those promises rarely survives contact with reality, as cost overruns of one hundred percent or more have become the norm rather than the exception.",
+      "ko": "그러나 그런 약속을 떠받치는 셈법은 현실과 부딪히면 좀처럼 살아남지 못하는데, 100퍼센트 이상의 비용 초과가 예외가 아니라 표준이 되어버렸기 때문이다.",
+      "structure": "· that underpins those promises : 주격 관계대명사절이 주어 the accounting을 수식하고, 문장의 본동사는 그 뒤의 survives다.\n· rarely는 준부정어 — '좀처럼 ~하지 못한다'로 해석한다.\n· as는 여기서 이유를 나타내는 접속사('~이므로').\n· A rather than B : 'B가 아니라 A' — 비교되는 두 자리는 the norm / the exception처럼 문법 형태를 맞춘다.",
+      "vocab_notes": [
+        { "word": "accounting", "ko": "회계, 셈법" },
+        { "word": "underpin", "ko": "떠받치다, 뒷받침하다" },
+        { "word": "rarely", "ko": "좀처럼 ~않다" },
+        { "word": "survive", "ko": "견뎌 내다, 살아남다" },
+        { "word": "contact with reality", "ko": "현실과의 접촉" },
+        { "word": "cost overrun", "ko": "비용 초과" },
+        { "word": "the norm", "ko": "표준, 흔한 일" },
+        { "word": "rather than", "ko": "~라기보다는" },
+        { "word": "exception", "ko": "예외" }
+      ]
+    },
+    {
+      "en": "Once the closing ceremony ends, the lavish venues built for a fortnight of competition are handed to a host city that must shoulder their upkeep for decades, which is why critics deride them as white elephants.",
+      "ko": "폐막식이 끝나고 나면, 2주간의 경기를 위해 지어진 그 호화로운 경기장들은 수십 년간 유지비를 떠맡아야 하는 개최 도시에 넘겨지는데, 그래서 비판자들은 그것들을 애물단지라고 조롱하는 것이다.",
+      "structure": "· Once + 주어 + 동사 : 여기서 once는 '일단 ~하면'이라는 접속사로 부사절을 이끈다.\n· built for a fortnight of competition : 과거분사구가 the lavish venues를 뒤에서 수식(which were built의 축약형).\n· that must shoulder their upkeep : 주격 관계대명사절이 a host city를 수식한다.\n· , which is why ~ : 계속적 용법의 관계대명사 which가 앞 절 전체를 받아 '그래서 ~인 것이다'로 이어진다.\n· deride A as B : 'A를 B라고 조롱하다' — regard/describe A as B와 같은 5형식 유형.",
+      "vocab_notes": [
+        { "word": "once", "ko": "일단 ~하면 (접속사)" },
+        { "word": "closing ceremony", "ko": "폐막식" },
+        { "word": "lavish", "ko": "호화로운" },
+        { "word": "venue", "ko": "경기장, 행사 장소" },
+        { "word": "fortnight", "ko": "2주간" },
+        { "word": "be handed to", "ko": "~에게 넘겨지다" },
+        { "word": "host city", "ko": "개최 도시" },
+        { "word": "shoulder", "ko": "(부담을) 떠맡다" },
+        { "word": "upkeep", "ko": "유지·관리비" },
+        { "word": "decade", "ko": "10년" },
+        { "word": "deride", "ko": "조롱하다, 비웃다" },
+        { "word": "white elephant", "ko": "돈만 잡아먹는 애물단지" }
+      ]
+    },
+    {
+      "en": "Defenders of the bidding process counter that such arithmetic is too narrow, for it ignores the transit lines and housing that would otherwise have languished on a wish list for another generation.",
+      "ko": "유치 경쟁을 옹호하는 이들은 그런 계산이 너무 편협하다고 반박한다. 대회가 없었더라면 한 세대는 더 희망 목록에만 처박혀 있었을 대중교통 노선과 주택을 그 계산이 무시하기 때문이라는 것이다.",
+      "structure": "· counter that S+V : counter가 '반박하다'라는 타동사로 that절을 목적어로 받는다.\n· for는 여기서 전치사가 아니라 '왜냐하면'이라는 이유의 등위접속사다.\n· would otherwise have p.p. : otherwise(그러지 않았더라면)가 if절을 대신하는 가정법 과거완료 — '~했을 것이다'.\n· that would otherwise have languished ~ : 주격 관계대명사절이 the transit lines and housing을 함께 수식한다.",
+      "vocab_notes": [
+        { "word": "defender", "ko": "옹호자, 지지자" },
+        { "word": "bidding process", "ko": "유치 경쟁 과정, 입찰 절차" },
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "arithmetic", "ko": "계산, 셈" },
+        { "word": "narrow", "ko": "편협한, 좁은" },
+        { "word": "ignore", "ko": "무시하다" },
+        { "word": "transit", "ko": "대중교통" },
+        { "word": "otherwise", "ko": "그러지 않았더라면" },
+        { "word": "languish", "ko": "방치되다, 시들다" },
+        { "word": "wish list", "ko": "희망 목록" },
+        { "word": "generation", "ko": "세대" }
+      ]
+    },
+    {
+      "en": "Voters are no longer persuaded: in city after city, referendums have sunk bids before they were ever filed, a verdict on public money diverted from schools and hospitals to a three-week festival.",
+      "ko": "유권자들은 더 이상 설득되지 않는다. 도시마다 주민투표가 유치 신청서를 접수도 되기 전에 침몰시켰는데, 이는 학교와 병원에서 3주짜리 축제로 돌려진 공적 자금에 대한 평결인 셈이다.",
+      "structure": "· are no longer persuaded : 수동태에 no longer(더 이상 ~아니다)가 붙은 형태.\n· 콜론(:)은 앞 문장의 근거·부연을 끌어온다.\n· sunk는 sink(가라앉히다)의 과거분사 — sink-sank-sunk. 여기서는 '(계획을) 좌초시키다'라는 타동사.\n· a verdict on ~ : 콤마 뒤의 명사구가 앞 절 전체를 다시 받아 설명하는 동격 구문.\n· diverted from A to B : 과거분사구가 public money를 뒤에서 수식한다.",
+      "vocab_notes": [
+        { "word": "voter", "ko": "유권자" },
+        { "word": "no longer", "ko": "더 이상 ~않다" },
+        { "word": "persuade", "ko": "설득하다" },
+        { "word": "city after city", "ko": "도시마다, 이 도시 저 도시" },
+        { "word": "referendum", "ko": "주민투표, 국민투표" },
+        { "word": "sink", "ko": "좌초시키다, 가라앉히다" },
+        { "word": "file", "ko": "(서류를) 접수하다, 제출하다" },
+        { "word": "verdict", "ko": "평결, 판정" },
+        { "word": "divert A from B to C", "ko": "A를 B에서 C로 돌리다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "bid",
+      "pos": "n.",
+      "ko": "유치 신청, 입찰; 시도",
+      "example_en": "The city withdrew its bid to host the games after the cost estimates doubled.",
+      "example_ko": "그 도시는 비용 추산이 두 배가 되자 대회 유치 신청을 철회했다.",
+      "collocations": ["submit a bid", "a bid to host", "a takeover bid"],
+      "note": "본래 뜻은 '값을 부르다' — 경매에서 값을 부르면 '입찰'이 되고, 무언가를 따내려 손을 드는 몸짓이 '(유치·인수) 시도'가 된다. '값을 부르다' 뜻의 동사는 bid-bid-bid로 형태가 변하지 않는 점이 시험에 나온다.",
+      "family": [
+        { "word": "bidder", "pos": "n.", "ko": "입찰자, 응찰자" },
+        { "word": "bidding", "pos": "n.", "ko": "입찰(경쟁), 호가" }
+      ]
+    },
+    {
+      "headword": "venue",
+      "pos": "n.",
+      "ko": "행사 장소, 개최지",
+      "example_en": "The conference was moved to a larger venue after registrations exceeded expectations.",
+      "example_ko": "등록자가 예상을 넘어서자 학회는 더 큰 장소로 옮겨졌다.",
+      "collocations": ["the venue for the event", "change the venue"],
+      "note": "라틴어 venire(오다)에서 온 말 — 사람들이 '오는' 곳이 venue다. avenue(~로 오는 길), convention(함께 옴), revenue(되돌아 오는 것=수입)가 모두 같은 뿌리라 묶어서 외우면 좋다.",
+      "related": [
+        { "word": "site", "ko": "부지, 현장", "note": "venue는 행사·재판이 '열리는' 장소, site는 건설·유적처럼 물리적 부지를 가리킨다" }
+      ]
+    },
+    {
+      "headword": "overrun",
+      "pos": "n.",
+      "ko": "(예산·기간의) 초과",
+      "example_en": "Cost overruns pushed the project's final price to twice the original estimate.",
+      "example_ko": "비용 초과 탓에 그 사업의 최종 금액은 애초 추산의 두 배로 뛰었다.",
+      "collocations": ["cost overrun", "budget overrun", "schedule overrun"],
+      "note": "over(넘어서) + run(달리다) — 정해진 선을 넘어 달려버린 것. 명사는 앞에 강세(ÓVERrun), '짓밟다·초과하다'라는 동사는 뒤에 강세(overRÚN)로 갈리는 전형적인 명사·동사 강세 이동 단어다.",
+      "family": [
+        { "word": "overrun", "pos": "v.", "ko": "(비용·시간을) 초과하다; 들끓다, 침략하다" }
+      ]
+    },
+    {
+      "headword": "upkeep",
+      "pos": "n.",
+      "ko": "유지, 관리(비)",
+      "example_en": "The upkeep of the stadium costs the city millions of dollars a year.",
+      "example_ko": "그 경기장의 유지비로 시는 해마다 수백만 달러를 쓴다.",
+      "collocations": ["the upkeep of a building", "cost of upkeep"],
+      "note": "keep up(계속 유지하다)을 거꾸로 붙여 만든 명사 — outbreak(break out), outcome(come out), setback(set back)과 같은 '동사+부사 뒤집기' 부류다. maintenance보다 '돈이 들어가는 관리'라는 어감이 강하다.",
+      "related": [
+        { "word": "maintenance", "ko": "유지 보수", "note": "maintenance는 정비 작업 자체까지 포함하는 넓은 말, upkeep은 계속 나가는 관리 비용에 초점이 있다" }
+      ]
+    },
+    {
+      "headword": "white elephant",
+      "pos": "n.",
+      "ko": "돈만 잡아먹는 애물단지",
+      "example_en": "The airport, built for a boom that never came, has become a white elephant.",
+      "example_ko": "오지 않은 호황을 내다보고 지은 그 공항은 애물단지가 되어 버렸다.",
+      "collocations": ["a white elephant project", "turn into a white elephant"],
+      "note": "옛 시암(태국) 왕이 미운 신하에게 신성한 흰 코끼리를 하사했다는 이야기에서 왔다 — 신성해서 부릴 수도 버릴 수도 없는데 먹이값에 신하가 파산했다. 그래서 '유지비만 드는 무용지물'을 뜻한다.",
+      "related": [
+        { "word": "boondoggle", "ko": "세금 낭비 사업", "note": "둘 다 낭비를 비난하지만 white elephant는 '완성 후에도 짐이 되는 시설', boondoggle은 '애초에 무의미한 사업'을 가리킨다" }
+      ]
+    },
+    {
+      "headword": "referendum",
+      "pos": "n.",
+      "ko": "국민투표, 주민투표",
+      "example_en": "Voters rejected the hosting plan in a referendum held last spring.",
+      "example_ko": "유권자들은 지난봄에 치러진 주민투표에서 그 유치 계획을 부결시켰다.",
+      "collocations": ["hold a referendum", "in a referendum on ~"],
+      "note": "refer(부치다, 회부하다)의 라틴어 형태에서 온 말 — 결정을 국민에게 '부쳐 물어야 할 것'이다. 복수형은 영어식 referendums와 라틴식 referenda 둘 다 쓴다.",
+      "family": [
+        { "word": "refer", "pos": "v.", "ko": "회부하다; 언급하다" },
+        { "word": "referral", "pos": "n.", "ko": "회부, (전문가에게) 보내기" }
+      ]
+    },
+    {
+      "headword": "tout",
+      "pos": "v.",
+      "ko": "치켜세우다, 대대적으로 선전하다",
+      "example_en": "The project was touted as a boost to the local economy, but few jobs ever materialized.",
+      "example_ko": "그 사업은 지역 경제를 살릴 것이라고 선전되었지만, 실제로 생긴 일자리는 거의 없었다.",
+      "collocations": ["be touted as", "widely touted", "tout the benefits of"],
+      "note": "원래 길에서 '호객하다'라는 뜻이라, tout에는 실제보다 부풀려 떠든다는 냉소가 깔려 있다. 기사에서 be touted as(~로 선전되다)가 나오면 뒤에 대개 but으로 시작하는 반박이 따라온다.",
+      "related": [
+        { "word": "promote", "ko": "홍보하다", "note": "promote는 중립적인 '알리다'이고, tout은 과장·허풍의 뉘앙스를 담아 쓴다" }
+      ]
+    },
+    {
+      "headword": "divert",
+      "pos": "v.",
+      "ko": "(자금·자원을) 돌리다, 전용하다; 우회시키다",
+      "example_en": "Funds were diverted from public health to the construction of new stadiums.",
+      "example_ko": "자금이 공중보건에서 새 경기장 건설로 전용되었다.",
+      "collocations": ["divert funds from ~ to ~", "divert traffic", "divert attention"],
+      "note": "di-(따로) + vert(돌리다) — 가던 방향을 딴 데로 돌리는 것. 같은 vert 뿌리로 convert(바꾸다), reverse(되돌리다), diverse(따로따로 돌아 다양한)가 있어 '돌리다'만 잡으면 한 덩어리로 외워진다.",
+      "family": [
+        { "word": "diversion", "pos": "n.", "ko": "전용; 우회; 기분 전환" }
+      ],
+      "related": [
+        { "word": "deviate", "ko": "벗어나다", "note": "divert는 남·물건을 돌리는 타동사, deviate는 스스로 정해진 길에서 벗어나는 자동사(deviate from)" }
+      ]
+    },
+    {
+      "headword": "evict",
+      "pos": "v.",
+      "ko": "(세입자를) 퇴거시키다, 쫓아내다",
+      "example_en": "Hundreds of tenants were evicted to make way for the athletes' village.",
+      "example_ko": "선수촌에 자리를 내주기 위해 수백 명의 세입자가 퇴거당했다.",
+      "collocations": ["evict a tenant", "be evicted from ~"],
+      "note": "e-(밖으로) + vict(이기다, 정복하다) — 법으로 이겨서 밖으로 내보내는 것이다. victory(승리), convict(유죄를 입증하다)와 한 뿌리라고 묶어 두면 철자도 뜻도 헷갈리지 않는다.",
+      "family": [
+        { "word": "eviction", "pos": "n.", "ko": "퇴거, 강제 철거" }
+      ]
+    },
+    {
+      "headword": "spectacle",
+      "pos": "n.",
+      "ko": "볼거리, 장관; 대형 행사",
+      "example_en": "The opening ceremony was a spectacle watched by nearly a billion people.",
+      "example_ko": "개막식은 10억 명 가까운 사람이 지켜본 장관이었다.",
+      "collocations": ["a public spectacle", "stage a spectacle"],
+      "note": "spect(보다) + -acle(~하는 것) = '볼 것'. spectator(관중)·inspect(안을 들여다보다)·suspect(밑에서 훔쳐보다=의심하다)가 같은 뿌리다. 복수 spectacles는 '안경'이라는 전혀 다른 뜻이 되는 점에 주의.",
+      "family": [
+        { "word": "spectator", "pos": "n.", "ko": "관중, 구경꾼" },
+        { "word": "spectacular", "pos": "a.", "ko": "장관인, 극적인" }
+      ]
+    },
+    {
+      "headword": "lavish",
+      "pos": "a.",
+      "ko": "호화로운, 후한",
+      "example_en": "Critics questioned the lavish spending on ceremonies while hospitals went underfunded.",
+      "example_ko": "병원은 예산이 부족한데 의전에는 호화롭게 돈을 쓴다며 비판이 일었다.",
+      "collocations": ["lavish spending", "a lavish ceremony", "lavish praise on"],
+      "note": "프랑스어 lavasse(폭우)에서 온 말이라 '쏟아붓는' 이미지로 기억하면 된다. 형용사와 동사가 형태가 같아서 lavish A on B는 'B에게 A를 아낌없이 퍼붓다'라는 뜻으로 쓰인다.",
+      "family": [
+        { "word": "lavishly", "pos": "ad.", "ko": "아낌없이, 호화롭게" }
+      ]
+    },
+    {
+      "headword": "deficit",
+      "pos": "n.",
+      "ko": "적자, 부족분",
+      "example_en": "The city ran a deficit for three straight years after the games ended.",
+      "example_ko": "그 도시는 대회가 끝난 뒤 3년 연속으로 적자를 냈다.",
+      "collocations": ["run a deficit", "budget deficit", "trade deficit"],
+      "note": "라틴어 deficit('그것이 부족하다')이 통째로 명사가 된 말이라 deficient(부족한)와 한 뿌리다. 재정에서는 수입<지출의 '적자'를 뜻하고 반대말은 surplus다.",
+      "family": [
+        { "word": "deficient", "pos": "a.", "ko": "부족한, 결함이 있는" },
+        { "word": "deficiency", "pos": "n.", "ko": "결핍, 부족" }
+      ],
+      "related": [
+        { "word": "debt", "ko": "빚, 부채", "note": "deficit은 한 해에 모자란 액수(흐름), debt는 그 적자가 쌓여 남은 총액(잔액)이다" }
+      ]
+    },
+    {
+      "headword": "surplus",
+      "pos": "n.",
+      "ko": "흑자, 잉여",
+      "example_en": "A budget surplus allowed the government to cut taxes the following year.",
+      "example_ko": "재정 흑자 덕분에 정부는 이듬해 세금을 인하할 수 있었다.",
+      "collocations": ["budget surplus", "trade surplus", "surplus stock"],
+      "note": "sur-(위로, 넘어) + plus(더) — 필요한 선을 넘어 남은 것. survive(넘어 살아남다), surcharge(추가 요금), surpass(넘어서다)의 sur-와 같다. 형용사로 쓰면 surplus stock처럼 '남아도는'이라는 뜻이 된다.",
+      "related": [
+        { "word": "deficit", "ko": "적자", "note": "surplus의 정반대 짝 — 기사에서 흑자·적자는 늘 이 둘로 대비되니 한 쌍으로 외운다" }
+      ]
+    },
+    {
+      "headword": "expenditure",
+      "pos": "n.",
+      "ko": "지출, 경비",
+      "example_en": "Public expenditure on infrastructure rose sharply in the year before the event.",
+      "example_ko": "행사 전해에 사회기반시설에 대한 공공 지출이 급격히 늘었다.",
+      "collocations": ["public expenditure", "capital expenditure", "expenditure on ~"],
+      "note": "expend(쓰다)의 명사형으로, pend(달아서 무게를 재다=치르다)라는 뿌리를 pension·pending·expense와 공유한다. expense가 개별 비용이라면 expenditure는 '지출 총액'을 가리키는 회계 용어에 가깝다.",
+      "family": [
+        { "word": "expend", "pos": "v.", "ko": "(돈·시간을) 들이다, 소비하다" },
+        { "word": "expendable", "pos": "a.", "ko": "없어도 되는, 소모용의" }
+      ]
+    },
+    {
+      "headword": "audit",
+      "pos": "n.",
+      "ko": "회계 감사; 감사하다",
+      "example_en": "An independent audit found that a third of the budget was unaccounted for.",
+      "example_ko": "독립적인 회계 감사 결과 예산의 3분의 1이 사용처가 확인되지 않은 것으로 드러났다.",
+      "collocations": ["conduct an audit", "an independent audit", "audit the accounts"],
+      "note": "audi-(듣다)에서 온 말 — 옛날에는 회계 장부를 소리 내어 읽고 '들으며' 검사했다. audience(듣는 사람들), audible(들리는), auditorium(듣는 곳)이 같은 뿌리다.",
+      "family": [
+        { "word": "auditor", "pos": "n.", "ko": "회계 감사인, 감사관" }
+      ]
+    },
+    {
+      "headword": "cumbersome",
+      "pos": "a.",
+      "ko": "번거로운, 다루기 힘든",
+      "example_en": "The approval process was so cumbersome that contractors missed the deadline.",
+      "example_ko": "승인 절차가 너무 번거로워서 시공사들이 기한을 넘겼다.",
+      "collocations": ["a cumbersome procedure", "cumbersome bureaucracy"],
+      "note": "cumber(짐을 지우다, 방해하다) + -some(~한 성질의) = 짐스러운. troublesome(성가신)·burdensome(부담스러운)과 같은 -some 계열로 묶인다. 크고 무거워 다루기 힘든 물건에도, 복잡해서 굼뜬 절차에도 쓴다.",
+      "related": [
+        { "word": "unwieldy", "ko": "다루기 힘든, 거추장스러운", "note": "unwieldy는 크기·무게 때문에 손에 안 잡히는 쪽, cumbersome은 절차가 복잡해 굼뜬 쪽에 더 자주 쓴다. 반의어는 streamlined(간소화된)" }
+      ]
+    },
+    {
+      "headword": "unveil",
+      "pos": "v.",
+      "ko": "공개하다, 선보이다",
+      "example_en": "The mayor unveiled a plan to convert the stadium into a public park.",
+      "example_ko": "시장은 그 경기장을 시민 공원으로 바꾸는 계획을 공개했다.",
+      "collocations": ["unveil a plan", "unveil a new model"],
+      "note": "un-(벗기다) + veil(베일) — 덮개를 걷어내는 그림 그대로 '처음 드러내 보이다'가 된다. announce가 말로 알리는 것이라면 unveil은 실물이나 전모를 공식 석상에서 드러내는 어감이다.",
+      "related": [
+        { "word": "reveal", "ko": "밝히다, 드러내다", "note": "reveal은 비밀·사실을 알리는 넓은 말이고, unveil은 신제품·계획을 공식적으로 처음 공개할 때 쓴다" }
+      ]
+    },
+    {
+      "headword": "beneficiary",
+      "pos": "n.",
+      "ko": "수혜자, (보험금) 수령인",
+      "example_en": "The main beneficiaries of the subsidy were large construction firms, not local residents.",
+      "example_ko": "그 보조금의 주된 수혜자는 지역 주민이 아니라 대형 건설사들이었다.",
+      "collocations": ["the main beneficiary of ~", "the named beneficiary"],
+      "note": "bene-(좋게) + fic-(만들다) — 좋은 것을 받는 사람. benefit, beneficial(유익한), benevolent(자애로운)와 한 뿌리다. 보험·유언 문서에서는 '보험금·유산 수령인'이라는 법률 용어로 쓰인다.",
+      "family": [
+        { "word": "benefit", "pos": "n.", "ko": "이익, 혜택; 이익을 얻다" },
+        { "word": "beneficial", "pos": "a.", "ko": "유익한, 이로운" }
+      ]
+    }
+  ]
+}
