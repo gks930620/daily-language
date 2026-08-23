@@ -1350,6 +1350,51 @@
     },
     "audit": {
       "added_on": "2026-08-23"
+    },
+    "canopy": {
+      "added_on": "2026-08-24"
+    },
+    "albedo": {
+      "added_on": "2026-08-24"
+    },
+    "impervious": {
+      "added_on": "2026-08-24"
+    },
+    "swelter": {
+      "added_on": "2026-08-24"
+    },
+    "mortality": {
+      "added_on": "2026-08-24"
+    },
+    "respite": {
+      "added_on": "2026-08-24"
+    },
+    "acclimatize": {
+      "added_on": "2026-08-24"
+    },
+    "ventilation": {
+      "added_on": "2026-08-24"
+    },
+    "insulation": {
+      "added_on": "2026-08-24"
+    },
+    "parched": {
+      "added_on": "2026-08-24"
+    },
+    "elicit": {
+      "added_on": "2026-08-24"
+    },
+    "tacit": {
+      "added_on": "2026-08-24"
+    },
+    "salient": {
+      "added_on": "2026-08-24"
+    },
+    "wane": {
+      "added_on": "2026-08-24"
+    },
+    "prevail": {
+      "added_on": "2026-08-24"
     }
   }
 }

@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-24",
+  "passage_note": "도시·기후 — 도시 열섬과 폭염 사망, 그늘을 기반시설로 보자는 제안(논설)",
+  "sentences": [
+    {
+      "en": "Heat waves have long been treated as a transient inconvenience, but a mounting body of evidence suggests that they are now the deadliest form of extreme weather in temperate cities.",
+      "ko": "폭염은 오랫동안 일시적인 불편쯤으로 여겨져 왔지만, 점점 쌓이는 증거는 폭염이 이제 온대 도시에서 가장 치명적인 형태의 극한 기상임을 시사한다.",
+      "structure": "· have long been treated : 현재완료 수동태(have been p.p.) 사이에 부사 long이 끼어든 형태 — '오랫동안 ~로 여겨져 왔다'.\n· treat A as B(A를 B로 여기다)가 수동이 되면 A be treated as B로, as 뒤의 보어만 남는다.\n· a mounting body of evidence가 주어, suggests가 동사, that절이 목적어절.\n· the deadliest form of ~ : 최상급 + of + 명사('~ 중 가장 치명적인 형태').",
+      "vocab_notes": [
+        { "word": "heat wave", "ko": "폭염, 무더위" },
+        { "word": "treat A as B", "ko": "A를 B로 여기다/취급하다" },
+        { "word": "transient", "ko": "일시적인, 잠깐 지나가는" },
+        { "word": "inconvenience", "ko": "불편(함)" },
+        { "word": "mounting", "ko": "점점 커지는, 쌓여 가는" },
+        { "word": "a body of evidence", "ko": "축적된 증거(증거의 총체)" },
+        { "word": "suggest", "ko": "시사하다, 보여 주다" },
+        { "word": "deadly", "ko": "치명적인" },
+        { "word": "extreme weather", "ko": "극한 기상, 이상 기후" },
+        { "word": "temperate", "ko": "온대의; 온화한" }
+      ]
+    },
+    {
+      "en": "The reason lies less in the thermometer than in the fabric of the cities themselves: expanses of asphalt and concrete absorb solar radiation by day and release it long after sunset, while impervious surfaces leave little moisture to evaporate.",
+      "ko": "그 원인은 온도계보다는 도시 자체의 구조에 있다. 아스팔트와 콘크리트로 뒤덮인 넓은 면적이 낮 동안 태양 복사를 흡수했다가 해가 진 뒤로도 한참 동안 그것을 내뿜고, 물이 스며들지 않는 표면은 증발할 수분을 거의 남기지 않기 때문이다.",
+      "structure": "· lie in ~ = '(원인·본질이) ~에 있다'. 여기에 less A than B(A라기보다는 B)가 겹쳐 'A보다는 B에 원인이 있다'가 된다.\n· themselves는 the cities를 강조하는 재귀대명사의 강조 용법(생략해도 문장은 성립).\n· 콜론(:) 뒤는 앞의 the fabric of the cities를 구체적으로 풀어 쓴 설명이다.\n· absorb ~ and release ~ : 등위접속사 and로 묶인 술어 두 개가 같은 주어 expanses를 공유한다.\n· while은 여기서 '~인 반면/~하는 동안'의 대조·동시 상황 접속사.\n· leave little moisture to evaporate : to부정사가 앞의 명사 moisture를 수식하는 형용사적 용법. little은 '거의 없는'(부정).",
+      "vocab_notes": [
+        { "word": "lie in", "ko": "(원인이) ~에 있다" },
+        { "word": "less A than B", "ko": "A라기보다는 오히려 B" },
+        { "word": "thermometer", "ko": "온도계" },
+        { "word": "fabric", "ko": "구조, 조직(원뜻: 직물)" },
+        { "word": "expanse", "ko": "널따란 면적, 광활한 공간" },
+        { "word": "asphalt", "ko": "아스팔트" },
+        { "word": "absorb", "ko": "흡수하다" },
+        { "word": "solar radiation", "ko": "태양 복사(열)" },
+        { "word": "release", "ko": "방출하다, 내보내다" },
+        { "word": "sunset", "ko": "일몰, 해 질 녘" },
+        { "word": "impervious", "ko": "(물이) 스며들지 않는" },
+        { "word": "moisture", "ko": "수분, 습기" },
+        { "word": "evaporate", "ko": "증발하다" }
+      ]
+    },
+    {
+      "en": "Neighborhoods with a dense tree canopy can be several degrees cooler than districts a few blocks away, and those hotter districts are disproportionately poor, offering their residents scant respite once night falls.",
+      "ko": "울창한 나무 그늘이 있는 동네는 몇 블록 떨어진 구역보다 몇 도나 시원할 수 있는데, 그 더운 구역은 유독 가난한 동네에 몰려 있어 밤이 와도 주민에게 한숨 돌릴 여지를 거의 주지 못한다.",
+      "structure": "· several degrees cooler than ~ : 비교급 앞에 놓인 several degrees는 '얼마나 더'를 나타내는 차이의 표현.\n· districts (which are) a few blocks away처럼 '관계대명사 + be동사'가 생략되고 부사구가 명사를 뒤에서 수식한 형태.\n· offering ~ 은 분사구문으로, and they offer ~(앞 절의 결과)를 대신한다.\n· once는 '일단 ~하면'의 시간·조건 접속사이며, 부사절이므로 현재시제(falls)가 미래를 대신한다.",
+      "vocab_notes": [
+        { "word": "neighborhood", "ko": "동네, 인근 지역" },
+        { "word": "dense", "ko": "빽빽한, 밀도가 높은" },
+        { "word": "tree canopy", "ko": "나무가 덮은 그늘층, 수관" },
+        { "word": "district", "ko": "구역, 지구" },
+        { "word": "a few blocks away", "ko": "몇 블록 떨어진" },
+        { "word": "disproportionately", "ko": "불균형적으로, 유독 심하게" },
+        { "word": "offer", "ko": "제공하다" },
+        { "word": "resident", "ko": "주민, 거주자" },
+        { "word": "scant", "ko": "거의 없는, 빈약한" },
+        { "word": "respite", "ko": "한숨 돌림, 일시적 완화" },
+        { "word": "night falls", "ko": "밤이 되다" }
+      ]
+    },
+    {
+      "en": "Municipal responses have so far leaned on stopgap measures — cooling centers, public advisories, and appeals to check on elderly neighbors — that presuppose the very social ties decades of urban sprawl have eroded.",
+      "ko": "지방자치단체의 대응은 지금까지 임시방편에 기대 왔다. 무더위 쉼터, 공공 경보, 고령의 이웃을 살펴 달라는 호소 같은 것들인데, 이는 수십 년의 도시 난개발이 갉아먹어 온 바로 그 사회적 유대를 전제로 한다.",
+      "structure": "· have so far leaned on : 현재완료 + so far(지금까지)로 과거부터 지금까지 이어진 상태를 나타낸다.\n· 대시(—) 사이에 낀 세 항목은 stopgap measures를 구체적으로 풀어 쓴 동격 삽입구다.\n· that presuppose ~ 는 삽입구를 건너뛰어 앞의 stopgap measures를 받는 주격 관계대명사절(동사가 복수형 presuppose인 것이 단서).\n· appeals to check on ~ : to부정사가 명사 appeals를 수식하는 형용사적 용법.\n· the very social ties (that) decades of urban sprawl have eroded : very는 '바로 그', ties 뒤에는 목적격 관계대명사가 생략됐다.",
+      "vocab_notes": [
+        { "word": "municipal", "ko": "지방자치단체의, 시(市)의" },
+        { "word": "response", "ko": "대응, 반응" },
+        { "word": "so far", "ko": "지금까지" },
+        { "word": "lean on", "ko": "~에 기대다, 의존하다" },
+        { "word": "stopgap", "ko": "임시방편의, 미봉책의" },
+        { "word": "measure", "ko": "조치, 대책" },
+        { "word": "cooling center", "ko": "무더위 쉼터" },
+        { "word": "advisory", "ko": "(기상) 주의보, 공고" },
+        { "word": "appeal", "ko": "호소, 촉구" },
+        { "word": "check on", "ko": "~의 안부를 살피다" },
+        { "word": "elderly", "ko": "연세 드신, 고령의" },
+        { "word": "presuppose", "ko": "전제로 하다" },
+        { "word": "social ties", "ko": "사회적 유대" },
+        { "word": "urban sprawl", "ko": "도시의 무질서한 확산, 난개발" },
+        { "word": "erode", "ko": "잠식하다, 서서히 무너뜨리다" }
+      ]
+    },
+    {
+      "en": "A more durable remedy would oblige planners to treat shade as infrastructure: mandating high-albedo roofing, widening the tree canopy, and retrofitting older housing with insulation and ventilation, so that surviving a heat wave no longer depends on whether a household can afford to run an air conditioner.",
+      "ko": "더 오래가는 해법이라면 도시계획가에게 그늘을 기반시설로 다루도록 의무를 지울 것이다. 반사율 높은 지붕재를 의무화하고, 나무 그늘을 넓히며, 노후 주택을 단열재와 환기 설비로 개조해, 폭염을 견디는 일이 더 이상 그 가구가 에어컨을 돌릴 여유가 있는지에 달리지 않게 하는 것이다.",
+      "structure": "· would oblige : 주어 A more durable remedy가 조건을 품은 가정법(=If a remedy were more durable, it would ~).\n· oblige A to R = A에게 ~할 의무를 지우다.\n· treat A as B가 여기서도 쓰여 '그늘을 기반시설로 취급하다'가 된다.\n· 콜론 뒤 mandating·widening·retrofitting 세 동명사가 병렬로 그 방법을 나열한다.\n· so that ~ : '~하도록'의 목적·결과 부사절.\n· whether절이 전치사 on의 목적어로 쓰인 명사절이며, 주어 자리에는 동명사구 surviving a heat wave가 왔다.",
+      "vocab_notes": [
+        { "word": "durable", "ko": "오래가는, 내구성 있는" },
+        { "word": "remedy", "ko": "해결책, 처방" },
+        { "word": "oblige", "ko": "~하도록 의무를 지우다, 강제하다" },
+        { "word": "planner", "ko": "(도시)계획가" },
+        { "word": "shade", "ko": "그늘" },
+        { "word": "infrastructure", "ko": "기반시설" },
+        { "word": "mandate", "ko": "의무화하다" },
+        { "word": "high-albedo", "ko": "반사율이 높은" },
+        { "word": "roofing", "ko": "지붕재, 지붕 공사" },
+        { "word": "widen", "ko": "넓히다" },
+        { "word": "retrofit", "ko": "(기존 건물을) 개조하다" },
+        { "word": "insulation", "ko": "단열(재)" },
+        { "word": "ventilation", "ko": "환기, 통풍" },
+        { "word": "household", "ko": "가구, 세대" },
+        { "word": "afford to", "ko": "~할 (금전적) 여유가 있다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "canopy",
+      "pos": "n.",
+      "ko": "(숲의) 나뭇잎 덮개층, 수관; 천개(위를 덮는 덮개)",
+      "example_en": "The city plans to expand its tree canopy to cool the hottest neighborhoods.",
+      "example_ko": "그 도시는 가장 더운 동네를 식히기 위해 나무 그늘층을 넓힐 계획이다.",
+      "collocations": ["tree canopy", "forest canopy", "canopy cover"],
+      "note": "그리스어 kōnōps(모기)에서 온 '모기장' → '위를 덮는 것'으로 뜻이 넓어졌다. 침대 위 천개, 낙하산의 산(傘), 숲에서는 하늘을 가린 나뭇잎 층. '위를 덮는다'는 이미지 하나로 모든 용법이 풀린다."
+    },
+    {
+      "headword": "albedo",
+      "pos": "n.",
+      "ko": "반사율(표면이 빛을 되돌려 보내는 비율)",
+      "example_en": "Painting rooftops white raises their albedo and lowers indoor temperatures.",
+      "example_ko": "옥상을 흰색으로 칠하면 반사율이 높아져 실내 온도가 내려간다.",
+      "collocations": ["high albedo", "albedo effect"],
+      "note": "라틴어 albus(하얀)에서 — 하얄수록 빛을 많이 되쏘니 albedo가 높다. alb-를 보면 '흰색'을 떠올려라(album은 원래 '흰 판', albino는 백색증).",
+      "related": [
+        { "word": "albino", "ko": "백색증(의)", "note": "같은 albus(흰) 뿌리 — 기후 기사에서 albedo가 낯설면 '흰색 정도'로 바꿔 읽으면 뜻이 통한다" }
+      ]
+    },
+    {
+      "headword": "impervious",
+      "pos": "a.",
+      "ko": "스며들지 않는, 통과시키지 않는; (비판 등에) 꿈쩍도 않는",
+      "example_en": "Impervious pavement prevents rainwater from soaking into the ground.",
+      "example_ko": "물이 스며들지 않는 포장은 빗물이 땅으로 스며드는 것을 막는다.",
+      "collocations": ["impervious surface", "impervious to criticism"],
+      "note": "im-(부정) + per-(통과) + via(길) → '길이 통하지 않는'. via(경로)가 보이면 '통과'를 떠올리면 된다. 물에 쓰면 '불투수', 사람에게 쓰면 '무슨 말을 해도 안 통하는'.",
+      "related": [
+        { "word": "impermeable", "ko": "불침투성의", "note": "거의 동의어지만 impermeable은 액체·기체 차단(방수막·차수층)에 한정되고, impervious는 be impervious to criticism처럼 비유로도 쓴다" }
+      ]
+    },
+    {
+      "headword": "swelter",
+      "pos": "v.",
+      "ko": "무더위에 시달리다, 푹푹 찌다",
+      "example_en": "Millions sweltered in apartments without air conditioning during the record heat wave.",
+      "example_ko": "기록적인 폭염 동안 수백만 명이 에어컨 없는 아파트에서 더위에 시달렸다.",
+      "collocations": ["sweltering heat", "a sweltering afternoon"],
+      "note": "고대영어 sweltan(죽다)에서 나온 말이라 '더위에 죽을 지경이다'가 원래 감각이다. 실제로는 형용사 sweltering(찌는 듯한) 형태로 훨씬 자주 만난다.",
+      "family": [
+        { "word": "sweltering", "pos": "a.", "ko": "찌는 듯이 더운" }
+      ]
+    },
+    {
+      "headword": "mortality",
+      "pos": "n.",
+      "ko": "사망률; 죽음을 피할 수 없음(유한성)",
+      "example_en": "Heat-related mortality rises sharply among residents over seventy.",
+      "example_ko": "더위로 인한 사망률은 70세를 넘긴 주민들 사이에서 급격히 올라간다.",
+      "collocations": ["mortality rate", "infant mortality", "excess mortality"],
+      "note": "mort-(죽음) 계열의 대표 단어 — mortal(죽을 운명의), immortal(불멸의), 심지어 mortgage도 '죽음의 서약'에서 왔다. 통계 문맥에서는 '사망률', 철학·문학 문맥에서는 '인간은 죽는다는 사실'로 갈린다.",
+      "family": [
+        { "word": "mortal", "pos": "a.", "ko": "죽을 운명의; 치명적인" },
+        { "word": "immortal", "pos": "a.", "ko": "불멸의, 죽지 않는" }
+      ],
+      "related": [
+        { "word": "morbidity", "ko": "이환율(병에 걸린 비율)", "note": "보건 기사에서 짝으로 나온다 — mortality는 '죽은' 비율, morbidity는 '앓는' 비율" }
+      ]
+    },
+    {
+      "headword": "respite",
+      "pos": "n.",
+      "ko": "한숨 돌릴 틈, 일시적 완화; (의무의) 유예",
+      "example_en": "The evening rain brought a brief respite from the heat.",
+      "example_ko": "저녁에 내린 비가 더위로부터 잠깐의 숨통을 틔워 주었다.",
+      "collocations": ["a brief respite", "respite from ~", "without respite"],
+      "note": "라틴어 respectus(뒤돌아봄)에서 — respect와 뿌리가 같다. 쉼 없이 내달리다 '잠깐 뒤를 돌아볼 틈'이 respite다. 거의 항상 respite from ~(~에서 벗어나는 휴식) 꼴로 쓴다.",
+      "related": [
+        { "word": "reprieve", "ko": "집행유예; 일시적 모면", "note": "respite는 고통·더위 같은 상태에서 잠시 벗어남, reprieve는 처형·폐쇄·해고 같은 처분이 미뤄지는 것" }
+      ]
+    },
+    {
+      "headword": "acclimatize",
+      "pos": "v.",
+      "ko": "(새 환경·기후에) 적응하다, 순응시키다",
+      "example_en": "Workers need at least a week to acclimatize to the tropical heat.",
+      "example_ko": "노동자들은 열대의 더위에 적응하는 데 최소 일주일이 필요하다.",
+      "collocations": ["acclimatize to ~", "fully acclimatized"],
+      "note": "ac-(~에) + climate(기후) → 몸을 새 기후에 맞추는 것. 미국식 철자는 acclimate로 짧아진다(뜻은 같다).",
+      "family": [
+        { "word": "acclimatization", "pos": "n.", "ko": "순응, 환경 적응" }
+      ],
+      "related": [
+        { "word": "adapt", "ko": "적응하다, 개조하다", "note": "adapt는 행동·제도·설계까지 바꾸는 넓은 적응, acclimatize는 몸이 기후·고도에 익숙해지는 생리적 적응에 한정된다" }
+      ]
+    },
+    {
+      "headword": "ventilation",
+      "pos": "n.",
+      "ko": "환기, 통풍(설비)",
+      "example_en": "Older apartments were built without adequate ventilation.",
+      "example_ko": "오래된 아파트들은 충분한 환기 설비 없이 지어졌다.",
+      "collocations": ["adequate ventilation", "natural ventilation", "a ventilation system"],
+      "note": "라틴어 ventus(바람) 계열 — vent(통풍구), ventilator(환풍기·인공호흡기). 건물 기사에서는 '환기', 의료 기사에서는 '인공호흡'으로 읽힌다.",
+      "family": [
+        { "word": "ventilate", "pos": "v.", "ko": "환기하다" },
+        { "word": "vent", "pos": "n.", "ko": "통풍구, 배출구" }
+      ]
+    },
+    {
+      "headword": "insulation",
+      "pos": "n.",
+      "ko": "단열(재); 절연",
+      "example_en": "Adding insulation to old housing cuts both heating bills and summer temperatures.",
+      "example_ko": "오래된 주택에 단열재를 넣으면 난방비와 여름 실내 온도를 함께 낮출 수 있다.",
+      "collocations": ["thermal insulation", "install insulation"],
+      "note": "라틴어 insula(섬)에서 — 열·전기·소음을 '섬처럼' 고립시키는 것. peninsula(반쯤 섬=반도)도 같은 뿌리다.",
+      "family": [
+        { "word": "insulate", "pos": "v.", "ko": "단열·절연하다; (충격에서) 보호하다" },
+        { "word": "insulator", "pos": "n.", "ko": "절연체, 단열재" }
+      ],
+      "related": [
+        { "word": "isolate", "ko": "고립시키다", "note": "둘 다 insula(섬)에서 왔지만, insulate는 열·충격을 막아 '보호한다'는 뉘앙스, isolate는 단순히 떼어놓는 것" }
+      ]
+    },
+    {
+      "headword": "parched",
+      "pos": "a.",
+      "ko": "바싹 마른; 목이 몹시 마른",
+      "example_en": "Weeks without rain left the parched fields cracked and bare.",
+      "example_ko": "몇 주 동안 비가 오지 않아 바싹 마른 밭은 갈라지고 헐벗은 채였다.",
+      "collocations": ["parched earth", "parched throat"],
+      "note": "동사 parch(바짝 굽다·태우다)의 과거분사형. 땅에도 사람에게도 쓰는데, 회화에서 I'm parched는 '목말라 죽겠다'는 뜻이다.",
+      "related": [
+        { "word": "arid", "ko": "건조한", "note": "arid는 an arid region처럼 기후·지역의 항상적 건조, parched는 볕에 말라붙은 상태나 일시적 갈증" }
+      ]
+    },
+    {
+      "headword": "elicit",
+      "pos": "v.",
+      "ko": "(반응·정보를) 이끌어내다",
+      "example_en": "The proposal elicited an immediate response from the housing ministry.",
+      "example_ko": "그 제안은 주택부의 즉각적인 반응을 이끌어냈다.",
+      "collocations": ["elicit a response", "elicit information"],
+      "note": "e-(밖으로) + lacere(꾀다) → 안에 있는 것을 밖으로 꾀어내다. 저절로 나오는 게 아니라 '무언가를 해서 끌어냈다'는 함의가 핵심이다.",
+      "related": [
+        { "word": "illicit", "ko": "불법의", "note": "발음이 거의 같아 시험에 자주 나오는 함정 — elicit은 동사(이끌어내다), illicit은 형용사(불법의)로 뜻이 전혀 무관하다" }
+      ]
+    },
+    {
+      "headword": "tacit",
+      "pos": "a.",
+      "ko": "암묵적인, 말없이 통하는",
+      "example_en": "The two agencies reached a tacit agreement not to duplicate each other's work.",
+      "example_ko": "두 기관은 서로의 업무를 중복하지 않기로 암묵적인 합의에 이르렀다.",
+      "collocations": ["tacit agreement", "tacit approval", "tacit knowledge"],
+      "note": "라틴어 tacere(침묵하다)에서 — 말로 명시하지 않았는데 성립한 것. 같은 뿌리의 taciturn은 '말수가 적은'.",
+      "family": [
+        { "word": "taciturn", "pos": "a.", "ko": "말수가 적은, 과묵한" }
+      ],
+      "related": [
+        { "word": "implicit", "ko": "함축적인; 내재된", "note": "tacit은 '말하지 않았지만 서로 아는'(tacit approval), implicit은 '말·글 속에 함축된' 또는 implicit trust처럼 '절대적인'의 뜻으로도 쓴다" }
+      ]
+    },
+    {
+      "headword": "salient",
+      "pos": "a.",
+      "ko": "두드러진, 가장 중요한(핵심적인)",
+      "example_en": "The report summarizes the salient points of the new zoning rules.",
+      "example_ko": "그 보고서는 새 용도지역 규정의 핵심 사항을 요약한다.",
+      "collocations": ["salient point", "salient feature"],
+      "note": "라틴어 salire(뛰어오르다)에서 — 여러 정보 중 눈에 '툭 튀어나온' 것. resilient(다시 튀어오르다=회복력 있는)와 같은 뿌리로 묶어 외우면 좋다."
+    },
+    {
+      "headword": "wane",
+      "pos": "v.",
+      "ko": "(세력·관심이) 줄어들다; (달이) 이지러지다",
+      "example_en": "Public support for the subsidy waned as electricity prices fell.",
+      "example_ko": "전기 요금이 떨어지면서 그 보조금에 대한 대중의 지지는 시들해졌다.",
+      "collocations": ["interest wanes", "wax and wane", "on the wane"],
+      "note": "본래 달이 이지러진다는 뜻이라 반대말 wax(달이 차다)와 짝으로 쓴다 — wax and wane = 흥망성쇠. on the wane(기울고 있는)도 통째로 외워 둘 것.",
+      "related": [
+        { "word": "wax", "ko": "(달이) 차다, 커지다", "note": "명사 '왁스'만 떠올리면 오독한다 — wane의 짝이 되는 동사 용법이 따로 있다" }
+      ]
+    },
+    {
+      "headword": "prevail",
+      "pos": "v.",
+      "ko": "널리 퍼져 있다, 우세하다; (싸움에서) 이기다",
+      "example_en": "The view that shade is a luxury still prevails among city planners.",
+      "example_ko": "그늘은 사치라는 시각이 도시계획가들 사이에 여전히 널리 퍼져 있다.",
+      "collocations": ["prevail over ~", "common sense prevailed", "prevailing wind"],
+      "note": "pre-(앞) + val-(힘) → 앞서는 힘 → '이기다'와 '널리 통용되다' 두 갈래로 갈린다. valid·value·evaluate의 val-과 같은 뿌리다.",
+      "family": [
+        { "word": "prevailing", "pos": "a.", "ko": "우세한, 지배적인" },
+        { "word": "prevalent", "pos": "a.", "ko": "널리 퍼진, 만연한" }
+      ]
+    },
+    {
+      "headword": "hinder",
+      "pos": "v.",
+      "ko": "방해하다, 지연시키다",
+      "example_en": "Narrow streets hinder the movement of emergency vehicles during a crisis.",
+      "example_ko": "좁은 도로는 위기 상황에서 긴급 차량의 이동을 방해한다.",
+      "collocations": ["hinder progress", "seriously hinder"],
+      "note": "hind(뒤쪽 — hindsight 뒤늦은 깨달음, hind legs 뒷다리)와 같은 계열로, 뒤에서 잡아끄는 이미지. prevent가 '아예 막다'라면 hinder는 '느리게 만들다'에 가깝다.",
+      "family": [
+        { "word": "hindrance", "pos": "n.", "ko": "방해(물), 장애" }
+      ],
+      "related": [
+        { "word": "hamper", "ko": "방해하다", "note": "거의 동의어 — hamper는 거추장스럽게 만들어 움직임을 제약하는 느낌, hinder는 진행 속도를 늦추는 느낌" }
+      ]
+    },
+    {
+      "headword": "vigilant",
+      "pos": "a.",
+      "ko": "경계하는, 방심하지 않는",
+      "example_en": "Officials urged residents to stay vigilant during the heat advisory.",
+      "example_ko": "당국은 폭염 주의보가 내린 동안 주민들에게 경계를 늦추지 말 것을 당부했다.",
+      "collocations": ["remain vigilant", "vigilant monitoring"],
+      "note": "라틴어 vigil(깨어 있는)에서 — 밤새 안 자고 지키는 것이 vigil(철야·불침번). '깨어 있다 → 경계한다'로 이어진다.",
+      "family": [
+        { "word": "vigilance", "pos": "n.", "ko": "경계, 조심" },
+        { "word": "vigilante", "pos": "n.", "ko": "자경단원 — '스스로 감시하는 사람'" }
+      ]
+    },
+    {
+      "headword": "reciprocal",
+      "pos": "a.",
+      "ko": "상호적인, 호혜적인; (수학) 역수의",
+      "example_en": "The two cities signed a reciprocal agreement to share emergency shelters.",
+      "example_ko": "두 도시는 비상 대피소를 공유하기로 하는 호혜 협정을 맺었다.",
+      "collocations": ["reciprocal agreement", "reciprocal arrangement"],
+      "note": "re-(뒤로) + pro-(앞으로)가 붙은 말 — 앞뒤로 오가는 관계가 핵심 이미지다. 무역 기사에서 reciprocal tariff는 '상대가 매긴 만큼 되받아 매기는 관세'.",
+      "family": [
+        { "word": "reciprocate", "pos": "v.", "ko": "보답하다, 화답하다" },
+        { "word": "reciprocity", "pos": "n.", "ko": "호혜(주의), 상호주의" }
+      ]
+    }
+  ]
+}
