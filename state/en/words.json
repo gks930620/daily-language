@@ -1395,6 +1395,51 @@
     },
     "prevail": {
       "added_on": "2026-08-24"
+    },
+    "cultivar": {
+      "added_on": "2026-08-26"
+    },
+    "germplasm": {
+      "added_on": "2026-08-26"
+    },
+    "blight": {
+      "added_on": "2026-08-26"
+    },
+    "monoculture": {
+      "added_on": "2026-08-26"
+    },
+    "smallholder": {
+      "added_on": "2026-08-26"
+    },
+    "agronomist": {
+      "added_on": "2026-08-26"
+    },
+    "pollinator": {
+      "added_on": "2026-08-26"
+    },
+    "perennial": {
+      "added_on": "2026-08-26"
+    },
+    "fallow": {
+      "added_on": "2026-08-26"
+    },
+    "heirloom": {
+      "added_on": "2026-08-26"
+    },
+    "subsistence": {
+      "added_on": "2026-08-26"
+    },
+    "ascertain": {
+      "added_on": "2026-08-26"
+    },
+    "galvanize": {
+      "added_on": "2026-08-26"
+    },
+    "inundate": {
+      "added_on": "2026-08-26"
+    },
+    "meager": {
+      "added_on": "2026-08-26"
     }
   }
 }

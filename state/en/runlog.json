@@ -248,6 +248,14 @@
       "content_sha256": "b06b6e80cbcb4030e2bbd67a054ab97354ddec0da785c679e2af7b30320ea48f",
       "notes": [],
       "built_at": "2026-08-23T18:49:58.361Z"
+    },
+    "2026-08-26": {
+      "prepared_at": "2026-08-25T18:40:57.596Z",
+      "settled": true,
+      "settled_at": "2026-08-25T18:45:46.196Z",
+      "content_sha256": "6990273ab6ef895f42ade4d1281ed3b28ebae5894aa8268ef19d91fc14970a17",
+      "notes": [],
+      "built_at": "2026-08-25T18:45:46.277Z"
     }
   }
 }

@@ -1,0 +1,330 @@
+{
+  "date": "2026-08-26",
+  "words": [
+    {
+      "headword": "cultivar",
+      "pos": "n.",
+      "ko": "재배 품종",
+      "example_en": "Growers have abandoned older cultivars in favor of one that ships well.",
+      "example_ko": "재배자들은 운송에 잘 견디는 한 품종을 택하고 예전 품종들을 버렸다.",
+      "collocations": [
+        "a single cultivar",
+        "commercial cultivar"
+      ],
+      "note": "cultivate(재배하다) + variety(품종)를 잘라 붙여 만든 혼성어. '사람이 골라 길러 낸 품종'이라는 뜻이 어원에 그대로 들어 있다 — 야생종(landrace)과 대비해서 외우면 좋다.",
+      "family": [
+        {
+          "word": "cultivate",
+          "pos": "v.",
+          "ko": "재배하다; (관계·능력을) 기르다"
+        },
+        {
+          "word": "cultivation",
+          "pos": "n.",
+          "ko": "재배, 경작"
+        }
+      ]
+    },
+    {
+      "headword": "germplasm",
+      "pos": "n.",
+      "ko": "유전자원, 배아 원형질",
+      "example_en": "The institute stores germplasm from thousands of wild relatives of wheat.",
+      "example_ko": "그 연구소는 밀의 야생 근연종 수천 종의 유전자원을 보관하고 있다.",
+      "collocations": [
+        "conserve germplasm",
+        "germplasm collection"
+      ],
+      "note": "germ은 '세균'만이 아니라 '싹·씨눈'이 본뜻이다(germinate 발아하다, wheat germ 밀 배아). 여기에 plasm(원형질)이 붙어 '대를 이어 전달되는 유전 물질'을 뜻한다.",
+      "family": [
+        {
+          "word": "germinate",
+          "pos": "v.",
+          "ko": "발아하다, 싹트다"
+        },
+        {
+          "word": "germination",
+          "pos": "n.",
+          "ko": "발아"
+        }
+      ]
+    },
+    {
+      "headword": "blight",
+      "pos": "n./v.",
+      "ko": "마름병; 망쳐 놓다, 황폐하게 하다",
+      "example_en": "A blight wiped out the harvest, and the scandal blighted the minister's career.",
+      "example_ko": "마름병이 수확을 몰살시켰고, 그 추문은 장관의 경력을 망쳐 놓았다.",
+      "collocations": [
+        "urban blight",
+        "blight the prospects of"
+      ],
+      "note": "본뜻은 농작물을 시들려 죽이는 병. 여기서 비유가 뻗어 나가 urban blight(도심 슬럼화)처럼 '서서히 좀먹어 못쓰게 만드는 것'을 가리킨다 — 시사문에선 비유 쪽이 더 자주 나온다.",
+      "related": [
+        {
+          "word": "plague",
+          "ko": "역병; 괴롭히다",
+          "note": "blight는 식물·지역을 시들게 하는 쪽, plague는 사람·집단을 덮치는 재앙 쪽에 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "monoculture",
+      "pos": "n.",
+      "ko": "단일 경작, 단작",
+      "example_en": "Decades of monoculture left the region's farms exposed to a single pathogen.",
+      "example_ko": "수십 년에 걸친 단일 경작 탓에 그 지역 농장들은 병원균 하나에 그대로 노출되었다.",
+      "collocations": [
+        "vast monoculture",
+        "shift away from monoculture"
+      ],
+      "note": "agriculture·horticulture의 culture는 '문화'가 아니라 '경작'이다(라틴어 colere 기르다). mono-(하나) + culture(경작) = 한 가지만 심기. 이 뿌리를 알면 culture 계열 단어의 뜻이 갈라지는 이유가 잡힌다.",
+      "related": [
+        {
+          "word": "polyculture",
+          "ko": "혼합 경작",
+          "note": "poly-(여럿)로 접두사만 바꾼 반대말 — 여러 작물을 섞어 심어 위험을 분산한다"
+        }
+      ]
+    },
+    {
+      "headword": "smallholder",
+      "pos": "n.",
+      "ko": "소농, 소규모 자작농",
+      "example_en": "Smallholders produce a third of the country's food on plots of under two hectares.",
+      "example_ko": "소농들이 2헥타르 미만의 땅에서 그 나라 식량의 3분의 1을 생산한다.",
+      "collocations": [
+        "smallholder farmer",
+        "support smallholders"
+      ],
+      "note": "smallholding(소규모 농지)을 가진 사람. 영어는 '-holder = 보유자'로 사람 명사를 대량 생산한다 — shareholder(주주), stakeholder(이해관계자), policyholder(보험 계약자). 하나만 알면 나머지가 따라온다.",
+      "family": [
+        {
+          "word": "smallholding",
+          "pos": "n.",
+          "ko": "소규모 농지"
+        },
+        {
+          "word": "stakeholder",
+          "pos": "n.",
+          "ko": "이해관계자"
+        }
+      ]
+    },
+    {
+      "headword": "agronomist",
+      "pos": "n.",
+      "ko": "농학자, 작물 전문가",
+      "example_en": "Agronomists advised the ministry to subsidize crop rotation rather than fertilizer.",
+      "example_ko": "농학자들은 비료가 아니라 돌려짓기에 보조금을 주라고 그 부처에 조언했다.",
+      "collocations": [
+        "agricultural agronomist",
+        "agronomists warn"
+      ],
+      "note": "agro-(밭·토양) + -nomy(법칙·관리). -nomy는 economy(집안 관리 → 경제), astronomy(별의 법칙 → 천문학)에도 그대로 있다. 즉 agronomy = 땅을 다루는 법.",
+      "family": [
+        {
+          "word": "agronomy",
+          "pos": "n.",
+          "ko": "농학"
+        },
+        {
+          "word": "agrarian",
+          "pos": "a.",
+          "ko": "농업의, 토지의"
+        }
+      ]
+    },
+    {
+      "headword": "pollinator",
+      "pos": "n.",
+      "ko": "수분 매개자(꽃가루를 옮기는 곤충·동물)",
+      "example_en": "The collapse of pollinator populations threatens roughly a third of global crop output.",
+      "example_ko": "수분 매개 곤충 개체수의 붕괴는 전 세계 작물 생산의 약 3분의 1을 위협한다.",
+      "collocations": [
+        "pollinator decline",
+        "natural pollinators"
+      ],
+      "note": "pollen(꽃가루) → pollinate(수분시키다) → pollinator(수분시키는 것). 명사 → 동사(-ate) → 행위자(-or)로 뻗는 전형적인 파생 사슬이라 셋을 한 묶음으로 외우는 게 이득이다.",
+      "family": [
+        {
+          "word": "pollen",
+          "pos": "n.",
+          "ko": "꽃가루"
+        },
+        {
+          "word": "pollinate",
+          "pos": "v.",
+          "ko": "수분시키다"
+        },
+        {
+          "word": "pollination",
+          "pos": "n.",
+          "ko": "수분"
+        }
+      ]
+    },
+    {
+      "headword": "perennial",
+      "pos": "a./n.",
+      "ko": "다년생의; 끊임없이 되풀이되는; 다년생 식물",
+      "example_en": "Perennial grasses hold the topsoil in place, and funding is a perennial complaint among growers.",
+      "example_ko": "다년생 풀은 표토를 붙들어 주며, 재원 문제는 재배자들 사이에서 끊이지 않는 불만이다.",
+      "collocations": [
+        "perennial problem",
+        "perennial crops"
+      ],
+      "note": "per-(내내) + ann-(해: annual, anniversary) → '해를 관통해 사는' → 다년생의. 여기서 비유가 나와 perennial problem(해마다 되풀이되는 문제)이 되므로, 식물 뜻과 비유 뜻을 한 어원으로 묶어 기억하라.",
+      "related": [
+        {
+          "word": "annual",
+          "ko": "해마다의; 한해살이 식물",
+          "note": "식물 분류에선 annual이 '한 해 살고 죽는 것', perennial이 '여러 해 사는 것'으로 정반대다"
+        }
+      ]
+    },
+    {
+      "headword": "fallow",
+      "pos": "a.",
+      "ko": "휴경 중인, (땅을) 놀리는",
+      "example_en": "Farmers were paid to leave a fifth of their land fallow for two seasons.",
+      "example_ko": "농민들은 두 계절 동안 땅의 5분의 1을 놀려 두는 대가로 보상을 받았다.",
+      "collocations": [
+        "lie fallow",
+        "leave land fallow"
+      ],
+      "note": "lie fallow(놀고 있다) 형태로 굳어 쓰이고, 비유로 '재능·계획이 방치돼 있다'까지 간다. 철자가 비슷한 follow(따르다)·fellow(동료)와 섞이지 않게 'fallow는 밭(field)의 a'로 묶어 두면 좋다.",
+      "related": [
+        {
+          "word": "arid",
+          "ko": "메마른, 건조한",
+          "note": "fallow는 '일부러 쉬게 둔' 땅, arid는 '비가 없어 메마른' 땅 — 원인이 사람이냐 기후냐가 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "heirloom",
+      "pos": "n.",
+      "ko": "가보; (농업) 재래종, 토종 품종",
+      "example_en": "Heirloom tomatoes sell for a premium because supermarkets rarely stock them.",
+      "example_ko": "재래종 토마토는 대형마트가 좀처럼 취급하지 않기 때문에 비싼 값에 팔린다.",
+      "collocations": [
+        "heirloom variety",
+        "family heirloom"
+      ],
+      "note": "heir(상속인, h는 묵음이라 '에어') + loom(베틀) — 대대로 물려주던 세간이 어원이다. 농업에서는 '대를 이어 받아 심어 온 씨앗'을 뜻하니, 어원을 알면 두 뜻이 하나로 이어진다.",
+      "family": [
+        {
+          "word": "heir",
+          "pos": "n.",
+          "ko": "상속인, 후계자"
+        },
+        {
+          "word": "inherit",
+          "pos": "v.",
+          "ko": "물려받다, 상속하다"
+        },
+        {
+          "word": "inheritance",
+          "pos": "n.",
+          "ko": "유산, 상속"
+        }
+      ]
+    },
+    {
+      "headword": "subsistence",
+      "pos": "n.",
+      "ko": "최저 생계, 근근이 살아감; 자급 (농업)",
+      "example_en": "Millions still depend on subsistence farming and sell almost nothing at market.",
+      "example_ko": "수백만 명이 여전히 자급 농업에 기대어 살며 시장에는 거의 내다 팔지 않는다.",
+      "collocations": [
+        "subsistence farming",
+        "below subsistence level"
+      ],
+      "note": "sub-(아래) + sist(서다) → '겨우 밑에 서 있다' → 간신히 버티는 삶. sist 계열(insist 위에 서다=주장하다, persist 끝까지 서다=지속하다, resist 맞서 서다=저항하다)을 한 뿌리로 묶어 두면 다 풀린다.",
+      "family": [
+        {
+          "word": "subsist",
+          "pos": "v.",
+          "ko": "근근이 살아가다, 연명하다"
+        }
+      ]
+    },
+    {
+      "headword": "ascertain",
+      "pos": "v.",
+      "ko": "확인하다, 알아내다",
+      "example_en": "Auditors could not ascertain how much of the subsidy had reached farmers.",
+      "example_ko": "감사관들은 보조금 중 얼마가 농민들에게 실제로 갔는지 확인할 수 없었다.",
+      "collocations": [
+        "ascertain the cause",
+        "ascertain whether"
+      ],
+      "note": "ad-(~로) + certain(확실한) → '확실한 상태로 만들다' = 조사해서 확실히 알아내다. 그냥 check가 아니라 '노력해서 사실로 확정하다'라는 무게가 있어 보고서·기사에 잘 쓰인다.",
+      "related": [
+        {
+          "word": "assert",
+          "ko": "단언하다, 주장하다",
+          "note": "철자가 비슷하지만 정반대에 가깝다 — ascertain은 알아내는 것(근거 확보), assert는 그냥 우기는 것(근거 없어도 가능)"
+        }
+      ]
+    },
+    {
+      "headword": "galvanize",
+      "pos": "v.",
+      "ko": "(사람들을) 자극해 행동하게 하다, 결집시키다",
+      "example_en": "The failed harvest galvanized rural voters into forming a national association.",
+      "example_ko": "흉작은 농촌 유권자들을 자극해 전국 단위 협회를 결성하게 만들었다.",
+      "collocations": [
+        "galvanize support",
+        "galvanize A into action"
+      ],
+      "note": "개구리 다리에 전기를 흘려 경련시킨 갈바니(Galvani)의 실험에서 온 말 — '전기 충격을 줘 벌떡 움직이게 하다'가 그림이다. galvanized steel(아연도금 강철)도 전기 도금이라 같은 뿌리다.",
+      "related": [
+        {
+          "word": "spur",
+          "ko": "박차를 가하다",
+          "note": "spur는 원래 있던 흐름을 더 빠르게, galvanize는 가만있던 사람들을 벌떡 움직이게 하는 쪽"
+        }
+      ]
+    },
+    {
+      "headword": "inundate",
+      "pos": "v.",
+      "ko": "침수시키다; (요청·정보가) 쇄도하다",
+      "example_en": "The office was inundated with claims after the fields were inundated by the flood.",
+      "example_ko": "홍수로 밭이 물에 잠긴 뒤 그 사무소에는 청구가 빗발쳤다.",
+      "collocations": [
+        "be inundated with requests",
+        "inundated farmland"
+      ],
+      "note": "und-는 '물결'이다(undulate 물결치다, abundant 넘쳐흐르는 → 풍부한). 물이 덮치는 본뜻에서 '문의·업무가 밀려들다'라는 비유로 확장되며, 실제로는 be inundated with 수동형으로 더 자주 쓴다.",
+      "related": [
+        {
+          "word": "abundant",
+          "ko": "풍부한",
+          "note": "같은 und-(물결) 뿌리 — 물결이 흘러넘칠 만큼 많다는 그림"
+        }
+      ]
+    },
+    {
+      "headword": "meager",
+      "pos": "a.",
+      "ko": "빈약한, 변변찮은",
+      "example_en": "Compensation was meager relative to the losses growers had absorbed.",
+      "example_ko": "보상금은 재배자들이 떠안은 손실에 비하면 변변찮았다.",
+      "collocations": [
+        "meager wages",
+        "a meager harvest"
+      ],
+      "note": "'여윈'을 뜻하는 옛 프랑스어 maigre에서 왔다(살코기 meat과는 무관). '살이 안 붙은' → 양이 턱없이 적은. 사람 몸이 아니라 임금·수확·자금처럼 '있긴 한데 너무 적은 것'에 붙는 게 요령이다.",
+      "related": [
+        {
+          "word": "scanty",
+          "ko": "부족한, 빈약한",
+          "note": "거의 동의어지만 scanty는 양·분량 자체가 모자란 쪽, meager는 기대에 견줘 초라하다는 어감이 강하다"
+        }
+      ]
+    }
+  ]
+}
