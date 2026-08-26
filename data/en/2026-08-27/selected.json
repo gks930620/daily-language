@@ -1,0 +1,316 @@
+{
+  "date": "2026-08-27",
+  "words": [
+    {
+      "headword": "grid",
+      "pos": "n.",
+      "ko": "전력망; 격자",
+      "example_en": "The new solar farm will feed electricity into the national grid next year.",
+      "example_ko": "그 새 태양광 발전 단지는 내년에 국가 전력망으로 전기를 공급할 것이다.",
+      "collocations": [
+        "the national grid",
+        "grid operator",
+        "power grid"
+      ],
+      "note": "본뜻은 '격자(바둑판 모양)'. 전선이 격자처럼 얽힌 모양에서 '전력망'이 나왔고, 도시의 격자형 도로망·지도의 좌표 격자도 grid다. off the grid = 전력망 밖에서(자급자족으로) 사는 것.",
+      "related": [
+        {
+          "word": "gridlock",
+          "ko": "교통 마비, 완전 교착",
+          "note": "격자 도로가 통째로 막힌 상태 — 전력이 아니라 '꽉 막힘'을 뜻해 협상 교착에도 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "soar",
+      "pos": "v.",
+      "ko": "치솟다, 급등하다",
+      "example_en": "Electricity prices soared to a record high after the heat wave.",
+      "example_ko": "폭염 이후 전기 요금이 사상 최고치로 치솟았다.",
+      "collocations": [
+        "soar to a record high",
+        "prices soar",
+        "demand soars"
+      ],
+      "note": "원래 새가 날개를 편 채 '높이 떠오르다'라는 뜻 → 가격·수요가 힘들이지 않고 쭉 올라가는 그림. 발음이 같은 sore(아픈)와 철자만 다르니 받아쓰기에서 주의.",
+      "related": [
+        {
+          "word": "plummet",
+          "ko": "곤두박질치다",
+          "note": "soar의 정반대 — 기사에서 soar와 짝으로 나온다"
+        },
+        {
+          "word": "sore",
+          "ko": "아픈, 쓰라린",
+          "note": "발음이 soar와 완전히 같은 동음이의어"
+        }
+      ]
+    },
+    {
+      "headword": "footprint",
+      "pos": "n.",
+      "ko": "(자원·환경에 남기는) 사용량, 발자국",
+      "example_en": "The company pledged to halve the carbon footprint of its data centers by 2030.",
+      "example_ko": "그 회사는 2030년까지 자사 데이터센터의 탄소 배출량을 절반으로 줄이겠다고 약속했다.",
+      "collocations": [
+        "carbon footprint",
+        "reduce its footprint",
+        "water footprint"
+      ],
+      "note": "'발자국' → 어떤 활동이 지구에 남기는 자국의 크기. 「~ footprint = ~의 총 사용·배출량」 공식으로 외우면 carbon/water/energy footprint가 한 번에 풀린다. 기업 기사에서는 '사업 영역의 범위'라는 뜻으로도 쓴다."
+    },
+    {
+      "headword": "proximity",
+      "pos": "n.",
+      "ko": "근접, 가까움",
+      "example_en": "Developers choose sites in close proximity to existing power lines to save time.",
+      "example_ko": "개발사들은 시간을 아끼려고 기존 송전선에 가까운 부지를 고른다.",
+      "collocations": [
+        "in close proximity to",
+        "the proximity of A to B"
+      ],
+      "note": "prox-(가까운)가 뿌리라 approach(다가가다), approximate(대략의)와 한 가족. in close proximity to는 near의 격식체로, 보고서·기사에서 near 대신 자주 쓴다.",
+      "family": [
+        {
+          "word": "approximate",
+          "pos": "a.",
+          "ko": "대략의"
+        },
+        {
+          "word": "proximate",
+          "pos": "a.",
+          "ko": "가장 가까운, 직접적인 — proximate cause는 '직접적 원인'"
+        }
+      ]
+    },
+    {
+      "headword": "commission",
+      "pos": "v.",
+      "ko": "(설비를) 발주·가동 개시하다; (작품·조사를) 의뢰하다",
+      "example_en": "The utility commissioned two new substations to serve the industrial park.",
+      "example_ko": "그 전력 회사는 산업 단지에 전력을 공급하기 위해 새 변전소 두 곳을 발주했다.",
+      "collocations": [
+        "commission a report",
+        "commission a new plant"
+      ],
+      "note": "com-(함께)+mit(보내다) = '일을 맡겨 내보내다' → 발주·의뢰. 명사로는 '위원회'와 '수수료'까지 뻗어 나가는데, 모두 '맡김'이라는 한 뿌리다. 반대 동작은 de-를 붙인 decommission(가동을 끝내고 폐쇄하다).",
+      "family": [
+        {
+          "word": "commission",
+          "pos": "n.",
+          "ko": "위원회; 수수료"
+        },
+        {
+          "word": "decommission",
+          "pos": "v.",
+          "ko": "(발전소·군함을) 퇴역시키다, 폐쇄하다"
+        },
+        {
+          "word": "commissioner",
+          "pos": "n.",
+          "ko": "위원, 청장"
+        }
+      ]
+    },
+    {
+      "headword": "dispatch",
+      "pos": "v.",
+      "ko": "발송하다, 파견하다",
+      "example_en": "The supplier dispatched the replacement parts the same afternoon.",
+      "example_ko": "공급업체는 그날 오후에 교체 부품을 발송했다.",
+      "collocations": [
+        "dispatch a team",
+        "dispatch the goods",
+        "dispatch troops"
+      ],
+      "note": "dis-(풀어서)+patch(발, 족쇄) — '묶인 것을 풀어 내보내다'가 어원. 그래서 물건이면 발송, 사람이면 파견, 전력이면 송출로 번역이 갈린다. 토익에서는 배송 지연 안내문에, 시사에서는 병력·구조대 파견 기사에 단골로 나온다.",
+      "family": [
+        {
+          "word": "dispatcher",
+          "pos": "n.",
+          "ko": "배차원, 상황실 요원"
+        }
+      ]
+    },
+    {
+      "headword": "throttle",
+      "pos": "v.",
+      "ko": "(출력·속도를) 줄이다, 조절하다",
+      "example_en": "The carrier throttles data speeds once subscribers exceed their monthly limit.",
+      "example_ko": "그 통신사는 가입자가 월 사용량을 초과하면 데이터 속도를 줄인다.",
+      "collocations": [
+        "throttle back",
+        "throttle bandwidth",
+        "at full throttle"
+      ],
+      "note": "원뜻은 '목을 조르다' → 엔진의 연료 조절판(스로틀) → 인터넷 속도·전력 사용을 '조여서 줄이다'. 명사 관용구 at full throttle은 반대로 '전속력으로'라는 뜻이니 함께 묶어 외운다."
+    },
+    {
+      "headword": "tap",
+      "pos": "v.",
+      "ko": "(자원·시장을) 끌어 쓰다, 활용하다",
+      "example_en": "The firm is tapping into overseas markets to offset falling domestic sales.",
+      "example_ko": "그 회사는 국내 매출 감소를 상쇄하려고 해외 시장을 공략하고 있다.",
+      "collocations": [
+        "tap into a market",
+        "tap new sources of funding",
+        "untapped potential"
+      ],
+      "note": "'수도꼭지(tap)를 꽂아 뽑아 쓰다'라는 그림에서 나온 비유 — 자금·인재·시장이라는 통에 꼭지를 꽂는 셈이다. 실제로는 tap into + 명사 형태가 압도적으로 많고, 부정 접두사를 붙인 untapped(아직 손대지 않은)도 자주 나온다.",
+      "family": [
+        {
+          "word": "untapped",
+          "pos": "a.",
+          "ko": "아직 활용되지 않은"
+        }
+      ]
+    },
+    {
+      "headword": "reliance",
+      "pos": "n.",
+      "ko": "의존, 의지",
+      "example_en": "The country is trying to reduce its reliance on imported fuel.",
+      "example_ko": "그 나라는 수입 연료에 대한 의존을 줄이려 하고 있다.",
+      "collocations": [
+        "reliance on",
+        "reduce reliance",
+        "overreliance on"
+      ],
+      "note": "rely의 명사형인데, 형용사 reliable과 뜻 갈래가 다르다 — reliance는 '기대는 것', reliable은 '믿음직한 것'이다. 사람이 주어면 reliant(의존하는), 과하면 over-를 붙여 overreliance라고 쓴다.",
+      "family": [
+        {
+          "word": "rely",
+          "pos": "v.",
+          "ko": "의존하다 (rely on)"
+        },
+        {
+          "word": "reliable",
+          "pos": "a.",
+          "ko": "믿을 만한 — '의존적인'이 아님에 주의"
+        },
+        {
+          "word": "reliant",
+          "pos": "a.",
+          "ko": "의존하는"
+        }
+      ]
+    },
+    {
+      "headword": "lag",
+      "pos": "v.",
+      "ko": "뒤처지다; (n.) 지연, 시차",
+      "example_en": "Grid upgrades continue to lag behind the pace of new construction.",
+      "example_ko": "전력망 개선 공사는 신규 건설 속도에 계속 뒤처지고 있다.",
+      "collocations": [
+        "lag behind",
+        "a time lag",
+        "lagging indicator"
+      ],
+      "note": "거의 항상 lag behind ~ 형태로 '~에 뒤처지다'로 쓴다. 명사로 넘어가면 time lag(시간 지연)·jet lag(시차증)처럼 '벌어진 간격'을 뜻하고, 경제 기사의 lagging indicator는 경기를 뒤늦게 반영하는 '후행 지표'다.",
+      "family": [
+        {
+          "word": "laggard",
+          "pos": "n.",
+          "ko": "뒤처진 사람·기업, 낙오자"
+        }
+      ]
+    },
+    {
+      "headword": "incremental",
+      "pos": "a.",
+      "ko": "점진적인, 조금씩 늘어나는",
+      "example_en": "Managers favored incremental improvements over a costly redesign.",
+      "example_ko": "관리자들은 비용이 많이 드는 재설계보다 점진적인 개선을 선호했다.",
+      "collocations": [
+        "incremental change",
+        "incremental cost",
+        "incremental improvement"
+      ],
+      "note": "in-(안으로)+cre-(자라다) — increase와 같은 뿌리로 '한 칸(increment)씩 자라는'이다. 회계에서 incremental cost는 '한 단위 더 만들 때 추가로 드는 비용'을 뜻하고, 반대편에는 한 번에 확 바꾸는 sweeping·radical이 놓인다.",
+      "family": [
+        {
+          "word": "increment",
+          "pos": "n.",
+          "ko": "증가분, 인상분"
+        },
+        {
+          "word": "incrementally",
+          "pos": "ad.",
+          "ko": "점진적으로"
+        }
+      ]
+    },
+    {
+      "headword": "forthcoming",
+      "pos": "a.",
+      "ko": "다가오는; (정보를) 선뜻 내놓는",
+      "example_en": "The minister was not forthcoming about the cost of the forthcoming project.",
+      "example_ko": "그 장관은 다가오는 사업의 비용에 대해 선뜻 말하려 하지 않았다.",
+      "collocations": [
+        "the forthcoming election",
+        "be forthcoming about"
+      ],
+      "note": "forth(앞으로)+coming(나오는) = '앞으로 나오는'. 일정이 앞으로 나오면 '다가오는', 사람이 정보를 앞으로 내놓으면 '숨김없이 말하는'이 된다. 독해에서는 not forthcoming(입을 열지 않는)이라는 두 번째 뜻이 함정으로 나온다."
+    },
+    {
+      "headword": "discrete",
+      "pos": "a.",
+      "ko": "별개의, 분리된",
+      "example_en": "The report divides the process into five discrete stages.",
+      "example_ko": "그 보고서는 그 과정을 다섯 개의 별개 단계로 나눈다.",
+      "collocations": [
+        "discrete units",
+        "discrete stages",
+        "discrete categories"
+      ],
+      "note": "dis-(따로)+cre-(가르다) = '갈라 놓은' → 서로 겹치지 않는 별개의. 발음이 똑같은 discreet(신중한, 입이 무거운)와 철자가 e 위치만 다르니 시험 단골 함정이다.",
+      "related": [
+        {
+          "word": "discreet",
+          "ko": "신중한, 조심스러운",
+          "note": "발음은 discrete와 동일 — '분리된'이 아니라 '입이 무거운'. 명사 discretion(재량, 신중함)은 이쪽 가족이다"
+        }
+      ]
+    },
+    {
+      "headword": "complimentary",
+      "pos": "a.",
+      "ko": "무료의; 칭찬하는",
+      "example_en": "Guests receive a complimentary breakfast and airport shuttle.",
+      "example_ko": "투숙객은 무료 조식과 공항 셔틀을 제공받는다.",
+      "collocations": [
+        "complimentary breakfast",
+        "complimentary upgrade",
+        "be complimentary about"
+      ],
+      "note": "compliment(칭찬)에서 나와 '칭찬하는' + 호텔·항공사가 인심 쓰듯 주는 '무료의' 두 뜻. i가 아니라 e를 쓴 complementary는 complete(채우다) 쪽이라 '보완적인'이 되며, 토익에서 둘을 바꿔 놓는 문제가 자주 나온다.",
+      "related": [
+        {
+          "word": "complementary",
+          "ko": "보완적인",
+          "note": "complete와 한 뿌리 — 서로 모자란 부분을 '채워 주는'. 무료라는 뜻은 전혀 없다"
+        }
+      ]
+    },
+    {
+      "headword": "adjourn",
+      "pos": "v.",
+      "ko": "(회의를) 휴회하다, 산회하다",
+      "example_en": "The committee adjourned the hearing until the following Tuesday.",
+      "example_ko": "위원회는 청문회를 다음 주 화요일까지 휴회했다.",
+      "collocations": [
+        "adjourn the meeting",
+        "adjourn until ~",
+        "the meeting is adjourned"
+      ],
+      "note": "ad-(~쪽으로)+journ(day, 하루 — journal·journey와 같은 뿌리) = '다른 날로 미루다'. 그래서 완전히 끝내는 close와 달리 '다시 열 것을 전제로 잠시 중단한다'는 뉘앙스다.",
+      "family": [
+        {
+          "word": "adjournment",
+          "pos": "n.",
+          "ko": "휴회, 연기"
+        }
+      ]
+    }
+  ]
+}

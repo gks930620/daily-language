@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-27",
+  "passage_note": "경제·기술 — AI 데이터센터의 전력 수요가 전력망과 전기요금에 남기는 부담(기사)",
+  "sentences": [
+    {
+      "en": "For decades, electricity demand in most industrialized countries barely budged, but the frantic build-out of data centers to train artificial intelligence has upended that assumption in less than three years.",
+      "ko": "수십 년 동안 대부분의 산업화된 국가에서 전력 수요는 거의 꿈쩍도 하지 않았지만, 인공지능을 학습시키기 위한 데이터센터의 정신없는 증설이 3년도 되지 않아 그 전제를 뒤엎어 버렸다.",
+      "structure": "· For decades + 과거시제(barely budged): 오랜 기간 이어져 온 상태를 한 덩어리로 서술.\n· but 뒤는 현재완료(has upended) — 최근에 일어나 지금 결과가 남아 있는 변화. 과거시제와 현재완료가 '예전 / 지금'을 대비시키는 구조다.\n· to train artificial intelligence: to부정사의 형용사적 용법으로 앞의 build-out을 수식('~하기 위한 증설').\n· 주어는 the frantic build-out(단수)이므로 동사가 has다. of data centers에 이끌려 복수로 받으면 안 된다.\n· in less than three years: 「in + 기간」은 '~ 만에'.",
+      "vocab_notes": [
+        { "word": "for decades", "ko": "수십 년 동안" },
+        { "word": "industrialized", "ko": "산업화된" },
+        { "word": "barely", "ko": "거의 ~하지 않다" },
+        { "word": "budge", "ko": "꿈쩍하다, 조금 움직이다" },
+        { "word": "frantic", "ko": "정신없이 서두르는" },
+        { "word": "build-out", "ko": "대규모 증설, 구축 확대" },
+        { "word": "upend", "ko": "뒤엎다" },
+        { "word": "assumption", "ko": "전제, 가정" },
+        { "word": "in less than ~", "ko": "~도 되지 않아" }
+      ]
+    },
+    {
+      "en": "Utilities that once retired aging coal plants on schedule are now scrambling to keep them online, and grid operators warn that the queue of projects awaiting connection has swollen to record lengths.",
+      "ko": "한때 노후한 석탄 발전소를 예정대로 폐쇄하던 전력 회사들이 이제는 그것들을 계속 가동하려고 허둥대고 있으며, 전력망 운영자들은 접속을 기다리는 사업들의 대기열이 기록적인 길이로 불어났다고 경고한다.",
+      "structure": "· Utilities [that once retired ~ on schedule] are now scrambling: 주격 관계대명사절이 주어 Utilities를 뒤에서 수식하고, 문장의 진짜 동사는 are (retired를 본동사로 착각하기 쉽다).\n· once + 과거시제 = '한때 ~했다'.\n· keep them online: keep + 목적어 + 보어(형용사·부사구) = '~를 계속 …한 상태로 두다'.\n· projects awaiting connection: 현재분사구가 projects를 뒤에서 수식('접속을 기다리는'). awaiting은 타동사라 뒤에 전치사 없이 목적어가 바로 온다.\n· 주어는 the queue(단수)라서 has swollen. of projects에 끌리지 말 것.",
+      "vocab_notes": [
+        { "word": "utility", "ko": "전력·수도 회사, 공익 설비 업체" },
+        { "word": "once", "ko": "한때" },
+        { "word": "retire", "ko": "(설비를) 퇴역시키다, 폐쇄하다" },
+        { "word": "aging", "ko": "노후한" },
+        { "word": "on schedule", "ko": "예정대로" },
+        { "word": "scramble", "ko": "허둥지둥 서두르다" },
+        { "word": "keep ~ online", "ko": "(발전소를) 계속 가동 상태로 두다" },
+        { "word": "grid operator", "ko": "전력망 운영자" },
+        { "word": "queue", "ko": "대기열, 줄" },
+        { "word": "await", "ko": "기다리다" },
+        { "word": "swell", "ko": "부풀다, 불어나다 (swell-swelled-swollen)" }
+      ]
+    },
+    {
+      "en": "Critics argue that ordinary households will end up shouldering the cost, because the transmission lines and substations commissioned to serve a handful of hyperscale campuses are paid for by everyone on the network.",
+      "ko": "비판자들은 일반 가정이 결국 그 비용을 떠안게 될 것이라고 주장하는데, 소수의 초대형 데이터센터 단지에 전력을 공급하려고 발주된 송전선과 변전소의 비용을 전력망에 연결된 모두가 대기 때문이다.",
+      "structure": "· that절이 argue의 목적어(명사절).\n· end up -ing = '결국 ~하게 되다'. end up 뒤에는 to부정사가 아니라 동명사가 온다.\n· because절의 주어는 the transmission lines and substations이고, commissioned to serve ~ 는 과거분사구로 그 주어를 뒤에서 수식한다. 절의 동사는 멀리 떨어진 are paid for.\n· are paid for: 「타동사구 pay for」의 수동태 — 문장 끝의 for를 빠뜨리면 틀린 문장이 된다.\n· by everyone on the network: 수동태의 행위자.",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판하는 사람, 비평가" },
+        { "word": "ordinary household", "ko": "일반 가정" },
+        { "word": "end up -ing", "ko": "결국 ~하게 되다" },
+        { "word": "shoulder", "ko": "(비용·부담을) 떠맡다" },
+        { "word": "transmission line", "ko": "송전선" },
+        { "word": "substation", "ko": "변전소" },
+        { "word": "commission", "ko": "발주하다, 건설을 의뢰하다" },
+        { "word": "serve", "ko": "(지역·시설에) 공급하다" },
+        { "word": "a handful of", "ko": "소수의, 한 줌의" },
+        { "word": "hyperscale", "ko": "초대형 규모의" },
+        { "word": "campus", "ko": "(기업 시설이 모인) 단지" },
+        { "word": "pay for", "ko": "~의 비용을 대다" }
+      ]
+    },
+    {
+      "en": "The industry counters that it is willing to fund such upgrades outright and points to contracts that allow operators to throttle computing loads when the grid is strained.",
+      "ko": "업계는 그러한 개선 공사의 비용을 전액 부담할 용의가 있다고 반박하며, 전력망에 부하가 걸릴 때 운영자가 연산 부하를 줄일 수 있게 하는 계약들을 근거로 든다.",
+      "structure": "· counters와 points to가 The industry에 이어지는 두 개의 동사(등위 접속). and 뒤의 points를 that절 안의 동사로 읽으면 안 된다.\n· it = the industry — 앞 문장의 명사를 대명사로 받은 것.\n· contracts [that allow operators to throttle ~]: 주격 관계대명사절.\n· allow + 목적어 + to부정사 = '~가 …하도록 허용하다'(allow는 원형부정사를 쓰지 않는다).\n· when the grid is strained: 시간 부사절 + 수동태.",
+      "vocab_notes": [
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "be willing to ~", "ko": "기꺼이 ~할 용의가 있다" },
+        { "word": "fund", "ko": "자금을 대다" },
+        { "word": "upgrade", "ko": "개선 공사, 설비 증강" },
+        { "word": "outright", "ko": "전액을, 전부 한꺼번에" },
+        { "word": "point to ~", "ko": "~를 근거로 들다" },
+        { "word": "contract", "ko": "계약, 계약서" },
+        { "word": "throttle", "ko": "(출력을) 줄이다, 조절하다" },
+        { "word": "computing load", "ko": "연산 부하" },
+        { "word": "strained", "ko": "부하가 걸린, 빠듯한" }
+      ]
+    },
+    {
+      "en": "Whether those pledges hold under commercial pressure — when idle servers translate directly into lost revenue — is a question regulators have only begun to ask.",
+      "ko": "그 약속들이 상업적 압박 속에서도 지켜질지는, 즉 놀고 있는 서버가 곧바로 놓친 수익으로 이어지는 상황에서도 유효할지는, 규제 당국이 이제야 묻기 시작한 문제다.",
+      "structure": "· Whether절이 문장 전체의 주어다('~인지 아닌지는'). 주어 역할의 명사절이므로 동사는 단수 is.\n· 대시(—) 사이의 when절은 삽입된 부연 설명 — 빼고 읽으면 Whether ~ pressure is a question이라는 뼈대가 드러난다.\n· a question [(that) regulators have only begun to ask]: 목적격 관계대명사 that이 생략됐고, ask의 목적어 자리가 비어 있다.\n· only begun to ~ : '이제 겨우 ~하기 시작했다'.\n· hold는 여기서 자동사로 '(약속·규칙이) 유효하다, 그대로 유지되다'.",
+      "vocab_notes": [
+        { "word": "pledge", "ko": "약속, 서약" },
+        { "word": "hold", "ko": "(약속이) 유효하게 유지되다" },
+        { "word": "commercial pressure", "ko": "상업적 압박" },
+        { "word": "idle", "ko": "놀고 있는, 가동되지 않는" },
+        { "word": "translate into ~", "ko": "~로 이어지다, ~를 뜻하게 되다" },
+        { "word": "lost revenue", "ko": "놓친 수익" },
+        { "word": "regulator", "ko": "규제 당국" },
+        { "word": "have only begun to ~", "ko": "이제 막 ~하기 시작했다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "grid",
+      "pos": "n.",
+      "ko": "전력망; 격자",
+      "example_en": "The new solar farm will feed electricity into the national grid next year.",
+      "example_ko": "그 새 태양광 발전 단지는 내년에 국가 전력망으로 전기를 공급할 것이다.",
+      "collocations": ["the national grid", "grid operator", "power grid"],
+      "note": "본뜻은 '격자(바둑판 모양)'. 전선이 격자처럼 얽힌 모양에서 '전력망'이 나왔고, 도시의 격자형 도로망·지도의 좌표 격자도 grid다. off the grid = 전력망 밖에서(자급자족으로) 사는 것.",
+      "related": [
+        { "word": "gridlock", "ko": "교통 마비, 완전 교착", "note": "격자 도로가 통째로 막힌 상태 — 전력이 아니라 '꽉 막힘'을 뜻해 협상 교착에도 쓴다" }
+      ]
+    },
+    {
+      "headword": "soar",
+      "pos": "v.",
+      "ko": "치솟다, 급등하다",
+      "example_en": "Electricity prices soared to a record high after the heat wave.",
+      "example_ko": "폭염 이후 전기 요금이 사상 최고치로 치솟았다.",
+      "collocations": ["soar to a record high", "prices soar", "demand soars"],
+      "note": "원래 새가 날개를 편 채 '높이 떠오르다'라는 뜻 → 가격·수요가 힘들이지 않고 쭉 올라가는 그림. 발음이 같은 sore(아픈)와 철자만 다르니 받아쓰기에서 주의.",
+      "related": [
+        { "word": "plummet", "ko": "곤두박질치다", "note": "soar의 정반대 — 기사에서 soar와 짝으로 나온다" },
+        { "word": "sore", "ko": "아픈, 쓰라린", "note": "발음이 soar와 완전히 같은 동음이의어" }
+      ]
+    },
+    {
+      "headword": "footprint",
+      "pos": "n.",
+      "ko": "(자원·환경에 남기는) 사용량, 발자국",
+      "example_en": "The company pledged to halve the carbon footprint of its data centers by 2030.",
+      "example_ko": "그 회사는 2030년까지 자사 데이터센터의 탄소 배출량을 절반으로 줄이겠다고 약속했다.",
+      "collocations": ["carbon footprint", "reduce its footprint", "water footprint"],
+      "note": "'발자국' → 어떤 활동이 지구에 남기는 자국의 크기. 「~ footprint = ~의 총 사용·배출량」 공식으로 외우면 carbon/water/energy footprint가 한 번에 풀린다. 기업 기사에서는 '사업 영역의 범위'라는 뜻으로도 쓴다."
+    },
+    {
+      "headword": "proximity",
+      "pos": "n.",
+      "ko": "근접, 가까움",
+      "example_en": "Developers choose sites in close proximity to existing power lines to save time.",
+      "example_ko": "개발사들은 시간을 아끼려고 기존 송전선에 가까운 부지를 고른다.",
+      "collocations": ["in close proximity to", "the proximity of A to B"],
+      "note": "prox-(가까운)가 뿌리라 approach(다가가다), approximate(대략의)와 한 가족. in close proximity to는 near의 격식체로, 보고서·기사에서 near 대신 자주 쓴다.",
+      "family": [
+        { "word": "approximate", "pos": "a.", "ko": "대략의" },
+        { "word": "proximate", "pos": "a.", "ko": "가장 가까운, 직접적인 — proximate cause는 '직접적 원인'" }
+      ]
+    },
+    {
+      "headword": "commission",
+      "pos": "v.",
+      "ko": "(설비를) 발주·가동 개시하다; (작품·조사를) 의뢰하다",
+      "example_en": "The utility commissioned two new substations to serve the industrial park.",
+      "example_ko": "그 전력 회사는 산업 단지에 전력을 공급하기 위해 새 변전소 두 곳을 발주했다.",
+      "collocations": ["commission a report", "commission a new plant"],
+      "note": "com-(함께)+mit(보내다) = '일을 맡겨 내보내다' → 발주·의뢰. 명사로는 '위원회'와 '수수료'까지 뻗어 나가는데, 모두 '맡김'이라는 한 뿌리다. 반대 동작은 de-를 붙인 decommission(가동을 끝내고 폐쇄하다).",
+      "family": [
+        { "word": "commission", "pos": "n.", "ko": "위원회; 수수료" },
+        { "word": "decommission", "pos": "v.", "ko": "(발전소·군함을) 퇴역시키다, 폐쇄하다" },
+        { "word": "commissioner", "pos": "n.", "ko": "위원, 청장" }
+      ]
+    },
+    {
+      "headword": "dispatch",
+      "pos": "v.",
+      "ko": "발송하다, 파견하다",
+      "example_en": "The supplier dispatched the replacement parts the same afternoon.",
+      "example_ko": "공급업체는 그날 오후에 교체 부품을 발송했다.",
+      "collocations": ["dispatch a team", "dispatch the goods", "dispatch troops"],
+      "note": "dis-(풀어서)+patch(발, 족쇄) — '묶인 것을 풀어 내보내다'가 어원. 그래서 물건이면 발송, 사람이면 파견, 전력이면 송출로 번역이 갈린다. 토익에서는 배송 지연 안내문에, 시사에서는 병력·구조대 파견 기사에 단골로 나온다.",
+      "family": [
+        { "word": "dispatcher", "pos": "n.", "ko": "배차원, 상황실 요원" }
+      ]
+    },
+    {
+      "headword": "throttle",
+      "pos": "v.",
+      "ko": "(출력·속도를) 줄이다, 조절하다",
+      "example_en": "The carrier throttles data speeds once subscribers exceed their monthly limit.",
+      "example_ko": "그 통신사는 가입자가 월 사용량을 초과하면 데이터 속도를 줄인다.",
+      "collocations": ["throttle back", "throttle bandwidth", "at full throttle"],
+      "note": "원뜻은 '목을 조르다' → 엔진의 연료 조절판(스로틀) → 인터넷 속도·전력 사용을 '조여서 줄이다'. 명사 관용구 at full throttle은 반대로 '전속력으로'라는 뜻이니 함께 묶어 외운다."
+    },
+    {
+      "headword": "tap",
+      "pos": "v.",
+      "ko": "(자원·시장을) 끌어 쓰다, 활용하다",
+      "example_en": "The firm is tapping into overseas markets to offset falling domestic sales.",
+      "example_ko": "그 회사는 국내 매출 감소를 상쇄하려고 해외 시장을 공략하고 있다.",
+      "collocations": ["tap into a market", "tap new sources of funding", "untapped potential"],
+      "note": "'수도꼭지(tap)를 꽂아 뽑아 쓰다'라는 그림에서 나온 비유 — 자금·인재·시장이라는 통에 꼭지를 꽂는 셈이다. 실제로는 tap into + 명사 형태가 압도적으로 많고, 부정 접두사를 붙인 untapped(아직 손대지 않은)도 자주 나온다.",
+      "family": [
+        { "word": "untapped", "pos": "a.", "ko": "아직 활용되지 않은" }
+      ]
+    },
+    {
+      "headword": "reliance",
+      "pos": "n.",
+      "ko": "의존, 의지",
+      "example_en": "The country is trying to reduce its reliance on imported fuel.",
+      "example_ko": "그 나라는 수입 연료에 대한 의존을 줄이려 하고 있다.",
+      "collocations": ["reliance on", "reduce reliance", "overreliance on"],
+      "note": "rely의 명사형인데, 형용사 reliable과 뜻 갈래가 다르다 — reliance는 '기대는 것', reliable은 '믿음직한 것'이다. 사람이 주어면 reliant(의존하는), 과하면 over-를 붙여 overreliance라고 쓴다.",
+      "family": [
+        { "word": "rely", "pos": "v.", "ko": "의존하다 (rely on)" },
+        { "word": "reliable", "pos": "a.", "ko": "믿을 만한 — '의존적인'이 아님에 주의" },
+        { "word": "reliant", "pos": "a.", "ko": "의존하는" }
+      ]
+    },
+    {
+      "headword": "lag",
+      "pos": "v.",
+      "ko": "뒤처지다; (n.) 지연, 시차",
+      "example_en": "Grid upgrades continue to lag behind the pace of new construction.",
+      "example_ko": "전력망 개선 공사는 신규 건설 속도에 계속 뒤처지고 있다.",
+      "collocations": ["lag behind", "a time lag", "lagging indicator"],
+      "note": "거의 항상 lag behind ~ 형태로 '~에 뒤처지다'로 쓴다. 명사로 넘어가면 time lag(시간 지연)·jet lag(시차증)처럼 '벌어진 간격'을 뜻하고, 경제 기사의 lagging indicator는 경기를 뒤늦게 반영하는 '후행 지표'다.",
+      "family": [
+        { "word": "laggard", "pos": "n.", "ko": "뒤처진 사람·기업, 낙오자" }
+      ]
+    },
+    {
+      "headword": "incremental",
+      "pos": "a.",
+      "ko": "점진적인, 조금씩 늘어나는",
+      "example_en": "Managers favored incremental improvements over a costly redesign.",
+      "example_ko": "관리자들은 비용이 많이 드는 재설계보다 점진적인 개선을 선호했다.",
+      "collocations": ["incremental change", "incremental cost", "incremental improvement"],
+      "note": "in-(안으로)+cre-(자라다) — increase와 같은 뿌리로 '한 칸(increment)씩 자라는'이다. 회계에서 incremental cost는 '한 단위 더 만들 때 추가로 드는 비용'을 뜻하고, 반대편에는 한 번에 확 바꾸는 sweeping·radical이 놓인다.",
+      "family": [
+        { "word": "increment", "pos": "n.", "ko": "증가분, 인상분" },
+        { "word": "incrementally", "pos": "ad.", "ko": "점진적으로" }
+      ]
+    },
+    {
+      "headword": "forthcoming",
+      "pos": "a.",
+      "ko": "다가오는; (정보를) 선뜻 내놓는",
+      "example_en": "The minister was not forthcoming about the cost of the forthcoming project.",
+      "example_ko": "그 장관은 다가오는 사업의 비용에 대해 선뜻 말하려 하지 않았다.",
+      "collocations": ["the forthcoming election", "be forthcoming about"],
+      "note": "forth(앞으로)+coming(나오는) = '앞으로 나오는'. 일정이 앞으로 나오면 '다가오는', 사람이 정보를 앞으로 내놓으면 '숨김없이 말하는'이 된다. 독해에서는 not forthcoming(입을 열지 않는)이라는 두 번째 뜻이 함정으로 나온다."
+    },
+    {
+      "headword": "discrete",
+      "pos": "a.",
+      "ko": "별개의, 분리된",
+      "example_en": "The report divides the process into five discrete stages.",
+      "example_ko": "그 보고서는 그 과정을 다섯 개의 별개 단계로 나눈다.",
+      "collocations": ["discrete units", "discrete stages", "discrete categories"],
+      "note": "dis-(따로)+cre-(가르다) = '갈라 놓은' → 서로 겹치지 않는 별개의. 발음이 똑같은 discreet(신중한, 입이 무거운)와 철자가 e 위치만 다르니 시험 단골 함정이다.",
+      "related": [
+        { "word": "discreet", "ko": "신중한, 조심스러운", "note": "발음은 discrete와 동일 — '분리된'이 아니라 '입이 무거운'. 명사 discretion(재량, 신중함)은 이쪽 가족이다" }
+      ]
+    },
+    {
+      "headword": "complimentary",
+      "pos": "a.",
+      "ko": "무료의; 칭찬하는",
+      "example_en": "Guests receive a complimentary breakfast and airport shuttle.",
+      "example_ko": "투숙객은 무료 조식과 공항 셔틀을 제공받는다.",
+      "collocations": ["complimentary breakfast", "complimentary upgrade", "be complimentary about"],
+      "note": "compliment(칭찬)에서 나와 '칭찬하는' + 호텔·항공사가 인심 쓰듯 주는 '무료의' 두 뜻. i가 아니라 e를 쓴 complementary는 complete(채우다) 쪽이라 '보완적인'이 되며, 토익에서 둘을 바꿔 놓는 문제가 자주 나온다.",
+      "related": [
+        { "word": "complementary", "ko": "보완적인", "note": "complete와 한 뿌리 — 서로 모자란 부분을 '채워 주는'. 무료라는 뜻은 전혀 없다" }
+      ]
+    },
+    {
+      "headword": "adjourn",
+      "pos": "v.",
+      "ko": "(회의를) 휴회하다, 산회하다",
+      "example_en": "The committee adjourned the hearing until the following Tuesday.",
+      "example_ko": "위원회는 청문회를 다음 주 화요일까지 휴회했다.",
+      "collocations": ["adjourn the meeting", "adjourn until ~", "the meeting is adjourned"],
+      "note": "ad-(~쪽으로)+journ(day, 하루 — journal·journey와 같은 뿌리) = '다른 날로 미루다'. 그래서 완전히 끝내는 close와 달리 '다시 열 것을 전제로 잠시 중단한다'는 뉘앙스다.",
+      "family": [
+        { "word": "adjournment", "pos": "n.", "ko": "휴회, 연기" }
+      ]
+    },
+    {
+      "headword": "versatile",
+      "pos": "a.",
+      "ko": "다재다능한; 용도가 다양한",
+      "example_en": "The plant is versatile enough to run on either gas or hydrogen.",
+      "example_ko": "그 발전소는 가스로도 수소로도 돌릴 수 있을 만큼 활용도가 높다.",
+      "collocations": ["a versatile player", "a versatile tool", "versatile enough to ~"],
+      "note": "vers-(돌다: reverse, version, convert)가 뿌리라 '이리저리 잘 도는'이 원뜻. 사람에게 붙으면 다재다능, 물건·설비에 붙으면 '여러 용도로 쓰이는'이 되어 이력서와 제품 소개문에 모두 등장한다.",
+      "family": [
+        { "word": "versatility", "pos": "n.", "ko": "다재다능함, 다용도성" }
+      ]
+    },
+    {
+      "headword": "proceeds",
+      "pos": "n.",
+      "ko": "(판매·행사의) 수익금",
+      "example_en": "All proceeds from the auction will go to the disaster relief fund.",
+      "example_ko": "경매의 모든 수익금은 재해 구호 기금으로 갈 것이다.",
+      "collocations": ["proceeds from the sale", "donate the proceeds", "net proceeds"],
+      "note": "항상 복수형으로 쓰며, 동사 proceed(진행하다)와는 뜻이 완전히 갈라진 단어다. 비용을 빼기 전 '들어온 총액'이 proceeds, 비용을 뺀 뒤가 profit이라는 대비로 외우면 회계 지문에서 헷갈리지 않는다.",
+      "related": [
+        { "word": "profit", "ko": "이익", "note": "proceeds는 들어온 총액, profit은 비용을 뺀 나머지" },
+        { "word": "proceed", "ko": "진행하다, 나아가다", "note": "철자는 같은 뿌리지만 동사로 쓰면 '수익금'과 무관하다" }
+      ]
+    },
+    {
+      "headword": "attest",
+      "pos": "v.",
+      "ko": "증명하다, 입증하다",
+      "example_en": "The long queue of stalled projects attests to the strain on the network.",
+      "example_ko": "멈춰 선 사업들의 긴 대기열이 그 전력망에 걸린 부하를 입증한다.",
+      "collocations": ["attest to the quality", "as the figures attest"],
+      "note": "ad-(~를 향해)+test(증언하다) — 법정에서 누군가를 위해 '증언해 주다'가 출발점이라 testify·testimony·protest와 한 가족이다. 실제 문장에서는 attest to + 명사 꼴이 압도적이니 to를 세트로 외운다.",
+      "family": [
+        { "word": "testify", "pos": "v.", "ko": "증언하다" },
+        { "word": "testimony", "pos": "n.", "ko": "증언, 증거" }
+      ]
+    }
+  ]
+}
