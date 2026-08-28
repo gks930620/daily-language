@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-28",
+  "passage_note": "기술·인권 — 얼굴 인식 감시의 확산과 '사람의 검토'라는 안전장치의 한계(논설)",
+  "sentences": [
+    {
+      "en": "Police forces across the country have quietly rolled out facial recognition systems, arguing that the technology merely automates a task officers have always performed by eye.",
+      "ko": "전국의 경찰 조직은 얼굴 인식 시스템을 조용히 도입해 왔는데, 그 기술이 경찰관들이 늘 육안으로 해 오던 일을 자동화할 뿐이라고 주장한다.",
+      "structure": "· have rolled out : 현재완료 — 과거 어느 시점부터 지금까지 도입해 온 상태를 나타낸다.\n· arguing that ~ : 분사구문(동시동작). 주어가 주절과 같은 Police forces라서 접속사·주어 없이 -ing로 이어 붙였다(= as they argue that ~).\n· a task (which/that) officers have always performed : 목적격 관계대명사 생략. officers have performed a task에서 목적어가 앞으로 나간 구조다.",
+      "vocab_notes": [
+        { "word": "police force", "ko": "경찰 조직, 경찰력" },
+        { "word": "across the country", "ko": "전국에 걸쳐" },
+        { "word": "quietly", "ko": "조용히, 소리 소문 없이" },
+        { "word": "roll out", "ko": "(신제품·제도를) 도입하다, 출시하다" },
+        { "word": "facial recognition", "ko": "얼굴 인식" },
+        { "word": "argue", "ko": "주장하다" },
+        { "word": "merely", "ko": "단지 ~일 뿐" },
+        { "word": "automate", "ko": "자동화하다" },
+        { "word": "perform", "ko": "수행하다, 해내다" },
+        { "word": "by eye", "ko": "육안으로, 눈대중으로" }
+      ]
+    },
+    {
+      "en": "Civil liberties groups counter that the analogy is misleading: an officer scanning a crowd cannot cross-reference every face against a watchlist assembled from decades of arrest photographs, many of them retained long after the charges were dropped.",
+      "ko": "시민 자유 단체들은 그 비유가 오해를 부른다고 반박한다. 군중을 훑어보는 경찰관 한 명이 수십 년치 체포 사진으로 만들어진 감시 명단에 모든 얼굴을 일일이 대조할 수는 없으며, 그 사진 중 다수는 혐의가 취하된 지 한참 뒤까지 보관되어 있다는 것이다.",
+      "structure": "· counter that ~ : 여기서 counter는 '반박하다'라는 동사로, that절을 목적어로 받는다.\n· an officer scanning a crowd : 현재분사구가 an officer를 뒤에서 수식한다(= an officer who is scanning a crowd).\n· a watchlist assembled from ~ : 과거분사구가 watchlist를 뒤에서 수식. 명단이 '모아 만들어진' 것이므로 수동 의미의 과거분사를 썼다.\n· many of them retained ~ : 독립분사구문(부대상황). them은 arrest photographs를 가리키고, 사진이 '보관된' 쪽이라 과거분사 retained가 왔다.",
+      "vocab_notes": [
+        { "word": "civil liberties", "ko": "시민적 자유(권)" },
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "analogy", "ko": "비유, 유추" },
+        { "word": "misleading", "ko": "오해를 부르는" },
+        { "word": "scan", "ko": "훑어보다, 살피다" },
+        { "word": "crowd", "ko": "군중, 인파" },
+        { "word": "cross-reference", "ko": "대조하다, 상호 참조하다" },
+        { "word": "watchlist", "ko": "감시 대상 명단" },
+        { "word": "assemble", "ko": "모아서 구성하다" },
+        { "word": "arrest photograph", "ko": "체포 사진(머그샷)" },
+        { "word": "retain", "ko": "보관하다, 계속 가지고 있다" },
+        { "word": "charge", "ko": "혐의, 기소" },
+        { "word": "drop (charges)", "ko": "(혐의를) 취하하다" }
+      ]
+    },
+    {
+      "en": "The statistical record is hardly reassuring: independent audits have repeatedly found that error rates climb for women and for people with darker skin, a bias that turns an ostensibly neutral tool into an instrument of unequal scrutiny.",
+      "ko": "통계 기록도 결코 안심할 만한 것이 아니다. 독립적인 감사에서 여성과 피부색이 어두운 사람들에 대해 오류율이 올라간다는 사실이 거듭 확인되었는데, 이 편향은 표면상 중립적인 도구를 불평등한 감시의 수단으로 바꿔 놓는다.",
+      "structure": "· hardly : '거의 ~않다'는 준부정어. is hardly reassuring은 '전혀 안심할 수 없다'를 완곡하게 표현한 부정이다.\n· have repeatedly found that ~ : 현재완료 + that절 목적어. 지금까지 반복해서 확인되어 온 결과임을 나타낸다.\n· a bias that turns A into B : 앞의 that절 내용 전체를 받는 동격 명사구에 주격 관계대명사 that이 붙었다. turn A into B = A를 B로 바꾸다.",
+      "vocab_notes": [
+        { "word": "statistical", "ko": "통계의, 통계적인" },
+        { "word": "record", "ko": "기록, 실적" },
+        { "word": "hardly", "ko": "거의 ~않다" },
+        { "word": "reassuring", "ko": "안심시키는" },
+        { "word": "independent audit", "ko": "독립적인 감사" },
+        { "word": "repeatedly", "ko": "거듭, 반복해서" },
+        { "word": "error rate", "ko": "오류율" },
+        { "word": "climb", "ko": "(수치가) 올라가다" },
+        { "word": "bias", "ko": "편향, 편견" },
+        { "word": "ostensibly", "ko": "표면상으로는" },
+        { "word": "neutral", "ko": "중립적인" },
+        { "word": "instrument", "ko": "수단, 도구" },
+        { "word": "unequal", "ko": "불평등한" },
+        { "word": "scrutiny", "ko": "정밀 조사, 감시" }
+      ]
+    },
+    {
+      "en": "Defenders of the systems reply that no arrest rests on an algorithmic match alone, and that human review remains the safeguard against wrongful detention.",
+      "ko": "그 시스템의 옹호자들은 어떤 체포도 알고리즘의 일치 결과 하나만으로 이루어지지 않으며, 사람의 검토가 여전히 부당한 구금을 막는 안전장치라고 답한다.",
+      "structure": "· reply that ~, and that ~ : 두 개의 that절이 reply의 목적어로 병렬 연결되었다. 두 번째 that을 생략하지 않은 것은 병렬 관계를 분명히 하기 위해서다.\n· no arrest rests on ~ : 부정어 no가 주어에 붙은 전체부정 — '어떤 체포도 ~에 근거하지 않는다'.\n· remains + 명사 : remain은 2형식 동사로 뒤에 보어를 받아 '여전히 ~이다'라는 뜻이 된다.",
+      "vocab_notes": [
+        { "word": "defender", "ko": "옹호자, 지지자" },
+        { "word": "reply", "ko": "대답하다, 응수하다" },
+        { "word": "arrest", "ko": "체포" },
+        { "word": "rest on", "ko": "~에 근거하다, ~에 달려 있다" },
+        { "word": "algorithmic", "ko": "알고리즘의" },
+        { "word": "match", "ko": "일치(하는 것), 일치 결과" },
+        { "word": "alone", "ko": "(명사 뒤에서) ~만으로" },
+        { "word": "human review", "ko": "사람에 의한 검토" },
+        { "word": "remain", "ko": "여전히 ~이다" },
+        { "word": "safeguard", "ko": "안전장치, 보호 조치" },
+        { "word": "wrongful", "ko": "부당한, 위법한" },
+        { "word": "detention", "ko": "구금, 억류" }
+      ]
+    },
+    {
+      "en": "Yet investigations suggest that officers presented with a ranked list of candidates tend to treat the machine's inference as corroboration rather than as a hypothesis to be tested — precisely how a fallible tool acquires the veneer of certainty.",
+      "ko": "그러나 여러 조사는 순위가 매겨진 후보 목록을 제시받은 경찰관들이 기계의 추론을 검증해야 할 가설이 아니라 이미 입증된 근거로 취급하는 경향이 있음을 보여 준다 — 오류를 범할 수 있는 도구가 확실성이라는 허울을 얻게 되는 것이 바로 이런 식이다.",
+      "structure": "· officers presented with ~ : 과거분사구가 주어 officers를 뒤에서 수식한다(경찰관이 '제시받는' 쪽이므로 수동). 이 수식어를 걷어내면 officers tend to treat가 주어+동사다.\n· treat A as B rather than as C : A를 C가 아니라 B로 여기다. as가 반복되며 비교 대상이 나란히 놓였다.\n· a hypothesis to be tested : to부정사의 수동형이 명사를 뒤에서 수식 — '검증되어야 할 가설'.\n· precisely how ~ : 관계부사 how가 이끄는 명사절이 앞 내용 전체를 받아 '바로 그것이 ~하는 방식이다'로 마무리한다.",
+      "vocab_notes": [
+        { "word": "investigation", "ko": "조사, 수사" },
+        { "word": "suggest", "ko": "시사하다, 보여 주다" },
+        { "word": "present A with B", "ko": "A에게 B를 제시하다" },
+        { "word": "ranked list", "ko": "순위가 매겨진 목록" },
+        { "word": "candidate", "ko": "후보(자)" },
+        { "word": "tend to", "ko": "~하는 경향이 있다" },
+        { "word": "treat A as B", "ko": "A를 B로 여기다" },
+        { "word": "inference", "ko": "추론(한 결과)" },
+        { "word": "corroboration", "ko": "입증, 뒷받침하는 증거" },
+        { "word": "hypothesis", "ko": "가설" },
+        { "word": "fallible", "ko": "오류를 범할 수 있는" },
+        { "word": "acquire", "ko": "얻다, 획득하다" },
+        { "word": "veneer", "ko": "허울, 겉치레" },
+        { "word": "certainty", "ko": "확실성" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "surveillance",
+      "pos": "n.",
+      "ko": "감시",
+      "example_en": "The city council approved the installation of surveillance cameras in every subway station.",
+      "example_ko": "시의회는 모든 지하철역에 감시 카메라를 설치하는 안을 승인했다.",
+      "collocations": ["surveillance camera", "under surveillance", "mass surveillance"],
+      "note": "프랑스어에서 온 말로 sur-(위에서) + veiller(지켜보다) — 위에서 내려다보며 지켜보는 것이 감시다. veil-/vigil-(깨어 있다)이라는 같은 뿌리에서 vigil(밤샘 지킴)·vigilant(경계하는)가 나온다.",
+      "related": [
+        { "word": "vigilant", "ko": "경계하는", "note": "뿌리는 같지만 vigilant는 지켜보는 쪽의 '태도', surveillance는 지켜보는 '행위·체계'를 가리킨다" }
+      ]
+    },
+    {
+      "headword": "biometric",
+      "pos": "a.",
+      "ko": "생체 인식의",
+      "example_en": "Airports increasingly rely on biometric screening to verify passengers' identities.",
+      "example_ko": "공항들은 승객의 신원을 확인하기 위해 생체 인식 검사에 점점 더 의존하고 있다.",
+      "collocations": ["biometric data", "biometric screening"],
+      "note": "bio-(생명) + metric(재는) — 몸(지문·홍채·얼굴)을 '재서' 사람을 가려내는 것. metric이 붙으면 '~을 재는'이 되므로 geometric(땅을 재는 = 기하학의)·symmetric(함께 재어 같은 = 대칭의)도 같은 방식으로 풀린다.",
+      "family": [
+        { "word": "biometrics", "pos": "n.", "ko": "생체 인식 (기술)" }
+      ]
+    },
+    {
+      "headword": "anonymity",
+      "pos": "n.",
+      "ko": "익명성",
+      "example_en": "Several employees spoke to reporters on condition of anonymity.",
+      "example_ko": "몇몇 직원이 익명을 조건으로 기자들에게 이야기했다.",
+      "collocations": ["on condition of anonymity", "preserve anonymity"],
+      "note": "a-(없음) + onym(이름) — 이름이 없는 상태. onym이 '이름'이라는 것만 잡아 두면 synonym(같은 이름 = 동의어)·antonym(반대 이름 = 반의어)·pseudonym(가짜 이름 = 필명)이 한 묶음으로 정리된다.",
+      "family": [
+        { "word": "anonymous", "pos": "a.", "ko": "익명의" },
+        { "word": "anonymously", "pos": "ad.", "ko": "익명으로" }
+      ]
+    },
+    {
+      "headword": "safeguard",
+      "pos": "n., v.",
+      "ko": "안전장치, 보호 조치; 보호하다",
+      "example_en": "The law includes safeguards against the misuse of personal data.",
+      "example_ko": "그 법에는 개인정보 오용을 막는 안전장치가 들어 있다.",
+      "collocations": ["safeguard against", "adequate safeguards", "safeguard the interests of"],
+      "note": "'지키다'라는 동사보다 명사 용법('위험을 막아 주는 제도적 장치')이 시험에 훨씬 자주 나온다. 뒤따르는 전치사는 늘 against여서, safeguard against abuse처럼 '무엇을 막는 장치인지'를 뒤에 붙여 쓴다.",
+      "related": [
+        { "word": "safekeeping", "ko": "보관", "note": "safe-로 시작하지만 뜻이 다르다 — '맡아서 잘 보관함'이지 위험을 막는 조치가 아니다" }
+      ]
+    },
+    {
+      "headword": "fallible",
+      "pos": "a.",
+      "ko": "오류를 범할 수 있는",
+      "example_en": "Even the most rigorous review process is fallible.",
+      "example_ko": "아무리 엄격한 검토 절차라도 오류를 범할 수 있다.",
+      "collocations": ["fallible human judgment", "all too fallible"],
+      "note": "fall-(속이다, 어긋나다) + -ible(할 수 있는) = 틀릴 수 있는. 부정 접두사 in-을 붙인 infallible(절대 틀리지 않는)이 짝을 이루고, false·fault·fail도 모두 같은 뿌리에서 갈라져 나왔다.",
+      "family": [
+        { "word": "infallible", "pos": "a.", "ko": "절대 오류가 없는" },
+        { "word": "fallibility", "pos": "n.", "ko": "오류 가능성" }
+      ]
+    },
+    {
+      "headword": "veneer",
+      "pos": "n.",
+      "ko": "허울, 겉치레 (원뜻: 얇은 무늬목)",
+      "example_en": "Behind a veneer of transparency, the company withheld its most damaging findings.",
+      "example_ko": "투명성이라는 허울 뒤에서 그 회사는 가장 치명적인 조사 결과를 감췄다.",
+      "collocations": ["a veneer of respectability", "beneath the veneer"],
+      "note": "원래는 가구 표면에 얇게 붙이는 무늬목을 뜻하고, 여기서 '속은 다른데 겉만 그럴듯하게 씌운 것'이라는 비유로 굳었다. 논설문에서 a veneer of + 추상명사(objectivity, legitimacy) 형태가 나오면 뒤에는 반드시 그 겉모습을 벗기는 반박이 이어진다.",
+      "related": [
+        { "word": "facade", "ko": "겉모습, 허울", "note": "거의 같은 비유지만 facade는 건물 '정면'에서 온 말이라 조직·인물이 내세우는 전체 외관에, veneer는 얇게 덧씌운 한 겹에 초점이 있다" }
+      ]
+    },
+    {
+      "headword": "wrongful",
+      "pos": "a.",
+      "ko": "부당한, 위법한",
+      "example_en": "He sued his former employer for wrongful dismissal.",
+      "example_ko": "그는 부당 해고를 이유로 전 고용주를 고소했다.",
+      "collocations": ["wrongful dismissal", "wrongful conviction", "wrongful arrest"],
+      "note": "wrong + -ful이지만 '잘못이 가득한'이 아니라 법률 용어로 '법적으로 부당한'이라는 좁은 뜻이며, dismissal·conviction·death 같은 법률 명사 앞에 거의 붙박이로 쓰인다.",
+      "related": [
+        { "word": "wrongly", "ko": "부당하게, 잘못", "note": "부사라 동사를 꾸민다 — He was wrongly convicted. 명사 앞에는 wrongful을 쓴다" }
+      ]
+    },
+    {
+      "headword": "inference",
+      "pos": "n.",
+      "ko": "추론(해 낸 결론)",
+      "example_en": "The auditors drew an inference of misconduct from the missing receipts.",
+      "example_ko": "감사관들은 사라진 영수증에서 부정행위가 있었다는 추론을 이끌어 냈다.",
+      "collocations": ["draw an inference", "a reasonable inference"],
+      "note": "in-(안으로) + fer(나르다) — 사실에서 결론을 안으로 끌어오는 것. fer가 보이면 transfer(옮기다)·refer(되돌려 보내다 = 참조하다)·confer(함께 나르다 = 협의하다)가 한 묶음이다.",
+      "family": [
+        { "word": "infer", "pos": "v.", "ko": "추론하다" }
+      ],
+      "related": [
+        { "word": "imply", "ko": "암시하다", "note": "말하는 쪽이 하는 것이 imply, 듣는 쪽이 하는 것이 infer — 방향이 정반대라 시험 단골이다" }
+      ]
+    },
+    {
+      "headword": "statute",
+      "pos": "n.",
+      "ko": "법령, 성문법",
+      "example_en": "The practice is prohibited by statute in most jurisdictions.",
+      "example_ko": "그 관행은 대부분의 관할권에서 법령으로 금지되어 있다.",
+      "collocations": ["by statute", "statute of limitations", "under the statute"],
+      "note": "의회가 문서로 제정한 법이 statute이고, 판례로 쌓인 법은 common law다. 형용사 statutory(법에 정해진)와 세트로 외우되, 철자가 비슷한 stature(위상)·status(지위)와 뒤섞지 않도록 주의한다.",
+      "family": [
+        { "word": "statutory", "pos": "a.", "ko": "법으로 정해진, 법정의" }
+      ],
+      "related": [
+        { "word": "stature", "ko": "위상, 신장", "note": "한 글자 차이지만 뜻이 전혀 다르다 — a scholar of great stature(대단한 위상의 학자)" }
+      ]
+    },
+    {
+      "headword": "injunction",
+      "pos": "n.",
+      "ko": "(법원의) 금지 명령",
+      "example_en": "A judge issued an injunction barring the agency from deploying the system.",
+      "example_ko": "판사는 그 기관이 시스템을 배치하지 못하도록 금지 명령을 내렸다.",
+      "collocations": ["issue an injunction", "seek an injunction", "a temporary injunction"],
+      "note": "in-(위에) + junct(잇다, 명하다) — 법원이 '하지 마라'고 걸어 두는 명령. junct는 join과 같은 뿌리라 junction(연결점)·conjunction(접속사)이 함께 나오고, 동사 enjoin은 '명하다'와 '금하다' 두 뜻을 모두 갖는다.",
+      "family": [
+        { "word": "enjoin", "pos": "v.", "ko": "명령하다; (법적으로) 금지하다" }
+      ]
+    },
+    {
+      "headword": "encroach",
+      "pos": "v.",
+      "ko": "잠식하다, 침해하다",
+      "example_en": "Critics argue that the measures encroach on privacy without improving safety.",
+      "example_ko": "비판자들은 그 조치가 안전을 개선하지도 못하면서 사생활을 침해한다고 주장한다.",
+      "collocations": ["encroach on rights", "encroach upon territory"],
+      "note": "뒤에 반드시 on/upon이 온다. 물리적으로 '조금씩 밀고 들어오다'(바다가 땅을 잠식하다)에서 권리·자유를 '야금야금 침해하다'로 넓어진 말이라, 한 번에 쳐들어가는 invade와 달리 서서히 진행된다는 뉘앙스를 품는다.",
+      "family": [
+        { "word": "encroachment", "pos": "n.", "ko": "침해, 잠식" }
+      ]
+    },
+    {
+      "headword": "consent",
+      "pos": "n., v.",
+      "ko": "동의(하다)",
+      "example_en": "Users must give explicit consent before their data is shared with third parties.",
+      "example_ko": "사용자의 데이터가 제3자와 공유되기 전에 사용자는 명시적으로 동의해야 한다.",
+      "collocations": ["give consent", "informed consent", "consent to a proposal"],
+      "note": "con-(함께) + sent(느끼다) — 같이 느끼는 것이 동의다. sent/sens(느끼다) 계열로 sentiment(정서)·consensus(합의)·dissent(반대)가 묶이며, 동사로 쓸 때는 consent to + 명사처럼 전치사 to를 반드시 붙인다.",
+      "related": [
+        { "word": "dissent", "ko": "반대하다; 이견", "note": "dis-(떨어져) + sent — consent의 정확한 반대말이다" }
+      ]
+    },
+    {
+      "headword": "solicit",
+      "pos": "v.",
+      "ko": "(의견·기부·입찰을) 요청하다, 모집하다",
+      "example_en": "The commission solicited public comments before finalizing the rule.",
+      "example_ko": "위원회는 규정을 확정하기 전에 시민 의견을 공개적으로 받았다.",
+      "collocations": ["solicit feedback", "solicit donations", "solicit bids"],
+      "note": "ask보다 공식적인 말이라 공개적으로 의견·기부·입찰을 끌어모을 때 쓴다. 파생형 solicitous는 '요청하는'이 아니라 '염려하는, 신경 써 주는'으로 뜻이 갈라지니 함께 외워 두면 함정을 피한다.",
+      "family": [
+        { "word": "solicitation", "pos": "n.", "ko": "요청, 모집" },
+        { "word": "solicitous", "pos": "a.", "ko": "염려하는, 배려하는 — '요청하는'이 아님에 주의" }
+      ]
+    },
+    {
+      "headword": "liaison",
+      "pos": "n.",
+      "ko": "연락, 협력 관계; 연락 담당자",
+      "example_en": "The project manager acts as the liaison between the research team and the regulator.",
+      "example_ko": "그 프로젝트 관리자는 연구팀과 규제 기관 사이의 연락 담당자 역할을 한다.",
+      "collocations": ["act as a liaison", "liaison between A and B", "close liaison"],
+      "note": "프랑스어에서 온 말이라 철자와 달리 '리에이존'으로 읽는다. 뿌리는 li-(묶다)로 ally(동맹)·liable(묶여 있는 = 책임 있는)과 한 계열이며, 사람(연락 담당자)과 관계(연락 체계)를 모두 가리킬 수 있다.",
+      "family": [
+        { "word": "liaise", "pos": "v.", "ko": "연락을 취하다, 협력하다" }
+      ]
+    },
+    {
+      "headword": "adept",
+      "pos": "a.",
+      "ko": "능숙한",
+      "example_en": "The firm is adept at turning regulatory changes into a competitive advantage.",
+      "example_ko": "그 회사는 규제 변화를 경쟁 우위로 바꾸는 데 능숙하다.",
+      "collocations": ["adept at ~ing", "highly adept"],
+      "note": "전치사는 at(때때로 in)이고 뒤에 동명사가 온다 — adept at negotiating. 철자가 닮은 adapt(적응시키다)·adopt(채택하다)와 셋이 함께 출제되니 e=능숙, a=적응, o=채택으로 갈라 외운다.",
+      "related": [
+        { "word": "adopt", "ko": "채택하다, 입양하다", "note": "adept / adapt / adopt 삼총사 — 모음 하나로 뜻이 완전히 갈린다" }
+      ]
+    },
+    {
+      "headword": "succinct",
+      "pos": "a.",
+      "ko": "간결한",
+      "example_en": "The report opens with a succinct summary of the committee's findings.",
+      "example_ko": "그 보고서는 위원회의 조사 결과를 간결하게 요약한 것으로 시작한다.",
+      "collocations": ["a succinct summary", "a succinct account"],
+      "note": "sub-(아래에서) + cinct(띠로 묶다) — 흘러내리는 옷을 허리띠로 바짝 조여 놓은 모습이 '군더더기 없이 간결한'이다. 같은 뿌리에서 precinct(둘러 묶은 구역 = 관할 구역)가 나온다.",
+      "related": [
+        { "word": "concise", "ko": "간결한", "note": "거의 동의어지만 concise는 '짧다'는 사실에, succinct는 '짧은데도 핵심을 다 담았다'는 칭찬에 더 가깝다" }
+      ]
+    },
+    {
+      "headword": "itemize",
+      "pos": "v.",
+      "ko": "항목별로 나열하다, 명세화하다",
+      "example_en": "Please itemize all travel expenses on the reimbursement form.",
+      "example_ko": "환급 신청서에 모든 출장 경비를 항목별로 적어 주십시오.",
+      "collocations": ["itemize expenses", "an itemized bill", "an itemized receipt"],
+      "note": "-ize는 명사를 '~하게 만들다'라는 동사로 바꾸는 접미사여서 item(항목) + ize = 항목으로 쪼개 놓다. 토익의 청구서·경비 지문에서는 과거분사형 itemized bill/receipt(항목별로 적힌 청구서·영수증)로 거의 고정되어 등장한다.",
+      "family": [
+        { "word": "itemized", "pos": "a.", "ko": "항목별로 정리된" }
+      ]
+    },
+    {
+      "headword": "appraisal",
+      "pos": "n.",
+      "ko": "평가; 감정(가치 산정)",
+      "example_en": "The bank ordered an independent appraisal of the property before approving the loan.",
+      "example_ko": "은행은 대출을 승인하기 전에 그 부동산에 대한 독립적인 감정을 지시했다.",
+      "collocations": ["performance appraisal", "property appraisal", "a critical appraisal"],
+      "note": "praise(칭찬)와 같은 뿌리 pretium(값)에서 나와 본뜻이 '값을 매기다'다. 그래서 부동산 감정과 인사 고과(performance appraisal) 양쪽에 쓰이며, 좋은 점만 말하는 praise와 달리 좋고 나쁨을 함께 따지는 중립적 평가를 뜻한다.",
+      "family": [
+        { "word": "appraise", "pos": "v.", "ko": "평가하다, 감정하다" }
+      ],
+      "related": [
+        { "word": "apprise", "ko": "알리다, 통지하다", "note": "apprise A of B = A에게 B를 알리다 — appraise(평가하다)와 철자 한 글자 차이라 시험 단골이다" }
+      ]
+    }
+  ]
+}

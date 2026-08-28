@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-28",
+  "words": [
+    {
+      "headword": "surveillance",
+      "pos": "n.",
+      "ko": "감시",
+      "example_en": "The city council approved the installation of surveillance cameras in every subway station.",
+      "example_ko": "시의회는 모든 지하철역에 감시 카메라를 설치하는 안을 승인했다.",
+      "collocations": [
+        "surveillance camera",
+        "under surveillance",
+        "mass surveillance"
+      ],
+      "note": "프랑스어에서 온 말로 sur-(위에서) + veiller(지켜보다) — 위에서 내려다보며 지켜보는 것이 감시다. veil-/vigil-(깨어 있다)이라는 같은 뿌리에서 vigil(밤샘 지킴)·vigilant(경계하는)가 나온다.",
+      "related": [
+        {
+          "word": "vigilant",
+          "ko": "경계하는",
+          "note": "뿌리는 같지만 vigilant는 지켜보는 쪽의 '태도', surveillance는 지켜보는 '행위·체계'를 가리킨다"
+        }
+      ]
+    },
+    {
+      "headword": "biometric",
+      "pos": "a.",
+      "ko": "생체 인식의",
+      "example_en": "Airports increasingly rely on biometric screening to verify passengers' identities.",
+      "example_ko": "공항들은 승객의 신원을 확인하기 위해 생체 인식 검사에 점점 더 의존하고 있다.",
+      "collocations": [
+        "biometric data",
+        "biometric screening"
+      ],
+      "note": "bio-(생명) + metric(재는) — 몸(지문·홍채·얼굴)을 '재서' 사람을 가려내는 것. metric이 붙으면 '~을 재는'이 되므로 geometric(땅을 재는 = 기하학의)·symmetric(함께 재어 같은 = 대칭의)도 같은 방식으로 풀린다.",
+      "family": [
+        {
+          "word": "biometrics",
+          "pos": "n.",
+          "ko": "생체 인식 (기술)"
+        }
+      ]
+    },
+    {
+      "headword": "anonymity",
+      "pos": "n.",
+      "ko": "익명성",
+      "example_en": "Several employees spoke to reporters on condition of anonymity.",
+      "example_ko": "몇몇 직원이 익명을 조건으로 기자들에게 이야기했다.",
+      "collocations": [
+        "on condition of anonymity",
+        "preserve anonymity"
+      ],
+      "note": "a-(없음) + onym(이름) — 이름이 없는 상태. onym이 '이름'이라는 것만 잡아 두면 synonym(같은 이름 = 동의어)·antonym(반대 이름 = 반의어)·pseudonym(가짜 이름 = 필명)이 한 묶음으로 정리된다.",
+      "family": [
+        {
+          "word": "anonymous",
+          "pos": "a.",
+          "ko": "익명의"
+        },
+        {
+          "word": "anonymously",
+          "pos": "ad.",
+          "ko": "익명으로"
+        }
+      ]
+    },
+    {
+      "headword": "safeguard",
+      "pos": "n., v.",
+      "ko": "안전장치, 보호 조치; 보호하다",
+      "example_en": "The law includes safeguards against the misuse of personal data.",
+      "example_ko": "그 법에는 개인정보 오용을 막는 안전장치가 들어 있다.",
+      "collocations": [
+        "safeguard against",
+        "adequate safeguards",
+        "safeguard the interests of"
+      ],
+      "note": "'지키다'라는 동사보다 명사 용법('위험을 막아 주는 제도적 장치')이 시험에 훨씬 자주 나온다. 뒤따르는 전치사는 늘 against여서, safeguard against abuse처럼 '무엇을 막는 장치인지'를 뒤에 붙여 쓴다.",
+      "related": [
+        {
+          "word": "safekeeping",
+          "ko": "보관",
+          "note": "safe-로 시작하지만 뜻이 다르다 — '맡아서 잘 보관함'이지 위험을 막는 조치가 아니다"
+        }
+      ]
+    },
+    {
+      "headword": "fallible",
+      "pos": "a.",
+      "ko": "오류를 범할 수 있는",
+      "example_en": "Even the most rigorous review process is fallible.",
+      "example_ko": "아무리 엄격한 검토 절차라도 오류를 범할 수 있다.",
+      "collocations": [
+        "fallible human judgment",
+        "all too fallible"
+      ],
+      "note": "fall-(속이다, 어긋나다) + -ible(할 수 있는) = 틀릴 수 있는. 부정 접두사 in-을 붙인 infallible(절대 틀리지 않는)이 짝을 이루고, false·fault·fail도 모두 같은 뿌리에서 갈라져 나왔다.",
+      "family": [
+        {
+          "word": "infallible",
+          "pos": "a.",
+          "ko": "절대 오류가 없는"
+        },
+        {
+          "word": "fallibility",
+          "pos": "n.",
+          "ko": "오류 가능성"
+        }
+      ]
+    },
+    {
+      "headword": "veneer",
+      "pos": "n.",
+      "ko": "허울, 겉치레 (원뜻: 얇은 무늬목)",
+      "example_en": "Behind a veneer of transparency, the company withheld its most damaging findings.",
+      "example_ko": "투명성이라는 허울 뒤에서 그 회사는 가장 치명적인 조사 결과를 감췄다.",
+      "collocations": [
+        "a veneer of respectability",
+        "beneath the veneer"
+      ],
+      "note": "원래는 가구 표면에 얇게 붙이는 무늬목을 뜻하고, 여기서 '속은 다른데 겉만 그럴듯하게 씌운 것'이라는 비유로 굳었다. 논설문에서 a veneer of + 추상명사(objectivity, legitimacy) 형태가 나오면 뒤에는 반드시 그 겉모습을 벗기는 반박이 이어진다.",
+      "related": [
+        {
+          "word": "facade",
+          "ko": "겉모습, 허울",
+          "note": "거의 같은 비유지만 facade는 건물 '정면'에서 온 말이라 조직·인물이 내세우는 전체 외관에, veneer는 얇게 덧씌운 한 겹에 초점이 있다"
+        }
+      ]
+    },
+    {
+      "headword": "wrongful",
+      "pos": "a.",
+      "ko": "부당한, 위법한",
+      "example_en": "He sued his former employer for wrongful dismissal.",
+      "example_ko": "그는 부당 해고를 이유로 전 고용주를 고소했다.",
+      "collocations": [
+        "wrongful dismissal",
+        "wrongful conviction",
+        "wrongful arrest"
+      ],
+      "note": "wrong + -ful이지만 '잘못이 가득한'이 아니라 법률 용어로 '법적으로 부당한'이라는 좁은 뜻이며, dismissal·conviction·death 같은 법률 명사 앞에 거의 붙박이로 쓰인다.",
+      "related": [
+        {
+          "word": "wrongly",
+          "ko": "부당하게, 잘못",
+          "note": "부사라 동사를 꾸민다 — He was wrongly convicted. 명사 앞에는 wrongful을 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "inference",
+      "pos": "n.",
+      "ko": "추론(해 낸 결론)",
+      "example_en": "The auditors drew an inference of misconduct from the missing receipts.",
+      "example_ko": "감사관들은 사라진 영수증에서 부정행위가 있었다는 추론을 이끌어 냈다.",
+      "collocations": [
+        "draw an inference",
+        "a reasonable inference"
+      ],
+      "note": "in-(안으로) + fer(나르다) — 사실에서 결론을 안으로 끌어오는 것. fer가 보이면 transfer(옮기다)·refer(되돌려 보내다 = 참조하다)·confer(함께 나르다 = 협의하다)가 한 묶음이다.",
+      "family": [
+        {
+          "word": "infer",
+          "pos": "v.",
+          "ko": "추론하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "imply",
+          "ko": "암시하다",
+          "note": "말하는 쪽이 하는 것이 imply, 듣는 쪽이 하는 것이 infer — 방향이 정반대라 시험 단골이다"
+        }
+      ]
+    },
+    {
+      "headword": "statute",
+      "pos": "n.",
+      "ko": "법령, 성문법",
+      "example_en": "The practice is prohibited by statute in most jurisdictions.",
+      "example_ko": "그 관행은 대부분의 관할권에서 법령으로 금지되어 있다.",
+      "collocations": [
+        "by statute",
+        "statute of limitations",
+        "under the statute"
+      ],
+      "note": "의회가 문서로 제정한 법이 statute이고, 판례로 쌓인 법은 common law다. 형용사 statutory(법에 정해진)와 세트로 외우되, 철자가 비슷한 stature(위상)·status(지위)와 뒤섞지 않도록 주의한다.",
+      "family": [
+        {
+          "word": "statutory",
+          "pos": "a.",
+          "ko": "법으로 정해진, 법정의"
+        }
+      ],
+      "related": [
+        {
+          "word": "stature",
+          "ko": "위상, 신장",
+          "note": "한 글자 차이지만 뜻이 전혀 다르다 — a scholar of great stature(대단한 위상의 학자)"
+        }
+      ]
+    },
+    {
+      "headword": "injunction",
+      "pos": "n.",
+      "ko": "(법원의) 금지 명령",
+      "example_en": "A judge issued an injunction barring the agency from deploying the system.",
+      "example_ko": "판사는 그 기관이 시스템을 배치하지 못하도록 금지 명령을 내렸다.",
+      "collocations": [
+        "issue an injunction",
+        "seek an injunction",
+        "a temporary injunction"
+      ],
+      "note": "in-(위에) + junct(잇다, 명하다) — 법원이 '하지 마라'고 걸어 두는 명령. junct는 join과 같은 뿌리라 junction(연결점)·conjunction(접속사)이 함께 나오고, 동사 enjoin은 '명하다'와 '금하다' 두 뜻을 모두 갖는다.",
+      "family": [
+        {
+          "word": "enjoin",
+          "pos": "v.",
+          "ko": "명령하다; (법적으로) 금지하다"
+        }
+      ]
+    },
+    {
+      "headword": "encroach",
+      "pos": "v.",
+      "ko": "잠식하다, 침해하다",
+      "example_en": "Critics argue that the measures encroach on privacy without improving safety.",
+      "example_ko": "비판자들은 그 조치가 안전을 개선하지도 못하면서 사생활을 침해한다고 주장한다.",
+      "collocations": [
+        "encroach on rights",
+        "encroach upon territory"
+      ],
+      "note": "뒤에 반드시 on/upon이 온다. 물리적으로 '조금씩 밀고 들어오다'(바다가 땅을 잠식하다)에서 권리·자유를 '야금야금 침해하다'로 넓어진 말이라, 한 번에 쳐들어가는 invade와 달리 서서히 진행된다는 뉘앙스를 품는다.",
+      "family": [
+        {
+          "word": "encroachment",
+          "pos": "n.",
+          "ko": "침해, 잠식"
+        }
+      ]
+    },
+    {
+      "headword": "consent",
+      "pos": "n., v.",
+      "ko": "동의(하다)",
+      "example_en": "Users must give explicit consent before their data is shared with third parties.",
+      "example_ko": "사용자의 데이터가 제3자와 공유되기 전에 사용자는 명시적으로 동의해야 한다.",
+      "collocations": [
+        "give consent",
+        "informed consent",
+        "consent to a proposal"
+      ],
+      "note": "con-(함께) + sent(느끼다) — 같이 느끼는 것이 동의다. sent/sens(느끼다) 계열로 sentiment(정서)·consensus(합의)·dissent(반대)가 묶이며, 동사로 쓸 때는 consent to + 명사처럼 전치사 to를 반드시 붙인다.",
+      "related": [
+        {
+          "word": "dissent",
+          "ko": "반대하다; 이견",
+          "note": "dis-(떨어져) + sent — consent의 정확한 반대말이다"
+        }
+      ]
+    },
+    {
+      "headword": "solicit",
+      "pos": "v.",
+      "ko": "(의견·기부·입찰을) 요청하다, 모집하다",
+      "example_en": "The commission solicited public comments before finalizing the rule.",
+      "example_ko": "위원회는 규정을 확정하기 전에 시민 의견을 공개적으로 받았다.",
+      "collocations": [
+        "solicit feedback",
+        "solicit donations",
+        "solicit bids"
+      ],
+      "note": "ask보다 공식적인 말이라 공개적으로 의견·기부·입찰을 끌어모을 때 쓴다. 파생형 solicitous는 '요청하는'이 아니라 '염려하는, 신경 써 주는'으로 뜻이 갈라지니 함께 외워 두면 함정을 피한다.",
+      "family": [
+        {
+          "word": "solicitation",
+          "pos": "n.",
+          "ko": "요청, 모집"
+        },
+        {
+          "word": "solicitous",
+          "pos": "a.",
+          "ko": "염려하는, 배려하는 — '요청하는'이 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "liaison",
+      "pos": "n.",
+      "ko": "연락, 협력 관계; 연락 담당자",
+      "example_en": "The project manager acts as the liaison between the research team and the regulator.",
+      "example_ko": "그 프로젝트 관리자는 연구팀과 규제 기관 사이의 연락 담당자 역할을 한다.",
+      "collocations": [
+        "act as a liaison",
+        "liaison between A and B",
+        "close liaison"
+      ],
+      "note": "프랑스어에서 온 말이라 철자와 달리 '리에이존'으로 읽는다. 뿌리는 li-(묶다)로 ally(동맹)·liable(묶여 있는 = 책임 있는)과 한 계열이며, 사람(연락 담당자)과 관계(연락 체계)를 모두 가리킬 수 있다.",
+      "family": [
+        {
+          "word": "liaise",
+          "pos": "v.",
+          "ko": "연락을 취하다, 협력하다"
+        }
+      ]
+    },
+    {
+      "headword": "adept",
+      "pos": "a.",
+      "ko": "능숙한",
+      "example_en": "The firm is adept at turning regulatory changes into a competitive advantage.",
+      "example_ko": "그 회사는 규제 변화를 경쟁 우위로 바꾸는 데 능숙하다.",
+      "collocations": [
+        "adept at ~ing",
+        "highly adept"
+      ],
+      "note": "전치사는 at(때때로 in)이고 뒤에 동명사가 온다 — adept at negotiating. 철자가 닮은 adapt(적응시키다)·adopt(채택하다)와 셋이 함께 출제되니 e=능숙, a=적응, o=채택으로 갈라 외운다.",
+      "related": [
+        {
+          "word": "adopt",
+          "ko": "채택하다, 입양하다",
+          "note": "adept / adapt / adopt 삼총사 — 모음 하나로 뜻이 완전히 갈린다"
+        }
+      ]
+    }
+  ]
+}

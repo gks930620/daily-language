@@ -1485,6 +1485,51 @@
     },
     "adjourn": {
       "added_on": "2026-08-27"
+    },
+    "surveillance": {
+      "added_on": "2026-08-28"
+    },
+    "biometric": {
+      "added_on": "2026-08-28"
+    },
+    "anonymity": {
+      "added_on": "2026-08-28"
+    },
+    "safeguard": {
+      "added_on": "2026-08-28"
+    },
+    "fallible": {
+      "added_on": "2026-08-28"
+    },
+    "veneer": {
+      "added_on": "2026-08-28"
+    },
+    "wrongful": {
+      "added_on": "2026-08-28"
+    },
+    "inference": {
+      "added_on": "2026-08-28"
+    },
+    "statute": {
+      "added_on": "2026-08-28"
+    },
+    "injunction": {
+      "added_on": "2026-08-28"
+    },
+    "encroach": {
+      "added_on": "2026-08-28"
+    },
+    "consent": {
+      "added_on": "2026-08-28"
+    },
+    "solicit": {
+      "added_on": "2026-08-28"
+    },
+    "liaison": {
+      "added_on": "2026-08-28"
+    },
+    "adept": {
+      "added_on": "2026-08-28"
     }
   }
 }
