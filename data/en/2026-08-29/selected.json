@@ -1,0 +1,305 @@
+{
+  "date": "2026-08-29",
+  "words": [
+    {
+      "headword": "buyout",
+      "pos": "n.",
+      "ko": "인수, 기업 매수",
+      "example_en": "The leveraged buyout left the chain with debt it could never service.",
+      "example_ko": "차입 매수는 그 체인에 도저히 감당할 수 없는 부채를 남겼다.",
+      "collocations": [
+        "leveraged buyout",
+        "management buyout"
+      ],
+      "note": "buy out = '(지분을) 사서 밖으로 내보내다' → 기존 주인을 몰아내고 회사를 통째로 사는 것. 철자가 비슷한 bailout(구제금융)은 남의 돈으로 '건져 주는' 것이라 방향이 정반대다.",
+      "related": [
+        {
+          "word": "bailout",
+          "ko": "구제금융",
+          "note": "buyout은 '사서 차지하는' 것, bailout은 '망하는 곳을 돈으로 건지는' 것 — 시사 기사에서 가장 자주 헷갈리는 짝"
+        }
+      ]
+    },
+    {
+      "headword": "takeover",
+      "pos": "n.",
+      "ko": "인수, 경영권 취득",
+      "example_en": "The board rejected the hostile takeover bid as undervaluing the firm.",
+      "example_ko": "이사회는 그 적대적 인수 제안이 회사 가치를 낮게 매겼다며 거부했다.",
+      "collocations": [
+        "hostile takeover",
+        "takeover bid"
+      ],
+      "note": "동사구 take over(넘겨받다)가 명사로 굳은 형태. 동사로 쓸 땐 두 단어(take over), 명사는 붙여 쓴다(takeover) — turnover·layoff도 같은 규칙이라 묶어서 외우면 좋다.",
+      "family": [
+        {
+          "word": "take over",
+          "pos": "v.",
+          "ko": "인계받다, 장악하다 — 동사는 띄어 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "divest",
+      "pos": "v.",
+      "ko": "매각하다, (사업·자산을) 처분하다",
+      "example_en": "The group agreed to divest its unprofitable overseas units within two years.",
+      "example_ko": "그룹은 2년 안에 수익성 없는 해외 사업부를 매각하기로 합의했다.",
+      "collocations": [
+        "divest assets",
+        "divest a unit"
+      ],
+      "note": "di-(떼어 내다) + vest(옷을 입히다) — 입고 있던 것을 '벗기다'가 원뜻이라 '가진 것을 떼어 내다=매각하다'가 된다. invest(안으로 입히다=투자하다)와 정확히 반대 방향.",
+      "family": [
+        {
+          "word": "divestiture",
+          "pos": "n.",
+          "ko": "매각, 사업 처분"
+        },
+        {
+          "word": "invest",
+          "pos": "v.",
+          "ko": "투자하다 — 반대 방향"
+        }
+      ]
+    },
+    {
+      "headword": "overhead",
+      "pos": "n.",
+      "ko": "간접비, 경상 관리비",
+      "example_en": "Moving the back office out of the city cut overhead by nearly a third.",
+      "example_ko": "지원 부서를 도심 밖으로 옮겨 간접비를 거의 3분의 1 줄였다.",
+      "collocations": [
+        "cut overhead",
+        "overhead costs"
+      ],
+      "note": "'머리 위(over + head)'에 늘 얹혀 있는 비용 — 제품 하나하나에 붙지 않고 임대료·관리비처럼 위에서 계속 눌러 오는 고정비를 뜻한다. 부사 overhead(머리 위로)와 형태가 같으니 품사로 구분한다.",
+      "related": [
+        {
+          "word": "overhead",
+          "ko": "머리 위로",
+          "note": "부사로 쓰이면 'a plane flew overhead'처럼 물리적 '머리 위' — 회계 용어인 명사와 뜻이 전혀 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "profitability",
+      "pos": "n.",
+      "ko": "수익성",
+      "example_en": "Rising wage costs have squeezed profitability across the sector.",
+      "example_ko": "임금 비용 상승이 그 부문 전반의 수익성을 압박했다.",
+      "collocations": [
+        "improve profitability",
+        "squeeze profitability"
+      ],
+      "note": "profit(이익) → profitable(이익을 낼 만한) → profitability(이익을 낼 수 있는 성질). -ability는 '실제 이익'이 아니라 '이익을 낼 능력'을 가리키므로, 적자 기업에도 profitability를 논할 수 있다.",
+      "family": [
+        {
+          "word": "profit",
+          "pos": "n.",
+          "ko": "이익, 수익"
+        },
+        {
+          "word": "profitable",
+          "pos": "a.",
+          "ko": "수익성 있는"
+        },
+        {
+          "word": "nonprofit",
+          "pos": "a.",
+          "ko": "비영리의"
+        }
+      ]
+    },
+    {
+      "headword": "valuation",
+      "pos": "n.",
+      "ko": "가치 평가, 평가액",
+      "example_en": "Investors questioned the startup's valuation after revenue growth stalled.",
+      "example_ko": "매출 성장이 멈추자 투자자들은 그 스타트업의 기업가치 평가에 의문을 제기했다.",
+      "collocations": [
+        "market valuation",
+        "inflated valuation"
+      ],
+      "note": "value(가치)에 -ation이 붙어 '값을 매기는 행위와 그 결과'가 된다. evaluation(평가·심사)과 헷갈리기 쉬운데, valuation은 '얼마짜리인가(금액)', evaluation은 '얼마나 좋은가(질)'를 따진다.",
+      "related": [
+        {
+          "word": "evaluation",
+          "ko": "평가, 심사",
+          "note": "valuation은 금액 산정, evaluation은 성과·품질 판단 — 시험에서 자주 갈리는 지점"
+        }
+      ]
+    },
+    {
+      "headword": "covenant",
+      "pos": "n.",
+      "ko": "(계약상의) 약정 조항, 서약",
+      "example_en": "The loan covenant bars the company from taking on additional debt.",
+      "example_ko": "그 대출 약정 조항은 회사가 추가 부채를 지는 것을 금지한다.",
+      "collocations": [
+        "loan covenant",
+        "breach a covenant"
+      ],
+      "note": "co-(함께) + ven(오다) — '함께 온다', 즉 양쪽이 맞춰 합의한 약속. convention(함께 모임=총회·관례)·venue(사람이 오는 곳=장소)와 같은 ven 뿌리로 묶으면 한 번에 외워진다.",
+      "family": [
+        {
+          "word": "convene",
+          "pos": "v.",
+          "ko": "소집하다, 모이다"
+        }
+      ]
+    },
+    {
+      "headword": "distressed",
+      "pos": "a.",
+      "ko": "부실한, 재정난에 빠진; 괴로워하는",
+      "example_en": "The fund specializes in buying distressed assets at a steep discount.",
+      "example_ko": "그 펀드는 부실 자산을 크게 할인된 값에 사들이는 것을 전문으로 한다.",
+      "collocations": [
+        "distressed assets",
+        "financially distressed"
+      ],
+      "note": "일상어로는 '괴로워하는'이지만 경제 기사에서는 거의 항상 '빚에 눌려 정상 운영이 어려운' 상태를 뜻한다. distressed debt·distressed sale처럼 명사 앞에 붙으면 '헐값에 팔 수밖에 없는'이라는 뉘앙스가 따라온다.",
+      "family": [
+        {
+          "word": "distress",
+          "pos": "n.",
+          "ko": "고통; 재정적 곤경"
+        }
+      ]
+    },
+    {
+      "headword": "pare",
+      "pos": "v.",
+      "ko": "깎다, 줄이다",
+      "example_en": "The airline pared back its schedule to the most profitable routes.",
+      "example_ko": "그 항공사는 운항 일정을 가장 수익성 높은 노선으로 줄였다.",
+      "collocations": [
+        "pare back costs",
+        "pare down staff"
+      ],
+      "note": "원래 칼로 껍질을 '얇게 벗기다'라는 뜻(과일 깎는 그 동작)에서 비용·인원을 조금씩 깎는다는 비유로 확장됐다. 발음이 같은 pair(짝)·pear(배)와 철자만 다른 동음이의어 세트.",
+      "related": [
+        {
+          "word": "curtail",
+          "ko": "축소하다",
+          "note": "거의 같은 뜻이지만 curtail은 기간·권리를 '잘라 줄이는' 쪽, pare는 비용·인원을 조금씩 깎는 쪽에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "malpractice",
+      "pos": "n.",
+      "ko": "(의료·직무상) 과실, 부정 행위",
+      "example_en": "The hospital settled a malpractice suit brought by three former patients.",
+      "example_ko": "그 병원은 전 환자 세 명이 제기한 의료 과실 소송을 합의로 마무리했다.",
+      "collocations": [
+        "medical malpractice",
+        "malpractice suit"
+      ],
+      "note": "mal-(나쁜) + practice(직무·업무) — practice가 '연습'이 아니라 '전문직의 업무'라는 뜻으로 쓰인 점이 핵심이다. malnutrition(영양실조)·malfunction(오작동)처럼 mal-은 언제나 '잘못된'.",
+      "family": [
+        {
+          "word": "practitioner",
+          "pos": "n.",
+          "ko": "(의사·변호사 등) 전문직 종사자"
+        }
+      ]
+    },
+    {
+      "headword": "whistleblower",
+      "pos": "n.",
+      "ko": "내부 고발자",
+      "example_en": "A whistleblower alerted regulators to the falsified staffing records.",
+      "example_ko": "한 내부 고발자가 조작된 인력 배치 기록을 규제 당국에 알렸다.",
+      "collocations": [
+        "whistleblower protection",
+        "act as a whistleblower"
+      ],
+      "note": "심판이 반칙을 보고 '호루라기를 부는(blow the whistle)' 장면에서 온 말. 동사형은 blow the whistle on ~(~를 폭로하다)로 쓰며, 전치사 on을 함께 외워야 한다.",
+      "related": [
+        {
+          "word": "blow the whistle on",
+          "ko": "~을 폭로하다",
+          "note": "명사는 한 단어, 동사 표현은 blow the whistle on + 대상"
+        }
+      ]
+    },
+    {
+      "headword": "stakeholder",
+      "pos": "n.",
+      "ko": "이해관계자",
+      "example_en": "Patients, staff and local authorities are all stakeholders in the decision.",
+      "example_ko": "환자와 직원, 지방 당국 모두가 그 결정의 이해관계자다.",
+      "collocations": [
+        "key stakeholders",
+        "stakeholder engagement"
+      ],
+      "note": "여기서 stake는 '지분·걸려 있는 몫' — 돈을 넣은 주주(shareholder)보다 넓어서, 지분이 없어도 결과에 영향을 받는 직원·주민까지 포함한다. 이 둘의 차이가 시사 지문의 단골 논점이다.",
+      "related": [
+        {
+          "word": "shareholder",
+          "ko": "주주",
+          "note": "shareholder는 주식을 가진 사람만, stakeholder는 이해가 걸린 모든 사람 — 범위가 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "offload",
+      "pos": "v.",
+      "ko": "떠넘기다, (짐·자산을) 처분하다",
+      "example_en": "The operator offloaded its riskiest facilities onto a newly created subsidiary.",
+      "example_ko": "그 운영사는 가장 위험한 시설들을 새로 만든 자회사에 떠넘겼다.",
+      "collocations": [
+        "offload risk",
+        "offload assets onto"
+      ],
+      "note": "배에서 짐을 '내리다(off + load)'가 본뜻이고, 비유로 손실·책임을 남에게 내려놓는다는 뜻이 된다. '~에게 떠넘기다'는 offload A onto B — 전치사 onto가 짝이다.",
+      "related": [
+        {
+          "word": "unload",
+          "ko": "짐을 내리다",
+          "note": "물리적 하역은 unload가 기본, 손실·책임을 떠넘기는 비유는 offload가 자연스럽다"
+        }
+      ]
+    },
+    {
+      "headword": "skimp",
+      "pos": "v.",
+      "ko": "인색하게 쓰다, 아끼다",
+      "example_en": "Managers were accused of skimping on staff training to hit quarterly targets.",
+      "example_ko": "관리자들은 분기 목표를 맞추려고 직원 교육에 돈을 아꼈다는 비난을 받았다.",
+      "collocations": [
+        "skimp on quality",
+        "skimp on maintenance"
+      ],
+      "note": "'써야 할 곳에 덜 쓴다'는 부정적 뉘앙스라 항상 skimp on + 아낀 대상의 형태로 쓴다. 형용사 skimpy(부실한, 빈약한)까지 함께 외워 두면 독해에서 바로 걸린다.",
+      "family": [
+        {
+          "word": "skimpy",
+          "pos": "a.",
+          "ko": "빈약한, 부실한"
+        }
+      ]
+    },
+    {
+      "headword": "notorious",
+      "pos": "a.",
+      "ko": "악명 높은",
+      "example_en": "The industry is notorious for burying costs in complex contracts.",
+      "example_ko": "그 업계는 복잡한 계약서에 비용을 숨기는 것으로 악명이 높다.",
+      "collocations": [
+        "notorious for",
+        "a notorious case"
+      ],
+      "note": "note(알려지다) 계열로 '널리 알려진'이 뿌리인데, 나쁜 일로 알려졌을 때만 쓴다 — famous의 부정판. 전치사는 for(원인)이고 사람에게는 notorious as ~(~로 악명 높은)도 가능하다.",
+      "family": [
+        {
+          "word": "notoriety",
+          "pos": "n.",
+          "ko": "악명"
+        }
+      ]
+    }
+  ]
+}

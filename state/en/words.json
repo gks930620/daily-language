@@ -1530,6 +1530,51 @@
     },
     "adept": {
       "added_on": "2026-08-28"
+    },
+    "buyout": {
+      "added_on": "2026-08-29"
+    },
+    "takeover": {
+      "added_on": "2026-08-29"
+    },
+    "divest": {
+      "added_on": "2026-08-29"
+    },
+    "overhead": {
+      "added_on": "2026-08-29"
+    },
+    "profitability": {
+      "added_on": "2026-08-29"
+    },
+    "valuation": {
+      "added_on": "2026-08-29"
+    },
+    "covenant": {
+      "added_on": "2026-08-29"
+    },
+    "distressed": {
+      "added_on": "2026-08-29"
+    },
+    "pare": {
+      "added_on": "2026-08-29"
+    },
+    "malpractice": {
+      "added_on": "2026-08-29"
+    },
+    "whistleblower": {
+      "added_on": "2026-08-29"
+    },
+    "stakeholder": {
+      "added_on": "2026-08-29"
+    },
+    "offload": {
+      "added_on": "2026-08-29"
+    },
+    "skimp": {
+      "added_on": "2026-08-29"
+    },
+    "notorious": {
+      "added_on": "2026-08-29"
     }
   }
 }
