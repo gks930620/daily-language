@@ -1575,6 +1575,51 @@
     },
     "notorious": {
       "added_on": "2026-08-29"
+    },
+    "bail": {
+      "added_on": "2026-08-30"
+    },
+    "defendant": {
+      "added_on": "2026-08-30"
+    },
+    "indigent": {
+      "added_on": "2026-08-30"
+    },
+    "recidivism": {
+      "added_on": "2026-08-30"
+    },
+    "incarceration": {
+      "added_on": "2026-08-30"
+    },
+    "remand": {
+      "added_on": "2026-08-30"
+    },
+    "magistrate": {
+      "added_on": "2026-08-30"
+    },
+    "plea": {
+      "added_on": "2026-08-30"
+    },
+    "acquit": {
+      "added_on": "2026-08-30"
+    },
+    "probation": {
+      "added_on": "2026-08-30"
+    },
+    "docket": {
+      "added_on": "2026-08-30"
+    },
+    "outcry": {
+      "added_on": "2026-08-30"
+    },
+    "tenuous": {
+      "added_on": "2026-08-30"
+    },
+    "hinge": {
+      "added_on": "2026-08-30"
+    },
+    "vet": {
+      "added_on": "2026-08-30"
     }
   }
 }

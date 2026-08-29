@@ -1,0 +1,328 @@
+{
+  "date": "2026-08-30",
+  "words": [
+    {
+      "headword": "bail",
+      "pos": "n.",
+      "ko": "보석금, 보석",
+      "example_en": "The judge set bail at fifty thousand dollars, an amount the defendant could not possibly post.",
+      "example_ko": "판사는 보석금을 5만 달러로 정했는데, 피고인이 도저히 낼 수 없는 액수였다.",
+      "collocations": [
+        "set bail",
+        "post bail",
+        "out on bail"
+      ],
+      "note": "뉴스에서 bail은 '보석(금)', bailout은 '구제금융'으로 뜻이 전혀 다르다. 원래 bail은 '가라앉는 배에서 물을 퍼내다'라는 뜻이라 '건져 낸다'는 이미지가 양쪽에 공통으로 깔려 있다고 보면 외우기 쉽다.",
+      "related": [
+        {
+          "word": "bailout",
+          "ko": "구제금융",
+          "note": "bail out(퍼내어 구하다)에서 온 명사 — 사람을 풀어 주는 bail과 달리 기업·국가를 돈으로 살리는 것"
+        }
+      ]
+    },
+    {
+      "headword": "defendant",
+      "pos": "n.",
+      "ko": "피고인, 피고",
+      "example_en": "The defendant pleaded not guilty to all three charges.",
+      "example_ko": "피고인은 세 가지 혐의 모두에 대해 무죄를 주장했다.",
+      "collocations": [
+        "the defendant pleaded guilty",
+        "represent the defendant"
+      ],
+      "note": "defend(방어하다)+-ant(사람) — 법정에서 '방어하는 쪽'이 피고다. 공격하는 쪽은 민사에서 plaintiff(원고), 형사에서 prosecutor(검사)라는 짝으로 함께 외우면 기사 읽기가 편해진다.",
+      "family": [
+        {
+          "word": "defend",
+          "pos": "v.",
+          "ko": "방어하다; 변호하다"
+        },
+        {
+          "word": "defense",
+          "pos": "n.",
+          "ko": "방어; 피고 측, 변호인단"
+        },
+        {
+          "word": "defensible",
+          "pos": "a.",
+          "ko": "옹호할 수 있는"
+        }
+      ],
+      "related": [
+        {
+          "word": "plaintiff",
+          "ko": "원고",
+          "note": "민사에서 소송을 거는 쪽 — defendant와 늘 짝으로 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "indigent",
+      "pos": "a.",
+      "ko": "빈곤한, (법률) 무자력의",
+      "example_en": "Indigent defendants are entitled to a lawyer at public expense.",
+      "example_ko": "무자력 피고인은 국선 변호인을 선임받을 권리가 있다.",
+      "collocations": [
+        "indigent defendants",
+        "the indigent"
+      ],
+      "note": "in-(안)+eg-(부족하다) — 속이 비어 있다는 뜻. 철자가 비슷한 indigenous(토착의)·indignant(분개한)와는 뿌리부터 다른 단어이니 셋을 나란히 놓고 구별해 두어야 한다.",
+      "related": [
+        {
+          "word": "indigenous",
+          "ko": "토착의, 원주민의",
+          "note": "indi-가 '안에서 태어난'이라는 뜻 — 가난과 무관"
+        },
+        {
+          "word": "indignant",
+          "ko": "분개한",
+          "note": "dign-(가치) 계열 — '무가치하게 취급당해 화난'"
+        }
+      ]
+    },
+    {
+      "headword": "recidivism",
+      "pos": "n.",
+      "ko": "재범, 재범률",
+      "example_en": "The program cut recidivism among young offenders by nearly a third.",
+      "example_ko": "그 프로그램은 청년 범죄자의 재범률을 3분의 1 가까이 낮췄다.",
+      "collocations": [
+        "reduce recidivism",
+        "the recidivism rate"
+      ],
+      "note": "re-(다시)+cid-(떨어지다) — 범죄로 '다시 떨어짐'. incident·accident·coincide가 모두 같은 뿌리(cad/cid=떨어지다)라, '떨어지다'만 기억하면 한 묶음으로 풀린다.",
+      "family": [
+        {
+          "word": "recidivist",
+          "pos": "n.",
+          "ko": "상습범, 재범자"
+        }
+      ]
+    },
+    {
+      "headword": "incarceration",
+      "pos": "n.",
+      "ko": "수감, 투옥",
+      "example_en": "Long incarceration for minor drug offenses has come under growing scrutiny.",
+      "example_ko": "경미한 마약 범죄에 대한 장기 수감이 갈수록 큰 비판을 받고 있다.",
+      "collocations": [
+        "mass incarceration",
+        "pretrial incarceration"
+      ],
+      "note": "라틴어 carcer(감옥)에서 온 격식체 단어라 논설·논문에서 imprisonment 자리에 자주 들어간다. 미국 사회 기사의 고정 표현 mass incarceration(대량 수감)으로 통째로 외워 두면 좋다.",
+      "family": [
+        {
+          "word": "incarcerate",
+          "pos": "v.",
+          "ko": "수감하다, 투옥하다"
+        }
+      ]
+    },
+    {
+      "headword": "remand",
+      "pos": "v.",
+      "ko": "구금 상태로 돌려보내다; (상급심이) 사건을 하급심으로 돌려보내다",
+      "example_en": "The suspect was remanded in custody until the next hearing.",
+      "example_ko": "피의자는 다음 심리 때까지 구금 상태로 남게 되었다.",
+      "collocations": [
+        "remanded in custody",
+        "remand the case to a lower court"
+      ],
+      "note": "re-(뒤로)+mand(맡기다·명령하다) — '되돌려 맡기다'. command·mandate·demand와 한 뿌리이며, 법정 기사에서는 사람을 돌려보내면 '구금', 사건을 돌려보내면 '파기환송'으로 뜻이 갈린다.",
+      "related": [
+        {
+          "word": "mandate",
+          "ko": "명령, 권한 위임",
+          "note": "같은 mand- 뿌리 — '손에 맡기다'가 원뜻"
+        }
+      ]
+    },
+    {
+      "headword": "magistrate",
+      "pos": "n.",
+      "ko": "치안판사(경범죄·영장·보석을 다루는 하급 판사)",
+      "example_en": "A magistrate must review every arrest within twenty-four hours.",
+      "example_ko": "치안판사는 모든 체포를 24시간 이내에 심사해야 한다.",
+      "collocations": [
+        "appear before a magistrate",
+        "a magistrates' court"
+      ],
+      "note": "mag-(크다)에서 온 말로 major·mayor·master와 한 뿌리 — '윗사람'이 원뜻이다. judge 전반이 아니라 하급 법원의 판사를 가리키므로 기사에서 사건의 단계를 알려 주는 단서가 된다.",
+      "family": [
+        {
+          "word": "magistracy",
+          "pos": "n.",
+          "ko": "치안판사직, 사법관 제도"
+        }
+      ]
+    },
+    {
+      "headword": "plea",
+      "pos": "n.",
+      "ko": "(법정에서의) 답변, 유·무죄 인정; 간청",
+      "example_en": "He entered a guilty plea in exchange for a lighter sentence.",
+      "example_ko": "그는 형량을 낮추는 대가로 유죄를 인정했다.",
+      "collocations": [
+        "enter a plea",
+        "plea bargain",
+        "a plea for help"
+      ],
+      "note": "please와 같은 뿌리(만족시키다→간청하다)라 '간청'과 '법정 답변'이라는 멀어 보이는 두 뜻을 함께 갖는다. 미국 뉴스의 plea bargain은 '유죄를 인정하고 형량을 깎는 협상'이다.",
+      "family": [
+        {
+          "word": "plead",
+          "pos": "v.",
+          "ko": "(유·무죄를) 답변하다; 간청하다"
+        },
+        {
+          "word": "pleading",
+          "pos": "n.",
+          "ko": "소송 서면; 애원"
+        }
+      ]
+    },
+    {
+      "headword": "acquit",
+      "pos": "v.",
+      "ko": "무죄를 선고하다, 방면하다",
+      "example_en": "The jury acquitted her on all counts after six hours of deliberation.",
+      "example_ko": "배심원단은 여섯 시간의 평의 끝에 그를 전 항목 무죄로 평결했다.",
+      "collocations": [
+        "acquit on all charges",
+        "be acquitted of murder"
+      ],
+      "note": "ac-(~에서)+quit(풀어 주다) — 혐의에서 풀어 준다는 뜻이라 quit과 같은 뿌리다. 반대말 convict(유죄를 선고하다)와 짝으로 외우고, 명사형이 acquittal/conviction으로 갈리는 것까지 함께 익혀 두자.",
+      "family": [
+        {
+          "word": "acquittal",
+          "pos": "n.",
+          "ko": "무죄 판결"
+        }
+      ],
+      "related": [
+        {
+          "word": "convict",
+          "ko": "유죄를 선고하다; 기결수",
+          "note": "acquit의 반대 — 명사로는 '복역 중인 죄수'라는 뜻도 된다"
+        }
+      ]
+    },
+    {
+      "headword": "probation",
+      "pos": "n.",
+      "ko": "집행유예, 보호관찰; 수습 기간",
+      "example_en": "She was sentenced to two years' probation instead of prison.",
+      "example_ko": "그는 실형 대신 2년의 집행유예를 선고받았다.",
+      "collocations": [
+        "on probation",
+        "a probation officer"
+      ],
+      "note": "prob-(시험하다·증명하다)에서 온 '시험 기간'이 원뜻이라, 법정에서는 집행유예, 회사에서는 신입의 수습 기간이 된다. probe(조사하다)·prove·approve가 같은 뿌리다.",
+      "related": [
+        {
+          "word": "parole",
+          "ko": "가석방",
+          "note": "probation은 애초에 가두지 않는 것, parole은 복역 중 조건부로 내보내는 것 — 이 차이가 시험·기사에서 자주 갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "docket",
+      "pos": "n.",
+      "ko": "(법원의) 사건 목록, 재판 일정; 처리할 안건 목록",
+      "example_en": "The court's docket is so crowded that trials are scheduled a year out.",
+      "example_ko": "그 법원의 재판 일정이 너무 밀려서 공판이 1년 뒤로 잡힌다.",
+      "collocations": [
+        "a crowded docket",
+        "on the docket"
+      ],
+      "note": "미국 법률·의회 기사에서 '밀린 일감'의 상징으로 쓰인다 — on the docket이면 '처리 예정인'. 영국 영어에서는 물품 인수증·전표를 뜻하기도 하니 문맥으로 갈라 읽어야 한다.",
+      "related": [
+        {
+          "word": "caseload",
+          "ko": "처리해야 할 사건 수, 업무량",
+          "note": "docket이 '목록'이라면 caseload는 그 목록이 만들어 내는 '부담의 양'"
+        }
+      ]
+    },
+    {
+      "headword": "outcry",
+      "pos": "n.",
+      "ko": "거센 항의, 반발",
+      "example_en": "The fare increase provoked a public outcry, and the plan was withdrawn within a week.",
+      "example_ko": "요금 인상은 거센 여론의 항의를 불러왔고, 그 계획은 일주일 만에 철회되었다.",
+      "collocations": [
+        "public outcry",
+        "spark an outcry"
+      ],
+      "note": "out(밖으로)+cry(외치다) — 눌려 있던 여론이 밖으로 터져 나온 것. 기사에서는 거의 언제나 public outcry나 spark/provoke an outcry 형태로 굳어져 나온다.",
+      "related": [
+        {
+          "word": "backlash",
+          "ko": "역풍, 반발",
+          "note": "outcry는 터져 나온 '항의의 목소리', backlash는 그 뒤에 실제로 돌아오는 '반작용'"
+        }
+      ]
+    },
+    {
+      "headword": "tenuous",
+      "pos": "a.",
+      "ko": "(근거·연결이) 빈약한, 미약한",
+      "example_en": "The link between the two events is tenuous at best.",
+      "example_ko": "두 사건 사이의 연관성은 잘 봐줘야 빈약한 수준이다.",
+      "collocations": [
+        "a tenuous link",
+        "a tenuous grip",
+        "tenuous evidence"
+      ],
+      "note": "ten-(가늘게 늘이다)에서 와 '실처럼 가늘다'가 원뜻이고, 여기서 '근거가 얄팍하다'는 뜻이 나왔다. 소리가 비슷한 tenacious(집요한)는 '붙잡다'는 다른 뿌리이니 혼동하지 말 것.",
+      "related": [
+        {
+          "word": "tenacious",
+          "ko": "집요한, 끈질긴",
+          "note": "tenuous(가늘다)와 달리 ten-(붙잡다) 계열 — 뜻이 오히려 정반대에 가깝다"
+        }
+      ]
+    },
+    {
+      "headword": "hinge",
+      "pos": "v.",
+      "ko": "(~에) 달려 있다 (hinge on)",
+      "example_en": "The deal hinges on whether the regulator approves the merger.",
+      "example_ko": "그 거래의 성사는 규제 당국이 합병을 승인하느냐에 달려 있다.",
+      "collocations": [
+        "hinge on the outcome",
+        "everything hinges on"
+      ],
+      "note": "명사로는 '경첩'이다 — 문 전체가 경첩 하나에 매달려 돌아가듯 '전부가 그것 하나에 달려 있다'는 뜻이 나왔다. depend on보다 '그것이 결정적'이라는 어감이 훨씬 강하다.",
+      "related": [
+        {
+          "word": "contingent",
+          "ko": "~에 달려 있는, 조건부의",
+          "note": "be contingent on도 같은 뜻이지만 계약서 같은 격식 문서에 더 잘 어울린다"
+        }
+      ]
+    },
+    {
+      "headword": "vet",
+      "pos": "v.",
+      "ko": "(사람·자료를) 사전 심사하다, 검증하다",
+      "example_en": "All applicants are carefully vetted before they are offered a contract.",
+      "example_ko": "모든 지원자는 계약을 제안받기 전에 꼼꼼히 신원 검증을 거친다.",
+      "collocations": [
+        "vet candidates",
+        "thoroughly vetted",
+        "the vetting process"
+      ],
+      "note": "veterinarian(수의사)에서 온 말로, 경주마를 출전 전에 수의사가 검사하던 데서 '미리 걸러 본다'는 뜻이 되었다. 활용할 때 자음을 겹쳐 vetted/vetting으로 쓰는 점에 주의.",
+      "family": [
+        {
+          "word": "vetting",
+          "pos": "n.",
+          "ko": "사전 심사, 신원 조회"
+        }
+      ]
+    }
+  ]
+}
