@@ -1620,6 +1620,51 @@
     },
     "vet": {
       "added_on": "2026-08-30"
+    },
+    "collision": {
+      "added_on": "2026-08-31"
+    },
+    "maneuver": {
+      "added_on": "2026-08-31"
+    },
+    "decommission": {
+      "added_on": "2026-08-31"
+    },
+    "constellation": {
+      "added_on": "2026-08-31"
+    },
+    "trajectory": {
+      "added_on": "2026-08-31"
+    },
+    "fragment": {
+      "added_on": "2026-08-31"
+    },
+    "remnant": {
+      "added_on": "2026-08-31"
+    },
+    "avert": {
+      "added_on": "2026-08-31"
+    },
+    "onus": {
+      "added_on": "2026-08-31"
+    },
+    "abide": {
+      "added_on": "2026-08-31"
+    },
+    "spiral": {
+      "added_on": "2026-08-31"
+    },
+    "voluntary": {
+      "added_on": "2026-08-31"
+    },
+    "staggering": {
+      "added_on": "2026-08-31"
+    },
+    "forge": {
+      "added_on": "2026-08-31"
+    },
+    "unveil": {
+      "added_on": "2026-08-31"
     }
   }
 }

@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-08-31",
+  "passage_note": "우주·규제 — 저궤도 위성 급증과 우주 쓰레기, 지키지 않아도 되는 규칙(논설)",
+  "sentences": [
+    {
+      "en": "Low Earth orbit, once imagined as an inexhaustible expanse, now resembles a crowded highway on which nobody is required to signal.",
+      "ko": "지구 저궤도는 한때 무진장한 광활한 공간으로 여겨졌지만, 이제는 아무도 신호를 보낼 의무가 없는 붐비는 고속도로에 가깝다.",
+      "structure": "· once imagined as ~ : (being이 생략된) 과거분사구가 주어 Low Earth orbit을 뒤에서 수식 — '한때 ~로 여겨지던'.\n· resemble은 타동사라 전치사 없이 바로 목적어를 취한다(resemble with ✗).\n· on which nobody is required to signal : 「전치사+관계대명사」절이 선행사 a crowded highway를 수식(= a highway on it).\n· be required to V : '~해야 한다'는 의무 — 부정어 nobody와 합쳐 '아무도 ~할 필요가 없다'가 된다.",
+      "vocab_notes": [
+        { "word": "Low Earth orbit", "ko": "지구 저궤도" },
+        { "word": "orbit", "ko": "궤도" },
+        { "word": "once", "ko": "한때" },
+        { "word": "imagine A as B", "ko": "A를 B로 여기다, 상상하다" },
+        { "word": "inexhaustible", "ko": "무진장한, 고갈되지 않는" },
+        { "word": "expanse", "ko": "광활한 공간, 펼쳐진 영역" },
+        { "word": "resemble", "ko": "~와 닮다" },
+        { "word": "crowded", "ko": "붐비는" },
+        { "word": "be required to", "ko": "~해야 한다" },
+        { "word": "signal", "ko": "신호를 보내다, (차선 변경) 방향지시등을 켜다" }
+      ]
+    },
+    {
+      "en": "Commercial constellations numbering in the thousands have been lofted into a band of space already littered with the remnants of spent rockets and satellites that were never decommissioned.",
+      "ko": "수천 기 규모에 이르는 상업용 위성 군집이, 다 쓴 로켓과 끝내 퇴역 처리되지 않은 위성의 잔해가 이미 널려 있는 우주의 한 구간으로 쏘아 올려졌다.",
+      "structure": "· numbering in the thousands : 현재분사구가 주어 Commercial constellations를 뒤에서 수식(number는 여기서 '수가 ~에 이르다'라는 자동사).\n· have been lofted : 현재완료 수동태 — 지금까지 계속 쏘아 올려져 온 결과를 말한다.\n· already littered with ~ : 과거분사구가 a band of space를 수식.\n· that were never decommissioned : 관계대명사절의 선행사는 바로 앞의 satellites이지 rockets and satellites 전체가 아니다.",
+      "vocab_notes": [
+        { "word": "commercial", "ko": "상업용의" },
+        { "word": "constellation", "ko": "(위성) 군집; 별자리" },
+        { "word": "number", "ko": "수가 ~에 이르다" },
+        { "word": "in the thousands", "ko": "수천 규모의" },
+        { "word": "loft", "ko": "높이 쏘아 올리다" },
+        { "word": "a band of space", "ko": "우주의 한 구간(띠)" },
+        { "word": "be littered with", "ko": "~로 어지럽게 널려 있다" },
+        { "word": "remnant", "ko": "잔해, 남은 조각" },
+        { "word": "spent", "ko": "다 쓴, 연료가 소진된" },
+        { "word": "satellite", "ko": "위성" },
+        { "word": "decommission", "ko": "운용을 끝내다, 퇴역시키다" }
+      ]
+    },
+    {
+      "en": "Because a fragment the size of a bolt travels fast enough to disable a spacecraft on impact, operators now perform collision-avoidance maneuvers dozens of times a year, each one burning fuel that shortens a satellite's working life.",
+      "ko": "볼트만 한 파편도 충돌 시 우주선을 무력화할 만큼 빠르게 날아가기 때문에, 운용사들은 이제 한 해에 수십 번씩 충돌 회피 기동을 수행하며, 그때마다 위성의 수명을 깎아 먹는 연료를 태운다.",
+      "structure": "· Because ~ : 이유를 나타내는 부사절. 주절은 operators now perform ~ 이다.\n· the size of a bolt : 명사구가 형용사처럼 앞의 a fragment를 뒤에서 수식(= of the size of a bolt에서 of가 생략된 형태).\n· fast enough to V : 「형용사·부사 + enough + to부정사」 = '~할 만큼 충분히 …하게'. enough는 수식하는 말 뒤에 온다.\n· each one burning fuel ~ : 의미상 주어(each one)를 밝힌 독립분사구문 — '그때마다 ~를 태우면서'.\n· that shortens a satellite's working life : 주격 관계대명사절로 선행사는 fuel.",
+      "vocab_notes": [
+        { "word": "fragment", "ko": "파편, 조각" },
+        { "word": "the size of ~", "ko": "~만 한 크기의" },
+        { "word": "bolt", "ko": "볼트, 나사" },
+        { "word": "travel", "ko": "(빠르게) 이동하다, 날아가다" },
+        { "word": "disable", "ko": "무력화하다, 못 쓰게 만들다" },
+        { "word": "spacecraft", "ko": "우주선" },
+        { "word": "on impact", "ko": "충돌하는 순간에" },
+        { "word": "operator", "ko": "운용사, 운영 주체" },
+        { "word": "collision", "ko": "충돌" },
+        { "word": "avoidance", "ko": "회피" },
+        { "word": "maneuver", "ko": "(궤도) 기동, 조정" },
+        { "word": "dozens of times", "ko": "수십 번" },
+        { "word": "burn fuel", "ko": "연료를 태우다, 소모하다" },
+        { "word": "shorten", "ko": "단축하다, 깎아 먹다" },
+        { "word": "working life", "ko": "(장비의) 수명, 가동 기간" }
+      ]
+    },
+    {
+      "en": "What alarms researchers is not any single accident but the possibility that one collision could generate debris that triggers another, setting off a spiral of fragmentation that would render whole orbital bands unusable for generations.",
+      "ko": "연구자들을 불안하게 하는 것은 어느 한 건의 사고가 아니라, 한 번의 충돌이 또 다른 충돌을 촉발하는 잔해를 만들어 내어, 궤도 구간 전체를 여러 세대 동안 쓸 수 없게 만드는 파편화의 악순환에 불을 붙일 가능성이다.",
+      "structure": "· What alarms researchers : 관계대명사 what이 이끄는 명사절이 문장의 주어 — '연구자를 불안하게 하는 것은'.\n· not A but B : 'A가 아니라 B' — A는 any single accident, B는 the possibility ~ 이다.\n· the possibility that ~ : 동격의 that절(뒤 문장이 완전하므로 관계대명사가 아니다).\n· setting off ~ : 결과를 나타내는 분사구문 — '그리하여 ~에 불을 붙인다'.\n· render + 목적어 + 형용사 : 5형식으로 '~을 …한 상태로 만들다'(render bands unusable).",
+      "vocab_notes": [
+        { "word": "alarm", "ko": "불안하게 하다, 경악시키다" },
+        { "word": "single", "ko": "단 하나의" },
+        { "word": "possibility", "ko": "가능성" },
+        { "word": "generate", "ko": "만들어 내다, 발생시키다" },
+        { "word": "debris", "ko": "잔해, 파편" },
+        { "word": "trigger", "ko": "촉발하다" },
+        { "word": "another", "ko": "또 다른 것(여기서는 또 다른 충돌)" },
+        { "word": "set off", "ko": "촉발하다, 불을 붙이다" },
+        { "word": "spiral", "ko": "걷잡을 수 없는 악순환" },
+        { "word": "fragmentation", "ko": "파편화, 산산조각 남" },
+        { "word": "render", "ko": "(어떤 상태로) 만들다" },
+        { "word": "orbital band", "ko": "궤도 구간" },
+        { "word": "unusable", "ko": "사용할 수 없는" },
+        { "word": "for generations", "ko": "여러 세대 동안" }
+      ]
+    },
+    {
+      "en": "Existing guidelines ask operators to deorbit their hardware within twenty-five years, but compliance is voluntary, and until some body has both the authority to amend those rules and the means to enforce them, the onus for averting a catastrophe will keep falling on the companies that profit from crowding the sky.",
+      "ko": "현행 지침은 운용사에 25년 안에 장비를 궤도에서 내리도록 요구하지만 그 준수는 자발적인 것이며, 어떤 기구가 그 규칙을 개정할 권한과 그것을 집행할 수단을 모두 갖기 전까지, 대재앙을 막을 책임은 하늘을 붐비게 해서 이익을 얻는 바로 그 기업들에 계속 지워질 것이다.",
+      "structure": "· ask + 목적어 + to V : 5형식으로 '~에게 …하도록 요구하다'.\n· until some body has ~ : 시간·조건의 부사절에서는 미래의 일도 현재시제로 쓴다(has ✓, will have ✗).\n· both A and B : A와 B를 대등하게 묶는다 — the authority to amend와 the means to enforce가 짝이며, 각 to부정사가 앞 명사를 수식한다.\n· keep V-ing : 계속 ~하다(fall on : ~에게 (책임이) 지워지다).\n· profit from crowding : from은 전치사이므로 뒤에 동명사가 온다.",
+      "vocab_notes": [
+        { "word": "existing", "ko": "현행의, 기존의" },
+        { "word": "guideline", "ko": "지침" },
+        { "word": "ask A to B", "ko": "A에게 B하도록 요구하다" },
+        { "word": "deorbit", "ko": "궤도에서 내리다, 대기권으로 재진입시키다" },
+        { "word": "hardware", "ko": "(기계) 장비" },
+        { "word": "compliance", "ko": "(규정) 준수" },
+        { "word": "voluntary", "ko": "자발적인, 강제성이 없는" },
+        { "word": "body", "ko": "기구, 단체" },
+        { "word": "authority", "ko": "권한" },
+        { "word": "amend", "ko": "개정하다, 수정하다" },
+        { "word": "means", "ko": "수단" },
+        { "word": "enforce", "ko": "집행하다, 강제하다" },
+        { "word": "onus", "ko": "책임, 부담" },
+        { "word": "avert", "ko": "막다, 모면하다" },
+        { "word": "catastrophe", "ko": "대재앙" },
+        { "word": "fall on", "ko": "(책임이) ~에게 지워지다" },
+        { "word": "profit from", "ko": "~로 이익을 얻다" },
+        { "word": "crowd", "ko": "붐비게 하다, 가득 채우다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "collision",
+      "pos": "n.",
+      "ko": "충돌",
+      "example_en": "Two airlines were fined after a near collision on the runway.",
+      "example_ko": "두 항공사는 활주로에서의 충돌 직전 상황 이후 벌금을 물었다.",
+      "collocations": ["a head-on collision", "on a collision course"],
+      "note": "col-(=com 함께) + lide(부딪치다) → '함께 부딪침'. 동사는 collide이고 '~와 충돌하다'는 반드시 collide with. on a collision course(충돌 경로에 있는)는 사람·집단의 정면 대립을 가리키는 비유로 뉴스에 자주 나온다.",
+      "family": [
+        { "word": "collide", "pos": "v.", "ko": "충돌하다 (collide with ~)" }
+      ]
+    },
+    {
+      "headword": "maneuver",
+      "pos": "n.",
+      "ko": "기동, 조작; 술책 (동사: 조종하다)",
+      "example_en": "The pilot performed a sharp maneuver to avoid the incoming drone.",
+      "example_ko": "조종사는 접근하는 드론을 피하려고 급격한 기동을 했다.",
+      "collocations": ["perform a maneuver", "room to maneuver"],
+      "note": "manu(손) + oeuvre(작업) → '손으로 다루는 일'. manual(수동의)·manufacture(손으로 만들다=제조하다)와 같은 뿌리다. 물리적 '기동'과 비유적 '술책' 두 뜻을 다 쓰며, room to maneuver는 '운신의 폭'이라는 뜻의 시사 표현이다. 영국식 철자는 manoeuvre.",
+      "family": [
+        { "word": "manual", "pos": "a.", "ko": "손으로 하는, 수동의" },
+        { "word": "manufacture", "pos": "v.", "ko": "제조하다" }
+      ]
+    },
+    {
+      "headword": "decommission",
+      "pos": "v.",
+      "ko": "퇴역시키다, 운용을 끝내다",
+      "example_en": "The utility plans to decommission its oldest coal plant by 2030.",
+      "example_ko": "그 전력회사는 2030년까지 가장 오래된 석탄 발전소의 운용을 끝낼 계획이다.",
+      "collocations": ["decommission a plant", "decommission a vessel"],
+      "note": "de-(제거) + commission(임무를 맡기다) → '맡긴 임무에서 내리다'. commission이 '의뢰하다·임관시키다'라는 뜻이니 정확히 그 반대다. 발전소·군함·위성처럼 정식 절차를 밟아 퇴역시키는 대상에 쓴다.",
+      "related": [
+        { "word": "dismantle", "ko": "해체하다", "note": "decommission은 '운용 종료'라는 지위 변경이고, dismantle은 실제로 뜯어서 해체하는 물리적 작업이다" }
+      ]
+    },
+    {
+      "headword": "constellation",
+      "pos": "n.",
+      "ko": "(위성) 군집; 별자리",
+      "example_en": "The company operates a constellation of more than four thousand satellites.",
+      "example_ko": "그 회사는 4천 기가 넘는 위성 군집을 운용한다.",
+      "collocations": ["a satellite constellation", "a constellation of factors"],
+      "note": "con-(함께) + stella(별) → 별들이 함께 모인 것. 최근 기사에서는 '별자리'보다 satellite constellation(위성 군집)이라는 뜻으로 훨씬 자주 쓰이고, a constellation of ~ 는 '여러 요인의 집합'이라는 비유로도 쓴다.",
+      "family": [
+        { "word": "stellar", "pos": "a.", "ko": "별의; 아주 뛰어난 — stellar performance(빼어난 실적)" }
+      ]
+    },
+    {
+      "headword": "trajectory",
+      "pos": "n.",
+      "ko": "궤적; (변화의) 추이",
+      "example_en": "Analysts say the company's growth trajectory has flattened since last year.",
+      "example_ko": "분석가들은 그 회사의 성장 추이가 작년 이후 평평해졌다고 말한다.",
+      "collocations": ["a growth trajectory", "on an upward trajectory"],
+      "note": "tra(=trans 가로질러) + ject(던지다) → 던져진 물체가 그리는 선. project(앞으로 던지다=계획·투영), inject(안으로=주입), eject(밖으로=배출)와 뿌리가 같다. 시사 영어에서는 물체보다 경력·물가·성장의 '추이'라는 비유로 더 자주 나온다.",
+      "family": [
+        { "word": "project", "pos": "v.", "ko": "예상하다, 투영하다" },
+        { "word": "inject", "pos": "v.", "ko": "주입하다" },
+        { "word": "eject", "pos": "v.", "ko": "배출하다, 내쫓다" }
+      ]
+    },
+    {
+      "headword": "fragment",
+      "pos": "n.",
+      "ko": "파편, 조각 (동사: 산산조각 나다)",
+      "example_en": "Investigators recovered only a fragment of the damaged hard drive.",
+      "example_ko": "조사관들은 손상된 하드디스크의 파편 하나만 회수했다.",
+      "collocations": ["a fragment of glass", "fragment into pieces"],
+      "note": "frag-는 '깨지다' — fracture(골절), fragile(깨지기 쉬운)이 한 가족이다. 명사는 [FRAG-ment], 동사는 [frag-MENT]로 강세가 뒤로 넘어가는 명동사 강세 이동형이다.",
+      "family": [
+        { "word": "fragile", "pos": "a.", "ko": "깨지기 쉬운, 취약한" },
+        { "word": "fragmentation", "pos": "n.", "ko": "파편화, 분열" }
+      ]
+    },
+    {
+      "headword": "remnant",
+      "pos": "n.",
+      "ko": "잔해, 남은 조각",
+      "example_en": "The remnants of the old factory were cleared to make way for housing.",
+      "example_ko": "옛 공장의 잔해는 주택 부지를 마련하기 위해 치워졌다.",
+      "collocations": ["the remnants of ~", "a remnant population"],
+      "note": "remain(남다)에서 나온 명사로 '남겨진 것'. 대개 복수 remnants로 쓴다.",
+      "related": [
+        { "word": "remainder", "ko": "나머지", "note": "remainder는 수량·계산에서 '떼고 남은 몫'이고, remnant는 파괴·소멸 뒤 남은 조각이라는 어감이다" }
+      ]
+    },
+    {
+      "headword": "avert",
+      "pos": "v.",
+      "ko": "막다, 모면하다; (눈을) 돌리다",
+      "example_en": "Emergency talks averted a strike that would have halted exports.",
+      "example_ko": "긴급 협상이 수출을 멈춰 세웠을 파업을 막았다.",
+      "collocations": ["avert a crisis", "avert one's eyes"],
+      "note": "a-(=ab 떨어져) + vert(돌리다) → 다가오는 위험을 '돌려 보내' 막다. divert(딴 데로 돌리다), revert(되돌아가다), invert(뒤집다)와 같은 vert 가족이며, 원뜻이 남은 avert one's eyes(눈을 돌리다)도 그대로 쓴다.",
+      "related": [
+        { "word": "avoid", "ko": "피하다", "note": "avert는 위기·재앙을 '미연에 막다'라 목적어가 나쁜 사태이고, avoid는 대상이 무엇이든 그냥 '피하다'이다" }
+      ]
+    },
+    {
+      "headword": "onus",
+      "pos": "n.",
+      "ko": "책임, 부담",
+      "example_en": "The onus is on the employer to prove that the dismissal was fair.",
+      "example_ko": "해고가 정당했음을 입증할 책임은 고용주에게 있다.",
+      "collocations": ["the onus is on ~", "shift the onus"],
+      "note": "라틴어로 '짐(burden)'. 거의 언제나 the onus is on + 사람/기관 (~에게 책임이 있다) 꼴로 붙어 다니고, 법률 기사의 the onus of proof는 '입증 책임'이다. 형용사 onerous(과중한, 부담스러운)가 같은 뿌리다.",
+      "family": [
+        { "word": "onerous", "pos": "a.", "ko": "부담이 큰, 과중한" }
+      ]
+    },
+    {
+      "headword": "abide",
+      "pos": "v.",
+      "ko": "(abide by) 준수하다; 견디다",
+      "example_en": "All contractors must abide by the safety rules on site.",
+      "example_ko": "모든 협력업체는 현장의 안전 수칙을 준수해야 한다.",
+      "collocations": ["abide by the rules", "abide by a decision"],
+      "note": "by가 붙은 abide by + 규칙·결정일 때만 '준수하다'이고, by 없이 쓰면 I can't abide him(도저히 못 참겠다)처럼 '견디다'가 된다. 전치사 하나로 뜻이 갈리니 짝으로 외운다.",
+      "related": [
+        { "word": "comply", "ko": "따르다, 준수하다", "note": "comply with와 abide by는 거의 같은 뜻이나, comply는 법·규정에, abide by는 합의·판정에 더 잘 붙는다" }
+      ]
+    },
+    {
+      "headword": "spiral",
+      "pos": "v.",
+      "ko": "걷잡을 수 없이 악화되다; 나선을 그리다 (명사: 악순환)",
+      "example_en": "Housing costs have spiraled beyond what young workers can pay.",
+      "example_ko": "주거비가 젊은 노동자들이 감당할 수 있는 수준을 넘어 치솟았다.",
+      "collocations": ["spiral out of control", "a downward spiral"],
+      "note": "'나선'이라는 원뜻에서 '한 바퀴 돌 때마다 스스로 커지는 악화'라는 비유가 나왔다 — 그래서 spiral out of control(걷잡을 수 없이 번지다), a downward spiral(악순환)로 쓴다. 경제 기사의 wage-price spiral(임금-물가 악순환)이 대표 사례.",
+      "related": [
+        { "word": "soar", "ko": "치솟다", "note": "soar는 값이 높이 오르는 사실만 말하고, spiral은 '통제를 벗어나 나빠진다'는 부정적 판단이 함께 들어간다" }
+      ]
+    },
+    {
+      "headword": "voluntary",
+      "pos": "a.",
+      "ko": "자발적인, 강제성이 없는",
+      "example_en": "The industry agreed to a voluntary code of conduct rather than face legislation.",
+      "example_ko": "그 업계는 입법에 직면하느니 자발적 행동 강령에 합의했다.",
+      "collocations": ["voluntary guidelines", "voluntary redundancy"],
+      "note": "vol-은 '의지'(volunteer, volition). 규제 기사에서 voluntary guidelines라고 하면 '지키지 않아도 제재가 없다'는 뜻이라 대개 비판의 신호로 읽어야 한다. 반대말은 compulsory·mandatory.",
+      "family": [
+        { "word": "volunteer", "pos": "n.", "ko": "자원봉사자; 자원하다" },
+        { "word": "voluntarily", "pos": "ad.", "ko": "자발적으로" },
+        { "word": "involuntary", "pos": "a.", "ko": "본의 아닌, 비자발적인" }
+      ]
+    },
+    {
+      "headword": "staggering",
+      "pos": "a.",
+      "ko": "믿기 어려울 만큼 엄청난",
+      "example_en": "Cleanup costs reached a staggering three billion dollars.",
+      "example_ko": "정화 비용은 30억 달러라는 엄청난 액수에 이르렀다.",
+      "collocations": ["a staggering amount", "a staggering increase"],
+      "note": "stagger는 '비틀거리다' → 사람을 비틀거리게 할 만큼 충격적이라는 뜻이라, 주로 숫자·금액 앞에 붙는다. 같은 stagger의 다른 뜻 '시차를 두다'(stagger working hours = 시차 출퇴근제)도 토익에 자주 나오니 함께 외운다.",
+      "family": [
+        { "word": "stagger", "pos": "v.", "ko": "비틀거리다; 시차를 두어 배치하다" }
+      ]
+    },
+    {
+      "headword": "forge",
+      "pos": "v.",
+      "ko": "(관계·합의를) 구축하다; 위조하다",
+      "example_en": "The two firms forged a partnership to share distribution costs.",
+      "example_ko": "두 회사는 유통 비용을 나누기 위해 협력 관계를 구축했다.",
+      "collocations": ["forge an alliance", "forge a signature"],
+      "note": "원뜻은 대장간에서 쇠를 두들겨 만드는 것 — 여기서 '(공들여) 만들어 내다'(forge an alliance)와 '가짜를 만들다'(forge a signature) 두 갈래로 갈렸다. 명사 forgery는 '위조(품)' 쪽 뜻만 갖는 데 주의.",
+      "family": [
+        { "word": "forgery", "pos": "n.", "ko": "위조, 위조품 — '구축'의 뜻은 없다" }
+      ]
+    },
+    {
+      "headword": "unveil",
+      "pos": "v.",
+      "ko": "공개하다, 처음 선보이다",
+      "example_en": "The ministry unveiled a plan to cut emissions by half.",
+      "example_ko": "그 부처는 배출량을 절반으로 줄이는 계획을 공개했다.",
+      "collocations": ["unveil a plan", "unveil a new model"],
+      "note": "un-(제거) + veil(베일) → 씌워 둔 천을 벗기다. 신제품·정책 발표 기사의 정형 동사이며, announce보다 '가려 두었던 것을 처음 드러낸다'는 어감이 강하다.",
+      "related": [
+        { "word": "disclose", "ko": "밝히다, 공개하다", "note": "disclose는 숨겨져 있던 정보를 (의무나 폭로로) 밝히는 것이고, unveil은 새로 만든 것을 선보이는 것이다" }
+      ]
+    },
+    {
+      "headword": "pertinent",
+      "pos": "a.",
+      "ko": "관련 있는, 딱 들어맞는",
+      "example_en": "Please attach any documents pertinent to the claim.",
+      "example_ko": "청구와 관련된 서류가 있으면 모두 첨부해 주십시오.",
+      "collocations": ["pertinent to ~", "a pertinent question"],
+      "note": "pertain to(~에 관련되다)의 형용사형. relevant와 거의 같지만 pertinent는 '지금 이 논의에 딱 들어맞는'이라는 어감이 더 강하다. 반대처럼 보이는 impertinent는 '무관한'이 아니라 '무례한'이라는 뜻으로 굳었으니 주의.",
+      "family": [
+        { "word": "pertain", "pos": "v.", "ko": "관련되다 (pertain to ~)" },
+        { "word": "impertinent", "pos": "a.", "ko": "무례한 — '관련 없는'이 아니다" }
+      ]
+    },
+    {
+      "headword": "undertake",
+      "pos": "v.",
+      "ko": "착수하다, 떠맡다",
+      "example_en": "The agency will undertake a full review of the licensing process.",
+      "example_ko": "그 기관은 인허가 절차에 대한 전면 재검토에 착수할 것이다.",
+      "collocations": ["undertake a review", "undertake a project"],
+      "note": "under(아래로) + take(받다) → 일을 어깨에 '떠맡다'. 조사·연구·사업처럼 규모 있는 일에 쓴다. 명사 undertaking은 '(중대한) 사업; 약속'인데, 사람 명사 undertaker는 뜻이 튀어 '장의사'가 되니 헷갈리지 말 것.",
+      "family": [
+        { "word": "undertaking", "pos": "n.", "ko": "(중대한) 사업; 약속" }
+      ]
+    },
+    {
+      "headword": "amend",
+      "pos": "v.",
+      "ko": "개정하다, 수정하다",
+      "example_en": "Lawmakers voted to amend the statute to close the loophole.",
+      "example_ko": "의원들은 허점을 막기 위해 그 법률을 개정하는 데 찬성표를 던졌다.",
+      "collocations": ["amend a law", "amend a contract"],
+      "note": "mend(고치다) 계열이지만 쓰임이 갈린다 — 법·계약·헌법의 '조항을 고치다'가 amend이고, 명사는 amendment(개정안, 수정헌법)다. 복수 관용구 make amends(잘못을 보상하다)도 함께 알아 두면 좋다.",
+      "family": [
+        { "word": "amendment", "pos": "n.", "ko": "개정(안), 수정 조항" }
+      ],
+      "related": [
+        { "word": "mend", "ko": "고치다, 수선하다", "note": "mend는 물건이나 관계를 고치는 일상어, amend는 문서·법령을 개정하는 공식어다" }
+      ]
+    }
+  ]
+}
