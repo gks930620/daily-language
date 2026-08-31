@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-01",
+  "passage_note": "해운·기후 — 가뭄이 막아 세운 운하와 세계 물류의 병목(논설)",
+  "sentences": [
+    {
+      "en": "For more than a century the canal has functioned as a chokepoint through which a substantial share of world trade passes, its locks lifting laden vessels over the isthmus on water drawn from a single rain-fed reservoir.",
+      "ko": "한 세기가 넘도록 그 운하는 세계 무역의 상당한 비중이 통과하는 병목 지점 역할을 해 왔으며, 갑문은 빗물로만 채워지는 단 하나의 저수지에서 끌어온 물로 짐을 가득 실은 선박들을 지협 너머로 들어 올려 왔다.",
+      "structure": "· through which = 전치사+관계대명사. 선행사는 a chokepoint이고, 원래는 ~ passes through a chokepoint에서 through가 앞으로 나온 형태다.\n· its locks lifting ~ : 독립분사구문. 의미상 주어(its locks)가 주절 주어(the canal)와 달라서 분사 앞에 따로 붙었다 — '갑문이 ~을 들어 올리면서'.\n· drawn from a single rain-fed reservoir : 과거분사구가 water를 뒤에서 수식(끌어와진 물).",
+      "vocab_notes": [
+        { "word": "for more than a century", "ko": "한 세기가 넘도록" },
+        { "word": "canal", "ko": "운하" },
+        { "word": "function as", "ko": "~로서 기능하다, ~ 역할을 하다" },
+        { "word": "chokepoint", "ko": "병목 지점, (교통·물류의) 요충지" },
+        { "word": "a substantial share of", "ko": "~의 상당한 비중" },
+        { "word": "lock", "ko": "갑문 (수위를 조절해 배를 올리고 내리는 시설)" },
+        { "word": "laden", "ko": "짐을 가득 실은" },
+        { "word": "vessel", "ko": "선박" },
+        { "word": "isthmus", "ko": "지협 (두 대륙을 잇는 좁은 육지)" },
+        { "word": "draw", "ko": "(물을) 끌어오다, 길어 올리다" },
+        { "word": "rain-fed", "ko": "빗물에만 의존하는" },
+        { "word": "reservoir", "ko": "저수지" }
+      ]
+    },
+    {
+      "en": "That arrangement, long taken for granted, has proved unexpectedly fragile: a succession of drought years lowered the reservoir to the point that the authority was compelled to ration transits, auctioning off a dwindling number of slots to the highest bidder.",
+      "ko": "오랫동안 당연하게 여겨져 온 그 방식은 뜻밖에도 취약한 것으로 드러났다. 잇따른 가뭄으로 저수지 수위가 낮아지면서 운하 당국은 통항을 제한 배급할 수밖에 없었고, 점점 줄어드는 통항 배정분을 최고 입찰자에게 경매로 넘겼다.",
+      "structure": "· long taken for granted : 삽입된 과거분사구가 That arrangement를 수식. 콤마 두 개 사이에 끼어 있어 주어와 동사(has proved)가 멀어졌다.\n· prove + 형용사 : '~로 판명되다'라는 2형식. be동사처럼 쓰이므로 수동태(be proved)로 바꾸지 않는다.\n· to the point that ~ : '~할 지경까지'라는 정도 표현.\n· auctioning off ~ : 분사구문. 주절과 같은 주어(the authority)의 동시 동작을 나타낸다.",
+      "vocab_notes": [
+        { "word": "arrangement", "ko": "방식, 체제, 합의된 구조" },
+        { "word": "take ~ for granted", "ko": "~을 당연한 것으로 여기다" },
+        { "word": "prove", "ko": "~로 드러나다, 판명되다" },
+        { "word": "unexpectedly", "ko": "뜻밖에도" },
+        { "word": "fragile", "ko": "취약한, 깨지기 쉬운" },
+        { "word": "a succession of", "ko": "잇따른, 연이은" },
+        { "word": "drought", "ko": "가뭄" },
+        { "word": "lower", "ko": "낮추다, 떨어뜨리다" },
+        { "word": "to the point that", "ko": "~할 정도로, ~할 지경까지" },
+        { "word": "authority", "ko": "당국, (운하) 관리청" },
+        { "word": "be compelled to", "ko": "~할 수밖에 없다" },
+        { "word": "ration", "ko": "배급제로 제한하다" },
+        { "word": "transit", "ko": "통항, 통과 (운항이 운하를 지나가는 것)" },
+        { "word": "auction off", "ko": "경매에 부쳐 팔다" },
+        { "word": "dwindling", "ko": "점점 줄어드는" },
+        { "word": "slot", "ko": "배정 자리, 배정된 시간대" },
+        { "word": "the highest bidder", "ko": "최고 입찰자" }
+      ]
+    },
+    {
+      "en": "Carriers that declined to bid were left to queue for weeks or to reroute around the southern tip of the continent, a detour that adds thousands of nautical miles and burns fuel accordingly.",
+      "ko": "입찰에 응하지 않은 해운사들은 몇 주씩 줄을 서서 기다리거나 대륙 남단을 돌아 항로를 바꿔야 했는데, 이는 수천 해리를 더하고 그만큼 연료를 더 태우는 우회로였다.",
+      "structure": "· were left to queue ... or to reroute : to부정사 두 개가 or로 병렬. be left to ~는 '(다른 수가 없어) ~하는 처지가 되다'.\n· a detour that ~ : 앞의 to reroute around ~ 전체를 다시 받는 동격 명사구이고, 그 뒤에 관계대명사 that절이 붙었다.\n· adds ~ and burns ~ : 관계사절 안에서 동사 둘이 and로 병렬(선행사 a detour가 공통 주어).",
+      "vocab_notes": [
+        { "word": "carrier", "ko": "운송 회사, 해운사" },
+        { "word": "decline to", "ko": "~하기를 거절하다" },
+        { "word": "bid", "ko": "입찰하다" },
+        { "word": "be left to", "ko": "(어쩔 수 없이) ~하게 되다" },
+        { "word": "queue", "ko": "줄을 서서 기다리다" },
+        { "word": "reroute", "ko": "경로를 우회 변경하다" },
+        { "word": "tip", "ko": "끝, (대륙의) 남단" },
+        { "word": "continent", "ko": "대륙" },
+        { "word": "detour", "ko": "우회로" },
+        { "word": "nautical mile", "ko": "해리 (약 1.85km)" },
+        { "word": "accordingly", "ko": "그에 따라, 그만큼" }
+      ]
+    },
+    {
+      "en": "The resulting freight surcharges rippled outward to consumers who had never heard of the waterway, a reminder that logistics remains invisible until it fails.",
+      "ko": "그 결과로 붙은 화물 할증료는 그 수로의 이름조차 들어 본 적 없는 소비자들에게까지 파문처럼 번져 나갔으니, 물류란 고장 나기 전까지는 보이지 않는다는 사실을 새삼 일깨우는 일이었다.",
+      "structure": "· resulting : 현재분사가 형용사로 굳은 말로 '그 결과로 생긴'. 명사 앞에서 수식한다.\n· who had never heard of ~ : 관계대명사절. 대과거(had p.p.)라 주절 시점(rippled)보다 앞선 일임을 나타낸다.\n· a reminder that ~ : 앞 문장 전체를 받는 동격 명사구이고, that은 관계대명사가 아니라 동격절을 이끄는 접속사다.",
+      "vocab_notes": [
+        { "word": "resulting", "ko": "그 결과로 생긴" },
+        { "word": "freight", "ko": "화물 운송, 운임" },
+        { "word": "surcharge", "ko": "할증료, 추가 요금" },
+        { "word": "ripple outward", "ko": "파문처럼 바깥으로 번지다" },
+        { "word": "waterway", "ko": "수로, 물길" },
+        { "word": "reminder", "ko": "일깨워 주는 것" },
+        { "word": "logistics", "ko": "물류" },
+        { "word": "remain", "ko": "계속 ~인 채로 있다" },
+        { "word": "invisible", "ko": "보이지 않는" }
+      ]
+    },
+    {
+      "en": "Dredging deeper channels and building new reservoirs would buy time, but engineers concede that no amount of concrete can compensate for rainfall that no longer arrives on schedule.",
+      "ko": "더 깊은 수로를 준설하고 새 저수지를 짓는 일은 시간을 벌어 주겠지만, 기술자들은 콘크리트를 아무리 들이부어도 더 이상 제때 내리지 않는 비를 대신할 수는 없다고 인정한다.",
+      "structure": "· Dredging ~ and building ~ : 동명사 주어 두 개가 and로 병렬을 이루어 would buy의 주어가 된다.\n· no amount of + 명사 : 부분부정이 아니라 전체부정. '아무리 많은 ~로도 …할 수 없다'로 옮긴다.\n· concede that ~ : that절이 concede의 목적어.\n· that no longer arrives on schedule : 관계대명사절이 rainfall을 수식.",
+      "vocab_notes": [
+        { "word": "dredge", "ko": "준설하다 (바닥을 파내 물길을 깊게 하다)" },
+        { "word": "channel", "ko": "수로, 항로" },
+        { "word": "buy time", "ko": "시간을 벌다" },
+        { "word": "concede", "ko": "(마지못해) 인정하다" },
+        { "word": "no amount of", "ko": "아무리 많은 ~라도 (…않다)" },
+        { "word": "compensate for", "ko": "~을 벌충하다, 상쇄하다" },
+        { "word": "rainfall", "ko": "강수, 강우량" },
+        { "word": "no longer", "ko": "더 이상 ~않다" },
+        { "word": "on schedule", "ko": "예정대로, 제때" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "chokepoint",
+      "pos": "n.",
+      "ko": "병목 지점, 요충지",
+      "example_en": "A handful of maritime chokepoints carry most of the world's oil shipments.",
+      "example_ko": "소수의 해상 요충지가 세계 원유 수송의 대부분을 감당한다.",
+      "collocations": ["maritime chokepoint", "a critical chokepoint"],
+      "note": "choke(숨통을 조이다)+point — 좁아서 '숨통을 쥔' 지점. bottleneck이 공정·생산의 처리 지연 지점이라면 chokepoint는 해협·운하처럼 끊기면 전체가 마비되는 지리적·전략적 급소에 쓴다.",
+      "related": [
+        { "word": "bottleneck", "ko": "병목 현상", "note": "bottleneck은 처리량이 막히는 지점 일반, chokepoint는 지리·전략적 급소 — 뉴스에서 운하·해협에는 chokepoint를 쓴다" }
+      ]
+    },
+    {
+      "headword": "laden",
+      "pos": "a.",
+      "ko": "짐을 가득 실은",
+      "example_en": "Ships laden with grain waited outside the port for a berth.",
+      "example_ko": "곡물을 가득 실은 배들이 접안 자리를 기다리며 항구 밖에 대기했다.",
+      "collocations": ["laden with", "fully laden"],
+      "note": "load의 옛 과거분사형이 형용사로 굳은 말이라 보통 명사 뒤에서 laden with ~ 꼴로 쓴다. 반대말 unladen은 '짐을 싣지 않은'으로 차량·선박의 공차 중량을 말할 때 나온다.",
+      "family": [
+        { "word": "load", "pos": "v./n.", "ko": "싣다; 짐, 적재량" },
+        { "word": "unladen", "pos": "a.", "ko": "짐을 싣지 않은, 공차의" },
+        { "word": "overladen", "pos": "a.", "ko": "과적한" }
+      ]
+    },
+    {
+      "headword": "reroute",
+      "pos": "v.",
+      "ko": "경로를 바꾸다, 우회시키다",
+      "example_en": "Airlines rerouted dozens of flights to avoid the closed airspace.",
+      "example_ko": "항공사들은 폐쇄된 공역을 피하려고 수십 편의 항로를 변경했다.",
+      "collocations": ["reroute traffic", "reroute a shipment"],
+      "note": "re-(다시)+route(길) — 이미 정해 둔 경로를 '다시 잡는' 것. 경로를 바꾸는 행위는 동사 reroute, 그렇게 해서 생긴 길은 명사 detour로 갈라 쓴다.",
+      "related": [
+        { "word": "detour", "ko": "우회로", "note": "detour는 결과로 생긴 길(명사), reroute는 경로를 바꾸는 행위(동사)" },
+        { "word": "divert", "ko": "돌리다, 전용하다", "note": "divert는 목적지 자체를 바꿔 다른 데로 돌리는 것(비행기 회항·자금 전용), reroute는 목적지는 그대로 두고 가는 길만 바꾸는 것" }
+      ]
+    },
+    {
+      "headword": "dredge",
+      "pos": "v.",
+      "ko": "준설하다",
+      "example_en": "The port authority dredged the channel to accommodate larger vessels.",
+      "example_ko": "항만 당국은 더 큰 선박을 받기 위해 수로를 준설했다.",
+      "collocations": ["dredge a channel", "dredge the harbor"],
+      "note": "바닥의 흙·모래를 긁어 파내 물길을 깊게 하는 일. 비유로 dredge up이 '(잊힌 과거·추문을) 굳이 들춰내다'라는 뜻으로 자주 나오니 함께 외워 두면 좋다.",
+      "family": [
+        { "word": "dredging", "pos": "n.", "ko": "준설 작업" },
+        { "word": "dredger", "pos": "n.", "ko": "준설선" }
+      ]
+    },
+    {
+      "headword": "freight",
+      "pos": "n.",
+      "ko": "화물 운송; 운임",
+      "example_en": "Freight rates doubled within a single quarter as capacity tightened.",
+      "example_ko": "선복이 부족해지면서 화물 운임이 한 분기 만에 두 배가 되었다.",
+      "collocations": ["freight rates", "air freight", "freight forwarder"],
+      "note": "cargo가 '실려 있는 짐' 자체라면 freight는 그것을 나르는 '운송'과 그 '운임'까지 아우른다 — 그래서 운임은 언제나 freight rates이고 cargo rates라고 하지 않는다. 발음은 '프레이트'.",
+      "related": [
+        { "word": "cargo", "ko": "화물", "note": "cargo=실린 짐, freight=운송 행위·운임 — 토익 지문에서 freight forwarder(운송 주선업자)로 자주 나온다" }
+      ]
+    },
+    {
+      "headword": "ration",
+      "pos": "v.",
+      "ko": "배급제로 제한하다; (n.) 배급량",
+      "example_en": "The city rationed water during the worst weeks of the drought.",
+      "example_ko": "그 도시는 가뭄이 가장 심했던 몇 주 동안 물을 배급제로 제한했다.",
+      "collocations": ["ration water", "strict rationing", "a daily ration"],
+      "note": "ratio(비율)와 한 뿌리 — 정해진 '몫'만큼만 나눠 준다는 뜻이다. rational(이성적인)도 같은 계산·비율 어원에서 갈라져 나왔다고 묶어 두면 셋이 한 번에 기억된다.",
+      "family": [
+        { "word": "rationing", "pos": "n.", "ko": "배급제" },
+        { "word": "rational", "pos": "a.", "ko": "이성적인 — 같은 어원이나 뜻은 갈라졌다" }
+      ]
+    },
+    {
+      "headword": "drought",
+      "pos": "n.",
+      "ko": "가뭄",
+      "example_en": "A prolonged drought cut the country's grain harvest by a third.",
+      "example_ko": "장기간의 가뭄으로 그 나라의 곡물 수확량이 3분의 1 줄었다.",
+      "collocations": ["prolonged drought", "severe drought", "drought-stricken"],
+      "note": "-ght를 '트'로 읽어 발음이 '드라우트'다. 비유로 a drought of investment처럼 '오래 이어진 결핍'에도 쓴다.",
+      "related": [
+        { "word": "draught", "ko": "외풍; 생맥주", "note": "영국식 철자로 발음은 '드라프트' — 철자가 비슷하지만 drought(가뭄)와 전혀 다른 단어다" }
+      ]
+    },
+    {
+      "headword": "detour",
+      "pos": "n.",
+      "ko": "우회로, 돌아가는 길",
+      "example_en": "Roadwork forced commuters to take a lengthy detour every morning.",
+      "example_ko": "도로 공사 때문에 통근자들은 매일 아침 한참 돌아가는 길을 택해야 했다.",
+      "collocations": ["take a detour", "a lengthy detour"],
+      "note": "de-(벗어나)+tour(돌다) — 본길에서 벗어나 도는 길. 동사로도 쓰지만 시험·기사에서는 take a detour 꼴의 명사가 압도적이고, 말할 때는 '이야기가 곁길로 새다'라는 뜻으로도 쓴다.",
+      "family": [
+        { "word": "tour", "pos": "n./v.", "ko": "여행, 순회; 돌아보다" }
+      ]
+    },
+    {
+      "headword": "queue",
+      "pos": "v.",
+      "ko": "줄을 서서 기다리다; (n.) 대기열",
+      "example_en": "Trucks queued for hours at the border crossing.",
+      "example_ko": "트럭들이 국경 검문소에서 몇 시간씩 줄지어 기다렸다.",
+      "collocations": ["queue up", "jump the queue", "a queue of"],
+      "note": "q 뒤의 ueue는 소리가 나지 않아 발음이 알파벳 Q와 똑같다. 영국식 표현이고 미국식은 wait in line이며, jump the queue는 '새치기하다'.",
+      "related": [
+        { "word": "line", "ko": "줄", "note": "미국식은 wait in line, 영국식은 queue — 뜻은 같고 문서의 국적을 알려 주는 단서가 된다" }
+      ]
+    },
+    {
+      "headword": "reservoir",
+      "pos": "n.",
+      "ko": "저수지; 비축, 축적된 자원",
+      "example_en": "The reservoir fell to a quarter of its capacity by late summer.",
+      "example_ko": "늦여름이 되자 저수지 수위가 저수 용량의 4분의 1까지 떨어졌다.",
+      "collocations": ["reservoir capacity", "a reservoir of"],
+      "note": "reserve(비축하다)에 프랑스어 어미 -oir(~하는 곳)가 붙은 말이라 '비축해 두는 곳'이 원뜻이고, -oir는 '와'로 읽어 '레저브와'에 가깝다. a reservoir of talent(인재 풀)처럼 사람·감정에도 쓴다.",
+      "family": [
+        { "word": "reserve", "pos": "v./n.", "ko": "비축하다, 예약하다; 비축분" },
+        { "word": "reservation", "pos": "n.", "ko": "예약; 유보, 거리낌" }
+      ]
+    },
+    {
+      "headword": "fragile",
+      "pos": "a.",
+      "ko": "취약한, 깨지기 쉬운",
+      "example_en": "The recovery remains fragile and could stall if demand weakens.",
+      "example_ko": "경기 회복은 여전히 취약해서 수요가 약해지면 멈춰 설 수 있다.",
+      "collocations": ["fragile recovery", "fragile ceasefire", "fragile ecosystem"],
+      "note": "frag-(부수다) 계열이라 fragment(파편)·fracture(골절)와 한 뿌리 — '깨질 수 있다'가 핵심이다. frail도 '약한'이지만 frail은 노인의 몸처럼 기력이 없는 쪽이고 fragile은 충격에 부서질 위험이 있는 쪽이다.",
+      "family": [
+        { "word": "fragility", "pos": "n.", "ko": "취약성" },
+        { "word": "fragment", "pos": "n.", "ko": "조각, 파편" }
+      ],
+      "related": [
+        { "word": "frail", "ko": "허약한", "note": "frail은 체력·건강이 약함(a frail patient), fragile은 충격에 깨지기 쉬움(a fragile truce)" }
+      ]
+    },
+    {
+      "headword": "itinerary",
+      "pos": "n.",
+      "ko": "여정, 일정표",
+      "example_en": "The agency emailed a detailed itinerary two days before departure.",
+      "example_ko": "여행사는 출발 이틀 전에 상세한 일정표를 이메일로 보냈다.",
+      "collocations": ["a detailed itinerary", "travel itinerary", "revise the itinerary"],
+      "note": "iter(길)에서 온 말 — '길을 따라 짜 놓은 것'이 일정이다. schedule이 시간표라면 itinerary는 '어디를 어떤 순서로 도는가'까지 담아서 출장·여행 지문(토익 파트7 단골)에 쓰인다.",
+      "related": [
+        { "word": "agenda", "ko": "안건, 의제", "note": "agenda는 회의에서 다룰 안건 목록, itinerary는 이동 일정 — 토익에서 둘을 바꿔 놓는 함정이 나온다" }
+      ]
+    },
+    {
+      "headword": "reciprocal",
+      "pos": "a.",
+      "ko": "상호 간의, 호혜적인",
+      "example_en": "The two countries signed a reciprocal agreement on customs inspections.",
+      "example_ko": "두 나라는 통관 검사에 관한 호혜 협정에 서명했다.",
+      "collocations": ["reciprocal agreement", "reciprocal arrangement", "reciprocal access"],
+      "note": "re-(뒤로)+pro-(앞으로) — 앞뒤로 오가는 움직임이 어원이다. bilateral이 '두 나라 사이'라는 형식만 가리키는 데 비해 reciprocal은 '주면 받는' 대가성을 강조한다.",
+      "family": [
+        { "word": "reciprocate", "pos": "v.", "ko": "보답하다, 화답하다" },
+        { "word": "reciprocity", "pos": "n.", "ko": "호혜, 상호주의" }
+      ]
+    },
+    {
+      "headword": "arduous",
+      "pos": "a.",
+      "ko": "몹시 힘든, 고된",
+      "example_en": "Negotiators faced an arduous round of talks that dragged on for three weeks.",
+      "example_ko": "협상단은 3주나 질질 끈 고된 협상을 치러야 했다.",
+      "collocations": ["arduous task", "arduous journey", "arduous process"],
+      "note": "ardu-(가파른)에서 온 말이라 가파른 비탈을 오르듯 '오래 힘든' 일에 붙는다 — task·journey·process처럼 긴 과정과 어울리고, 잠깐 어려운 일에는 잘 쓰지 않는다.",
+      "related": [
+        { "word": "grueling", "ko": "녹초로 만드는", "note": "grueling은 체력이 바닥나는 소모전, arduous는 끈기가 필요한 험한 과정 — 둘 다 '고된'으로 번역되지만 초점이 다르다" }
+      ]
+    },
+    {
+      "headword": "vigilant",
+      "pos": "a.",
+      "ko": "경계를 늦추지 않는, 방심하지 않는",
+      "example_en": "Regulators promised to remain vigilant against price manipulation.",
+      "example_ko": "규제 당국은 가격 조작에 대해 계속 경계를 늦추지 않겠다고 약속했다.",
+      "collocations": ["remain vigilant", "vigilant against", "ever vigilant"],
+      "note": "vigil(밤샘 감시)과 한 뿌리로 '자지 않고 지켜본다'는 뜻이다. wary가 의심스러워 조심하는 소극적 태도라면 vigilant는 위험을 놓치지 않으려 계속 지켜보는 능동적 감시다.",
+      "family": [
+        { "word": "vigilance", "pos": "n.", "ko": "경계, 조심" },
+        { "word": "vigilante", "pos": "n.", "ko": "자경단원 — '경계하는 사람'이 아니라 법 절차를 무시하고 직접 처벌에 나서는 사람" }
+      ]
+    },
+    {
+      "headword": "candid",
+      "pos": "a.",
+      "ko": "솔직한, 숨김없는",
+      "example_en": "In a candid interview, the chief executive admitted the launch had failed.",
+      "example_ko": "솔직한 인터뷰에서 그 최고경영자는 출시가 실패했음을 인정했다.",
+      "collocations": ["a candid interview", "be candid about", "candid assessment"],
+      "note": "cand-(하얗게 빛나다) 계열로 감추는 것 없이 '환한' 상태를 뜻한다 — candle(초), candidate(흰옷을 입고 나선 후보자)도 같은 뿌리다.",
+      "related": [
+        { "word": "candidate", "ko": "후보자", "note": "어원은 같지만 뜻은 전혀 다르다 — candid(솔직한)와 철자가 겹쳐 혼동하기 쉽다" },
+        { "word": "frank", "ko": "솔직한", "note": "거의 동의어인데 frank는 듣기 거북한 말을 직설적으로 한다는 쪽, candid는 감추지 않고 다 드러낸다는 쪽" }
+      ]
+    },
+    {
+      "headword": "deficient",
+      "pos": "a.",
+      "ko": "부족한, 미흡한",
+      "example_en": "The audit found the company's internal controls to be seriously deficient.",
+      "example_ko": "감사 결과 그 회사의 내부 통제가 심각하게 미흡한 것으로 드러났다.",
+      "collocations": ["deficient in", "nutritionally deficient", "seriously deficient"],
+      "note": "de-(아래로)+fic-(만들다) — 있어야 할 기준선 '아래로' 모자란 상태다. 명사형이 뉴스에 자주 나오는 deficit(적자)이고, '~이 결핍된'은 전치사 in을 써서 deficient in ~으로 쓴다.",
+      "family": [
+        { "word": "deficiency", "pos": "n.", "ko": "결핍, 부족" },
+        { "word": "deficit", "pos": "n.", "ko": "적자, 부족분" }
+      ]
+    },
+    {
+      "headword": "expedient",
+      "pos": "a.",
+      "ko": "편의적인, 당장에 유리한; (n.) 임시방편",
+      "example_en": "Ministers chose the politically expedient option rather than the effective one.",
+      "example_ko": "장관들은 효과적인 방안이 아니라 정치적으로 편한 방안을 택했다.",
+      "collocations": ["politically expedient", "a temporary expedient"],
+      "note": "expedite(신속히 처리하다)와 뿌리는 같지만 뜻이 갈라졌다 — expedient는 '빠르고 편해서 택한다'는 뉘앙스라 옳음보다 실리를 앞세운다는 부정적 색채가 따라붙는다.",
+      "family": [
+        { "word": "expedite", "pos": "v.", "ko": "신속히 처리하다" },
+        { "word": "expediency", "pos": "n.", "ko": "편의주의, 방편" }
+      ]
+    }
+  ]
+}

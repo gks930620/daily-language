@@ -1665,6 +1665,51 @@
     },
     "unveil": {
       "added_on": "2026-08-31"
+    },
+    "chokepoint": {
+      "added_on": "2026-09-01"
+    },
+    "laden": {
+      "added_on": "2026-09-01"
+    },
+    "reroute": {
+      "added_on": "2026-09-01"
+    },
+    "dredge": {
+      "added_on": "2026-09-01"
+    },
+    "freight": {
+      "added_on": "2026-09-01"
+    },
+    "ration": {
+      "added_on": "2026-09-01"
+    },
+    "drought": {
+      "added_on": "2026-09-01"
+    },
+    "detour": {
+      "added_on": "2026-09-01"
+    },
+    "queue": {
+      "added_on": "2026-09-01"
+    },
+    "reservoir": {
+      "added_on": "2026-09-01"
+    },
+    "fragile": {
+      "added_on": "2026-09-01"
+    },
+    "itinerary": {
+      "added_on": "2026-09-01"
+    },
+    "reciprocal": {
+      "added_on": "2026-09-01"
+    },
+    "arduous": {
+      "added_on": "2026-09-01"
+    },
+    "vigilant": {
+      "added_on": "2026-09-01"
     }
   }
 }
