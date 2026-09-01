@@ -1,0 +1,318 @@
+{
+  "date": "2026-09-02",
+  "words": [
+    {
+      "headword": "vernacular",
+      "pos": "n.",
+      "ko": "토착어, 일상어",
+      "example_en": "The pamphlet was rewritten in the local vernacular so that ordinary residents could actually read it.",
+      "example_ko": "그 안내문은 일반 주민들이 실제로 읽을 수 있도록 지역 토착어로 다시 쓰였다.",
+      "collocations": [
+        "the local vernacular",
+        "in the vernacular"
+      ],
+      "note": "어원: 라틴어 verna(그 집에서 나고 자란 노예) — '수입된 말'이 아니라 '그 땅에서 자란 말'이라는 뜻. 그래서 격식체·공용어에 대비되는 '일상의 말'을 가리킨다.",
+      "related": [
+        {
+          "word": "dialect",
+          "ko": "방언",
+          "note": "dialect는 한 언어의 지역 변종이고, vernacular는 격식 언어에 대비되는 '일상·토착의 말' — 초점이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "assimilation",
+      "pos": "n.",
+      "ko": "동화(주류에 흡수됨)",
+      "example_en": "Immigration policy has long swung between assimilation and the recognition of cultural difference.",
+      "example_ko": "이민 정책은 오랫동안 동화와 문화적 차이의 인정 사이를 오갔다.",
+      "collocations": [
+        "forced assimilation",
+        "cultural assimilation"
+      ],
+      "note": "ad-(쪽으로) + simil-(비슷한) → '비슷하게 만들다'. similar·simulate·resemble과 같은 뿌리라고 보면 뜻이 바로 잡힌다.",
+      "family": [
+        {
+          "word": "assimilate",
+          "pos": "v.",
+          "ko": "동화되다; (지식을) 흡수하다"
+        },
+        {
+          "word": "similar",
+          "pos": "a.",
+          "ko": "비슷한"
+        }
+      ]
+    },
+    {
+      "headword": "stigma",
+      "pos": "n.",
+      "ko": "낙인, 오명",
+      "example_en": "Employers say the stigma attached to bankruptcy discourages people from starting over.",
+      "example_ko": "고용주들은 파산에 따라붙는 낙인이 사람들의 재기를 가로막는다고 말한다.",
+      "collocations": [
+        "the stigma attached to ~",
+        "social stigma"
+      ],
+      "note": "그리스어로 '찔러서 새긴 표(문신)' — 노예·범죄자에게 새기던 자국이 어원이다. '겉으로 보이는 흠집'이라는 물리적 이미지를 기억하면 뜻이 흔들리지 않는다.",
+      "family": [
+        {
+          "word": "stigmatize",
+          "pos": "v.",
+          "ko": "낙인찍다"
+        }
+      ]
+    },
+    {
+      "headword": "fluency",
+      "pos": "n.",
+      "ko": "유창함",
+      "example_en": "The job posting lists fluency in Mandarin as a strong advantage.",
+      "example_ko": "그 채용 공고는 중국어 유창함을 큰 장점으로 명시하고 있다.",
+      "collocations": [
+        "fluency in English",
+        "achieve fluency"
+      ],
+      "note": "flu-(흐르다)가 뿌리다. fluid(유체)·influence(안으로 흘러듦=영향)·influenza와 한 집안 — 말이 막힘없이 '흐르는' 상태가 fluency다.",
+      "family": [
+        {
+          "word": "fluent",
+          "pos": "a.",
+          "ko": "유창한"
+        },
+        {
+          "word": "fluid",
+          "pos": "n./a.",
+          "ko": "유체; 유동적인"
+        }
+      ]
+    },
+    {
+      "headword": "immersion",
+      "pos": "n.",
+      "ko": "몰입; 몰입식 교육",
+      "example_en": "Six months of total immersion did more for her Spanish than years of evening classes.",
+      "example_ko": "6개월의 완전한 몰입이 몇 년간의 야간 수업보다 그의 스페인어에 더 도움이 되었다.",
+      "collocations": [
+        "language immersion",
+        "total immersion"
+      ],
+      "note": "mers-(담그다)에서 왔다 — 물에 푹 담그듯 언어 환경에 통째로 담근다는 뜻. submerge(물 밑에 잠기다)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "immerse",
+          "pos": "v.",
+          "ko": "담그다; 몰두하게 하다"
+        },
+        {
+          "word": "immersive",
+          "pos": "a.",
+          "ko": "몰입감 있는"
+        }
+      ]
+    },
+    {
+      "headword": "dormant",
+      "pos": "a.",
+      "ko": "휴면 상태의, 잠들어 있는",
+      "example_en": "The bank froze thousands of dormant accounts that had seen no activity for years.",
+      "example_ko": "그 은행은 수년간 거래가 없던 수천 개의 휴면 계좌를 동결했다.",
+      "collocations": [
+        "a dormant account",
+        "lie dormant",
+        "a dormant volcano"
+      ],
+      "note": "dorm-(잠자다) — dormitory(기숙사)와 같은 뿌리. '없어진'이 아니라 '자고 있는'이라 언제든 깨어날 수 있다는 함의가 핵심이다.",
+      "related": [
+        {
+          "word": "extinct",
+          "ko": "사멸한",
+          "note": "extinct는 완전히 끝난 것, dormant는 잠들었을 뿐 되살아날 여지가 있는 것 — 언어·화산 둘 다 이 대비로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "marginalize",
+      "pos": "v.",
+      "ko": "주변으로 밀어내다, 소외시키다",
+      "example_en": "Automated hiring tools can quietly marginalize applicants who lack a conventional career path.",
+      "example_ko": "자동화된 채용 도구는 통상적인 경력 경로가 없는 지원자를 조용히 배제할 수 있다.",
+      "collocations": [
+        "marginalized communities",
+        "marginalize minorities"
+      ],
+      "note": "margin(여백·가장자리)에서 왔다 — 중심에서 여백 쪽으로 밀어낸다는 그림. 같은 뿌리 marginal은 '주변적인'과 '미미한' 두 뜻으로 갈라진다.",
+      "family": [
+        {
+          "word": "margin",
+          "pos": "n.",
+          "ko": "여백, 가장자리; 이윤 폭"
+        },
+        {
+          "word": "marginal",
+          "pos": "a.",
+          "ko": "주변적인; 미미한"
+        }
+      ]
+    },
+    {
+      "headword": "intergenerational",
+      "pos": "a.",
+      "ko": "세대 간의",
+      "example_en": "Housing costs have become the main driver of intergenerational inequality.",
+      "example_ko": "주거비는 세대 간 불평등의 주된 원인이 되었다.",
+      "collocations": [
+        "intergenerational equity",
+        "intergenerational transfer"
+      ],
+      "note": "inter-는 '~들 사이'다. international(나라들 사이)·interview(서로 보기)처럼, 세대와 세대 '사이'에서 오가는 것을 가리킨다.",
+      "related": [
+        {
+          "word": "intragenerational",
+          "ko": "한 세대 내부의",
+          "note": "inter-(사이) vs intra-(내부) — international과 intranet의 차이와 정확히 같은 대비다"
+        }
+      ]
+    },
+    {
+      "headword": "literacy",
+      "pos": "n.",
+      "ko": "문해력, 읽고 쓰는 능력",
+      "example_en": "The program aims to raise financial literacy among first-time investors.",
+      "example_ko": "그 프로그램은 초보 투자자들의 금융 이해력을 높이는 것을 목표로 한다.",
+      "collocations": [
+        "financial literacy",
+        "digital literacy",
+        "the literacy rate"
+      ],
+      "note": "liter-(글자)가 뿌리 — letter·literature와 한 집안. 요즘은 'X literacy'로 확장돼 '그 분야를 읽어 낼 줄 아는 능력'을 뜻한다(financial/digital literacy).",
+      "family": [
+        {
+          "word": "literate",
+          "pos": "a.",
+          "ko": "글을 읽고 쓸 줄 아는"
+        },
+        {
+          "word": "literal",
+          "pos": "a.",
+          "ko": "글자 그대로의 — '문학적인(literary)'과 혼동 주의"
+        }
+      ]
+    },
+    {
+      "headword": "hamper",
+      "pos": "v.",
+      "ko": "방해하다, 지장을 주다",
+      "example_en": "Heavy rain hampered the search for survivors throughout the weekend.",
+      "example_ko": "폭우가 주말 내내 생존자 수색에 지장을 주었다.",
+      "collocations": [
+        "hamper efforts",
+        "hamper growth"
+      ],
+      "note": "prevent(아예 못 하게 함)와 달리 hamper는 '진행은 되는데 굼떠지게 만든다'는 뉘앙스다. 같은 철자의 명사 hamper는 '뚜껑 달린 바구니'로 뜻이 전혀 다르다.",
+      "related": [
+        {
+          "word": "hinder",
+          "ko": "방해하다",
+          "note": "거의 동의어지만 hinder는 '앞을 가로막아 늦추다', hamper는 '거추장스럽게 만들어 제 힘을 못 쓰게 하다'에 가깝다"
+        }
+      ]
+    },
+    {
+      "headword": "adamant",
+      "pos": "a.",
+      "ko": "요지부동의, 단호한",
+      "example_en": "The union remains adamant that no further concessions will be made.",
+      "example_ko": "노조는 더 이상의 양보는 없다는 입장에서 요지부동이다.",
+      "collocations": [
+        "be adamant that ~",
+        "remain adamant"
+      ],
+      "note": "그리스어 adamas('길들일 수 없는 것')에서 왔고, 이 말이 변해 diamond가 됐다. '다이아몬드처럼 깎이지 않는 태도'로 외우면 된다.",
+      "related": [
+        {
+          "word": "stubborn",
+          "ko": "고집 센",
+          "note": "stubborn은 부정적 비난에 가깝고, adamant는 '입장이 확고하다'는 중립~긍정 서술로도 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "cursory",
+      "pos": "a.",
+      "ko": "대충의, 피상적인",
+      "example_en": "Even a cursory look at the accounts revealed several missing invoices.",
+      "example_ko": "장부를 대충 훑어보기만 해도 누락된 송장이 몇 건 드러났다.",
+      "collocations": [
+        "a cursory glance",
+        "a cursory review"
+      ],
+      "note": "curs-(달리다)가 뿌리 — course·current·excursion과 한 집안. '달리면서 지나치듯 본다' → 대충 본다.",
+      "related": [
+        {
+          "word": "thorough",
+          "ko": "철저한",
+          "note": "cursory의 정반대. 감사·검토를 묘사할 때 이 둘이 짝으로 등장한다"
+        }
+      ]
+    },
+    {
+      "headword": "innocuous",
+      "pos": "a.",
+      "ko": "무해한, 악의 없는",
+      "example_en": "What looked like an innocuous software update turned out to carry the malware.",
+      "example_ko": "무해해 보이던 소프트웨어 업데이트가 알고 보니 악성코드를 담고 있었다.",
+      "collocations": [
+        "an innocuous remark",
+        "seemingly innocuous"
+      ],
+      "note": "in-(부정) + noc-(해치다) → '해가 없는'. noxious(유독한)·obnoxious(아주 불쾌한)·innocent(무죄한)가 모두 같은 noc- 집안이다.",
+      "family": [
+        {
+          "word": "noxious",
+          "pos": "a.",
+          "ko": "유독한, 해로운"
+        }
+      ]
+    },
+    {
+      "headword": "wield",
+      "pos": "v.",
+      "ko": "(권력을) 행사하다, 휘두르다",
+      "example_en": "A handful of platforms now wield enormous influence over what news people see.",
+      "example_ko": "소수의 플랫폼이 이제 사람들이 어떤 뉴스를 보는지에 막대한 영향력을 행사한다.",
+      "collocations": [
+        "wield power",
+        "wield influence"
+      ],
+      "note": "본래 '무기를 휘두르다'라는 물리적 동작에서 추상적인 '권력을 행사하다'로 넘어간 말이라, 목적어로 power·influence·authority처럼 '휘두를 수 있는 힘'이 온다.",
+      "related": [
+        {
+          "word": "exert",
+          "ko": "(힘·영향을) 가하다",
+          "note": "exert는 pressure·effort처럼 '들여 쓰는 힘'에, wield는 이미 손에 쥔 권력에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "quell",
+      "pos": "v.",
+      "ko": "진압하다, 가라앉히다",
+      "example_en": "The central bank cut rates in an attempt to quell fears of a prolonged slump.",
+      "example_ko": "중앙은행은 장기 침체에 대한 불안을 잠재우기 위해 금리를 인하했다.",
+      "collocations": [
+        "quell unrest",
+        "quell fears",
+        "quell a rebellion"
+      ],
+      "note": "물리적 소요(unrest·riot)와 심리적 동요(fears·rumors) 양쪽에 다 쓰는 것이 이 단어의 쓸모다 — '들끓는 것을 눌러 가라앉힌다'는 한 이미지로 묶인다.",
+      "related": [
+        {
+          "word": "quench",
+          "ko": "(갈증·불을) 끄다",
+          "note": "소리가 비슷하지만 quench는 갈증·불길에, quell은 소요·감정에 붙는다"
+        }
+      ]
+    }
+  ]
+}
