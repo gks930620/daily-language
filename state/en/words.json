@@ -1755,6 +1755,51 @@
     },
     "quell": {
       "added_on": "2026-09-02"
+    },
+    "seismic": {
+      "added_on": "2026-09-03"
+    },
+    "tremor": {
+      "added_on": "2026-09-03"
+    },
+    "masonry": {
+      "added_on": "2026-09-03"
+    },
+    "facade": {
+      "added_on": "2026-09-03"
+    },
+    "rubble": {
+      "added_on": "2026-09-03"
+    },
+    "collapse": {
+      "added_on": "2026-09-03"
+    },
+    "reinforce": {
+      "added_on": "2026-09-03"
+    },
+    "demolish": {
+      "added_on": "2026-09-03"
+    },
+    "occupant": {
+      "added_on": "2026-09-03"
+    },
+    "condemn": {
+      "added_on": "2026-09-03"
+    },
+    "enact": {
+      "added_on": "2026-09-03"
+    },
+    "legislature": {
+      "added_on": "2026-09-03"
+    },
+    "sporadic": {
+      "added_on": "2026-09-03"
+    },
+    "inertia": {
+      "added_on": "2026-09-03"
+    },
+    "complacency": {
+      "added_on": "2026-09-03"
     }
   }
 }

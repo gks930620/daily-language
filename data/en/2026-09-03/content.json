@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-03",
+  "passage_note": "재난·건축 — 지진에 취약한 노후 건물의 내진 보강 의무화를 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "Decades after engineers first warned that unreinforced masonry buildings would crumble in a major earthquake, thousands of them still line the streets of cities that sit squarely on active faults.",
+      "ko": "무보강 조적조 건물이 큰 지진이 나면 무너져 내릴 것이라고 기술자들이 처음 경고한 지 수십 년이 지났지만, 그런 건물 수천 채가 활성 단층 바로 위에 자리한 도시의 거리에 여전히 늘어서 있다.",
+      "structure": "· Decades after S+V ~ : '~한 지 수십 년이 지나서도'. after가 접속사로 시간 부사절을 이끌고, 앞의 Decades가 그 기간을 나타낸다.\n· warned that ~ would crumble : warned의 목적어가 되는 명사절. 주절이 과거이므로 미래를 would로 받는다(시제 일치).\n· thousands of them still line the streets ~ : 여기서 line은 명사가 아니라 동사('~을 따라 늘어서 있다')다. 주어가 thousands이므로 복수 동사.\n· that sit squarely on active faults : 주격 관계대명사 that이 cities를 수식. squarely는 '정확히, 바로'로 on을 강조한다.",
+      "vocab_notes": [
+        { "word": "decades after", "ko": "~한 지 수십 년이 지나" },
+        { "word": "engineer", "ko": "기술자, 공학자" },
+        { "word": "warn", "ko": "경고하다" },
+        { "word": "unreinforced", "ko": "보강되지 않은, 무보강의" },
+        { "word": "masonry", "ko": "조적조(벽돌·석조 구조)" },
+        { "word": "crumble", "ko": "부서지다, 무너져 내리다" },
+        { "word": "line", "ko": "(동사) ~을 따라 늘어서다" },
+        { "word": "sit on", "ko": "~ 위에 자리하다, 위치하다" },
+        { "word": "squarely", "ko": "정확히, 바로" },
+        { "word": "active fault", "ko": "활성 단층" }
+      ]
+    },
+    {
+      "en": "Ordinances requiring owners to retrofit such structures have been enacted in a handful of municipalities, yet enforcement has been sporadic and the deadlines are routinely extended.",
+      "ko": "소유주에게 그런 구조물을 내진 보강하도록 요구하는 조례가 소수의 지방자치단체에서 제정되었지만, 집행은 산발적이었고 기한은 으레 연장된다.",
+      "structure": "· Ordinances [requiring owners to retrofit such structures] have been enacted ~ : 현재분사구가 주어 Ordinances를 뒤에서 수식한다. 주어와 동사 사이가 길어진 형태이니 have been enacted의 주어가 Ordinances임을 놓치지 말 것.\n· require A to B : 'A에게 B하도록 요구하다'. 목적격보어로 to부정사를 쓰는 동사(ask·allow·force와 같은 부류).\n· yet : 여기서는 부사 '아직'이 아니라 등위접속사 '그러나'(= but)로 앞뒤를 대조한다.\n· enforcement has been sporadic / the deadlines are routinely extended : 현재완료(지금까지의 경과)와 수동태(반복되는 관행)가 나란히 쓰였다.",
+      "vocab_notes": [
+        { "word": "ordinance", "ko": "조례, 법령" },
+        { "word": "require A to B", "ko": "A에게 B하도록 요구하다" },
+        { "word": "retrofit", "ko": "(기존 건물을) 보강 개조하다" },
+        { "word": "structure", "ko": "구조물, 건축물" },
+        { "word": "enact", "ko": "(법을) 제정하다" },
+        { "word": "a handful of", "ko": "소수의, 한 줌의" },
+        { "word": "municipality", "ko": "지방자치단체" },
+        { "word": "enforcement", "ko": "(법의) 집행, 시행" },
+        { "word": "sporadic", "ko": "산발적인" },
+        { "word": "routinely", "ko": "으레, 예사로" },
+        { "word": "extend", "ko": "연장하다" }
+      ]
+    },
+    {
+      "en": "Landlords protest that the cost of bracing a brick facade or bolting a wooden frame to its foundation is prohibitive, and that passing it on to tenants would displace the very residents the rules are meant to protect.",
+      "ko": "건물주들은 벽돌 외벽을 버팀대로 보강하거나 목조 골조를 기초에 볼트로 고정하는 비용이 감당할 수 없을 만큼 비싸며, 그 비용을 세입자에게 전가하면 정작 그 규정이 보호하려는 주민들을 내쫓게 될 것이라고 항변한다.",
+      "structure": "· protest that ~ , and that ~ : that절 두 개가 protest의 목적어로 병렬 연결되었다. 두 번째 that을 생략하지 않은 것은 절의 경계를 분명히 하기 위해서다.\n· the cost [of bracing ~ or bolting ~] is prohibitive : 전치사 of의 목적어로 동명사 두 개가 or로 병렬. 문장의 진짜 동사는 is다.\n· passing it on to tenants would displace ~ : 동명사구가 주어. would는 '만약 전가한다면 ~할 것이다'라는 가정의 뉘앙스(조건절이 동명사 주어에 숨어 있다).\n· the very residents (that) the rules are meant to protect : 목적격 관계대명사가 생략되었다. the very는 '바로 그', be meant to는 '~하기로 되어 있다'.",
+      "vocab_notes": [
+        { "word": "landlord", "ko": "건물주, 임대인" },
+        { "word": "protest", "ko": "항변하다, 이의를 제기하다" },
+        { "word": "brace", "ko": "버팀대로 보강하다" },
+        { "word": "facade", "ko": "(건물의) 정면, 외벽" },
+        { "word": "bolt", "ko": "볼트로 고정하다" },
+        { "word": "frame", "ko": "골조, 뼈대" },
+        { "word": "foundation", "ko": "기초, 토대" },
+        { "word": "prohibitive", "ko": "엄두를 못 낼 만큼 비싼" },
+        { "word": "pass on", "ko": "(비용을) 전가하다, 넘기다" },
+        { "word": "tenant", "ko": "세입자, 임차인" },
+        { "word": "displace", "ko": "쫓아내다, 밀어내다" },
+        { "word": "be meant to", "ko": "~하기로 되어 있다, ~할 목적이다" }
+      ]
+    },
+    {
+      "en": "Seismologists counter that the arithmetic is not close: a single moderate tremor could level buildings whose occupants number in the tens of thousands, and the ensuing rubble would render entire blocks uninhabitable for years.",
+      "ko": "지진학자들은 계산이 비등한 수준이 전혀 아니라고 반박한다. 중간 규모의 지진 한 번이면 안에 있는 사람이 수만 명에 이르는 건물들을 통째로 무너뜨릴 수 있고, 그로 인해 생긴 잔해는 여러 블록 전체를 몇 년씩 사람이 살 수 없는 곳으로 만들어 버릴 것이라는 이야기다.",
+      "structure": "· counter that ~ : '~라고 반박하다'. counter는 여기서 동사이며, 뒤의 that절이 목적어다.\n· 콜론(:) 뒤의 절이 앞의 the arithmetic is not close를 구체적으로 풀어 설명한다(부연·예시의 콜론).\n· buildings whose occupants number in the tens of thousands : 소유격 관계대명사 whose가 buildings를 받는다. number는 동사로 '(수가) ~에 이르다'.\n· render + 목적어 + 형용사(uninhabitable) : 5형식으로 '~을 …한 상태로 만들다'. make로 바꿔 읽으면 구조가 보인다.\n· level 역시 동사('(건물을) 평평하게 만들다 = 완전히 무너뜨리다')로 쓰였다.",
+      "vocab_notes": [
+        { "word": "seismologist", "ko": "지진학자" },
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "arithmetic", "ko": "계산, 셈" },
+        { "word": "not close", "ko": "비등하지 않은, 견줄 바가 아닌" },
+        { "word": "moderate", "ko": "중간 정도의, 보통의" },
+        { "word": "tremor", "ko": "지진, 흔들림" },
+        { "word": "level", "ko": "(동사) 완전히 무너뜨리다" },
+        { "word": "occupant", "ko": "안에 있는 사람, 거주자" },
+        { "word": "number", "ko": "(동사) (수가) ~에 이르다" },
+        { "word": "in the tens of thousands", "ko": "수만 명(개)에 달하는" },
+        { "word": "ensuing", "ko": "뒤이은, 그로 인해 생긴" },
+        { "word": "rubble", "ko": "(무너진 건물의) 잔해, 돌더미" },
+        { "word": "render", "ko": "~한 상태로 만들다" },
+        { "word": "uninhabitable", "ko": "사람이 살 수 없는" }
+      ]
+    },
+    {
+      "en": "What paralyzes the debate is the timeline — the hazard is certain but its date is unknowable, and a legislature rarely spends political capital on a catastrophe that may not arrive during anyone's term.",
+      "ko": "이 논쟁을 마비시키는 것은 시점이다. 위험이 닥친다는 것은 확실하지만 그 날짜는 알 수 없고, 의회는 누구의 임기 중에도 오지 않을지 모르는 재앙에 정치적 자산을 좀처럼 쓰지 않는다.",
+      "structure": "· What paralyzes the debate is ~ : 관계대명사 what이 이끄는 명사절이 주어('~하는 것'). 「What ~ is …」는 논설문에서 핵심을 앞세우는 강조 장치다.\n· 대시(—) 뒤의 내용이 앞의 the timeline이 무엇인지 구체적으로 풀어 준다(동격에 가까운 부연).\n· the hazard is certain but its date is unknowable : 확실성과 불확실성을 but으로 맞세운 대구.\n· a catastrophe that may not arrive during anyone's term : 주격 관계대명사 that이 catastrophe를 수식. may not은 '~하지 않을지도 모른다'(추측의 부정).",
+      "vocab_notes": [
+        { "word": "paralyze", "ko": "마비시키다" },
+        { "word": "timeline", "ko": "시간표, (일이 벌어질) 시점" },
+        { "word": "hazard", "ko": "위험 요인" },
+        { "word": "unknowable", "ko": "알 수 없는" },
+        { "word": "legislature", "ko": "입법부, 의회" },
+        { "word": "political capital", "ko": "정치적 자산(지지·영향력)" },
+        { "word": "catastrophe", "ko": "대재앙, 참사" },
+        { "word": "term", "ko": "임기" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "seismic",
+      "pos": "a.",
+      "ko": "지진의; 엄청난 파장을 몰고 오는",
+      "example_en": "The city now requires seismic upgrades for every building put up before 1980.",
+      "example_ko": "그 시는 이제 1980년 이전에 지어진 모든 건물에 내진 보강을 의무화한다.",
+      "collocations": ["seismic activity", "a seismic shift"],
+      "note": "그리스어 seismos(흔들림)에서 왔다. 정작 시사문에서는 비유가 더 흔해서 a seismic shift in policy는 '정책의 지각변동'을 뜻한다 — 지진 기사가 아니어도 나온다는 뜻.",
+      "family": [
+        { "word": "seismology", "pos": "n.", "ko": "지진학" },
+        { "word": "seismologist", "pos": "n.", "ko": "지진학자" }
+      ]
+    },
+    {
+      "headword": "tremor",
+      "pos": "n.",
+      "ko": "(약한) 지진, 흔들림; (몸의) 떨림",
+      "example_en": "A minor tremor rattled the coast last night but caused no casualties.",
+      "example_ko": "어젯밤 약한 지진이 해안 지역을 흔들었지만 인명 피해는 없었다.",
+      "collocations": ["a minor tremor", "feel a tremor"],
+      "note": "trem-(떨다) 계열 — tremble(떨다), tremendous(본래 '떨릴 만큼 무서운' → 엄청난)와 한 뿌리다. earthquake보다 작은 흔들림을 가리키고, 사람 손의 '떨림'에도 그대로 쓴다.",
+      "family": [
+        { "word": "tremble", "pos": "v.", "ko": "떨다" },
+        { "word": "tremendous", "pos": "a.", "ko": "엄청난" }
+      ]
+    },
+    {
+      "headword": "masonry",
+      "pos": "n.",
+      "ko": "조적조(벽돌·석조 구조), 석공 일",
+      "example_en": "Older masonry buildings fared worst in the survey of earthquake damage.",
+      "example_ko": "지진 피해 조사에서 오래된 조적조 건물이 가장 나쁜 결과를 보였다.",
+      "collocations": ["unreinforced masonry", "brick masonry"],
+      "note": "mason(석공) + -ry(직업·행위·제품을 만드는 접미사: bake→bakery, rob→robbery). 재난 기사에서 unreinforced masonry(무보강 조적조)는 거의 굳어진 표현이라 통째로 외워 두면 좋다.",
+      "family": [
+        { "word": "mason", "pos": "n.", "ko": "석공, 벽돌공" }
+      ]
+    },
+    {
+      "headword": "facade",
+      "pos": "n.",
+      "ko": "(건물의) 정면, 외벽; 겉치레, 허울",
+      "example_en": "Behind the polished facade of the report lay a series of unresolved complaints.",
+      "example_ko": "그 보고서의 번드르르한 겉모습 뒤에는 해결되지 않은 민원이 줄줄이 있었다.",
+      "collocations": ["a glass facade", "a facade of unity"],
+      "note": "face(얼굴)와 같은 뿌리로 '건물의 얼굴'이다. 프랑스어에서 들어온 말이라 c를 [s]로 읽어 '퍼사드'. 시사문에서는 a facade of stability(안정이라는 허울)처럼 '속과 다른 겉모습' 쪽으로 더 자주 쓰인다.",
+      "related": [
+        { "word": "veneer", "ko": "겉치장, 허울", "note": "둘 다 '겉만 그럴듯함'을 뜻하지만 veneer는 얇게 덧씌운 막의 이미지, facade는 정면 전체가 통째로 연출된 이미지" }
+      ]
+    },
+    {
+      "headword": "rubble",
+      "pos": "n.",
+      "ko": "(무너진 건물의) 잔해, 돌더미",
+      "example_en": "Rescue teams worked through the night to clear the rubble.",
+      "example_ko": "구조대는 잔해를 치우느라 밤새 작업했다.",
+      "collocations": ["reduce a city to rubble", "clear the rubble"],
+      "note": "무너진 건물에서 나온 돌·콘크리트 더미로 뜻이 좁다. reduce ~ to rubble(~을 폐허로 만들다)이 대표 표현이며, 전쟁·지진 기사에서 피해 규모를 그릴 때 쓴다.",
+      "related": [
+        { "word": "debris", "ko": "잔해, 파편", "note": "debris는 훨씬 넓어 비행기 파편·우주 쓰레기·해양 부유물까지 포함하고, rubble은 붕괴한 건축물의 돌더미로 한정된다" }
+      ]
+    },
+    {
+      "headword": "collapse",
+      "pos": "v./n.",
+      "ko": "붕괴하다, 주저앉다; 붕괴, 결렬",
+      "example_en": "Three floors collapsed within seconds of the first shock.",
+      "example_ko": "첫 충격이 온 지 몇 초 만에 세 개 층이 주저앉았다.",
+      "collocations": ["the collapse of talks", "collapse under pressure"],
+      "note": "col-(함께) + laps-(미끄러져 내리다) = '통째로 주저앉다'. 건물뿐 아니라 the collapse of negotiations(협상 결렬), the collapse of a currency(통화 폭락)처럼 경제·외교 기사에 그대로 쓰인다.",
+      "related": [
+        { "word": "lapse", "ko": "(효력이) 소멸되다; 경과", "note": "같은 laps-(미끄러지다) 뿌리 — collapse는 물리적·급격한 붕괴, lapse는 시간이 흘러 효력이 스르르 사라지는 것" }
+      ]
+    },
+    {
+      "headword": "reinforce",
+      "pos": "v.",
+      "ko": "보강하다, 강화하다",
+      "example_en": "The engineers reinforced the columns with steel jackets before the deadline.",
+      "example_ko": "기술자들은 기한 전에 강철 재킷으로 기둥을 보강했다.",
+      "collocations": ["reinforced concrete", "reinforce a stereotype"],
+      "note": "re-(다시) + force(힘) = '다시 힘을 넣다'. 물리적 보강만이 아니라 reinforce a belief(믿음을 굳히다)처럼 추상적으로도 쓰고, 명사 reinforcements(복수)는 군사 '증원 병력'이 된다.",
+      "family": [
+        { "word": "reinforcement", "pos": "n.", "ko": "보강, 강화; (복수형) 증원 병력" },
+        { "word": "unreinforced", "pos": "a.", "ko": "보강되지 않은" }
+      ]
+    },
+    {
+      "headword": "demolish",
+      "pos": "v.",
+      "ko": "철거하다, 완전히 부수다",
+      "example_en": "The council voted to demolish the tower rather than pay for repairs.",
+      "example_ko": "의회는 보수 비용을 대는 대신 그 건물을 철거하기로 표결했다.",
+      "collocations": ["demolish a building", "demolish an argument"],
+      "note": "de-(아래로) + moliri(짓다) = '지은 것을 허물다'. 이미 배운 dismantle이 '부품을 풀어 해체하다'라면 demolish는 '때려 부수다'에 가깝고, demolish an argument(논거를 박살내다)처럼 비유로도 쓴다.",
+      "family": [
+        { "word": "demolition", "pos": "n.", "ko": "철거, 파괴" }
+      ],
+      "related": [
+        { "word": "dismantle", "ko": "해체하다", "note": "dismantle은 조직·제도를 단계적으로 해체할 때도 쓰지만(dismantle a program), demolish는 물리적으로 부수는 쪽" }
+      ]
+    },
+    {
+      "headword": "occupant",
+      "pos": "n.",
+      "ko": "(건물·차량에) 있는 사람, 거주자; 현직자",
+      "example_en": "Fire regulations limit the number of occupants allowed on each floor.",
+      "example_ko": "소방 규정은 각 층에 있을 수 있는 인원을 제한한다.",
+      "collocations": ["building occupants", "the current occupant"],
+      "note": "resident가 '사는 사람'이라면 occupant는 '지금 그 공간을 차지하고 있는 사람'이라 차량 탑승자·재실자에도 쓴다. the occupant of the White House처럼 '그 자리의 현직자'라는 표현도 흔하다.",
+      "family": [
+        { "word": "occupy", "pos": "v.", "ko": "차지하다, 점유하다" },
+        { "word": "occupancy", "pos": "n.", "ko": "입주(율), 사용, 점유" }
+      ]
+    },
+    {
+      "headword": "condemn",
+      "pos": "v.",
+      "ko": "비난하다; (건물에) 사용 금지 판정을 내리다",
+      "example_en": "Inspectors condemned the apartment block after finding cracked support walls.",
+      "example_ko": "조사관들은 지지벽에서 균열을 발견한 뒤 그 아파트 건물에 사용 금지 판정을 내렸다.",
+      "collocations": ["strongly condemn", "condemn a building"],
+      "note": "con-(강조) + damn(단죄하다)로 '강하게 비난하다'가 익숙하지만, 건축·재난 기사에서는 '거주 부적합 판정을 내리다'가 핵심 뜻이다. 한 단어의 두 얼굴을 함께 외워야 지문에서 오독하지 않는다.",
+      "family": [
+        { "word": "condemnation", "pos": "n.", "ko": "비난; (건물의) 사용 금지 처분" }
+      ]
+    },
+    {
+      "headword": "enact",
+      "pos": "v.",
+      "ko": "(법·조례를) 제정하다; 시행하다",
+      "example_en": "The ordinance was enacted in 2019 but has yet to take effect.",
+      "example_ko": "그 조례는 2019년에 제정되었지만 아직 시행되지 않았다.",
+      "collocations": ["enact legislation", "enact a law"],
+      "note": "en-(~이 되게 하다) + act(법령) — 법을 '있게 만드는' 것이 제정이다. 제정(enact) → 발효(take effect) → 집행(enforce)의 3단계를 구분해 두면 정책 지문이 한결 쉬워진다.",
+      "family": [
+        { "word": "enactment", "pos": "n.", "ko": "제정, 입법" }
+      ],
+      "related": [
+        { "word": "enforce", "ko": "(법을) 집행하다", "note": "철자가 비슷해 헷갈리지만 enact는 법을 만드는 것, enforce는 이미 있는 법을 지키게 만드는 것 — 기사에서 짝지어 나온다" }
+      ]
+    },
+    {
+      "headword": "legislature",
+      "pos": "n.",
+      "ko": "입법부, 의회",
+      "example_en": "The state legislature adjourned without voting on the safety bill.",
+      "example_ko": "주 의회는 그 안전 법안을 표결하지 않은 채 휴회했다.",
+      "collocations": ["the state legislature", "a legislature convenes"],
+      "note": "leg-는 law(법) 뿌리(legal·legitimate와 같은 계열). 어미로 뜻이 갈리니 세트로 외운다 — legislature는 '기관(의회)', legislation은 '법률·입법 행위', legislator는 '의원'.",
+      "family": [
+        { "word": "legislation", "pos": "n.", "ko": "법률, 입법" },
+        { "word": "legislator", "pos": "n.", "ko": "입법자, 의원" },
+        { "word": "legislative", "pos": "a.", "ko": "입법의" }
+      ]
+    },
+    {
+      "headword": "sporadic",
+      "pos": "a.",
+      "ko": "산발적인, 이따금 일어나는",
+      "example_en": "Inspections have been sporadic, and violations often go unnoticed for years.",
+      "example_ko": "점검이 산발적이어서 위반 사항이 몇 년씩 눈에 띄지 않고 넘어가는 일이 잦다.",
+      "collocations": ["sporadic outbreaks", "sporadic enforcement"],
+      "note": "'씨를 흩뿌리다(spora-)'에서 온 말로 시간·장소에 흩어져 띄엄띄엄 일어나는 것. spore(포자)와 같은 뿌리라고 생각하면 이미지가 남는다.",
+      "related": [
+        { "word": "intermittent", "ko": "간헐적인", "note": "intermittent는 끊겼다 이어졌다를 규칙적으로 반복하는 느낌(intermittent rain), sporadic은 불규칙하게 드문드문" }
+      ]
+    },
+    {
+      "headword": "inertia",
+      "pos": "n.",
+      "ko": "관성; 타성, 무기력",
+      "example_en": "Bureaucratic inertia, not cost, is what delays most safety reforms.",
+      "example_ko": "대부분의 안전 개혁을 지연시키는 것은 비용이 아니라 관료 조직의 타성이다.",
+      "collocations": ["bureaucratic inertia", "institutional inertia"],
+      "note": "in-(아님) + ars(활동) = '움직이지 않음'. 물리의 '관성'이 그대로 비유로 넘어와 '하던 대로 두려는 힘'을 뜻하고, institutional inertia는 개혁이 안 되는 이유를 짚을 때 나오는 단골 표현이다.",
+      "related": [
+        { "word": "inert", "ko": "비활성의, 굼뜬", "note": "inert gas(비활성 기체)처럼 '반응하지 않는' — inertia의 형용사 짝" }
+      ]
+    },
+    {
+      "headword": "complacency",
+      "pos": "n.",
+      "ko": "안일함, 자기만족",
+      "example_en": "Two decades without a serious quake bred a dangerous complacency.",
+      "example_ko": "큰 지진 없이 20년이 흐르면서 위험한 안일함이 자리 잡았다.",
+      "collocations": ["breed complacency", "a sense of complacency"],
+      "note": "형용사 complacent는 '만족한(satisfied)'이 아니라 '스스로 만족해 손 놓고 있는'이라는 부정적 평가어다. 철자가 비슷한 complaisant(남의 비위를 맞추는)와 헷갈리지 않도록 주의.",
+      "family": [
+        { "word": "complacent", "pos": "a.", "ko": "안일한, 자만하는" }
+      ]
+    },
+    {
+      "headword": "preemptive",
+      "pos": "a.",
+      "ko": "선제적인, 미리 손을 쓰는",
+      "example_en": "A preemptive repair costs a fraction of an emergency one.",
+      "example_ko": "선제적 보수는 응급 복구에 드는 비용의 극히 일부밖에 들지 않는다.",
+      "collocations": ["preemptive measures", "a preemptive strike"],
+      "note": "pre-(먼저) + empt(사다·취하다) = 남보다 먼저 가로채다. 같은 empt 뿌리로 exempt(밖으로 빼내다 → 면제하다)가 있다. 이미 배운 forestall과 통하지만 preemptive는 '상대가 치기 전에 먼저 친다'는 공격적 뉘앙스가 있다.",
+      "family": [
+        { "word": "preempt", "pos": "v.", "ko": "선수를 치다, 앞질러 차단하다" }
+      ],
+      "related": [
+        { "word": "forestall", "ko": "미리 막다", "note": "forestall은 나쁜 일이 일어나기 전에 '막는' 데 초점, preemptive는 순서상 '먼저 움직인다'는 데 초점" }
+      ]
+    },
+    {
+      "headword": "protracted",
+      "pos": "a.",
+      "ko": "오래 끄는, 장기화된",
+      "example_en": "A protracted dispute over liability stalled the repairs for years.",
+      "example_ko": "책임 소재를 둘러싼 장기 분쟁이 보수 공사를 몇 년간 멈춰 세웠다.",
+      "collocations": ["a protracted dispute", "protracted negotiations"],
+      "note": "pro-(앞으로) + tract(끌다) = 시간을 앞으로 질질 끄는 것. 같은 tract 계열로 extract(뽑아내다)·contract(당겨 묶다 → 계약)가 있다. prolonged와 비슷하지만 protracted에는 '지겹게 길어졌다'는 부정적 평가가 배어 있다.",
+      "related": [
+        { "word": "prolonged", "ko": "장기화된", "note": "prolonged는 중립적으로 '길어진', protracted는 화자가 못마땅해하는 뉘앙스가 실린다" }
+      ]
+    },
+    {
+      "headword": "underscore",
+      "pos": "v.",
+      "ko": "강조하다, 부각하다",
+      "example_en": "The report underscores the gap between written rules and actual enforcement.",
+      "example_ko": "그 보고서는 문서상의 규정과 실제 집행 사이의 간극을 부각한다.",
+      "collocations": ["underscore the need for", "underscore the importance of"],
+      "note": "under(아래) + score(금을 긋다) = '밑줄을 긋다' → 밑줄이 곧 강조다. 논설·보고서에서 emphasize 대신 쓰는 격식체 동사이고, X underscores the need for Y(X는 Y의 필요성을 부각한다) 형태가 통째로 자주 나온다.",
+      "related": [
+        { "word": "highlight", "ko": "강조하다", "note": "거의 동의어지만 underscore가 더 격식체라 사설·보고서에서 선호된다" }
+      ]
+    }
+  ]
+}
