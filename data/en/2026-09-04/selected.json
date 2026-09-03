@@ -1,0 +1,358 @@
+{
+  "date": "2026-09-04",
+  "words": [
+    {
+      "headword": "contaminant",
+      "pos": "n.",
+      "ko": "오염 물질",
+      "example_en": "Traces of the contaminant were found in wells more than ten kilometers downstream.",
+      "example_ko": "그 오염 물질의 흔적이 10킬로미터 넘게 떨어진 하류의 우물들에서 발견되었다.",
+      "collocations": [
+        "remove contaminants",
+        "levels of contaminants"
+      ],
+      "note": "어원: con-(함께) + tangere(닿다) — '닿아서 더러워진 것'. contact·contagious(전염성의)와 한 뿌리라 '접촉해서 옮는다'는 감각이 공통이다.",
+      "family": [
+        {
+          "word": "contaminate",
+          "pos": "v.",
+          "ko": "오염시키다"
+        },
+        {
+          "word": "contamination",
+          "pos": "n.",
+          "ko": "오염"
+        }
+      ],
+      "related": [
+        {
+          "word": "pollutant",
+          "ko": "오염원",
+          "note": "pollutant는 공장·차량이 '배출한' 오염원, contaminant는 물·식품처럼 들어가면 안 될 곳에 '섞여 든' 물질에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "remediation",
+      "pos": "n.",
+      "ko": "(오염) 정화, 복원; 교정",
+      "example_en": "The company set aside two hundred million dollars for the remediation of the contaminated site.",
+      "example_ko": "그 회사는 오염된 부지의 정화 작업에 2억 달러를 따로 배정했다.",
+      "collocations": [
+        "soil remediation",
+        "the cost of remediation"
+      ],
+      "note": "remedy(치료법)와 같은 뿌리 re-(다시) + mederi(고치다). 환경 분야에서는 '오염된 토양·지하수를 되돌려 놓는 정화 작업'을 가리키는 전문 용어로 굳었다.",
+      "family": [
+        {
+          "word": "remedy",
+          "pos": "n./v.",
+          "ko": "해결책, 치료법; 바로잡다"
+        },
+        {
+          "word": "remedial",
+          "pos": "a.",
+          "ko": "교정의, 보충의 (remedial class: 보충 수업)"
+        }
+      ]
+    },
+    {
+      "headword": "residue",
+      "pos": "n.",
+      "ko": "잔류물, 찌꺼기",
+      "example_en": "Inspectors test imported produce for pesticide residue before it reaches stores.",
+      "example_ko": "검사관들은 수입 농산물이 매장에 도착하기 전에 농약 잔류물을 검사한다.",
+      "collocations": [
+        "pesticide residue",
+        "leave a residue"
+      ],
+      "note": "re-(뒤에) + sid-(앉다) → '뒤에 남아 앉은 것'. reside(거주하다)·resident와 한 뿌리로, '자리에 남아 있다'가 공통 감각이다.",
+      "family": [
+        {
+          "word": "residual",
+          "pos": "a.",
+          "ko": "남아 있는, 잔여의"
+        },
+        {
+          "word": "reside",
+          "pos": "v.",
+          "ko": "거주하다, (성질이) ~에 있다"
+        }
+      ]
+    },
+    {
+      "headword": "filtration",
+      "pos": "n.",
+      "ko": "여과",
+      "example_en": "Upgrading the plant's filtration system will add roughly ten dollars to the average monthly bill.",
+      "example_ko": "그 정수장의 여과 설비를 개선하면 평균 월 요금이 약 10달러 오를 것이다.",
+      "collocations": [
+        "water filtration system",
+        "filtration plant"
+      ],
+      "note": "filter에 -ation이 붙으면 장치가 아니라 '거르는 공정'이 된다(filter = 필터/거르다, filtration = 여과라는 과정). 기술 문서에서 장치는 filter, 공정은 filtration으로 갈라 쓴다.",
+      "family": [
+        {
+          "word": "filter",
+          "pos": "n./v.",
+          "ko": "여과 장치; 거르다"
+        }
+      ]
+    },
+    {
+      "headword": "potable",
+      "pos": "a.",
+      "ko": "마실 수 있는, 음용의",
+      "example_en": "After the flood, the city trucked in potable water for nearly a week.",
+      "example_ko": "홍수가 난 뒤 그 도시는 일주일 가까이 트럭으로 식수를 실어 날랐다.",
+      "collocations": [
+        "potable water",
+        "safe and potable"
+      ],
+      "note": "라틴어 potare(마시다)에서 왔고 potion(물약)과 한 뿌리다. 철자가 portable과 r 하나 차이라 시험에서 잘 걸린다.",
+      "related": [
+        {
+          "word": "portable",
+          "ko": "휴대용의",
+          "note": "potable water는 '식수', portable water라고 쓰면 '들고 다니는 물'이 되어 오답 — r의 유무만 다르니 주의"
+        }
+      ]
+    },
+    {
+      "headword": "discharge",
+      "pos": "v./n.",
+      "ko": "방류하다; 해고·퇴원시키다; (의무를) 이행하다",
+      "example_en": "The plant was fined for discharging untreated wastewater into the river.",
+      "example_ko": "그 공장은 처리하지 않은 폐수를 강에 방류한 일로 벌금을 물었다.",
+      "collocations": [
+        "discharge wastewater",
+        "discharge a duty",
+        "be discharged from hospital"
+      ],
+      "note": "dis-(떼어내다) + charge(짐을 싣다) → '싣고 있던 것을 내려놓다'. 여기서 폐수 방류·퇴원·해고·의무 이행이 모두 갈라져 나오니, 무엇을 내려놓는지를 문맥에서 찾으면 뜻이 잡힌다.",
+      "related": [
+        {
+          "word": "charge",
+          "ko": "싣다; 청구하다; 고발하다",
+          "note": "'짐을 싣다'가 원뜻 — 요금을 지우면 청구, 혐의를 지우면 고발이 된다. discharge는 그 반대 방향"
+        }
+      ]
+    },
+    {
+      "headword": "linger",
+      "pos": "v.",
+      "ko": "오래 남다, 가시지 않다; 꾸물거리다",
+      "example_en": "Doubts about the safety of the drug lingered long after the recall.",
+      "example_ko": "그 약의 안전성에 대한 의구심은 회수 조치가 있고 나서도 오랫동안 가시지 않았다.",
+      "collocations": [
+        "lingering doubts",
+        "linger on"
+      ],
+      "note": "long(길다)과 한 뿌리로 '길게 끌다'가 핵심. 냄새·통증·의심처럼 사라져야 마땅한 것이 안 사라질 때 쓰는 부정적 뉘앙스의 단어다.",
+      "related": [
+        {
+          "word": "languish",
+          "ko": "시들다, 방치되다",
+          "note": "linger는 '없어지지 않고 남다', languish는 '돌보는 이 없어 시들어 가다' — 남는 것과 나빠지는 것의 차이"
+        }
+      ]
+    },
+    {
+      "headword": "precautionary",
+      "pos": "a.",
+      "ko": "예방적인, 사전 예방의",
+      "example_en": "The agency suspended sales as a precautionary measure while the tests continued.",
+      "example_ko": "당국은 검사가 진행되는 동안 예방 조치로 판매를 중단시켰다.",
+      "collocations": [
+        "precautionary measure",
+        "the precautionary principle"
+      ],
+      "note": "pre-(미리) + caution(조심) → '위험이 확정되기 전에 미리'. 환경·보건 정책의 precautionary principle(사전예방 원칙)은 '해롭다는 증거가 완전히 갖춰지기 전에도 규제한다'는 뜻이다.",
+      "family": [
+        {
+          "word": "caution",
+          "pos": "n./v.",
+          "ko": "주의; 경고하다"
+        },
+        {
+          "word": "cautious",
+          "pos": "a.",
+          "ko": "조심스러운"
+        },
+        {
+          "word": "precaution",
+          "pos": "n.",
+          "ko": "예방 조치"
+        }
+      ]
+    },
+    {
+      "headword": "advisory",
+      "pos": "a./n.",
+      "ko": "권고의, 자문의; 주의보",
+      "example_en": "The limit was merely advisory, so no utility faced penalties for exceeding it.",
+      "example_ko": "그 기준은 권고에 불과했기에 어떤 수도 사업체도 초과를 이유로 처벌받지 않았다.",
+      "collocations": [
+        "advisory role",
+        "advisory committee",
+        "a travel advisory"
+      ],
+      "note": "핵심은 '법적 구속력이 없다'는 것 — advisory limit(권고 기준)은 어겨도 제재가 없고, binding·mandatory 기준은 강제된다. 기사에서 이 대비가 자주 나온다.",
+      "family": [
+        {
+          "word": "advise",
+          "pos": "v.",
+          "ko": "조언하다, 권고하다"
+        },
+        {
+          "word": "advisable",
+          "pos": "a.",
+          "ko": "권할 만한, 바람직한"
+        }
+      ],
+      "related": [
+        {
+          "word": "adverse",
+          "ko": "불리한, 부작용의",
+          "note": "철자가 비슷해 헷갈리지만 뜻은 무관 — adverse effects는 '부작용', advisory opinion은 '자문 의견'"
+        }
+      ]
+    },
+    {
+      "headword": "settlement",
+      "pos": "n.",
+      "ko": "합의(금); 정착(지); 결제",
+      "example_en": "The manufacturer reached a settlement with the plaintiffs without admitting liability.",
+      "example_ko": "그 제조사는 책임을 인정하지 않은 채 원고 측과 합의에 이르렀다.",
+      "collocations": [
+        "reach a settlement",
+        "out-of-court settlement"
+      ],
+      "note": "settle(가라앉히다·자리 잡다·정리하다)의 명사형이라 뜻이 세 갈래 — 분쟁을 가라앉히면 합의, 사람이 자리 잡으면 정착지, 대금을 정리하면 결제다. 소송 기사에서는 대개 '재판까지 가지 않고 끝낸 합의'.",
+      "family": [
+        {
+          "word": "settle",
+          "pos": "v.",
+          "ko": "해결하다, 합의하다; 정착하다"
+        }
+      ]
+    },
+    {
+      "headword": "durability",
+      "pos": "n.",
+      "ko": "내구성, 오래감",
+      "example_en": "The material's durability is exactly what makes it so hard to dispose of.",
+      "example_ko": "그 소재의 내구성이야말로 그것을 처리하기 그토록 어렵게 만드는 요인이다.",
+      "collocations": [
+        "test the durability",
+        "durability of the product"
+      ],
+      "note": "dur-(지속하다, 단단하다)가 뿌리 — during(~하는 동안)·duration(지속 기간)·endure(견디다)가 모두 여기서 나온다. '오래 간다'가 공통 감각이라 뜻을 묶어서 외우면 좋다.",
+      "family": [
+        {
+          "word": "durable",
+          "pos": "a.",
+          "ko": "내구성 있는, 오래가는"
+        },
+        {
+          "word": "duration",
+          "pos": "n.",
+          "ko": "지속 기간"
+        },
+        {
+          "word": "endure",
+          "pos": "v.",
+          "ko": "견디다, 지속되다"
+        }
+      ]
+    },
+    {
+      "headword": "adjudicate",
+      "pos": "v.",
+      "ko": "판결하다, 판정하다",
+      "example_en": "It may take years for the court to adjudicate the competing claims.",
+      "example_ko": "법원이 서로 맞선 청구들을 판결하는 데 몇 년이 걸릴 수도 있다.",
+      "collocations": [
+        "adjudicate a dispute",
+        "adjudicate claims"
+      ],
+      "note": "ad-(~에) + judic-(판단하다) → judge·judicial·prejudice(미리 판단 = 편견)와 한 뿌리. 개인의 판단이 아니라 법원·중재기구가 '공식적으로 판가름한다'는 딱딱한 말이다.",
+      "family": [
+        {
+          "word": "adjudication",
+          "pos": "n.",
+          "ko": "판결, 재정"
+        },
+        {
+          "word": "judicial",
+          "pos": "a.",
+          "ko": "사법의"
+        }
+      ]
+    },
+    {
+      "headword": "supersede",
+      "pos": "v.",
+      "ko": "대체하다, 대신하게 되다",
+      "example_en": "The new guidelines supersede the advisory issued five years ago.",
+      "example_ko": "새 지침은 5년 전에 나온 권고를 대체한다.",
+      "collocations": [
+        "supersede the previous version",
+        "be superseded by"
+      ],
+      "note": "super-(위에) + sedere(앉다) → '위에 앉아 앞것을 밀어낸다'. 철자 함정 — 발음이 같은 -cede/-ceed(precede, proceed)와 달리 supersede만 -sede로 쓴다.",
+      "related": [
+        {
+          "word": "supplant",
+          "ko": "밀어내고 대신하다",
+          "note": "supplant는 자리를 빼앗는 힘이 느껴지고, supersede는 규정·판본이 공식적으로 갈아치워질 때 자연스럽다"
+        }
+      ]
+    },
+    {
+      "headword": "preclude",
+      "pos": "v.",
+      "ko": "배제하다, ~하지 못하게 하다",
+      "example_en": "Signing the agreement does not preclude further legal action.",
+      "example_ko": "그 합의서에 서명한다고 해서 추가 법적 조치가 배제되는 것은 아니다.",
+      "collocations": [
+        "preclude the possibility",
+        "does not preclude"
+      ],
+      "note": "pre-(미리) + claud-(닫다) → '미리 문을 닫아 막다'. exclude(밖으로 닫다)·include(안에 닫다)·seclude(따로 닫다)와 같은 뿌리이니 clud/clus가 보이면 '닫다'로 풀면 된다.",
+      "related": [
+        {
+          "word": "prevent",
+          "ko": "막다, 예방하다",
+          "note": "prevent는 실제 행동을 막는 일반어, preclude는 '가능성 자체를 차단한다'는 문어체 — 계약·규정 문장에 자주 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "candid",
+      "pos": "a.",
+      "ko": "솔직한, 있는 그대로의",
+      "example_en": "The chief executive was unusually candid about the costs the company had hidden.",
+      "example_ko": "그 최고경영자는 회사가 감춰 온 비용에 대해 이례적으로 솔직했다.",
+      "collocations": [
+        "a candid assessment",
+        "be candid about"
+      ],
+      "note": "라틴어 candidus(흰)에서 왔다 — 흰 옷을 입고 다니던 로마의 공직 지원자에서 candidate(후보)가 나왔고, candid는 '숨김없이 흰'에서 '솔직한'으로 갈라졌다.",
+      "family": [
+        {
+          "word": "candor",
+          "pos": "n.",
+          "ko": "솔직함"
+        }
+      ],
+      "related": [
+        {
+          "word": "candidate",
+          "ko": "후보(자)",
+          "note": "어원은 같지만 뜻은 전혀 다르다 — a candid candidate(솔직한 후보)처럼 나란히 쓰면 차이가 분명해진다"
+        }
+      ]
+    }
+  ]
+}

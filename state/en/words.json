@@ -1800,6 +1800,51 @@
     },
     "complacency": {
       "added_on": "2026-09-03"
+    },
+    "contaminant": {
+      "added_on": "2026-09-04"
+    },
+    "remediation": {
+      "added_on": "2026-09-04"
+    },
+    "residue": {
+      "added_on": "2026-09-04"
+    },
+    "filtration": {
+      "added_on": "2026-09-04"
+    },
+    "potable": {
+      "added_on": "2026-09-04"
+    },
+    "discharge": {
+      "added_on": "2026-09-04"
+    },
+    "linger": {
+      "added_on": "2026-09-04"
+    },
+    "precautionary": {
+      "added_on": "2026-09-04"
+    },
+    "advisory": {
+      "added_on": "2026-09-04"
+    },
+    "settlement": {
+      "added_on": "2026-09-04"
+    },
+    "durability": {
+      "added_on": "2026-09-04"
+    },
+    "adjudicate": {
+      "added_on": "2026-09-04"
+    },
+    "supersede": {
+      "added_on": "2026-09-04"
+    },
+    "preclude": {
+      "added_on": "2026-09-04"
+    },
+    "candid": {
+      "added_on": "2026-09-04"
     }
   }
 }
