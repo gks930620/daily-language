@@ -69,8 +69,17 @@ async function ensureDatabase() {
 }
 
 /**
- * 데이터베이스·테이블을 준비한다. 기동할 때 한 번 호출한다(여러 번 돌려도 안전).
- * 계정(CREATE USER)은 만들지 않는다 — 전용 계정을 쓸 때는 사람이 한 번 만들어야 한다.
+ * 데이터베이스와 **이 프로젝트가 소유한 테이블**을 준비한다. 기동할 때 한 번(여러 번 돌려도 안전).
+ *
+ * 소유권 구분 — 테이블을 두 곳에서 만들면 반드시 어긋난다(특히 Spring이 ddl-auto를 켜 두면
+ * Hibernate가 컬럼을 고치려 든다). 그래서 만드는 쪽을 하나로 못박는다:
+ *
+ *   이 프로젝트가 만든다: users, study_log   (진도 기록 = 이 프로젝트의 기능)
+ *   Spring이 만든다:     daily_content, daily_word  (콘텐츠를 읽고 발전시키는 쪽이 소유)
+ *
+ * 콘텐츠 테이블이 없으면 적재가 실패하는데, 그건 Spring이 아직 안 만든 것이므로
+ * 그 사실이 그대로 드러나는 게 맞다(조용히 만들어 주면 소유권이 흐려진다).
+ * 계정(CREATE USER)도 만들지 않는다 — 전용 계정을 쓸 때는 사람이 한 번 만든다.
  */
 export async function ensureSchema() {
   await ensureDatabase();
@@ -96,40 +105,6 @@ export async function ensureSchema() {
     CONSTRAINT fk_study_user FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
   ) ENGINE=InnoDB`);
 
-  // ── 학습 콘텐츠 — GitHub Actions가 매일 생성한 것을 그대로 담는다 ──
-  // 원본은 저장소(data/<트랙>/<날짜>/)이고 이 테이블은 **다시 만들 수 있는 사본**이다.
-  // 그래서 (track, study_date) 업서트로만 넣는다 — 몇 번을 다시 보내도 같은 결과다.
-  //
-  // content_json에 AI 산출물 전문을 그대로 둔다(무손실). 자주 쓸 값만 열로 뽑아
-  // Spring이 JSON을 파싱하지 않고도 목록·검색을 할 수 있게 한다.
-  await ddl(`CREATE TABLE IF NOT EXISTS daily_content (
-    track          VARCHAR(16)  NOT NULL,
-    study_date     DATE         NOT NULL,
-    passage_note   VARCHAR(255) NULL,
-    sentence_count SMALLINT UNSIGNED NOT NULL DEFAULT 0,
-    word_count     SMALLINT UNSIGNED NOT NULL DEFAULT 0,
-    content_json   JSON         NOT NULL,
-    selected_json  JSON         NULL,
-    updated_at     TIMESTAMP    NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    PRIMARY KEY (track, study_date),
-    KEY idx_date (study_date)
-  ) ENGINE=InnoDB`);
-
-  // 단어 단위 검색·조인용. daily_content에서 파생되는 값이라 적재 때마다 그날 것만 지우고 다시 넣는다.
-  await ddl(`CREATE TABLE IF NOT EXISTS daily_word (
-    track      VARCHAR(16)  NOT NULL,
-    study_date DATE         NOT NULL,
-    headword   VARCHAR(128) NOT NULL,
-    reading    VARCHAR(128) NULL,
-    pos        VARCHAR(32)  NULL,
-    ko         VARCHAR(255) NULL,
-    example    TEXT         NULL,
-    example_ko TEXT         NULL,
-    note       TEXT         NULL,
-    PRIMARY KEY (track, study_date, headword),
-    KEY idx_headword (headword),
-    KEY idx_track_date (track, study_date)
-  ) ENGINE=InnoDB`);
 }
 
 /** 연결 확인용(헬스체크). */
@@ -251,6 +226,15 @@ export async function upsertContent({ track, date, content, selected }) {
     return { track, date, words: seen.size };
   } catch (err) {
     await conn.rollback().catch(() => {});
+    // 테이블이 없으면 Spring이 아직 안 만든 것이다. 원인이 바로 보이게 바꿔서 던진다.
+    if (err.code === 'ER_NO_SUCH_TABLE') {
+      const e = new Error(
+        'daily_content / daily_word 테이블이 없습니다. ' +
+          '이 테이블은 Spring 쪽이 소유합니다 — CONTENT-DB.md의 DDL로 먼저 만들어 주세요.'
+      );
+      e.code = 'ER_NO_SUCH_TABLE';
+      throw e;
+    }
     throw err;
   } finally {
     conn.release();

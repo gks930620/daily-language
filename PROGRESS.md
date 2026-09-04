@@ -22,7 +22,19 @@
 
 **핵심 원칙**: 저장소가 원본, DB는 다시 만들 수 있는 사본. `(track, study_date)` 업서트로만 넣어 재전송·백필·복구가 전부 안전하다.
 
-**남은 것(사용자)**: Railway와 GitHub Secrets 양쪽에 같은 `INGEST_TOKEN` 설정 → `node scripts/publish.js --all`로 40일치 백필.
+**소유권 정리(사용자 지적)**: "Spring 프로젝트가 이미 있는데 그쪽에서 만들게 하는 게 낫지 않나. 이 프로젝트는 단순히 넣기만." — 맞다. 테이블을 두 곳에서 만들면 반드시 어긋난다(특히 Spring이 `ddl-auto`를 켜 두면 Hibernate가 컬럼을 고치려 든다). 읽고 발전시킬 쪽이 소유하는 게 옳아서 `daily_content`·`daily_word` DDL을 이 프로젝트에서 **제거**했다.
+
+| 테이블 | 소유자 |
+|---|---|
+| `users`·`study_log` | 이 프로젝트(Node가 기동 시 자동 생성) |
+| `daily_content`·`daily_word` | **Spring**(CONTENT-DB.md의 DDL 또는 JPA 엔티티) |
+
+테이블이 없으면 적재가 **409 + 안내 문구**를 돌려준다 — 조용히 만들어 주지 않는다(그러면 소유권이 흐려진다). 그날 콘텐츠 커밋에는 영향 없고 백필로 따라잡는다.
+
+**남은 것(사용자)**
+1. Spring에서 `daily_content`·`daily_word` 생성 (CONTENT-DB.md에 SQL·JPA 엔티티 둘 다 있음)
+2. Railway와 GitHub Secrets 양쪽에 같은 `INGEST_TOKEN` 설정
+3. `node scripts/publish.js --all`로 40일치 백필 → `--summary`로 확인
 
 ## (이전) 2026-08-10 — 진도 기록 기능 가동 확인 완료
 

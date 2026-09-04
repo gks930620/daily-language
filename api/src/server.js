@@ -273,7 +273,16 @@ async function handle(req, res) {
     }
     const checked = validateContentBody(body);
     if (!checked.ok) return send(res, 400, { error: checked.error }, origin);
-    const result = await upsertContent(checked.value);
+    let result;
+    try {
+      result = await upsertContent(checked.value);
+    } catch (err) {
+      if (err.code === 'ER_NO_SUCH_TABLE') {
+        console.warn('적재 실패:', err.message);
+        return send(res, 409, { error: err.message }, origin); // 서버 오류가 아니라 준비 안 된 상태
+      }
+      throw err;
+    }
     console.log(`콘텐츠 적재: ${result.track} ${result.date} (단어 ${result.words})`);
     return send(res, 200, { ok: true, ...result }, origin);
   }
