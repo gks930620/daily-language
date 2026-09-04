@@ -2,9 +2,29 @@
 
 > 갱신 규칙: 작업 단위가 끝날 때마다 이 파일을 갱신하고 커밋·push한다. 새 세션은 이 파일 + `git log --oneline -15`로 상태를 복원한다.
 
-**마지막 갱신**: 2026-08-10 (진도 기록 가동)
+**마지막 갱신**: 2026-09-04
 
-## 최신 (2026-08-10) — 진도 기록 기능 **가동 확인 완료**
+## 최신 (2026-09-04) — 학습 콘텐츠를 DB로 적재 (Spring 연동 준비)
+
+사용자 목표: 기존 Spring 서버에서 이 프로젝트의 학습 콘텐츠를 쓰고 싶다.
+
+**결정 근거**
+- **생성은 GitHub Actions에 그대로 둔다.** 사용자 판단이 맞았다 — 공개 저장소라 Actions는 무료·무제한이고, `claude -p`는 CLI+구독 토큰이 필요해 Spring 컨테이너에 넣을 물건이 아니다. 40일 무사고로 도는 파이프라인(검증·재시도·멱등)을 다시 짤 이유도 없다.
+- **Spring을 깨우지 않는다.** 사용자 지적 — Spring은 켜지기만 해도 요금을 먹어 App Sleeping 중이다. 그래서 Actions가 Spring API를 부르는 안(깨움)과 Spring이 스케줄러로 당겨오는 안(상시 기동)을 버리고, **이미 안 자게 해 둔 Node API를 경유**한다. Spring은 쓰기에 전혀 관여하지 않고 사용자가 방문할 때만 SELECT한다.
+- **DB 자격증명을 CI에 넣지 않는다.** Actions가 MySQL에 직접 INSERT하면 root 비밀번호를 GitHub Secrets에 넣어야 한다. Node API가 이미 DB 연결을 갖고 있으니 HTTP로 넘긴다.
+
+**만든 것**
+- `daily_content`(하루치 1행: passage_note·개수·content_json 전문·selected_json) + `daily_word`(단어 1개당 1행, headword 인덱스) — 표시용과 검색·조인용을 둘 다 만족시킨다. Spring 용도가 미정이라 어느 쪽이든 되게 잡았다.
+- `POST /content`·`GET /content/summary` — **INGEST_TOKEN 전용**(세션 키와 분리). 토큰이 비면 엔드포인트 자체가 꺼진다(503). 비교는 timingSafeEqual.
+- `scripts/publish.js` — 하루치 전송 / `--all` 전량 백필 / `--summary` 현황.
+- 워크플로 트랙별 `publish` 스텝 — verify 통과분만, `continue-on-error`라 적재 실패가 콘텐츠 커밋에 영향 없음. 시크릿이 없으면 조용히 건너뛴다.
+- `CONTENT-DB.md` — Spring이 읽을 테이블·쿼리·운영 절차.
+
+**핵심 원칙**: 저장소가 원본, DB는 다시 만들 수 있는 사본. `(track, study_date)` 업서트로만 넣어 재전송·백필·복구가 전부 안전하다.
+
+**남은 것(사용자)**: Railway와 GitHub Secrets 양쪽에 같은 `INGEST_TOKEN` 설정 → `node scripts/publish.js --all`로 40일치 백필.
+
+## (이전) 2026-08-10 — 진도 기록 기능 가동 확인 완료
 
 첫 실사용 성공: 2026-08-10 영어에 "다 함" 기록 → 내 기록 페이지에 평균 진도 5%,
 기록한 날 1/19, 연속 1일이 정확히 표시됨. 로그인 → 기록 → MySQL → 조회 → 통계 → 화면

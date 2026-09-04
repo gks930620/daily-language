@@ -9,7 +9,9 @@ process.env.SESSION_SECRET ??= 'test-secret-that-is-long-enough-32-chars';
 process.env.DATABASE_URL ??= 'mysql://u:p@localhost:3306/daily_language';
 process.env.ALLOWED_ORIGINS ??= 'https://gks930620.github.io,https://study.example.com';
 
-const { validateStudyBody, isValidDate } = await import('../src/validate.js');
+const { validateStudyBody, validateContentBody, isValidDate } = await import(
+  '../src/validate.js'
+);
 const { issueSession, userIdFromRequest, safeReturnTo, startLogin, verifyTx } = await import(
   '../src/auth.js'
 );
@@ -226,4 +228,61 @@ test('resolveDbConfig: 빠진 값이 있으면 무엇이 빠졌는지 알려 준
   assert.throws(() => resolveDbConfig({ DB_HOST: 'h' }), /DB_USER, DB_PASSWORD, DB_NAME/);
   assert.throws(() => resolveDbConfig({ DB_HOST: 'h', DB_USER: 'u' }), /DB_PASSWORD, DB_NAME/);
   assert.throws(() => resolveDbConfig({}), /DB 접속 정보가 없습니다/);
+});
+
+// ---------------------------------------------------------------- 콘텐츠 적재
+
+const okContent = {
+  track: 'en',
+  date: '2026-09-04',
+  content: {
+    schema_version: 1,
+    lang: 'en',
+    date: '2026-09-04',
+    passage_note: '경제 — 어쩌고',
+    sentences: [{ en: 'A.', ko: 'ㄱ.', structure: '· 단문' }],
+    words: [{ headword: 'mitigate', pos: 'v.', ko: '완화하다' }],
+  },
+  selected: { date: '2026-09-04', words: [{ headword: 'mitigate' }] },
+};
+
+test('validateContentBody: 정상 본문 통과', () => {
+  const r = validateContentBody(okContent);
+  assert.ok(r.ok);
+  assert.equal(r.value.track, 'en');
+  assert.equal(r.value.date, '2026-09-04');
+});
+
+test('validateContentBody: selected는 없어도 된다(과거 데이터)', () => {
+  const { selected, ...rest } = okContent;
+  const r = validateContentBody(rest);
+  assert.ok(r.ok);
+  assert.equal(r.value.selected, null);
+});
+
+test('validateContentBody: track과 content.lang이 어긋나면 거부', () => {
+  const r = validateContentBody({ ...okContent, track: 'ja-n1' });
+  assert.equal(r.ok, false);
+  assert.match(r.error, /lang/);
+});
+
+test('validateContentBody: date와 content.date가 어긋나면 거부', () => {
+  const r = validateContentBody({ ...okContent, date: '2026-09-05' });
+  assert.equal(r.ok, false);
+  assert.match(r.error, /date/);
+});
+
+test('validateContentBody: 없는 트랙·잘못된 날짜·구조 위반 거부', () => {
+  assert.equal(validateContentBody({ ...okContent, track: 'ko' }).ok, false);
+  assert.equal(validateContentBody({ ...okContent, date: '2026-02-30' }).ok, false);
+  assert.equal(validateContentBody({ ...okContent, content: null }).ok, false);
+  assert.equal(
+    validateContentBody({ ...okContent, content: { ...okContent.content, words: 'x' } }).ok,
+    false
+  );
+  assert.equal(
+    validateContentBody({ ...okContent, selected: { words: 'not-array' } }).ok,
+    false
+  );
+  for (const bad of [null, 'x', 42, ['a']]) assert.equal(validateContentBody(bad).ok, false);
 });

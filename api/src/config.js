@@ -94,6 +94,13 @@ export const config = {
   /** cookie 모드에서 쿠키를 공유할 도메인(예: .example.com). 비우면 API 호스트 전용. */
   cookieDomain: optional('COOKIE_DOMAIN', ''),
 
+  /**
+   * 콘텐츠 적재(POST /content) 전용 토큰. GitHub Actions만 안다.
+   * **비워 두면 적재 엔드포인트가 아예 꺼진다**(설정 전 실수로 열리지 않게).
+   * 세션 키와 따로 두는 이유: 용도가 다르고, 하나가 새어도 다른 쪽이 안 뚫린다.
+   */
+  ingestToken: optional('INGEST_TOKEN', ''),
+
   /** MySQL 접속 정보(항목별 또는 URL). */
   db: resolveDbConfig(),
 

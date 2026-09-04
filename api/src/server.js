@@ -8,14 +8,26 @@
 //   GET  /auth/me       내가 누구인지 (로그인 상태 확인)
 //   PUT  /study         진도 1건 기록 (로그인 필요)
 //   GET  /study/me      내 기록 전부 (로그인 필요)
+//   POST /content       하루치 학습 콘텐츠 적재 (GitHub Actions 전용 토큰)
+//   GET  /content/summary  적재 현황 (같은 토큰)
 //
 // 웹 프레임워크를 쓰지 않는다 — 경로가 7개뿐이라 node:http로 충분하고,
 // 이 저장소의 "의존성은 꼭 필요한 것만" 기조를 API에도 유지한다.
 // 의존성은 둘뿐: mysql2(프로토콜 구현은 직접 못 한다), jose(JWT 검증은 직접 짜면 위험하다).
 
 import { createServer } from 'node:http';
+import { timingSafeEqual } from 'node:crypto';
 import { config } from './config.js';
-import { ping, ensureSchema, upsertUser, recordStudy, listStudy, findUser } from './db.js';
+import {
+  ping,
+  ensureSchema,
+  upsertUser,
+  recordStudy,
+  listStudy,
+  findUser,
+  upsertContent,
+  contentSummary,
+} from './db.js';
 import {
   startLogin,
   verifyTx,
@@ -25,9 +37,10 @@ import {
   safeReturnTo,
 } from './auth.js';
 import { readCookie, serializeCookie, clearCookie } from './cookies.js';
-import { validateStudyBody } from './validate.js';
+import { validateStudyBody, validateContentBody } from './validate.js';
 
-const MAX_BODY_BYTES = 16 * 1024; // 이 API가 받는 것은 작은 JSON뿐
+const MAX_BODY_BYTES = 16 * 1024; // 진도 기록 등 작은 JSON
+const MAX_CONTENT_BYTES = 512 * 1024; // 하루치 콘텐츠(실측 최대 40KB) — 넉넉하게
 const TX_COOKIE = 'dl_tx'; // 로그인 진행 중에만 쓰는 임시 쿠키
 const SESSION_COOKIE = 'dl_session';
 
@@ -67,13 +80,13 @@ function redirectWithError(res, returnTo, extraHeaders = {}) {
   redirect(res, url.toString(), extraHeaders);
 }
 
-function readJsonBody(req) {
+function readJsonBody(req, limit = MAX_BODY_BYTES) {
   return new Promise((resolve, reject) => {
     let size = 0;
     const chunks = [];
     req.on('data', (c) => {
       size += c.length;
-      if (size > MAX_BODY_BYTES) {
+      if (size > limit) {
         reject(new Error('본문이 너무 큽니다.'));
         req.destroy();
         return;
@@ -90,6 +103,21 @@ function readJsonBody(req) {
     });
     req.on('error', reject);
   });
+}
+
+/** Authorization: Bearer <값>에서 값만 꺼낸다. 없으면 빈 문자열. */
+function bearerOf(header) {
+  return typeof header === 'string' && header.startsWith('Bearer ')
+    ? header.slice('Bearer '.length)
+    : '';
+}
+
+/** 길이가 달라도 안전하게 비교한다(타이밍 공격으로 토큰을 한 글자씩 알아내지 못하게). */
+function timingSafeEquals(a, b) {
+  const ba = Buffer.from(String(a));
+  const bb = Buffer.from(String(b));
+  if (ba.length !== bb.length || ba.length === 0) return false;
+  return timingSafeEqual(ba, bb);
 }
 
 function currentUserId(req) {
@@ -225,6 +253,40 @@ async function handle(req, res) {
     const userId = await requireUser(req, res, origin);
     if (!userId) return;
     return send(res, 200, { schema_version: 1, days: await listStudy(userId) }, origin);
+  }
+
+  // ---------------------------------------------------------------- 콘텐츠 적재 (GitHub Actions 전용)
+  // 매일 03:00 파이프라인이 verify를 통과한 뒤 하루치를 보낸다. 업서트라 재전송·백필이 안전하다.
+  // Spring은 이 쓰기에 전혀 관여하지 않는다 — 자고 있어도 행은 그대로 쌓인다.
+  if (req.method === 'POST' && path === '/content') {
+    if (!config.ingestToken) {
+      return send(res, 503, { error: '적재가 설정되지 않았습니다(INGEST_TOKEN 없음).' }, origin);
+    }
+    if (!timingSafeEquals(bearerOf(req.headers.authorization), config.ingestToken)) {
+      return send(res, 401, { error: '적재 토큰이 올바르지 않습니다.' }, origin);
+    }
+    let body;
+    try {
+      body = await readJsonBody(req, MAX_CONTENT_BYTES);
+    } catch (err) {
+      return send(res, 400, { error: err.message }, origin);
+    }
+    const checked = validateContentBody(body);
+    if (!checked.ok) return send(res, 400, { error: checked.error }, origin);
+    const result = await upsertContent(checked.value);
+    console.log(`콘텐츠 적재: ${result.track} ${result.date} (단어 ${result.words})`);
+    return send(res, 200, { ok: true, ...result }, origin);
+  }
+
+  // 적재 현황 — 며칠분이 들어와 있는지. 백필·점검용(읽기 전용이라 토큰만 확인).
+  if (req.method === 'GET' && path === '/content/summary') {
+    if (!config.ingestToken) {
+      return send(res, 503, { error: '적재가 설정되지 않았습니다(INGEST_TOKEN 없음).' }, origin);
+    }
+    if (!timingSafeEquals(bearerOf(req.headers.authorization), config.ingestToken)) {
+      return send(res, 401, { error: '적재 토큰이 올바르지 않습니다.' }, origin);
+    }
+    return send(res, 200, { tracks: await contentSummary() }, origin);
   }
 
   send(res, 404, { error: '없는 경로입니다.' }, origin);

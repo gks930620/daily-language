@@ -25,6 +25,7 @@ node scripts/prepare.js --lang en      # ALREADY_DONE이면 그 언어는 그날
 node scripts/settle.js --lang en       # 검증 + 단어 장부 반영. 유일한 state 쓰기
 node scripts/build.js                  # --lang 없음: 항상 전 트랙 + 허브 docs/ 재생성
 node scripts/verify.js --lang en       # 커밋 전 게이트 (실패 시 exit 1)
+node scripts/publish.js --lang en      # (선택) 콘텐츠를 DB에 적재 — Spring이 읽는 용도. INGEST_TOKEN 필요
 # ja-n1·ja-n2도 같은 순서(generator.ja.md를 두 트랙이 공유, 난이도는 brief의 프로필로 구분)
 # 워크플로는 en → ja-n1 → ja-n2 블록 순서, 트랙별 커밋·push(로컬 작업 중엔 사용자 지시 있을 때만)
 ```
@@ -43,6 +44,7 @@ node scripts/verify.js --lang en       # 커밋 전 게이트 (실패 시 exit 1
 |---|---|
 | `SETUP.md` | **진도 기록 기능을 켜려면**(사용자가 직접 해야 하는 구글 OAuth·Railway 설정 체크리스트) |
 | `api/README.md` | 진도 기록 API의 설계·엔드포인트·AUTH_MODE를 알아야 할 때 |
+| `CONTENT-DB.md` | **Spring 등 외부에서 학습 콘텐츠를 DB로 읽으려면**(테이블·쿼리·적재 운영) |
 | `DB-SCHEMA.md` | MySQL의 데이터베이스=스키마 관계와 Oracle·PostgreSQL과의 차이(용어 혼동 정리) |
 | `README.md` | 사용자 관점·최초 설정·문제 해결이 궁금할 때 |
 | `ARCHITECTURE.md` | 코드를 고치기 전(상태 스키마·트랙 축·설계 결정 근거 [A1]~[A12]) |

@@ -95,6 +95,41 @@ export async function ensureSchema() {
     KEY idx_date (study_date),
     CONSTRAINT fk_study_user FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
   ) ENGINE=InnoDB`);
+
+  // ── 학습 콘텐츠 — GitHub Actions가 매일 생성한 것을 그대로 담는다 ──
+  // 원본은 저장소(data/<트랙>/<날짜>/)이고 이 테이블은 **다시 만들 수 있는 사본**이다.
+  // 그래서 (track, study_date) 업서트로만 넣는다 — 몇 번을 다시 보내도 같은 결과다.
+  //
+  // content_json에 AI 산출물 전문을 그대로 둔다(무손실). 자주 쓸 값만 열로 뽑아
+  // Spring이 JSON을 파싱하지 않고도 목록·검색을 할 수 있게 한다.
+  await ddl(`CREATE TABLE IF NOT EXISTS daily_content (
+    track          VARCHAR(16)  NOT NULL,
+    study_date     DATE         NOT NULL,
+    passage_note   VARCHAR(255) NULL,
+    sentence_count SMALLINT UNSIGNED NOT NULL DEFAULT 0,
+    word_count     SMALLINT UNSIGNED NOT NULL DEFAULT 0,
+    content_json   JSON         NOT NULL,
+    selected_json  JSON         NULL,
+    updated_at     TIMESTAMP    NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    PRIMARY KEY (track, study_date),
+    KEY idx_date (study_date)
+  ) ENGINE=InnoDB`);
+
+  // 단어 단위 검색·조인용. daily_content에서 파생되는 값이라 적재 때마다 그날 것만 지우고 다시 넣는다.
+  await ddl(`CREATE TABLE IF NOT EXISTS daily_word (
+    track      VARCHAR(16)  NOT NULL,
+    study_date DATE         NOT NULL,
+    headword   VARCHAR(128) NOT NULL,
+    reading    VARCHAR(128) NULL,
+    pos        VARCHAR(32)  NULL,
+    ko         VARCHAR(255) NULL,
+    example    TEXT         NULL,
+    example_ko TEXT         NULL,
+    note       TEXT         NULL,
+    PRIMARY KEY (track, study_date, headword),
+    KEY idx_headword (headword),
+    KEY idx_track_date (track, study_date)
+  ) ENGINE=InnoDB`);
 }
 
 /** 연결 확인용(헬스체크). */
@@ -150,4 +185,83 @@ export async function listStudy(userId) {
     (days[r.study_date] ??= {})[r.track] = r.level;
   }
   return days;
+}
+
+/**
+ * 하루치 학습 콘텐츠를 적재한다. **업서트라 몇 번을 다시 보내도 같은 결과다.**
+ *
+ * 저장소가 원본이고 이 테이블은 사본이므로, 전량 재적재(백필)로 언제든 복구할 수 있다.
+ * daily_word는 파생 테이블이라 그날 것을 지우고 다시 넣는다(단어가 바뀐 경우까지 반영).
+ *
+ * 트랜잭션으로 묶어 두 테이블이 어긋난 상태로 남지 않게 한다.
+ */
+export async function upsertContent({ track, date, content, selected }) {
+  const words = Array.isArray(selected?.words) ? selected.words : content.words ?? [];
+  const conn = await getPool().getConnection();
+  try {
+    await conn.beginTransaction();
+
+    await conn.execute(
+      `INSERT INTO daily_content
+         (track, study_date, passage_note, sentence_count, word_count, content_json, selected_json)
+       VALUES (?, ?, ?, ?, ?, CAST(? AS JSON), CAST(? AS JSON))
+       ON DUPLICATE KEY UPDATE
+         passage_note   = VALUES(passage_note),
+         sentence_count = VALUES(sentence_count),
+         word_count     = VALUES(word_count),
+         content_json   = VALUES(content_json),
+         selected_json  = VALUES(selected_json)`,
+      [
+        track,
+        date,
+        content.passage_note ?? null,
+        Array.isArray(content.sentences) ? content.sentences.length : 0,
+        words.length,
+        JSON.stringify(content),
+        selected ? JSON.stringify(selected) : null,
+      ]
+    );
+
+    await conn.execute('DELETE FROM daily_word WHERE track = ? AND study_date = ?', [track, date]);
+
+    const seen = new Set();
+    for (const w of words) {
+      const headword = String(w.headword ?? '').trim();
+      if (!headword || seen.has(headword)) continue; // 기본키가 (track, date, headword)라 중복 방어
+      seen.add(headword);
+      await conn.execute(
+        `INSERT INTO daily_word
+           (track, study_date, headword, reading, pos, ko, example, example_ko, note)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+        [
+          track,
+          date,
+          headword,
+          w.reading ?? null,
+          w.pos ?? null,
+          w.ko ?? null,
+          w.example_en ?? null,
+          w.example_ko ?? null,
+          w.note ?? null,
+        ]
+      );
+    }
+
+    await conn.commit();
+    return { track, date, words: seen.size };
+  } catch (err) {
+    await conn.rollback().catch(() => {});
+    throw err;
+  } finally {
+    conn.release();
+  }
+}
+
+/** 적재 현황 — 트랙별 며칠분이 들어와 있는지. 백필·점검용. */
+export async function contentSummary() {
+  return query(
+    `SELECT track, COUNT(*) AS days, MIN(study_date) AS first_date,
+            MAX(study_date) AS last_date, SUM(word_count) AS words
+       FROM daily_content GROUP BY track ORDER BY track`
+  );
 }

@@ -130,6 +130,20 @@ jobs:
             git push
           fi
 
+      - name: publish(en) — 콘텐츠를 DB에 적재 (Spring이 읽을 수 있게)
+        if: "!cancelled() && steps.verify-en.outcome == 'success'"
+        continue-on-error: true # 적재가 실패해도 학습 페이지 생성·커밋은 이미 끝났다. 다음 백필로 따라잡는다.
+        env:
+          PUBLISH_URL: ${{ secrets.PUBLISH_URL }}
+          INGEST_TOKEN: ${{ secrets.INGEST_TOKEN }}
+          DATE: ${{ steps.prepare-en.outputs.date }}
+        run: |
+          if [ -z "$INGEST_TOKEN" ]; then
+            echo "INGEST_TOKEN 시크릿이 없어 적재를 건너뜁니다(학습 페이지에는 영향 없음)."
+            exit 0
+          fi
+          node scripts/publish.js --lang en --date "$DATE"
+
       # ---------- JA-N1 블록 ----------
       - name: generate(ja-n1) — content.json 작성 (AI, 구독 사용량)
         id: generate-ja-n1
@@ -184,6 +198,20 @@ jobs:
             git push
           fi
 
+      - name: publish(ja-n1) — 콘텐츠를 DB에 적재 (Spring이 읽을 수 있게)
+        if: "!cancelled() && steps.verify-ja-n1.outcome == 'success'"
+        continue-on-error: true # 적재가 실패해도 학습 페이지 생성·커밋은 이미 끝났다. 다음 백필로 따라잡는다.
+        env:
+          PUBLISH_URL: ${{ secrets.PUBLISH_URL }}
+          INGEST_TOKEN: ${{ secrets.INGEST_TOKEN }}
+          DATE: ${{ steps.prepare-ja-n1.outputs.date }}
+        run: |
+          if [ -z "$INGEST_TOKEN" ]; then
+            echo "INGEST_TOKEN 시크릿이 없어 적재를 건너뜁니다(학습 페이지에는 영향 없음)."
+            exit 0
+          fi
+          node scripts/publish.js --lang ja-n1 --date "$DATE"
+
       # ---------- JA-N2 블록 ----------
       - name: generate(ja-n2) — content.json 작성 (AI, 구독 사용량)
         id: generate-ja-n2
@@ -237,3 +265,17 @@ jobs:
             git pull --rebase # 보험: 앞 블록 push 이후 원격이 앞서 있을 수 있음
             git push
           fi
+
+      - name: publish(ja-n2) — 콘텐츠를 DB에 적재 (Spring이 읽을 수 있게)
+        if: "!cancelled() && steps.verify-ja-n2.outcome == 'success'"
+        continue-on-error: true # 적재가 실패해도 학습 페이지 생성·커밋은 이미 끝났다. 다음 백필로 따라잡는다.
+        env:
+          PUBLISH_URL: ${{ secrets.PUBLISH_URL }}
+          INGEST_TOKEN: ${{ secrets.INGEST_TOKEN }}
+          DATE: ${{ steps.prepare-ja-n2.outputs.date }}
+        run: |
+          if [ -z "$INGEST_TOKEN" ]; then
+            echo "INGEST_TOKEN 시크릿이 없어 적재를 건너뜁니다(학습 페이지에는 영향 없음)."
+            exit 0
+          fi
+          node scripts/publish.js --lang ja-n2 --date "$DATE"
