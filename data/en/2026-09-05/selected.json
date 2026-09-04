@@ -1,0 +1,366 @@
+{
+  "date": "2026-09-05",
+  "words": [
+    {
+      "headword": "wager",
+      "pos": "n./v.",
+      "ko": "판돈, 내기; 돈을 걸다",
+      "example_en": "Users who place a wager on their phones bet nearly twice as often as those who do not.",
+      "example_ko": "휴대전화로 돈을 거는 이용자들은 그렇지 않은 사람들보다 거의 두 배 자주 베팅한다.",
+      "collocations": [
+        "place a wager",
+        "a wager on ~"
+      ],
+      "note": "wage(임금)와 같은 뿌리 — 원래 '걸어 두는 것, 담보'였다. bet보다 격식 있는 문어체 단어라 기사·논설에 자주 나온다.",
+      "related": [
+        {
+          "word": "wage",
+          "ko": "임금; (전쟁을) 벌이다",
+          "note": "철자가 거의 같지만 wager는 '판돈', wage는 '임금'. wage war(전쟁을 벌이다)라는 동사 용법도 함께 외워 둔다"
+        }
+      ]
+    },
+    {
+      "headword": "addictive",
+      "pos": "a.",
+      "ko": "중독성 있는",
+      "example_en": "Designers deliberately made the app addictive by rewarding users for coming back every hour.",
+      "example_ko": "설계자들은 매 시간 다시 돌아오는 이용자에게 보상을 줌으로써 그 앱을 의도적으로 중독성 있게 만들었다.",
+      "collocations": [
+        "highly addictive",
+        "addictive substance"
+      ],
+      "note": "additive(첨가물)와 철자가 d 하나 차이다 — d가 둘이면 '중독(addictive)', 하나면 '첨가(additive)'로 갈라 외운다. addict는 명사로 '중독자', 동사로 '중독시키다'.",
+      "family": [
+        {
+          "word": "addict",
+          "pos": "n./v.",
+          "ko": "중독자; 중독시키다"
+        },
+        {
+          "word": "addiction",
+          "pos": "n.",
+          "ko": "중독"
+        }
+      ],
+      "related": [
+        {
+          "word": "additive",
+          "ko": "첨가물; 첨가의",
+          "note": "food additive(식품 첨가물) — 중독과 아무 상관 없는 단어인데 시험에서 자주 짝지어 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "compulsive",
+      "pos": "a.",
+      "ko": "강박적인, 억제하지 못하는",
+      "example_en": "Clinics report a sharp rise in compulsive gambling among men in their twenties.",
+      "example_ko": "병원들은 20대 남성의 강박적 도박이 급증했다고 보고한다.",
+      "collocations": [
+        "compulsive gambling",
+        "a compulsive liar"
+      ],
+      "note": "com-(강조)+pel(밀다) — '안에서 미는 힘'이라 스스로 못 멈추는 것. 같은 뿌리인 compulsory는 '밖에서 강제하는'이라 뜻이 갈라진다: compulsive gambler(강박적 도박꾼) vs compulsory education(의무 교육).",
+      "family": [
+        {
+          "word": "compel",
+          "pos": "v.",
+          "ko": "강요하다, ~하게 만들다"
+        },
+        {
+          "word": "compulsion",
+          "pos": "n.",
+          "ko": "강박, 강제"
+        },
+        {
+          "word": "compulsory",
+          "pos": "a.",
+          "ko": "의무적인, 강제적인 — '강박적인'이 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "predatory",
+      "pos": "a.",
+      "ko": "약탈적인; 포식하는",
+      "example_en": "Lawmakers accused the platforms of predatory marketing aimed at teenagers.",
+      "example_ko": "의원들은 그 플랫폼들이 청소년을 겨냥한 약탈적 마케팅을 했다고 비난했다.",
+      "collocations": [
+        "predatory lending",
+        "predatory pricing"
+      ],
+      "note": "predator(포식자)의 형용사 — 동물 이야기에서는 '포식하는', 경제 기사에서는 '약자를 뜯어먹는'이라는 비유로 쓰인다. predatory lending(약탈적 대출)은 시사 영어 단골 표현이다.",
+      "family": [
+        {
+          "word": "predator",
+          "pos": "n.",
+          "ko": "포식자; 약탈자"
+        },
+        {
+          "word": "predation",
+          "pos": "n.",
+          "ko": "포식, 잡아먹기"
+        }
+      ]
+    },
+    {
+      "headword": "entice",
+      "pos": "v.",
+      "ko": "꾀다, 유인하다",
+      "example_en": "Free credits are used to entice new customers into placing their first bet.",
+      "example_ko": "무료 크레딧은 신규 고객이 첫 베팅을 하도록 꾀는 데 쓰인다.",
+      "collocations": [
+        "entice A into ~ing",
+        "entice customers with ~"
+      ],
+      "note": "어원은 라틴어 '불을 붙이다' — 마음에 불을 질러 끌어들인다. 보상·혜택을 내걸고 끌어들이는 뉘앙스라 entice A into B, entice A with B 형태로 잘 쓰인다.",
+      "family": [
+        {
+          "word": "enticing",
+          "pos": "a.",
+          "ko": "솔깃한, 유혹적인"
+        },
+        {
+          "word": "enticement",
+          "pos": "n.",
+          "ko": "유인책, 미끼"
+        }
+      ],
+      "related": [
+        {
+          "word": "lure",
+          "ko": "유혹하다; 미끼",
+          "note": "lure는 미끼로 낚아채는 느낌이 강하고 대개 부정적, entice는 매력적인 제안으로 끌어들이는 쪽이라 중립적으로도 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "coffers",
+      "pos": "n.",
+      "ko": "국고, 금고, 재원",
+      "example_en": "Gambling taxes have filled state coffers, making regulators reluctant to intervene.",
+      "example_ko": "도박세가 주(州) 국고를 채워 온 탓에 규제 당국은 개입을 꺼리게 되었다.",
+      "collocations": [
+        "fill the state coffers",
+        "drain the coffers"
+      ],
+      "note": "원래 '돈궤(coffer)'인데, 재정을 뜻할 때는 거의 항상 복수 coffers로 쓴다(state/public/corporate coffers). coffee와는 아무 관계 없다.",
+      "related": [
+        {
+          "word": "treasury",
+          "ko": "국고; 재무부",
+          "note": "treasury는 기관·제도를 가리키는 공식어, coffers는 '돈이 들고 나는 곳간'이라는 비유적·문어적 표현이다"
+        }
+      ]
+    },
+    {
+      "headword": "crackdown",
+      "pos": "n.",
+      "ko": "단속, 강력 대응",
+      "example_en": "The government announced a crackdown on advertising aimed at underage viewers.",
+      "example_ko": "정부는 미성년 시청자를 겨냥한 광고에 대한 단속을 발표했다.",
+      "collocations": [
+        "a crackdown on ~",
+        "launch a crackdown"
+      ],
+      "note": "동사구 crack down on(엄중 단속하다)이 굳어 명사가 된 말 — 명사는 붙여 쓴 crackdown, 동사는 띄어 쓴 crack down on으로 형태가 갈린다. 뒤에 오는 전치사는 항상 on.",
+      "family": [
+        {
+          "word": "crack down on",
+          "pos": "v.",
+          "ko": "~을 엄중 단속하다"
+        }
+      ]
+    },
+    {
+      "headword": "proceeds",
+      "pos": "n.",
+      "ko": "수익금, 매출 대금",
+      "example_en": "All proceeds from the auction will be donated to the flood relief fund.",
+      "example_ko": "그 경매의 모든 수익금은 수해 구호 기금에 기부될 것이다.",
+      "collocations": [
+        "proceeds from the sale",
+        "net proceeds"
+      ],
+      "note": "동사 proceed(진행하다)와 철자가 같지만 뜻이 전혀 다르다 — 명사 proceeds는 강세가 앞(PRO-ceeds)에 오고 항상 복수로 '들어온 돈'을 뜻한다. pro-(앞으로)+cede(가다)라 '팔려 나가고 들어온 것'으로 이어 외운다.",
+      "family": [
+        {
+          "word": "proceed",
+          "pos": "v.",
+          "ko": "진행하다, 나아가다 — '수익금'이 아님에 주의"
+        },
+        {
+          "word": "procedure",
+          "pos": "n.",
+          "ko": "절차"
+        }
+      ]
+    },
+    {
+      "headword": "stake",
+      "pos": "n.",
+      "ko": "판돈; 지분; (복수) 이해관계",
+      "example_en": "The fund acquired a 30 percent stake in the betting company last quarter.",
+      "example_ko": "그 펀드는 지난 분기에 그 도박 회사의 지분 30퍼센트를 인수했다.",
+      "collocations": [
+        "a stake in ~",
+        "at stake",
+        "raise the stakes"
+      ],
+      "note": "원래 '땅에 박는 말뚝' — 내기판에 박아 걸어 둔 돈(판돈) → 회사에 걸어 둔 몫(지분) → at stake(걸려 있는)로 뜻이 뻗어 나갔다. 세 뜻을 '걸어 둔 것' 하나로 묶어 외운다.",
+      "family": [
+        {
+          "word": "stakeholder",
+          "pos": "n.",
+          "ko": "이해관계자"
+        }
+      ]
+    },
+    {
+      "headword": "sanction",
+      "pos": "n./v.",
+      "ko": "제재(하다); 승인(하다)",
+      "example_en": "The regulator declined to sanction the firm even after repeated violations.",
+      "example_ko": "규제 당국은 반복된 위반에도 그 회사를 제재하기를 거부했다.",
+      "collocations": [
+        "impose sanctions on ~",
+        "economic sanctions"
+      ],
+      "note": "한 단어가 정반대 두 뜻을 갖는다 — 복수형 sanctions는 거의 항상 '제재', 단수 명사·동사는 문맥에 따라 '공식 승인'이 된다. 어원이 sanct-(신성하게 하다, saint와 같은 뿌리)라 '공식으로 인정 → 어기면 벌'로 갈라진 것.",
+      "related": [
+        {
+          "word": "approve",
+          "ko": "승인하다",
+          "note": "sanction이 '승인'으로 쓰인 자리를 '제재'로 읽으면 문장 뜻이 정반대가 되니, 목적어가 '벌 받을 대상'인지 '허가받을 일'인지로 판별한다"
+        }
+      ]
+    },
+    {
+      "headword": "rampant",
+      "pos": "a.",
+      "ko": "걷잡을 수 없이 퍼진, 만연한",
+      "example_en": "Corruption became rampant once oversight of the licensing process collapsed.",
+      "example_ko": "인허가 절차에 대한 감독이 무너지자 부패가 걷잡을 수 없이 퍼졌다.",
+      "collocations": [
+        "rampant corruption",
+        "run rampant"
+      ],
+      "note": "나쁜 것에만 붙는 형용사다 — rampant inflation/corruption/abuse는 되지만 rampant kindness는 안 된다. 중립적인 widespread와 달리 '통제를 벗어났다'는 뉘앙스가 핵심이고, 동사로는 run rampant(제멋대로 날뛰다) 형태로 쓴다.",
+      "related": [
+        {
+          "word": "widespread",
+          "ko": "널리 퍼진",
+          "note": "widespread는 좋은 것에도 쓰는 중립어, rampant는 통제 불능의 나쁜 것 전용이다"
+        }
+      ]
+    },
+    {
+      "headword": "concurrent",
+      "pos": "a.",
+      "ko": "동시에 일어나는, 동시 진행의",
+      "example_en": "The company is facing three concurrent investigations by different agencies.",
+      "example_ko": "그 회사는 서로 다른 기관의 조사 세 건을 동시에 받고 있다.",
+      "collocations": [
+        "concurrent sessions",
+        "run concurrently"
+      ],
+      "note": "con-(함께)+cur(달리다) — 함께 달리니 '동시에'. 형태가 비슷한 consecutive(연속적인, 줄줄이)와 헷갈리기 쉽다: three concurrent projects(세 개를 동시에) vs three consecutive years(3년 연달아).",
+      "family": [
+        {
+          "word": "concur",
+          "pos": "v.",
+          "ko": "동의하다; 동시에 일어나다"
+        },
+        {
+          "word": "concurrently",
+          "pos": "ad.",
+          "ko": "동시에"
+        }
+      ],
+      "related": [
+        {
+          "word": "consecutive",
+          "ko": "연속적인",
+          "note": "consecutive는 시간상 '줄줄이 이어지는' 것, concurrent는 '나란히 겹치는' 것 — 겹치느냐 이어지느냐로 구분한다"
+        }
+      ]
+    },
+    {
+      "headword": "ambivalent",
+      "pos": "a.",
+      "ko": "양가감정의, 마음이 엇갈리는",
+      "example_en": "Voters remain ambivalent about a tax that funds schools with gambling losses.",
+      "example_ko": "유권자들은 도박 손실로 학교를 지원하는 세금에 대해 여전히 마음이 엇갈린다.",
+      "collocations": [
+        "ambivalent about ~",
+        "deeply ambivalent"
+      ],
+      "note": "ambi-(양쪽)+val(가치) — 두 가지 감정이 동시에 있어 결정을 못 하는 상태다. indifferent(무관심한)와 정반대에 가깝다: ambivalent는 둘 다 강하게 느껴서 못 고르는 것.",
+      "family": [
+        {
+          "word": "ambivalence",
+          "pos": "n.",
+          "ko": "양가감정"
+        }
+      ],
+      "related": [
+        {
+          "word": "ambiguous",
+          "ko": "모호한",
+          "note": "ambiguous는 말·표현의 뜻이 여러 갈래로 읽히는 것, ambivalent는 사람의 감정이 엇갈리는 것 — 대상이 말이냐 마음이냐로 가른다"
+        }
+      ]
+    },
+    {
+      "headword": "scrupulous",
+      "pos": "a.",
+      "ko": "세심한, 양심적인",
+      "example_en": "Auditors are expected to be scrupulous about disclosing any conflict of interest.",
+      "example_ko": "감사인은 이해 충돌을 공개하는 데 양심적이고 세심해야 한다.",
+      "collocations": [
+        "scrupulous attention to detail",
+        "scrupulous about ~"
+      ],
+      "note": "어원이 '신발에 든 작은 돌(scrupulus)' — 작은 것 하나가 거슬려 그냥 넘어가지 못하는 성격이다. 시사 영어에서는 부정형 unscrupulous(파렴치한, 수단을 안 가리는)가 오히려 더 자주 나온다.",
+      "family": [
+        {
+          "word": "unscrupulous",
+          "pos": "a.",
+          "ko": "파렴치한, 수단을 가리지 않는"
+        },
+        {
+          "word": "scruple",
+          "pos": "n.",
+          "ko": "양심의 가책, 망설임"
+        }
+      ]
+    },
+    {
+      "headword": "affluent",
+      "pos": "a.",
+      "ko": "부유한",
+      "example_en": "The losses fall hardest on households that are far from affluent.",
+      "example_ko": "그 손실은 결코 부유하지 않은 가구에 가장 무겁게 떨어진다.",
+      "collocations": [
+        "affluent neighborhood",
+        "the affluent"
+      ],
+      "note": "af-(~쪽으로)+flu(흐르다) — 돈이 흘러 들어오니 부유하다. 한 글자 차이인 effluent는 ex-(밖으로) 흐르는 것이라 '폐수'가 된다: 들어오면 부유, 나가면 폐수로 갈라 외운다.",
+      "family": [
+        {
+          "word": "affluence",
+          "pos": "n.",
+          "ko": "부유함, 풍요"
+        }
+      ],
+      "related": [
+        {
+          "word": "effluent",
+          "ko": "폐수, 배출수",
+          "note": "flu-(흐르다) 계열 삼총사 — affluent(부유한)·effluent(폐수)·fluent(유창한)를 접두사로 구분한다"
+        }
+      ]
+    }
+  ]
+}

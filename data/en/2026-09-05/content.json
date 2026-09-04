@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-05",
+  "passage_note": "사회·규제 — 스포츠 베팅 합법화가 남긴 사회적 비용과 뒤늦은 단속(논설)",
+  "sentences": [
+    {
+      "en": "Barely a decade after the first states legalized it, sports betting has migrated from back-alley bookmaking to the glowing screens that hover above every stadium concourse.",
+      "ko": "첫 주(州)들이 그것을 합법화한 지 채 10년도 지나지 않아, 스포츠 베팅은 뒷골목 사설 도박에서 모든 경기장 통로 위에 떠 있는 환한 화면으로 옮겨 갔다.",
+      "structure": "· Barely a decade after S+V, ... : '~한 지 겨우 10년 만에'. barely가 부정어로 문두에 나오면 도치가 일어나지만, 여기서는 시간 부사구(a decade)를 꾸미는 것이라 도치가 없다.\n· has migrated : 현재완료 — 과거 시점부터 지금까지 이어진 변화의 결과를 말한다.\n· that hover above every stadium concourse : 주격 관계대명사 that절이 the glowing screens를 뒤에서 수식(선행사가 복수라 hover).\n· migrate from A to B : 'A에서 B로 옮겨 가다' — from ~ to ~ 짝을 놓치지 말 것.",
+      "vocab_notes": [
+        { "word": "barely", "ko": "겨우, 간신히 (barely A after B: B한 지 겨우 A 만에)" },
+        { "word": "decade", "ko": "10년" },
+        { "word": "state", "ko": "(미국의) 주(州)" },
+        { "word": "legalize", "ko": "합법화하다" },
+        { "word": "betting", "ko": "베팅, 도박" },
+        { "word": "migrate", "ko": "옮겨 가다, 이동하다" },
+        { "word": "back-alley", "ko": "뒷골목의, 음성적인" },
+        { "word": "bookmaking", "ko": "사설 도박 영업(도박 판돈을 받는 일)" },
+        { "word": "glowing", "ko": "환하게 빛나는" },
+        { "word": "hover", "ko": "떠 있다, 맴돌다" },
+        { "word": "concourse", "ko": "(경기장·역의) 중앙 통로, 홀" }
+      ]
+    },
+    {
+      "en": "Proponents insisted that bringing the market into the open would starve criminal operators and channel a steady stream of tax proceeds into public coffers.",
+      "ko": "지지자들은 시장을 양지로 끌어내면 범죄 사업자들을 고사시키고 꾸준한 세수(稅收) 수익금을 국고로 흘려보낼 수 있다고 주장했다.",
+      "structure": "· insisted that ... would ~ : insist가 '(사실을) 주장하다'일 때는 that절이 직설법이다(시제 일치로 would). '~해야 한다고 주장하다'일 때만 that절에 (should) 동사원형을 쓴다.\n· bringing the market into the open : 동명사구가 that절의 주어 — 단수 취급이라 would starve로 받는다.\n· would starve ... and channel ... : 조동사 would에 이어지는 동사원형 두 개(starve / channel)의 병렬. 두 번째 동사 앞에 would가 생략된 형태다.\n· channel A into B : 'A를 B로 흘려보내다' — 명사 channel(수로)이 동사로 쓰인 것.",
+      "vocab_notes": [
+        { "word": "proponent", "ko": "지지자, 옹호자" },
+        { "word": "insist", "ko": "주장하다, 우기다" },
+        { "word": "bring ~ into the open", "ko": "~을 양지로 끌어내다, 공개하다" },
+        { "word": "starve", "ko": "굶기다, 고사시키다" },
+        { "word": "criminal operator", "ko": "범죄 사업자, 불법 운영자" },
+        { "word": "channel", "ko": "(자금 등을) 흘려보내다, 돌리다" },
+        { "word": "a steady stream of", "ko": "꾸준히 이어지는 ~" },
+        { "word": "tax proceeds", "ko": "세수(稅收) 수익금" },
+        { "word": "public coffers", "ko": "국고, 공공 재정" }
+      ]
+    },
+    {
+      "en": "What they did not advertise was that the same platforms would bankroll saturation advertising, and that odds would be pushed at viewers in real time, second by second, until placing a wager felt indistinguishable from watching the game itself.",
+      "ko": "그들이 말하지 않은 것은, 바로 그 플랫폼들이 융단폭격식 광고에 자금을 대리라는 것, 그리고 배당률이 실시간으로 매 순간 시청자에게 들이밀어져 결국 돈을 거는 일이 경기를 보는 일과 구별되지 않게 되리라는 것이었다.",
+      "structure": "· What they did not advertise : 관계대명사 what이 이끄는 명사절이 주어('~한 것'). what = the thing which.\n· was that ..., and that ... : 보어 자리에 that절 두 개가 병렬. 병렬임을 분명히 하려고 두 번째 that을 반복해 썼다.\n· would be pushed at viewers : 조동사 + 수동태(be p.p.) — 밀어붙이는 주체(업체)를 감춘 표현.\n· until placing a wager felt indistinguishable from ~ : until절의 주어가 동명사구(placing a wager), felt는 2형식 동사로 형용사 보어를 받는다. be/feel indistinguishable from ~ : '~와 구별되지 않다'.",
+      "vocab_notes": [
+        { "word": "advertise", "ko": "광고하다; 알리다, 떠벌리다" },
+        { "word": "platform", "ko": "(온라인) 플랫폼, 서비스 업체" },
+        { "word": "bankroll", "ko": "자금을 대다" },
+        { "word": "saturation advertising", "ko": "융단폭격식 광고(포화 광고)" },
+        { "word": "odds", "ko": "배당률; 승산" },
+        { "word": "push ~ at", "ko": "~에게 들이밀다, 밀어붙이다" },
+        { "word": "in real time", "ko": "실시간으로" },
+        { "word": "second by second", "ko": "매 순간, 초 단위로" },
+        { "word": "place a wager", "ko": "돈을 걸다, 베팅하다" },
+        { "word": "indistinguishable from", "ko": "~와 구별되지 않는" }
+      ]
+    },
+    {
+      "en": "Problem gambling, once dismissed as a fringe affliction, is now rampant among young men whose losses have quietly become ruinous, and clinicians warn that the frictionless design of these apps is precisely what makes them addictive.",
+      "ko": "한때 일부의 문제로 치부되던 도박 중독은 이제 조용히 파멸적인 수준이 된 손실을 떠안은 젊은 남성들 사이에 걷잡을 수 없이 퍼져 있고, 임상의들은 이 앱들의 거리낌 없는 설계야말로 그것을 중독적으로 만드는 요인이라고 경고한다.",
+      "structure": "· once dismissed as a fringe affliction : 주어와 동사 사이에 삽입된 과거분사구(= which was once dismissed as ~)가 Problem gambling을 수식. 콤마 두 개가 삽입의 신호다.\n· whose losses have quietly become ruinous : 소유격 관계대명사 whose가 young men을 받아 '그들의 손실이 ~한'으로 이어진다.\n· is precisely what makes them addictive : 관계대명사 what 명사절이 보어. precisely가 '바로 그것'이라는 강조를 얹는다.\n· make + 목적어 + 형용사 : makes them addictive는 5형식(목적격보어가 형용사).",
+      "vocab_notes": [
+        { "word": "problem gambling", "ko": "도박 중독(병적 도박)" },
+        { "word": "dismiss", "ko": "일축하다, ~로 치부하다 (dismiss A as B)" },
+        { "word": "fringe", "ko": "주변부의, 일부에 국한된" },
+        { "word": "affliction", "ko": "고통, 질환" },
+        { "word": "rampant", "ko": "걷잡을 수 없이 퍼진, 만연한" },
+        { "word": "losses", "ko": "손실(액)" },
+        { "word": "ruinous", "ko": "파멸적인, 파산으로 몰아가는" },
+        { "word": "clinician", "ko": "임상의(현장에서 환자를 보는 의료인)" },
+        { "word": "frictionless", "ko": "마찰 없는, 거리낌 없이 되는" },
+        { "word": "precisely", "ko": "바로, 정확히" },
+        { "word": "addictive", "ko": "중독성 있는" }
+      ]
+    },
+    {
+      "en": "Regulators, meanwhile, have been reluctant to sanction the very industry whose revenues they have come to depend on, and a crackdown that arrives only after the harm has been counted is no substitute for one that anticipates it.",
+      "ko": "한편 규제 당국은 자신들이 의존하게 된 수익을 내는 바로 그 산업을 제재하기를 꺼려 왔고, 피해가 다 집계된 뒤에야 나오는 단속은 그 피해를 미리 내다보는 단속의 대안이 될 수 없다.",
+      "structure": "· be reluctant to + 동사원형 : '~하기를 꺼리다'. 현재완료(have been)라 '그동안 계속 꺼려 왔다'는 뜻.\n· the very industry whose revenues they have come to depend on : 소유격 관계대명사 whose + 명사(revenues)가 depend on의 목적어 역할을 하며 앞으로 나갔다. very는 명사 앞에서 '바로 그'라는 강조.\n· come to + 동사원형 : '~하게 되다'(자연스러운 변화). 의도적 행위에는 쓰지 않는다.\n· a crackdown [that arrives only after ~] is no substitute for ~ : 주어와 동사(is) 사이에 관계사절이 길게 끼어든 구조. no substitute for는 '~을 대신할 수 없다'는 강한 부정.\n· one that anticipates it : one = a crackdown(앞의 명사를 받는 부정대명사).",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국, 감독 기관" },
+        { "word": "meanwhile", "ko": "한편, 그러는 동안" },
+        { "word": "be reluctant to", "ko": "~하기를 꺼리다" },
+        { "word": "sanction", "ko": "제재하다; 승인하다" },
+        { "word": "the very ~", "ko": "바로 그 ~" },
+        { "word": "revenue", "ko": "수익, 세입" },
+        { "word": "come to depend on", "ko": "~에 의존하게 되다" },
+        { "word": "crackdown", "ko": "단속, 강력 대응" },
+        { "word": "harm", "ko": "피해, 해악" },
+        { "word": "no substitute for", "ko": "~을 대신할 수 없는 것" },
+        { "word": "anticipate", "ko": "미리 내다보다, 대비하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "wager",
+      "pos": "n./v.",
+      "ko": "판돈, 내기; 돈을 걸다",
+      "example_en": "Users who place a wager on their phones bet nearly twice as often as those who do not.",
+      "example_ko": "휴대전화로 돈을 거는 이용자들은 그렇지 않은 사람들보다 거의 두 배 자주 베팅한다.",
+      "collocations": ["place a wager", "a wager on ~"],
+      "note": "wage(임금)와 같은 뿌리 — 원래 '걸어 두는 것, 담보'였다. bet보다 격식 있는 문어체 단어라 기사·논설에 자주 나온다.",
+      "related": [
+        { "word": "wage", "ko": "임금; (전쟁을) 벌이다", "note": "철자가 거의 같지만 wager는 '판돈', wage는 '임금'. wage war(전쟁을 벌이다)라는 동사 용법도 함께 외워 둔다" }
+      ]
+    },
+    {
+      "headword": "addictive",
+      "pos": "a.",
+      "ko": "중독성 있는",
+      "example_en": "Designers deliberately made the app addictive by rewarding users for coming back every hour.",
+      "example_ko": "설계자들은 매 시간 다시 돌아오는 이용자에게 보상을 줌으로써 그 앱을 의도적으로 중독성 있게 만들었다.",
+      "collocations": ["highly addictive", "addictive substance"],
+      "note": "additive(첨가물)와 철자가 d 하나 차이다 — d가 둘이면 '중독(addictive)', 하나면 '첨가(additive)'로 갈라 외운다. addict는 명사로 '중독자', 동사로 '중독시키다'.",
+      "family": [
+        { "word": "addict", "pos": "n./v.", "ko": "중독자; 중독시키다" },
+        { "word": "addiction", "pos": "n.", "ko": "중독" }
+      ],
+      "related": [
+        { "word": "additive", "ko": "첨가물; 첨가의", "note": "food additive(식품 첨가물) — 중독과 아무 상관 없는 단어인데 시험에서 자주 짝지어 나온다" }
+      ]
+    },
+    {
+      "headword": "compulsive",
+      "pos": "a.",
+      "ko": "강박적인, 억제하지 못하는",
+      "example_en": "Clinics report a sharp rise in compulsive gambling among men in their twenties.",
+      "example_ko": "병원들은 20대 남성의 강박적 도박이 급증했다고 보고한다.",
+      "collocations": ["compulsive gambling", "a compulsive liar"],
+      "note": "com-(강조)+pel(밀다) — '안에서 미는 힘'이라 스스로 못 멈추는 것. 같은 뿌리인 compulsory는 '밖에서 강제하는'이라 뜻이 갈라진다: compulsive gambler(강박적 도박꾼) vs compulsory education(의무 교육).",
+      "family": [
+        { "word": "compel", "pos": "v.", "ko": "강요하다, ~하게 만들다" },
+        { "word": "compulsion", "pos": "n.", "ko": "강박, 강제" },
+        { "word": "compulsory", "pos": "a.", "ko": "의무적인, 강제적인 — '강박적인'이 아님에 주의" }
+      ]
+    },
+    {
+      "headword": "predatory",
+      "pos": "a.",
+      "ko": "약탈적인; 포식하는",
+      "example_en": "Lawmakers accused the platforms of predatory marketing aimed at teenagers.",
+      "example_ko": "의원들은 그 플랫폼들이 청소년을 겨냥한 약탈적 마케팅을 했다고 비난했다.",
+      "collocations": ["predatory lending", "predatory pricing"],
+      "note": "predator(포식자)의 형용사 — 동물 이야기에서는 '포식하는', 경제 기사에서는 '약자를 뜯어먹는'이라는 비유로 쓰인다. predatory lending(약탈적 대출)은 시사 영어 단골 표현이다.",
+      "family": [
+        { "word": "predator", "pos": "n.", "ko": "포식자; 약탈자" },
+        { "word": "predation", "pos": "n.", "ko": "포식, 잡아먹기" }
+      ]
+    },
+    {
+      "headword": "entice",
+      "pos": "v.",
+      "ko": "꾀다, 유인하다",
+      "example_en": "Free credits are used to entice new customers into placing their first bet.",
+      "example_ko": "무료 크레딧은 신규 고객이 첫 베팅을 하도록 꾀는 데 쓰인다.",
+      "collocations": ["entice A into ~ing", "entice customers with ~"],
+      "note": "어원은 라틴어 '불을 붙이다' — 마음에 불을 질러 끌어들인다. 보상·혜택을 내걸고 끌어들이는 뉘앙스라 entice A into B, entice A with B 형태로 잘 쓰인다.",
+      "family": [
+        { "word": "enticing", "pos": "a.", "ko": "솔깃한, 유혹적인" },
+        { "word": "enticement", "pos": "n.", "ko": "유인책, 미끼" }
+      ],
+      "related": [
+        { "word": "lure", "ko": "유혹하다; 미끼", "note": "lure는 미끼로 낚아채는 느낌이 강하고 대개 부정적, entice는 매력적인 제안으로 끌어들이는 쪽이라 중립적으로도 쓰인다" }
+      ]
+    },
+    {
+      "headword": "coffers",
+      "pos": "n.",
+      "ko": "국고, 금고, 재원",
+      "example_en": "Gambling taxes have filled state coffers, making regulators reluctant to intervene.",
+      "example_ko": "도박세가 주(州) 국고를 채워 온 탓에 규제 당국은 개입을 꺼리게 되었다.",
+      "collocations": ["fill the state coffers", "drain the coffers"],
+      "note": "원래 '돈궤(coffer)'인데, 재정을 뜻할 때는 거의 항상 복수 coffers로 쓴다(state/public/corporate coffers). coffee와는 아무 관계 없다.",
+      "related": [
+        { "word": "treasury", "ko": "국고; 재무부", "note": "treasury는 기관·제도를 가리키는 공식어, coffers는 '돈이 들고 나는 곳간'이라는 비유적·문어적 표현이다" }
+      ]
+    },
+    {
+      "headword": "crackdown",
+      "pos": "n.",
+      "ko": "단속, 강력 대응",
+      "example_en": "The government announced a crackdown on advertising aimed at underage viewers.",
+      "example_ko": "정부는 미성년 시청자를 겨냥한 광고에 대한 단속을 발표했다.",
+      "collocations": ["a crackdown on ~", "launch a crackdown"],
+      "note": "동사구 crack down on(엄중 단속하다)이 굳어 명사가 된 말 — 명사는 붙여 쓴 crackdown, 동사는 띄어 쓴 crack down on으로 형태가 갈린다. 뒤에 오는 전치사는 항상 on.",
+      "family": [
+        { "word": "crack down on", "pos": "v.", "ko": "~을 엄중 단속하다" }
+      ]
+    },
+    {
+      "headword": "proceeds",
+      "pos": "n.",
+      "ko": "수익금, 매출 대금",
+      "example_en": "All proceeds from the auction will be donated to the flood relief fund.",
+      "example_ko": "그 경매의 모든 수익금은 수해 구호 기금에 기부될 것이다.",
+      "collocations": ["proceeds from the sale", "net proceeds"],
+      "note": "동사 proceed(진행하다)와 철자가 같지만 뜻이 전혀 다르다 — 명사 proceeds는 강세가 앞(PRO-ceeds)에 오고 항상 복수로 '들어온 돈'을 뜻한다. pro-(앞으로)+cede(가다)라 '팔려 나가고 들어온 것'으로 이어 외운다.",
+      "family": [
+        { "word": "proceed", "pos": "v.", "ko": "진행하다, 나아가다 — '수익금'이 아님에 주의" },
+        { "word": "procedure", "pos": "n.", "ko": "절차" }
+      ]
+    },
+    {
+      "headword": "stake",
+      "pos": "n.",
+      "ko": "판돈; 지분; (복수) 이해관계",
+      "example_en": "The fund acquired a 30 percent stake in the betting company last quarter.",
+      "example_ko": "그 펀드는 지난 분기에 그 도박 회사의 지분 30퍼센트를 인수했다.",
+      "collocations": ["a stake in ~", "at stake", "raise the stakes"],
+      "note": "원래 '땅에 박는 말뚝' — 내기판에 박아 걸어 둔 돈(판돈) → 회사에 걸어 둔 몫(지분) → at stake(걸려 있는)로 뜻이 뻗어 나갔다. 세 뜻을 '걸어 둔 것' 하나로 묶어 외운다.",
+      "family": [
+        { "word": "stakeholder", "pos": "n.", "ko": "이해관계자" }
+      ]
+    },
+    {
+      "headword": "sanction",
+      "pos": "n./v.",
+      "ko": "제재(하다); 승인(하다)",
+      "example_en": "The regulator declined to sanction the firm even after repeated violations.",
+      "example_ko": "규제 당국은 반복된 위반에도 그 회사를 제재하기를 거부했다.",
+      "collocations": ["impose sanctions on ~", "economic sanctions"],
+      "note": "한 단어가 정반대 두 뜻을 갖는다 — 복수형 sanctions는 거의 항상 '제재', 단수 명사·동사는 문맥에 따라 '공식 승인'이 된다. 어원이 sanct-(신성하게 하다, saint와 같은 뿌리)라 '공식으로 인정 → 어기면 벌'로 갈라진 것.",
+      "related": [
+        { "word": "approve", "ko": "승인하다", "note": "sanction이 '승인'으로 쓰인 자리를 '제재'로 읽으면 문장 뜻이 정반대가 되니, 목적어가 '벌 받을 대상'인지 '허가받을 일'인지로 판별한다" }
+      ]
+    },
+    {
+      "headword": "rampant",
+      "pos": "a.",
+      "ko": "걷잡을 수 없이 퍼진, 만연한",
+      "example_en": "Corruption became rampant once oversight of the licensing process collapsed.",
+      "example_ko": "인허가 절차에 대한 감독이 무너지자 부패가 걷잡을 수 없이 퍼졌다.",
+      "collocations": ["rampant corruption", "run rampant"],
+      "note": "나쁜 것에만 붙는 형용사다 — rampant inflation/corruption/abuse는 되지만 rampant kindness는 안 된다. 중립적인 widespread와 달리 '통제를 벗어났다'는 뉘앙스가 핵심이고, 동사로는 run rampant(제멋대로 날뛰다) 형태로 쓴다.",
+      "related": [
+        { "word": "widespread", "ko": "널리 퍼진", "note": "widespread는 좋은 것에도 쓰는 중립어, rampant는 통제 불능의 나쁜 것 전용이다" }
+      ]
+    },
+    {
+      "headword": "concurrent",
+      "pos": "a.",
+      "ko": "동시에 일어나는, 동시 진행의",
+      "example_en": "The company is facing three concurrent investigations by different agencies.",
+      "example_ko": "그 회사는 서로 다른 기관의 조사 세 건을 동시에 받고 있다.",
+      "collocations": ["concurrent sessions", "run concurrently"],
+      "note": "con-(함께)+cur(달리다) — 함께 달리니 '동시에'. 형태가 비슷한 consecutive(연속적인, 줄줄이)와 헷갈리기 쉽다: three concurrent projects(세 개를 동시에) vs three consecutive years(3년 연달아).",
+      "family": [
+        { "word": "concur", "pos": "v.", "ko": "동의하다; 동시에 일어나다" },
+        { "word": "concurrently", "pos": "ad.", "ko": "동시에" }
+      ],
+      "related": [
+        { "word": "consecutive", "ko": "연속적인", "note": "consecutive는 시간상 '줄줄이 이어지는' 것, concurrent는 '나란히 겹치는' 것 — 겹치느냐 이어지느냐로 구분한다" }
+      ]
+    },
+    {
+      "headword": "ambivalent",
+      "pos": "a.",
+      "ko": "양가감정의, 마음이 엇갈리는",
+      "example_en": "Voters remain ambivalent about a tax that funds schools with gambling losses.",
+      "example_ko": "유권자들은 도박 손실로 학교를 지원하는 세금에 대해 여전히 마음이 엇갈린다.",
+      "collocations": ["ambivalent about ~", "deeply ambivalent"],
+      "note": "ambi-(양쪽)+val(가치) — 두 가지 감정이 동시에 있어 결정을 못 하는 상태다. indifferent(무관심한)와 정반대에 가깝다: ambivalent는 둘 다 강하게 느껴서 못 고르는 것.",
+      "family": [
+        { "word": "ambivalence", "pos": "n.", "ko": "양가감정" }
+      ],
+      "related": [
+        { "word": "ambiguous", "ko": "모호한", "note": "ambiguous는 말·표현의 뜻이 여러 갈래로 읽히는 것, ambivalent는 사람의 감정이 엇갈리는 것 — 대상이 말이냐 마음이냐로 가른다" }
+      ]
+    },
+    {
+      "headword": "scrupulous",
+      "pos": "a.",
+      "ko": "세심한, 양심적인",
+      "example_en": "Auditors are expected to be scrupulous about disclosing any conflict of interest.",
+      "example_ko": "감사인은 이해 충돌을 공개하는 데 양심적이고 세심해야 한다.",
+      "collocations": ["scrupulous attention to detail", "scrupulous about ~"],
+      "note": "어원이 '신발에 든 작은 돌(scrupulus)' — 작은 것 하나가 거슬려 그냥 넘어가지 못하는 성격이다. 시사 영어에서는 부정형 unscrupulous(파렴치한, 수단을 안 가리는)가 오히려 더 자주 나온다.",
+      "family": [
+        { "word": "unscrupulous", "pos": "a.", "ko": "파렴치한, 수단을 가리지 않는" },
+        { "word": "scruple", "pos": "n.", "ko": "양심의 가책, 망설임" }
+      ]
+    },
+    {
+      "headword": "affluent",
+      "pos": "a.",
+      "ko": "부유한",
+      "example_en": "The losses fall hardest on households that are far from affluent.",
+      "example_ko": "그 손실은 결코 부유하지 않은 가구에 가장 무겁게 떨어진다.",
+      "collocations": ["affluent neighborhood", "the affluent"],
+      "note": "af-(~쪽으로)+flu(흐르다) — 돈이 흘러 들어오니 부유하다. 한 글자 차이인 effluent는 ex-(밖으로) 흐르는 것이라 '폐수'가 된다: 들어오면 부유, 나가면 폐수로 갈라 외운다.",
+      "family": [
+        { "word": "affluence", "pos": "n.", "ko": "부유함, 풍요" }
+      ],
+      "related": [
+        { "word": "effluent", "ko": "폐수, 배출수", "note": "flu-(흐르다) 계열 삼총사 — affluent(부유한)·effluent(폐수)·fluent(유창한)를 접두사로 구분한다" }
+      ]
+    },
+    {
+      "headword": "tenacious",
+      "pos": "a.",
+      "ko": "끈질긴, 집요한",
+      "example_en": "A tenacious reporter spent two years tracing the money behind the licenses.",
+      "example_ko": "한 끈질긴 기자가 그 인허가 뒤의 돈줄을 추적하는 데 2년을 썼다.",
+      "collocations": ["a tenacious defender", "tenacious pursuit"],
+      "note": "ten-(붙잡다) 계열 — 한 번 잡으면 안 놓는다. tenant(세입자=집을 점유한 사람), tenure(재직 기간=자리를 붙들고 있는 기간)와 같은 뿌리로 묶으면 세 단어가 한꺼번에 외워진다.",
+      "family": [
+        { "word": "tenacity", "pos": "n.", "ko": "끈기, 집요함" }
+      ]
+    },
+    {
+      "headword": "vindicate",
+      "pos": "v.",
+      "ko": "정당함을 입증하다, 혐의를 벗기다",
+      "example_en": "The latest data vindicated critics who had warned about the social cost years earlier.",
+      "example_ko": "최신 자료는 몇 년 전 그 사회적 비용을 경고했던 비판자들이 옳았음을 입증해 주었다.",
+      "collocations": ["vindicate a decision", "feel vindicated"],
+      "note": "결과가 나와서 '내 말이 맞았다'가 되는 것 — 사람이 목적어면 '혐의를 벗기다', 판단이 목적어면 '옳았음을 입증하다'. 뿌리가 같은 vindictive(앙심 품은, 보복적인)는 뜻이 완전히 갈라졌으니 섞지 말 것.",
+      "family": [
+        { "word": "vindication", "pos": "n.", "ko": "입증, 명예 회복" }
+      ],
+      "related": [
+        { "word": "vindictive", "ko": "앙심을 품은, 보복적인", "note": "vindicate는 '누명을 벗기다'(좋은 쪽), vindictive는 '보복하려 드는'(나쁜 쪽) — 같은 뿌리에서 정반대 인상으로 갈라진 짝이다" }
+      ]
+    },
+    {
+      "headword": "succinct",
+      "pos": "a.",
+      "ko": "간결한",
+      "example_en": "The chairman gave a succinct summary of the findings in under two minutes.",
+      "example_ko": "의장은 2분도 안 되어 조사 결과를 간결하게 요약했다.",
+      "collocations": ["a succinct summary", "put it succinctly"],
+      "note": "sub-(밑에서)+cinct(띠를 두르다) — 허리띠를 졸라매 늘어진 부분을 없앤 말이다. concise와 거의 같은 뜻이지만 succinct는 '짧은데 핵심을 다 담았다'는 칭찬 뉘앙스가 더 강하다.",
+      "related": [
+        { "word": "verbose", "ko": "장황한", "note": "succinct의 반대말 — 보고서 평가에서 succinct(칭찬) ↔ verbose(비판)로 짝지어 나온다" }
+      ]
+    }
+  ]
+}
