@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-06",
+  "passage_note": "정치·기술 — 선거를 겨눈 합성 영상(딥페이크)과 규제의 딜레마(논설)",
+  "sentences": [
+    {
+      "en": "In the run-up to this year's elections, synthetic audio and video — clips fabricated by generative models and all but indistinguishable from genuine footage — have moved from a hypothetical menace to a routine feature of political campaigns.",
+      "ko": "올해 선거를 앞둔 시기에, 생성형 모델이 만들어 낸, 진짜 영상과 거의 구별되지 않는 합성 음성·영상은 가설에 그쳤던 위협에서 선거 운동의 일상적인 요소로 옮겨 갔다.",
+      "structure": "· 대시(—)로 묶인 부분은 주어 synthetic audio and video를 부연하는 삽입구다. 삽입구를 걷어내면 뼈대는 synthetic audio and video have moved from A to B.\n· fabricated by generative models : 과거분사구가 clips를 뒤에서 수식(수동 관계 — '모델에 의해 만들어진').\n· fabricated ~ and (all but) indistinguishable ~ : 과거분사구와 형용사구가 and로 병렬되어 clips를 함께 수식.\n· all but + 형용사 = '거의 ~인'. but을 '그러나'로 읽으면 안 된다.\n· move from A to B : '~에서 ~로 옮겨 가다'. 현재완료(have moved)라 지금까지의 변화 결과를 말한다.",
+      "vocab_notes": [
+        { "word": "run-up", "ko": "(행사 직전의) 준비 기간, 앞둔 시기" },
+        { "word": "synthetic", "ko": "합성의, 인공의" },
+        { "word": "fabricate", "ko": "만들어 내다, 날조하다" },
+        { "word": "generative", "ko": "생성형의, 생성하는" },
+        { "word": "all but", "ko": "거의" },
+        { "word": "indistinguishable", "ko": "구별할 수 없는" },
+        { "word": "genuine", "ko": "진짜의" },
+        { "word": "footage", "ko": "(촬영된) 영상, 화면" },
+        { "word": "hypothetical", "ko": "가설의, 가상의" },
+        { "word": "menace", "ko": "위협" },
+        { "word": "routine", "ko": "일상적인, 늘 있는" }
+      ]
+    },
+    {
+      "en": "Regulators who once trusted that voters would sort truth from falsehood on their own now concede that the sheer volume of doctored material has outstripped the capacity of fact-checkers to debunk it.",
+      "ko": "유권자들이 스스로 진실과 거짓을 가려낼 것이라고 한때 믿었던 규제 당국은, 이제 조작된 자료의 양 자체가 사실 검증자들이 그것을 반박해 낼 수 있는 역량을 넘어섰다는 점을 인정한다.",
+      "structure": "· who once trusted ~ : 주격 관계대명사절이 주어 Regulators를 수식한다. 관계사절이 길어 주어와 본동사(concede)가 멀어진 구조 — 본동사는 now concede다.\n· trusted that ~ / concede that ~ : 둘 다 that 명사절을 목적어로 받는다.\n· would sort : 과거 시점에서 본 미래(시제 일치)로 '가려낼 것이다'.\n· sort A from B : 'A를 B와 가려내다'. 전치사 from이 짝이다.\n· has outstripped : 현재완료로 이미 넘어선 상태를 나타낸다.\n· the capacity of fact-checkers to debunk it : to부정사가 capacity를 수식하고, of fact-checkers는 그 능력의 주체를 밝힌다('사실 검증자들이 반박할 역량').",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국, 감독 기관" },
+        { "word": "trust", "ko": "믿다, 신뢰하다" },
+        { "word": "voter", "ko": "유권자" },
+        { "word": "sort A from B", "ko": "A를 B와 가려내다" },
+        { "word": "falsehood", "ko": "거짓, 허위" },
+        { "word": "on one's own", "ko": "스스로, 알아서" },
+        { "word": "concede", "ko": "인정하다, 시인하다" },
+        { "word": "sheer", "ko": "순전한; (양이) 엄청난" },
+        { "word": "volume", "ko": "양, 분량" },
+        { "word": "doctored", "ko": "조작된, 손질된" },
+        { "word": "outstrip", "ko": "넘어서다, 앞지르다" },
+        { "word": "capacity", "ko": "역량, 수용력" },
+        { "word": "fact-checker", "ko": "사실 검증자" },
+        { "word": "debunk", "ko": "거짓임을 밝히다" }
+      ]
+    },
+    {
+      "en": "A handful of jurisdictions have responded by compelling platforms to label synthetic content and disclose its origin, but enforcement is patchy: the clips that inflict the most damage tend to surface in the closing days of a campaign, when a retraction arrives too late to matter.",
+      "ko": "일부 관할 당국은 플랫폼에 합성 콘텐츠를 표시하고 그 출처를 공개하도록 강제하는 방식으로 대응했지만, 집행은 들쭉날쭉하다. 가장 큰 피해를 입히는 영상은 대개 선거 운동 막바지에 떠오르는데, 그때는 정정이 나와도 이미 늦다.",
+      "structure": "· by + 동명사(compelling) : 수단·방법을 나타낸다('~함으로써').\n· compel + 목적어 + to부정사 : '~에게 …하도록 강제하다'. to label ~ and (to) disclose ~ 로 to부정사 둘이 병렬되고 뒤의 to는 생략됐다.\n· 콜론(:) 뒤 문장은 앞의 enforcement is patchy를 구체적으로 풀어 주는 부연이다.\n· that inflict the most damage : 주격 관계대명사절이 the clips를 수식.\n· when a retraction arrives ~ : 계속적 용법의 관계부사절로, 앞의 the closing days를 받아 '그때는 ~하다'로 이어 읽는다.\n· too ~ to … : '너무 ~해서 …할 수 없다'(정정이 너무 늦게 와서 소용이 없다).",
+      "vocab_notes": [
+        { "word": "a handful of", "ko": "소수의, 한 줌의" },
+        { "word": "jurisdiction", "ko": "관할 당국, 사법 관할권" },
+        { "word": "respond", "ko": "대응하다" },
+        { "word": "compel", "ko": "강제하다" },
+        { "word": "label", "ko": "표시하다, 라벨을 붙이다" },
+        { "word": "disclose", "ko": "공개하다" },
+        { "word": "origin", "ko": "출처, 기원" },
+        { "word": "enforcement", "ko": "(법의) 집행" },
+        { "word": "patchy", "ko": "들쭉날쭉한, 고르지 못한" },
+        { "word": "inflict", "ko": "(피해를) 입히다, 가하다" },
+        { "word": "surface", "ko": "(수면 위로) 떠오르다, 드러나다" },
+        { "word": "closing days", "ko": "막바지, 마지막 며칠" },
+        { "word": "retraction", "ko": "철회, 정정 (보도)" }
+      ]
+    },
+    {
+      "en": "Opponents of stricter rules counter that statutes drafted in haste would inevitably sweep up satire and legitimate criticism, chilling the very speech a democracy is obliged to protect.",
+      "ko": "더 엄격한 규제에 반대하는 이들은, 서둘러 작성된 법령이 필연적으로 풍자와 정당한 비판까지 싸잡아 규제하게 되어 민주주의가 지켜야 할 바로 그 표현을 위축시킬 것이라고 반박한다.",
+      "structure": "· counter that ~ : counter가 동사로 '반박하다'이며 that 명사절을 목적어로 받는다.\n· drafted in haste : 과거분사구가 statutes를 뒤에서 수식('서둘러 작성된 법령').\n· would : 가정의 뉘앙스('그렇게 되면 ~할 것이다').\n· chilling ~ : 분사구문으로, 앞 내용의 결과를 나타낸다('그래서 ~을 위축시킨다').\n· the very speech (that) a democracy is obliged to protect : 목적격 관계대명사 that이 생략됐다. the very + 명사 = '바로 그 ~'.",
+      "vocab_notes": [
+        { "word": "opponent", "ko": "반대자, 상대" },
+        { "word": "stricter", "ko": "더 엄격한" },
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "statute", "ko": "법령, 제정법" },
+        { "word": "draft", "ko": "초안을 작성하다" },
+        { "word": "in haste", "ko": "서둘러" },
+        { "word": "inevitably", "ko": "필연적으로" },
+        { "word": "sweep up", "ko": "싸잡아 휩쓸다, 함께 걸려들게 하다" },
+        { "word": "satire", "ko": "풍자" },
+        { "word": "legitimate", "ko": "정당한, 합법적인" },
+        { "word": "chill", "ko": "위축시키다, 얼어붙게 하다" },
+        { "word": "be obliged to", "ko": "~할 의무가 있다" }
+      ]
+    },
+    {
+      "en": "The more sober proposals therefore aim less at outlawing deception than at raising its cost: mandating disclosure, authenticating footage at the moment it is captured, and holding those who knowingly disseminate forgeries answerable for the harm they inflict.",
+      "ko": "그래서 더 냉정한 제안들은 기만 자체를 불법화하기보다 그 비용을 높이는 데 초점을 둔다. 공개를 의무화하고, 촬영되는 순간에 영상의 진위를 인증하며, 위조물을 알면서 퍼뜨리는 자에게 그들이 입힌 피해에 대한 책임을 묻는 것이다.",
+      "structure": "· less A than B : 'A라기보다 B'. 여기서는 전치사구 at outlawing ~ 과 at raising ~ 이 비교된다.\n· 콜론(:) 뒤의 동명사구 세 개(mandating ~, authenticating ~, and holding ~)가 병렬로 앞 내용을 구체화한다.\n· at the moment (when) it is captured : 관계부사가 생략된 시간 부사절('촬영되는 그 순간에').\n· hold + 목적어 + 형용사(answerable) : '~을 …한 상태로 두다/여기다' → '책임이 있다고 보다'. 목적어가 those who ~ 로 길어 형용사가 멀리 떨어졌다.\n· the harm (that) they inflict : 목적격 관계대명사 생략.",
+      "vocab_notes": [
+        { "word": "sober", "ko": "냉정한, 진지한" },
+        { "word": "proposal", "ko": "제안" },
+        { "word": "aim at", "ko": "~을 겨냥하다, 목표로 하다" },
+        { "word": "outlaw", "ko": "불법화하다, 금지하다" },
+        { "word": "deception", "ko": "기만, 속임수" },
+        { "word": "mandate", "ko": "의무화하다" },
+        { "word": "disclosure", "ko": "공개, 공시" },
+        { "word": "authenticate", "ko": "진위를 확인하다, 인증하다" },
+        { "word": "capture", "ko": "촬영하다, 포착하다" },
+        { "word": "knowingly", "ko": "알면서, 고의로" },
+        { "word": "disseminate", "ko": "퍼뜨리다, 유포하다" },
+        { "word": "forgery", "ko": "위조물, 위조" },
+        { "word": "answerable", "ko": "책임이 있는" },
+        { "word": "inflict", "ko": "(피해를) 입히다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "fabricate",
+      "pos": "v.",
+      "ko": "날조하다; (부품을) 제작하다",
+      "example_en": "The auditor concluded that the manager had fabricated the invoices to cover the shortfall.",
+      "example_ko": "감사인은 그 관리자가 부족액을 메우려고 송장을 날조했다고 결론지었다.",
+      "collocations": ["fabricate evidence", "fabricate a story"],
+      "note": "어원은 faber(장인) — 원뜻은 '만들어 내다'(fabricate parts=부품을 제작하다)이고, 여기서 '없는 것을 지어내다=날조하다'로 갈라졌다. fabric(직물)도 '짜서 만든 것'으로 같은 뿌리. 두 뜻은 목적어로 구분된다 — 부품이면 제작, 증거·진술이면 날조.",
+      "family": [
+        { "word": "fabrication", "pos": "n.", "ko": "날조; 제작" }
+      ]
+    },
+    {
+      "headword": "debunk",
+      "pos": "v.",
+      "ko": "거짓임을 밝히다, 통념을 깨다",
+      "example_en": "The study debunked the widespread belief that longer hours raise productivity.",
+      "example_ko": "그 연구는 근무 시간이 길수록 생산성이 오른다는 널리 퍼진 믿음이 틀렸음을 밝혔다.",
+      "collocations": ["debunk a myth", "debunk the claim"],
+      "note": "de-(걷어내다) + bunk(허튼소리, bunkum의 준말) — 말 그대로 '헛소리를 벗겨내다'. 그냥 부정하는 deny와 달리 근거를 들어 무너뜨린다는 뜻이 핵심이다.",
+      "related": [
+        { "word": "refute", "ko": "논박하다", "note": "refute는 상대의 '주장'을 겨냥하고, debunk는 널리 퍼진 '통념·낭설'을 겨냥한다" }
+      ]
+    },
+    {
+      "headword": "veracity",
+      "pos": "n.",
+      "ko": "진실성, 정확성",
+      "example_en": "Editors could not confirm the veracity of the leaked recording before the deadline.",
+      "example_ko": "편집자들은 마감 전까지 유출된 녹음의 진위를 확인하지 못했다.",
+      "collocations": ["question the veracity of", "verify the veracity"],
+      "note": "verus(참된) 계열로 verify(확인하다)·verdict(ver+dict '참을 말함'=평결)와 한 뿌리다. voracity(대식, 탐욕)와 철자가 한 글자(e/o) 차이라 시험에서 잘 낚인다.",
+      "related": [
+        { "word": "voracity", "ko": "게걸스러움, 탐욕", "note": "voracious(게걸스러운) 계열 — veracity(진실성)와 뜻이 전혀 다르니 첫 글자를 보고 갈라야 한다" }
+      ]
+    },
+    {
+      "headword": "authenticate",
+      "pos": "v.",
+      "ko": "진위를 확인하다, 인증하다",
+      "example_en": "Banks now authenticate large transfers with a second device before releasing the funds.",
+      "example_ko": "은행들은 이제 자금을 내주기 전에 두 번째 기기로 거액 송금을 인증한다.",
+      "collocations": ["authenticate a document", "authenticate users"],
+      "note": "authentic(진짜의) + -ate('~하게 만들다', activate·validate와 같은 동사화 접미사). 실무에서 authentication(인증=너는 누구인가)과 authorization(인가=무엇을 할 권한이 있는가)을 가르는 구분이 이 어근 차이에서 나온다.",
+      "family": [
+        { "word": "authentic", "pos": "a.", "ko": "진짜의, 진품의" },
+        { "word": "authenticity", "pos": "n.", "ko": "진정성, 진품임" }
+      ]
+    },
+    {
+      "headword": "impersonate",
+      "pos": "v.",
+      "ko": "사칭하다, 흉내 내다",
+      "example_en": "Fraudsters impersonated the finance director and asked staff to approve an urgent payment.",
+      "example_ko": "사기꾼들은 재무 이사를 사칭해 직원들에게 긴급 지급을 승인해 달라고 요청했다.",
+      "collocations": ["impersonate an official", "impersonate a colleague"],
+      "note": "im-(안으로) + person(사람) — '남의 인격 속으로 들어가다'. 무대 위 성대모사도, 사기 목적의 사칭도 같은 단어이고 맥락이 선악을 결정한다. personnel(직원)·persona와 뿌리가 같다.",
+      "family": [
+        { "word": "impersonation", "pos": "n.", "ko": "사칭; 흉내 내기" }
+      ],
+      "related": [
+        { "word": "impostor", "ko": "사칭꾼, 가짜", "note": "impersonate하는 '사람'을 가리키는 명사 — 동사와 짝으로 외워 두면 기사에서 바로 붙는다" }
+      ]
+    },
+    {
+      "headword": "hoax",
+      "pos": "n.",
+      "ko": "거짓 소동, 날조된 이야기",
+      "example_en": "The bomb threat turned out to be a hoax, but the terminal was shut for three hours.",
+      "example_ko": "폭탄 위협은 거짓 소동으로 드러났지만, 터미널은 세 시간 동안 폐쇄됐다.",
+      "collocations": ["a hoax call", "expose a hoax"],
+      "note": "hocus(주문 hocus-pocus)에서 나온 말로 뿌리는 '요술로 홀리다'. 돈을 노리는 scam과 달리 hoax는 사람들을 믿게 만들어 소동을 일으키는 것 자체가 목적인 거짓말이다.",
+      "related": [
+        { "word": "scam", "ko": "사기", "note": "scam은 금전 편취가 목적, hoax는 속여서 믿게 하는 것이 목적 — 피해의 성격이 다르다" }
+      ]
+    },
+    {
+      "headword": "deception",
+      "pos": "n.",
+      "ko": "기만, 속임수",
+      "example_en": "The regulator fined the retailer for deception in its advertising of discount prices.",
+      "example_ko": "규제 당국은 할인가 광고에서의 기만을 이유로 그 소매업체에 과징금을 부과했다.",
+      "collocations": ["practice deception", "obtain by deception"],
+      "note": "de-(떨어져) + cap/cip(잡다) — '엉뚱한 데로 낚아채 가다'가 원 그림이며 capture·receive(다시 잡다)와 한 뿌리. 형용사 둘의 차이가 시험 포인트다: deceptive는 '겉이 사람을 속이는'(deceptively simple), deceitful은 '속이려 드는 성격의'.",
+      "family": [
+        { "word": "deceive", "pos": "v.", "ko": "속이다" },
+        { "word": "deceptive", "pos": "a.", "ko": "기만적인, 사람을 속이는" }
+      ]
+    },
+    {
+      "headword": "doctor",
+      "pos": "v.",
+      "ko": "(문서·사진을) 조작하다, 손대다",
+      "example_en": "Prosecutors alleged that the firm had doctored the safety reports before the inspection.",
+      "example_ko": "검찰은 그 회사가 점검 전에 안전 보고서를 조작했다고 주장했다.",
+      "collocations": ["a doctored photo", "doctor the accounts"],
+      "note": "'의사'만 알면 놓치는 동사 용법이다. 어근은 라틴 docere(가르치다)로 doctrine·document와 한 뿌리이고, 동사 doctor는 '손을 대다'에서 '(몰래 나쁘게) 손질하다'로 굳었다. 시사 기사의 doctored photo/video는 '합성·조작된'이라는 뜻.",
+      "related": [
+        { "word": "tamper", "ko": "함부로 손대다", "note": "tamper는 with를 달고 대상을 '건드리다'(tamper with evidence), doctor는 목적어를 바로 받아 '내용을 그럴듯하게 고치다'" }
+      ]
+    },
+    {
+      "headword": "gullible",
+      "pos": "a.",
+      "ko": "잘 속아 넘어가는, 귀가 얇은",
+      "example_en": "The scheme targeted gullible investors with promises of guaranteed monthly returns.",
+      "example_ko": "그 수법은 매달 수익을 보장한다는 약속으로 잘 속는 투자자들을 노렸다.",
+      "collocations": ["gullible investors", "gullible enough to believe"],
+      "note": "옛 동사 gull(속이다 — 갈매기가 아무거나 삼키는 데서 나왔다는 설)에 -ible(~될 수 있는)이 붙어 '삼켜 버릴 수 있는 사람'. 사람을 낮춰 보는 어감이 있어 중립적 서술에는 잘 쓰지 않는다.",
+      "related": [
+        { "word": "credulous", "ko": "잘 믿는", "note": "뜻은 거의 같지만 credulous는 문어체·중립, gullible은 구어체이며 '어수룩하다'는 비난조가 섞인다" }
+      ]
+    },
+    {
+      "headword": "discredit",
+      "pos": "v.",
+      "ko": "신빙성을 떨어뜨리다, 평판을 깎다",
+      "example_en": "The campaign tried to discredit the witness rather than answer the allegations.",
+      "example_ko": "그 캠프는 의혹에 답하는 대신 증인의 신빙성을 떨어뜨리려 했다.",
+      "collocations": ["discredit a witness", "discredit the findings"],
+      "note": "dis-(제거) + credit — credit의 밑바탕은 '외상·학점'이 아니라 credere(믿다)다. 그래서 discredit은 '믿음을 걷어내다'이고 credible·credential·credibility가 모두 같은 뿌리에서 나온다.",
+      "family": [
+        { "word": "credible", "pos": "a.", "ko": "믿을 만한" },
+        { "word": "credibility", "pos": "n.", "ko": "신뢰성" }
+      ]
+    },
+    {
+      "headword": "purported",
+      "pos": "a.",
+      "ko": "~라고 하는, ~라고 주장되는",
+      "example_en": "The paper published the purported transcript without confirming who had recorded it.",
+      "example_ko": "그 신문은 누가 녹음했는지 확인하지도 않은 채 녹취록이라는 문건을 실었다.",
+      "collocations": ["a purported leak", "the purported author"],
+      "note": "기자가 사실 확인 전에 거리를 두는 표현으로, '~라고들 하는(진위는 미확인)'의 뜻이다. alleged와 쓰임이 거의 같되 alleged는 혐의·비행에, purported는 문건·정체에 잘 붙는다. 동사 purport는 '~인 척하다'.",
+      "family": [
+        { "word": "purport", "pos": "v.", "ko": "~인 척하다; (n.) 취지, 요지" }
+      ]
+    },
+    {
+      "headword": "sway",
+      "pos": "v.",
+      "ko": "(마음을) 흔들다, 좌우하다",
+      "example_en": "A single televised debate can sway undecided voters in the final week.",
+      "example_ko": "단 한 번의 TV 토론이 막판 한 주에 부동층 유권자의 마음을 흔들 수 있다.",
+      "collocations": ["sway voters", "hold sway over"],
+      "note": "원뜻은 나뭇가지처럼 '좌우로 흔들리다'이고, 거기서 '사람의 마음을 흔들어 움직이다'로 확장됐다. 명사로 쓰면 '영향력'이라 hold sway over ~ = ~을 좌지우지하다.",
+      "related": [
+        { "word": "persuade", "ko": "설득하다", "note": "persuade는 논리로 납득시키는 것, sway는 결과적으로 마음이 기울게 만드는 것 — 근거의 유무를 따지지 않는다" }
+      ]
+    },
+    {
+      "headword": "outstrip",
+      "pos": "v.",
+      "ko": "넘어서다, 능가하다",
+      "example_en": "Demand for data centers has outstripped the region's ability to supply power.",
+      "example_ko": "데이터센터 수요가 그 지역의 전력 공급 능력을 넘어섰다.",
+      "collocations": ["outstrip demand", "outstrip supply"],
+      "note": "out-(더 ~하게) + strip(옛뜻 '빠르게 움직이다') — 상대를 앞질러 나간다는 그림이다. 접두사 out-이 붙으면 '상대보다 더'가 되는 규칙(outnumber 수적으로 앞서다, outlive 더 오래 살다)을 함께 잡아 두면 좋다.",
+      "related": [
+        { "word": "outpace", "ko": "앞지르다", "note": "outpace는 '속도'가 초점, outstrip은 수요·비용 같은 '양'이 상대를 초과할 때 더 자주 쓴다" }
+      ]
+    },
+    {
+      "headword": "sheer",
+      "pos": "a.",
+      "ko": "순전한; (양이) 엄청난",
+      "example_en": "The sheer scale of the backlog forced the agency to hire temporary staff.",
+      "example_ko": "밀린 업무의 규모 자체가 워낙 커서 그 기관은 임시 인력을 고용해야 했다.",
+      "collocations": ["the sheer scale of", "sheer volume"],
+      "note": "명사 앞에서만 쓰여 '다른 요인 없이 그것 하나만으로'를 강조한다 — the sheer volume은 '양이 그야말로 어마어마해서'라는 뉘앙스다. 동음이의 shear(자르다, 깎다)와 철자를 혼동하지 않도록 주의.",
+      "related": [
+        { "word": "shear", "ko": "(양털·금속을) 깎다, 절단하다", "note": "발음이 같고 철자가 한 글자 다르다 — sheer는 형용사, shear는 동사로 품사부터 갈린다" }
+      ]
+    },
+    {
+      "headword": "inflict",
+      "pos": "v.",
+      "ko": "(피해·고통을) 가하다, 입히다",
+      "example_en": "The typhoon inflicted severe damage on coastal fishing communities.",
+      "example_ko": "태풍은 해안 어촌에 심각한 피해를 입혔다.",
+      "collocations": ["inflict damage on", "inflict losses"],
+      "note": "in-(위에) + flict(때리다) — conflict(서로 부딪침)·afflict와 한 뿌리다. 전치사 짝이 정해져 있어 inflict A on B(B에게 A를 가하다) 형태로 외워야 한다.",
+      "related": [
+        { "word": "afflict", "ko": "괴롭히다, 시달리게 하다", "note": "afflict는 주로 수동으로 당하는 쪽을 말하고(be afflicted with a disease), inflict는 가하는 쪽이 주어다" }
+      ]
+    },
+    {
+      "headword": "gauge",
+      "pos": "v.",
+      "ko": "가늠하다, 측정하다",
+      "example_en": "The survey was designed to gauge how employees felt about the merger.",
+      "example_ko": "그 설문은 직원들이 합병을 어떻게 느끼는지 가늠하기 위해 설계됐다.",
+      "collocations": ["gauge public opinion", "a reliable gauge of"],
+      "note": "철자와 달리 '게이지'로 읽는다. 눈금으로 재는 measure와 달리 gauge는 여론·분위기처럼 숫자로 딱 떨어지지 않는 것을 '어림잡아 가늠한다'는 데 쓸 수 있고, 명사로는 '계측기, 판단 기준'이다.",
+      "related": [
+        { "word": "measure", "ko": "측정하다", "note": "measure는 수치로 재는 것, gauge는 수치가 없어도 대략 판단하는 것까지 포함한다" }
+      ]
+    },
+    {
+      "headword": "amend",
+      "pos": "v.",
+      "ko": "(법·문서를) 개정하다, 수정하다",
+      "example_en": "The committee voted to amend the contract so that penalties applied to both parties.",
+      "example_ko": "위원회는 위약금이 양측 모두에 적용되도록 계약을 수정하기로 의결했다.",
+      "collocations": ["amend the law", "amend a contract"],
+      "note": "a-/e-(밖으로) + mend(고치다) — '흠(mendum)을 걷어내다'가 어원이라 mend(수선하다)와 한 뿌리다. 부분 손질이 amend, 통째로 뜯어고치는 것은 overhaul. 복수형 amends는 뜻이 갈라져 '보상'이 되니 make amends(사과·보상하다)를 따로 외운다.",
+      "family": [
+        { "word": "amendment", "pos": "n.", "ko": "개정, 수정(안)" }
+      ]
+    },
+    {
+      "headword": "articulate",
+      "pos": "v.",
+      "ko": "(생각을) 분명히 표현하다",
+      "example_en": "The new director struggled to articulate a strategy the board could support.",
+      "example_ko": "새 이사는 이사회가 지지할 만한 전략을 분명하게 제시하는 데 애를 먹었다.",
+      "collocations": ["articulate a vision", "clearly articulated"],
+      "note": "artic-(관절)에서 나온 말로, 뼈가 마디로 나뉘듯 생각을 마디마디 또렷하게 갈라 말한다는 그림이다. article(관절→항목→기사)과 한 뿌리. 동사는 끝을 [-eit]로, 형용사('말을 조리 있게 하는')는 [-ət]으로 발음이 달라진다.",
+      "family": [
+        { "word": "articulation", "pos": "n.", "ko": "명확한 표현; 발음" }
+      ]
+    }
+  ]
+}
