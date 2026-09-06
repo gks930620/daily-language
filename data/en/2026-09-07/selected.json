@@ -1,0 +1,346 @@
+{
+  "date": "2026-09-07",
+  "words": [
+    {
+      "headword": "disposal",
+      "pos": "n.",
+      "ko": "처리, 폐기; 처분",
+      "example_en": "The plant was fined for the improper disposal of hazardous waste.",
+      "example_ko": "그 공장은 유해 폐기물을 부적절하게 처리한 일로 벌금을 물었다.",
+      "collocations": [
+        "waste disposal",
+        "the disposal of assets"
+      ],
+      "note": "dispose의 원뜻은 '따로 떼어 배치하다' — 물건을 치워 배치하면 처분(disposal), 마음이 어느 쪽으로 배치되면 성향(disposition)이 된다. 「at one's disposal(마음대로 쓸 수 있는)」도 같은 뿌리.",
+      "family": [
+        {
+          "word": "dispose",
+          "pos": "v.",
+          "ko": "처리하다(of와 함께); 배치하다"
+        },
+        {
+          "word": "disposable",
+          "pos": "a.",
+          "ko": "일회용의; (소득이) 가처분의"
+        },
+        {
+          "word": "disposition",
+          "pos": "n.",
+          "ko": "성향, 기질 — '처리'가 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "canister",
+      "pos": "n.",
+      "ko": "(밀폐) 용기, 통",
+      "example_en": "The spent fuel is sealed in steel canisters before it is moved underground.",
+      "example_ko": "사용후핵연료는 지하로 옮기기 전에 강철 용기에 밀봉된다.",
+      "collocations": [
+        "a steel canister",
+        "a canister of tear gas"
+      ],
+      "note": "can(깡통)과 한 뿌리로, '내용물을 단단히 가둬 두는 통'을 가리킨다. 부엌의 밀폐 용기부터 방사성 폐기물 용기, 최루탄(tear gas canister)까지 '새면 안 되는 것'을 담을 때 쓴다.",
+      "related": [
+        {
+          "word": "container",
+          "ko": "용기, 컨테이너",
+          "note": "container는 담는 그릇 전반, canister는 뚜껑이 꽉 닫히는 금속·단단한 통"
+        }
+      ]
+    },
+    {
+      "headword": "corrode",
+      "pos": "v.",
+      "ko": "부식시키다, 부식하다; (신뢰 등을) 좀먹다",
+      "example_en": "Salt air had corroded the bridge's steel cables.",
+      "example_ko": "바닷바람의 염분이 다리의 강철 케이블을 부식시켰다.",
+      "collocations": [
+        "corrode metal",
+        "corrode public trust"
+      ],
+      "note": "cor-(완전히)+rod-(갉아먹다 — rodent(설치류)의 그 뿌리). 녹이 금속을 '갉아먹는' 그림이라, 비유로 쓰면 신뢰·권위를 서서히 좀먹는다는 뜻이 된다.",
+      "family": [
+        {
+          "word": "corrosion",
+          "pos": "n.",
+          "ko": "부식"
+        },
+        {
+          "word": "corrosive",
+          "pos": "a.",
+          "ko": "부식성의; (말·비판이) 신랄한"
+        }
+      ],
+      "related": [
+        {
+          "word": "erode",
+          "ko": "침식하다",
+          "note": "e-(밖으로)+rod- — 물·바람이 겉을 깎아내는 물리적 침식이 erode, 화학 반응으로 금속이 삭는 것이 corrode"
+        }
+      ]
+    },
+    {
+      "headword": "seep",
+      "pos": "v.",
+      "ko": "스며들다, 배어 나오다",
+      "example_en": "Contaminated water had seeped into the soil around the landfill.",
+      "example_ko": "오염된 물이 매립지 주변 토양으로 스며들어 있었다.",
+      "collocations": [
+        "seep into",
+        "seep through the walls"
+      ],
+      "note": "구멍으로 콸콸 새는 leak과 달리, seep은 흙·벽 같은 물질을 '통과해 조금씩 배어 나오는' 느낌이다. 명사형 seepage(침출, 누수)는 환경 기사에 자주 나온다.",
+      "family": [
+        {
+          "word": "seepage",
+          "pos": "n.",
+          "ko": "침출, 스며 나옴"
+        }
+      ],
+      "related": [
+        {
+          "word": "leak",
+          "ko": "새다, 누출하다",
+          "note": "leak은 구멍·틈으로 새는 것 전반이고 정보 유출에도 쓰지만, seep은 물질을 통과해 서서히 배는 것에만 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "decay",
+      "pos": "v.",
+      "ko": "부패하다, 쇠퇴하다; (방사성 물질이) 붕괴하다",
+      "example_en": "The isotope decays to a safe level only after thousands of years.",
+      "example_ko": "그 동위원소는 수천 년이 지나야 안전한 수준으로 붕괴한다.",
+      "collocations": [
+        "tooth decay",
+        "urban decay",
+        "radioactive decay"
+      ],
+      "note": "de-(아래로)+cad-(떨어지다 — accident·cadence의 그 뿌리)라서 '상태가 아래로 떨어지는 것' 전부를 덮는다. 그래서 충치(tooth decay), 도심 쇠락(urban decay), 방사성 붕괴(radioactive decay)가 한 단어다. 명사·동사 형태가 같다.",
+      "related": [
+        {
+          "word": "decadent",
+          "ko": "퇴폐적인",
+          "note": "같은 cad- 뿌리 — 도덕이 '떨어진' 상태"
+        }
+      ]
+    },
+    {
+      "headword": "inert",
+      "pos": "a.",
+      "ko": "반응하지 않는, 불활성의; 무기력한",
+      "example_en": "The waste is fused into inert glass so that it will not react with groundwater.",
+      "example_ko": "그 폐기물은 지하수와 반응하지 않도록 불활성 유리에 녹여 굳힌다.",
+      "collocations": [
+        "an inert gas",
+        "politically inert"
+      ],
+      "note": "in-(아니다)+ars/art(기술·능력, art의 뿌리) = '스스로 움직일 힘이 없는'. 화학에서는 다른 물질과 반응하지 않는 것, 사람·조직에는 '굼뜬'을 뜻한다. inertia(관성·타성)와 한 집안이라 함께 외우면 좋다.",
+      "family": [
+        {
+          "word": "inertia",
+          "pos": "n.",
+          "ko": "관성; (조직의) 타성"
+        }
+      ]
+    },
+    {
+      "headword": "permeable",
+      "pos": "a.",
+      "ko": "투과성의, 스며들 수 있는",
+      "example_en": "Permeable rock allows water to reach the waste, so the site was rejected.",
+      "example_ko": "투과성 암반은 물이 폐기물까지 닿게 하므로 그 부지는 탈락했다.",
+      "collocations": [
+        "permeable rock",
+        "a permeable membrane"
+      ],
+      "note": "per-(통과해)+mea-(가다) — 물이 '통과해 가는'. 부정형 impermeable(물이 안 통하는)이 실제로 더 자주 쓰인다. 동사 permeate는 냄새·사상이 '배어들다'로 확장된다.",
+      "family": [
+        {
+          "word": "permeate",
+          "pos": "v.",
+          "ko": "스며들다, 배어들다"
+        },
+        {
+          "word": "permeability",
+          "pos": "n.",
+          "ko": "투과성"
+        }
+      ],
+      "related": [
+        {
+          "word": "impervious",
+          "ko": "불침투성의; 영향받지 않는",
+          "note": "impermeable이 '물이 안 스미는'이라면 impervious는 사람에게 써서 '비판에 꿈쩍도 않는'으로도 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "millennium",
+      "pos": "n.",
+      "ko": "천 년",
+      "example_en": "The waste will stay hazardous for millennia, long after the plant is gone.",
+      "example_ko": "그 폐기물은 발전소가 사라진 뒤로도 한참, 수천 년 동안 위험한 상태로 남는다.",
+      "collocations": [
+        "for millennia",
+        "over the past millennium"
+      ],
+      "note": "mille(1000)+annus(해) — annual·anniversary와 같은 annus 뿌리다. 라틴어 복수를 그대로 써서 millennia(-um → -a)가 되고, 철자에서 l 하나·n 둘(mill-ennium)을 자주 틀린다.",
+      "family": [
+        {
+          "word": "millennial",
+          "pos": "a.",
+          "ko": "천 년의; (명사로) 밀레니얼 세대"
+        }
+      ]
+    },
+    {
+      "headword": "interim",
+      "pos": "a.",
+      "ko": "임시의, 중간의",
+      "example_en": "The board appointed an interim chief executive while the search continued.",
+      "example_ko": "이사회는 후임 물색이 계속되는 동안 임시 대표를 임명했다.",
+      "collocations": [
+        "an interim report",
+        "an interim government",
+        "in the interim"
+      ],
+      "note": "라틴어 '그 사이에'가 그대로 굳은 말. temporary가 '짧게 쓰는'이라면 interim은 '정식 후임이 올 때까지 자리를 메우는'이라는 뜻이 핵심이다. 명사로 쓰면 in the interim(그동안에).",
+      "related": [
+        {
+          "word": "provisional",
+          "ko": "잠정적인",
+          "note": "provisional은 '확정 전이라 바뀔 수 있는'(잠정 합의), interim은 '정식 것이 나올 때까지의 기간'을 가리킨다"
+        }
+      ]
+    },
+    {
+      "headword": "burial",
+      "pos": "n.",
+      "ko": "매장, 묻기",
+      "example_en": "Deep geological burial remains the only disposal method experts agree on.",
+      "example_ko": "심지층 매장은 전문가들이 합의하는 유일한 처분 방식으로 남아 있다.",
+      "collocations": [
+        "a burial site",
+        "deep geological burial"
+      ],
+      "note": "bury의 명사형인데 발음이 '뷰리얼'이 아니라 '베리얼'이다(bury도 '베리'). 무덤에만 쓰지 않고 '깊이 묻어 격리하는 것' 전반에 쓰며, 비유로 bury the news(뉴스를 묻어 버리다)처럼도 나온다.",
+      "family": [
+        {
+          "word": "bury",
+          "pos": "v.",
+          "ko": "묻다, 매장하다"
+        }
+      ]
+    },
+    {
+      "headword": "veto",
+      "pos": "n.",
+      "ko": "거부권; 거부권을 행사하다",
+      "example_en": "Local councils were given a veto over any site chosen in their area.",
+      "example_ko": "지방 의회는 자기 지역에 선정되는 어떤 부지에 대해서도 거부권을 갖게 되었다.",
+      "collocations": [
+        "veto power",
+        "exercise a veto",
+        "veto a bill"
+      ],
+      "note": "라틴어 '나는 금지한다'는 동사가 통째로 명사가 된 말이다. 단순한 '반대'가 아니라 '혼자서 통과를 막을 수 있는 권한'이라는 점이 핵심. 동사로도 쓰고 복수는 vetoes(-es)다.",
+      "related": [
+        {
+          "word": "veto-proof",
+          "ko": "거부권을 무력화하는",
+          "note": "a veto-proof majority = 거부권을 뒤집을 수 있는 압도적 다수"
+        }
+      ]
+    },
+    {
+      "headword": "sequester",
+      "pos": "v.",
+      "ko": "격리하다, 따로 가두다; (자산을) 압류하다",
+      "example_en": "Forests sequester carbon that would otherwise warm the atmosphere.",
+      "example_ko": "숲은 그대로 두면 대기를 데울 탄소를 격리해 가둔다.",
+      "collocations": [
+        "sequester carbon",
+        "sequester a jury"
+      ],
+      "note": "se-(따로 떼어)로 시작하는 separate·segregate·secede와 같은 '떼어 놓다' 계열이다. 탄소 격리(carbon sequestration), 배심원 격리처럼 '외부와 차단해 가둬 둔다'가 공통 그림.",
+      "family": [
+        {
+          "word": "sequestration",
+          "pos": "n.",
+          "ko": "격리; 압류"
+        }
+      ]
+    },
+    {
+      "headword": "protracted",
+      "pos": "a.",
+      "ko": "오래 끄는, 장기화된",
+      "example_en": "A protracted dispute over compensation delayed the project by a decade.",
+      "example_ko": "보상을 둘러싼 장기 분쟁이 그 사업을 10년이나 지연시켰다.",
+      "collocations": [
+        "a protracted dispute",
+        "protracted negotiations"
+      ],
+      "note": "pro-(앞으로)+tract(끌다 — tractor·attract의 그 뿌리) = 시간을 앞으로 길게 '끌어낸'. prolonged와 뜻은 겹치지만 protracted에는 '지겹게 질질 끈다'는 부정적 색이 확실히 붙는다.",
+      "family": [
+        {
+          "word": "protract",
+          "pos": "v.",
+          "ko": "오래 끌다, 연장하다"
+        }
+      ]
+    },
+    {
+      "headword": "shelve",
+      "pos": "v.",
+      "ko": "(계획을) 보류하다; 선반에 얹다",
+      "example_en": "The government shelved the plan after months of local protests.",
+      "example_ko": "정부는 몇 달간의 지역 시위 끝에 그 계획을 보류했다.",
+      "collocations": [
+        "shelve a plan",
+        "shelve a project indefinitely"
+      ],
+      "note": "shelf(선반)의 동사형 — 서류를 선반에 얹어 두고 손대지 않는 그림이 그대로 '계획을 묵혀 두다'가 된다. 명사 복수가 shelves이듯 동사도 f가 v로 바뀌어 shelve로 쓴다(shelf 아님).",
+      "family": [
+        {
+          "word": "shelf",
+          "pos": "n.",
+          "ko": "선반 (복수 shelves)"
+        }
+      ],
+      "related": [
+        {
+          "word": "scrap",
+          "ko": "폐기하다",
+          "note": "shelve는 되살릴 여지를 남긴 무기한 보류, scrap은 아예 없던 일로 하는 폐기"
+        }
+      ]
+    },
+    {
+      "headword": "deadlock",
+      "pos": "n.",
+      "ko": "교착 상태",
+      "example_en": "Two years of talks ended in deadlock over who would host the facility.",
+      "example_ko": "2년간의 협상은 누가 그 시설을 받을 것인가를 두고 교착으로 끝났다.",
+      "collocations": [
+        "break the deadlock",
+        "end in deadlock"
+      ],
+      "note": "자물쇠(lock)가 완전히 잠겨 어느 쪽으로도 돌아가지 않는 그림. break the deadlock(교착을 깨다)이 통째 관용구이고, 동사로도 쓴다(the talks deadlocked).",
+      "related": [
+        {
+          "word": "stalemate",
+          "ko": "교착, 수렁",
+          "note": "체스에서 온 말 — 어느 쪽도 이길 수 없는 무승부성 교착. deadlock과 거의 바꿔 쓴다"
+        },
+        {
+          "word": "impasse",
+          "ko": "막다른 상태",
+          "note": "프랑스어에서 온 문어체 — 협상이 '길이 막힌' 상태"
+        }
+      ]
+    }
+  ]
+}

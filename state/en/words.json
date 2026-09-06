@@ -1935,6 +1935,51 @@
     },
     "inflict": {
       "added_on": "2026-09-06"
+    },
+    "disposal": {
+      "added_on": "2026-09-07"
+    },
+    "canister": {
+      "added_on": "2026-09-07"
+    },
+    "corrode": {
+      "added_on": "2026-09-07"
+    },
+    "seep": {
+      "added_on": "2026-09-07"
+    },
+    "decay": {
+      "added_on": "2026-09-07"
+    },
+    "inert": {
+      "added_on": "2026-09-07"
+    },
+    "permeable": {
+      "added_on": "2026-09-07"
+    },
+    "millennium": {
+      "added_on": "2026-09-07"
+    },
+    "interim": {
+      "added_on": "2026-09-07"
+    },
+    "burial": {
+      "added_on": "2026-09-07"
+    },
+    "veto": {
+      "added_on": "2026-09-07"
+    },
+    "sequester": {
+      "added_on": "2026-09-07"
+    },
+    "protracted": {
+      "added_on": "2026-09-07"
+    },
+    "shelve": {
+      "added_on": "2026-09-07"
+    },
+    "deadlock": {
+      "added_on": "2026-09-07"
     }
   }
 }
