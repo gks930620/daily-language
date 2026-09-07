@@ -1980,6 +1980,51 @@
     },
     "deadlock": {
       "added_on": "2026-09-07"
+    },
+    "motorist": {
+      "added_on": "2026-09-08"
+    },
+    "gridlock": {
+      "added_on": "2026-09-08"
+    },
+    "commute": {
+      "added_on": "2026-09-08"
+    },
+    "transit": {
+      "added_on": "2026-09-08"
+    },
+    "ridership": {
+      "added_on": "2026-09-08"
+    },
+    "pedestrian": {
+      "added_on": "2026-09-08"
+    },
+    "thoroughfare": {
+      "added_on": "2026-09-08"
+    },
+    "pollutant": {
+      "added_on": "2026-09-08"
+    },
+    "metropolis": {
+      "added_on": "2026-09-08"
+    },
+    "penalize": {
+      "added_on": "2026-09-08"
+    },
+    "denounce": {
+      "added_on": "2026-09-08"
+    },
+    "skeptic": {
+      "added_on": "2026-09-08"
+    },
+    "outperform": {
+      "added_on": "2026-09-08"
+    },
+    "impartial": {
+      "added_on": "2026-09-08"
+    },
+    "delegate": {
+      "added_on": "2026-09-08"
     }
   }
 }

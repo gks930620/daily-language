@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-08",
+  "passage_note": "도시·교통 — 도심 혼잡통행료를 둘러싼 논쟁과 순서의 문제(논설)",
+  "sentences": [
+    {
+      "en": "When city officials first floated the idea of charging motorists a fee to enter the downtown core, the proposal was denounced as a regressive tax on those who had no realistic alternative to driving.",
+      "ko": "시 당국이 도심 중심부에 진입하는 운전자에게 요금을 물리자는 안을 처음 꺼냈을 때, 그 제안은 운전 말고는 현실적인 대안이 없는 사람들에게 물리는 역진세라며 규탄받았다.",
+      "structure": "· When ~ core: 시간 부사절. 주절은 the proposal was denounced ~.\n· charging motorists a fee: charge A B(A에게 B를 부과하다) 4형식이 동명사(of의 목적어)로 쓰였다.\n· to enter the downtown core: a fee를 수식하는 형용사적 용법의 to부정사(진입하기 위한 요금).\n· was denounced as ~: denounce A as B(A를 B라고 규탄하다)의 수동태.\n· those who had ~: those who = '~하는 사람들'. who는 주격 관계대명사.\n· alternative to driving: alternative to 뒤에는 명사·동명사가 온다(to부정사 아님에 주의).",
+      "vocab_notes": [
+        { "word": "official", "ko": "당국자, 공무원" },
+        { "word": "float", "ko": "(안을) 넌지시 내놓다, 띄우다" },
+        { "word": "charge", "ko": "(요금을) 부과하다" },
+        { "word": "motorist", "ko": "운전자, 차량 운전자" },
+        { "word": "fee", "ko": "요금, 수수료" },
+        { "word": "downtown core", "ko": "도심 중심부" },
+        { "word": "proposal", "ko": "제안, 안" },
+        { "word": "denounce", "ko": "규탄하다, 강하게 비난하다" },
+        { "word": "regressive tax", "ko": "역진세(소득이 낮을수록 부담률이 커지는 세금)" },
+        { "word": "realistic", "ko": "현실적인" },
+        { "word": "alternative to", "ko": "~의 대안" }
+      ]
+    },
+    {
+      "en": "Yet the experience of the handful of cities that pressed ahead tells a more complicated story: traffic volumes fell sharply within weeks, buses that had once crawled through gridlock began to keep to their timetables, and roadside pollutants declined measurably.",
+      "ko": "그러나 밀어붙인 소수 도시의 경험은 좀 더 복잡한 이야기를 들려준다. 교통량은 몇 주 만에 급감했고, 교통 마비 속을 기어가다시피 하던 버스는 운행 시간표를 지키기 시작했으며, 길가의 오염 물질도 눈에 띄게 줄었다.",
+      "structure": "· 주어는 the experience(단수)이고 of ~ ahead는 수식어구라 동사가 tells로 단수 일치한다. cities에 끌려 tell로 쓰지 않도록 주의.\n· that pressed ahead: cities를 수식하는 주격 관계대명사절.\n· 콜론(:) 뒤는 앞 문장의 'complicated story'를 구체적으로 풀어 준 세 개의 절이 A, B, and C로 병렬된 구조.\n· buses that had once crawled ~: 주격 관계대명사절 + 과거완료(began보다 앞선 시점의 일).\n· begin to keep to ~: keep to는 '(일정·규칙을) 지키다'.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그러나 (문두 접속부사)" },
+        { "word": "a handful of", "ko": "소수의, 한 줌의" },
+        { "word": "press ahead", "ko": "밀어붙이다, 강행하다" },
+        { "word": "complicated", "ko": "복잡한" },
+        { "word": "traffic volume", "ko": "교통량" },
+        { "word": "sharply", "ko": "급격히" },
+        { "word": "crawl", "ko": "기어가다, 거북이걸음을 하다" },
+        { "word": "gridlock", "ko": "(꽉 막힌) 교통 마비" },
+        { "word": "keep to", "ko": "(일정·시간표를) 지키다" },
+        { "word": "timetable", "ko": "운행 시간표" },
+        { "word": "roadside", "ko": "길가의, 노변의" },
+        { "word": "pollutant", "ko": "오염 물질" },
+        { "word": "decline", "ko": "줄어들다, 감소하다" },
+        { "word": "measurably", "ko": "눈에 띌 만큼, 측정될 정도로" }
+      ]
+    },
+    {
+      "en": "Crucially, the revenue was ring-fenced for public transit, so that the drivers who paid the charge were in effect financing the very alternative that would eventually make their own commute optional.",
+      "ko": "결정적으로, 그 세수는 대중교통 용도로 따로 묶여 있었다. 그래서 통행료를 낸 운전자들은 사실상, 언젠가 자기 통근에서 자동차를 선택 사항으로 만들어 줄 바로 그 대안에 자금을 대고 있었던 셈이다.",
+      "structure": "· so that + 주어 + 동사: '그 결과 ~하다'(결과의 부사절). 목적을 뜻하는 so that ~ may/can과 구분한다.\n· the drivers who paid the charge: 주격 관계대명사절이 주어와 동사(were financing) 사이에 끼어 있다.\n· the very alternative that would ~: the very는 명사를 강조해 '바로 그 ~'. that은 목적격이 아니라 주격 관계대명사(would make의 주어).\n· make their own commute optional: make + 목적어 + 목적격보어(형용사) 5형식.",
+      "vocab_notes": [
+        { "word": "crucially", "ko": "결정적으로, 중요한 것은" },
+        { "word": "revenue", "ko": "세수, (정부·기업의) 수입" },
+        { "word": "ring-fence", "ko": "(돈을) 특정 용도로 묶어 두다" },
+        { "word": "public transit", "ko": "대중교통 (영국식은 public transport)" },
+        { "word": "in effect", "ko": "사실상" },
+        { "word": "finance", "ko": "자금을 대다" },
+        { "word": "the very", "ko": "바로 그 ~ (강조)" },
+        { "word": "eventually", "ko": "결국, 언젠가는" },
+        { "word": "commute", "ko": "통근" },
+        { "word": "optional", "ko": "선택 사항인, 필수가 아닌" }
+      ]
+    },
+    {
+      "en": "Skeptics counter that such schemes work only where a dense rail network already exists, and that imposing a cordon on a car-dependent metropolis would merely penalize the poor while leaving the affluent undeterred.",
+      "ko": "회의론자들은 그런 제도가 촘촘한 철도망이 이미 깔린 곳에서만 통한다고, 그리고 자동차에 의존하는 대도시에 통제선을 두르는 것은 부유층은 아랑곳 않게 내버려 둔 채 가난한 사람들에게 불이익만 줄 뿐이라고 반박한다.",
+      "structure": "· counter that A, and that B: counter(반박하다)의 목적어인 that절 두 개가 병렬. 두 번째 that을 빠뜨리지 않는 것이 격식체의 관례다.\n· where a dense rail network already exists: '~하는 곳에서'라는 장소의 부사절(관계부사 아님).\n· imposing a cordon ~ would penalize ~: 동명사구가 주어. 동명사 주어는 단수 취급.\n· the poor / the affluent: the + 형용사 = 그 부류의 사람들(복수 취급).\n· while leaving the affluent undeterred: 분사구문(접속사 while을 남긴 형태). leave + 목적어 + 목적격보어(과거분사) 5형식.",
+      "vocab_notes": [
+        { "word": "skeptic", "ko": "회의론자" },
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "scheme", "ko": "제도, 계획" },
+        { "word": "dense", "ko": "조밀한, 촘촘한" },
+        { "word": "rail network", "ko": "철도망" },
+        { "word": "impose", "ko": "부과하다, 시행하다" },
+        { "word": "cordon", "ko": "차단선, 통제 경계선" },
+        { "word": "car-dependent", "ko": "자동차에 의존하는" },
+        { "word": "metropolis", "ko": "대도시" },
+        { "word": "merely", "ko": "그저, 단지" },
+        { "word": "penalize", "ko": "불이익을 주다, 벌하다" },
+        { "word": "the affluent", "ko": "부유층" },
+        { "word": "undeterred", "ko": "단념하지 않는, 아랑곳하지 않는" }
+      ]
+    },
+    {
+      "en": "The objection has force, but it is an argument for sequencing — for building the buses before the barrier goes up — rather than for abandoning a policy that has consistently outperformed the exhortations and voluntary measures that preceded it.",
+      "ko": "그 반론에는 설득력이 있다. 하지만 그것은 순서에 관한 주장 — 차단선을 세우기 전에 버스부터 갖추라는 주장 — 이지, 그동안 앞서 시도된 권고와 자율 조치들보다 한결같이 나은 성과를 낸 정책을 폐기하라는 주장은 아니다.",
+      "structure": "· an argument for A rather than for B: 'B가 아니라 A를 위한 주장'. A와 B 자리에 전치사 for + 동명사(sequencing / abandoning)가 같은 형태로 병렬돼야 한다.\n· 대시(—) 사이의 for building ~ up은 앞의 for sequencing을 구체적으로 바꿔 말한 삽입구(동격).\n· a policy that has consistently outperformed ~: 주격 관계대명사 + 현재완료(지금까지 죽 그래 왔다).\n· that preceded it: the exhortations and voluntary measures를 수식하는 주격 관계대명사절. it은 a policy를 가리킨다.",
+      "vocab_notes": [
+        { "word": "objection", "ko": "반론, 이의" },
+        { "word": "have force", "ko": "설득력이 있다, 힘이 있다" },
+        { "word": "argument", "ko": "주장, 논거" },
+        { "word": "sequencing", "ko": "순서 정하기, 선후 배열" },
+        { "word": "barrier", "ko": "장벽, 차단 시설" },
+        { "word": "go up", "ko": "(구조물이) 세워지다" },
+        { "word": "abandon", "ko": "폐기하다, 버리다" },
+        { "word": "consistently", "ko": "한결같이, 일관되게" },
+        { "word": "outperform", "ko": "~보다 나은 성과를 내다" },
+        { "word": "exhortation", "ko": "권고, 촉구" },
+        { "word": "voluntary measures", "ko": "자율 조치" },
+        { "word": "precede", "ko": "~에 앞서다, 선행하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "motorist",
+      "pos": "n.",
+      "ko": "운전자, 차량 운전자",
+      "example_en": "Motorists entering the city center before 9 a.m. will be charged a daily fee.",
+      "example_ko": "오전 9시 이전에 도심에 진입하는 운전자에게는 일일 요금이 부과된다.",
+      "collocations": ["motorists are urged to", "fine motorists"],
+      "note": "-ist는 '그 일을 하는 사람'을 만드는 접미사(cyclist 자전거 이용자, tourist 관광객). driver보다 기사·법규 문서에서 쓰는 문어체 표현이라 교통 관련 지문에 거의 항상 나온다.",
+      "related": [
+        { "word": "pedestrian", "ko": "보행자", "note": "교통 기사에서 motorist(운전자) - cyclist(자전거) - pedestrian(보행자)이 한 세트로 묶여 나온다" }
+      ]
+    },
+    {
+      "headword": "gridlock",
+      "pos": "n.",
+      "ko": "(완전히 막힌) 교통 마비; 교착 상태",
+      "example_en": "Downtown gridlock costs the local economy millions of hours in lost productivity each year.",
+      "example_ko": "도심 교통 마비는 지역 경제에 해마다 수백만 시간의 생산성 손실을 안긴다.",
+      "collocations": ["be stuck in gridlock", "political gridlock"],
+      "note": "grid(격자 모양 도로망) + lock(잠김) — 격자 도로가 서로 물려 통째로 잠긴 그림. 여기서 '정치적 교착(political gridlock)'이라는 비유로 확장됐다.",
+      "related": [
+        { "word": "deadlock", "ko": "교착 상태", "note": "deadlock은 협상·회의가 멈춘 상태에 주로 쓰고, gridlock은 교통 마비가 본뜻이며 정치 마비에 비유로 쓴다" },
+        { "word": "congestion", "ko": "혼잡", "note": "congestion은 '막히는 정도'(정도의 문제), gridlock은 '아예 움직이지 않는 상태'(극단)" }
+      ]
+    },
+    {
+      "headword": "commute",
+      "pos": "n./v.",
+      "ko": "통근(하다)",
+      "example_en": "Her commute shrank from ninety minutes to twenty after the new line opened.",
+      "example_ko": "새 노선이 개통된 뒤 그의 통근 시간은 90분에서 20분으로 줄었다.",
+      "collocations": ["a long commute", "commute to work", "daily commute"],
+      "note": "com-(함께) + mut-(바꾸다) — 원래 뜻은 '바꾸다'로, 지금도 법률에서 commute a sentence(형을 감형하다)로 쓴다. '정기권으로 요금을 한꺼번에 바꿔 낸다'는 데서 통근 뜻이 나왔다. mutual·mutation과 같은 뿌리.",
+      "family": [
+        { "word": "commuter", "pos": "n.", "ko": "통근자" },
+        { "word": "commutation", "pos": "n.", "ko": "감형; 대체·환산" }
+      ]
+    },
+    {
+      "headword": "transit",
+      "pos": "n.",
+      "ko": "대중교통; 수송, 통과",
+      "example_en": "All revenue from the toll is earmarked for transit improvements.",
+      "example_ko": "통행료 수입은 전액 대중교통 개선에 배정된다.",
+      "collocations": ["public transit", "transit system", "goods in transit"],
+      "note": "trans-(가로질러) + it-(가다). 미국에서 public transit이 곧 대중교통(영국은 public transport)이고, 무역 문서의 in transit은 '운송 중'이라 손해 배상 조항에서 자주 나온다.",
+      "family": [
+        { "word": "transition", "pos": "n.", "ko": "이행, 전환" },
+        { "word": "transitory", "pos": "a.", "ko": "일시적인" },
+        { "word": "transient", "pos": "a.", "ko": "잠깐 머무는, 덧없는" }
+      ]
+    },
+    {
+      "headword": "ridership",
+      "pos": "n.",
+      "ko": "(대중교통) 이용객 수, 이용자층",
+      "example_en": "Subway ridership rebounded to pre-pandemic levels within a year.",
+      "example_ko": "지하철 이용객 수는 1년 만에 팬데믹 이전 수준을 회복했다.",
+      "collocations": ["ridership fell", "boost ridership"],
+      "note": "-ship은 '상태·집합'을 만드는 접미사 — membership(회원 수·자격), readership(독자층), leadership처럼 사람 집단이나 그 지위를 통째로 가리킨다. 통계 기사에서 '이용객 수'로 읽으면 된다.",
+      "family": [
+        { "word": "readership", "pos": "n.", "ko": "독자층, 독자 수" },
+        { "word": "membership", "pos": "n.", "ko": "회원 자격; 회원 수" }
+      ]
+    },
+    {
+      "headword": "pedestrian",
+      "pos": "n./a.",
+      "ko": "보행자; 보행자의; 평범한, 따분한",
+      "example_en": "The plan turns three downtown blocks into a pedestrian zone.",
+      "example_ko": "그 계획은 도심 세 블록을 보행자 전용 구역으로 바꾼다.",
+      "collocations": ["pedestrian zone", "pedestrian crossing", "pedestrian safety"],
+      "note": "ped-(발) — 발로 다니는 사람. 시험에서 진짜 함정은 형용사 뜻으로, '발로 터벅터벅 걷는 듯한'에서 '평범하고 따분한'(a pedestrian speech)이 된다.",
+      "related": [
+        { "word": "pedantic", "ko": "사소한 것에 집착하는, 현학적인", "note": "철자가 비슷하지만 뿌리가 다르다 — pedestrian은 '발', pedantic은 '가르치는 사람(선생)'에서 왔다" }
+      ]
+    },
+    {
+      "headword": "thoroughfare",
+      "pos": "n.",
+      "ko": "(도시를 관통하는) 주요 도로, 간선도로",
+      "example_en": "The city closed its busiest thoroughfare to private cars on weekends.",
+      "example_ko": "시는 가장 붐비는 간선도로를 주말에 자가용 통행 금지로 막았다.",
+      "collocations": ["a busy thoroughfare", "main thoroughfare", "no thoroughfare"],
+      "note": "thorough는 원래 through(관통하여)의 옛 형태이고, fare는 '가다'(farewell = 잘 가라, welfare = 잘 지냄)라는 옛 동사다. 즉 '뚫고 지나가는 길'. 표지판의 No thoroughfare는 '통행 금지'.",
+      "family": [
+        { "word": "fare", "pos": "n.", "ko": "(교통) 요금" },
+        { "word": "welfare", "pos": "n.", "ko": "복지" }
+      ]
+    },
+    {
+      "headword": "pollutant",
+      "pos": "n.",
+      "ko": "오염 물질",
+      "example_en": "Roadside monitors recorded a steep drop in airborne pollutants after the charge took effect.",
+      "example_ko": "길가 측정기는 통행료 시행 이후 대기 중 오염 물질의 급감을 기록했다.",
+      "collocations": ["airborne pollutants", "reduce pollutants", "industrial pollutant"],
+      "note": "동사 + -ant는 '그 작용을 하는 물질·사람'을 만든다(pollute → pollutant, contaminate → contaminant, lubricate → lubricant). 반대로 -ion이 붙은 pollution은 '오염이라는 현상'이라 셀 수 없다.",
+      "family": [
+        { "word": "pollute", "pos": "v.", "ko": "오염시키다" },
+        { "word": "pollution", "pos": "n.", "ko": "오염(현상) — 물질 하나하나는 pollutant" }
+      ]
+    },
+    {
+      "headword": "metropolis",
+      "pos": "n.",
+      "ko": "대도시, 중심 도시",
+      "example_en": "Managing traffic in a metropolis of twelve million is a different problem entirely.",
+      "example_ko": "인구 1,200만 대도시의 교통을 관리하는 것은 전혀 다른 차원의 문제다.",
+      "collocations": ["a sprawling metropolis", "bustling metropolis"],
+      "note": "meter/metro-(어머니) + polis(도시) — 식민 도시들의 '어머니 도시'가 본뜻. 같은 polis가 politics(도시의 일 = 정치)·metropolitan·cosmopolitan에 들어 있다.",
+      "family": [
+        { "word": "metropolitan", "pos": "a.", "ko": "대도시의, 수도권의" }
+      ]
+    },
+    {
+      "headword": "penalize",
+      "pos": "v.",
+      "ko": "불이익을 주다; 벌하다, 제재하다",
+      "example_en": "A flat fee penalizes low-income drivers far more than wealthy ones.",
+      "example_ko": "정액 요금은 부유한 운전자보다 저소득 운전자에게 훨씬 큰 불이익을 준다.",
+      "collocations": ["unfairly penalize", "penalize companies for"],
+      "note": "pen-(벌)은 penalty·punish·penance와 한 뿌리지만, 실제 시사문에서는 '벌을 준다'보다 '결과적으로 불리하게 만든다'는 뜻으로 더 많이 쓰인다(제도가 특정 집단에게 불리하게 작용).",
+      "family": [
+        { "word": "penalty", "pos": "n.", "ko": "벌금, 불이익" },
+        { "word": "penal", "pos": "a.", "ko": "형벌의 (penal code = 형법)" }
+      ]
+    },
+    {
+      "headword": "denounce",
+      "pos": "v.",
+      "ko": "규탄하다, 공개적으로 비난하다",
+      "example_en": "Business groups denounced the levy as a tax on commerce.",
+      "example_ko": "재계 단체들은 그 부과금을 상거래에 물리는 세금이라며 규탄했다.",
+      "collocations": ["denounce A as B", "publicly denounce", "roundly denounce"],
+      "note": "de-(아래로) + nounce(말하다) — 깎아내려 공개적으로 말하다. 같은 nounce 계열인 announce(알리다)·pronounce(발음하다·선언하다)·renounce(포기·절연하다)를 한 세트로 외우면 셋 다 기억에 남는다.",
+      "family": [
+        { "word": "denunciation", "pos": "n.", "ko": "규탄, 비난" },
+        { "word": "renounce", "pos": "v.", "ko": "(권리를) 포기하다, 절연하다" }
+      ]
+    },
+    {
+      "headword": "skeptic",
+      "pos": "n.",
+      "ko": "회의론자",
+      "example_en": "Skeptics warned that the scheme would collapse under legal challenges.",
+      "example_ko": "회의론자들은 그 제도가 법적 소송에 무너질 것이라고 경고했다.",
+      "collocations": ["skeptics argue", "win over skeptics"],
+      "note": "그리스어 skeptesthai(살펴보다)에서 왔다 — 덮어놓고 부정하는 사람이 아니라 '따져 보는' 사람이라는 뉘앙스. 영국식 철자는 sceptic이라 원서·영국 매체에서 다른 단어처럼 보일 수 있다.",
+      "family": [
+        { "word": "skeptical", "pos": "a.", "ko": "회의적인 (be skeptical of/about)" },
+        { "word": "skepticism", "pos": "n.", "ko": "회의(론), 의구심" }
+      ]
+    },
+    {
+      "headword": "outperform",
+      "pos": "v.",
+      "ko": "~보다 나은 성과를 내다, 능가하다",
+      "example_en": "The pilot program outperformed every forecast in its first quarter.",
+      "example_ko": "그 시범 사업은 첫 분기에 모든 전망치를 뛰어넘는 성과를 냈다.",
+      "collocations": ["outperform the market", "consistently outperform"],
+      "note": "out- + 동사 = '~보다 더 잘/더 많이 하다'는 생산적인 패턴이다(outnumber 수적으로 앞서다, outlive 더 오래 살다, outsell 더 많이 팔리다). 이 규칙만 알면 처음 보는 out- 동사도 뜻이 풀린다.",
+      "related": [
+        { "word": "outpace", "ko": "앞지르다", "note": "outpace는 '속도'에서 앞선다(수요가 공급을 앞지르다), outperform은 '성과·실적'에서 앞선다" }
+      ]
+    },
+    {
+      "headword": "impartial",
+      "pos": "a.",
+      "ko": "공정한, 어느 편도 들지 않는",
+      "example_en": "The dispute was referred to an impartial panel of transport experts.",
+      "example_ko": "그 분쟁은 교통 전문가로 구성된 공정한 심의단에 회부되었다.",
+      "collocations": ["impartial observer", "remain impartial", "impartial advice"],
+      "note": "im-(부정) + partial(한쪽 편의) — 어느 쪽으로도 기울지 않은. partial이 '부분적인'과 '편파적인' 두 뜻을 갖는다는 점이 핵심이고, 여기서 갈라진 부정형이 impartial(공정한)이다.",
+      "related": [
+        { "word": "disinterested", "ko": "사심 없는, 이해관계가 없는", "note": "impartial과 거의 같은 뜻 — '무관심한'은 uninterested이니 혼동하지 말 것" }
+      ]
+    },
+    {
+      "headword": "delegate",
+      "pos": "v./n.",
+      "ko": "(권한을) 위임하다; 대표, 대의원",
+      "example_en": "The mayor delegated enforcement of the new charge to the transport agency.",
+      "example_ko": "시장은 새 통행료의 집행 권한을 교통 당국에 위임했다.",
+      "collocations": ["delegate authority to", "delegate responsibility", "a delegate to the conference"],
+      "note": "de- + leg-(보내다·위임) — 권한을 딸려 보내는 것. 명사(대표)일 때는 끝을 '델리것'처럼 약하게, 동사(위임하다)일 때는 '델리게이트'로 끝을 살려 읽는 품사별 발음 변화 단어다.",
+      "family": [
+        { "word": "delegation", "pos": "n.", "ko": "대표단; 위임" },
+        { "word": "relegate", "pos": "v.", "ko": "(더 낮은 자리로) 밀어내다, 강등하다" }
+      ]
+    },
+    {
+      "headword": "unanimous",
+      "pos": "a.",
+      "ko": "만장일치의",
+      "example_en": "The council gave unanimous approval to the pilot scheme.",
+      "example_ko": "의회는 그 시범 제도를 만장일치로 승인했다.",
+      "collocations": ["unanimous decision", "unanimous approval", "reach a unanimous verdict"],
+      "note": "un(us)(하나) + anim(마음) — 마음이 하나. anim은 '마음·숨'이라 animate(생기를 불어넣다)·magnanimous(도량이 큰)에도 들어 있다. 부사 unanimously(만장일치로)가 회의록·기사에 더 자주 나온다.",
+      "family": [
+        { "word": "unanimously", "pos": "ad.", "ko": "만장일치로" },
+        { "word": "unanimity", "pos": "n.", "ko": "만장일치" }
+      ]
+    },
+    {
+      "headword": "plummet",
+      "pos": "v.",
+      "ko": "곤두박질치다, 급락하다",
+      "example_en": "Traffic volumes plummeted in the first month of the charge.",
+      "example_ko": "통행료 시행 첫 달에 교통량이 곤두박질쳤다.",
+      "collocations": ["prices plummet", "plummet by 30 percent", "plummet to a record low"],
+      "note": "plumb(납추)에서 왔다 — 납추가 수직으로 뚝 떨어지는 그림. 수치가 주어로 오는 경제 기사 전용 동사라 soar(치솟다)와 짝으로 외우면 그래프 방향까지 같이 기억된다.",
+      "related": [
+        { "word": "plunge", "ko": "급락하다; 뛰어들다", "note": "plummet은 오직 '떨어지다'지만 plunge는 스스로 뛰어드는 동작(plunge into a debate)에도 쓴다" },
+        { "word": "soar", "ko": "치솟다", "note": "plummet의 정반대 — 기사에서 prices soar / prices plummet으로 짝지어 나온다" }
+      ]
+    },
+    {
+      "headword": "detrimental",
+      "pos": "a.",
+      "ko": "해로운, 손해를 끼치는",
+      "example_en": "Prolonged exposure to roadside emissions is detrimental to children's health.",
+      "example_ko": "길가 배기가스에 오래 노출되는 것은 아이들의 건강에 해롭다.",
+      "collocations": ["detrimental to health", "have a detrimental effect on"],
+      "note": "라틴어 deterere(닳아 없애다)에서 나와 '갉아먹어 해롭다'는 뜻. 거의 언제나 be detrimental to + 명사 형태로 쓰이므로 전치사 to까지 통째로 외운다.",
+      "related": [
+        { "word": "adverse", "ko": "부정적인, 불리한", "note": "adverse effect와 detrimental effect는 거의 같은 뜻 — adverse는 '역방향의 조건'(adverse weather)에도 붙는 점이 다르다" }
+      ]
+    }
+  ]
+}
