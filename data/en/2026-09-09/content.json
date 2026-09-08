@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-09",
+  "passage_note": "경제·조세 — 다국적기업 최저한세와 이익 이전(profit shifting)을 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "For decades, multinational corporations have exploited the mismatch between where profits are booked and where value is actually created, routing revenue through subsidiaries in jurisdictions that levy little or no corporate tax.",
+      "ko": "수십 년간 다국적 기업들은 이익이 장부에 기록되는 곳과 가치가 실제로 창출되는 곳 사이의 불일치를 이용해, 법인세를 거의 또는 전혀 부과하지 않는 관할 지역의 자회사를 거쳐 수익을 우회시켜 왔다.",
+      "structure": "· have exploited: 현재완료 — For decades와 짝을 이뤄 '수십 년간 계속 ~해 왔다'.\n· between where ~ and where ~ : 의문사 where가 이끄는 명사절 두 개가 between A and B의 A·B 자리에 들어갔다.\n· routing ~ : 분사구문(능동) — 의미상 주어는 앞 절의 주어 multinational corporations, '~하면서'의 부대상황.\n· that levy little or no corporate tax: 주격 관계대명사 that이 선행사 jurisdictions를 수식.",
+      "vocab_notes": [
+        { "word": "multinational corporation", "ko": "다국적 기업" },
+        { "word": "exploit", "ko": "이용하다, 악용하다" },
+        { "word": "mismatch", "ko": "불일치, 어긋남" },
+        { "word": "book", "ko": "(수익·비용을) 장부에 기록하다" },
+        { "word": "route", "ko": "(특정 경로로) 우회시키다, 보내다" },
+        { "word": "revenue", "ko": "수익; 세입" },
+        { "word": "subsidiary", "ko": "자회사" },
+        { "word": "jurisdiction", "ko": "관할권, 관할 지역" },
+        { "word": "levy", "ko": "(세금을) 부과하다" },
+        { "word": "corporate tax", "ko": "법인세" }
+      ]
+    },
+    {
+      "en": "The global minimum tax, endorsed by more than 130 countries, was meant to put a floor under this race to the bottom: whenever profits are taxed abroad at less than fifteen percent, a parent company's home government may collect a top-up levy.",
+      "ko": "130개국 이상이 지지한 글로벌 최저한세는 이 바닥을 향한 경쟁에 하한선을 두려는 것이었다. 이익이 해외에서 15퍼센트 미만으로 과세될 때는 언제나 모회사의 본국 정부가 그 부족분을 메우는 추가 세금을 걷을 수 있다는 것이다.",
+      "structure": "· endorsed by more than 130 countries: 과거분사구가 콤마 사이에 삽입되어 주어 The global minimum tax를 뒤에서 수식.\n· was meant to ~ : 'be meant to = ~하기로 의도되었다'의 수동 표현.\n· 콜론(:) 뒤는 앞의 '하한선'이 무엇인지 구체적으로 풀어 쓴 부분이다.\n· whenever: 복합관계부사 = at any time when, '~할 때는 언제나'로 양보가 아닌 시간의 뜻.",
+      "vocab_notes": [
+        { "word": "global minimum tax", "ko": "글로벌 최저한세(최소 세율)" },
+        { "word": "endorse", "ko": "지지하다, 승인하다" },
+        { "word": "be meant to", "ko": "~하려는 의도였다" },
+        { "word": "put a floor under", "ko": "~에 하한선을 두다" },
+        { "word": "race to the bottom", "ko": "바닥을 향한 경쟁(세율·규제를 서로 낮추는 경쟁)" },
+        { "word": "tax", "ko": "과세하다" },
+        { "word": "abroad", "ko": "해외에서" },
+        { "word": "parent company", "ko": "모회사" },
+        { "word": "top-up", "ko": "부족분을 채우는" },
+        { "word": "levy", "ko": "부과금, 세금(명사)" }
+      ]
+    },
+    {
+      "en": "Yet the agreement is riddled with carve-outs that were the price of consensus, and several signatories have quietly deferred implementation while waiting to see whether their competitors do the same.",
+      "ko": "그러나 그 합의는 합의를 얻기 위해 치른 대가인 예외 조항들로 가득하고, 여러 서명국은 경쟁국들도 같이 그럴지 지켜보면서 시행을 슬그머니 미뤄 왔다.",
+      "structure": "· is riddled with: '~으로 온통 뒤덮여 있다'는 수동 관용 표현(부정적 대상에 쓴다).\n· that were the price of consensus: 주격 관계대명사 that이 carve-outs를 수식 — '합의의 대가였던 예외들'.\n· while waiting to see ~ : 접속사 while 뒤에서 주어(several signatories)와 be동사가 생략된 분사 구문.\n· whether their competitors do the same: whether절이 see의 목적어이고, do는 defer implementation을 대신하는 대동사.",
+      "vocab_notes": [
+        { "word": "riddled with", "ko": "~으로 가득한, 온통 뚫린" },
+        { "word": "carve-out", "ko": "예외 조항, 적용 제외" },
+        { "word": "the price of consensus", "ko": "합의를 얻기 위해 치른 대가" },
+        { "word": "signatory", "ko": "서명국, 조약 당사자" },
+        { "word": "quietly", "ko": "조용히, 슬그머니" },
+        { "word": "defer", "ko": "연기하다, 미루다" },
+        { "word": "implementation", "ko": "시행, 이행" },
+        { "word": "competitor", "ko": "경쟁자, 경쟁국" },
+        { "word": "do the same", "ko": "같이 그렇게 하다" }
+      ]
+    },
+    {
+      "en": "Critics contend that the deal entrenches the advantage of large economies: developing countries, whose revenues depend far more heavily on corporate taxation, cede their right to tax income at its source in return for a share of revenue that may never materialize.",
+      "ko": "비판자들은 이 합의가 큰 경제들의 우위를 오히려 굳힌다고 주장한다. 세입이 법인 과세에 훨씬 더 크게 의존하는 개발도상국들이, 결코 실현되지 않을 수도 있는 세수 배분을 받는 대가로 소득을 원천에서 과세할 권리를 내놓는다는 것이다.",
+      "structure": "· contend that ~ : that절을 목적어로 받는 '주장하다' 계열 동사.\n· whose revenues depend ~ : 소유격 관계대명사 whose가 developing countries를 수식하며 콤마 사이에 삽입됐다.\n· 삽입절이 길어 주어(developing countries)와 동사(cede)가 멀어진 구조 — 삽입절을 걷어내고 주어·동사를 먼저 붙여 읽는다.\n· far more heavily: far가 비교급 more를 강조 — '훨씬 더'.\n· in return for ~ : '~의 대가로'.",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판자" },
+        { "word": "contend", "ko": "주장하다; 다투다" },
+        { "word": "entrench", "ko": "고착시키다, 확고히 하다" },
+        { "word": "advantage", "ko": "우위, 이점" },
+        { "word": "developing country", "ko": "개발도상국" },
+        { "word": "depend on", "ko": "~에 의존하다" },
+        { "word": "corporate taxation", "ko": "법인 과세" },
+        { "word": "cede", "ko": "(권리를) 양도하다, 내주다" },
+        { "word": "at its source", "ko": "그 원천에서(원천 과세)" },
+        { "word": "in return for", "ko": "~의 대가로" },
+        { "word": "materialize", "ko": "실현되다, 현실이 되다" }
+      ]
+    },
+    {
+      "en": "Whether the regime holds will depend less on the elegance of its drafting than on whether any government is willing to forfeit an investment it could have lured with a tax break.",
+      "ko": "이 제도가 유지될지는 조문이 얼마나 정교한가보다, 어느 정부든 세금 감면으로 유치할 수 있었을 투자를 포기할 의향이 있는가에 달려 있을 것이다.",
+      "structure": "· Whether the regime holds ~ : whether가 이끄는 명사절이 문장의 주어다('~인지는').\n· depend less on A than on B: 'A보다 B에 달려 있다'는 비교 구문 — less ~ than의 짝을 놓치지 않는다.\n· could have lured: 조동사+have p.p. — '유치할 수도 있었을(실제로는 하지 않은)' 과거 사실의 반대.\n· an investment (which/that) it could have lured: 목적격 관계대명사가 생략된 형태.",
+      "vocab_notes": [
+        { "word": "regime", "ko": "제도, 체제" },
+        { "word": "hold", "ko": "유지되다, 버티다" },
+        { "word": "depend less on A than on B", "ko": "A보다 B에 달려 있다" },
+        { "word": "elegance", "ko": "정교함, 세련됨" },
+        { "word": "drafting", "ko": "조문 작성, 초안 작성" },
+        { "word": "be willing to", "ko": "~할 의향이 있다" },
+        { "word": "forfeit", "ko": "포기하다, 잃다" },
+        { "word": "lure", "ko": "유인하다, 끌어들이다" },
+        { "word": "tax break", "ko": "세금 감면" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "haven",
+      "pos": "n.",
+      "ko": "피난처, 안전한 곳",
+      "example_en": "Critics call the territory a tax haven that thrives on the secrecy it sells.",
+      "example_ko": "비판자들은 그 지역을 스스로 파는 비밀 보장으로 번영하는 조세 피난처라고 부른다.",
+      "collocations": ["tax haven", "safe haven"],
+      "note": "원래 뜻은 '항구(harbor)' — 배가 폭풍을 피해 들어오는 곳에서 '피난처'가 됐다. heaven(천국)과는 발음도 뜻도 다른 별개 단어이니 tax heaven이라고 쓰면 틀린다.",
+      "related": [
+        { "word": "heaven", "ko": "천국", "note": "haven[헤이븐]과 heaven[헤븐]은 뿌리가 다른 단어 — 시사 영어의 굳은 표현은 tax haven·safe haven뿐이다" }
+      ]
+    },
+    {
+      "headword": "evasion",
+      "pos": "n.",
+      "ko": "회피; (세금) 탈루, 탈세",
+      "example_en": "Prosecutors charged the executive with tax evasion rather than mere avoidance.",
+      "example_ko": "검찰은 그 임원을 단순한 절세가 아니라 탈세로 기소했다.",
+      "collocations": ["tax evasion", "evasion of responsibility"],
+      "note": "e-(밖으로)+vad-(가다) = '빠져나가다'로, invade(안으로 들어가다=침입)·pervade(널리 퍼지다)와 같은 뿌리. 조세 기사에서 evasion은 불법, avoidance는 합법 절세로 늘 구분해 쓴다.",
+      "family": [
+        { "word": "evade", "pos": "v.", "ko": "피하다, 회피하다" },
+        { "word": "evasive", "pos": "a.", "ko": "회피하는, 얼버무리는" }
+      ],
+      "related": [
+        { "word": "avoidance", "ko": "회피; (합법적) 절세", "note": "tax avoidance는 합법, tax evasion은 범죄 — 이 둘을 섞으면 기사 논지가 뒤집힌다" }
+      ]
+    },
+    {
+      "headword": "arbitrage",
+      "pos": "n.",
+      "ko": "차익 거래; (제도 차이를 이용한) 차익 취하기",
+      "example_en": "The scheme was pure regulatory arbitrage: the same loan, booked in a looser jurisdiction.",
+      "example_ko": "그 구조는 순전한 규제 차익 거래였다 — 같은 대출을 규제가 느슨한 관할지에 장부로 올린 것이다.",
+      "collocations": ["regulatory arbitrage", "tax arbitrage"],
+      "note": "arbitr-(판단하다) 뿌리를 arbitration(중재)과 공유하지만 뜻이 갈라져, '두 시장의 값 차이를 먹는 거래'를 뜻한다. tax/regulatory arbitrage처럼 '제도의 틈을 이용하기'로 확장돼 쓰인다.",
+      "family": [
+        { "word": "arbitrageur", "pos": "n.", "ko": "차익 거래자" }
+      ],
+      "related": [
+        { "word": "arbitration", "ko": "중재", "note": "arbitration은 분쟁 '중재'(노사·통상), arbitrage는 '차익 거래' — 철자가 비슷해 오역이 잦다" }
+      ]
+    },
+    {
+      "headword": "offshore",
+      "pos": "a./ad.",
+      "ko": "해외의, 국외로; 근해의",
+      "example_en": "Billions in profits sat in offshore accounts beyond the reach of domestic auditors.",
+      "example_ko": "수십억 달러의 이익이 국내 감사관의 손이 닿지 않는 해외 계좌에 잠겨 있었다.",
+      "collocations": ["offshore account", "offshore wind farm"],
+      "note": "'해안(shore)에서 떨어진'이 두 갈래로 쓰인다 — ① 물리적 근해(offshore wind 해상 풍력) ② 비유적 국외·조세 피난처(offshore account). 반대말 onshore도 같은 두 갈래를 갖는다.",
+      "related": [
+        { "word": "outsource", "ko": "외부에 위탁하다", "note": "offshoring은 '국외로 옮기기', outsourcing은 '외부 업체에 넘기기' — 국경을 넘는지가 갈림길" }
+      ]
+    },
+    {
+      "headword": "intangible",
+      "pos": "a.",
+      "ko": "무형의, 만질 수 없는",
+      "example_en": "Most of the group's value now sits in intangible assets such as patents and brands.",
+      "example_ko": "그 그룹의 가치 대부분은 이제 특허와 브랜드 같은 무형 자산에 있다.",
+      "collocations": ["intangible assets", "intangible benefits"],
+      "note": "in-(부정)+tangible(만질 수 있는). 다국적기업 과세가 어려운 이유가 여기 있다 — 특허·상표 같은 intangibles는 '어느 나라에 있는가'를 정하기 어렵기 때문이다.",
+      "related": [
+        { "word": "tangible", "ko": "유형의, 실체가 있는", "note": "tangible assets(유형자산) ↔ intangible assets(무형자산)" },
+        { "word": "tangential", "ko": "접선의; 본질에서 벗어난", "note": "같은 tang-(닿다) 뿌리지만 tangential은 '살짝 스치기만 하는 = 지엽적인'" }
+      ]
+    },
+    {
+      "headword": "conduit",
+      "pos": "n.",
+      "ko": "도관; (자금·정보가 지나가는) 통로",
+      "example_en": "The holding company served as a conduit for royalties flowing to a low-tax island.",
+      "example_ko": "그 지주회사는 세율이 낮은 섬으로 흘러가는 사용료의 통로 역할을 했다.",
+      "collocations": ["a conduit for funds", "act as a conduit"],
+      "note": "con-(함께)+duc-(이끌다) = '이끌어 통과시키는 관'으로 conduct(이끌다)·aqueduct(수도교)와 한 뿌리. 조세 기사의 conduit company는 자금을 통과시키기만 하는 '도관 회사'다.",
+      "family": [
+        { "word": "conduct", "pos": "v./n.", "ko": "수행하다, 이끌다; 처신" }
+      ]
+    },
+    {
+      "headword": "domicile",
+      "pos": "n.",
+      "ko": "주소지, (법적) 거주지·본거지",
+      "example_en": "The firm shifted its domicile to Ireland without moving a single employee.",
+      "example_ko": "그 회사는 직원 한 명도 옮기지 않고 법적 본거지를 아일랜드로 이전했다.",
+      "collocations": ["change of domicile", "tax domicile"],
+      "note": "dom-(집) 뿌리로 domestic(국내의)과 한 계열. 일상어 residence(사는 곳)와 달리 domicile은 '세법·법률상 어디에 속하는가'를 가리키는 법률 용어여서, 실제 거주와 어긋날 수 있다.",
+      "family": [
+        { "word": "domiciled", "pos": "a.", "ko": "~에 거주지(본거지)를 둔" }
+      ]
+    },
+    {
+      "headword": "treaty",
+      "pos": "n.",
+      "ko": "조약",
+      "example_en": "A network of bilateral tax treaties made the whole arrangement perfectly legal.",
+      "example_ko": "양자 조세 조약망 덕분에 그 구조 전체가 완벽히 합법이 되었다.",
+      "collocations": ["tax treaty", "sign a treaty"],
+      "note": "treat(다루다, 협상하다)에서 나온 '협상해서 만든 문서'. 같은 뿌리에서 treatment(취급·치료)·treatise(논문)로 갈라졌고, 국가 간 정식 문서는 agreement보다 격이 높은 treaty라고 부른다.",
+      "related": [
+        { "word": "treatise", "ko": "논문, 논설", "note": "treatise는 학술 논문 — 국가 간 조약은 treaty로, 철자만 비슷하다" }
+      ]
+    },
+    {
+      "headword": "amortize",
+      "pos": "v.",
+      "ko": "(자산을) 상각하다; (부채를) 분할 상환하다",
+      "example_en": "The company amortized the software licence over five years.",
+      "example_ko": "그 회사는 소프트웨어 라이선스를 5년에 걸쳐 상각했다.",
+      "collocations": ["amortize a loan", "amortize an asset"],
+      "note": "mort-(죽음) 뿌리로 mortal(죽는)·mortgage와 한 계열 — 장부상 가치를 조금씩 '죽여' 없애는 것. 회계에서 유형자산은 depreciate, 무형자산·부채는 amortize로 동사가 갈린다.",
+      "family": [
+        { "word": "amortization", "pos": "n.", "ko": "상각, 분할 상환" }
+      ],
+      "related": [
+        { "word": "depreciate", "ko": "감가상각하다; 가치가 떨어지다", "note": "유형자산에는 depreciate, 특허·영업권 같은 무형자산에는 amortize" }
+      ]
+    },
+    {
+      "headword": "itemize",
+      "pos": "v.",
+      "ko": "항목별로 나열하다, 명세를 적다",
+      "example_en": "Please itemize the expenses you intend to claim.",
+      "example_ko": "청구하려는 비용을 항목별로 적어 주십시오.",
+      "collocations": ["itemize expenses", "itemized invoice"],
+      "note": "item+-ize(~로 만들다) = '항목으로 만들다'. 토익 지문에는 itemized invoice/receipt(항목별 청구서·영수증)로, 세무에는 itemized deduction(항목별 공제)으로 굳어 나오며 정액공제 standard deduction과 대비된다.",
+      "family": [
+        { "word": "itemized", "pos": "a.", "ko": "항목별로 정리된" }
+      ]
+    },
+    {
+      "headword": "harmonize",
+      "pos": "v.",
+      "ko": "(제도·기준을) 통일하다, 조화시키다",
+      "example_en": "Brussels has pushed to harmonize the corporate tax base across member states.",
+      "example_ko": "EU 집행부는 회원국 전체의 법인세 과세 기반을 통일하려고 밀어붙여 왔다.",
+      "collocations": ["harmonize standards", "harmonize rules"],
+      "note": "음악의 harmony(화음)에서 왔지만 통상·규제 기사에서는 '나라마다 다른 규정을 서로 어긋나지 않게 맞추다'가 굳은 뜻이다. unify(하나로 합치다)보다 약해, 제도를 남겨 둔 채 기준만 맞추는 뉘앙스.",
+      "family": [
+        { "word": "harmonization", "pos": "n.", "ko": "(제도의) 통일, 조화" }
+      ]
+    },
+    {
+      "headword": "collusion",
+      "pos": "n.",
+      "ko": "공모, 결탁, 담합",
+      "example_en": "Regulators found no evidence of collusion between the bidders.",
+      "example_ko": "규제 당국은 입찰자들 사이의 담합 증거를 찾지 못했다.",
+      "collocations": ["in collusion with", "price collusion"],
+      "note": "col-(함께)+lud-(놀다) = '짜고 놀다'로 illusion(속임)·delude(속이다)와 한 뿌리라, 언제나 '함께 속이려 짬'이라는 부정적 뜻만 갖는다. 중립적 협력인 cooperation과 바꿔 쓸 수 없다.",
+      "family": [
+        { "word": "collude", "pos": "v.", "ko": "공모하다, 결탁하다" },
+        { "word": "collusive", "pos": "a.", "ko": "공모한, 담합의" }
+      ]
+    },
+    {
+      "headword": "acquiesce",
+      "pos": "v.",
+      "ko": "(마지못해) 묵인하다, 따르다",
+      "example_en": "Several governments quietly acquiesced in a deal they had criticized for years.",
+      "example_ko": "몇몇 정부는 수년간 비판해 온 합의를 조용히 묵인했다.",
+      "collocations": ["acquiesce in", "acquiesce to a demand"],
+      "note": "quie-(조용함) 뿌리로 quiet과 한 계열 — '조용히 있음으로써 동의하는 것'. agree와 달리 '내키지 않지만 반대는 하지 않는다'는 뉘앙스이고, 전치사 in 또는 to를 데려온다.",
+      "family": [
+        { "word": "acquiescence", "pos": "n.", "ko": "묵인, 순응" }
+      ]
+    },
+    {
+      "headword": "nascent",
+      "pos": "a.",
+      "ko": "초기의, 막 생겨나기 시작한",
+      "example_en": "The rules could stifle a nascent market before it finds its footing.",
+      "example_ko": "그 규정은 초기 시장이 자리를 잡기도 전에 질식시킬 수 있다.",
+      "collocations": ["nascent industry", "nascent democracy"],
+      "note": "nasc-/nat-(태어나다) 뿌리로 nature·native·prenatal과 한 계열. new와 달리 '갓 태어나 아직 약한'이라는 취약함이 함께 실려서, nascent industry는 보호 논거로 쓰이는 표현이다.",
+      "family": [
+        { "word": "renaissance", "pos": "n.", "ko": "부흥, 재생 — '다시 태어남'" }
+      ]
+    },
+    {
+      "headword": "espouse",
+      "pos": "v.",
+      "ko": "(주장·정책을) 지지하다, 신봉하다",
+      "example_en": "The minister espoused free trade in public while defending subsidies at home.",
+      "example_ko": "그 장관은 공개적으로는 자유무역을 지지하면서 국내에서는 보조금을 옹호했다.",
+      "collocations": ["espouse a cause", "espouse a view"],
+      "note": "spous-(약속하다) 뿌리로 spouse(배우자)와 한 집안 — '주장과 혼인하듯 결합하다'가 '신봉하다'가 됐다. 목적어는 사람이 아니라 늘 사상·명분·정책이다.",
+      "related": [
+        { "word": "endorse", "ko": "지지하다, 보증하다", "note": "endorse는 사람·상품도 공개 지지할 수 있지만, espouse는 사상·명분에만 붙는다" }
+      ]
+    },
+    {
+      "headword": "belie",
+      "pos": "v.",
+      "ko": "(겉모습이 실상과) 다름을 드러내다; ~와 어긋나다",
+      "example_en": "The polished report belies how little the agreement actually collects.",
+      "example_ko": "매끄러운 보고서는 그 합의가 실제로 얼마나 적게 걷는지와 어긋난다.",
+      "collocations": ["belie appearances", "the figures belie the claim"],
+      "note": "be-+lie(거짓말하다) = '거짓임을 보이다'. 겉과 속이 다를 때 쓰는데 '숨긴다'와 '반증한다' 두 방향으로 다 읽히니 어느 쪽이 진실인지를 문맥에서 잡아야 한다. lie(눕다)와는 무관.",
+      "related": [
+        { "word": "betray", "ko": "배신하다; (무심코) 드러내다", "note": "'속내를 무심코 드러내다'라는 용법에서 belie와 겹친다" }
+      ]
+    },
+    {
+      "headword": "inordinate",
+      "pos": "a.",
+      "ko": "과도한, 지나친",
+      "example_en": "Small economies devote an inordinate share of their revenue to chasing offshore profits.",
+      "example_ko": "작은 경제들은 세입의 지나치게 큰 몫을 국외로 빠져나간 이익을 추적하는 데 쓴다.",
+      "collocations": ["an inordinate amount of time", "inordinate delay"],
+      "note": "in-(부정)+ordinate(질서 있는) = '정도(질서)를 벗어난'으로 order·ordinary와 한 뿌리. 거의 an inordinate amount/share of 형태로만 쓰이는 격식체이며 항상 부정적 평가를 담는다.",
+      "related": [
+        { "word": "ordinance", "ko": "조례, 법령", "note": "같은 ord-(질서) 뿌리인데 ordinance는 '지자체 조례'로 뜻이 완전히 갈라졌다" }
+      ]
+    },
+    {
+      "headword": "obfuscate",
+      "pos": "v.",
+      "ko": "(고의로) 흐리게 하다, 애매하게 만들다",
+      "example_en": "Complex ownership chains obfuscate who ultimately benefits.",
+      "example_ko": "복잡한 소유 구조는 최종적으로 누가 이득을 보는지를 흐려 놓는다.",
+      "collocations": ["obfuscate the issue", "deliberately obfuscate"],
+      "note": "ob-(위에)+fusc-(어둡게 하다) = '어둡게 덮다'. confuse가 '결과적으로 헷갈리게 하다'라면 obfuscate는 '못 알아보게 일부러' 흐리는 것이라, 쓰는 순간 상대의 의도를 비난하는 말이 된다(반대: clarify).",
+      "family": [
+        { "word": "obfuscation", "pos": "n.", "ko": "의도적 모호화" }
+      ],
+      "related": [
+        { "word": "clarify", "ko": "명확히 하다", "note": "obfuscate의 정반대 — 논설에서 짝지어 대조된다" }
+      ]
+    }
+  ]
+}
