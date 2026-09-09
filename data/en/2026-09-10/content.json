@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-10",
+  "passage_note": "교육·보건 — 스마트폰과 청소년 정신건강, 학교 전면 금지를 둘러싼 논쟁(논설)",
+  "sentences": [
+    {
+      "en": "Few contemporary claims have travelled as quickly from anecdote to conventional wisdom as the assertion that smartphones are responsible for a collapse in adolescent mental health.",
+      "ko": "스마트폰이 청소년 정신건강의 붕괴를 초래했다는 주장만큼 개인적 일화에서 통념으로 빠르게 옮겨 간 현대의 주장도 드물다.",
+      "structure": "· Few + 복수명사 = '~한 것은 거의 없다' — 부정의 뜻을 가진 주어라 우리말로는 '드물다'로 뒤집어 옮긴다.\n· as quickly ... as the assertion : 원급 비교(as ~ as)로 '~만큼 빠르게'.\n· the assertion that S+V : 앞의 명사 assertion과 뒤 절이 같은 내용인 동격의 that(관계대명사 that이 아니다 — that절이 완전한 문장이다).\n· travel from A to B : 여기서 travel은 '이동하다'가 아니라 '(말·소문이) 퍼지다'.",
+      "vocab_notes": [
+        { "word": "contemporary", "ko": "현대의, 동시대의" },
+        { "word": "claim", "ko": "주장" },
+        { "word": "travel", "ko": "(말·소문이) 퍼지다, 번지다" },
+        { "word": "anecdote", "ko": "일화, 개인적 경험담" },
+        { "word": "conventional wisdom", "ko": "통념, 세간의 상식" },
+        { "word": "assertion", "ko": "(단정적인) 주장" },
+        { "word": "be responsible for", "ko": "~의 원인이다, ~에 책임이 있다" },
+        { "word": "collapse", "ko": "붕괴, 무너짐" },
+        { "word": "adolescent", "ko": "청소년(의)" },
+        { "word": "mental health", "ko": "정신건강" }
+      ]
+    },
+    {
+      "en": "The evidence is more equivocal than the headlines suggest: rates of anxiety and self-harm did climb steeply after 2012, yet longitudinal studies that follow individual teenagers over time find associations too small, and too easily confounded by family circumstance, to establish causation.",
+      "ko": "증거는 머리기사가 시사하는 것보다 모호하다. 불안과 자해의 비율이 2012년 이후 가파르게 오른 것은 사실이지만, 개별 청소년을 시간에 걸쳐 추적하는 종단 연구들은 인과관계를 입증하기에는 너무 작고 가정 형편에 너무 쉽게 교란되는 연관성만을 발견한다.",
+      "structure": "· 콜론(:)은 앞 문장('더 모호하다')의 근거를 뒤에 펼쳐 놓는 장치다.\n· did climb : 조동사 do를 넣은 동사 강조 — '실제로 올랐다'.\n· that follow individual teenagers : 앞의 studies를 수식하는 주격 관계대명사절(본동사는 뒤의 find).\n· too ~ to V : '너무 ~해서 …할 수 없다'. too small과 too easily confounded 둘 다 뒤의 to establish로 이어진다.\n· confounded by ~ : 과거분사가 associations를 뒤에서 수식(수동 관계).",
+      "vocab_notes": [
+        { "word": "evidence", "ko": "증거" },
+        { "word": "equivocal", "ko": "모호한, 애매한" },
+        { "word": "headline", "ko": "(신문의) 머리기사, 표제" },
+        { "word": "rate", "ko": "비율, 발생률" },
+        { "word": "anxiety", "ko": "불안(장애)" },
+        { "word": "self-harm", "ko": "자해" },
+        { "word": "steeply", "ko": "가파르게" },
+        { "word": "longitudinal study", "ko": "종단 연구(같은 대상을 오래 추적하는 연구)" },
+        { "word": "individual", "ko": "개별의, 각각의" },
+        { "word": "association", "ko": "연관성, 상관" },
+        { "word": "confound", "ko": "(다른 요인이) 결과를 교란시키다, 흐리다" },
+        { "word": "circumstance", "ko": "사정, 형편" },
+        { "word": "establish", "ko": "입증하다, 확립하다" },
+        { "word": "causation", "ko": "인과관계" }
+      ]
+    },
+    {
+      "en": "Skeptics are right to insist that correlation is not proof, and that every generation has attributed its discontents to whatever technology happened to be new.",
+      "ko": "회의론자들이 상관관계는 증명이 아니라고, 그리고 어느 세대나 자기 시대의 불만을 그때 마침 새로 나온 기술의 탓으로 돌려 왔다고 주장하는 것은 옳다.",
+      "structure": "· be right to V : '~하는 것이 옳다' — 사람을 주어로 두고 판단을 붙이는 형식.\n· insist that A, and that B : that절 두 개가 병렬로 insist에 걸린다(두 번째 that을 생략하지 않은 이유는 병렬을 분명히 하기 위해서다).\n· attribute A to B : 'A를 B의 탓(덕)으로 돌리다' — 전치사 to를 반드시 동반한다.\n· whatever technology happened to be new : 복합관계형용사 whatever가 이끄는 명사절이 to의 목적어. happen to V는 '마침 ~이다'.",
+      "vocab_notes": [
+        { "word": "skeptic", "ko": "회의론자" },
+        { "word": "insist", "ko": "강하게 주장하다" },
+        { "word": "correlation", "ko": "상관관계" },
+        { "word": "proof", "ko": "증명, 증거" },
+        { "word": "generation", "ko": "세대" },
+        { "word": "attribute A to B", "ko": "A를 B의 탓·덕으로 돌리다" },
+        { "word": "discontent", "ko": "불만" },
+        { "word": "whatever", "ko": "~한 것은 무엇이든" },
+        { "word": "happen to be", "ko": "마침 ~이다, 우연히 ~이다" }
+      ]
+    },
+    {
+      "en": "Yet the precautionary case for acting does not rest on certainty: sleep deprivation and the sheer opportunity cost of six hours a day are harms that require no elaborate theory of causation, and schools that have imposed outright bans during the day report calmer corridors and steadier attention.",
+      "ko": "그러나 사전 예방 차원에서 조치를 취해야 한다는 논거가 확실성에 근거하는 것은 아니다. 수면 부족과 하루 여섯 시간이라는 순전한 기회비용은 정교한 인과 이론이 필요 없는 해악이며, 낮 동안 전면 금지를 시행한 학교들은 더 차분해진 복도와 더 안정된 집중력을 보고한다.",
+      "structure": "· rest on ~ : '~에 근거하다'. does not rest on certainty = 확실성을 근거로 삼는 것은 아니다.\n· harms that require no elaborate theory : 주격 관계대명사절이 harms를 수식. no + 명사는 not ~ any보다 강한 부정.\n· schools that have imposed ~ report : 주어(schools)와 본동사(report) 사이에 관계사절이 길게 끼어든 구조 — 동사 수 일치를 주어 schools에 맞춘다.\n· calmer, steadier : 비교급으로 '(금지 이전보다) 더 ~한' 상태를 나타낸다.",
+      "vocab_notes": [
+        { "word": "precautionary", "ko": "예방적인, 사전 예방의" },
+        { "word": "case for", "ko": "~에 찬성하는 논거" },
+        { "word": "rest on", "ko": "~에 근거하다, 달려 있다" },
+        { "word": "certainty", "ko": "확실성" },
+        { "word": "sleep deprivation", "ko": "수면 부족, 수면 박탈" },
+        { "word": "sheer", "ko": "순전한, 그야말로 ~인" },
+        { "word": "opportunity cost", "ko": "기회비용" },
+        { "word": "harm", "ko": "해악, 피해" },
+        { "word": "elaborate", "ko": "정교한, 공들인" },
+        { "word": "impose", "ko": "(제도·규제를) 시행하다, 부과하다" },
+        { "word": "outright ban", "ko": "전면 금지" },
+        { "word": "corridor", "ko": "복도" },
+        { "word": "steady", "ko": "안정된, 꾸준한" }
+      ]
+    },
+    {
+      "en": "The danger is that a prohibition imposed without explanation will backfire, driving use underground and leaving adolescents no better equipped to moderate a device they will carry for the rest of their lives.",
+      "ko": "위험은 설명 없이 부과된 금지가 역효과를 내어, 사용을 음성화시키고 청소년들이 평생 지니고 다닐 기기를 스스로 절제할 능력을 조금도 더 갖추지 못하게 만든다는 데 있다.",
+      "structure": "· The danger is that S+V : that절이 보어로 쓰인 명사절.\n· imposed without explanation : 과거분사구가 a prohibition을 뒤에서 수식(관계대명사 which is의 생략형).\n· driving ..., and leaving ... : 분사구문 두 개가 병렬 — 앞 내용의 '결과'를 나타낸다.\n· no better equipped : 비교급 앞의 no는 '조금도 더 ~하지 않은'이라는 강한 부정.\n· a device (which) they will carry ~ : 목적격 관계대명사가 생략된 절.",
+      "vocab_notes": [
+        { "word": "prohibition", "ko": "금지(령)" },
+        { "word": "backfire", "ko": "역효과를 낳다" },
+        { "word": "drive ~ underground", "ko": "~을 음성화시키다, 지하로 숨어들게 하다" },
+        { "word": "be equipped to V", "ko": "~할 능력·준비를 갖추다" },
+        { "word": "moderate", "ko": "(스스로) 절제하다, 조절하다" },
+        { "word": "device", "ko": "기기, 장치" },
+        { "word": "for the rest of one's life", "ko": "남은 평생 동안" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "adolescent",
+      "pos": "n./a.",
+      "ko": "청소년(의)",
+      "example_en": "The clinic offers counseling programs designed specifically for adolescents.",
+      "example_ko": "그 병원은 청소년을 위해 특별히 고안된 상담 프로그램을 제공한다.",
+      "collocations": ["adolescent mental health", "adolescent behavior"],
+      "note": "라틴어 adolescere(자라나다)의 현재분사형 — '자라는 중'인 사람이 adolescent, 다 자란(과거분사) 사람이 adult다. 두 단어가 같은 뿌리에서 시제만 갈라진 셈이라 함께 외우면 좋다.",
+      "family": [
+        { "word": "adolescence", "pos": "n.", "ko": "청소년기" },
+        { "word": "adult", "pos": "n./a.", "ko": "성인(의)" }
+      ]
+    },
+    {
+      "headword": "longitudinal",
+      "pos": "a.",
+      "ko": "종단적인; 세로 방향의",
+      "example_en": "A longitudinal survey followed the same workers for two decades.",
+      "example_ko": "한 종단 조사가 같은 노동자들을 20년간 추적했다.",
+      "collocations": ["longitudinal study", "longitudinal data"],
+      "note": "longitude(경도 = 지구를 세로로 가르는 선)에서 온 말 — 시간축을 '세로로 길게' 따라가는 연구가 longitudinal study(종단 연구)다.",
+      "related": [
+        { "word": "cross-sectional", "ko": "횡단적인", "note": "한 시점만 '가로로' 잘라 보는 조사 — 종단 연구와 대비되는 짝. 시사문에서 연구의 신뢰도를 가를 때 이 대비가 자주 등장한다" }
+      ]
+    },
+    {
+      "headword": "causation",
+      "pos": "n.",
+      "ko": "인과관계",
+      "example_en": "The report stops short of claiming causation between the policy and the decline.",
+      "example_ko": "그 보고서는 정책과 그 감소 사이의 인과관계를 주장하는 데까지는 나아가지 않는다.",
+      "collocations": ["establish causation", "correlation and causation"],
+      "note": "correlation은 '함께 움직인다'만 말하고, causation은 'A가 B를 일으킨다'까지 말한다. Correlation is not causation은 영어 논설에서 거의 굳어진 문구이니 통째로 외워 둔다.",
+      "family": [
+        { "word": "cause", "pos": "v./n.", "ko": "야기하다; 원인" },
+        { "word": "causal", "pos": "a.", "ko": "인과의 — casual(격식 없는)과 철자가 뒤바뀐 꼴이라 혼동 주의" }
+      ]
+    },
+    {
+      "headword": "correlate",
+      "pos": "v.",
+      "ko": "상관관계가 있다",
+      "example_en": "Higher wages correlate closely with lower turnover in the industry.",
+      "example_ko": "그 업계에서는 더 높은 임금이 더 낮은 이직률과 밀접한 상관관계를 보인다.",
+      "collocations": ["correlate with", "closely correlated"],
+      "note": "co-(함께) + relate(관계짓다) — 두 값이 '함께' 움직인다는 사실만 말할 뿐 원인을 단정하지 않는다. 전치사는 with를 쓴다(correlate to는 어색).",
+      "family": [
+        { "word": "correlation", "pos": "n.", "ko": "상관관계" }
+      ],
+      "related": [
+        { "word": "cause", "note": "correlate는 동시 변화만 기술하고 cause는 원인을 단정한다 — 논설 독해에서 필자가 어느 쪽 동사를 골랐는지가 곧 주장의 강도다" }
+      ]
+    },
+    {
+      "headword": "anecdotal",
+      "pos": "a.",
+      "ko": "일화적인, 개인 경험에 근거한",
+      "example_en": "Regulators dismissed the complaints as anecdotal rather than statistical.",
+      "example_ko": "규제 당국은 그 불만들을 통계가 아니라 개인적 일화에 불과하다며 일축했다.",
+      "collocations": ["anecdotal evidence", "purely anecdotal"],
+      "note": "그리스어 anekdota(=출판되지 않은 것)에서 왔다 — 공식 기록이 아닌 '떠도는 이야기'. 그래서 anecdotal evidence는 칭찬이 아니라 '근거가 약하다'는 비판이다.",
+      "family": [
+        { "word": "anecdote", "pos": "n.", "ko": "일화, 짧은 경험담" }
+      ]
+    },
+    {
+      "headword": "susceptible",
+      "pos": "a.",
+      "ko": "영향받기 쉬운, 잘 걸리는",
+      "example_en": "Older buildings are especially susceptible to water damage.",
+      "example_ko": "오래된 건물은 특히 수해에 취약하다.",
+      "collocations": ["susceptible to damage", "highly susceptible"],
+      "note": "sus-(아래로) + cap(잡다) — 밑으로 '받아들이기' 쉽다는 뜻. 전치사 to와 함께 쓰되 뒤에는 명사·동명사만 오고 to부정사는 오지 않는다.",
+      "related": [
+        { "word": "vulnerable", "ko": "취약한", "note": "susceptible to는 '(질병·설득에) 잘 걸리는·휘둘리는'이고, vulnerable to는 '(공격·피해를) 입기 쉬운' — 피해의 크기를 말할 땐 vulnerable이 자연스럽다" }
+      ]
+    },
+    {
+      "headword": "deprivation",
+      "pos": "n.",
+      "ko": "박탈, 결핍",
+      "example_en": "Doctors warned that chronic sleep deprivation impairs judgment.",
+      "example_ko": "의사들은 만성적인 수면 부족이 판단력을 떨어뜨린다고 경고했다.",
+      "collocations": ["sleep deprivation", "economic deprivation"],
+      "note": "de-(떼어내다) + prive(private와 같은 뿌리, '따로 떼다') — 있어야 할 것을 떼어낸 상태. sleep/oxygen처럼 앞에 명사를 붙여 '~ 부족'으로 쓰는 형태가 가장 흔하다.",
+      "family": [
+        { "word": "deprive", "pos": "v.", "ko": "박탈하다 — deprive A of B 형태로 쓴다" },
+        { "word": "deprived", "pos": "a.", "ko": "빈곤한, 낙후된 (a deprived neighborhood)" }
+      ]
+    },
+    {
+      "headword": "curfew",
+      "pos": "n.",
+      "ko": "통행금지(령); 귀가 시간",
+      "example_en": "The city imposed a nightly curfew after the protests.",
+      "example_ko": "시는 시위 이후 야간 통행금지령을 내렸다.",
+      "collocations": ["impose a curfew", "lift a curfew"],
+      "note": "옛 프랑스어 couvre-feu(불을 덮어라)에서 왔다 — 밤에 불을 끄라고 울리던 종소리가 어원이다. impose(내리다) ↔ lift(해제하다)를 짝으로 외운다.",
+      "related": [
+        { "word": "lockdown", "note": "curfew는 '특정 시간대'에 밖에 못 나가게 하는 것, lockdown은 시간과 무관하게 이동 자체를 봉쇄하는 것" }
+      ]
+    },
+    {
+      "headword": "plummet",
+      "pos": "v.",
+      "ko": "급락하다, 곤두박질치다",
+      "example_en": "Shares plummeted after the company cut its earnings forecast.",
+      "example_ko": "회사가 실적 전망을 낮추자 주가가 급락했다.",
+      "collocations": ["prices plummet", "plummet to a record low"],
+      "note": "plumb(납으로 만든 추, 원소 Pb)에서 왔다 — 납추가 수직으로 떨어지는 모습. 배관공 plumber도 납관에서 나온 같은 뿌리다. 주가·지지율처럼 '수치'에 쓴다.",
+      "related": [
+        { "word": "plunge", "note": "plunge는 수치에도 쓰지만 사람이 물에 뛰어드는 동작에도 쓴다 — plummet은 오로지 '떨어짐'뿐" }
+      ]
+    },
+    {
+      "headword": "backfire",
+      "pos": "v.",
+      "ko": "역효과를 낳다",
+      "example_en": "The advertising ban backfired, drawing even more attention to the product.",
+      "example_ko": "그 광고 금지 조치는 역효과를 내어 오히려 제품에 더 큰 관심을 끌었다.",
+      "collocations": ["the plan backfired", "backfire badly"],
+      "note": "엔진이 앞이 아니라 '뒤로'(back) 폭발하는 현상에서 왔다 — 의도한 방향과 반대로 터진다는 그림이 그대로 뜻이 되었다. 정책 비판 논설의 단골 동사다."
+    },
+    {
+      "headword": "attribute",
+      "pos": "v./n.",
+      "ko": "~의 탓·덕으로 돌리다; 속성",
+      "example_en": "Analysts attribute the rebound to strong overseas demand.",
+      "example_ko": "분석가들은 그 반등이 강한 해외 수요 덕분이라고 본다.",
+      "collocations": ["attribute A to B", "widely attributed to"],
+      "note": "동사는 뒤(a-TTRI-bute), 명사는 앞(A-ttribute)에 강세가 온다 — 품사에 따라 강세가 옮겨 가는 대표 단어. 전치사 to를 빠뜨리면 문장이 성립하지 않는다.",
+      "family": [
+        { "word": "attribution", "pos": "n.", "ko": "귀속; 원인을 ~의 탓으로 돌리기" }
+      ],
+      "related": [
+        { "word": "contribute", "note": "형태는 닮았지만 con-(함께)+tribute(주다)=기여하다 — attribute(원인을 돌리다)와 뜻이 전혀 다르다" }
+      ]
+    },
+    {
+      "headword": "inhibit",
+      "pos": "v.",
+      "ko": "억제하다, 방해하다",
+      "example_en": "High interest rates inhibit borrowing by small firms.",
+      "example_ko": "높은 금리는 소기업의 차입을 억제한다.",
+      "collocations": ["inhibit growth", "inhibit competition"],
+      "note": "in-(안에) + hibit(가지다) — 밖으로 못 나오게 붙들어 둔다. 철자 한 글자 차이인 inhabit(거주하다)과 혼동하기 쉬우니 '안에 잡아 두면 억제, 안에 살면 거주'로 갈라 외운다.",
+      "family": [
+        { "word": "inhibition", "pos": "n.", "ko": "억제; (심리적) 자제" }
+      ],
+      "related": [
+        { "word": "inhabit", "ko": "거주하다", "note": "inhabit은 타동사라 전치사 in을 붙이지 않는다(inhabit the island)" }
+      ]
+    },
+    {
+      "headword": "abstain",
+      "pos": "v.",
+      "ko": "삼가다; (표결에서) 기권하다",
+      "example_en": "Three board members abstained from the vote on the merger.",
+      "example_ko": "이사 세 명이 합병 표결에서 기권했다.",
+      "collocations": ["abstain from voting", "abstain from alcohol"],
+      "note": "abs-(떨어져) + tain(잡다) — 손대지 않고 떨어져 있다. 전치사 from이 늘 따라붙고, 회의·표결 맥락에서는 '기권하다'로 굳어 쓰인다.",
+      "family": [
+        { "word": "abstinence", "pos": "n.", "ko": "절제, 금욕" },
+        { "word": "abstention", "pos": "n.", "ko": "기권(표)" }
+      ]
+    },
+    {
+      "headword": "ambiguous",
+      "pos": "a.",
+      "ko": "모호한, 두 가지로 읽히는",
+      "example_en": "The contract is ambiguous about who bears the shipping costs.",
+      "example_ko": "그 계약서는 누가 운송비를 부담하는지에 대해 모호하다.",
+      "collocations": ["deliberately ambiguous", "ambiguous wording"],
+      "note": "ambi-(양쪽) + ag(몰다) — 뜻이 양쪽으로 몰려 하나로 정해지지 않는다. '의미'가 모호할 때 쓰고, '감정'이 반반일 때는 ambivalent를 쓴다.",
+      "family": [
+        { "word": "ambiguity", "pos": "n.", "ko": "모호함, 중의성" }
+      ],
+      "related": [
+        { "word": "ambivalent", "ko": "양가감정의", "note": "ambi-(양쪽)+val(힘) — 마음이 양쪽으로 당겨지는 것. 문서가 ambiguous, 사람이 ambivalent다" }
+      ]
+    },
+    {
+      "headword": "articulate",
+      "pos": "v./a.",
+      "ko": "또렷이 표현하다; 말이 조리 있는",
+      "example_en": "The minister struggled to articulate a clear position on the tax.",
+      "example_ko": "장관은 그 세금에 대한 분명한 입장을 또렷이 밝히는 데 애를 먹었다.",
+      "collocations": ["articulate a vision", "clearly articulated"],
+      "note": "라틴어 articulus(마디)에서 왔다 — 생각을 마디마디 끊어 또렷하게 내놓는다. article(기사·조항)도 '마디로 나뉜 것'이라 같은 뿌리다. 동사는 끝을 [-에이트], 형용사는 [-엇]으로 발음이 갈린다.",
+      "family": [
+        { "word": "articulation", "pos": "n.", "ko": "명확한 표현; 발음" }
+      ]
+    },
+    {
+      "headword": "prompt",
+      "pos": "v./a.",
+      "ko": "촉발하다; 즉각적인, 신속한",
+      "example_en": "The recall prompted lawmakers to tighten safety rules.",
+      "example_ko": "그 리콜은 의원들이 안전 규정을 강화하도록 만들었다.",
+      "collocations": ["prompt an investigation", "prompt payment", "prompt A to V"],
+      "note": "pro-(앞으로) 밀어낸다는 뿌리에서 '앞으로 밀다=촉발하다'와 '지체 없이=즉각적인'이 함께 나왔다. 토익에서는 prompt payment(즉시 결제)와 prompt A to V(A가 ~하게 만들다)가 모두 빈출이다.",
+      "family": [
+        { "word": "promptly", "pos": "ad.", "ko": "즉시, 지체 없이" }
+      ]
+    },
+    {
+      "headword": "undertake",
+      "pos": "v.",
+      "ko": "(일을) 떠맡다, 착수하다; 약속하다",
+      "example_en": "The agency will undertake a full review of the contract.",
+      "example_ko": "그 기관은 계약에 대한 전면 재검토에 착수할 것이다.",
+      "collocations": ["undertake a review", "undertake a project"],
+      "note": "under(아래로) + take(잡다) — 짐 아래로 들어가 짊어진다는 그림. 파생인 undertaker는 뜻이 '장의사'로 굳어 버려 '착수하는 사람'이 아니니 주의한다.",
+      "family": [
+        { "word": "undertaking", "pos": "n.", "ko": "사업, 과업; (공식적인) 약속" }
+      ]
+    },
+    {
+      "headword": "outright",
+      "pos": "a./ad.",
+      "ko": "전면적인, 완전한; 노골적으로, 즉석에서",
+      "example_en": "Several countries have imposed an outright ban on the chemical.",
+      "example_ko": "여러 나라가 그 화학물질에 대해 전면 금지를 시행했다.",
+      "collocations": ["an outright ban", "reject outright", "outright majority"],
+      "note": "'부분적으로가 아니라 통째로'가 핵심. 형용사일 때는 명사 앞에만 쓰고(서술 자리에는 못 쓴다), 부사일 때는 동사 뒤에 붙인다(reject it outright)는 위치 규칙을 함께 외운다."
+    }
+  ]
+}
