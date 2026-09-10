@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-11",
+  "passage_note": "노동·물류 — 항만 자동화를 둘러싼 노사 공방과 그 부담을 누가 지는가(논설)",
+  "sentences": [
+    {
+      "en": "Few workers retain as much leverage as those who move cargo across a wharf, for a walkout at a single major port can idle factories on three continents in a matter of weeks.",
+      "ko": "부두에서 화물을 옮기는 노동자들만큼 큰 협상력을 아직 쥐고 있는 노동자는 드물다. 주요 항만 한 곳의 파업이 몇 주 만에 세 개 대륙의 공장을 멈춰 세울 수 있기 때문이다.",
+      "structure": "· Few + 복수명사가 주어 = '~하는 사람은 거의 없다'는 부정 표현. 여기에 as much A as B(B만큼 많은 A) 비교 구문이 겹쳤다.\n· those who ~ : '~하는 사람들'. those는 people을 대신하는 대명사이고 who 이하가 이를 수식한다.\n· for는 여기서 '왜냐하면'을 뜻하는 등위접속사(이유). because와 달리 앞 절 뒤에 놓여 근거를 덧붙이며, 문어체에서 자주 보인다.\n· idle은 형용사가 아니라 '(공장을) 놀리다, 멈춰 세우다'는 타동사로 쓰였다(목적어 factories).",
+      "vocab_notes": [
+        { "word": "retain", "ko": "계속 지니다, 유지하다" },
+        { "word": "leverage", "ko": "협상력, 영향력; 지렛대" },
+        { "word": "cargo", "ko": "화물" },
+        { "word": "wharf", "ko": "부두, 선착장" },
+        { "word": "walkout", "ko": "파업, 작업 중단" },
+        { "word": "idle", "ko": "가동을 멈춰 세우다" },
+        { "word": "continent", "ko": "대륙" },
+        { "word": "in a matter of weeks", "ko": "불과 몇 주 만에" }
+      ]
+    },
+    {
+      "en": "That power is being tested by automated cranes and driverless carriers that never tire, never strike and never demand overtime — machines their operators insist are indispensable if congested terminals are to keep pace with ever larger vessels.",
+      "ko": "그 힘이 지금 시험대에 올라 있다. 지치지도, 파업하지도, 초과근무 수당을 요구하지도 않는 자동 크레인과 무인 운반차가 그 시험대다. 운영사들은 갈수록 커지는 선박을 감당하려면 이 기계들이 없어서는 안 된다고 주장한다.",
+      "structure": "· is being tested — 현재진행 수동태('시험받고 있는 중이다').\n· that never tire, never strike and never demand ~ : 주격 관계대명사 하나에 동사 셋이 병렬로 걸린 구조.\n· machines (which) their operators insist are indispensable : 목적격 관계대명사가 생략된 관계사절 안에 their operators insist가 삽입된 형태다. insist를 빼고 읽으면 machines ... are indispensable로 뼈대가 드러난다.\n· if ... are to keep pace : be to 용법 중 '의도·목적'으로, '~하려면'으로 옮긴다.",
+      "vocab_notes": [
+        { "word": "automated", "ko": "자동화된" },
+        { "word": "crane", "ko": "크레인, 기중기" },
+        { "word": "driverless", "ko": "무인의, 운전자가 없는" },
+        { "word": "carrier", "ko": "운반차, 운반 장비; 운송업체" },
+        { "word": "tire", "ko": "지치다" },
+        { "word": "strike", "ko": "파업하다" },
+        { "word": "overtime", "ko": "초과근무 (수당)" },
+        { "word": "indispensable", "ko": "없어서는 안 될" },
+        { "word": "congested", "ko": "혼잡한, 정체된" },
+        { "word": "keep pace with", "ko": "~에 보조를 맞추다, 뒤처지지 않다" },
+        { "word": "vessel", "ko": "선박" }
+      ]
+    },
+    {
+      "en": "Unions counter that the promised productivity gains are largely illusory: studies of the few fully automated terminals now in operation report throughput improvements far more modest than the brochures suggest, bought at a capital cost that takes decades to recoup.",
+      "ko": "노조는 약속된 생산성 향상이 대체로 허상이라고 반박한다. 현재 가동 중인 몇 안 되는 완전 자동화 터미널을 조사한 연구들은 홍보 책자가 내세우는 것보다 훨씬 미미한 처리량 개선을 보고하는데, 그마저도 회수하는 데 수십 년이 걸리는 자본 비용을 치르고 얻은 것이다.",
+      "structure": "· counter that ~ : counter가 '반박하다'는 타동사로 쓰여 that절을 목적어로 받았다.\n· far more modest than ~ : 비교급 강조 부사 far('훨씬')가 more modest를 꾸민다(much·even·still도 같은 자리에 온다).\n· bought at a capital cost ~ : 앞의 improvements를 뒤에서 받는 과거분사구(수동, '~라는 비용을 치르고 얻어진').\n· that takes decades to recoup : 관계대명사절. take + 시간 + to부정사 = '~하는 데 시간이 걸리다'.",
+      "vocab_notes": [
+        { "word": "union", "ko": "노동조합" },
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "productivity gain", "ko": "생산성 향상" },
+        { "word": "illusory", "ko": "실체 없는, 착각에 불과한" },
+        { "word": "fully automated", "ko": "완전 자동화된" },
+        { "word": "in operation", "ko": "가동 중인" },
+        { "word": "throughput", "ko": "처리량" },
+        { "word": "modest", "ko": "(정도가) 크지 않은, 미미한" },
+        { "word": "brochure", "ko": "홍보 책자" },
+        { "word": "capital cost", "ko": "자본 비용, 초기 투자 비용" },
+        { "word": "recoup", "ko": "회수하다, 만회하다" }
+      ]
+    },
+    {
+      "en": "Beneath the technical argument lies a distributive one, for whatever savings materialize accrue to terminal operators and shipping lines, while the crane operator made redundant is left with a severance check and a retraining voucher of dubious worth.",
+      "ko": "기술을 둘러싼 논쟁 밑에는 분배를 둘러싼 논쟁이 깔려 있다. 실제로 생기는 절감액이 얼마든 그것은 터미널 운영사와 해운사에 돌아가는 반면, 정리해고된 크레인 기사에게 남는 것은 퇴직금 수표 한 장과 값어치가 미심쩍은 재교육 바우처뿐이기 때문이다.",
+      "structure": "· Beneath the technical argument lies a distributive one : 장소를 나타내는 부사구가 문두로 나가면서 주어(a distributive one)와 동사(lies)가 도치되었다.\n· one은 앞의 argument를 대신하는 부정대명사다.\n· whatever savings materialize : 복합관계형용사 whatever가 이끄는 명사절이 주어이고, 그 절의 동사는 materialize, 문장의 본동사는 accrue다.\n· made redundant : 과거분사구가 the crane operator를 뒤에서 수식한다('정리해고된').",
+      "vocab_notes": [
+        { "word": "beneath", "ko": "~ 밑에" },
+        { "word": "distributive", "ko": "분배에 관한" },
+        { "word": "materialize", "ko": "실제로 나타나다, 현실이 되다" },
+        { "word": "accrue to", "ko": "(이익이) ~에게 돌아가다, 쌓이다" },
+        { "word": "shipping line", "ko": "해운사" },
+        { "word": "be made redundant", "ko": "정리해고되다" },
+        { "word": "severance", "ko": "퇴직금; 해고" },
+        { "word": "retraining", "ko": "재교육, 재훈련" },
+        { "word": "voucher", "ko": "이용권, 바우처" },
+        { "word": "dubious", "ko": "미심쩍은" }
+      ]
+    },
+    {
+      "en": "A settlement that merely postpones automation, then, buys labor peace at the price of a reckoning that will fall on a younger cohort — one with less seniority, less clout, and fewer picket lines left to walk.",
+      "ko": "그러므로 자동화를 미루기만 하는 합의는, 더 젊은 세대에게 떨어질 청산의 순간을 대가로 노사의 평화를 사는 것이다. 그 세대는 근속 연수도, 입김도 더 적고, 걸어 볼 파업 감시선마저 더 적게 남은 세대다.",
+      "structure": "· A settlement that merely postpones ~ : 주격 관계대명사절이 주어를 길게 수식하고, 문장의 본동사는 buys다(주어와 동사가 멀어진 형태).\n· then은 여기서 '그때'가 아니라 '그러므로'라는 연결 부사로, 콤마 사이에 삽입되었다.\n· at the price of ~ : '~을 대가로'. fall on ~ : '(부담·책임이) ~에게 떨어지다'.\n· fewer picket lines left to walk : 과거분사 left가 picket lines를 뒤에서 수식하고, to walk은 그 뒤를 잇는 형용사적 용법의 to부정사다.",
+      "vocab_notes": [
+        { "word": "settlement", "ko": "합의, 타결" },
+        { "word": "merely", "ko": "그저 ~할 뿐" },
+        { "word": "postpone", "ko": "미루다, 연기하다" },
+        { "word": "at the price of", "ko": "~을 대가로" },
+        { "word": "reckoning", "ko": "청산의 순간, 대가를 치르는 때" },
+        { "word": "fall on", "ko": "(부담이) ~에게 떨어지다" },
+        { "word": "cohort", "ko": "같은 시기의 집단, 세대" },
+        { "word": "seniority", "ko": "근속 연수, 연공" },
+        { "word": "clout", "ko": "영향력, 입김" },
+        { "word": "picket line", "ko": "파업 감시선" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "wharf",
+      "pos": "n.",
+      "ko": "부두, 선착장",
+      "example_en": "Containers were stacked three high along the wharf while inspectors worked through the backlog.",
+      "example_ko": "검사관들이 밀린 물량을 처리하는 동안 컨테이너가 부두를 따라 3단으로 쌓여 있었다.",
+      "collocations": ["along the wharf", "unload at the wharf"],
+      "note": "원뜻은 '물가에 쌓은 둑'. 항만 용어가 셋으로 갈리니 함께 잡아 두면 좋다 — dock(배가 들어가 앉는 물칸), pier(물 위로 뻗어 나간 잔교), wharf(물가에 나란히 붙은 하역 시설). 복수형이 wharves가 되는 -f → -ves 무리(leaf-leaves, shelf-shelves)에 속한다.",
+      "related": [
+        { "word": "pier", "ko": "잔교, 부두", "note": "pier는 물 위로 길게 뻗어 나간 구조물, wharf는 물가에 나란히 붙어 배를 대는 시설 — 모양이 다르다" },
+        { "word": "berth", "ko": "선석", "note": "wharf가 시설 전체라면 berth는 그중 배 한 척이 실제로 접안하는 '한 자리'" }
+      ]
+    },
+    {
+      "headword": "walkout",
+      "pos": "n.",
+      "ko": "파업, 작업 중단; (항의성) 퇴장",
+      "example_en": "A one-day walkout by baggage handlers stranded thousands of passengers at the hub airport.",
+      "example_ko": "수하물 처리 직원들의 하루짜리 파업으로 거점 공항에 수천 명의 승객이 발이 묶였다.",
+      "collocations": ["stage a walkout", "a one-day walkout"],
+      "note": "동사구 walk out(일손을 놓고 나가다)이 명사로 굳은 말 — 이렇게 굳으면 강세가 뒤(out)에서 앞(WALK-)으로 옮겨 온다. strike가 파업 전반을 가리킨다면 walkout은 '자리를 박차고 나가는' 그 행위·순간에 초점이 있다.",
+      "family": [
+        { "word": "walk out", "pos": "v.", "ko": "작업을 중단하고 나가다; 자리를 박차고 나가다" }
+      ],
+      "related": [
+        { "word": "lockout", "ko": "직장 폐쇄", "note": "walkout은 노동자가 걸어 나가는 것, lockout은 사용자가 문을 잠가 못 들어오게 하는 것 — 방향이 정반대다" }
+      ]
+    },
+    {
+      "headword": "throughput",
+      "pos": "n.",
+      "ko": "처리량",
+      "example_en": "The upgraded scanner doubled throughput without adding a single member of staff.",
+      "example_ko": "개선된 검색 장비는 인력을 한 명도 늘리지 않고 처리량을 두 배로 높였다.",
+      "collocations": ["increase throughput", "annual throughput"],
+      "note": "through(통과) + put(놓다) = '통과시켜 낸 양'. output이 최종 산출량의 총계라면 throughput은 '정해진 시간 안에 시스템을 통과시킨 양'이라 항만·공장·서버의 성능 지표로 쓰인다.",
+      "family": [
+        { "word": "output", "pos": "n.", "ko": "산출량, 생산량" },
+        { "word": "input", "pos": "n.", "ko": "투입량" }
+      ]
+    },
+    {
+      "headword": "idle",
+      "pos": "v./a.",
+      "ko": "(공장·설비를) 놀리다, 멈춰 세우다; 놀고 있는, 유휴의",
+      "example_en": "The parts shortage idled two assembly lines for the better part of a month.",
+      "example_ko": "부품 부족으로 조립 라인 두 개가 한 달 가까이 멈춰 섰다.",
+      "collocations": ["idle a plant", "idle capacity"],
+      "note": "'한가한'이라는 형용사를 먼저 배우지만, 시사 영어에서는 '(공장·인력을) 놀게 만들다'는 타동사로 더 자주 나온다. idle capacity(유휴 설비)·idle funds(놀고 있는 자금)처럼 '쓰이지 않고 놓여 있다'는 감각이 형용사·동사를 하나로 꿴다.",
+      "family": [
+        { "word": "idleness", "pos": "n.", "ko": "놀고 있음, 무위" }
+      ],
+      "related": [
+        { "word": "idol", "ko": "우상", "note": "발음이 사실상 같지만 idol은 '우상' — 철자 -le/-ol로만 갈린다" }
+      ]
+    },
+    {
+      "headword": "automate",
+      "pos": "v.",
+      "ko": "자동화하다",
+      "example_en": "Management proposed to automate the sorting floor over three years, starting with night shifts.",
+      "example_ko": "경영진은 야간 근무조부터 시작해 3년에 걸쳐 분류 작업장을 자동화하겠다고 제안했다.",
+      "collocations": ["automate a process", "fully automated"],
+      "note": "그리스어 automatos(스스로 움직이는) = auto(스스로) + mat(움직이다). 명사형이 automatization이 아니라 automation이라는 점이 시험에 잘 나온다. 같은 auto- 뿌리라도 autonomous는 auto(스스로) + nom(법), 즉 '스스로 규칙을 정하는'이라 뜻의 결이 다르다.",
+      "family": [
+        { "word": "automation", "pos": "n.", "ko": "자동화" },
+        { "word": "automatic", "pos": "a.", "ko": "자동의" },
+        { "word": "autonomous", "pos": "a.", "ko": "자율적인 — '스스로 규칙을 정하는'" }
+      ]
+    },
+    {
+      "headword": "seniority",
+      "pos": "n.",
+      "ko": "근속 연수, 연공(에 따른 우선권)",
+      "example_en": "Under the contract, layoffs proceed in reverse order of seniority.",
+      "example_ko": "협약에 따라 정리해고는 근속 연수의 역순으로 진행된다.",
+      "collocations": ["by seniority", "seniority rules"],
+      "note": "senior(더 나이 든)의 명사형이지만, 노사 맥락에서는 '나이'가 아니라 '먼저 입사한 순서'를 뜻한다. 이 순서가 승진·해고 순번을 정하는 기준이 되므로 by seniority = '연공 순으로'가 핵심 용법이다.",
+      "family": [
+        { "word": "senior", "pos": "a.", "ko": "선임의, 상급의" },
+        { "word": "seniority-based", "pos": "a.", "ko": "연공서열식의" }
+      ]
+    },
+    {
+      "headword": "collective bargaining",
+      "pos": "n.",
+      "ko": "단체교섭",
+      "example_en": "The two sides returned to collective bargaining after a mediator was appointed.",
+      "example_ko": "중재인이 선임된 뒤 양측은 단체교섭 자리로 돌아왔다.",
+      "collocations": ["collective bargaining agreement", "return to collective bargaining"],
+      "note": "bargain이 '흥정하다'이므로 bargaining은 그 흥정 행위이고, collective(집단적인)가 붙어 '개별 노동자가 아니라 노조가 뭉쳐서 하는 흥정'이 된다. 그 결과물이 collective bargaining agreement(단체협약)라는 점까지 묶어서 외우면 기사 문장이 한 번에 읽힌다.",
+      "related": [
+        { "word": "arbitration", "ko": "중재", "note": "collective bargaining은 당사자끼리 직접 흥정하는 것, arbitration은 제3자가 끼어들어 결론을 내리는 것" }
+      ]
+    },
+    {
+      "headword": "picket",
+      "pos": "n./v.",
+      "ko": "파업 감시선; 파업 감시를 서다",
+      "example_en": "Drivers refused to cross the picket line, and deliveries stopped within hours.",
+      "example_ko": "기사들이 파업 감시선을 넘기를 거부하면서 배송이 몇 시간 만에 멈췄다.",
+      "collocations": ["picket line", "cross the picket line"],
+      "note": "원뜻은 땅에 박는 '말뚝' — 말뚝처럼 줄지어 서서 출입을 막는 데서 '파업 감시선'이 나왔다. cross the picket line(그 줄을 넘어 출근하다 = 파업을 깨다)이 관용 표현의 핵심이라, 이 표현이 나오면 '배신·파업 무력화'의 뉘앙스를 읽어야 한다.",
+      "family": [
+        { "word": "picketing", "pos": "n.", "ko": "파업 감시 행위" }
+      ]
+    },
+    {
+      "headword": "layoff",
+      "pos": "n.",
+      "ko": "(경영상) 해고, 정리해고",
+      "example_en": "The carrier announced mass layoffs weeks after posting a record quarterly loss.",
+      "example_ko": "그 운송사는 분기 사상 최대 손실을 발표하고 몇 주 뒤 대규모 정리해고를 예고했다.",
+      "collocations": ["mass layoffs", "announce layoffs"],
+      "note": "동사구 lay off(일을 놓게 하다)의 명사형. fire가 '비위·성과 문제로 잘라내는 것'이라면 layoff는 노동자 잘못이 아니라 사업 사정 때문인 감원이라, 뉴스에서는 mass layoffs 형태로 굳어져 나온다.",
+      "family": [
+        { "word": "lay off", "pos": "v.", "ko": "정리해고하다" }
+      ],
+      "related": [
+        { "word": "redundancy", "ko": "(영국식) 정리해고", "note": "영국 영어는 layoff 대신 redundancy를 쓴다 — be made redundant = 정리해고되다" }
+      ]
+    },
+    {
+      "headword": "berth",
+      "pos": "n./v.",
+      "ko": "선석(배를 대는 자리), 침대칸; 정박시키다",
+      "example_en": "Ships waited offshore for a berth to open at the country's busiest terminal.",
+      "example_ko": "선박들은 그 나라에서 가장 붐비는 터미널의 선석이 나기를 기다리며 앞바다에 떠 있었다.",
+      "collocations": ["a deep-water berth", "give a wide berth to"],
+      "note": "항만에서 berth는 배 한 척이 접안하는 '자리'다 — 자리가 모자라면 배가 밖에서 대기하고, 그게 곧 항만 적체다. 이 '여유 공간'이라는 감각에서 give a wide berth to ~ (~를 멀찍이 피하다)라는 관용구도 나왔다.",
+      "related": [
+        { "word": "birth", "ko": "출생", "note": "발음이 같은 동음이의어 — 철자로만 구분되니 문맥으로 판단해야 한다" }
+      ]
+    },
+    {
+      "headword": "clout",
+      "pos": "n.",
+      "ko": "영향력, 입김",
+      "example_en": "Small suppliers have little clout when a handful of buyers set the terms.",
+      "example_ko": "소수의 구매자가 조건을 정하는 시장에서 영세 공급업체는 입김이 거의 없다.",
+      "collocations": ["political clout", "carry clout"],
+      "note": "원래 '한 대 후려침'을 뜻하던 구어에서 '실제로 통하는 힘'으로 굳었다. influence가 중립적인 영향력이라면 clout은 '밀어붙여 관철시키는 힘'이라 political clout·bargaining clout처럼 힘겨루기 맥락에 붙는다.",
+      "related": [
+        { "word": "influence", "ko": "영향력", "note": "influence는 은근히 스며드는 영향, clout은 상대가 따를 수밖에 없게 만드는 실력 — clout이 더 거칠고 구체적이다" }
+      ]
+    },
+    {
+      "headword": "illusory",
+      "pos": "a.",
+      "ko": "실체 없는, 착각에 불과한",
+      "example_en": "The savings proved illusory once maintenance contracts were factored in.",
+      "example_ko": "유지보수 계약까지 계산에 넣자 그 절감 효과는 허상으로 드러났다.",
+      "collocations": ["illusory gains", "prove illusory"],
+      "note": "illusion(환상)의 형용사형. 철자가 비슷한 elusive(붙잡히지 않는)와 섞이기 쉬운데, illusory는 '있는 줄 알았는데 실체가 없는 것', elusive는 '있긴 한데 손에 잡히지 않는 것'이다.",
+      "family": [
+        { "word": "illusion", "pos": "n.", "ko": "환상, 착각" }
+      ],
+      "related": [
+        { "word": "elusive", "ko": "붙잡기 어려운", "note": "illusory = 실체가 없음, elusive = 실체는 있으나 잡히지 않음" }
+      ]
+    },
+    {
+      "headword": "dubious",
+      "pos": "a.",
+      "ko": "미심쩍은, 수상한; 반신반의하는",
+      "example_en": "Regulators dismissed the report as evidence of dubious value.",
+      "example_ko": "규제 당국은 그 보고서를 신빙성이 미심쩍은 증거라며 일축했다.",
+      "collocations": ["of dubious value", "dubious claims"],
+      "note": "doubt(의심)와 같은 dub-/doub-(둘 사이에서 망설이다) 뿌리다. 주어가 사람이면 '반신반의하는'(I'm dubious about it), 사물이면 '믿기 어려운·질이 의심스러운'(a dubious claim)으로 방향이 갈린다.",
+      "family": [
+        { "word": "dubiously", "pos": "ad.", "ko": "미심쩍은 듯이" }
+      ],
+      "related": [
+        { "word": "doubtful", "ko": "의심스러운, 가망 없어 보이는", "note": "doubtful은 '그렇게 될 것 같지 않다'는 가능성 판단, dubious는 '뭔가 미덥지 않다'는 신뢰성 판단" }
+      ]
+    },
+    {
+      "headword": "reckoning",
+      "pos": "n.",
+      "ko": "청산의 순간, 대가를 치르는 때; 셈, 계산",
+      "example_en": "Years of deferred maintenance finally forced a reckoning on the city budget.",
+      "example_ko": "수년간 미뤄 온 보수 공사는 결국 시 예산에 청산의 순간을 불러왔다.",
+      "collocations": ["day of reckoning", "face a reckoning"],
+      "note": "reckon(세다, ~라고 여기다)의 명사형이라 원뜻은 '셈'이다. 여기서 '미뤄 둔 셈을 마침내 치르는 날'로 확장돼 day of reckoning(심판의 날)이 대표 표현이 되었다 — 기사에서는 '언젠가 반드시 치를 대가'라는 경고로 쓰인다.",
+      "family": [
+        { "word": "reckon", "pos": "v.", "ko": "세다; ~라고 여기다" }
+      ]
+    },
+    {
+      "headword": "superfluous",
+      "pos": "a.",
+      "ko": "남아도는, 불필요한",
+      "example_en": "Once the software was installed, half the paperwork became superfluous.",
+      "example_ko": "소프트웨어가 도입되자 서류 작업의 절반이 불필요해졌다.",
+      "collocations": ["superfluous detail", "render superfluous"],
+      "note": "super(넘어서) + flu(흐르다) = 넘쳐흘러 필요를 초과한 것. 같은 flu- 뿌리로 fluent(술술 흐르는)·influence(안으로 흘러드는 힘)·fluctuate(오르내리다)가 묶이니 한 덩어리로 외우면 좋다.",
+      "family": [
+        { "word": "superfluity", "pos": "n.", "ko": "과잉, 남아돎" }
+      ],
+      "related": [
+        { "word": "redundant", "ko": "불필요하게 중복된", "note": "superfluous는 '양이 넘쳐서 불필요', redundant는 '이미 있는 것과 겹쳐서 불필요'" }
+      ]
+    },
+    {
+      "headword": "vindicate",
+      "pos": "v.",
+      "ko": "정당함을 입증하다, 혐의를 벗겨 주다",
+      "example_en": "The audit vindicated the whistle-blower who had been dismissed two years earlier.",
+      "example_ko": "그 감사는 2년 전 해고되었던 내부 고발자의 정당함을 입증해 주었다.",
+      "collocations": ["vindicate a decision", "be fully vindicated"],
+      "note": "vindic-(권리를 주장하다)에서 두 갈래로 갈라진 형제 단어를 함께 잡아야 한다 — vindicate는 '옳았음이 밝혀지다', vindictive는 '앙심을 품고 보복하려 들다'로 뜻이 거의 반대 방향이다.",
+      "family": [
+        { "word": "vindication", "pos": "n.", "ko": "정당성 입증, 명예 회복" }
+      ],
+      "related": [
+        { "word": "vindictive", "ko": "앙심을 품은, 보복적인", "note": "철자는 형제지만 방향이 반대 — 명예 회복(vindicate) vs 보복(vindictive)" }
+      ]
+    },
+    {
+      "headword": "staunch",
+      "pos": "a./v.",
+      "ko": "확고한, 충실한; (출혈·유출을) 막다",
+      "example_en": "A staunch supporter of the reform in public, he privately urged delay.",
+      "example_ko": "공개적으로는 개혁의 확고한 지지자였지만, 그는 사석에서 연기를 종용했다.",
+      "collocations": ["a staunch supporter", "staunch the flow"],
+      "note": "원뜻이 '물이 새지 않게 단단히 막힌'이라, 형용사로는 '흔들리지 않는(지지자)', 동사로는 '피나 유출을 막다'가 된다. staunch supporter와 staunch the outflow 두 쓰임을 한 뿌리로 연결해 두면 헷갈리지 않는다.",
+      "related": [
+        { "word": "stanch", "ko": "(출혈을) 막다", "note": "미국식 표기에서는 동사 쪽을 stanch로 적기도 한다 — 같은 단어의 철자 변이" },
+        { "word": "stalwart", "ko": "충실한 지지자; 충직한", "note": "staunch supporter와 거의 같은 자리에 쓰이지만 stalwart는 명사로도 쓰여 '핵심 지지자'를 가리킨다" }
+      ]
+    },
+    {
+      "headword": "watershed",
+      "pos": "n.",
+      "ko": "분수령, 전환점; (하천의) 유역",
+      "example_en": "The ruling was a watershed moment for platform workers across the industry.",
+      "example_ko": "그 판결은 업계 전반의 플랫폼 노동자들에게 분수령이 된 순간이었다.",
+      "collocations": ["a watershed moment", "mark a watershed"],
+      "note": "물(water)이 갈라지는 등성이(shed)라는 지리 용어가 비유로 굳었다 — 그 지점을 넘으면 흐름이 아예 다른 쪽으로 간다. 그래서 a watershed moment는 단순한 '중요한 때'가 아니라 '이전으로 되돌아갈 수 없는 갈림'을 뜻한다.",
+      "related": [
+        { "word": "turning point", "ko": "전환점", "note": "뜻은 비슷하지만 watershed가 더 격식체이고 '되돌릴 수 없음'이라는 뉘앙스가 강하다" }
+      ]
+    }
+  ]
+}

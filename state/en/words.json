@@ -2115,6 +2115,51 @@
     },
     "articulate": {
       "added_on": "2026-09-10"
+    },
+    "wharf": {
+      "added_on": "2026-09-11"
+    },
+    "walkout": {
+      "added_on": "2026-09-11"
+    },
+    "throughput": {
+      "added_on": "2026-09-11"
+    },
+    "idle": {
+      "added_on": "2026-09-11"
+    },
+    "automate": {
+      "added_on": "2026-09-11"
+    },
+    "seniority": {
+      "added_on": "2026-09-11"
+    },
+    "collective bargaining": {
+      "added_on": "2026-09-11"
+    },
+    "picket": {
+      "added_on": "2026-09-11"
+    },
+    "layoff": {
+      "added_on": "2026-09-11"
+    },
+    "berth": {
+      "added_on": "2026-09-11"
+    },
+    "clout": {
+      "added_on": "2026-09-11"
+    },
+    "illusory": {
+      "added_on": "2026-09-11"
+    },
+    "dubious": {
+      "added_on": "2026-09-11"
+    },
+    "reckoning": {
+      "added_on": "2026-09-11"
+    },
+    "superfluous": {
+      "added_on": "2026-09-11"
     }
   }
 }
