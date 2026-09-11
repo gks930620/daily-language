@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-12",
+  "passage_note": "환경·건설 — 강모래 채취(sand mining)와 건설 붐이 강에 남기는 비용(논설)",
+  "sentences": [
+    {
+      "en": "Sand is the second most heavily consumed resource on earth after water, yet in most jurisdictions it is still treated as an inexhaustible commodity rather than a finite one.",
+      "ko": "모래는 물 다음으로 지구에서 두 번째로 많이 소비되는 자원이지만, 대부분의 나라에서 여전히 유한한 자원이 아니라 고갈되지 않는 원자재처럼 취급된다.",
+      "structure": "· the second most heavily consumed ~ : 최상급 앞의 the second = '두 번째로 가장 ~한'.\n· yet은 여기서 접속사 '그런데도' — 앞 절과 대조를 만든다.\n· be treated as A rather than B: 'B가 아니라 A로 취급되다' — 수동태에 rather than 대조가 얹힌 형태.\n· 문장 끝의 one은 앞의 resource를 받는 부정대명사(a finite resource = a finite one).",
+      "vocab_notes": [
+        { "word": "consume", "ko": "소비하다" },
+        { "word": "resource", "ko": "자원" },
+        { "word": "jurisdiction", "ko": "관할권 — 여기서는 '관할 구역, 나라'" },
+        { "word": "treat A as B", "ko": "A를 B로 취급하다" },
+        { "word": "inexhaustible", "ko": "고갈되지 않는, 무진장한" },
+        { "word": "commodity", "ko": "원자재, 상품" },
+        { "word": "rather than", "ko": "~가 아니라, ~보다는" },
+        { "word": "finite", "ko": "유한한" }
+      ]
+    },
+    {
+      "en": "Because concrete requires angular grains, smooth desert sand is largely useless, and the construction boom sweeping Asia and Africa is fed instead by dredging riverbeds, where every barge load of aggregate leaves the banks less stable.",
+      "ko": "콘크리트에는 모난 알갱이가 필요해서 매끄러운 사막 모래는 대체로 쓸모가 없고, 그래서 아시아와 아프리카를 휩쓸고 있는 건설 호황은 대신 강바닥을 준설하는 것으로 충당되는데, 그곳에서는 골재를 실은 바지선 한 척 한 척이 강기슭을 더 불안정하게 만든다.",
+      "structure": "· Because ~ , : 이유를 나타내는 부사절이 문장 앞으로 나온 형태.\n· sweeping Asia and Africa는 현재분사구로 the construction boom을 뒤에서 수식(= which is sweeping ~).\n· is fed by ~ : 수동태 + by(수단) — '~으로 충당된다'. by 뒤에 동명사 dredging이 왔다.\n· where는 관계부사의 계속적 용법으로 앞의 riverbeds를 보충 설명한다.\n· leaves the banks less stable: leave + 목적어 + 형용사(보어) = '~을 …한 상태로 남기다'.",
+      "vocab_notes": [
+        { "word": "concrete", "ko": "콘크리트" },
+        { "word": "angular", "ko": "모난, 각진" },
+        { "word": "grain", "ko": "알갱이, 입자" },
+        { "word": "largely", "ko": "대체로, 주로" },
+        { "word": "construction boom", "ko": "건설 호황" },
+        { "word": "sweep", "ko": "휩쓸다" },
+        { "word": "feed", "ko": "(be fed by) ~으로 공급되다, 충당되다" },
+        { "word": "dredge", "ko": "준설하다, 바닥을 파내다" },
+        { "word": "riverbed", "ko": "강바닥" },
+        { "word": "barge", "ko": "바지선(짐을 싣는 평저선)" },
+        { "word": "load", "ko": "적재량, 한 짐" },
+        { "word": "aggregate", "ko": "골재(자갈·모래)" },
+        { "word": "bank", "ko": "강기슭, 둑 — '은행' 아님" }
+      ]
+    },
+    {
+      "en": "The damage is cumulative and mostly invisible until it is irreversible: scoured channels undercut bridge piers, salt water creeps into wells as deltas sink, and the silt that once replenished farmland never arrives.",
+      "ko": "피해는 누적되며 되돌릴 수 없게 되기 전까지는 대체로 눈에 띄지 않는다. 깎여 나간 수로가 교각 밑을 파고들고, 삼각주가 가라앉으면서 바닷물이 우물로 스며들며, 한때 농지를 비옥하게 채워 주던 토사는 더 이상 도달하지 않는다.",
+      "structure": "· 콜론(:) 뒤는 앞 절의 '누적적이고 눈에 안 보이는 피해'를 구체적 사례 셋으로 풀어 쓴 부분이다.\n· scoured는 과거분사가 앞에서 channels를 수식 — '깎여 나간 수로'.\n· as deltas sink의 as는 '~하면서'(동시 상황)의 접속사.\n· that once replenished farmland는 주격 관계대명사절로 the silt를 수식 — 주어가 길어져 동사 never arrives와 멀어졌다.",
+      "vocab_notes": [
+        { "word": "cumulative", "ko": "누적되는" },
+        { "word": "invisible", "ko": "눈에 보이지 않는" },
+        { "word": "irreversible", "ko": "되돌릴 수 없는" },
+        { "word": "scour", "ko": "(물살이) 깎아내다, 침식하다" },
+        { "word": "channel", "ko": "물길, 수로" },
+        { "word": "undercut", "ko": "밑을 깎아내다" },
+        { "word": "pier", "ko": "교각; 부두" },
+        { "word": "creep into", "ko": "~으로 서서히 스며들다" },
+        { "word": "well", "ko": "우물" },
+        { "word": "delta", "ko": "삼각주" },
+        { "word": "silt", "ko": "토사, 미사(고운 흙)" },
+        { "word": "replenish", "ko": "다시 채우다, 보충하다" },
+        { "word": "farmland", "ko": "농지" }
+      ]
+    },
+    {
+      "en": "Where regulators have tried to intervene, enforcement has proved feeble: permits are traded through opaque intermediaries, extraction resumes quietly after dark, and the cartels that control the trade operate with near impunity.",
+      "ko": "규제 당국이 개입을 시도한 곳에서도 단속은 허술한 것으로 드러났다. 허가증은 불투명한 중개인들을 거쳐 거래되고, 채취는 해가 진 뒤 조용히 재개되며, 이 거래를 장악한 카르텔은 사실상 처벌받지 않은 채 활동한다.",
+      "structure": "· 문두의 Where는 '~하는 곳에서는'이라는 장소 부사절을 이끈다(의문사 '어디'가 아님).\n· prove + 형용사: '~임이 드러나다'(불완전자동사). has proved feeble = '허술한 것으로 드러났다'.\n· 콜론 뒤 세 개의 절이 and로 병렬되어 '단속이 허술하다'의 근거를 나열한다.\n· that control the trade는 주격 관계대명사절로 the cartels를 수식.\n· with impunity는 '처벌받지 않고'라는 관용 표현이고, near는 그 앞에서 '거의'로 정도를 낮춘다.",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국, 감독 기관" },
+        { "word": "intervene", "ko": "개입하다" },
+        { "word": "enforcement", "ko": "(법의) 집행, 단속" },
+        { "word": "prove", "ko": "~임이 드러나다" },
+        { "word": "feeble", "ko": "허약한, 미약한" },
+        { "word": "permit", "ko": "허가증" },
+        { "word": "opaque", "ko": "불투명한" },
+        { "word": "intermediary", "ko": "중개인, 중개 업체" },
+        { "word": "extraction", "ko": "채취, 추출" },
+        { "word": "resume", "ko": "재개되다, 다시 시작하다" },
+        { "word": "after dark", "ko": "해가 진 뒤에" },
+        { "word": "cartel", "ko": "카르텔, 담합 조직" },
+        { "word": "with impunity", "ko": "처벌받지 않고" }
+      ]
+    },
+    {
+      "en": "Critics counter that outlawing river mining without offering a substitute would merely drive the trade underground, and that the real remedy is to recycle demolition rubble and tax virgin sand until its price reflects what its removal destroys.",
+      "ko": "비판자들은 대체재를 마련해 주지 않은 채 강모래 채굴을 불법화하면 그 거래를 음성화할 뿐이며, 진짜 해법은 철거 잔해를 재활용하고 천연 모래에 세금을 매겨 그 가격이 채취가 파괴하는 것을 반영하게 만드는 데 있다고 반박한다.",
+      "structure": "· counter that ~ , and that ~ : 접속사 that이 이끄는 목적어절 두 개가 병렬로 연결됐다.\n· 동명사구 outlawing river mining ~ a substitute가 would 절의 주어 — 조건의 뜻이 주어에 숨어 있어 would가 왔다(가정법).\n· to recycle ~ and (to) tax ~ : is의 보어로 쓰인 to부정사 둘이 병렬(뒤의 to는 생략).\n· what its removal destroys는 선행사를 포함한 관계대명사절로 reflects의 목적어 — '그 채취가 파괴하는 것'.",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판자, 비평가" },
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "outlaw", "ko": "불법화하다" },
+        { "word": "mining", "ko": "채굴, 채취" },
+        { "word": "substitute", "ko": "대체재, 대안" },
+        { "word": "merely", "ko": "단지 ~할 뿐" },
+        { "word": "drive ~ underground", "ko": "~을 음성화하다, 지하로 숨어들게 하다" },
+        { "word": "remedy", "ko": "해결책, 구제책" },
+        { "word": "demolition", "ko": "철거" },
+        { "word": "rubble", "ko": "(건물의) 잔해, 돌무더기" },
+        { "word": "virgin", "ko": "손대지 않은, 천연 그대로의" },
+        { "word": "reflect", "ko": "반영하다" },
+        { "word": "removal", "ko": "제거, 퍼내 감" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "aggregate",
+      "pos": "n.",
+      "ko": "골재(자갈·모래); 총계, 집합체",
+      "example_en": "Recycled concrete can replace up to half of the aggregate used on the site.",
+      "example_ko": "재활용 콘크리트가 현장에서 쓰이는 골재의 최대 절반까지 대체할 수 있다.",
+      "collocations": ["construction aggregate", "in the aggregate"],
+      "note": "ag-(~쪽으로) + greg(무리·떼) — '무리로 모아 놓은 것'. 건설에서는 자갈·모래를 모은 '골재', 통계에서는 '총계'가 된다. gregarious(사교적인)·congregate(모이다)·segregate(떼어 놓다)가 같은 greg 뿌리다.",
+      "family": [
+        { "word": "aggregation", "pos": "n.", "ko": "집합, 집계" },
+        { "word": "aggregated", "pos": "a.", "ko": "합산된, 통합된" }
+      ],
+      "related": [
+        { "word": "segregate", "ko": "분리하다", "note": "se-(떼어) + greg(무리) — 무리에서 떼어 놓는 것. aggregate와 정반대 방향" }
+      ]
+    },
+    {
+      "headword": "quarry",
+      "pos": "n.",
+      "ko": "채석장; 사냥감, 추적 대상",
+      "example_en": "The firm was fined for operating a quarry without a valid permit.",
+      "example_ko": "그 회사는 유효한 허가 없이 채석장을 운영한 이유로 벌금을 물었다.",
+      "collocations": ["a limestone quarry", "quarry stone"],
+      "note": "뿌리가 다른 두 단어가 같은 철자로 굳어졌다 — '돌을 캐는 곳'과 '사냥에서 쫓는 짐승'. 그래서 뉴스에서 the police's quarry라고 하면 '경찰이 쫓는 대상'이지 채석장이 아니다. 동사로도 써서 quarry marble = '대리석을 캐내다'.",
+      "related": [
+        { "word": "query", "ko": "질문(하다)", "note": "철자가 한 글자 차이일 뿐 완전히 무관 — query는 '묻다', quarry는 '캐다·채석장'" }
+      ]
+    },
+    {
+      "headword": "silt",
+      "pos": "n.",
+      "ko": "토사, 미사(강물이 실어 나르는 고운 흙)",
+      "example_en": "Dams trap the silt that used to fertilize the delta downstream.",
+      "example_ko": "댐은 예전에 하류 삼각주를 비옥하게 하던 토사를 가둬 버린다.",
+      "collocations": ["silt deposits", "silt up"],
+      "note": "굵기 순서로 gravel(자갈) > sand(모래) > silt(미사) > clay(점토) — silt는 모래보다 곱고 점토보다 거친 흙이다. 동사 silt up은 '토사가 쌓여 막히다'로, 항구·저수지가 못 쓰게 되는 상황에 쓴다.",
+      "related": [
+        { "word": "sediment", "ko": "퇴적물, 침전물", "note": "sediment는 가라앉은 물질 전반을 가리키는 상위어, silt는 그중 강이 실어 나르는 고운 흙" }
+      ]
+    },
+    {
+      "headword": "scour",
+      "pos": "v.",
+      "ko": "(물살이) 깎아내다; 문질러 닦다; 샅샅이 뒤지다",
+      "example_en": "Investigators scoured the shipping records for evidence of illegal loads.",
+      "example_ko": "조사관들은 불법 적재의 증거를 찾아 선적 기록을 샅샅이 뒤졌다.",
+      "collocations": ["scour the riverbed", "scour the records for ~"],
+      "note": "세 뜻이 '박박 문지르다'라는 한 이미지에서 갈라진다 — 냄비를 문지르면 '닦다', 물살이 바닥을 문지르면 '침식하다', 눈으로 훑으면 '뒤지다'. '뒤지다' 뜻일 때는 보통 scour A for B(B를 찾아 A를 뒤지다) 형태로 쓴다.",
+      "related": [
+        { "word": "scourge", "ko": "재앙, 골칫거리", "note": "철자가 비슷하지만 별개 — scourge는 '채찍질'에서 온 명사로 '큰 재앙'을 뜻한다" }
+      ]
+    },
+    {
+      "headword": "levee",
+      "pos": "n.",
+      "ko": "(강가의) 제방, 둑",
+      "example_en": "The levee held through the storm, but engineers warned it had been weakened.",
+      "example_ko": "제방은 폭풍 동안 버텼지만, 기술자들은 그것이 약해진 상태라고 경고했다.",
+      "collocations": ["build a levee", "the levee breached"],
+      "note": "프랑스어 lever(들어 올리다)에서 온 말 — 흙을 '들어 올려' 쌓은 둑이다. elevate(들어 올리다)·lever(지렛대)와 같은 뿌리라고 묶어 두면 철자가 기억에 남는다.",
+      "related": [
+        { "word": "levy", "ko": "부과하다; 부과금", "note": "levee(제방)와 levy(세금을 매기다)는 소리가 거의 같고 뜻은 무관 — 문맥으로 가른다" },
+        { "word": "embankment", "ko": "둑, 제방", "note": "거의 동의어지만 embankment는 철길·도로를 받치는 흙둑에도 두루 쓴다" }
+      ]
+    },
+    {
+      "headword": "barge",
+      "pos": "n.",
+      "ko": "바지선(짐 싣는 평저선); (동사) 밀치고 나아가다",
+      "example_en": "A convoy of barges hauled the sand upriver to the city's building sites.",
+      "example_ko": "바지선 선단이 모래를 강 상류의 도시 건설 현장까지 실어 날랐다.",
+      "collocations": ["a barge loaded with sand", "barge in"],
+      "note": "바닥이 평평해 강·운하를 느리게 오가는 화물선. 동사 barge in(불쑥 끼어들다)은 그 둔중한 배가 밀고 들어오는 그림에서 나왔다고 묶어 외우면 두 뜻이 한 번에 잡힌다.",
+      "related": [
+        { "word": "bargain", "ko": "흥정하다; 싸게 산 물건", "note": "barge와 철자가 겹쳐 보이지만 무관 — bargain은 거래, barge는 배" }
+      ]
+    },
+    {
+      "headword": "reclamation",
+      "pos": "n.",
+      "ko": "(토지) 매립, 간척; 개간; 회수, 재생",
+      "example_en": "The airport was built on land reclamation that consumed millions of tons of sand.",
+      "example_ko": "그 공항은 수백만 톤의 모래를 집어삼킨 매립지 위에 세워졌다.",
+      "collocations": ["land reclamation", "water reclamation"],
+      "note": "re-(다시) + claim(요구하다) — 바다나 황무지에서 땅을 '되찾아 오는' 일. land reclamation은 '간척·매립', water reclamation은 '물 재생'으로 대상에 따라 우리말이 달라진다는 점에 주의.",
+      "family": [
+        { "word": "reclaim", "pos": "v.", "ko": "되찾다; 매립하다; 재생하다" },
+        { "word": "claim", "pos": "v.", "ko": "주장하다; 청구하다" }
+      ]
+    },
+    {
+      "headword": "impunity",
+      "pos": "n.",
+      "ko": "처벌받지 않음, 면책",
+      "example_en": "Operators dredged the channel by night with almost total impunity.",
+      "example_ko": "업자들은 거의 아무런 처벌도 받지 않은 채 밤에 수로를 준설했다.",
+      "collocations": ["act with impunity", "a culture of impunity"],
+      "note": "im-(아닌) + pun(벌) — punish·punitive(징벌적인)와 같은 뿌리로 '벌이 없는 상태'. 거의 항상 with impunity(처벌받지 않고, 제멋대로) 꼴로 쓰이니 통째로 외우는 편이 낫다.",
+      "family": [
+        { "word": "punish", "pos": "v.", "ko": "처벌하다" },
+        { "word": "punitive", "pos": "a.", "ko": "징벌적인" }
+      ]
+    },
+    {
+      "headword": "cartel",
+      "pos": "n.",
+      "ko": "카르텔, 담합 조직",
+      "example_en": "Regulators accused the three suppliers of forming a cartel to fix prices.",
+      "example_ko": "규제 당국은 세 공급업체가 가격을 담합하려고 카르텔을 형성했다고 고발했다.",
+      "collocations": ["form a cartel", "an oil cartel"],
+      "note": "원래 '문서로 맺은 협정'(card와 같은 뿌리)이었다가, 가격·물량을 짜고 정하는 기업 연합을 뜻하게 됐다. 지금은 OPEC 같은 산유국 연합부터 마약·자원 밀거래 조직까지 두루 가리킨다.",
+      "related": [
+        { "word": "collusion", "ko": "공모, 담합", "note": "collusion은 '짜고 치는 행위', cartel은 그 행위를 하는 '조직' — 행위 대 주체로 갈라 기억한다" },
+        { "word": "monopoly", "ko": "독점", "note": "monopoly는 한 회사가 시장을 쥔 것, cartel은 여러 회사가 뭉쳐 한 회사처럼 구는 것" }
+      ]
+    },
+    {
+      "headword": "smuggle",
+      "pos": "v.",
+      "ko": "밀수하다, 몰래 들여오다(내가다)",
+      "example_en": "Tons of sand are smuggled across the border every night on unregistered trucks.",
+      "example_ko": "매일 밤 등록되지 않은 트럭으로 수 톤의 모래가 국경 너머로 밀반출된다.",
+      "collocations": ["smuggle goods across the border", "smuggle in"],
+      "note": "핵심은 '몰래 옮기다' 하나 — 방향은 전치사가 정한다. smuggle in(몰래 들여오다)·smuggle out(몰래 빼내다)·smuggle across(밀반출하다). 뉴스에서는 사람을 옮길 때도 쓴다(human smuggling).",
+      "family": [
+        { "word": "smuggler", "pos": "n.", "ko": "밀수업자" },
+        { "word": "smuggling", "pos": "n.", "ko": "밀수, 밀반입" }
+      ]
+    },
+    {
+      "headword": "outlaw",
+      "pos": "v.",
+      "ko": "불법화하다, 법으로 금지하다; (명사) 무법자",
+      "example_en": "Several states have outlawed the removal of sand from active riverbeds.",
+      "example_ko": "여러 주가 물이 흐르는 강바닥에서 모래를 퍼내는 행위를 법으로 금지했다.",
+      "collocations": ["outlaw the practice", "an outlawed group"],
+      "note": "out(밖) + law(법) — '법 밖에 두다'. 동사로는 '법으로 금지하다', 명사로는 '법 밖으로 내몰린 자 = 무법자'가 된다. ban보다 격식 있어 법률·시사문에 잘 쓰인다.",
+      "related": [
+        { "word": "outlay", "ko": "지출, 경비", "note": "철자가 한 끗 차이 — outlay는 돈을 '내놓는' 것, outlaw는 법 '밖으로' 내모는 것" }
+      ]
+    },
+    {
+      "headword": "stem",
+      "pos": "v.",
+      "ko": "막다, 저지하다; (stem from) ~에서 비롯되다",
+      "example_en": "New licensing rules did little to stem the flow of illegally mined sand.",
+      "example_ko": "새 허가 규정은 불법 채취된 모래의 유입을 막는 데 거의 도움이 되지 않았다.",
+      "collocations": ["stem the tide", "stem the flow of ~", "stem from"],
+      "note": "뜻이 둘로 갈리니 이미지로 나눠 둔다 — stem the flow는 '둑'을 쌓아 흐름을 막는 그림, stem from은 '줄기'가 뿌리에서 뻗어 나오는 그림(= 원인에서 나오다). 명사 '줄기'가 두 뜻의 출발점이다.",
+      "related": [
+        { "word": "stem cell", "ko": "줄기세포", "note": "여기서 stem은 '줄기' — 무엇으로든 자라날 근원이라는 뜻" }
+      ]
+    },
+    {
+      "headword": "ramification",
+      "pos": "n.",
+      "ko": "(보통 복수형) 파급 결과, 여파",
+      "example_en": "The ban had ramifications no one in the ministry had anticipated.",
+      "example_ko": "그 금지 조치는 부처의 누구도 예상하지 못한 파급 결과를 낳았다.",
+      "collocations": ["far-reaching ramifications", "legal ramifications"],
+      "note": "라틴어 ramus(나뭇가지) — 한 결정이 가지처럼 갈라져 낳는 결과들. 그래서 거의 항상 복수 ramifications로 쓰고, consequence보다 '미처 예상 못 한 곁가지'라는 뉘앙스가 강하다.",
+      "related": [
+        { "word": "repercussion", "ko": "(좋지 않은) 영향, 반향", "note": "repercussion은 되튀어 오는 '반작용'에 가깝고 부정적 결과에만 쓴다 — ramification은 중립적으로도 쓴다" }
+      ]
+    },
+    {
+      "headword": "prosecute",
+      "pos": "v.",
+      "ko": "기소하다, 소추하다",
+      "example_en": "Fewer than one in ten reported cases are ever prosecuted.",
+      "example_ko": "신고된 사건 열 건 중 한 건도 채 기소되지 않는다.",
+      "collocations": ["prosecute a case", "be prosecuted for fraud"],
+      "note": "pro-(앞으로) + sec/secut(따라가다) — 죄를 법정까지 '끝까지 좇는' 것이 기소다. 같은 secut 뿌리의 execute·consecutive와 묶어 두면 '따라가다'라는 공통 이미지가 잡힌다.",
+      "family": [
+        { "word": "prosecution", "pos": "n.", "ko": "기소; 검찰 측" },
+        { "word": "prosecutor", "pos": "n.", "ko": "검사" }
+      ],
+      "related": [
+        { "word": "persecute", "ko": "박해하다", "note": "한 글자 차이로 뜻이 갈린다 — prosecute는 법정에 세우는 것, persecute는 신념·인종 때문에 괴롭히는 것" }
+      ]
+    },
+    {
+      "headword": "condone",
+      "pos": "v.",
+      "ko": "묵인하다, 눈감아 주다",
+      "example_en": "Local officials insist they never condoned the night-time dredging.",
+      "example_ko": "지역 공무원들은 야간 준설을 결코 묵인한 적이 없다고 주장한다.",
+      "collocations": ["cannot condone", "condone the practice"],
+      "note": "con-(완전히) + don(주다, donate와 같은 뿌리) — 잘못을 '없던 셈 쳐 주는' 것. 적극적으로 찬성한다기보다 알고도 넘어간다는 뉘앙스라, 부정문 cannot condone으로 자주 나온다.",
+      "related": [
+        { "word": "condemn", "ko": "규탄하다, 비난하다", "note": "철자가 비슷한데 뜻은 정반대 — condone은 눈감아 주고, condemn은 몰아세운다" }
+      ]
+    },
+    {
+      "headword": "haul",
+      "pos": "v.",
+      "ko": "(무거운 것을) 끌어 나르다; (명사) 운반; 한 번에 챙긴 양",
+      "example_en": "Trucks haul the aggregate three hundred kilometres to the nearest plant.",
+      "example_ko": "트럭들이 그 골재를 가장 가까운 공장까지 300킬로미터를 실어 나른다.",
+      "collocations": ["long-haul flight", "haul away", "a record haul"],
+      "note": "무거운 것을 힘껏 끄는 그림 하나로 뜻이 다 풀린다 — long-haul flight는 '멀리까지 끌고 가는' 장거리 비행, a haul of stolen goods는 '한 번에 끌어간' 장물. in the long haul은 '장기적으로'.",
+      "related": [
+        { "word": "hall", "ko": "복도, 회관", "note": "발음이 같아 듣고 받아쓸 때 헷갈린다 — haul은 나르는 것, hall은 공간" }
+      ]
+    },
+    {
+      "headword": "crumble",
+      "pos": "v.",
+      "ko": "부스러지다, 조금씩 무너지다",
+      "example_en": "The riverbank crumbled after years of unchecked extraction.",
+      "example_ko": "수년간 통제되지 않은 채취가 이어진 끝에 강기슭이 무너져 내렸다.",
+      "collocations": ["crumble away", "support crumbled"],
+      "note": "crumb(빵 부스러기)에서 나온 말이라 '가장자리부터 조금씩 부스러져 내리는' 그림이다. 제도·지지율·합의가 서서히 허물어질 때도 그대로 쓴다.",
+      "family": [
+        { "word": "crumb", "pos": "n.", "ko": "(빵) 부스러기" }
+      ],
+      "related": [
+        { "word": "collapse", "ko": "붕괴하다", "note": "collapse는 한순간에 주저앉는 것, crumble은 야금야금 부스러지는 것 — 속도가 다르다" }
+      ]
+    },
+    {
+      "headword": "substitute",
+      "pos": "n.",
+      "ko": "대체재, 대용품; (동사) 대신하다",
+      "example_en": "Crushed rock is the only realistic substitute for river sand in concrete.",
+      "example_ko": "분쇄한 암석이 콘크리트에서 강모래를 대신할 유일한 현실적 대체재다.",
+      "collocations": ["a substitute for ~", "substitute A for B"],
+      "note": "전치사가 함정이다 — substitute A for B는 'B 대신 A를 쓰다'(새것이 앞), replace A with B는 'A를 B로 바꾸다'(헌것이 앞)로 순서가 정반대다. 명사로 쓸 때는 언제나 a substitute for ~.",
+      "family": [
+        { "word": "substitution", "pos": "n.", "ko": "대체, 교체" },
+        { "word": "substitutable", "pos": "a.", "ko": "대체 가능한" }
+      ]
+    }
+  ]
+}

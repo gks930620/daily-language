@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-12",
+  "words": [
+    {
+      "headword": "aggregate",
+      "pos": "n.",
+      "ko": "골재(자갈·모래); 총계, 집합체",
+      "example_en": "Recycled concrete can replace up to half of the aggregate used on the site.",
+      "example_ko": "재활용 콘크리트가 현장에서 쓰이는 골재의 최대 절반까지 대체할 수 있다.",
+      "collocations": [
+        "construction aggregate",
+        "in the aggregate"
+      ],
+      "note": "ag-(~쪽으로) + greg(무리·떼) — '무리로 모아 놓은 것'. 건설에서는 자갈·모래를 모은 '골재', 통계에서는 '총계'가 된다. gregarious(사교적인)·congregate(모이다)·segregate(떼어 놓다)가 같은 greg 뿌리다.",
+      "family": [
+        {
+          "word": "aggregation",
+          "pos": "n.",
+          "ko": "집합, 집계"
+        },
+        {
+          "word": "aggregated",
+          "pos": "a.",
+          "ko": "합산된, 통합된"
+        }
+      ],
+      "related": [
+        {
+          "word": "segregate",
+          "ko": "분리하다",
+          "note": "se-(떼어) + greg(무리) — 무리에서 떼어 놓는 것. aggregate와 정반대 방향"
+        }
+      ]
+    },
+    {
+      "headword": "quarry",
+      "pos": "n.",
+      "ko": "채석장; 사냥감, 추적 대상",
+      "example_en": "The firm was fined for operating a quarry without a valid permit.",
+      "example_ko": "그 회사는 유효한 허가 없이 채석장을 운영한 이유로 벌금을 물었다.",
+      "collocations": [
+        "a limestone quarry",
+        "quarry stone"
+      ],
+      "note": "뿌리가 다른 두 단어가 같은 철자로 굳어졌다 — '돌을 캐는 곳'과 '사냥에서 쫓는 짐승'. 그래서 뉴스에서 the police's quarry라고 하면 '경찰이 쫓는 대상'이지 채석장이 아니다. 동사로도 써서 quarry marble = '대리석을 캐내다'.",
+      "related": [
+        {
+          "word": "query",
+          "ko": "질문(하다)",
+          "note": "철자가 한 글자 차이일 뿐 완전히 무관 — query는 '묻다', quarry는 '캐다·채석장'"
+        }
+      ]
+    },
+    {
+      "headword": "silt",
+      "pos": "n.",
+      "ko": "토사, 미사(강물이 실어 나르는 고운 흙)",
+      "example_en": "Dams trap the silt that used to fertilize the delta downstream.",
+      "example_ko": "댐은 예전에 하류 삼각주를 비옥하게 하던 토사를 가둬 버린다.",
+      "collocations": [
+        "silt deposits",
+        "silt up"
+      ],
+      "note": "굵기 순서로 gravel(자갈) > sand(모래) > silt(미사) > clay(점토) — silt는 모래보다 곱고 점토보다 거친 흙이다. 동사 silt up은 '토사가 쌓여 막히다'로, 항구·저수지가 못 쓰게 되는 상황에 쓴다.",
+      "related": [
+        {
+          "word": "sediment",
+          "ko": "퇴적물, 침전물",
+          "note": "sediment는 가라앉은 물질 전반을 가리키는 상위어, silt는 그중 강이 실어 나르는 고운 흙"
+        }
+      ]
+    },
+    {
+      "headword": "scour",
+      "pos": "v.",
+      "ko": "(물살이) 깎아내다; 문질러 닦다; 샅샅이 뒤지다",
+      "example_en": "Investigators scoured the shipping records for evidence of illegal loads.",
+      "example_ko": "조사관들은 불법 적재의 증거를 찾아 선적 기록을 샅샅이 뒤졌다.",
+      "collocations": [
+        "scour the riverbed",
+        "scour the records for ~"
+      ],
+      "note": "세 뜻이 '박박 문지르다'라는 한 이미지에서 갈라진다 — 냄비를 문지르면 '닦다', 물살이 바닥을 문지르면 '침식하다', 눈으로 훑으면 '뒤지다'. '뒤지다' 뜻일 때는 보통 scour A for B(B를 찾아 A를 뒤지다) 형태로 쓴다.",
+      "related": [
+        {
+          "word": "scourge",
+          "ko": "재앙, 골칫거리",
+          "note": "철자가 비슷하지만 별개 — scourge는 '채찍질'에서 온 명사로 '큰 재앙'을 뜻한다"
+        }
+      ]
+    },
+    {
+      "headword": "levee",
+      "pos": "n.",
+      "ko": "(강가의) 제방, 둑",
+      "example_en": "The levee held through the storm, but engineers warned it had been weakened.",
+      "example_ko": "제방은 폭풍 동안 버텼지만, 기술자들은 그것이 약해진 상태라고 경고했다.",
+      "collocations": [
+        "build a levee",
+        "the levee breached"
+      ],
+      "note": "프랑스어 lever(들어 올리다)에서 온 말 — 흙을 '들어 올려' 쌓은 둑이다. elevate(들어 올리다)·lever(지렛대)와 같은 뿌리라고 묶어 두면 철자가 기억에 남는다.",
+      "related": [
+        {
+          "word": "levy",
+          "ko": "부과하다; 부과금",
+          "note": "levee(제방)와 levy(세금을 매기다)는 소리가 거의 같고 뜻은 무관 — 문맥으로 가른다"
+        },
+        {
+          "word": "embankment",
+          "ko": "둑, 제방",
+          "note": "거의 동의어지만 embankment는 철길·도로를 받치는 흙둑에도 두루 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "barge",
+      "pos": "n.",
+      "ko": "바지선(짐 싣는 평저선); (동사) 밀치고 나아가다",
+      "example_en": "A convoy of barges hauled the sand upriver to the city's building sites.",
+      "example_ko": "바지선 선단이 모래를 강 상류의 도시 건설 현장까지 실어 날랐다.",
+      "collocations": [
+        "a barge loaded with sand",
+        "barge in"
+      ],
+      "note": "바닥이 평평해 강·운하를 느리게 오가는 화물선. 동사 barge in(불쑥 끼어들다)은 그 둔중한 배가 밀고 들어오는 그림에서 나왔다고 묶어 외우면 두 뜻이 한 번에 잡힌다.",
+      "related": [
+        {
+          "word": "bargain",
+          "ko": "흥정하다; 싸게 산 물건",
+          "note": "barge와 철자가 겹쳐 보이지만 무관 — bargain은 거래, barge는 배"
+        }
+      ]
+    },
+    {
+      "headword": "reclamation",
+      "pos": "n.",
+      "ko": "(토지) 매립, 간척; 개간; 회수, 재생",
+      "example_en": "The airport was built on land reclamation that consumed millions of tons of sand.",
+      "example_ko": "그 공항은 수백만 톤의 모래를 집어삼킨 매립지 위에 세워졌다.",
+      "collocations": [
+        "land reclamation",
+        "water reclamation"
+      ],
+      "note": "re-(다시) + claim(요구하다) — 바다나 황무지에서 땅을 '되찾아 오는' 일. land reclamation은 '간척·매립', water reclamation은 '물 재생'으로 대상에 따라 우리말이 달라진다는 점에 주의.",
+      "family": [
+        {
+          "word": "reclaim",
+          "pos": "v.",
+          "ko": "되찾다; 매립하다; 재생하다"
+        },
+        {
+          "word": "claim",
+          "pos": "v.",
+          "ko": "주장하다; 청구하다"
+        }
+      ]
+    },
+    {
+      "headword": "impunity",
+      "pos": "n.",
+      "ko": "처벌받지 않음, 면책",
+      "example_en": "Operators dredged the channel by night with almost total impunity.",
+      "example_ko": "업자들은 거의 아무런 처벌도 받지 않은 채 밤에 수로를 준설했다.",
+      "collocations": [
+        "act with impunity",
+        "a culture of impunity"
+      ],
+      "note": "im-(아닌) + pun(벌) — punish·punitive(징벌적인)와 같은 뿌리로 '벌이 없는 상태'. 거의 항상 with impunity(처벌받지 않고, 제멋대로) 꼴로 쓰이니 통째로 외우는 편이 낫다.",
+      "family": [
+        {
+          "word": "punish",
+          "pos": "v.",
+          "ko": "처벌하다"
+        },
+        {
+          "word": "punitive",
+          "pos": "a.",
+          "ko": "징벌적인"
+        }
+      ]
+    },
+    {
+      "headword": "cartel",
+      "pos": "n.",
+      "ko": "카르텔, 담합 조직",
+      "example_en": "Regulators accused the three suppliers of forming a cartel to fix prices.",
+      "example_ko": "규제 당국은 세 공급업체가 가격을 담합하려고 카르텔을 형성했다고 고발했다.",
+      "collocations": [
+        "form a cartel",
+        "an oil cartel"
+      ],
+      "note": "원래 '문서로 맺은 협정'(card와 같은 뿌리)이었다가, 가격·물량을 짜고 정하는 기업 연합을 뜻하게 됐다. 지금은 OPEC 같은 산유국 연합부터 마약·자원 밀거래 조직까지 두루 가리킨다.",
+      "related": [
+        {
+          "word": "collusion",
+          "ko": "공모, 담합",
+          "note": "collusion은 '짜고 치는 행위', cartel은 그 행위를 하는 '조직' — 행위 대 주체로 갈라 기억한다"
+        },
+        {
+          "word": "monopoly",
+          "ko": "독점",
+          "note": "monopoly는 한 회사가 시장을 쥔 것, cartel은 여러 회사가 뭉쳐 한 회사처럼 구는 것"
+        }
+      ]
+    },
+    {
+      "headword": "smuggle",
+      "pos": "v.",
+      "ko": "밀수하다, 몰래 들여오다(내가다)",
+      "example_en": "Tons of sand are smuggled across the border every night on unregistered trucks.",
+      "example_ko": "매일 밤 등록되지 않은 트럭으로 수 톤의 모래가 국경 너머로 밀반출된다.",
+      "collocations": [
+        "smuggle goods across the border",
+        "smuggle in"
+      ],
+      "note": "핵심은 '몰래 옮기다' 하나 — 방향은 전치사가 정한다. smuggle in(몰래 들여오다)·smuggle out(몰래 빼내다)·smuggle across(밀반출하다). 뉴스에서는 사람을 옮길 때도 쓴다(human smuggling).",
+      "family": [
+        {
+          "word": "smuggler",
+          "pos": "n.",
+          "ko": "밀수업자"
+        },
+        {
+          "word": "smuggling",
+          "pos": "n.",
+          "ko": "밀수, 밀반입"
+        }
+      ]
+    },
+    {
+      "headword": "outlaw",
+      "pos": "v.",
+      "ko": "불법화하다, 법으로 금지하다; (명사) 무법자",
+      "example_en": "Several states have outlawed the removal of sand from active riverbeds.",
+      "example_ko": "여러 주가 물이 흐르는 강바닥에서 모래를 퍼내는 행위를 법으로 금지했다.",
+      "collocations": [
+        "outlaw the practice",
+        "an outlawed group"
+      ],
+      "note": "out(밖) + law(법) — '법 밖에 두다'. 동사로는 '법으로 금지하다', 명사로는 '법 밖으로 내몰린 자 = 무법자'가 된다. ban보다 격식 있어 법률·시사문에 잘 쓰인다.",
+      "related": [
+        {
+          "word": "outlay",
+          "ko": "지출, 경비",
+          "note": "철자가 한 끗 차이 — outlay는 돈을 '내놓는' 것, outlaw는 법 '밖으로' 내모는 것"
+        }
+      ]
+    },
+    {
+      "headword": "stem",
+      "pos": "v.",
+      "ko": "막다, 저지하다; (stem from) ~에서 비롯되다",
+      "example_en": "New licensing rules did little to stem the flow of illegally mined sand.",
+      "example_ko": "새 허가 규정은 불법 채취된 모래의 유입을 막는 데 거의 도움이 되지 않았다.",
+      "collocations": [
+        "stem the tide",
+        "stem the flow of ~",
+        "stem from"
+      ],
+      "note": "뜻이 둘로 갈리니 이미지로 나눠 둔다 — stem the flow는 '둑'을 쌓아 흐름을 막는 그림, stem from은 '줄기'가 뿌리에서 뻗어 나오는 그림(= 원인에서 나오다). 명사 '줄기'가 두 뜻의 출발점이다.",
+      "related": [
+        {
+          "word": "stem cell",
+          "ko": "줄기세포",
+          "note": "여기서 stem은 '줄기' — 무엇으로든 자라날 근원이라는 뜻"
+        }
+      ]
+    },
+    {
+      "headword": "ramification",
+      "pos": "n.",
+      "ko": "(보통 복수형) 파급 결과, 여파",
+      "example_en": "The ban had ramifications no one in the ministry had anticipated.",
+      "example_ko": "그 금지 조치는 부처의 누구도 예상하지 못한 파급 결과를 낳았다.",
+      "collocations": [
+        "far-reaching ramifications",
+        "legal ramifications"
+      ],
+      "note": "라틴어 ramus(나뭇가지) — 한 결정이 가지처럼 갈라져 낳는 결과들. 그래서 거의 항상 복수 ramifications로 쓰고, consequence보다 '미처 예상 못 한 곁가지'라는 뉘앙스가 강하다.",
+      "related": [
+        {
+          "word": "repercussion",
+          "ko": "(좋지 않은) 영향, 반향",
+          "note": "repercussion은 되튀어 오는 '반작용'에 가깝고 부정적 결과에만 쓴다 — ramification은 중립적으로도 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "prosecute",
+      "pos": "v.",
+      "ko": "기소하다, 소추하다",
+      "example_en": "Fewer than one in ten reported cases are ever prosecuted.",
+      "example_ko": "신고된 사건 열 건 중 한 건도 채 기소되지 않는다.",
+      "collocations": [
+        "prosecute a case",
+        "be prosecuted for fraud"
+      ],
+      "note": "pro-(앞으로) + sec/secut(따라가다) — 죄를 법정까지 '끝까지 좇는' 것이 기소다. 같은 secut 뿌리의 execute·consecutive와 묶어 두면 '따라가다'라는 공통 이미지가 잡힌다.",
+      "family": [
+        {
+          "word": "prosecution",
+          "pos": "n.",
+          "ko": "기소; 검찰 측"
+        },
+        {
+          "word": "prosecutor",
+          "pos": "n.",
+          "ko": "검사"
+        }
+      ],
+      "related": [
+        {
+          "word": "persecute",
+          "ko": "박해하다",
+          "note": "한 글자 차이로 뜻이 갈린다 — prosecute는 법정에 세우는 것, persecute는 신념·인종 때문에 괴롭히는 것"
+        }
+      ]
+    },
+    {
+      "headword": "condone",
+      "pos": "v.",
+      "ko": "묵인하다, 눈감아 주다",
+      "example_en": "Local officials insist they never condoned the night-time dredging.",
+      "example_ko": "지역 공무원들은 야간 준설을 결코 묵인한 적이 없다고 주장한다.",
+      "collocations": [
+        "cannot condone",
+        "condone the practice"
+      ],
+      "note": "con-(완전히) + don(주다, donate와 같은 뿌리) — 잘못을 '없던 셈 쳐 주는' 것. 적극적으로 찬성한다기보다 알고도 넘어간다는 뉘앙스라, 부정문 cannot condone으로 자주 나온다.",
+      "related": [
+        {
+          "word": "condemn",
+          "ko": "규탄하다, 비난하다",
+          "note": "철자가 비슷한데 뜻은 정반대 — condone은 눈감아 주고, condemn은 몰아세운다"
+        }
+      ]
+    }
+  ]
+}

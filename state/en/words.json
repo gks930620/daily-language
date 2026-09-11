@@ -2160,6 +2160,51 @@
     },
     "superfluous": {
       "added_on": "2026-09-11"
+    },
+    "aggregate": {
+      "added_on": "2026-09-12"
+    },
+    "quarry": {
+      "added_on": "2026-09-12"
+    },
+    "silt": {
+      "added_on": "2026-09-12"
+    },
+    "scour": {
+      "added_on": "2026-09-12"
+    },
+    "levee": {
+      "added_on": "2026-09-12"
+    },
+    "barge": {
+      "added_on": "2026-09-12"
+    },
+    "reclamation": {
+      "added_on": "2026-09-12"
+    },
+    "impunity": {
+      "added_on": "2026-09-12"
+    },
+    "cartel": {
+      "added_on": "2026-09-12"
+    },
+    "smuggle": {
+      "added_on": "2026-09-12"
+    },
+    "outlaw": {
+      "added_on": "2026-09-12"
+    },
+    "stem": {
+      "added_on": "2026-09-12"
+    },
+    "ramification": {
+      "added_on": "2026-09-12"
+    },
+    "prosecute": {
+      "added_on": "2026-09-12"
+    },
+    "condone": {
+      "added_on": "2026-09-12"
     }
   }
 }
