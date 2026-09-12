@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-13",
+  "passage_note": "항공·기후 — 지속가능 항공연료(SAF)와 항공 탈탄소의 병목(논설)",
+  "sentences": [
+    {
+      "en": "Aviation accounts for a modest share of global emissions, yet long-haul flight has proved one of the most stubborn activities to decarbonize, since a jet crossing an ocean cannot be plugged into a wall.",
+      "ko": "항공은 전 세계 배출량에서 그리 크지 않은 몫을 차지하지만, 장거리 비행은 탈탄소화하기가 가장 완강한 활동 중 하나로 드러났다. 대양을 건너는 제트기를 벽에 꽂아 충전할 수는 없기 때문이다.",
+      "structure": "· yet : 등위접속사로 앞 절과 대조를 만든다 — '~이지만'.\n· has proved + 보어(one of ... activities) : prove가 '증명하다'가 아니라 '~임이 드러나다'로 쓰인 2형식.\n· the most stubborn activities to decarbonize : to부정사가 앞의 형용사·명사를 한정한다('탈탄소화하기에 가장 완강한').\n· a jet crossing an ocean : 현재분사구가 a jet을 뒤에서 수식(관계절 that crosses an ocean의 축약).\n· since : 이유를 이끄는 접속사('~하므로') — 시간의 '~이래로'와 구별.",
+      "vocab_notes": [
+        { "word": "aviation", "ko": "항공(업)" },
+        { "word": "account for", "ko": "(비율을) 차지하다" },
+        { "word": "modest", "ko": "그리 크지 않은, 많지 않은" },
+        { "word": "share", "ko": "몫, 비중" },
+        { "word": "emission", "ko": "배출(량)" },
+        { "word": "long-haul", "ko": "장거리의" },
+        { "word": "prove", "ko": "~임이 드러나다" },
+        { "word": "stubborn", "ko": "좀처럼 바뀌지 않는, 완강한" },
+        { "word": "decarbonize", "ko": "탈탄소화하다" },
+        { "word": "plug into", "ko": "~에 (전원을) 꽂다" }
+      ]
+    },
+    {
+      "en": "Battery and hydrogen propulsion remain decades from carrying passengers across the Pacific, so the industry's favored remedy is sustainable aviation fuel, a near-drop-in substitute for conventional kerosene, refined from used cooking oil, agricultural residue and similar feedstocks.",
+      "ko": "배터리와 수소 추진 방식은 태평양 건너로 승객을 실어 나르기까지 아직 수십 년이 남아 있다. 그래서 업계가 선호하는 해법은 지속가능 항공연료(SAF)인데, 이는 기존 항공유를 거의 그대로 대체할 수 있는 물질로, 폐식용유·농업 잔재물 등의 원료에서 정제된다.",
+      "structure": "· remain decades from -ing : remain이 2형식으로 상태의 지속을 나타낸다 — '~하기까지 수십 년이 남아 있다'.\n· so : 결과를 이끄는 등위접속사('그래서').\n· sustainable aviation fuel, a near-drop-in substitute ~ : 콤마 뒤 명사구가 앞 명사와 동격(즉, ~인 것).\n· refined from ~ : 과거분사구가 substitute를 뒤에서 수식(수동 — '~에서 정제된').\n· near-drop-in : 하이픈으로 묶여 통째로 형용사가 된 복합어.",
+      "vocab_notes": [
+        { "word": "hydrogen", "ko": "수소" },
+        { "word": "propulsion", "ko": "추진(력), 추진 방식" },
+        { "word": "remain", "ko": "여전히 ~한 상태다" },
+        { "word": "favored", "ko": "선호되는" },
+        { "word": "remedy", "ko": "해결책, 처방" },
+        { "word": "sustainable", "ko": "지속 가능한" },
+        { "word": "drop-in", "ko": "기존 설비를 그대로 두고 바로 대체할 수 있는" },
+        { "word": "substitute", "ko": "대체물, 대체재" },
+        { "word": "conventional", "ko": "기존의, 재래식의" },
+        { "word": "kerosene", "ko": "등유; (항공용) 제트 연료" },
+        { "word": "refine", "ko": "정제하다" },
+        { "word": "residue", "ko": "잔재물, 찌꺼기" },
+        { "word": "feedstock", "ko": "(공정에 투입되는) 원료" }
+      ]
+    },
+    {
+      "en": "The trouble is supply: such fuel still accounts for well under one percent of what airlines burn, costs several times as much as the fossil kind, and competes for feedstock with shipping and road transport.",
+      "ko": "문제는 공급이다. 그런 연료는 여전히 항공사가 태우는 양의 1퍼센트에 한참 못 미치고, 화석 연료의 몇 배에 달하는 비용이 들며, 해운·육상 운송과 원료를 두고 경쟁한다.",
+      "structure": "· 콜론(:) 뒤는 앞의 명사 supply가 무엇인지 구체적으로 풀어 준다.\n· accounts ~, costs ~, and competes ~ : 주어 such fuel에 걸리는 동사 세 개의 병렬 구조.\n· what airlines burn : 선행사를 포함하는 관계대명사 what — '항공사가 태우는 것(연료량)'.\n· several times as much as ~ : 배수사 + 원급 비교 = '~의 몇 배'.\n· compete for A with B : 'B와 A를 두고 다투다' — 전치사 짝을 통째로 외운다.",
+      "vocab_notes": [
+        { "word": "supply", "ko": "공급(량)" },
+        { "word": "well under", "ko": "~에 훨씬 못 미치는" },
+        { "word": "airline", "ko": "항공사" },
+        { "word": "burn", "ko": "태우다, (연료를) 소비하다" },
+        { "word": "fossil", "ko": "화석(연료)의" },
+        { "word": "compete for", "ko": "~를 두고 경쟁하다" },
+        { "word": "shipping", "ko": "해운, 해상 운송" },
+        { "word": "road transport", "ko": "육상 운송" }
+      ]
+    },
+    {
+      "en": "Regulators in Europe have therefore imposed blending mandates that ratchet upward each decade, on the premise that guaranteed demand will coax refineries into building capacity that no carrier would finance on its own.",
+      "ko": "그래서 유럽의 규제 당국은 10년마다 단계적으로 높아지는 혼합 의무를 부과했다. 수요가 보장되면 어떤 항공사도 혼자서는 자금을 대지 않을 생산 설비를 정유사들이 짓도록 유도할 수 있다는 전제에서다.",
+      "structure": "· have imposed : 현재완료 — 과거에 도입해 지금도 효력이 이어진다.\n· mandates that ratchet upward : 주격 관계대명사 that(선행사 mandates).\n· on the premise that ~ : that절이 premise의 내용을 설명하는 동격의 that.\n· coax A into -ing : '구슬려(유도해) A가 ~하게 하다' — persuade A to부정사와 달리 into + 동명사.\n· capacity that no carrier would finance : 목적격 관계대명사 that + 가정법 성격의 would('~하려 들지 않을').",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국, 감독 기관" },
+        { "word": "impose", "ko": "부과하다" },
+        { "word": "blending", "ko": "혼합" },
+        { "word": "mandate", "ko": "의무 규정" },
+        { "word": "ratchet upward", "ko": "단계적으로 올라가다(되돌릴 수 없이)" },
+        { "word": "premise", "ko": "전제" },
+        { "word": "guaranteed", "ko": "보장된" },
+        { "word": "coax", "ko": "구슬리다, 유도하다" },
+        { "word": "refinery", "ko": "정유 공장" },
+        { "word": "capacity", "ko": "생산 능력, 설비" },
+        { "word": "carrier", "ko": "항공사, 운송 사업자" },
+        { "word": "finance", "ko": "자금을 대다" }
+      ]
+    },
+    {
+      "en": "Skeptics counter that mandates without a matching push on feedstock supply will merely inflate fares and stall uptake, and that the industry's quieter problem — the warming caused by contrails rather than carbon dioxide — remains almost entirely unaddressed.",
+      "ko": "회의론자들은 이렇게 반박한다. 원료 공급을 함께 밀어 주지 않는 의무 규정은 운임만 부풀리고 도입을 멈춰 세울 뿐이며, 업계가 덜 떠드는 문제 — 이산화탄소가 아니라 비행운이 일으키는 온난화 — 는 여전히 거의 손도 대지 않은 채라는 것이다.",
+      "structure": "· counter that ~, and that ~ : that절 두 개가 counter의 목적어로 병렬.\n· 대시(—) 사이는 앞의 the industry's quieter problem을 풀어 주는 동격 삽입구다. 주어와 동사(remains)가 멀어진 점에 주의.\n· caused by contrails : 과거분사구가 the warming을 뒤에서 수식.\n· A rather than B : 'B라기보다 A' — 여기서는 이산화탄소가 아니라 비행운이 원인.\n· remain + 과거분사(unaddressed) : '여전히 ~되지 않은 채로 있다'.",
+      "vocab_notes": [
+        { "word": "skeptic", "ko": "회의론자" },
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "matching", "ko": "그에 상응하는" },
+        { "word": "push", "ko": "(정책적) 추진, 밀어붙이기" },
+        { "word": "merely", "ko": "단지 ~할 뿐" },
+        { "word": "inflate", "ko": "부풀리다" },
+        { "word": "fare", "ko": "운임, 요금" },
+        { "word": "stall", "ko": "멈춰 세우다, 정체시키다" },
+        { "word": "uptake", "ko": "도입(률), 채택" },
+        { "word": "contrail", "ko": "비행운(비행기가 남기는 흰 구름 자국)" },
+        { "word": "carbon dioxide", "ko": "이산화탄소" },
+        { "word": "unaddressed", "ko": "다뤄지지 않은, 손대지 않은" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "aviation",
+      "pos": "n.",
+      "ko": "항공(업), 항공 산업",
+      "example_en": "The agency tightened safety rules for the entire civil aviation sector.",
+      "example_ko": "그 기관은 민간 항공 부문 전체에 대해 안전 규정을 강화했다.",
+      "collocations": ["civil aviation", "aviation industry", "aviation fuel"],
+      "note": "라틴어 avis(새)에서 왔다 — avian(조류의)·aviary(새 사육장)와 한 뿌리. '새처럼 나는 일'이 항공이다.",
+      "family": [
+        { "word": "aviator", "pos": "n.", "ko": "비행사" },
+        { "word": "avian", "pos": "a.", "ko": "조류의 — avian influenza는 조류 인플루엔자" }
+      ]
+    },
+    {
+      "headword": "decarbonize",
+      "pos": "v.",
+      "ko": "탈탄소화하다, 탄소 배출을 없애다",
+      "example_en": "Steelmakers say they cannot decarbonize without cheap clean electricity.",
+      "example_ko": "철강업체들은 값싼 청정 전력 없이는 탈탄소화할 수 없다고 말한다.",
+      "collocations": ["decarbonize the economy", "hard to decarbonize"],
+      "note": "de-(떼어내다) + carbon + -ize(동사화). de-는 '제거'를 뜻해 deregulate(규제를 걷어내다)·decouple(떼어 놓다)과 같은 방식으로 만들어진 말이다.",
+      "family": [
+        { "word": "decarbonization", "pos": "n.", "ko": "탈탄소화" },
+        { "word": "carbon-intensive", "pos": "a.", "ko": "탄소 배출이 많은" }
+      ]
+    },
+    {
+      "headword": "propulsion",
+      "pos": "n.",
+      "ko": "추진(력), 추진 방식",
+      "example_en": "The shipping firm is testing an ammonia-based propulsion system.",
+      "example_ko": "그 해운사는 암모니아 기반 추진 시스템을 시험하고 있다.",
+      "collocations": ["propulsion system", "electric propulsion"],
+      "note": "pro-(앞으로) + pel(밀다) — 앞으로 미는 힘. compel(강하게 밀어붙이다=강요하다)·repel(되밀다=쫓아내다)·expel(밖으로 밀다=쫓아내다)이 모두 같은 pel 뿌리다.",
+      "family": [
+        { "word": "propel", "pos": "v.", "ko": "추진하다, 앞으로 나아가게 하다" },
+        { "word": "propeller", "pos": "n.", "ko": "프로펠러, 추진기" }
+      ]
+    },
+    {
+      "headword": "kerosene",
+      "pos": "n.",
+      "ko": "등유; (항공기용) 제트 연료",
+      "example_en": "Airlines burn roughly the same kerosene today as they did a decade ago.",
+      "example_ko": "항공사들은 10년 전과 대체로 같은 항공유를 오늘날에도 태우고 있다.",
+      "collocations": ["burn kerosene", "kerosene lamp"],
+      "note": "기사에서 kerosene은 대개 '항공유'를 가리키는 환유로 쓴다(jet fuel의 주성분). 영국식 영어의 paraffin과 같은 물질이라는 점도 함께 알아 두면 좋다.",
+      "related": [
+        { "word": "jet fuel", "ko": "항공유", "note": "kerosene은 물질 이름, jet fuel은 용도 이름 — 항공 기사에서는 사실상 같은 것을 가리킨다" }
+      ]
+    },
+    {
+      "headword": "feedstock",
+      "pos": "n.",
+      "ko": "(공정에 투입되는) 원료",
+      "example_en": "The plant switched to cheaper feedstock to protect its margins.",
+      "example_ko": "그 공장은 수익률을 지키려고 더 싼 원료로 바꿨다.",
+      "collocations": ["feedstock supply", "switch feedstock"],
+      "note": "feed(먹이다·공급하다) + stock(비축분) — 설비에 '먹이는' 원재료. 막연한 raw material과 달리 정유·화학 공정에 투입되는 원료를 콕 집어 가리킨다.",
+      "related": [
+        { "word": "raw material", "ko": "원자재", "note": "raw material은 범용어, feedstock은 특정 공정의 투입물 — 기사에서 정유·화학이면 feedstock을 쓴다" }
+      ]
+    },
+    {
+      "headword": "refinery",
+      "pos": "n.",
+      "ko": "정유 공장, 정제소",
+      "example_en": "Two refineries shut for maintenance, and fuel prices jumped within a week.",
+      "example_ko": "정유 공장 두 곳이 정비를 위해 가동을 멈추자 연료 가격이 일주일 만에 뛰었다.",
+      "collocations": ["oil refinery", "refinery capacity"],
+      "note": "refine(정제하다) + -ery(만드는 곳) — bakery(빵 만드는 곳)·brewery(맥주 만드는 곳)와 같은 접미사다.",
+      "family": [
+        { "word": "refine", "pos": "v.", "ko": "정제하다; (안을) 다듬다" },
+        { "word": "refined", "pos": "a.", "ko": "정제된; (사람이) 세련된, 교양 있는 — 두 뜻이 갈린다" }
+      ]
+    },
+    {
+      "headword": "contrail",
+      "pos": "n.",
+      "ko": "비행운(비행기가 남기는 흰 구름 자국)",
+      "example_en": "Researchers say contrails may warm the planet as much as aircraft carbon does.",
+      "example_ko": "연구자들은 비행운이 항공기 탄소만큼이나 지구를 덥힐 수 있다고 말한다.",
+      "collocations": ["contrail formation", "avoid contrails"],
+      "note": "condensation(응결) + trail(자국)을 줄여 붙인 합성어 — 분해해 보면 '수증기가 응결해 남긴 자국'이라는 뜻이 그대로 보인다.",
+      "related": [
+        { "word": "trail", "ko": "자국, 흔적", "note": "trail은 뒤에 남는 자국 — paper trail(서류로 남은 흔적)처럼 비유로도 자주 쓴다" }
+      ]
+    },
+    {
+      "headword": "uptake",
+      "pos": "n.",
+      "ko": "(제도·기술의) 도입률, 수용",
+      "example_en": "Uptake of the subsidy has been slow among small firms.",
+      "example_ko": "그 보조금의 이용률은 소규모 기업들 사이에서 저조했다.",
+      "collocations": ["slow uptake", "rapid uptake", "uptake rate"],
+      "note": "동사구 take up(받아들이다)이 뒤집혀 명사가 된 형태다. break out → outbreak, set off → offset처럼 영어는 동사구를 이렇게 명사로 굳히는 일이 많다.",
+      "related": [
+        { "word": "adoption", "ko": "채택, 도입", "note": "adoption은 '채택했다'는 사실, uptake는 '얼마나 널리 받아들여졌나'라는 비율 쪽에 무게가 있다" }
+      ]
+    },
+    {
+      "headword": "long-haul",
+      "pos": "a.",
+      "ko": "장거리의(운송·비행)",
+      "example_en": "Long-haul routes account for most of the airline's emissions.",
+      "example_ko": "장거리 노선이 그 항공사 배출량의 대부분을 차지한다.",
+      "collocations": ["long-haul flight", "long-haul route"],
+      "note": "haul은 '무거운 것을 끌고 가다, 그 운반 거리'라서 short-haul(단거리의)과 짝을 이룬다. in the long haul은 '장기적으로'(= in the long run)라는 숙어다.",
+      "family": [
+        { "word": "haul", "pos": "v./n.", "ko": "끌고 가다; 운반 거리, 노획물" },
+        { "word": "short-haul", "pos": "a.", "ko": "단거리의" }
+      ]
+    },
+    {
+      "headword": "discreet",
+      "pos": "a.",
+      "ko": "신중한, 입이 무거운",
+      "example_en": "The bank made discreet inquiries before approaching the seller.",
+      "example_ko": "그 은행은 매도자에게 접촉하기 전에 조용히 탐문했다.",
+      "collocations": ["discreet inquiry", "be discreet about"],
+      "note": "discrete(별개의)와 발음이 똑같고 철자만 다르다 — ee가 나란히 '붙어 있는' discreet가 '입을 다무는' 쪽이라고 묶어 외운다.",
+      "related": [
+        { "word": "discrete", "ko": "별개의, 분리된", "note": "discrete data(이산 자료)처럼 '따로따로 떨어진'의 뜻 — 신중함과는 전혀 상관없다" }
+      ]
+    },
+    {
+      "headword": "eminent",
+      "pos": "a.",
+      "ko": "저명한, 탁월한",
+      "example_en": "An eminent economist was appointed to chair the inquiry.",
+      "example_ko": "저명한 경제학자가 그 조사를 이끌 위원장으로 임명되었다.",
+      "collocations": ["eminent scholar", "eminently suitable"],
+      "note": "e-(밖으로) + min(솟다) — 밖으로 솟아 눈에 띄는 사람. prominent(두드러진)와 같은 min 뿌리다.",
+      "related": [
+        { "word": "imminent", "ko": "임박한", "note": "철자 한 끗 차이지만 in-(위로 닥쳐오는) — '뛰어난'이 아니라 '곧 닥칠'이다" }
+      ]
+    },
+    {
+      "headword": "expedient",
+      "pos": "n./a.",
+      "ko": "편법, 임시방편; 편의적인",
+      "example_en": "Freezing fares was a political expedient, not a solution.",
+      "example_ko": "요금 동결은 해결책이 아니라 정치적 편법이었다.",
+      "collocations": ["political expedient", "short-term expedient"],
+      "note": "expedite(신속히 처리하다)와 뿌리는 같지만 뜻이 갈라져, '옳아서가 아니라 당장 편해서 택한다'는 부정적 뉘앙스를 품는다.",
+      "related": [
+        { "word": "expedite", "ko": "신속히 처리하다", "note": "expedite는 중립적으로 '빨리 진행시키다' — expedient의 '편법' 뉘앙스가 없다" }
+      ]
+    },
+    {
+      "headword": "conducive",
+      "pos": "a.",
+      "ko": "~에 도움이 되는, ~를 이끌어 내는",
+      "example_en": "Stable rules are conducive to long-term investment.",
+      "example_ko": "안정적인 규칙은 장기 투자에 도움이 된다.",
+      "collocations": ["be conducive to growth", "conducive to learning"],
+      "note": "반드시 conducive to + 명사(동명사) 형태로 쓴다 — 여기서 to는 to부정사가 아니므로 뒤에 동사원형을 쓰면 틀린다. con-+duct(이끌다)라 '어떤 결과로 이끌어 주는'이다.",
+      "family": [
+        { "word": "conduct", "pos": "v./n.", "ko": "수행하다; 처신, 행위" },
+        { "word": "induce", "pos": "v.", "ko": "유도하다 — 같은 duc(이끌다) 뿌리" }
+      ]
+    },
+    {
+      "headword": "cumbersome",
+      "pos": "a.",
+      "ko": "번거로운, 다루기 힘든",
+      "example_en": "Exporters complain that the new customs procedure is cumbersome.",
+      "example_ko": "수출업체들은 새 통관 절차가 번거롭다고 불평한다.",
+      "collocations": ["cumbersome procedure", "cumbersome paperwork"],
+      "note": "encumber(짐을 지워 방해하다)와 한 뿌리라 '무거워서 성가시다'는 감각이 깔려 있다. 시사문에서는 절차·서류·규정에 붙어 쓰이는 일이 압도적으로 많다.",
+      "family": [
+        { "word": "encumber", "pos": "v.", "ko": "부담을 지우다, 방해하다" }
+      ]
+    },
+    {
+      "headword": "pragmatic",
+      "pos": "a.",
+      "ko": "실용적인, 실리를 따지는",
+      "example_en": "The minister took a pragmatic view and settled for a partial deal.",
+      "example_ko": "그 장관은 실리적인 입장을 취해 부분 합의로 마무리했다.",
+      "collocations": ["pragmatic approach", "pragmatic solution"],
+      "note": "그리스어 pragma(행동·실제 일)에서 왔다 — 명분·이상(idealistic)의 반대편에서 '되는 쪽'을 택한다는 뜻. 정치 기사의 단골 형용사다.",
+      "family": [
+        { "word": "pragmatism", "pos": "n.", "ko": "실용주의" },
+        { "word": "pragmatically", "pos": "ad.", "ko": "실용적으로" }
+      ]
+    },
+    {
+      "headword": "envisage",
+      "pos": "v.",
+      "ko": "구상하다, (앞일을) 그리다",
+      "example_en": "The plan envisages a full phase-out by the end of the decade.",
+      "example_ko": "그 계획은 10년 안에 완전한 단계적 폐지를 구상하고 있다.",
+      "collocations": ["envisage a scenario", "the plan envisages"],
+      "note": "en-(안에) + visage(얼굴·모습) — 머릿속에 모습을 그려 넣는다는 뜻. 미국식 envision과 사실상 같은 말이고, 정책 문서·영국 언론에서 envisage가 더 잦다.",
+      "related": [
+        { "word": "envision", "ko": "구상하다", "note": "뜻은 거의 같고 미국식 문어에서 선호된다 — 교체해 써도 무방하다" }
+      ]
+    },
+    {
+      "headword": "attest",
+      "pos": "v.",
+      "ko": "입증하다, 증언하다",
+      "example_en": "The long queues attest to the scheme's popularity.",
+      "example_ko": "긴 줄이 그 제도의 인기를 말해 준다.",
+      "collocations": ["attest to the fact", "as the figures attest"],
+      "note": "'~을 말해 준다'는 뜻으로 쓸 때는 attest to + 명사 꼴이 압도적이다(타동사로 바로 쓰면 '공증하다' 쪽). test(증언)의 뿌리라 testify·testimony와 한 가족이다.",
+      "family": [
+        { "word": "testify", "pos": "v.", "ko": "증언하다" },
+        { "word": "testimony", "pos": "n.", "ko": "증언, 증거" }
+      ]
+    },
+    {
+      "headword": "inaugurate",
+      "pos": "v.",
+      "ko": "취임시키다; (제도·사업을) 개시하다",
+      "example_en": "The city inaugurated a new commuter line after years of delay.",
+      "example_ko": "그 도시는 수년간의 지연 끝에 새 통근 노선을 개통했다.",
+      "collocations": ["inaugurate a service", "be inaugurated as president"],
+      "note": "'취임식'으로만 외우면 절반을 놓친다 — 노선·제도·사업의 '개시'에도 그대로 쓴다. 뒤에 사람이 오면 취임, 사물이 오면 개시로 읽으면 된다.",
+      "family": [
+        { "word": "inauguration", "pos": "n.", "ko": "취임(식); 개시" },
+        { "word": "inaugural", "pos": "a.", "ko": "취임의; 첫 번째의 — inaugural flight는 취항 첫 비행" }
+      ]
+    }
+  ]
+}
