@@ -2250,6 +2250,51 @@
     },
     "pragmatic": {
       "added_on": "2026-09-13"
+    },
+    "traverse": {
+      "added_on": "2026-09-14"
+    },
+    "altitude": {
+      "added_on": "2026-09-14"
+    },
+    "payload": {
+      "added_on": "2026-09-14"
+    },
+    "deorbit": {
+      "added_on": "2026-09-14"
+    },
+    "telemetry": {
+      "added_on": "2026-09-14"
+    },
+    "shrapnel": {
+      "added_on": "2026-09-14"
+    },
+    "swarm": {
+      "added_on": "2026-09-14"
+    },
+    "glare": {
+      "added_on": "2026-09-14"
+    },
+    "streak": {
+      "added_on": "2026-09-14"
+    },
+    "astronomical": {
+      "added_on": "2026-09-14"
+    },
+    "impair": {
+      "added_on": "2026-09-14"
+    },
+    "aloft": {
+      "added_on": "2026-09-14"
+    },
+    "cede": {
+      "added_on": "2026-09-14"
+    },
+    "inexorable": {
+      "added_on": "2026-09-14"
+    },
+    "delineate": {
+      "added_on": "2026-09-14"
     }
   }
 }

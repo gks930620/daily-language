@@ -1,0 +1,346 @@
+{
+  "date": "2026-09-14",
+  "words": [
+    {
+      "headword": "traverse",
+      "pos": "v.",
+      "ko": "가로지르다, 횡단하다",
+      "example_en": "The new freight line traverses three provinces before reaching the port.",
+      "example_ko": "새 화물 노선은 항구에 닿기 전에 세 개 주를 가로지른다.",
+      "collocations": [
+        "traverse the region",
+        "traverse a distance"
+      ],
+      "note": "trans-(가로질러) + vers-(돌다·향하다). reverse(방향을 되돌리다)·convert(방향을 바꾸다)·versatile(이리저리 돌릴 수 있는=다재다능한)과 같은 vers 뿌리라 '몸을 돌려 건너간다'는 그림으로 묶어 외운다.",
+      "family": [
+        {
+          "word": "traversal",
+          "pos": "n.",
+          "ko": "횡단, 통과"
+        }
+      ],
+      "related": [
+        {
+          "word": "reverse",
+          "ko": "뒤집다, 되돌리다",
+          "note": "같은 vers 뿌리지만 traverse는 '가로질러 가다', reverse는 '방향을 반대로'다"
+        }
+      ]
+    },
+    {
+      "headword": "altitude",
+      "pos": "n.",
+      "ko": "고도, 해발 높이",
+      "example_en": "The aircraft leveled off at an altitude of thirty thousand feet.",
+      "example_ko": "항공기는 고도 3만 피트에서 수평 비행에 들어갔다.",
+      "collocations": [
+        "at an altitude of",
+        "high altitude",
+        "gain altitude"
+      ],
+      "note": "alt-(높은: altitude, alto, exalt)에서 왔다. 시험에서는 철자가 한 글자만 다른 attitude(태도)와 자주 뒤바뀌니 'alt=높이, att=태도'로 갈라서 붙잡아 둔다.",
+      "related": [
+        {
+          "word": "attitude",
+          "ko": "태도",
+          "note": "철자가 거의 같지만 뜻은 무관 — altitude(고도)와 헷갈리는 대표 짝"
+        },
+        {
+          "word": "latitude",
+          "ko": "위도; 재량의 폭",
+          "note": "lat-(넓은) 뿌리라 '옆으로 퍼진 폭'. give someone latitude = 재량을 주다"
+        }
+      ]
+    },
+    {
+      "headword": "payload",
+      "pos": "n.",
+      "ko": "탑재체, 유상 적재물",
+      "example_en": "The rocket can carry a payload of up to twenty tons into orbit.",
+      "example_ko": "그 로켓은 최대 20톤의 탑재체를 궤도에 올릴 수 있다.",
+      "collocations": [
+        "payload capacity",
+        "carry a payload"
+      ],
+      "note": "pay(돈이 되는) + load(짐) — 원래 화물 운송에서 '운임을 벌어 주는 짐'이라는 뜻이었다. 그래서 연료·기체 무게는 payload에 들어가지 않는다는 점이 핵심.",
+      "related": [
+        {
+          "word": "cargo",
+          "ko": "화물",
+          "note": "cargo는 실린 화물 전체, payload는 그중 '돈을 받고 싣는 몫'이라는 계산 개념"
+        }
+      ]
+    },
+    {
+      "headword": "deorbit",
+      "pos": "v.",
+      "ko": "궤도에서 이탈시키다, 궤도를 벗어나다",
+      "example_en": "The agency plans to deorbit the aging station over the Pacific.",
+      "example_ko": "그 기관은 노후한 정거장을 태평양 상공에서 궤도 이탈시킬 계획이다.",
+      "collocations": [
+        "deorbit a satellite",
+        "controlled deorbit"
+      ],
+      "note": "de-는 '아래로·제거'를 뜻해(deforest 삼림을 없애다, dethrone 왕좌에서 끌어내리다) 명사 앞에 붙으면 '그것에서 떼어 내다'가 된다. de- + orbit = 궤도에서 내린다.",
+      "family": [
+        {
+          "word": "orbit",
+          "pos": "n./v.",
+          "ko": "궤도; 궤도를 돌다"
+        },
+        {
+          "word": "orbital",
+          "pos": "a.",
+          "ko": "궤도의"
+        }
+      ]
+    },
+    {
+      "headword": "telemetry",
+      "pos": "n.",
+      "ko": "원격 측정(자료)",
+      "example_en": "Engineers lost telemetry from the probe minutes after separation.",
+      "example_ko": "기술진은 분리 몇 분 뒤 탐사선의 원격 측정 신호를 잃었다.",
+      "collocations": [
+        "telemetry data",
+        "lose telemetry"
+      ],
+      "note": "tele-(멀리: telephone, telescope, television) + -metry(측정: geometry 땅 재기, symmetry 같이 재기). '멀리서 재서 보내오는 값'으로 풀면 뜻이 바로 선다.",
+      "family": [
+        {
+          "word": "telemeter",
+          "pos": "n.",
+          "ko": "원격 측정기"
+        }
+      ]
+    },
+    {
+      "headword": "shrapnel",
+      "pos": "n.",
+      "ko": "(폭발로 튄) 파편",
+      "example_en": "Shrapnel from the explosion damaged several parked vehicles.",
+      "example_ko": "폭발로 튄 파편이 주차된 차량 여러 대를 손상시켰다.",
+      "collocations": [
+        "shrapnel wounds",
+        "flying shrapnel"
+      ],
+      "note": "19세기 영국 장교 Henry Shrapnel의 이름에서 온 말이다. 사람 이름이 굳어진 불가산명사라 a shrapnel·shrapnels로 쓰지 않고 늘 단수 취급한다.",
+      "related": [
+        {
+          "word": "debris",
+          "ko": "잔해",
+          "note": "둘 다 불가산 — debris는 무너진 뒤 남은 잔해 전반, shrapnel은 폭발로 '날아간' 금속 파편"
+        }
+      ]
+    },
+    {
+      "headword": "swarm",
+      "pos": "n./v.",
+      "ko": "떼, 무리; 떼 지어 몰려들다",
+      "example_en": "A swarm of small drones now does the work that a single helicopter once did.",
+      "example_ko": "예전에 헬리콥터 한 대가 하던 일을 이제는 소형 드론 떼가 한다.",
+      "collocations": [
+        "a swarm of",
+        "swarm into"
+      ],
+      "note": "본래 벌·곤충의 '떼'라서 '작은 개체가 무수히 몰려 있다'는 어감이 남아 있다. 그래서 드론·위성·관광객처럼 수가 압도적일 때 쓰고, 큰 개체 몇 마리에는 쓰지 않는다.",
+      "related": [
+        {
+          "word": "herd",
+          "ko": "(소·양의) 무리",
+          "note": "herd는 덩치 큰 가축 떼, swarm은 작은 것들이 들끓는 떼로 어감이 갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "glare",
+      "pos": "n./v.",
+      "ko": "눈부신 빛; 노려보다",
+      "example_en": "Drivers complained about the glare from the new streetlights.",
+      "example_ko": "운전자들은 새 가로등의 눈부신 빛에 불만을 제기했다.",
+      "collocations": [
+        "reduce glare",
+        "the glare of publicity"
+      ],
+      "note": "'쏘아보는 강한 시선'이라는 한 이미지에서 '눈부신 빛'과 '노려보다'가 갈라져 나왔다. 비유로 the glare of publicity(세간의 따가운 조명)처럼 '피할 수 없는 주목'을 뜻하기도 한다.",
+      "related": [
+        {
+          "word": "glimpse",
+          "ko": "힐끗 봄",
+          "note": "gl- 시각 어휘 묶음(glare 쏘아보다, glimpse 힐끗, glance 흘긋) — 보는 강도가 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "streak",
+      "pos": "n./v.",
+      "ko": "줄, 줄무늬; 줄을 긋다; (연승 등의) 연속",
+      "example_en": "The company ended a five-quarter streak of falling sales.",
+      "example_ko": "그 회사는 5개 분기 연속 매출 감소 행진을 끊었다.",
+      "collocations": [
+        "a winning streak",
+        "a losing streak",
+        "streak across the sky"
+      ],
+      "note": "하늘·유리에 길게 남는 '줄'이 시간축으로 옮겨 가 '끊기지 않은 연속'(a winning streak 연승)이 되었다. 신문에서는 이 비유 쪽 용법이 훨씬 자주 나온다.",
+      "related": [
+        {
+          "word": "stripe",
+          "ko": "줄무늬",
+          "note": "stripe는 옷·깃발처럼 일부러 낸 규칙적 줄, streak는 얼룩처럼 우연히 길게 그어진 줄"
+        }
+      ]
+    },
+    {
+      "headword": "astronomical",
+      "pos": "a.",
+      "ko": "천문학의; (수·양이) 천문학적인",
+      "example_en": "Rebuilding the plant would carry an astronomical price tag.",
+      "example_ko": "그 공장을 다시 짓는 데는 천문학적인 비용이 들 것이다.",
+      "collocations": [
+        "astronomical costs",
+        "astronomical sums"
+      ],
+      "note": "astro-(별) + nom-(법칙: economy 집안의 법칙, autonomy 스스로의 법칙). 정작 일상에서는 '별의'보다 '터무니없이 큰'이라는 과장 용법으로 훨씬 자주 쓴다.",
+      "family": [
+        {
+          "word": "astronomy",
+          "pos": "n.",
+          "ko": "천문학"
+        },
+        {
+          "word": "astronomer",
+          "pos": "n.",
+          "ko": "천문학자"
+        },
+        {
+          "word": "astronaut",
+          "pos": "n.",
+          "ko": "우주 비행사 — astro(별) + naut(항해자)"
+        }
+      ]
+    },
+    {
+      "headword": "impair",
+      "pos": "v.",
+      "ko": "손상시키다, (기능을) 약화시키다",
+      "example_en": "Chronic understaffing has impaired the agency's ability to respond.",
+      "example_ko": "만성적인 인력 부족이 그 기관의 대응 능력을 약화시켰다.",
+      "collocations": [
+        "impair judgment",
+        "impair performance"
+      ],
+      "note": "im-(안으로) + pair(라틴어 peior '더 나쁜') = '더 나쁘게 만들다'. 반대로 re-pair는 '다시 짝을 맞춰 고치다'로 어원이 정반대이니 한 쌍으로 외운다. 능력·기능이 깎이는 데 쓰고 물건이 부서질 때는 잘 쓰지 않는다.",
+      "family": [
+        {
+          "word": "impairment",
+          "pos": "n.",
+          "ko": "손상, 장애"
+        },
+        {
+          "word": "impaired",
+          "pos": "a.",
+          "ko": "손상된 — visually impaired 시각이 손상된"
+        }
+      ]
+    },
+    {
+      "headword": "aloft",
+      "pos": "ad.",
+      "ko": "공중에, 상공에, 위로",
+      "example_en": "The balloon stayed aloft for nearly two days before it was recovered.",
+      "example_ko": "그 기구는 회수되기 전까지 이틀 가까이 공중에 떠 있었다.",
+      "collocations": [
+        "stay aloft",
+        "hold aloft"
+      ],
+      "note": "a-(~에) + loft(높은 곳·다락). abroad(널리)·aboard(배에)·ashore(물가에)처럼 'a- + 명사' 꼴은 부사로만 쓰므로 명사 앞에 형용사처럼 붙이지 않는다(an aloft balloon ✗).",
+      "related": [
+        {
+          "word": "loft",
+          "ko": "다락, 위층 공간",
+          "note": "aloft의 뿌리 — '높은 곳'이라는 뜻이 그대로 남아 있다"
+        }
+      ]
+    },
+    {
+      "headword": "cede",
+      "pos": "v.",
+      "ko": "(영토·권리를) 양도하다, 내주다",
+      "example_en": "The firm was forced to cede control of its overseas unit to creditors.",
+      "example_ko": "그 회사는 해외 사업부의 경영권을 채권단에 넘길 수밖에 없었다.",
+      "collocations": [
+        "cede control",
+        "cede territory",
+        "cede ground"
+      ],
+      "note": "ced-(가다·물러나다) 뿌리 — concede(함께 물러나다=인정하다), recede(뒤로 물러나다), precede(앞서 가다). '권리를 내주다'는 cede, '마지못해 인정하다'는 concede로 갈린다.",
+      "family": [
+        {
+          "word": "cession",
+          "pos": "n.",
+          "ko": "(영토·권리의) 양도 — session(회기)과 철자 혼동 주의"
+        },
+        {
+          "word": "concede",
+          "pos": "v.",
+          "ko": "인정하다; 양보하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "secede",
+          "ko": "탈퇴하다, 분리 독립하다",
+          "note": "se-(따로) + cede(가다) — 조직에서 '따로 떨어져 나가다'"
+        }
+      ]
+    },
+    {
+      "headword": "inexorable",
+      "pos": "a.",
+      "ko": "막을 수 없는, 냉혹한",
+      "example_en": "The inexorable rise in maintenance costs finally forced the plant to close.",
+      "example_ko": "막을 수 없는 유지비 상승이 결국 그 공장을 문 닫게 만들었다.",
+      "collocations": [
+        "inexorable rise",
+        "inexorable logic",
+        "inexorable decline"
+      ],
+      "note": "in-(부정) + exorare(간청해서 마음을 움직이다) = '아무리 빌어도 꺾이지 않는'. 그래서 사람보다 추세·법칙·논리처럼 사정을 봐주지 않는 흐름에 붙는다.",
+      "related": [
+        {
+          "word": "relentless",
+          "ko": "수그러들지 않는, 집요한",
+          "note": "relentless는 사람의 집요함에도 쓰지만 inexorable은 주로 비인격적 흐름에 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "delineate",
+      "pos": "v.",
+      "ko": "(경계를) 긋다, 명확히 규정하다",
+      "example_en": "The contract clearly delineates the responsibilities of each party.",
+      "example_ko": "그 계약서는 각 당사자의 책임을 명확히 규정하고 있다.",
+      "collocations": [
+        "clearly delineate",
+        "delineate boundaries",
+        "delineate roles"
+      ],
+      "note": "de- + line(선) = '선을 그어 내다'. 지도의 경계선 같은 물리적 구획과 역할·책임 같은 추상적 구분 양쪽에 쓴다.",
+      "family": [
+        {
+          "word": "delineation",
+          "pos": "n.",
+          "ko": "구획, 명확한 규정"
+        }
+      ],
+      "related": [
+        {
+          "word": "define",
+          "ko": "정의하다",
+          "note": "define은 '무엇인지'를 말해 주고, delineate는 '어디까지인지' 경계를 그어 준다"
+        }
+      ]
+    }
+  ]
+}
