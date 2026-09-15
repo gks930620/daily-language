@@ -2295,6 +2295,51 @@
     },
     "delineate": {
       "added_on": "2026-09-14"
+    },
+    "ledger": {
+      "added_on": "2026-09-16"
+    },
+    "unbanked": {
+      "added_on": "2026-09-16"
+    },
+    "disintermediation": {
+      "added_on": "2026-09-16"
+    },
+    "tender": {
+      "added_on": "2026-09-16"
+    },
+    "merchant": {
+      "added_on": "2026-09-16"
+    },
+    "deposit": {
+      "added_on": "2026-09-16"
+    },
+    "insolvent": {
+      "added_on": "2026-09-16"
+    },
+    "issuance": {
+      "added_on": "2026-09-16"
+    },
+    "denomination": {
+      "added_on": "2026-09-16"
+    },
+    "counterfeit": {
+      "added_on": "2026-09-16"
+    },
+    "hoard": {
+      "added_on": "2026-09-16"
+    },
+    "interoperable": {
+      "added_on": "2026-09-16"
+    },
+    "impetus": {
+      "added_on": "2026-09-16"
+    },
+    "inception": {
+      "added_on": "2026-09-16"
+    },
+    "outmoded": {
+      "added_on": "2026-09-16"
     }
   }
 }

@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-16",
+  "words": [
+    {
+      "headword": "ledger",
+      "pos": "n.",
+      "ko": "원장, 회계 장부",
+      "example_en": "Every payment must be recorded in the general ledger before the books are closed.",
+      "example_ko": "모든 지급은 장부 마감 전에 총계정원장에 기록되어야 한다.",
+      "collocations": [
+        "general ledger",
+        "distributed ledger",
+        "ledger entry"
+      ],
+      "note": "'(한자리에) 놓여 있는 책'이 어원 — 옮기지 않고 상점에 붙박이로 두던 장부다. 회계의 general ledger(총계정원장)가 기본 용례이고, 블록체인이 distributed ledger(분산원장)로 불리는 것도 같은 맥락이다.",
+      "related": [
+        {
+          "word": "ledge",
+          "ko": "선반, 바위 턱",
+          "note": "철자가 r 하나 차이 — ledge는 툭 튀어나온 '턱', ledger는 '장부'로 뜻이 전혀 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "unbanked",
+      "pos": "a.",
+      "ko": "은행 계좌가 없는",
+      "example_en": "Roughly a quarter of the region's adults remain unbanked and rely entirely on cash.",
+      "example_ko": "그 지역 성인의 약 4분의 1은 여전히 은행 계좌가 없어 전적으로 현금에 의존한다.",
+      "collocations": [
+        "the unbanked",
+        "unbanked households"
+      ],
+      "note": "명사 bank에 -ed를 붙여 '은행(계좌)을 가진'을 만들고 거기에 un-을 붙인 형태 — 이렇게 '명사 + -ed'는 '~을 갖춘'을 뜻한다(skilled, moneyed). the unbanked처럼 'the + 형용사'로 그 집단 전체를 가리키는 쓰임이 특히 많다.",
+      "family": [
+        {
+          "word": "underbanked",
+          "pos": "a.",
+          "ko": "계좌는 있으나 금융서비스 이용이 제한된"
+        },
+        {
+          "word": "banking",
+          "pos": "n.",
+          "ko": "은행업, 금융 거래"
+        }
+      ]
+    },
+    {
+      "headword": "disintermediation",
+      "pos": "n.",
+      "ko": "중개 배제, 탈중개화",
+      "example_en": "Online platforms have accelerated the disintermediation of traditional wholesalers.",
+      "example_ko": "온라인 플랫폼은 전통적인 도매상의 중개 배제를 가속화했다.",
+      "collocations": [
+        "financial disintermediation",
+        "risk of disintermediation"
+      ],
+      "note": "dis-(제거) + intermediary(중개자) + -ation(행위) = '중간 고리를 빼 버림'. 은행·도매상·중개인을 건너뛰는 현상을 가리키고, 중개가 다시 끼어들면 reintermediation이라고 한다 — 접두사만 바꿔 뜻을 뒤집는 전형적인 경제 용어다.",
+      "family": [
+        {
+          "word": "disintermediate",
+          "pos": "v.",
+          "ko": "중개 단계를 배제하다"
+        },
+        {
+          "word": "intermediary",
+          "pos": "n.",
+          "ko": "중개자, 중개 기관"
+        }
+      ]
+    },
+    {
+      "headword": "tender",
+      "pos": "n./v.",
+      "ko": "입찰(서); (공식적으로) 제출하다",
+      "example_en": "Three construction firms submitted a tender for the new terminal.",
+      "example_ko": "세 건설사가 신규 터미널 공사에 입찰서를 제출했다.",
+      "collocations": [
+        "submit a tender",
+        "tender one's resignation",
+        "legal tender"
+      ],
+      "note": "라틴 tendere(내밀다)에서 — '내미는 것'이 입찰서이고, '내밀다'가 tender one's resignation(사표를 제출하다)이다. 맛이 '부드럽다'는 tender와 철자만 같은 별개 낱말이니 문맥으로 가른다. legal tender는 '법정통화' — 받는 쪽이 거절할 수 없게 내밀 수 있는 돈.",
+      "related": [
+        {
+          "word": "bid",
+          "ko": "입찰(하다)",
+          "note": "같은 '입찰'이라도 영국식 공공조달 문서에서는 tender, 미국식에서는 bid를 더 자주 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "merchant",
+      "pos": "n.",
+      "ko": "상인; (카드) 가맹점",
+      "example_en": "The card network lowered the fees it charges merchants on small transactions.",
+      "example_ko": "그 카드사는 소액 거래에서 가맹점에 물리는 수수료를 낮췄다.",
+      "collocations": [
+        "merchant fees",
+        "merchant vessel",
+        "wine merchant"
+      ],
+      "note": "라틴 merx(상품)가 뿌리 — market·merchandise·commerce가 모두 한 집안이다. 명사 앞에 붙으면 '상업의'라는 형용사처럼 쓰여 merchant vessel은 '상선', merchant bank는 '투자·기업금융 은행'을 뜻한다.",
+      "family": [
+        {
+          "word": "merchandise",
+          "pos": "n.",
+          "ko": "상품"
+        },
+        {
+          "word": "merchandising",
+          "pos": "n.",
+          "ko": "상품 기획·판촉"
+        }
+      ]
+    },
+    {
+      "headword": "deposit",
+      "pos": "n./v.",
+      "ko": "예금, 보증금; 예치하다",
+      "example_en": "Tenants must pay a security deposit equal to two months' rent.",
+      "example_ko": "임차인은 두 달치 임대료에 해당하는 보증금을 내야 한다.",
+      "collocations": [
+        "security deposit",
+        "deposit account",
+        "make a deposit"
+      ],
+      "note": "de-(아래로) + posit(놓다) = '아래에 놓아 둔 것' — 여기서 예금·보증금·(광물) 매장층이 갈라져 나왔다. security deposit(보증금)은 나중에 돌려받는 돈이라, 돌려받지 않는 down payment(계약금)와 구분해야 한다.",
+      "family": [
+        {
+          "word": "depositor",
+          "pos": "n.",
+          "ko": "예금자"
+        },
+        {
+          "word": "deposition",
+          "pos": "n.",
+          "ko": "퇴적; (법정 밖) 증언 녹취 — '예금'의 뜻은 없다"
+        }
+      ],
+      "related": [
+        {
+          "word": "withdraw",
+          "ko": "인출하다, 철회하다",
+          "note": "deposit(넣다)의 정반대 동작 — 계좌 맥락에서 짝으로 외운다"
+        }
+      ]
+    },
+    {
+      "headword": "insolvent",
+      "pos": "a.",
+      "ko": "지급 불능의, 빚을 갚을 수 없는",
+      "example_en": "The lender was declared insolvent after its loan losses wiped out its capital.",
+      "example_ko": "그 대출기관은 대출 손실로 자본이 날아간 뒤 지급 불능 판정을 받았다.",
+      "collocations": [
+        "technically insolvent",
+        "declare a firm insolvent"
+      ],
+      "note": "sol-(풀다)에서 온 solvent의 반대말 — 빚을 '풀지' 못하는 상태다. insolvency는 돈을 못 갚는 '상태'이고 bankruptcy는 그 상태에서 밟는 법적 '파산 절차'라, 지급 불능이어도 파산 신청 전이면 bankrupt라고 하지 않는다.",
+      "family": [
+        {
+          "word": "insolvency",
+          "pos": "n.",
+          "ko": "지급 불능"
+        },
+        {
+          "word": "solvent",
+          "pos": "a.",
+          "ko": "지급 능력이 있는; (명사) 용매"
+        }
+      ]
+    },
+    {
+      "headword": "issuance",
+      "pos": "n.",
+      "ko": "발행, 발급",
+      "example_en": "The issuance of new bonds was delayed until borrowing costs eased.",
+      "example_ko": "신규 채권 발행은 차입 비용이 진정될 때까지 미뤄졌다.",
+      "collocations": [
+        "bond issuance",
+        "issuance of a permit",
+        "date of issuance"
+      ],
+      "note": "issue에 -ance(행위)가 붙어 '발행하는 행위'를 가리킨다 — 발행된 물건이 아니다. issue가 '쟁점'이나 '(잡지) 호'를 뜻할 때는 issuance를 쓰지 않는다는 점이 함정이다.",
+      "family": [
+        {
+          "word": "issue",
+          "pos": "v./n.",
+          "ko": "발행하다; 쟁점, 호"
+        },
+        {
+          "word": "reissue",
+          "pos": "v.",
+          "ko": "재발행하다"
+        }
+      ]
+    },
+    {
+      "headword": "denomination",
+      "pos": "n.",
+      "ko": "액면가; (종교) 교파",
+      "example_en": "The central bank will withdraw the largest denomination from circulation next year.",
+      "example_ko": "중앙은행은 내년에 최고 액면가 지폐를 유통에서 회수할 예정이다.",
+      "collocations": [
+        "small denominations",
+        "high-denomination note"
+      ],
+      "note": "de- + nomin-(이름) = '이름을 붙임' — 돈에 붙인 이름이 '액면가', 신앙 집단에 붙인 이름이 '교파'다. nominate(지명하다)·nominal(명목상의)·anonymous(익명의)가 같은 nomin- 계열이다.",
+      "related": [
+        {
+          "word": "nominal",
+          "ko": "명목상의; 아주 적은",
+          "note": "같은 nomin- 뿌리 — nominal value가 곧 액면가이고, 물가를 반영한 real value(실질 가치)와 짝을 이룬다"
+        }
+      ]
+    },
+    {
+      "headword": "counterfeit",
+      "pos": "v./a.",
+      "ko": "위조하다; 위조의",
+      "example_en": "Customs officers seized thousands of counterfeit handbags at the port.",
+      "example_ko": "세관 직원들이 항구에서 위조 핸드백 수천 개를 압수했다.",
+      "collocations": [
+        "counterfeit goods",
+        "counterfeit currency"
+      ],
+      "note": "counter-(반대로, 맞서) + feit(만들다 — fact·factory와 같은 뿌리) = '진짜에 맞서 만들어 낸 것'. forge와 뜻이 겹치지만 forge는 서명·문서 위조에, counterfeit는 화폐·상표 상품 위조에 붙는 것이 보통이다.",
+      "related": [
+        {
+          "word": "forge",
+          "ko": "위조하다; 쇠를 벼리다",
+          "note": "forge a signature(서명 위조)는 자연스럽지만 counterfeit a signature는 어색하다 — 대상이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "hoard",
+      "pos": "v./n.",
+      "ko": "사재기하다, 쟁여 두다",
+      "example_en": "Households began hoarding cash as rumors about the bank spread.",
+      "example_ko": "그 은행에 대한 소문이 퍼지자 가계는 현금을 쟁여 두기 시작했다.",
+      "collocations": [
+        "hoard cash",
+        "hoard supplies",
+        "stockpile and hoard"
+      ],
+      "note": "'불안해서 쌓아 둔다'는 뉘앙스가 핵심이라 중립적인 stockpile(비축하다)보다 부정적이다. 발음이 같은 horde(무리, 떼)와 헷갈리기 쉬우니 a horde of tourists(관광객 떼) / hoard cash(현금을 쟁이다)로 짝지어 기억한다.",
+      "related": [
+        {
+          "word": "horde",
+          "ko": "무리, 떼",
+          "note": "발음은 같고 철자는 a 하나 차이 — horde는 사람·동물의 떼이지 '쌓아 두기'가 아니다"
+        }
+      ]
+    },
+    {
+      "headword": "interoperable",
+      "pos": "a.",
+      "ko": "상호 운용이 되는",
+      "example_en": "The two hospital systems are not yet interoperable, so records must be re-entered by hand.",
+      "example_ko": "두 병원 시스템은 아직 상호 운용이 되지 않아 기록을 손으로 다시 입력해야 한다.",
+      "collocations": [
+        "fully interoperable",
+        "interoperable systems"
+      ],
+      "note": "inter-(서로) + operable(작동시킬 수 있는) — 서로 다른 시스템이 맞물려 돌아간다는 뜻. compatible이 '충돌하지 않는다'는 소극적 조건이라면 interoperable은 '실제로 함께 작동한다'는 더 강한 요구다.",
+      "family": [
+        {
+          "word": "interoperability",
+          "pos": "n.",
+          "ko": "상호 운용성"
+        },
+        {
+          "word": "operable",
+          "pos": "a.",
+          "ko": "작동 가능한; 수술이 가능한"
+        }
+      ]
+    },
+    {
+      "headword": "impetus",
+      "pos": "n.",
+      "ko": "추진력, 계기",
+      "example_en": "The scandal gave fresh impetus to calls for tighter oversight.",
+      "example_ko": "그 스캔들은 더 엄격한 감독을 요구하는 목소리에 새로운 추진력을 주었다.",
+      "collocations": [
+        "give impetus to",
+        "provide the impetus for",
+        "fresh impetus"
+      ],
+      "note": "im-(안으로) + pet-(돌진하다) — 물리학의 '가해진 힘'에서 '일을 밀고 나가게 하는 계기'로 옮겨 왔다. 같은 pet- 계열인 appetite(향해 달려드는 마음=식욕)·compete(함께 달리다=겨루다)·petition(청원)과 묶어 외우면 뜻이 붙는다.",
+      "family": [
+        {
+          "word": "impetuous",
+          "pos": "a.",
+          "ko": "성급한, 충동적인 — '추진력 있는'이 아니라 사람의 결점을 가리킨다"
+        }
+      ]
+    },
+    {
+      "headword": "inception",
+      "pos": "n.",
+      "ko": "시작, 개시, 창설",
+      "example_en": "The fund has returned eight percent a year since its inception.",
+      "example_ko": "그 펀드는 설정 이후 연 8퍼센트의 수익을 냈다.",
+      "collocations": [
+        "since its inception",
+        "from inception",
+        "at the inception of"
+      ],
+      "note": "in-(안으로) + cept(잡다) = '일을 처음 붙잡음'. 거의 언제나 since/from its inception(시작 이래로) 꼴로 나온다. 같은 cept 계열 accept(받아 잡다)·intercept(가로채다)·concept(붙잡아 둔 생각)과 한 묶음이다.",
+      "related": [
+        {
+          "word": "onset",
+          "ko": "(병·사태의) 시작",
+          "note": "inception은 회사·제도의 '창설 시점'에, onset은 질병·겨울처럼 달갑지 않은 것의 '개시'에 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "outmoded",
+      "pos": "a.",
+      "ko": "시대에 뒤떨어진, 구식의",
+      "example_en": "The agency still relies on outmoded paper forms that slow every application.",
+      "example_ko": "그 기관은 모든 신청을 더디게 만드는 구식 종이 서식에 여전히 의존한다.",
+      "collocations": [
+        "outmoded practices",
+        "outmoded equipment"
+      ],
+      "note": "out of mode(유행에서 벗어난)가 굳은 말 — mode는 '방식·유행'이다. obsolete가 부품·기술이 '더는 쓰이지 않는' 쪽이라면, outmoded는 제도·사고방식이 '낡아 어울리지 않는' 쪽에 잘 붙는다.",
+      "related": [
+        {
+          "word": "obsolete",
+          "ko": "한물간, 쓸모없어진",
+          "note": "obsolete는 대체품이 나와 쓰임이 끝났다는 사실 판단, outmoded는 낡았다는 가치 판단에 가깝다"
+        }
+      ]
+    }
+  ]
+}

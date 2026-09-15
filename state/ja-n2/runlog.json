@@ -403,7 +403,11 @@
       "settled_at": "2026-09-13T20:48:04.392Z",
       "content_sha256": "a3da61a728d6de09392ca48e5e7fa2c8fedb32ee238fefe449c2ac4c16e71470",
       "notes": [],
-      "built_at": "2026-09-13T20:48:04.555Z"
+      "built_at": "2026-09-15T21:03:22.022Z"
+    },
+    "2026-09-16": {
+      "prepared_at": "2026-09-15T20:57:49.331Z",
+      "settled": false
     }
   }
 }
