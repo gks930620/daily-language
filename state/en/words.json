@@ -2340,6 +2340,51 @@
     },
     "outmoded": {
       "added_on": "2026-09-16"
+    },
+    "antimicrobial": {
+      "added_on": "2026-09-17"
+    },
+    "dispense": {
+      "added_on": "2026-09-17"
+    },
+    "therapeutic": {
+      "added_on": "2026-09-17"
+    },
+    "dosage": {
+      "added_on": "2026-09-17"
+    },
+    "virulent": {
+      "added_on": "2026-09-17"
+    },
+    "contagion": {
+      "added_on": "2026-09-17"
+    },
+    "outbreak": {
+      "added_on": "2026-09-17"
+    },
+    "eradicate": {
+      "added_on": "2026-09-17"
+    },
+    "mutation": {
+      "added_on": "2026-09-17"
+    },
+    "commodity": {
+      "added_on": "2026-09-17"
+    },
+    "bankruptcy": {
+      "added_on": "2026-09-17"
+    },
+    "subscription": {
+      "added_on": "2026-09-17"
+    },
+    "hinder": {
+      "added_on": "2026-09-17"
+    },
+    "unravel": {
+      "added_on": "2026-09-17"
+    },
+    "spearhead": {
+      "added_on": "2026-09-17"
     }
   }
 }

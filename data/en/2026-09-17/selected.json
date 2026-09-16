@@ -1,0 +1,350 @@
+{
+  "date": "2026-09-17",
+  "words": [
+    {
+      "headword": "antimicrobial",
+      "pos": "a.",
+      "ko": "항균의; 항균제",
+      "example_en": "Hospitals have tightened antimicrobial use to slow the spread of resistant bacteria.",
+      "example_ko": "병원들은 내성균의 확산을 늦추기 위해 항균제 사용을 엄격히 제한해 왔다.",
+      "collocations": [
+        "antimicrobial resistance",
+        "antimicrobial use"
+      ],
+      "note": "anti-(대항) + micro(작은) + -bial(bio, 생명) = '미생물에 맞서는'. antibiotic이 세균에만 쓰는 좁은 말이라면 antimicrobial은 바이러스·곰팡이까지 포함하는 상위어라, 기사에서 AMR(antimicrobial resistance)이라는 약어로 자주 나온다.",
+      "family": [
+        {
+          "word": "microbe",
+          "pos": "n.",
+          "ko": "미생물"
+        },
+        {
+          "word": "microbial",
+          "pos": "a.",
+          "ko": "미생물의"
+        }
+      ]
+    },
+    {
+      "headword": "dispense",
+      "pos": "v.",
+      "ko": "(약을) 조제해 내주다, 나눠 주다",
+      "example_en": "The pharmacy may dispense the drug only with a valid prescription.",
+      "example_ko": "그 약국은 유효한 처방전이 있어야만 그 약을 조제해 줄 수 있다.",
+      "collocations": [
+        "dispense medication",
+        "dispense advice"
+      ],
+      "note": "dis-(따로) + pens-(무게를 달다) — 약사가 저울로 약을 달아 나눠 주던 데서 왔다. pension·compensate·expense가 같은 '달다' 뿌리(돈을 달아 주는 것). 숙어 dispense with는 '~없이 지내다, 생략하다'로 뜻이 완전히 달라지니 with가 붙는지 먼저 확인할 것.",
+      "family": [
+        {
+          "word": "dispensary",
+          "pos": "n.",
+          "ko": "조제실, 무료 진료소"
+        }
+      ],
+      "related": [
+        {
+          "word": "dispense with",
+          "ko": "~없이 지내다",
+          "note": "같은 동사인데 with 하나로 '나눠 주다'가 '빼 버리다'가 된다 — dispense with formalities(격식을 생략하다)"
+        }
+      ]
+    },
+    {
+      "headword": "therapeutic",
+      "pos": "a.",
+      "ko": "치료의, 치료 효과가 있는",
+      "example_en": "The trial failed to show any therapeutic benefit over the existing treatment.",
+      "example_ko": "그 임상시험은 기존 치료법보다 나은 어떤 치료 효과도 보여 주지 못했다.",
+      "collocations": [
+        "therapeutic effect",
+        "therapeutic benefit"
+      ],
+      "note": "그리스어 therapeuein(돌보다)에서 왔다. 의학 밖에서도 '마음을 치유해 주는'(gardening is therapeutic)으로 널리 쓰는데, 이때는 '치료제'가 아니라 '기분이 낫게 해 주는' 정도의 가벼운 뜻이다.",
+      "family": [
+        {
+          "word": "therapy",
+          "pos": "n.",
+          "ko": "치료, 요법"
+        },
+        {
+          "word": "therapist",
+          "pos": "n.",
+          "ko": "치료사"
+        }
+      ]
+    },
+    {
+      "headword": "dosage",
+      "pos": "n.",
+      "ko": "용량, 복용법",
+      "example_en": "Patients who skip doses or lower the dosage on their own help resistance emerge.",
+      "example_ko": "복용을 거르거나 임의로 용량을 낮추는 환자들이 내성이 생기게 만든다.",
+      "collocations": [
+        "recommended dosage",
+        "adjust the dosage"
+      ],
+      "note": "dose는 '1회분'이라는 낱개, dosage는 '얼마를 얼마 간격으로'라는 용법 체계다 — dose·dosage·overdose(과다복용)를 한 세트로 묶어 외우면 셋이 헷갈리지 않는다. 어원은 그리스어 dosis '주어진 것'.",
+      "family": [
+        {
+          "word": "dose",
+          "pos": "n.",
+          "ko": "1회 복용량"
+        },
+        {
+          "word": "overdose",
+          "pos": "n.",
+          "ko": "과다복용"
+        }
+      ]
+    },
+    {
+      "headword": "virulent",
+      "pos": "a.",
+      "ko": "독성이 강한; (비난이) 맹렬한",
+      "example_en": "A more virulent strain of the virus emerged in the second wave.",
+      "example_ko": "2차 유행에서 더 독성이 강한 바이러스 변종이 나타났다.",
+      "collocations": [
+        "a virulent strain",
+        "virulent criticism"
+      ],
+      "note": "라틴어 virus(독)에서 왔다 — 우리가 아는 virus와 한 뿌리다. 병원체에는 '치명적인', 말·비난에는 '독설의'로 옮기면 두 용법이 한 단어로 이어진다.",
+      "family": [
+        {
+          "word": "virulence",
+          "pos": "n.",
+          "ko": "독성, 맹렬함"
+        }
+      ],
+      "related": [
+        {
+          "word": "violent",
+          "ko": "폭력적인",
+          "note": "철자가 비슷해 시험에서 잘 바꿔 놓지만 뿌리가 다르다 — violent는 '힘(vis)', virulent는 '독(virus)'"
+        }
+      ]
+    },
+    {
+      "headword": "contagion",
+      "pos": "n.",
+      "ko": "전염; (위기의) 전이",
+      "example_en": "Regulators moved quickly to prevent contagion from spreading to other banks.",
+      "example_ko": "규제 당국은 위기가 다른 은행들로 전이되는 것을 막기 위해 신속히 움직였다.",
+      "collocations": [
+        "financial contagion",
+        "risk of contagion"
+      ],
+      "note": "con-(함께) + tag-(닿다) = '닿아서 옮는 것'. contact·contiguous와 같은 뿌리라 '접촉'이 핵심 이미지다. 그래서 경제 기사에서 한 나라·한 은행의 위기가 옆으로 번지는 것을 contagion이라 부른다.",
+      "family": [
+        {
+          "word": "contagious",
+          "pos": "a.",
+          "ko": "전염성의"
+        }
+      ],
+      "related": [
+        {
+          "word": "infection",
+          "ko": "감염",
+          "note": "infection은 병원체가 몸에 들어온 상태 자체, contagion은 그것이 남에게 '옮아 가는' 성질·과정을 강조한다"
+        }
+      ]
+    },
+    {
+      "headword": "outbreak",
+      "pos": "n.",
+      "ko": "(질병·전쟁의) 발생, 창궐",
+      "example_en": "The outbreak was traced to a single hospital ward within a week.",
+      "example_ko": "그 집단 발병은 일주일 만에 병원의 한 병동으로 추적되었다.",
+      "collocations": [
+        "an outbreak of cholera",
+        "contain an outbreak"
+      ],
+      "note": "동사구 break out(갑자기 터져 나오다)을 뒤집어 만든 명사 — outburst·outcome·outlook과 같은 조어 패턴이다. 전쟁·전염병·화재처럼 나쁜 일에만 쓰고 좋은 일에는 쓰지 않는다.",
+      "related": [
+        {
+          "word": "breakout",
+          "ko": "탈출; 돌파",
+          "note": "같은 두 요소를 순서만 바꿨는데 뜻이 다르다 — a prison breakout(탈옥), an outbreak of flu(독감 창궐)"
+        }
+      ]
+    },
+    {
+      "headword": "eradicate",
+      "pos": "v.",
+      "ko": "뿌리 뽑다, 근절하다",
+      "example_en": "Smallpox remains the only human disease that vaccination has eradicated worldwide.",
+      "example_ko": "천연두는 백신 접종으로 전 세계에서 근절한 유일한 인간 질병으로 남아 있다.",
+      "collocations": [
+        "eradicate poverty",
+        "eradicate a disease"
+      ],
+      "note": "e-(밖으로) + radic-(뿌리) = 뿌리째 뽑아내다. radish(무)·radical(근본적인)이 같은 뿌리다. '줄이다(reduce)'가 아니라 '하나도 남기지 않고 없애다'라서 disease·poverty·corruption 같은 큰 대상에 붙는다.",
+      "family": [
+        {
+          "word": "eradication",
+          "pos": "n.",
+          "ko": "근절, 박멸"
+        }
+      ]
+    },
+    {
+      "headword": "mutation",
+      "pos": "n.",
+      "ko": "돌연변이, 변이",
+      "example_en": "A single mutation can render an entire class of antibiotics useless.",
+      "example_ko": "단 하나의 변이가 항생제 계열 전체를 무용지물로 만들 수 있다.",
+      "collocations": [
+        "a genetic mutation",
+        "undergo a mutation"
+      ],
+      "note": "mut-(바꾸다) 뿌리 — mutual(서로 맞바꾸는)·commute(길을 바꿔 오가다=통근하다)가 한 집안이다. 세균이 mutation으로 약을 피해 가는 것이 내성의 출발점이라 보건 기사에서 resistance와 짝으로 나온다.",
+      "family": [
+        {
+          "word": "mutate",
+          "pos": "v.",
+          "ko": "변이하다"
+        },
+        {
+          "word": "mutant",
+          "pos": "n.",
+          "ko": "변이체, 돌연변이체"
+        }
+      ]
+    },
+    {
+      "headword": "commodity",
+      "pos": "n.",
+      "ko": "원자재, 일용품; 값으로만 경쟁하는 범용품",
+      "example_en": "Once a product becomes a commodity, manufacturers can compete only on price.",
+      "example_ko": "제품이 일단 범용품이 되면 제조사들은 가격으로만 경쟁할 수 있다.",
+      "collocations": [
+        "commodity prices",
+        "a commodity market"
+      ],
+      "note": "라틴어 commodus(알맞은, 편리한)에서 '편의품' → '사고파는 물건'으로 굳었다. 경제 기사에서 '범용품이 되다'는 차별화가 사라져 값 싸움만 남았다는 부정적 신호다.",
+      "family": [
+        {
+          "word": "commodify",
+          "pos": "v.",
+          "ko": "상품화하다"
+        }
+      ]
+    },
+    {
+      "headword": "bankruptcy",
+      "pos": "n.",
+      "ko": "파산",
+      "example_en": "The start-up filed for bankruptcy two years after its drug won approval.",
+      "example_ko": "그 신생 기업은 자사 약이 승인을 받은 지 2년 만에 파산을 신청했다.",
+      "collocations": [
+        "file for bankruptcy",
+        "bankruptcy protection"
+      ],
+      "note": "이탈리아어 banca rotta(부서진 좌판) — 돈을 갚지 못한 환전상의 좌판을 부수던 관행에서 왔다. bank(은행)도 같은 banca(좌판)라, '은행'과 '파산'이 한 단어에서 갈라져 나왔다고 묶어 두면 안 잊는다.",
+      "family": [
+        {
+          "word": "bankrupt",
+          "pos": "a.",
+          "ko": "파산한"
+        }
+      ],
+      "related": [
+        {
+          "word": "insolvency",
+          "ko": "지급 불능",
+          "note": "insolvency는 빚을 갚을 수 없는 '상태', bankruptcy는 그 상태를 법원이 처리하는 '절차'다"
+        }
+      ]
+    },
+    {
+      "headword": "subscription",
+      "pos": "n.",
+      "ko": "구독(료); 정기 계약",
+      "example_en": "Under the subscription model, the buyer pays a flat fee instead of paying per unit.",
+      "example_ko": "구독 모델에서는 구매자가 개당 가격을 내는 대신 정액 요금을 지불한다.",
+      "collocations": [
+        "a subscription model",
+        "cancel a subscription"
+      ],
+      "note": "sub-(아래) + scrib-(쓰다) — 계약서 '아래에 이름을 써' 정기 구입을 약속하던 데서 왔다. describe(둘러 쓰다)·prescribe(미리 써 주다=처방하다)·manuscript(손으로 쓴 것)와 한 뿌리로 묶어 외울 것.",
+      "family": [
+        {
+          "word": "subscribe",
+          "pos": "v.",
+          "ko": "구독하다; (의견에) 동의하다"
+        },
+        {
+          "word": "subscriber",
+          "pos": "n.",
+          "ko": "구독자, 가입자"
+        }
+      ]
+    },
+    {
+      "headword": "hinder",
+      "pos": "v.",
+      "ko": "방해하다, 지체시키다",
+      "example_en": "Patchy data on resistance hinders efforts to target the problem.",
+      "example_ko": "내성에 관한 산발적인 데이터가 문제를 겨냥한 노력을 더디게 만든다.",
+      "collocations": [
+        "hinder progress",
+        "hinder efforts"
+      ],
+      "note": "'뒤(hind)로 잡아끌다'가 본뜻 — behind와 같은 갈래다. prevent가 아예 '못 하게 막다'라면 hinder는 '되기는 하는데 더디게 만들다'라서 강도가 한 단계 약하다.",
+      "family": [
+        {
+          "word": "hindrance",
+          "pos": "n.",
+          "ko": "방해, 장애물"
+        }
+      ],
+      "related": [
+        {
+          "word": "hamper",
+          "ko": "방해하다",
+          "note": "거의 동의어지만 hamper는 움직임·자유를 옭아매는 느낌이 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "unravel",
+      "pos": "v.",
+      "ko": "풀리다, 무너지다; (수수께끼를) 풀다",
+      "example_en": "The agreement began to unravel as soon as the subsidies expired.",
+      "example_ko": "그 합의는 보조금이 만료되자마자 무너지기 시작했다.",
+      "collocations": [
+        "the deal unraveled",
+        "unravel a mystery"
+      ],
+      "note": "un-이 붙었는데도 ravel과 뜻이 거의 같은 희귀한 단어다(ravel 자체가 '엉키다'와 '풀리다' 양쪽을 뜻하기 때문). 기사에서 계획·합의·연합이 unravel하면 '실타래 풀리듯 서서히 와해되다'라는 그림이다.",
+      "related": [
+        {
+          "word": "unveil",
+          "ko": "공개하다",
+          "note": "un-+명사 꼴이라 비슷해 보이지만 unveil은 베일을 걷어 '처음 공개하다'로 뜻이 전혀 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "spearhead",
+      "pos": "v.",
+      "ko": "선봉에 서다, 주도하다",
+      "example_en": "A coalition of donors spearheaded the campaign to fund new antibiotics.",
+      "example_ko": "기부자들의 연합이 새 항생제 개발 자금을 대는 캠페인을 주도했다.",
+      "collocations": [
+        "spearhead a campaign",
+        "spearhead an effort"
+      ],
+      "note": "창(spear)의 머리(head), 즉 대열 맨 앞 — 한국어 '선봉(先鋒)'과 발상이 똑같다. lead가 중립적으로 '이끌다'라면 spearhead는 앞장서서 밀어붙이는 적극성이 담긴다.",
+      "family": [
+        {
+          "word": "spear",
+          "pos": "n.",
+          "ko": "창"
+        }
+      ]
+    }
+  ]
+}
