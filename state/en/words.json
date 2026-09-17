@@ -2385,6 +2385,51 @@
     },
     "spearhead": {
       "added_on": "2026-09-17"
+    },
+    "transplant": {
+      "added_on": "2026-09-18"
+    },
+    "donor": {
+      "added_on": "2026-09-18"
+    },
+    "recipient": {
+      "added_on": "2026-09-18"
+    },
+    "cadaver": {
+      "added_on": "2026-09-18"
+    },
+    "opt-out": {
+      "added_on": "2026-09-18"
+    },
+    "bereaved": {
+      "added_on": "2026-09-18"
+    },
+    "altruism": {
+      "added_on": "2026-09-18"
+    },
+    "registry": {
+      "added_on": "2026-09-18"
+    },
+    "graft": {
+      "added_on": "2026-09-18"
+    },
+    "morbidity": {
+      "added_on": "2026-09-18"
+    },
+    "next of kin": {
+      "added_on": "2026-09-18"
+    },
+    "dignity": {
+      "added_on": "2026-09-18"
+    },
+    "tantamount": {
+      "added_on": "2026-09-18"
+    },
+    "quandary": {
+      "added_on": "2026-09-18"
+    },
+    "grapple": {
+      "added_on": "2026-09-18"
     }
   }
 }

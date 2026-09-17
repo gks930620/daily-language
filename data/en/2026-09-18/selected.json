@@ -1,0 +1,372 @@
+{
+  "date": "2026-09-18",
+  "words": [
+    {
+      "headword": "transplant",
+      "pos": "n.",
+      "ko": "이식; 이식하다",
+      "example_en": "She has been on the list for a kidney transplant for more than two years.",
+      "example_ko": "그녀는 2년 넘게 신장 이식 대기자 명단에 올라 있다.",
+      "collocations": [
+        "a kidney transplant",
+        "undergo a transplant",
+        "transplant surgery"
+      ],
+      "note": "trans-(가로질러) + plant(심다) — 원래 식물을 '옮겨 심다'라는 말이 그대로 의학 용어가 됐다. transfer·transmit처럼 trans-는 늘 '이쪽에서 저쪽으로'를 뜻한다.",
+      "family": [
+        {
+          "word": "transplantation",
+          "pos": "n.",
+          "ko": "이식(행위·분야)"
+        },
+        {
+          "word": "transplantable",
+          "pos": "a.",
+          "ko": "이식 가능한"
+        }
+      ],
+      "related": [
+        {
+          "word": "implant",
+          "ko": "이식하다, 심다",
+          "note": "implant는 인공물(임플란트·기기)을 몸에 '심어 넣는' 것, transplant는 조직·장기를 '옮겨' 심는 것"
+        }
+      ]
+    },
+    {
+      "headword": "donor",
+      "pos": "n.",
+      "ko": "기증자, 기부자",
+      "example_en": "The hospital could not find a matching donor in time.",
+      "example_ko": "병원은 제때 적합한 기증자를 찾지 못했다.",
+      "collocations": [
+        "an organ donor",
+        "a matching donor",
+        "donor country"
+      ],
+      "note": "don-(주다) 뿌리 — donate(기부하다)·donation과 한 가족이고, pardon(par-완전히 + don-주다 = 용서하다)까지 같은 뿌리다. -or는 '~하는 사람'.",
+      "family": [
+        {
+          "word": "donate",
+          "pos": "v.",
+          "ko": "기증하다, 기부하다"
+        },
+        {
+          "word": "donation",
+          "pos": "n.",
+          "ko": "기증, 기부(금)"
+        }
+      ]
+    },
+    {
+      "headword": "recipient",
+      "pos": "n.",
+      "ko": "받는 사람, 수혜자, 수령인",
+      "example_en": "Award recipients will be notified by email next week.",
+      "example_ko": "수상자들에게는 다음 주에 이메일로 통보될 것이다.",
+      "collocations": [
+        "the recipient of an award",
+        "aid recipients",
+        "transplant recipient"
+      ],
+      "note": "receive·receipt(영수증)·recipe(처방전)와 같은 cip-/ceive-(받다) 뿌리. -ent가 붙어 '받는 사람'. 토익 편지·공지문에서 '수신자' 뜻으로도 자주 나온다.",
+      "related": [
+        {
+          "word": "donor",
+          "ko": "기증자",
+          "note": "donor(주는 쪽) ↔ recipient(받는 쪽)로 짝지어 외우면 둘 다 안 헷갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "cadaver",
+      "pos": "n.",
+      "ko": "시신, 사체",
+      "example_en": "Most donated organs still come from cadavers rather than living donors.",
+      "example_ko": "기증되는 장기의 대부분은 여전히 생체 기증자가 아니라 시신에서 나온다.",
+      "collocations": [
+        "cadaver donor",
+        "cadaveric organ"
+      ],
+      "note": "같은 '시체'라도 쓰임이 갈린다 — corpse는 일반·사건 보도, body는 일상어, cadaver는 해부·의학·이식 같은 전문 문맥의 말이다.",
+      "family": [
+        {
+          "word": "cadaveric",
+          "pos": "a.",
+          "ko": "시신의, 사체에서 나온"
+        }
+      ]
+    },
+    {
+      "headword": "opt-out",
+      "pos": "n.",
+      "ko": "거부 선택(제); 거부 선택 방식의",
+      "example_en": "The pension plan uses an opt-out system, so new employees are enrolled automatically.",
+      "example_ko": "그 연금 제도는 거부 선택 방식이어서 신입 직원은 자동으로 가입된다.",
+      "collocations": [
+        "an opt-out system",
+        "an opt-out clause",
+        "opt out of ~"
+      ],
+      "note": "기본값이 무엇이냐의 차이다 — opt-out은 '이미 들어가 있고 빠지려면 표시', opt-in은 '빠져 있고 들어가려면 표시'. 동사로 쓸 땐 opt out of the scheme처럼 띄고, 명사·형용사일 땐 붙임표를 쓴다.",
+      "family": [
+        {
+          "word": "opt",
+          "pos": "v.",
+          "ko": "선택하다"
+        },
+        {
+          "word": "option",
+          "pos": "n.",
+          "ko": "선택(권)"
+        }
+      ],
+      "related": [
+        {
+          "word": "opt-in",
+          "ko": "참여 선택(제)",
+          "note": "정반대 제도 — 기사에서 두 단어는 거의 항상 짝으로 등장하니 함께 외운다"
+        }
+      ]
+    },
+    {
+      "headword": "bereaved",
+      "pos": "a.",
+      "ko": "사별한; (the bereaved) 유족",
+      "example_en": "Counselors are on hand to support bereaved families after the accident.",
+      "example_ko": "사고 후 유가족을 지원하기 위해 상담사들이 대기하고 있다.",
+      "collocations": [
+        "bereaved families",
+        "the bereaved"
+      ],
+      "note": "동사 bereave(앗아가다)의 과거분사 — '가족을 빼앗긴' 상태라서 수동 형태다. 「the + 형용사」로 그 부류 전체(유족들)를 가리키는 대표 예이기도 하다.",
+      "family": [
+        {
+          "word": "bereave",
+          "pos": "v.",
+          "ko": "(가족·목숨을) 앗아가다"
+        },
+        {
+          "word": "bereavement",
+          "pos": "n.",
+          "ko": "사별, 가족을 여읨"
+        }
+      ]
+    },
+    {
+      "headword": "altruism",
+      "pos": "n.",
+      "ko": "이타주의, 이타심",
+      "example_en": "The organ donation system relies almost entirely on altruism.",
+      "example_ko": "장기 기증 제도는 거의 전적으로 이타심에 기대고 있다.",
+      "collocations": [
+        "rely on altruism",
+        "pure altruism"
+      ],
+      "note": "alter(다른)에서 나온 말 — '남'을 먼저 두는 태도다. alternative(다른 대안)·alter ego(또 다른 자아)와 뿌리가 같다고 보면 뜻이 바로 잡힌다. 반대는 egoism(이기주의).",
+      "family": [
+        {
+          "word": "altruistic",
+          "pos": "a.",
+          "ko": "이타적인"
+        },
+        {
+          "word": "altruist",
+          "pos": "n.",
+          "ko": "이타주의자"
+        }
+      ]
+    },
+    {
+      "headword": "registry",
+      "pos": "n.",
+      "ko": "등록부, 등록 기관",
+      "example_en": "Only half of eligible adults have signed up for the national donor registry.",
+      "example_ko": "자격이 되는 성인 중 절반만이 국가 기증자 등록부에 가입했다.",
+      "collocations": [
+        "a national registry",
+        "sign up for a registry",
+        "registry office"
+      ],
+      "note": "register에서 갈라진 두 명사를 구분해야 한다 — registration은 '등록하는 행위', registry는 '등록해 둔 명부 또는 그 기관'이다.",
+      "family": [
+        {
+          "word": "register",
+          "pos": "v.",
+          "ko": "등록하다; 명부"
+        },
+        {
+          "word": "registration",
+          "pos": "n.",
+          "ko": "등록(행위), 등록 절차"
+        },
+        {
+          "word": "registrar",
+          "pos": "n.",
+          "ko": "등록 담당자"
+        }
+      ]
+    },
+    {
+      "headword": "graft",
+      "pos": "n.",
+      "ko": "이식편, 접붙이기; 접붙이다",
+      "example_en": "The surgeon used a skin graft taken from the patient's own thigh.",
+      "example_ko": "집도의는 환자 자신의 허벅지에서 떼어 낸 피부 이식편을 사용했다.",
+      "collocations": [
+        "a skin graft",
+        "graft rejection",
+        "bone graft"
+      ],
+      "note": "한 단어에 전혀 다른 두 얼굴이 있다 — 의학·원예의 '접붙이기(이식)'와, 신문 정치면의 '부정 축재·뇌물'이다. 후자는 '남의 것에 슬쩍 붙여 제 몫을 떼어먹는다'는 비유에서 왔으니 corruption and graft 같은 표현을 만나면 당황하지 말 것.",
+      "related": [
+        {
+          "word": "transplant",
+          "ko": "이식",
+          "note": "graft는 피부·뼈·혈관 같은 조직 조각, transplant는 심장·신장 같은 장기 단위에 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "morbidity",
+      "pos": "n.",
+      "ko": "이환율, 질병 발생률; 병적 상태",
+      "example_en": "The new procedure reduced morbidity without extending hospital stays.",
+      "example_ko": "새 시술은 입원 기간을 늘리지 않으면서 합병증 발생률을 낮췄다.",
+      "collocations": [
+        "morbidity and mortality",
+        "reduce morbidity",
+        "morbidity rate"
+      ],
+      "note": "morb-(병)와 mort-(죽음)의 한 글자 차이로 뜻이 갈린다 — morbidity는 '얼마나 병드는가', mortality는 '얼마나 죽는가'. 보건 기사에 morbidity and mortality로 붙어 다니니 짝으로 외운다.",
+      "family": [
+        {
+          "word": "morbid",
+          "pos": "a.",
+          "ko": "병적인, 병에 걸린"
+        }
+      ],
+      "related": [
+        {
+          "word": "mortality",
+          "ko": "사망률",
+          "note": "mort-는 mortal(죽을 운명의)·mortgage처럼 '죽음' 계열 — 헷갈리면 이 뿌리로 되돌아가 구분한다"
+        }
+      ]
+    },
+    {
+      "headword": "next of kin",
+      "pos": "n.",
+      "ko": "최근친, 가장 가까운 유가족",
+      "example_en": "Hospital staff cannot release the patient's records without the consent of the next of kin.",
+      "example_ko": "병원 직원은 최근친의 동의 없이는 환자의 기록을 공개할 수 없다.",
+      "collocations": [
+        "notify the next of kin",
+        "the consent of the next of kin"
+      ],
+      "note": "kin은 '혈족'이라는 옛말로 kinship(친족 관계)·kindred에 남아 있다. 서류·보도에서 통보와 동의의 상대를 가리키는 고정 표현이라 단수·복수 모양이 변하지 않는다.",
+      "family": [
+        {
+          "word": "kin",
+          "pos": "n.",
+          "ko": "친족, 혈족"
+        },
+        {
+          "word": "kinship",
+          "pos": "n.",
+          "ko": "친족 관계, 유대"
+        }
+      ]
+    },
+    {
+      "headword": "dignity",
+      "pos": "n.",
+      "ko": "존엄, 품위",
+      "example_en": "The campaign argues that patients deserve to die with dignity.",
+      "example_ko": "그 캠페인은 환자에게 존엄하게 죽을 권리가 있다고 주장한다.",
+      "collocations": [
+        "human dignity",
+        "die with dignity",
+        "beneath one's dignity"
+      ],
+      "note": "dign-(가치 있는)에서 뻗어 나간 말들이 뜻이 갈린다 — dignified(위엄 있는), indignant(분개한: '내 가치가 훼손됐다'), indignity(모욕). 화가 난다는 뜻의 indignant가 '존엄'과 한 뿌리라는 점이 기억의 고리다.",
+      "family": [
+        {
+          "word": "dignified",
+          "pos": "a.",
+          "ko": "위엄 있는, 품위 있는"
+        },
+        {
+          "word": "indignity",
+          "pos": "n.",
+          "ko": "모욕, 굴욕"
+        }
+      ],
+      "related": [
+        {
+          "word": "indignant",
+          "ko": "분개한",
+          "note": "dignity와 철자가 닮았지만 뜻은 '화난'이다 — 뿌리는 같고 방향만 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "tantamount",
+      "pos": "a.",
+      "ko": "~나 마찬가지인, ~에 해당하는",
+      "example_en": "Refusing to answer the auditors was tantamount to an admission of guilt.",
+      "example_ko": "감사관에게 답변을 거부한 것은 잘못을 시인한 것이나 마찬가지였다.",
+      "collocations": [
+        "tantamount to a refusal",
+        "tantamount to an admission"
+      ],
+      "note": "이탈리아어 tanto monta(그만큼 값이 나간다)에서 온 말이라 '값이 같다 = 마찬가지다'가 된다. 반드시 be tantamount to + 명사(동명사) 꼴로만 쓰고, 명사를 꾸미는 자리에는 쓰지 않는다.",
+      "related": [
+        {
+          "word": "paramount",
+          "ko": "가장 중요한, 최고의",
+          "note": "-mount 철자가 같아 자주 헷갈린다 — paramount는 '무엇보다 우선하는'(safety is paramount), tantamount는 '~와 같은'"
+        }
+      ]
+    },
+    {
+      "headword": "quandary",
+      "pos": "n.",
+      "ko": "진퇴양난, 난처한 처지",
+      "example_en": "The board is in a quandary over how to fund the expansion.",
+      "example_ko": "이사회는 확장 자금을 어떻게 마련할지를 두고 난처한 처지에 놓여 있다.",
+      "collocations": [
+        "in a quandary",
+        "face a quandary",
+        "a moral quandary"
+      ],
+      "note": "거의 언제나 in a quandary 꼴로 쓴다. dilemma가 '둘 중 하나를 골라야 하는 곤경'이라면 quandary는 '어찌할 바를 모르는 상태' 쪽에 무게가 있다.",
+      "related": [
+        {
+          "word": "dilemma",
+          "ko": "딜레마, 진퇴양난",
+          "note": "di-(둘)에서 온 말이라 선택지가 둘일 때 정확하다 — quandary는 선택지 수와 무관하다"
+        }
+      ]
+    },
+    {
+      "headword": "grapple",
+      "pos": "v.",
+      "ko": "씨름하다, 붙잡고 싸우다",
+      "example_en": "Regulators are still grappling with the question of who owns the data.",
+      "example_ko": "규제 당국은 그 데이터의 주인이 누구인가라는 문제와 여전히 씨름하고 있다.",
+      "collocations": [
+        "grapple with a problem",
+        "grapple with the question of ~"
+      ],
+      "note": "grapple은 본래 배를 걸어 끌어당기던 '갈고리' — 적선을 걸어 붙잡고 맞붙던 장면에서 '문제와 맞붙다'가 나왔다. 뒤에는 거의 항상 with가 온다.",
+      "family": [
+        {
+          "word": "grapple",
+          "pos": "n.",
+          "ko": "갈고리; 맞붙어 싸움"
+        }
+      ]
+    }
+  ]
+}
