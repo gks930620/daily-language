@@ -2430,6 +2430,51 @@
     },
     "grapple": {
       "added_on": "2026-09-18"
+    },
+    "pensioner": {
+      "added_on": "2026-09-19"
+    },
+    "annuity": {
+      "added_on": "2026-09-19"
+    },
+    "retiree": {
+      "added_on": "2026-09-19"
+    },
+    "beneficiary": {
+      "added_on": "2026-09-19"
+    },
+    "bequeath": {
+      "added_on": "2026-09-19"
+    },
+    "clawback": {
+      "added_on": "2026-09-19"
+    },
+    "vest": {
+      "added_on": "2026-09-19"
+    },
+    "indexation": {
+      "added_on": "2026-09-19"
+    },
+    "means-tested": {
+      "added_on": "2026-09-19"
+    },
+    "unfunded": {
+      "added_on": "2026-09-19"
+    },
+    "taper": {
+      "added_on": "2026-09-19"
+    },
+    "shore up": {
+      "added_on": "2026-09-19"
+    },
+    "loom": {
+      "added_on": "2026-09-19"
+    },
+    "thrift": {
+      "added_on": "2026-09-19"
+    },
+    "frugal": {
+      "added_on": "2026-09-19"
     }
   }
 }

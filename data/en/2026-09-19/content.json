@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-19",
+  "passage_note": "경제·사회 — 고령화 속 공적연금 개혁과 이미 한 약속을 둘러싼 세대 간 공방(논설)",
+  "sentences": [
+    {
+      "en": "Few promises are as easy to make and as hard to keep as a public pension, and the arithmetic that once made such promises plausible has quietly turned against the governments that issued them.",
+      "ko": "공적연금만큼 하기는 쉽고 지키기는 어려운 약속도 드물다. 그리고 한때 그런 약속을 그럴듯해 보이게 만들었던 셈법은, 그 약속을 내놓은 정부들에게 어느새 불리하게 돌아섰다.",
+      "structure": "· Few + 복수명사가 주어면 '~한 것은 거의 없다'는 준부정 — 사실상 최상급의 뜻('가장 ~한 것 중 하나')으로 읽는다.\n· as easy to make and as hard to keep as A : 원급 비교 두 개가 and로 병렬, 비교 대상 A(a public pension)는 맨 뒤 as 하나가 받는다. to make·to keep은 형용사를 한정하는 부사적 용법(만들기에 쉬운 / 지키기에 어려운).\n· the arithmetic that once made such promises plausible : 주격 관계대명사 that절, 그 안은 make + 목적어 + 목적격보어(형용사 plausible)의 5형식.\n· the governments that issued them 역시 주격 관계대명사절이 앞의 명사를 수식한다.",
+      "vocab_notes": [
+        { "word": "few", "ko": "거의 없는 (준부정)" },
+        { "word": "public pension", "ko": "공적연금" },
+        { "word": "arithmetic", "ko": "산수, 셈법 — 여기서는 '수지 계산'" },
+        { "word": "plausible", "ko": "그럴듯한, 타당해 보이는" },
+        { "word": "turn against", "ko": "~에게 불리하게 돌아서다" },
+        { "word": "issue", "ko": "(약속·증권을) 내놓다, 발행하다" }
+      ]
+    },
+    {
+      "en": "When today's schemes were designed, a broad base of workers supported a thin layer of retirees; with birth rates falling and lifespans stretching, that pyramid is inverting.",
+      "ko": "오늘날의 제도가 설계되었을 때는 넓은 노동자 층이 얇은 은퇴자 층을 떠받쳤다. 출생률은 떨어지고 수명은 늘어나면서, 그 피라미드가 뒤집히고 있다.",
+      "structure": "· When ~ were designed : 시간 부사절이자 수동태(설계되었을 때).\n· 세미콜론(;)이 두 절을 잇는다 — 앞은 제도가 전제했던 과거의 인구 구조, 뒤는 지금 일어나는 역전.\n· with birth rates falling and lifespans stretching : with + 목적어 + 현재분사의 부대상황 구문('~가 …하면서'). 분사 두 개가 and로 병렬.\n· that pyramid is inverting : 현재진행형이 '지금 진행 중인 변화'를 나타낸다.",
+      "vocab_notes": [
+        { "word": "scheme", "ko": "제도, 계획 (영국식 기사에서 '연금 제도')" },
+        { "word": "design", "ko": "설계하다, 고안하다" },
+        { "word": "a broad base of", "ko": "넓은 기반을 이루는 ~" },
+        { "word": "support", "ko": "떠받치다, 부양하다" },
+        { "word": "a thin layer of", "ko": "얇은 층의 ~" },
+        { "word": "retiree", "ko": "은퇴자" },
+        { "word": "birth rate", "ko": "출생률" },
+        { "word": "lifespan", "ko": "수명" },
+        { "word": "stretch", "ko": "늘어나다, 길어지다" },
+        { "word": "invert", "ko": "뒤집히다, 거꾸로 되다" }
+      ]
+    },
+    {
+      "en": "The resulting shortfall must be met by higher contributions, later retirement, or benefits quietly allowed to erode, and politicians have mostly chosen the third, since indexing pensions to prices rather than wages trims their real value year after year without requiring an unpopular vote.",
+      "ko": "그렇게 생긴 부족분은 더 많은 납입금, 더 늦은 은퇴, 아니면 조용히 깎이도록 내버려 둔 급여 중 하나로 메워야 하는데, 정치인들은 대개 세 번째를 택해 왔다. 연금을 임금이 아니라 물가에 연동시키면 인기 없는 표결을 거치지 않고도 해마다 그 실질 가치가 깎이기 때문이다.",
+      "structure": "· must be met by A, B, or C : 조동사가 붙은 수동태(must be p.p.)이고, by 뒤에 세 항목이 병렬로 놓였다.\n· benefits quietly allowed to erode : benefits (which are) quietly allowed ~ 에서 '관계대명사+be'가 생략된 과거분사구의 후치 수식.\n· since ~ : 이유를 나타내는 부사절. 그 안의 주어는 동명사구 indexing pensions to prices rather than wages이고 동사는 trims(동명사 주어는 단수 취급).\n· A rather than B : 'B가 아니라 A'로 대비를 만든다.\n· without requiring ~ : 전치사 + 동명사('~을 요구하지 않고도').",
+      "vocab_notes": [
+        { "word": "resulting", "ko": "그 결과로 생긴" },
+        { "word": "shortfall", "ko": "부족분, 미달분" },
+        { "word": "meet", "ko": "(비용·요구를) 충족시키다, 메우다" },
+        { "word": "contribution", "ko": "납입금, 보험료 (연금에 내는 돈)" },
+        { "word": "benefit", "ko": "급여, 수당 (연금으로 받는 돈)" },
+        { "word": "erode", "ko": "서서히 깎이다, 잠식되다" },
+        { "word": "index", "ko": "(물가 등에) 연동시키다" },
+        { "word": "wage", "ko": "임금" },
+        { "word": "trim", "ko": "깎다, 조금씩 줄이다" },
+        { "word": "real value", "ko": "실질 가치 (물가를 반영한 가치)" },
+        { "word": "unpopular", "ko": "인기 없는" }
+      ]
+    },
+    {
+      "en": "Reformers insist that the honest alternative is to raise the retirement age in line with longevity and to means-test the most generous payouts, shoring up the system's finances while sparing pensioners who depend on it entirely.",
+      "ko": "개혁론자들은 정직한 대안이란 수명 연장에 맞추어 은퇴 연령을 올리고 가장 후한 지급액에는 소득·자산 심사를 붙이는 것이라고 주장한다. 그렇게 하면 연금에 전적으로 의지하는 수급자들은 건드리지 않으면서 제도의 재정을 떠받칠 수 있다는 것이다.",
+      "structure": "· insist that ~ : that절을 목적어로 받는 동사. 그 that절 안에서 보어 자리에 to부정사 두 개(to raise ~ / to means-test ~)가 and로 병렬.\n· in line with ~ : '~에 맞추어, ~에 발맞추어'.\n· shoring up ~ : 분사구문으로, 주절이 낳는 결과·효과를 덧붙인다('그리하여 ~을 떠받친다').\n· while sparing ~ : 접속사를 남긴 분사구문(while + 분사) — '~은 건드리지 않으면서'라는 대조를 분명히 한다.\n· who depend on it entirely : pensioners를 수식하는 주격 관계대명사절.",
+      "vocab_notes": [
+        { "word": "reformer", "ko": "개혁론자" },
+        { "word": "insist", "ko": "주장하다, 강하게 말하다" },
+        { "word": "alternative", "ko": "대안" },
+        { "word": "raise the retirement age", "ko": "은퇴(정년) 연령을 올리다" },
+        { "word": "in line with", "ko": "~에 맞추어, ~에 발맞추어" },
+        { "word": "longevity", "ko": "장수, 수명" },
+        { "word": "means-test", "ko": "소득·재산을 심사해 지급 대상을 가리다" },
+        { "word": "generous", "ko": "후한, 넉넉한" },
+        { "word": "payout", "ko": "지급액, 지급금" },
+        { "word": "shore up", "ko": "떠받치다, 보강하다" },
+        { "word": "finances", "ko": "재정 (복수형)" },
+        { "word": "spare", "ko": "(피해를) 면하게 하다, 건드리지 않다" },
+        { "word": "pensioner", "ko": "연금 수급자" }
+      ]
+    },
+    {
+      "en": "Yet every such proposal collides with a promise already made: workers who have paid in for decades regard their entitlements as vested property, not as a line in a budget that a finance ministry may taper at will.",
+      "ko": "그러나 그런 제안은 하나같이 이미 해 둔 약속과 충돌한다. 수십 년 동안 돈을 넣어 온 노동자들은 자신의 수급권을 확정된 재산으로 여기지, 재정 부처가 마음대로 조금씩 줄여도 되는 예산의 한 항목으로 여기지 않기 때문이다.",
+      "structure": "· 콜론(:)은 앞에 나온 a promise already made가 무엇인지 뒤에서 구체적으로 풀어 주는 역할을 한다.\n· a promise already made = a promise (that was) already made : '관계대명사+be' 생략형 과거분사의 후치 수식.\n· who have paid in for decades : workers를 수식하는 주격 관계대명사절이고, 현재완료가 '수십 년째 계속 납입해 온' 계속 용법을 나타낸다.\n· regard A as B : 'A를 B로 여기다'. 뒤의 not as a line ~ 이 as vested property와 대조되며 병렬을 이룬다.\n· that a finance ministry may taper at will : a line을 수식하는 목적격 관계대명사절(taper의 목적어가 빠져 있다).",
+      "vocab_notes": [
+        { "word": "collide with", "ko": "~와 충돌하다, 부딪치다" },
+        { "word": "pay in", "ko": "(돈을) 납입하다, 불입하다" },
+        { "word": "for decades", "ko": "수십 년 동안" },
+        { "word": "regard A as B", "ko": "A를 B로 여기다" },
+        { "word": "entitlement", "ko": "수급권, 받을 권리" },
+        { "word": "vested", "ko": "확정되어 귀속된, 기득의" },
+        { "word": "property", "ko": "재산, 소유물" },
+        { "word": "a line in a budget", "ko": "예산의 한 항목" },
+        { "word": "finance ministry", "ko": "재정 부처, 재무부" },
+        { "word": "taper", "ko": "점차 줄이다" },
+        { "word": "at will", "ko": "마음대로, 임의로" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "pensioner",
+      "pos": "n.",
+      "ko": "연금 수급자",
+      "example_en": "The reform will leave current pensioners untouched but require younger workers to contribute more.",
+      "example_ko": "그 개혁은 현재의 연금 수급자는 건드리지 않되 젊은 노동자들에게는 더 많이 납입하도록 요구할 것이다.",
+      "collocations": ["state pensioner", "pensioners on fixed incomes"],
+      "note": "pension은 라틴어 pendere(매달다·달아서 값을 치르다)에서 왔다 — 같은 뿌리에서 pending(매달려 있는=미결의)·depend(~에 매달리다=의존하다)가 갈라져 나왔다. 여기에 '~하는 사람'의 -er가 붙어 '연금에 매달려 사는 사람'이 된다.",
+      "family": [
+        { "word": "pension", "pos": "n.", "ko": "연금" },
+        { "word": "pending", "pos": "a.", "ko": "미결의, 계류 중인 — '매달려 있다'는 같은 뿌리" }
+      ],
+      "related": [
+        { "word": "retiree", "note": "영국식 기사에서는 pensioner, 미국식 기사에서는 retiree를 더 자주 쓴다 — 같은 사람을 '연금 받는 쪽'으로 보느냐 '일을 그만둔 쪽'으로 보느냐의 차이" }
+      ]
+    },
+    {
+      "headword": "annuity",
+      "pos": "n.",
+      "ko": "연금 상품, 정기 지급금",
+      "example_en": "Rather than take the lump sum, she used her savings to buy an annuity that pays out every month.",
+      "example_ko": "그는 일시금으로 받는 대신 저축을 털어 매달 지급되는 연금 상품을 샀다.",
+      "collocations": ["buy an annuity", "a lifetime annuity"],
+      "note": "annus(해)에서 나온 말로 annual(해마다의)·anniversary(해마다 돌아오는 날)와 한 뿌리 — '해마다 나오는 돈'이 핵심이다. 국가 제도인 pension과 달리 annuity는 보험사에서 돈을 주고 사는 금융상품이다.",
+      "family": [
+        { "word": "annual", "pos": "a.", "ko": "해마다의, 연간의" },
+        { "word": "annually", "pos": "ad.", "ko": "해마다" }
+      ],
+      "related": [
+        { "word": "lump sum", "ko": "일시금", "note": "연금 기사에서 annuity(나눠 받기) ↔ lump sum(한 번에 받기)으로 짝지어 나온다" }
+      ]
+    },
+    {
+      "headword": "retiree",
+      "pos": "n.",
+      "ko": "은퇴자",
+      "example_en": "By 2040 each retiree will be supported by fewer than two working taxpayers.",
+      "example_ko": "2040년이면 은퇴자 한 명을 일하는 납세자 두 명이 채 안 되는 수로 떠받치게 된다.",
+      "collocations": ["a growing number of retirees", "workers per retiree"],
+      "note": "-ee는 보통 '동작을 당하는 쪽'(employer 고용하는 사람 ↔ employee 고용되는 사람, train → trainee 교육받는 사람)인데, retiree는 스스로 은퇴한 사람을 가리키는 예외다. -er/-ee 짝으로 묶어 외워 두면 시험에서 헷갈리지 않는다.",
+      "family": [
+        { "word": "retire", "pos": "v.", "ko": "은퇴하다" },
+        { "word": "retirement", "pos": "n.", "ko": "은퇴, 퇴직" }
+      ]
+    },
+    {
+      "headword": "beneficiary",
+      "pos": "n.",
+      "ko": "수혜자, 수급자",
+      "example_en": "The main beneficiaries of the subsidy turned out to be firms that were already profitable.",
+      "example_ko": "그 보조금의 주된 수혜자는 이미 이익을 내고 있던 기업들로 드러났다.",
+      "collocations": ["the main beneficiary", "the named beneficiary of a policy"],
+      "note": "bene-(좋은) + fic-(만들다) = '좋게 해 주는 것을 받는 사람'. benefit·beneficial(이로운)·benevolent(자애로운)와 한 뿌리다. 보험·신탁 문서에서는 '보험금을 받을 사람'이라는 법률 용어로 굳어져 있다.",
+      "family": [
+        { "word": "benefit", "pos": "n./v.", "ko": "이익; 급여 / 이익을 얻다" },
+        { "word": "beneficial", "pos": "a.", "ko": "이로운, 유익한" }
+      ],
+      "related": [
+        { "word": "beneficial", "note": "beneficial은 '이로운'(형용사), beneficiary는 '이익을 받는 사람'(명사) — 자리를 바꿔 넣는 문제가 자주 나온다" }
+      ]
+    },
+    {
+      "headword": "bequeath",
+      "pos": "v.",
+      "ko": "유언으로 물려주다, 유증하다",
+      "example_en": "Critics say the plan bequeaths the bill to a generation that had no say in it.",
+      "example_ko": "비판자들은 그 계획이 발언권도 없었던 세대에게 청구서를 떠넘긴다고 말한다.",
+      "collocations": ["bequeath a fortune to", "bequeath a burden to future generations"],
+      "note": "명사형이 bequeathment가 아니라 bequest(유증·유산)인 것이 함정이다. 돈뿐 아니라 부채·문제를 '다음 세대에 물려주다'라는 비유로 시사 논설에 자주 쓴다.",
+      "family": [
+        { "word": "bequest", "pos": "n.", "ko": "유증, 유산 — 철자가 바뀌는 데 주의" }
+      ],
+      "related": [
+        { "word": "inherit", "ko": "물려받다", "note": "방향이 정반대 — bequeath는 남겨 주는 쪽, inherit은 물려받는 쪽" }
+      ]
+    },
+    {
+      "headword": "clawback",
+      "pos": "n.",
+      "ko": "환수, 회수 (이미 지급한 돈을 도로 거둬들임)",
+      "example_en": "The contract includes a clawback provision if the executive's results are later restated.",
+      "example_ko": "그 계약에는 임원의 실적이 나중에 정정될 경우 지급액을 환수하는 조항이 들어 있다.",
+      "collocations": ["a clawback provision", "claw back subsidies"],
+      "note": "claw(발톱으로 긁다) + back — 이미 준 돈을 발톱으로 긁어 되찾아 오는 그림으로 외운다. 보너스·세제 혜택·보조금을 사후에 회수할 때 쓰는 계약서·기사 단어다.",
+      "family": [
+        { "word": "claw back", "pos": "v.", "ko": "(준 돈을) 도로 회수하다" },
+        { "word": "claw", "pos": "n.", "ko": "발톱" }
+      ]
+    },
+    {
+      "headword": "vest",
+      "pos": "v.",
+      "ko": "(권리가) 확정되어 귀속되다; (권한을) 부여하다",
+      "example_en": "The stock options vest only after the employee has stayed with the firm for three years.",
+      "example_ko": "그 스톡옵션은 직원이 회사에 3년을 머문 뒤에야 권리가 확정된다.",
+      "collocations": ["vested interest", "rights vest in the holder"],
+      "note": "옷 '조끼'와 같은 철자지만, 법률·인사에서는 '권리가 사람에게 입혀져 확정되다'는 뜻으로 쓴다 — vested interest는 그래서 '기득권'이다.",
+      "family": [
+        { "word": "vested", "pos": "a.", "ko": "확정된, 기득의" },
+        { "word": "vesting", "pos": "n.", "ko": "권리 확정(기간)" }
+      ],
+      "related": [
+        { "word": "invest", "note": "in + vest(안에 옷을 입히다)로 뿌리는 같지만 뜻은 '투자하다'로 갈라졌다 — 돈에 옷을 입혀 넣어 둔다고 연결해 두면 된다" }
+      ]
+    },
+    {
+      "headword": "indexation",
+      "pos": "n.",
+      "ko": "연동, (물가 등에) 맞춰 조정하기",
+      "example_en": "The indexation of pensions to prices rather than wages saves money every single year.",
+      "example_ko": "연금을 임금이 아니라 물가에 연동하는 것은 해마다 빠짐없이 돈을 아껴 준다.",
+      "collocations": ["indexation to inflation", "wage indexation"],
+      "note": "index를 '지수·색인'이라는 명사로만 알면 이 단어가 안 읽힌다 — index는 동사로 '~에 연동시키다'(be indexed to inflation)이고, 그 명사형이 indexation이다. 연금·임금 기사에서 index-linked(연동형)와 함께 나온다.",
+      "family": [
+        { "word": "index", "pos": "v./n.", "ko": "연동시키다 / 지수, 색인" },
+        { "word": "index-linked", "pos": "a.", "ko": "(물가에) 연동되는" }
+      ]
+    },
+    {
+      "headword": "means-tested",
+      "pos": "a.",
+      "ko": "소득·재산 심사를 거쳐 지급되는",
+      "example_en": "Making the allowance means-tested would cut spending but add a layer of paperwork.",
+      "example_ko": "그 수당을 소득 심사 방식으로 바꾸면 지출은 줄겠지만 서류 절차가 한 겹 늘어난다.",
+      "collocations": ["means-tested benefits", "a means test"],
+      "note": "여기서 means는 '수단'이 아니라 '재산·소득'이다(a man of means = 재력가). 그 means를 test(심사)해 자격을 가린다는 뜻이며, 복지 기사에서는 universal(보편 지급)과 짝을 이뤄 나온다.",
+      "family": [
+        { "word": "means test", "pos": "n.", "ko": "자산·소득 심사" },
+        { "word": "means", "pos": "n.", "ko": "수단; 재산, 재력" }
+      ],
+      "related": [
+        { "word": "universal", "note": "means-tested(선별 복지) ↔ universal(보편 복지) — 복지 논쟁 기사의 기본 대립 축이다" }
+      ]
+    },
+    {
+      "headword": "unfunded",
+      "pos": "a.",
+      "ko": "재원이 마련되지 않은",
+      "example_en": "The state's unfunded pension liabilities now exceed its entire annual budget.",
+      "example_ko": "그 주의 재원이 확보되지 않은 연금 부채는 이제 한 해 예산 전체를 넘어선다.",
+      "collocations": ["unfunded liabilities", "an unfunded mandate"],
+      "note": "fund(자금을 대다)의 과거분사에 un-이 붙어 '돈이 준비돼 있지 않은'. unfunded liabilities는 '앞으로 줘야 하지만 쌓아 둔 돈이 없는 빚'으로 연금 기사의 단골 표현이고, unfunded mandate는 '예산 없이 떠넘긴 의무'다.",
+      "family": [
+        { "word": "fund", "pos": "v.", "ko": "자금을 대다" },
+        { "word": "funding", "pos": "n.", "ko": "자금 조달" },
+        { "word": "underfunded", "pos": "a.", "ko": "재원이 부족한 — 아예 없는 unfunded보다는 약한 말" }
+      ]
+    },
+    {
+      "headword": "taper",
+      "pos": "v.",
+      "ko": "점차 줄이다, 서서히 축소하다",
+      "example_en": "The central bank said it would taper its bond purchases rather than halt them outright.",
+      "example_ko": "중앙은행은 채권 매입을 단번에 중단하기보다 점차 줄여 가겠다고 밝혔다.",
+      "collocations": ["taper off", "taper support"],
+      "note": "원뜻은 초(taper)처럼 끝으로 갈수록 가늘어지다 — 한 번에 끊는 cut과 달리 '서서히 가늘게'가 핵심이다. 중앙은행이 자산 매입을 줄이는 tapering(테이퍼링)으로 경제 기사에 자주 나온다.",
+      "related": [
+        { "word": "tamper", "note": "taper(점점 줄이다)와 tamper(함부로 손대다·조작하다)는 한 글자 차이 — tamper with evidence(증거를 조작하다)로 구분해 외운다" },
+        { "word": "curtail", "note": "curtail은 '잘라서 줄이다'로 단절에 가깝고, taper는 서서히 가늘어지는 축소다" }
+      ]
+    },
+    {
+      "headword": "shore up",
+      "pos": "v.",
+      "ko": "떠받치다, 보강하다",
+      "example_en": "The government injected cash to shore up the fund's finances before the deadline.",
+      "example_ko": "정부는 기한 전에 그 기금의 재정을 떠받치기 위해 현금을 투입했다.",
+      "collocations": ["shore up finances", "shore up support"],
+      "note": "여기서 shore는 '해안'이 아니라 '버팀목'이다 — 무너질 것 같은 벽에 기둥을 대는 그림. 그래서 재정·지지율처럼 '무너질 위험이 있는 것'에 붙고, 위기 뉘앙스를 함께 끌고 온다.",
+      "related": [
+        { "word": "bolster", "note": "bolster(긴 베개)는 '밀어 올려 더 튼튼하게', shore up은 '무너지지 않게 받쳐 두다' — shore up 쪽이 상황이 더 나쁘다" }
+      ]
+    },
+    {
+      "headword": "loom",
+      "pos": "v.",
+      "ko": "(위협이) 어렴풋이 다가오다",
+      "example_en": "With a funding gap looming, the ministry finally put reform on the agenda.",
+      "example_ko": "재원 부족이 코앞으로 다가오자 그 부처는 마침내 개혁을 안건에 올렸다.",
+      "collocations": ["a looming crisis", "loom large"],
+      "note": "안개 속에서 큰 형체가 서서히 드러나는 그림이라, 주어는 대개 위기·마감·전쟁처럼 반갑지 않은 것이다. loom large는 '크게 다가오다, 큰 문제로 부각되다'.",
+      "related": [
+        { "word": "imminent", "note": "imminent는 '곧 닥칠'(시간이 임박), loom은 '다가오는 중'(아직 거리가 있고 형체가 어렴풋)" }
+      ]
+    },
+    {
+      "headword": "thrift",
+      "pos": "n.",
+      "ko": "절약, 검약",
+      "example_en": "A culture of thrift cannot by itself close a gap of this size.",
+      "example_ko": "절약하는 문화만으로는 이만한 크기의 격차를 메울 수 없다.",
+      "collocations": ["a culture of thrift", "thrift and hard work"],
+      "note": "thrive(번성하다)와 한 뿌리로, 원래 '아껴서 잘 사는 것'이라는 긍정적인 말이다. 형용사 thrifty(알뜰한)는 칭찬이고 stingy(인색한)는 비난이라는 어감 차이를 함께 기억해 둔다.",
+      "family": [
+        { "word": "thrifty", "pos": "a.", "ko": "알뜰한, 검소한" },
+        { "word": "thrive", "pos": "v.", "ko": "번성하다 — 같은 뿌리" }
+      ],
+      "related": [
+        { "word": "stingy", "ko": "인색한", "note": "같은 행동도 thrifty라고 하면 칭찬, stingy라고 하면 비난이 된다" }
+      ]
+    },
+    {
+      "headword": "frugal",
+      "pos": "a.",
+      "ko": "검소한, 아껴 쓰는",
+      "example_en": "He remained frugal even after the company made him wealthy.",
+      "example_ko": "그는 회사가 자신을 부유하게 만든 뒤에도 여전히 검소하게 살았다.",
+      "collocations": ["a frugal lifestyle", "a frugal meal"],
+      "note": "라틴어 frux(열매·수확)에서 온 말로 '거둔 것을 헤프게 쓰지 않는'이라는 그림이다. 사람·생활 방식에 붙으며, a frugal meal은 '초라한 식사'가 아니라 '소박한 식사'라는 중립·긍정의 뜻이다.",
+      "family": [
+        { "word": "frugality", "pos": "n.", "ko": "검소함, 절약" }
+      ],
+      "related": [
+        { "word": "frivolous", "note": "철자가 비슷해 헷갈리지만 frivolous는 '경박한, 하찮은'으로 뜻이 전혀 다르다" }
+      ]
+    },
+    {
+      "headword": "retrench",
+      "pos": "v.",
+      "ko": "(비용·사업을) 줄이다, 긴축하다",
+      "example_en": "Faced with falling revenue, the group retrenched and sold off its overseas units.",
+      "example_ko": "매출 감소에 직면한 그 그룹은 긴축에 들어가 해외 사업부를 매각했다.",
+      "collocations": ["retrench spending", "a wave of retrenchment"],
+      "note": "re-(뒤로) + trench(참호를 파다) — 참호 안으로 물러나 방어선을 좁히는 그림에서 '지출을 줄이다'가 나왔다. 명사 retrenchment는 기업 기사에서 '감원·사업 축소'를 뜻한다.",
+      "family": [
+        { "word": "retrenchment", "pos": "n.", "ko": "긴축, 감원·사업 축소" },
+        { "word": "trench", "pos": "n.", "ko": "참호 — 어원. trench coat도 참호에서 입던 코트다" }
+      ]
+    },
+    {
+      "headword": "defuse",
+      "pos": "v.",
+      "ko": "(긴장·위기를) 진정시키다, 누그러뜨리다",
+      "example_en": "A phased timetable was enough to defuse the strike threat for now.",
+      "example_ko": "단계적 일정표만으로도 당장의 파업 위협을 가라앉히기에는 충분했다.",
+      "collocations": ["defuse tension", "defuse a crisis"],
+      "note": "폭탄의 뇌관(fuse)을 빼낸다는 뜻에서 '터지기 전에 가라앉히다'가 되었다. 철자와 발음이 비슷한 diffuse와 시험에서 자주 짝지어 나온다.",
+      "related": [
+        { "word": "diffuse", "note": "defuse는 de(제거) + fuse(뇌관) = '진정시키다', diffuse는 dif(사방으로) = '퍼뜨리다, 확산되다'" }
+      ]
+    },
+    {
+      "headword": "buoy",
+      "pos": "v.",
+      "ko": "떠받치다, 지탱하다",
+      "example_en": "Strong exports buoyed the economy through an otherwise weak quarter.",
+      "example_ko": "견조한 수출이 그렇지 않았다면 부진했을 분기 내내 경제를 떠받쳤다.",
+      "collocations": ["buoyed by demand", "buoy morale"],
+      "note": "물에 뜨는 '부표(buoy)'가 동사로 쓰이면 '가라앉지 않게 떠받치다'가 된다 — 주가·경기·사기(morale)에 붙는다. 발음이 철자와 어긋나 [부이]에 가깝다는 점도 함께 기억해 둘 것.",
+      "family": [
+        { "word": "buoyant", "pos": "a.", "ko": "잘 뜨는; (시장이) 활기찬" },
+        { "word": "buoyancy", "pos": "n.", "ko": "부력; 활황" }
+      ],
+      "related": [
+        { "word": "shore up", "note": "buoy는 밑에서 '떠받쳐 가라앉지 않게', shore up은 옆·아래에서 '받쳐 무너지지 않게' — 물 vs 건물의 그림 차이" }
+      ]
+    }
+  ]
+}
