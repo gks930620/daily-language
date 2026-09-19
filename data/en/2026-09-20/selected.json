@@ -1,0 +1,324 @@
+{
+  "date": "2026-09-20",
+  "words": [
+    {
+      "headword": "ratepayer",
+      "pos": "n.",
+      "ko": "공공요금 납부자(전기·수도 요금을 내는 가입자)",
+      "example_en": "The cost of the new transmission line will ultimately be passed on to ratepayers.",
+      "example_ko": "새 송전선 비용은 결국 요금 납부자에게 전가될 것이다.",
+      "collocations": [
+        "pass costs on to ratepayers",
+        "ratepayer-funded"
+      ],
+      "note": "rate에 '공공요금(요금표)'이라는 뜻이 있어 rate + payer = 요금을 내는 사람. taxpayer(납세자)와 똑같은 조어 방식이며, '비용을 누가 무는가'를 따지는 기사에서 둘이 짝으로 등장한다.",
+      "related": [
+        {
+          "word": "taxpayer",
+          "ko": "납세자",
+          "note": "taxpayer는 세금으로, ratepayer는 요금 고지서로 부담한다 — 부담 주체를 구분할 때 대비시켜 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "interconnection",
+      "pos": "n.",
+      "ko": "상호 연결; (전력망) 계통 연계",
+      "example_en": "The wind farm has been waiting three years for an interconnection agreement.",
+      "example_ko": "그 풍력 발전 단지는 계통 연계 계약을 3년째 기다리고 있다.",
+      "collocations": [
+        "interconnection queue",
+        "interconnection request"
+      ],
+      "note": "inter-(사이) + connect. 일반적으로는 '상호 연결'이지만 에너지 기사에서는 '발전소나 대형 수용가를 전력망에 붙이는 절차'를 뜻하는 고정 용어로 쓰인다.",
+      "family": [
+        {
+          "word": "interconnect",
+          "pos": "v.",
+          "ko": "서로 연결하다"
+        },
+        {
+          "word": "interconnected",
+          "pos": "a.",
+          "ko": "서로 얽혀 연결된"
+        }
+      ]
+    },
+    {
+      "headword": "siting",
+      "pos": "n.",
+      "ko": "입지 선정, 부지 결정",
+      "example_en": "Siting decisions for the new plant were made before the environmental review was complete.",
+      "example_ko": "새 공장의 입지 결정은 환경 영향 평가가 끝나기 전에 내려졌다.",
+      "collocations": [
+        "siting decision",
+        "plant siting"
+      ],
+      "note": "명사 site(부지)가 동사 '~을 어디에 앉히다'로 쓰이면서 생긴 말. 발음이 같은 sitting(앉아 있음)·citing(인용)과 철자로만 구분되니 함께 묶어 외운다.",
+      "related": [
+        {
+          "word": "cite",
+          "ko": "인용하다",
+          "note": "citing과 siting은 발음이 같지만 cite는 '인용·언급하다', site는 '부지를 잡다' — 받아쓰기·독해에서 자주 헷갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "baseload",
+      "pos": "n.",
+      "ko": "기저부하(하루 내내 꺼지지 않는 최소 전력 수요·설비)",
+      "example_en": "Critics argue that the grid still needs baseload power that does not depend on the weather.",
+      "example_ko": "비판자들은 전력망에 여전히 날씨에 좌우되지 않는 기저부하 전원이 필요하다고 주장한다.",
+      "collocations": [
+        "baseload power",
+        "baseload capacity"
+      ],
+      "note": "base(바닥) + load(부하) = '늘 깔려 있는 바닥 수요'. 시간대에 따라 치솟는 peak load(첨두부하)와 한 쌍으로 외우면 에너지 기사의 수요 곡선 설명이 그대로 읽힌다.",
+      "related": [
+        {
+          "word": "peak load",
+          "ko": "첨두부하",
+          "note": "수요가 몰리는 시간대의 최대 부하 — baseload가 '바닥', peak load가 '꼭대기'다"
+        }
+      ]
+    },
+    {
+      "headword": "abatement",
+      "pos": "n.",
+      "ko": "(세금의) 감면; (오염·소음의) 저감",
+      "example_en": "The city offered a ten-year tax abatement to attract the facility.",
+      "example_ko": "시는 그 시설을 유치하려고 10년짜리 세금 감면을 제시했다.",
+      "collocations": [
+        "tax abatement",
+        "noise abatement"
+      ],
+      "note": "abate(수그러들다, 줄이다)의 명사형인데 분야에 따라 번역이 갈린다 — 세무 기사에서는 tax abatement '세금 감면', 환경 기사에서는 pollution abatement '오염 저감'.",
+      "family": [
+        {
+          "word": "abate",
+          "pos": "v.",
+          "ko": "(기세가) 약해지다; 줄이다"
+        }
+      ]
+    },
+    {
+      "headword": "evaporative",
+      "pos": "a.",
+      "ko": "증발식의, 증발을 이용하는",
+      "example_en": "Evaporative cooling saves electricity but consumes large volumes of water.",
+      "example_ko": "증발식 냉각은 전기를 아끼지만 엄청난 양의 물을 쓴다.",
+      "collocations": [
+        "evaporative cooling",
+        "evaporative loss"
+      ],
+      "note": "evaporate에 -ive가 붙어 '증발시키는 방식의'가 된 형용사. 뿌리는 vapor(증기)이므로 vaporize(기화하다)·vapor와 한 집안으로 묶어 두면 기억이 쉽다.",
+      "family": [
+        {
+          "word": "evaporate",
+          "pos": "v.",
+          "ko": "증발하다; (계획·희망이) 사라지다"
+        },
+        {
+          "word": "evaporation",
+          "pos": "n.",
+          "ko": "증발"
+        }
+      ]
+    },
+    {
+      "headword": "zoning",
+      "pos": "n.",
+      "ko": "용도 지역 지정(토지 이용 규제)",
+      "example_en": "The proposal stalled because the site's zoning does not permit industrial use.",
+      "example_ko": "그 부지의 용도 지정이 공업용 사용을 허용하지 않아 제안은 답보 상태에 빠졌다.",
+      "collocations": [
+        "zoning law",
+        "zoning restrictions"
+      ],
+      "note": "zone(구역)을 동사로 써서 '구역을 나눠 용도를 정하다'가 된 말. 부동산·개발 기사에서는 용도를 바꾸는 rezoning과 한 세트로 나온다.",
+      "family": [
+        {
+          "word": "rezone",
+          "pos": "v.",
+          "ko": "용도 지역을 변경하다"
+        },
+        {
+          "word": "zone",
+          "pos": "n.",
+          "ko": "구역, 지대"
+        }
+      ]
+    },
+    {
+      "headword": "latency",
+      "pos": "n.",
+      "ko": "지연 시간; 잠복",
+      "example_en": "Traders pay a premium for servers that shave milliseconds off latency.",
+      "example_ko": "트레이더들은 지연 시간을 몇 밀리초라도 줄여 주는 서버에 웃돈을 낸다.",
+      "collocations": [
+        "low latency",
+        "reduce latency"
+      ],
+      "note": "latent(잠복한)와 같은 뿌리로, 신호가 '숨어 있다가' 도착하기까지의 시간이다. 기술 기사에서 '느리다'는 보통 slow가 아니라 high latency로 표현된다.",
+      "related": [
+        {
+          "word": "latent",
+          "ko": "잠재된, 잠복한",
+          "note": "형용사 latent는 '겉에 드러나지 않은' — latent demand(잠재 수요)처럼 쓰이며 latency의 '지연'과 어원이 같다"
+        }
+      ]
+    },
+    {
+      "headword": "drawdown",
+      "pos": "n.",
+      "ko": "(수위·비축량의) 감소, 인출; (병력) 감축",
+      "example_en": "The report warned of a steady drawdown of the region's groundwater.",
+      "example_ko": "보고서는 그 지역 지하수가 꾸준히 줄어들고 있다고 경고했다.",
+      "collocations": [
+        "drawdown of reserves",
+        "groundwater drawdown"
+      ],
+      "note": "구동사 draw down(끌어내려 쓰다)이 명사로 굳은 말로, '쌓여 있던 것을 퍼내 줄인다'는 그림 하나로 분야별 뜻이 다 풀린다 — 물이면 수위 저하, 기금이면 인출, 군대면 병력 감축.",
+      "family": [
+        {
+          "word": "draw down",
+          "pos": "v.",
+          "ko": "(비축·잔고를) 퍼내 줄이다"
+        }
+      ]
+    },
+    {
+      "headword": "pushback",
+      "pos": "n.",
+      "ko": "반발, 이의 제기",
+      "example_en": "The plan met fierce pushback from residents at the public hearing.",
+      "example_ko": "그 계획은 공청회에서 주민들의 거센 반발에 부딪혔다.",
+      "collocations": [
+        "meet pushback",
+        "face pushback from ~"
+      ],
+      "note": "구동사 push back(밀어내다)에서 온 명사. backlash가 이미 터져 버린 '거센 역풍'이라면 pushback은 회의석상의 '이의 제기'까지 포함하는 더 넓고 일상적인 말이다.",
+      "related": [
+        {
+          "word": "backlash",
+          "ko": "반발, 역풍",
+          "note": "backlash가 pushback보다 격하고 집단적 — 사설에서는 두 단어를 반발의 강도 차이로 나눠 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "conciliatory",
+      "pos": "a.",
+      "ko": "회유적인, 달래려는",
+      "example_en": "The company struck a conciliatory tone after the walkout.",
+      "example_ko": "회사는 파업 이후 회유적인 태도를 취했다.",
+      "collocations": [
+        "a conciliatory tone",
+        "a conciliatory gesture"
+      ],
+      "note": "conciliate(달래다)의 형용사로, 뿌리 concili-는 '사람을 불러 모으다'. 같은 뿌리의 reconcile(화해시키다)과 묶어 '갈등을 가라앉히는' 계열로 외운다.",
+      "family": [
+        {
+          "word": "conciliate",
+          "pos": "v.",
+          "ko": "달래다, 회유하다"
+        },
+        {
+          "word": "reconciliation",
+          "pos": "n.",
+          "ko": "화해, 조정"
+        }
+      ]
+    },
+    {
+      "headword": "culpable",
+      "pos": "a.",
+      "ko": "과실이 있는, 책임을 져야 할",
+      "example_en": "The inquiry found the regulator culpable for years of lax oversight.",
+      "example_ko": "조사는 그 규제 기관이 수년간의 느슨한 감독에 책임이 있다고 판단했다.",
+      "collocations": [
+        "be held culpable",
+        "culpable negligence"
+      ],
+      "note": "라틴어 culpa(잘못)가 뿌리다. -able이 붙었지만 '~할 수 있는'이 아니라 '비난받아 마땅한'이라는 수동적 의미인 점이 함정이다.",
+      "family": [
+        {
+          "word": "culpability",
+          "pos": "n.",
+          "ko": "과실, 유책성"
+        }
+      ],
+      "related": [
+        {
+          "word": "culprit",
+          "ko": "범인; (문제의) 원인",
+          "note": "같은 어근 — culprit은 '잘못한 사람·원인'이라는 명사, culpable은 '잘못이 있는'이라는 형용사"
+        }
+      ]
+    },
+    {
+      "headword": "vindicate",
+      "pos": "v.",
+      "ko": "정당성을 입증하다, 혐의를 벗겨 주다",
+      "example_en": "The audit vindicated the whistleblower's account of the company's finances.",
+      "example_ko": "회계 감사는 회사 재무에 대한 내부 고발자의 진술이 옳았음을 입증해 주었다.",
+      "collocations": [
+        "be vindicated by the evidence",
+        "vindicate a decision"
+      ],
+      "note": "vindic-(권리를 주장하다)이 뿌리로 '눌려 있던 사람의 옳음을 되찾아 준다'는 뜻. 생김새가 닮은 vindictive(앙심을 품은)와는 방향이 정반대라 시험에서 자주 섞어 낸다.",
+      "family": [
+        {
+          "word": "vindication",
+          "pos": "n.",
+          "ko": "정당성 입증, 명예 회복"
+        }
+      ],
+      "related": [
+        {
+          "word": "vindictive",
+          "ko": "앙심을 품은, 보복적인",
+          "note": "vindicate는 '누명을 벗기다', vindictive는 '보복하려 드는' — 철자만 닮았을 뿐 뜻이 갈라진 세트"
+        }
+      ]
+    },
+    {
+      "headword": "germane",
+      "pos": "a.",
+      "ko": "(논점과) 밀접한 관련이 있는",
+      "example_en": "That objection is not germane to the question before the committee.",
+      "example_ko": "그 반론은 위원회가 다루는 사안과는 관련이 없다.",
+      "collocations": [
+        "germane to the discussion",
+        "be germane to ~"
+      ],
+      "note": "relevant보다 한 단계 격식 있는 말로 거의 항상 be germane to 형태로 쓴다. 나라 이름 German과는 무관하고, 원래 뜻은 '같은 부모에게서 난(가까운)'이다.",
+      "related": [
+        {
+          "word": "relevant",
+          "ko": "관련 있는",
+          "note": "뜻은 거의 같지만 germane은 회의·논증·법정처럼 격식 있는 맥락에 주로 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "inordinate",
+      "pos": "a.",
+      "ko": "과도한, 지나친",
+      "example_en": "Small firms spend an inordinate amount of time on compliance paperwork.",
+      "example_ko": "소규모 기업들은 규정 준수 서류 작업에 지나치게 많은 시간을 쓴다.",
+      "collocations": [
+        "an inordinate amount of time",
+        "inordinate delay"
+      ],
+      "note": "in-(아닌) + ordinate(질서가 잡힌) = '정해진 정도를 벗어난'. order 계열(ordinary·coordinate)에 속하며, 특히 amount·number·delay 같은 양·시간 명사를 꾸민다.",
+      "family": [
+        {
+          "word": "inordinately",
+          "pos": "ad.",
+          "ko": "지나치게"
+        }
+      ]
+    }
+  ]
+}

@@ -2475,6 +2475,51 @@
     },
     "frugal": {
       "added_on": "2026-09-19"
+    },
+    "ratepayer": {
+      "added_on": "2026-09-20"
+    },
+    "interconnection": {
+      "added_on": "2026-09-20"
+    },
+    "siting": {
+      "added_on": "2026-09-20"
+    },
+    "baseload": {
+      "added_on": "2026-09-20"
+    },
+    "abatement": {
+      "added_on": "2026-09-20"
+    },
+    "evaporative": {
+      "added_on": "2026-09-20"
+    },
+    "zoning": {
+      "added_on": "2026-09-20"
+    },
+    "latency": {
+      "added_on": "2026-09-20"
+    },
+    "drawdown": {
+      "added_on": "2026-09-20"
+    },
+    "pushback": {
+      "added_on": "2026-09-20"
+    },
+    "conciliatory": {
+      "added_on": "2026-09-20"
+    },
+    "culpable": {
+      "added_on": "2026-09-20"
+    },
+    "vindicate": {
+      "added_on": "2026-09-20"
+    },
+    "germane": {
+      "added_on": "2026-09-20"
+    },
+    "inordinate": {
+      "added_on": "2026-09-20"
     }
   }
 }
