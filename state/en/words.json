@@ -2520,6 +2520,51 @@
     },
     "inordinate": {
       "added_on": "2026-09-20"
+    },
+    "garment": {
+      "added_on": "2026-09-21"
+    },
+    "apparel": {
+      "added_on": "2026-09-21"
+    },
+    "textile": {
+      "added_on": "2026-09-21"
+    },
+    "incinerate": {
+      "added_on": "2026-09-21"
+    },
+    "secondhand": {
+      "added_on": "2026-09-21"
+    },
+    "consignment": {
+      "added_on": "2026-09-21"
+    },
+    "synthetic": {
+      "added_on": "2026-09-21"
+    },
+    "biodegradable": {
+      "added_on": "2026-09-21"
+    },
+    "effluent": {
+      "added_on": "2026-09-21"
+    },
+    "dump": {
+      "added_on": "2026-09-21"
+    },
+    "inventory": {
+      "added_on": "2026-09-21"
+    },
+    "markdown": {
+      "added_on": "2026-09-21"
+    },
+    "logistics": {
+      "added_on": "2026-09-21"
+    },
+    "discretionary": {
+      "added_on": "2026-09-21"
+    },
+    "repercussion": {
+      "added_on": "2026-09-21"
     }
   }
 }

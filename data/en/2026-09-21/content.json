@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-21",
+  "passage_note": "환경·산업 — 패스트패션이 쏟아낸 헌 옷의 수출과 그 처리 비용을 떠안는 수입국(논설)",
+  "sentences": [
+    {
+      "en": "Few industries have mastered the art of manufactured urgency as thoroughly as fast fashion, which now releases new collections not four times a year but nearly every week.",
+      "ko": "패스트패션만큼 '인위적으로 만들어낸 다급함'이라는 기술을 철저히 익힌 산업은 거의 없는데, 이 산업은 이제 신상품군을 1년에 네 번이 아니라 거의 매주 내놓는다.",
+      "structure": "· Few + 주어 ~ as ... as A : 부정 주어와 원급 비교가 합쳐져 사실상 최상급 의미가 된다 — 'A만큼 ~한 것은 거의 없다' = A가 가장 ~하다.\n· , which now releases ~ : 계속적 용법의 관계대명사. 앞의 fast fashion을 받아 뒤에서 부연 설명한다(콤마가 있으므로 '그런데 그 산업은'으로 이어 읽는다).\n· not A but B : 'A가 아니라 B' — not four times a year but nearly every week가 한 쌍이다.",
+      "vocab_notes": [
+        { "word": "master", "ko": "(기술을) 완전히 익히다, 통달하다" },
+        { "word": "manufactured", "ko": "인위적으로 만들어낸 (원뜻: 제조된)" },
+        { "word": "urgency", "ko": "다급함, 긴박감" },
+        { "word": "thoroughly", "ko": "철저히" },
+        { "word": "fast fashion", "ko": "패스트패션(유행을 빠르게 찍어내는 저가 의류 산업)" },
+        { "word": "release", "ko": "출시하다, 내놓다" },
+        { "word": "collection", "ko": "(패션) 신상품군, 컬렉션" }
+      ]
+    },
+    {
+      "en": "The garments are priced so low that consumers treat them as effectively disposable, and roughly three in five are discarded within a year of purchase.",
+      "ko": "그 옷들은 값이 너무 싸게 매겨져 소비자들이 사실상 일회용품처럼 취급하며, 대략 다섯 벌 중 세 벌이 산 지 1년 안에 버려진다.",
+      "structure": "· so + 형용사/부사 + that ~ : '너무 …해서 ~하다'는 결과 구문. priced so low that consumers treat ~.\n· treat A as B : 'A를 B로 여기다·취급하다'. as 뒤에는 명사·형용사가 온다.\n· are priced / are discarded : 둘 다 수동태. 값을 '매기는' 쪽과 옷을 '버리는' 쪽(사람)은 문장에 드러나지 않고, 옷이 주어로 앞에 나왔다.",
+      "vocab_notes": [
+        { "word": "garment", "ko": "의복, 옷 한 점" },
+        { "word": "price", "ko": "값을 매기다" },
+        { "word": "consumer", "ko": "소비자" },
+        { "word": "treat A as B", "ko": "A를 B로 여기다, 취급하다" },
+        { "word": "effectively", "ko": "사실상 (효과적으로'가 아님에 주의)" },
+        { "word": "disposable", "ko": "일회용의, 쓰고 버리는" },
+        { "word": "roughly", "ko": "대략" },
+        { "word": "three in five", "ko": "다섯 중 셋" },
+        { "word": "discard", "ko": "버리다, 폐기하다" },
+        { "word": "purchase", "ko": "구매" }
+      ]
+    },
+    {
+      "en": "What is billed as charitable donation frequently turns out to be an export business: bales of unsold and unwanted clothing are shipped to markets in West Africa and South Asia, where traders buy them sight unseen and absorb whatever cannot be resold.",
+      "ko": "자선 기부라고 내세워지는 것이 알고 보면 수출업인 경우가 잦다. 팔리지 않았거나 원치 않는 옷을 압축해 묶은 더미가 서아프리카와 남아시아의 시장으로 실려 가고, 그곳 상인들은 실물을 보지도 않고 그것을 사들인 뒤 되팔 수 없는 것은 모두 떠안는다.",
+      "structure": "· What is billed as ~ : 관계대명사 what이 이끄는 명사절이 문장 전체의 주어다('~라고 내세워지는 것').\n· turn out to be ~ : '알고 보니 ~이다'.\n· , where traders buy ~ : 관계부사 where가 앞의 markets(장소)를 받아 부연한다.\n· sight unseen : 'sight(가) unseen(보이지 않은 채)'인 독립분사구문이 굳어진 관용구 — '실물을 확인하지 않고'.\n· whatever cannot be resold : 복합관계대명사 whatever가 이끄는 명사절이 absorb의 목적어('되팔 수 없는 것은 무엇이든').",
+      "vocab_notes": [
+        { "word": "bill A as B", "ko": "A를 B라고 내세우다, 광고하다" },
+        { "word": "charitable", "ko": "자선의" },
+        { "word": "donation", "ko": "기부" },
+        { "word": "turn out to be", "ko": "~인 것으로 드러나다" },
+        { "word": "export business", "ko": "수출업" },
+        { "word": "bale", "ko": "(압축해 묶은) 더미, 곤포" },
+        { "word": "unsold", "ko": "팔리지 않은" },
+        { "word": "unwanted", "ko": "원치 않는" },
+        { "word": "ship", "ko": "실어 보내다, 수송하다" },
+        { "word": "trader", "ko": "상인, 무역업자" },
+        { "word": "sight unseen", "ko": "실물을 보지 않고" },
+        { "word": "absorb", "ko": "(손실·비용을) 떠안다" },
+        { "word": "resell", "ko": "되팔다" }
+      ]
+    },
+    {
+      "en": "Because a growing share of these consignments consists of synthetic fibers that will neither biodegrade nor burn cleanly, the surplus ends up in open dumps and waterways, and the cost of disposal falls on municipalities that never profited from the sale.",
+      "ko": "이 탁송 화물 가운데 생분해되지도, 깨끗이 타지도 않는 합성섬유의 비중이 점점 커지고 있기 때문에, 남는 물량은 결국 야적 쓰레기장과 하천으로 흘러들고, 그 처리 비용은 판매로 이익을 본 적도 없는 지자체에 돌아간다.",
+      "structure": "· Because ~ , 주절 : 이유 부사절이 앞에 나오고 the surplus ends up ~ 이하가 주절이다.\n· a growing share of ~ consists of ... : 주어의 핵은 share(단수)이므로 동사도 consists로 단수 일치.\n· that will neither biodegrade nor burn cleanly : 관계대명사 that이 synthetic fibers를 수식. 상관접속사 neither A nor B가 동사원형 둘(biodegrade, burn)을 병렬로 묶었다.\n· that never profited from the sale : 또 하나의 관계대명사절로, 앞의 municipalities를 수식한다.",
+      "vocab_notes": [
+        { "word": "a growing share of", "ko": "~중 점점 커지는 비중" },
+        { "word": "consignment", "ko": "탁송 화물, 한 번에 보내는 물량" },
+        { "word": "consist of", "ko": "~로 이루어지다" },
+        { "word": "synthetic", "ko": "합성의, 인조의" },
+        { "word": "fiber", "ko": "섬유" },
+        { "word": "biodegrade", "ko": "(미생물에) 분해되다" },
+        { "word": "burn cleanly", "ko": "깨끗이 연소되다" },
+        { "word": "surplus", "ko": "남는 물량, 잉여" },
+        { "word": "end up in", "ko": "결국 ~로 가게 되다" },
+        { "word": "open dump", "ko": "야적 쓰레기장" },
+        { "word": "waterway", "ko": "수로, 하천" },
+        { "word": "disposal", "ko": "처리, 폐기" },
+        { "word": "fall on", "ko": "(부담이) ~에게 돌아가다" },
+        { "word": "municipality", "ko": "지방자치단체" },
+        { "word": "profit from", "ko": "~로 이익을 얻다" }
+      ]
+    },
+    {
+      "en": "Regulators in exporting countries are belatedly weighing extended producer responsibility schemes, which would compel brands to finance collection and recycling, though critics warn that the levies will simply be passed on to shoppers rather than curbing overproduction at its source.",
+      "ko": "수출국의 규제 당국은 뒤늦게 생산자책임 확대 제도를 저울질하고 있는데, 이 제도는 브랜드가 수거와 재활용에 자금을 대도록 강제하게 된다. 다만 비판자들은 그 부과금이 과잉생산을 근원에서 억제하기보다 그저 소비자에게 전가될 뿐이라고 경고한다.",
+      "structure": "· , which would compel brands to finance ~ : 계속적 용법의 관계대명사(선행사 schemes) + compel + 목적어 + to부정사. 'compel A to B(A가 B하도록 강제하다)' 5형식 구조가 관계사절 안에 들어 있다.\n· would : 아직 도입되지 않은 제도를 전제로 한 가정의 의미('도입된다면 ~하게 될 것이다').\n· though ~ : 양보 부사절('~이긴 하지만, 다만').\n· rather than curbing : rather than은 전치사처럼 쓰여 뒤에 동명사가 오고, 앞의 be passed on과 대비된다.",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국" },
+        { "word": "belatedly", "ko": "뒤늦게" },
+        { "word": "weigh", "ko": "저울질하다, 신중히 검토하다" },
+        { "word": "extended producer responsibility", "ko": "생산자책임 확대(제품 폐기까지 생산자에게 책임을 지우는 제도)" },
+        { "word": "scheme", "ko": "제도, 계획" },
+        { "word": "compel", "ko": "~하도록 강제하다" },
+        { "word": "finance", "ko": "자금을 대다" },
+        { "word": "collection", "ko": "(폐기물의) 수거" },
+        { "word": "levy", "ko": "부과금, 부담금" },
+        { "word": "pass on to", "ko": "~에게 전가하다" },
+        { "word": "curb", "ko": "억제하다" },
+        { "word": "overproduction", "ko": "과잉생산" },
+        { "word": "at its source", "ko": "근원에서" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "garment",
+      "pos": "n.",
+      "ko": "의복, 옷 한 점",
+      "example_en": "The company audits every garment factory in its supply chain twice a year.",
+      "example_ko": "그 회사는 공급망에 있는 모든 의류 공장을 1년에 두 번 감사한다.",
+      "collocations": ["garment factory", "garment worker"],
+      "note": "clothes는 뭉뚱그리는 말이라 셀 수 없지만 garment는 '옷 한 점'으로 셀 수 있어 통계·업계 문서에서 쓴다. 어원은 '갖춰 꾸미다'로, 접시를 꾸미는 garnish와 뿌리가 같다.",
+      "related": [
+        { "word": "apparel", "ko": "의류", "note": "apparel은 집합적인 '의류 전체'(불가산), garment는 낱개의 옷 — apparel exports / three garments" }
+      ]
+    },
+    {
+      "headword": "apparel",
+      "pos": "n.",
+      "ko": "의류",
+      "example_en": "Apparel exports account for nearly a third of the country's foreign earnings.",
+      "example_ko": "의류 수출이 그 나라 외화 수입의 거의 3분의 1을 차지한다.",
+      "collocations": ["apparel industry", "apparel exports"],
+      "note": "'채비를 갖추다(prepare)'에서 온 격식·업계 용어라 불가산이다 — apparels로 쓰지 않는다. 신문 경제면의 apparel maker는 우리말 '의류업체'에 정확히 대응한다.",
+      "related": [
+        { "word": "garment", "ko": "의복 한 점", "note": "세는 단위가 필요하면 garment, 산업·품목을 통째로 가리키면 apparel" }
+      ]
+    },
+    {
+      "headword": "textile",
+      "pos": "n.",
+      "ko": "직물, 섬유 제품",
+      "example_en": "Textile mills are among the largest industrial users of fresh water.",
+      "example_ko": "방직 공장은 담수를 가장 많이 쓰는 산업 시설 중 하나다.",
+      "collocations": ["textile industry", "textile waste"],
+      "note": "라틴어 texere(짜다)에서 왔다 — text(짜인 글), texture(짜임새), context(함께 짜인 맥락)가 전부 한 뿌리라 묶어 외우면 좋다.",
+      "family": [
+        { "word": "texture", "pos": "n.", "ko": "질감, 짜임새" },
+        { "word": "context", "pos": "n.", "ko": "맥락, 문맥" }
+      ]
+    },
+    {
+      "headword": "incinerate",
+      "pos": "v.",
+      "ko": "소각하다",
+      "example_en": "Rather than pay landfill fees, the plant incinerates its waste on site.",
+      "example_ko": "그 공장은 매립 수수료를 내는 대신 폐기물을 현장에서 소각한다.",
+      "collocations": ["incinerate waste", "incinerated at high temperatures"],
+      "note": "cinder(타고 남은 재)와 같은 뿌리로 '재로 만들다'가 원뜻. 단순히 burn이 아니라 '처리하려고 태운다'는 뜻이어서 폐기물·의료폐기물 기사에 붙는다.",
+      "family": [
+        { "word": "incineration", "pos": "n.", "ko": "소각" },
+        { "word": "incinerator", "pos": "n.", "ko": "소각로" }
+      ]
+    },
+    {
+      "headword": "secondhand",
+      "pos": "a.",
+      "ko": "중고의; 간접적인",
+      "example_en": "The market for secondhand clothing has grown faster than the retail market itself.",
+      "example_ko": "중고 의류 시장은 소매 시장 자체보다 빠르게 성장해 왔다.",
+      "collocations": ["secondhand clothing", "buy it secondhand"],
+      "note": "물건에 붙으면 '중고', 정보·연기에 붙으면 '건너 들은·간접적인'으로 뜻이 갈라진다(secondhand information 전해 들은 정보, secondhand smoke 간접흡연). 부사로도 그대로 써서 buy it secondhand(중고로 사다).",
+      "related": [
+        { "word": "hand-me-down", "ko": "물려받은 헌 옷", "note": "hand-me-down은 가족·지인에게서 물려받은 것을 콕 집어 말하는 구어, secondhand는 시장에서 거래되는 중고 전반" }
+      ]
+    },
+    {
+      "headword": "consignment",
+      "pos": "n.",
+      "ko": "탁송 화물, 한 번에 보내는 물량; 위탁 판매",
+      "example_en": "Customs officers seized a consignment of counterfeit parts at the port.",
+      "example_ko": "세관원들이 항구에서 위조 부품 한 건의 화물을 압수했다.",
+      "collocations": ["a consignment of goods", "on consignment"],
+      "note": "con-(함께)+sign(서명) — 서류에 서명해 남의 손에 '맡겨 보내는' 것. 무역 문서에서는 '화물 한 건', on consignment는 '팔린 만큼만 정산하는 위탁 판매' 조건을 뜻한다.",
+      "family": [
+        { "word": "consign", "pos": "v.", "ko": "탁송하다, (~에) 맡겨 넘기다" }
+      ]
+    },
+    {
+      "headword": "synthetic",
+      "pos": "a.",
+      "ko": "합성의, 인조의",
+      "example_en": "Synthetic fibers shed microplastics every time the garment is washed.",
+      "example_ko": "합성섬유는 옷을 세탁할 때마다 미세플라스틱을 떨어뜨린다.",
+      "collocations": ["synthetic fibers", "synthetic materials"],
+      "note": "syn-(함께)+thesis(놓다) — 여러 요소를 '합쳐 놓아' 만든 것. synthesis(종합)·photosynthesis(광합성)와 한 뿌리이고, 반대말은 natural이다.",
+      "family": [
+        { "word": "synthesis", "pos": "n.", "ko": "종합, 합성" },
+        { "word": "synthesize", "pos": "v.", "ko": "합성하다, 종합하다" }
+      ]
+    },
+    {
+      "headword": "biodegradable",
+      "pos": "a.",
+      "ko": "생분해되는, 미생물에 분해되는",
+      "example_en": "The packaging is advertised as biodegradable, but only in an industrial facility.",
+      "example_ko": "그 포장재는 생분해된다고 광고되지만, 산업용 시설에서만 그렇다.",
+      "collocations": ["biodegradable packaging", "fully biodegradable"],
+      "note": "bio(생물)+degrade(분해되다)+-able. 광고의 biodegradable에는 '온도·산소 조건이 맞을 때'라는 단서가 숨어 있어, 기한을 보장하는 compostable과 구분해 읽어야 한다.",
+      "related": [
+        { "word": "compostable", "ko": "퇴비화 가능한", "note": "compostable은 정해진 기간 안에 퇴비가 되는 것까지 보장, biodegradable은 '언젠가는 분해된다'는 느슨한 말" }
+      ]
+    },
+    {
+      "headword": "effluent",
+      "pos": "n.",
+      "ko": "(공장·하수의) 배출수, 폐수",
+      "example_en": "Untreated effluent from the dyeing plants has turned the river a deep blue.",
+      "example_ko": "염색 공장에서 처리되지 않은 채 나온 폐수가 강을 짙은 파란색으로 바꿔 놓았다.",
+      "collocations": ["industrial effluent", "untreated effluent"],
+      "note": "ex-(밖으로)+fluere(흐르다) — '밖으로 흘러나온 것'. fluent(막힘없이 흐르는)·influx(유입)와 한 뿌리다.",
+      "related": [
+        { "word": "affluent", "ko": "부유한", "note": "철자가 한 글자 차이지만 affluent는 ad-(~쪽으로) 흘러들어 재물이 쌓인 '부유한' — effluent(폐수)와 혼동 금지" }
+      ]
+    },
+    {
+      "headword": "dump",
+      "pos": "v.",
+      "ko": "내다 버리다; (외국 시장에) 헐값으로 밀어내다",
+      "example_en": "Domestic producers accused foreign rivals of dumping steel below cost.",
+      "example_ko": "국내 생산자들은 외국 경쟁사들이 원가 이하로 철강을 헐값에 밀어냈다고 비난했다.",
+      "collocations": ["dump waste", "anti-dumping duty"],
+      "note": "무역 기사에 나오는 dump는 '헐값 투매' — 반덤핑 관세(anti-dumping duty)의 그 덤핑이다. '쓰레기를 버리다'와 '재고를 싸게 떠넘기다'가 한 단어라는 점을 함께 외워 두면 두 문맥 모두 읽힌다.",
+      "family": [
+        { "word": "dumping", "pos": "n.", "ko": "투매, 덤핑; 불법 투기" }
+      ]
+    },
+    {
+      "headword": "inventory",
+      "pos": "n.",
+      "ko": "재고(품); 재고 목록",
+      "example_en": "Retailers cut prices sharply to clear unsold inventory before the new season.",
+      "example_ko": "소매업체들은 새 시즌 전에 팔리지 않은 재고를 털어내려고 가격을 큰 폭으로 내렸다.",
+      "collocations": ["inventory turnover", "excess inventory", "take inventory"],
+      "note": "영국식 stock에 해당하는 미국·회계 용어. 어원은 invenire(찾아내다)로 invent(발명하다)와 같은 뿌리인데, '창고에서 찾아낸 것들의 목록'이 원뜻이다. 토익에서는 inventory turnover(재고 회전율)가 단골.",
+      "related": [
+        { "word": "stock", "ko": "재고; 주식", "note": "stock은 영국식 '재고'와 미국식 '주식'을 겸해 헷갈리므로, 창고 이야기에서는 inventory가 더 분명하다" }
+      ]
+    },
+    {
+      "headword": "markdown",
+      "pos": "n.",
+      "ko": "가격 인하(폭)",
+      "example_en": "Deep markdowns in the final quarter wiped out the chain's annual profit.",
+      "example_ko": "마지막 분기의 대폭 가격 인하가 그 체인의 연간 이익을 날려 버렸다.",
+      "collocations": ["deep markdowns", "a markdown of 30%"],
+      "note": "값을 장부에 '아래로 적는' 것이 markdown, '위로 적는' 것이 markup. 명사는 붙여 쓰고 동사는 두 단어로 떼어 mark down으로 쓴다.",
+      "related": [
+        { "word": "markup", "ko": "가격 인상분, 이윤폭", "note": "markup은 원가 위에 얹는 폭, markdown은 정가에서 깎는 폭 — 방향이 정반대다" }
+      ]
+    },
+    {
+      "headword": "logistics",
+      "pos": "n.",
+      "ko": "물류; (행사·작전의) 실행 준비",
+      "example_en": "Logistics accounts for a larger share of the final price than the fabric itself.",
+      "example_ko": "물류가 원단 자체보다 최종 가격에서 더 큰 비중을 차지한다.",
+      "collocations": ["logistics provider", "logistics costs"],
+      "note": "군대의 '보급'을 뜻하던 말이 기업의 '물류'로 넘어왔다. -s로 끝나지만 단수 취급이라 Logistics is ~로 받고, logic(논리)과는 어원이 다르다.",
+      "family": [
+        { "word": "logistical", "pos": "a.", "ko": "물류상의, 실행 준비상의" }
+      ]
+    },
+    {
+      "headword": "discretionary",
+      "pos": "a.",
+      "ko": "재량에 따른, 임의의",
+      "example_en": "Households cut discretionary spending first when interest rates rise.",
+      "example_ko": "금리가 오르면 가계는 재량적 지출부터 줄인다.",
+      "collocations": ["discretionary spending", "discretionary bonus"],
+      "note": "discretion(재량; 신중함)의 형용사. 예산 기사의 discretionary spending은 '법으로 고정돼 있지 않아 해마다 깎을 수 있는 지출'로, mandatory spending(의무지출)과 늘 짝으로 나온다.",
+      "family": [
+        { "word": "discretion", "pos": "n.", "ko": "재량; 신중함" },
+        { "word": "discreet", "pos": "a.", "ko": "신중한, 입이 무거운 — 철자가 비슷한 discrete(별개의)와 다름" }
+      ]
+    },
+    {
+      "headword": "repercussion",
+      "pos": "n.",
+      "ko": "(좋지 않은) 파급 영향, 후폭풍",
+      "example_en": "The export ban had repercussions far beyond the industry it was meant to protect.",
+      "example_ko": "그 수출 금지 조치는 보호하려던 산업을 훨씬 넘어서는 파급 영향을 낳았다.",
+      "collocations": ["serious repercussions", "political repercussions"],
+      "note": "re-(되)+percussion(두드림) — 친 것이 '되돌아와 울리는' 것. 대개 복수형으로 쓰고, 좋은 결과에는 붙이지 않는 부정적인 말이다.",
+      "related": [
+        { "word": "ramification", "ko": "파생 결과", "note": "ramification은 가지처럼 뻗어 나가는 결과라 중립적, repercussion은 되돌아와 때리는 악영향" }
+      ]
+    },
+    {
+      "headword": "ameliorate",
+      "pos": "v.",
+      "ko": "(나쁜 상태를) 개선하다",
+      "example_en": "Cash transfers ameliorated the worst effects of the price shock but did not reverse them.",
+      "example_ko": "현금 지급은 물가 충격의 최악의 영향을 개선했지만 되돌리지는 못했다.",
+      "collocations": ["ameliorate conditions", "ameliorate the effects"],
+      "note": "melior(더 좋은)에서 온 말로 '더 낫게 만들다'. 격식체라 논설문에 주로 나오고, 일상 대화에서는 improve를 쓴다.",
+      "related": [
+        { "word": "alleviate", "ko": "완화하다", "note": "alleviate는 고통·부담을 '덜어' 가볍게 하는 쪽, ameliorate는 상태 자체를 '더 낫게' 바꾸는 쪽" },
+        { "word": "deteriorate", "ko": "악화되다", "note": "정반대 방향 — 나빠지는 쪽이 deteriorate" }
+      ]
+    },
+    {
+      "headword": "perfunctory",
+      "pos": "a.",
+      "ko": "형식적인, 건성의",
+      "example_en": "The audit was perfunctory: inspectors visited three of the sixty sites.",
+      "example_ko": "그 감사는 형식적이었다. 조사관들은 예순 곳 중 세 곳만 방문했다.",
+      "collocations": ["perfunctory inspection", "a perfunctory nod"],
+      "note": "per-(끝까지)+fungi(수행하다) — function과 같은 뿌리로 '해치우기만 한'. 의무를 하긴 했으나 성의는 남아 있지 않은 상태를 가리킨다.",
+      "related": [
+        { "word": "cursory", "ko": "대충 훑어보는", "note": "cursory는 '빠르게 훑고 지나간'(속도), perfunctory는 '성의 없이 때운'(태도) — a cursory glance / a perfunctory apology" }
+      ]
+    },
+    {
+      "headword": "tally",
+      "pos": "v.",
+      "ko": "집계하다; (수치가) 들어맞다",
+      "example_en": "The customs figures do not tally with the exporters' own records.",
+      "example_ko": "세관 수치는 수출업체 자체 기록과 들어맞지 않는다.",
+      "collocations": ["tally the votes", "tally with the records"],
+      "note": "옛날 나무 막대(tally stick)에 금을 그어 수를 세던 데서 온 말이라, '수를 세다'와 '양쪽 수치가 맞아떨어지다'(the figures don't tally) 두 뜻이 함께 산다.",
+      "related": [
+        { "word": "reconcile", "ko": "(장부를) 대조해 맞추다", "note": "회계에서 두 기록을 맞춰 보는 행위는 reconcile, 그 결과 수치가 맞아떨어지는 상태가 tally" }
+      ]
+    }
+  ]
+}
