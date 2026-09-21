@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-22",
+  "words": [
+    {
+      "headword": "occupancy",
+      "pos": "n.",
+      "ko": "입주율, 점유율; 사용, 점유",
+      "example_en": "The developer reported that occupancy at the downtown tower had slipped to just under sixty percent.",
+      "example_ko": "그 시행사는 도심 빌딩의 입주율이 60퍼센트를 갓 밑도는 수준까지 떨어졌다고 밝혔다.",
+      "collocations": [
+        "occupancy rate",
+        "maximum occupancy"
+      ],
+      "note": "occupy(차지하다)에서 -ant는 '사람', -ancy는 '상태·비율'로 갈린다 — occupant는 입주자, occupancy는 입주율. 호텔·부동산 기사에서 실적을 가리키는 핵심 숫자다.",
+      "family": [
+        {
+          "word": "occupy",
+          "pos": "v.",
+          "ko": "차지하다, 점유하다"
+        },
+        {
+          "word": "occupant",
+          "pos": "n.",
+          "ko": "입주자, (차·건물의) 사용자"
+        },
+        {
+          "word": "occupational",
+          "pos": "a.",
+          "ko": "직업의 — '직업' 쪽으로 뜻이 갈라진 파생형(occupational safety 산업안전)"
+        }
+      ]
+    },
+    {
+      "headword": "foreclosure",
+      "pos": "n.",
+      "ko": "(담보권 실행에 의한) 차압, 압류",
+      "example_en": "Six months of missed payments put the property into foreclosure.",
+      "example_ko": "6개월치 상환이 밀리면서 그 부동산은 차압 절차에 들어갔다.",
+      "collocations": [
+        "face foreclosure",
+        "foreclosure proceedings"
+      ],
+      "note": "fore-(미리) + close(닫다) — 돈을 갚고 되찾을 길을 '미리 닫아' 버린다는 뜻. 빚 못 갚은 집을 은행이 가져가는 절차를 가리킨다.",
+      "family": [
+        {
+          "word": "foreclose",
+          "pos": "v.",
+          "ko": "(저당물을) 차압하다; (가능성을) 미리 차단하다"
+        }
+      ]
+    },
+    {
+      "headword": "delinquency",
+      "pos": "n.",
+      "ko": "(대금·대출의) 연체; (청소년) 비행",
+      "example_en": "Credit card delinquency rose for the third straight quarter.",
+      "example_ko": "신용카드 연체가 3분기 연속 증가했다.",
+      "collocations": [
+        "loan delinquency",
+        "delinquency rate"
+      ],
+      "note": "뜻이 두 갈래로 갈리는 단어 — 경제면에서는 '연체', 사회면에서는 juvenile delinquency(청소년 비행). 공통 감각은 '마땅히 해야 할 의무를 이행하지 않음'이다.",
+      "family": [
+        {
+          "word": "delinquent",
+          "pos": "a.",
+          "ko": "연체된; 비행을 저지른 (명사로는 비행 청소년)"
+        }
+      ]
+    },
+    {
+      "headword": "refinance",
+      "pos": "v.",
+      "ko": "재융자를 받다, 대출을 갈아타다",
+      "example_en": "The owners could not refinance the loan when it came due last spring.",
+      "example_ko": "소유주들은 지난봄 대출 만기가 돌아왔을 때 재융자를 받지 못했다.",
+      "collocations": [
+        "refinance a mortgage",
+        "refinance debt"
+      ],
+      "note": "re-(다시) + finance(자금을 대다) — 새 대출로 옛 대출을 갚아 금리·만기 조건을 바꾸는 일. 만기 때 이 길이 막히면 곧바로 부실·차압으로 이어진다.",
+      "related": [
+        {
+          "word": "restructure",
+          "ko": "채무를 재조정하다",
+          "note": "restructure는 빚의 조건 자체를 다시 짜는 것(원금 감면 포함), refinance는 새 대출로 갈아타는 것"
+        }
+      ]
+    },
+    {
+      "headword": "appraisal",
+      "pos": "n.",
+      "ko": "감정평가(액); 평가",
+      "example_en": "The bank ordered a fresh appraisal before approving the loan.",
+      "example_ko": "은행은 대출을 승인하기 전에 새로 감정평가를 받도록 했다.",
+      "collocations": [
+        "property appraisal",
+        "performance appraisal"
+      ],
+      "note": "praise(칭송하다)·price(값)와 한 뿌리로 '값을 매기는 일' — 부동산이면 감정평가, 회사에서는 performance appraisal(인사평가)가 된다.",
+      "family": [
+        {
+          "word": "appraise",
+          "pos": "v.",
+          "ko": "감정하다, 값을 매기다"
+        }
+      ],
+      "related": [
+        {
+          "word": "apprise",
+          "ko": "알리다, 통지하다",
+          "note": "철자가 한 끗 차이 — appraise는 '값을 매기다', apprise는 'apprise A of B(A에게 B를 알리다)'"
+        }
+      ]
+    },
+    {
+      "headword": "repurpose",
+      "pos": "v.",
+      "ko": "용도를 바꾸다, 다른 쓰임새로 돌리다",
+      "example_en": "The city plans to repurpose the vacant warehouse as a public library.",
+      "example_ko": "시는 비어 있는 창고를 공공도서관으로 용도 변경할 계획이다.",
+      "collocations": [
+        "repurpose a building",
+        "repurpose existing equipment"
+      ],
+      "note": "re- + purpose(용도) — 부수거나 버리지 않고 '쓰임새만' 바꾸는 것. 건축 기사에서는 같은 개념을 adaptive reuse(적응형 재사용)라고도 부른다.",
+      "family": [
+        {
+          "word": "purpose",
+          "pos": "n.",
+          "ko": "목적, 용도"
+        }
+      ]
+    },
+    {
+      "headword": "overhang",
+      "pos": "n.",
+      "ko": "(시장에 남아 시세를 누르는) 과잉 물량; 돌출부",
+      "example_en": "A supply overhang of unsold offices will depress rents for years.",
+      "example_ko": "팔리지 않은 사무실의 공급 과잉 물량이 수년간 임대료를 짓누를 것이다.",
+      "collocations": [
+        "supply overhang",
+        "debt overhang"
+      ],
+      "note": "처마처럼 '위에 드리워 있는 것' — hang over(~에 드리우다)를 뒤집은 명사로, 시장 위에 걸린 채 값을 누르는 미해소 물량이나 부채를 말한다.",
+      "related": [
+        {
+          "word": "overhaul",
+          "ko": "전면 점검, 개편",
+          "note": "생김새만 비슷할 뿐 뜻은 전혀 다르다 — overhaul은 '뜯어고치다', overhang은 '위에 드리운 부담'"
+        }
+      ]
+    },
+    {
+      "headword": "mothball",
+      "pos": "v.",
+      "ko": "가동을 멈추고 봉인해 두다 (명사: 좀약)",
+      "example_en": "The airline mothballed a dozen aircraft until demand recovered.",
+      "example_ko": "그 항공사는 수요가 회복될 때까지 항공기 열두 대를 봉인 보관했다.",
+      "collocations": [
+        "mothball a plant",
+        "mothball a project"
+      ],
+      "note": "옷장에 좀약(mothball)을 넣어 옷을 재워 두던 데서 온 말 — '없애지는 않고 나중에 다시 꺼내 쓰려고 세워 둔다'는 어감이 핵심이다.",
+      "related": [
+        {
+          "word": "scrap",
+          "ko": "폐기하다",
+          "note": "scrap은 아예 해체·폐기하는 것, mothball은 되살릴 여지를 남긴 중단"
+        }
+      ]
+    },
+    {
+      "headword": "egress",
+      "pos": "n.",
+      "ko": "(건물의) 출구, 피난 동선; 밖으로 나감",
+      "example_en": "Fire codes require two means of egress on every floor.",
+      "example_ko": "소방 법규는 층마다 두 개의 피난 출구를 갖추도록 요구한다.",
+      "collocations": [
+        "means of egress",
+        "ingress and egress"
+      ],
+      "note": "e-(밖) + gress(걷다) = 밖으로 걸어 나감. progress(앞으로 걷다)·congress(함께 걷다 = 의회)와 같은 뿌리로 묶어 두면 gress가 '걷다'로 고정된다.",
+      "related": [
+        {
+          "word": "ingress",
+          "ko": "진입, 들어감",
+          "note": "계약서·건축 도면에는 ingress and egress(출입)가 한 묶음으로 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "setback",
+      "pos": "n.",
+      "ko": "차질, 후퇴; (건축) 대지 경계에서 건물을 물린 거리",
+      "example_en": "Zoning rules impose a ten-meter setback from the street.",
+      "example_ko": "용도지역 규정은 도로에서 10미터를 띄워 짓도록 정하고 있다.",
+      "collocations": [
+        "suffer a setback",
+        "a major setback"
+      ],
+      "note": "일상 기사에서는 '차질·좌절'이지만 도시·건축 문서에서는 '건물을 뒤로(back) 물려 세운(set) 거리'라는 전혀 다른 뜻이 된다. 두 얼굴을 같이 외워 둘 것.",
+      "family": [
+        {
+          "word": "set back",
+          "pos": "v.",
+          "ko": "지연시키다; (돈이) 들게 하다 — 동사는 띄어 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "foot traffic",
+      "pos": "n.",
+      "ko": "유동 인구, (걸어서 오가는) 방문객 통행량",
+      "example_en": "Foot traffic in the business district has not returned to pre-pandemic levels.",
+      "example_ko": "업무지구의 유동 인구는 팬데믹 이전 수준을 회복하지 못했다.",
+      "collocations": [
+        "drive foot traffic",
+        "foot traffic declined"
+      ],
+      "note": "차량이 아니라 '걸어 다니는 사람'의 양 — 소매업 기사에서 매출을 앞서 알려 주는 지표로 늘 등장한다. 온라인 쪽 대응어는 web traffic.",
+      "related": [
+        {
+          "word": "footprint",
+          "ko": "발자국; (차지하는) 면적·영향 범위",
+          "note": "foot이 들어가도 뜻이 다르다 — carbon footprint(탄소 발자국)처럼 '남기는 자국'"
+        }
+      ]
+    },
+    {
+      "headword": "vacate",
+      "pos": "v.",
+      "ko": "(건물·자리를) 비우다, 떠나다; (법) 판결을 무효로 하다",
+      "example_en": "Tenants must vacate the premises by the end of the month.",
+      "example_ko": "임차인은 이달 말까지 건물을 비워야 한다.",
+      "collocations": [
+        "vacate the premises",
+        "vacate a position"
+      ],
+      "note": "vac-(비다)이 뿌리라 vacancy(공실)·vacation(휴가)과 한 가족 — 휴가도 본래 '자리를 비움'이다. 법률 기사에서는 상급심이 판결을 '파기하다'라는 뜻으로 쓴다.",
+      "family": [
+        {
+          "word": "vacant",
+          "pos": "a.",
+          "ko": "비어 있는"
+        },
+        {
+          "word": "vacancy",
+          "pos": "n.",
+          "ko": "공실; 결원, 빈자리"
+        }
+      ]
+    },
+    {
+      "headword": "unanimous",
+      "pos": "a.",
+      "ko": "만장일치의",
+      "example_en": "The board gave unanimous approval to the redevelopment plan.",
+      "example_ko": "이사회는 재개발 계획을 만장일치로 승인했다.",
+      "collocations": [
+        "a unanimous decision",
+        "a unanimous vote"
+      ],
+      "note": "unus(하나) + animus(마음) = '마음이 하나' — 여기의 un-은 부정의 un-이 아니다. 이걸 알아 두면 철자와 뜻을 동시에 잡는다.",
+      "family": [
+        {
+          "word": "unanimously",
+          "pos": "adv.",
+          "ko": "만장일치로"
+        },
+        {
+          "word": "unanimity",
+          "pos": "n.",
+          "ko": "만장일치, 의견 일치"
+        }
+      ]
+    },
+    {
+      "headword": "belated",
+      "pos": "a.",
+      "ko": "뒤늦은, 때늦은",
+      "example_en": "The company issued a belated apology to affected customers.",
+      "example_ko": "그 회사는 피해를 입은 고객들에게 뒤늦은 사과를 내놓았다.",
+      "collocations": [
+        "a belated apology",
+        "belated recognition"
+      ],
+      "note": "be- + late — '때를 놓친 뒤에야 온'. Happy belated birthday(늦었지만 생일 축하해)로 익혀 두면 바로 입에 붙는다.",
+      "related": [
+        {
+          "word": "lately",
+          "ko": "최근에",
+          "note": "late(늦은)와 lately(최근에)는 뜻이 전혀 다르다 — '늦게'는 부사도 late 그대로 쓴다(He arrived late)"
+        }
+      ]
+    },
+    {
+      "headword": "hamstring",
+      "pos": "v.",
+      "ko": "발목을 잡다, 무력하게 만들다",
+      "example_en": "Budget cuts have hamstrung the agency's inspection program.",
+      "example_ko": "예산 삭감이 그 기관의 점검 사업의 발목을 잡았다.",
+      "collocations": [
+        "hamstring efforts",
+        "be hamstrung by"
+      ],
+      "note": "무릎 뒤 힘줄(hamstring)을 끊어 못 걷게 하던 데서 온 말로, 한국어 '발목을 잡다'와 발상이 같다. 과거형·과거분사는 hamstrung.",
+      "related": [
+        {
+          "word": "hinder",
+          "ko": "방해하다",
+          "note": "hinder는 진행을 더디게 하는 정도, hamstring은 능력 자체를 못 쓰게 만드는 훨씬 센 말"
+        }
+      ]
+    }
+  ]
+}

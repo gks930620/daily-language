@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-22",
+  "passage_note": "도시·부동산 — 재택근무 이후 비어버린 도심 사무실을 주거로 바꾸자는 제안과 그 비용을 누가 무는가(논설)",
+  "sentences": [
+    {
+      "en": "Five years after remote work became routine, the office towers that once anchored downtown districts stand half empty, and their rents have fallen far below what owners promised lenders.",
+      "ko": "원격 근무가 일상이 된 지 5년, 한때 도심 지구의 중심을 잡아 주던 오피스 빌딩들은 절반이 빈 채로 서 있고, 그 임대료는 소유주들이 대출 기관에 약속했던 수준을 한참 밑돌고 있다.",
+      "structure": "· that once anchored ~ : 주격 관계대명사절이 the office towers를 뒤에서 수식.\n· stand half empty : stand는 '서 있다'가 아니라 불완전자동사로 쓰여 뒤의 형용사(half empty)를 보어로 받는다 — '~한 상태로 있다'.\n· what owners promised lenders : 관계대명사 what이 이끄는 명사절이 전치사 below의 목적어. promise는 4형식(promise+간접목적어+직접목적어) 동사라 직접목적어 자리가 what으로 빠져나갔다.",
+      "vocab_notes": [
+        { "word": "remote work", "ko": "원격 근무, 재택근무" },
+        { "word": "routine", "ko": "일상적인 일; 판에 박힌" },
+        { "word": "office tower", "ko": "고층 사무용 빌딩" },
+        { "word": "anchor", "ko": "~의 중심이 되다, 지탱하다 (명사: 닻)" },
+        { "word": "downtown", "ko": "도심의; 도심" },
+        { "word": "district", "ko": "지구, 구역" },
+        { "word": "stand", "ko": "(어떤 상태로) 있다" },
+        { "word": "half empty", "ko": "절반이 빈" },
+        { "word": "rent", "ko": "임대료" },
+        { "word": "fall below", "ko": "~을 밑돌다" },
+        { "word": "lender", "ko": "대출 기관, 돈을 빌려준 쪽" }
+      ]
+    },
+    {
+      "en": "Municipal governments, watching property tax receipts erode, have seized on a seemingly elegant remedy: convert the surplus offices into the apartments their cities so conspicuously lack.",
+      "ko": "재산세 수입이 깎여 나가는 것을 지켜보던 지방정부들은 겉보기에 깔끔한 해법 하나에 달려들었다. 남아도는 사무실을 도시에 그토록 눈에 띄게 부족한 주택으로 바꾸자는 것이다.",
+      "structure": "· watching ~ erode : 삽입된 분사구문(동시동작). 의미상 주어는 Municipal governments이고, watch는 지각동사라 목적어 뒤에 원형부정사(erode)가 온다.\n· 콜론(:) 뒤 : 앞의 remedy가 무엇인지 구체적으로 풀어 주는 동격. 동사원형 convert로 시작해 '~하자는 것'이라는 제안을 나타낸다.\n· the apartments their cities so conspicuously lack : the apartments 뒤에 목적격 관계대명사(that/which)가 생략되었고, 선행사가 lack의 목적어다.",
+      "vocab_notes": [
+        { "word": "municipal", "ko": "지방자치단체의, 시(市)의" },
+        { "word": "property tax", "ko": "재산세, 보유세" },
+        { "word": "receipts", "ko": "수입, 세수 (복수형)" },
+        { "word": "erode", "ko": "깎여 나가다, 잠식되다" },
+        { "word": "seize on", "ko": "~에 달려들다, ~을 냉큼 붙잡다" },
+        { "word": "seemingly", "ko": "겉보기에는" },
+        { "word": "elegant", "ko": "깔끔한, 군더더기 없는" },
+        { "word": "remedy", "ko": "해법, 구제책" },
+        { "word": "convert A into B", "ko": "A를 B로 전환하다" },
+        { "word": "surplus", "ko": "남아도는, 잉여의" },
+        { "word": "conspicuously", "ko": "눈에 띄게" },
+        { "word": "lack", "ko": "~이 부족하다, ~이 없다" }
+      ]
+    },
+    {
+      "en": "The arithmetic is less forgiving than the slogan suggests, for floor plates designed for cubicles are too deep for bedrooms that codes insist must have windows, and rerouting plumbing through thirty stories of concrete is ruinously expensive.",
+      "ko": "그러나 셈은 구호가 말하는 것만큼 너그럽지 않다. 칸막이 사무 공간에 맞춰 설계된 바닥 평면은 법규가 창문을 두라고 요구하는 침실로 쓰기에는 안쪽이 너무 깊고, 콘크리트 30개 층에 배관을 새로 내는 일은 감당하기 어려울 만큼 비싸기 때문이다.",
+      "structure": "· less forgiving than ~ : 열등비교(less+원급+than) — '~만큼 ...하지는 않다'.\n· for : 여기서 for는 전치사가 아니라 등위접속사로 '왜냐하면'(because의 문어체).\n· designed for cubicles : 과거분사구가 floor plates를 뒤에서 수식(관계대명사+be동사 생략형).\n· bedrooms that codes insist must have windows : 주격 관계대명사 that 뒤에 codes insist가 삽입된 구조. 원래 문장은 codes insist (that) bedrooms must have windows.\n· rerouting plumbing ~ is : 동명사구가 주어라 단수 취급(is).",
+      "vocab_notes": [
+        { "word": "arithmetic", "ko": "셈, 계산 (실제 수치 계산)" },
+        { "word": "forgiving", "ko": "너그러운, 여유를 주는" },
+        { "word": "slogan", "ko": "구호" },
+        { "word": "for", "ko": "왜냐하면 (접속사)" },
+        { "word": "floor plate", "ko": "(건물 한 층의) 바닥 평면" },
+        { "word": "be designed for", "ko": "~에 맞게 설계되다" },
+        { "word": "cubicle", "ko": "칸막이로 나눈 사무 공간" },
+        { "word": "deep", "ko": "(평면이) 안쪽으로 깊은" },
+        { "word": "code", "ko": "법규, 규정 (building code 건축 법규)" },
+        { "word": "insist", "ko": "강하게 요구하다, 고집하다" },
+        { "word": "reroute", "ko": "경로를 다시 내다, 우회시키다" },
+        { "word": "plumbing", "ko": "배관 (설비)" },
+        { "word": "story", "ko": "(건물의) 층" },
+        { "word": "ruinously", "ko": "감당 못 할 만큼, 파멸적으로" }
+      ]
+    },
+    {
+      "en": "Developers therefore press for subsidies and zoning waivers, warning that the buildings will otherwise be mothballed, while critics reply that public money should not rescue investors who misjudged a market.",
+      "ko": "그래서 개발업자들은 보조금과 용도지역 규제 면제를 강하게 요구하며, 그러지 않으면 건물들은 봉인된 채 방치될 것이라고 경고한다. 반면 비판자들은 시장을 잘못 판단한 투자자를 공적 자금으로 구제해서는 안 된다고 반박한다.",
+      "structure": "· warning that ~ : 분사구문(부대상황). 의미상 주어는 Developers.\n· will otherwise be mothballed : otherwise는 '그러지 않으면'(= if they do not get them)으로 조건절을 대신하는 부사. 전체는 수동태.\n· while : 여기서는 시간이 아니라 대조의 접속사 '~인 반면'.\n· who misjudged a market : 주격 관계대명사절이 investors를 수식.",
+      "vocab_notes": [
+        { "word": "developer", "ko": "개발업자, 시행사" },
+        { "word": "press for", "ko": "~을 강하게 요구하다" },
+        { "word": "subsidy", "ko": "보조금" },
+        { "word": "zoning", "ko": "용도지역제 (땅의 용도를 구역별로 정하는 제도)" },
+        { "word": "waiver", "ko": "(규정의) 면제, 포기" },
+        { "word": "warn", "ko": "경고하다" },
+        { "word": "otherwise", "ko": "그러지 않으면" },
+        { "word": "mothball", "ko": "가동을 멈추고 봉인해 두다" },
+        { "word": "critic", "ko": "비판자" },
+        { "word": "reply", "ko": "반박하다, 응수하다" },
+        { "word": "public money", "ko": "공적 자금, 세금" },
+        { "word": "rescue", "ko": "구제하다, 구해 내다" },
+        { "word": "misjudge", "ko": "잘못 판단하다" }
+      ]
+    },
+    {
+      "en": "What is not disputed is that a district emptied of workers cannot be sustained by the shops beneath it, and that whatever replaces the offices will decide whether the center of the city remains a place people merely pass through or one in which they live.",
+      "ko": "이의가 없는 부분은, 일하는 사람이 빠져나간 지구가 그 아래 상점들의 힘으로 지탱될 수는 없다는 것, 그리고 사무실을 무엇으로 대체하느냐가 도심이 사람들이 그저 스쳐 지나가는 곳으로 남을지 아니면 사람들이 사는 곳이 될지를 결정하리라는 것이다.",
+      "structure": "· What is not disputed is that ~ : 관계대명사 what절이 주어, be동사 뒤의 that절이 보어인 'The point is that ~' 구조. and that ~으로 보어절이 하나 더 병렬된다.\n· emptied of workers : 과거분사구가 a district를 뒤에서 수식. empty A of B = A에서 B를 비우다.\n· whatever replaces the offices : 복합관계대명사 whatever가 이끄는 명사절이 주어('~하는 것은 무엇이든').\n· whether A or B : '~인지 아니면 ~인지'. A는 a place (that) people merely pass through로 목적격 관계대명사가 생략되었고, B의 one은 a place를 받는 부정대명사(one in which they live = 사람이 사는 곳).",
+      "vocab_notes": [
+        { "word": "dispute", "ko": "이의를 제기하다, 다투다" },
+        { "word": "empty A of B", "ko": "A에서 B를 비워 내다" },
+        { "word": "sustain", "ko": "지탱하다, 유지시키다" },
+        { "word": "beneath", "ko": "~의 아래에" },
+        { "word": "whatever", "ko": "~하는 것은 무엇이든" },
+        { "word": "replace", "ko": "대체하다, 대신 들어서다" },
+        { "word": "decide", "ko": "결정짓다, 판가름하다" },
+        { "word": "remain", "ko": "여전히 ~인 채로 있다" },
+        { "word": "merely", "ko": "그저, 단지" },
+        { "word": "pass through", "ko": "스쳐 지나가다, 통과하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "occupancy",
+      "pos": "n.",
+      "ko": "입주율, 점유율; 사용, 점유",
+      "example_en": "The developer reported that occupancy at the downtown tower had slipped to just under sixty percent.",
+      "example_ko": "그 시행사는 도심 빌딩의 입주율이 60퍼센트를 갓 밑도는 수준까지 떨어졌다고 밝혔다.",
+      "collocations": ["occupancy rate", "maximum occupancy"],
+      "note": "occupy(차지하다)에서 -ant는 '사람', -ancy는 '상태·비율'로 갈린다 — occupant는 입주자, occupancy는 입주율. 호텔·부동산 기사에서 실적을 가리키는 핵심 숫자다.",
+      "family": [
+        { "word": "occupy", "pos": "v.", "ko": "차지하다, 점유하다" },
+        { "word": "occupant", "pos": "n.", "ko": "입주자, (차·건물의) 사용자" },
+        { "word": "occupational", "pos": "a.", "ko": "직업의 — '직업' 쪽으로 뜻이 갈라진 파생형(occupational safety 산업안전)" }
+      ]
+    },
+    {
+      "headword": "foreclosure",
+      "pos": "n.",
+      "ko": "(담보권 실행에 의한) 차압, 압류",
+      "example_en": "Six months of missed payments put the property into foreclosure.",
+      "example_ko": "6개월치 상환이 밀리면서 그 부동산은 차압 절차에 들어갔다.",
+      "collocations": ["face foreclosure", "foreclosure proceedings"],
+      "note": "fore-(미리) + close(닫다) — 돈을 갚고 되찾을 길을 '미리 닫아' 버린다는 뜻. 빚 못 갚은 집을 은행이 가져가는 절차를 가리킨다.",
+      "family": [
+        { "word": "foreclose", "pos": "v.", "ko": "(저당물을) 차압하다; (가능성을) 미리 차단하다" }
+      ]
+    },
+    {
+      "headword": "delinquency",
+      "pos": "n.",
+      "ko": "(대금·대출의) 연체; (청소년) 비행",
+      "example_en": "Credit card delinquency rose for the third straight quarter.",
+      "example_ko": "신용카드 연체가 3분기 연속 증가했다.",
+      "collocations": ["loan delinquency", "delinquency rate"],
+      "note": "뜻이 두 갈래로 갈리는 단어 — 경제면에서는 '연체', 사회면에서는 juvenile delinquency(청소년 비행). 공통 감각은 '마땅히 해야 할 의무를 이행하지 않음'이다.",
+      "family": [
+        { "word": "delinquent", "pos": "a.", "ko": "연체된; 비행을 저지른 (명사로는 비행 청소년)" }
+      ]
+    },
+    {
+      "headword": "refinance",
+      "pos": "v.",
+      "ko": "재융자를 받다, 대출을 갈아타다",
+      "example_en": "The owners could not refinance the loan when it came due last spring.",
+      "example_ko": "소유주들은 지난봄 대출 만기가 돌아왔을 때 재융자를 받지 못했다.",
+      "collocations": ["refinance a mortgage", "refinance debt"],
+      "note": "re-(다시) + finance(자금을 대다) — 새 대출로 옛 대출을 갚아 금리·만기 조건을 바꾸는 일. 만기 때 이 길이 막히면 곧바로 부실·차압으로 이어진다.",
+      "related": [
+        { "word": "restructure", "ko": "채무를 재조정하다", "note": "restructure는 빚의 조건 자체를 다시 짜는 것(원금 감면 포함), refinance는 새 대출로 갈아타는 것" }
+      ]
+    },
+    {
+      "headword": "appraisal",
+      "pos": "n.",
+      "ko": "감정평가(액); 평가",
+      "example_en": "The bank ordered a fresh appraisal before approving the loan.",
+      "example_ko": "은행은 대출을 승인하기 전에 새로 감정평가를 받도록 했다.",
+      "collocations": ["property appraisal", "performance appraisal"],
+      "note": "praise(칭송하다)·price(값)와 한 뿌리로 '값을 매기는 일' — 부동산이면 감정평가, 회사에서는 performance appraisal(인사평가)가 된다.",
+      "family": [
+        { "word": "appraise", "pos": "v.", "ko": "감정하다, 값을 매기다" }
+      ],
+      "related": [
+        { "word": "apprise", "ko": "알리다, 통지하다", "note": "철자가 한 끗 차이 — appraise는 '값을 매기다', apprise는 'apprise A of B(A에게 B를 알리다)'" }
+      ]
+    },
+    {
+      "headword": "repurpose",
+      "pos": "v.",
+      "ko": "용도를 바꾸다, 다른 쓰임새로 돌리다",
+      "example_en": "The city plans to repurpose the vacant warehouse as a public library.",
+      "example_ko": "시는 비어 있는 창고를 공공도서관으로 용도 변경할 계획이다.",
+      "collocations": ["repurpose a building", "repurpose existing equipment"],
+      "note": "re- + purpose(용도) — 부수거나 버리지 않고 '쓰임새만' 바꾸는 것. 건축 기사에서는 같은 개념을 adaptive reuse(적응형 재사용)라고도 부른다.",
+      "family": [
+        { "word": "purpose", "pos": "n.", "ko": "목적, 용도" }
+      ]
+    },
+    {
+      "headword": "overhang",
+      "pos": "n.",
+      "ko": "(시장에 남아 시세를 누르는) 과잉 물량; 돌출부",
+      "example_en": "A supply overhang of unsold offices will depress rents for years.",
+      "example_ko": "팔리지 않은 사무실의 공급 과잉 물량이 수년간 임대료를 짓누를 것이다.",
+      "collocations": ["supply overhang", "debt overhang"],
+      "note": "처마처럼 '위에 드리워 있는 것' — hang over(~에 드리우다)를 뒤집은 명사로, 시장 위에 걸린 채 값을 누르는 미해소 물량이나 부채를 말한다.",
+      "related": [
+        { "word": "overhaul", "ko": "전면 점검, 개편", "note": "생김새만 비슷할 뿐 뜻은 전혀 다르다 — overhaul은 '뜯어고치다', overhang은 '위에 드리운 부담'" }
+      ]
+    },
+    {
+      "headword": "mothball",
+      "pos": "v.",
+      "ko": "가동을 멈추고 봉인해 두다 (명사: 좀약)",
+      "example_en": "The airline mothballed a dozen aircraft until demand recovered.",
+      "example_ko": "그 항공사는 수요가 회복될 때까지 항공기 열두 대를 봉인 보관했다.",
+      "collocations": ["mothball a plant", "mothball a project"],
+      "note": "옷장에 좀약(mothball)을 넣어 옷을 재워 두던 데서 온 말 — '없애지는 않고 나중에 다시 꺼내 쓰려고 세워 둔다'는 어감이 핵심이다.",
+      "related": [
+        { "word": "scrap", "ko": "폐기하다", "note": "scrap은 아예 해체·폐기하는 것, mothball은 되살릴 여지를 남긴 중단" }
+      ]
+    },
+    {
+      "headword": "egress",
+      "pos": "n.",
+      "ko": "(건물의) 출구, 피난 동선; 밖으로 나감",
+      "example_en": "Fire codes require two means of egress on every floor.",
+      "example_ko": "소방 법규는 층마다 두 개의 피난 출구를 갖추도록 요구한다.",
+      "collocations": ["means of egress", "ingress and egress"],
+      "note": "e-(밖) + gress(걷다) = 밖으로 걸어 나감. progress(앞으로 걷다)·congress(함께 걷다 = 의회)와 같은 뿌리로 묶어 두면 gress가 '걷다'로 고정된다.",
+      "related": [
+        { "word": "ingress", "ko": "진입, 들어감", "note": "계약서·건축 도면에는 ingress and egress(출입)가 한 묶음으로 나온다" }
+      ]
+    },
+    {
+      "headword": "setback",
+      "pos": "n.",
+      "ko": "차질, 후퇴; (건축) 대지 경계에서 건물을 물린 거리",
+      "example_en": "Zoning rules impose a ten-meter setback from the street.",
+      "example_ko": "용도지역 규정은 도로에서 10미터를 띄워 짓도록 정하고 있다.",
+      "collocations": ["suffer a setback", "a major setback"],
+      "note": "일상 기사에서는 '차질·좌절'이지만 도시·건축 문서에서는 '건물을 뒤로(back) 물려 세운(set) 거리'라는 전혀 다른 뜻이 된다. 두 얼굴을 같이 외워 둘 것.",
+      "family": [
+        { "word": "set back", "pos": "v.", "ko": "지연시키다; (돈이) 들게 하다 — 동사는 띄어 쓴다" }
+      ]
+    },
+    {
+      "headword": "foot traffic",
+      "pos": "n.",
+      "ko": "유동 인구, (걸어서 오가는) 방문객 통행량",
+      "example_en": "Foot traffic in the business district has not returned to pre-pandemic levels.",
+      "example_ko": "업무지구의 유동 인구는 팬데믹 이전 수준을 회복하지 못했다.",
+      "collocations": ["drive foot traffic", "foot traffic declined"],
+      "note": "차량이 아니라 '걸어 다니는 사람'의 양 — 소매업 기사에서 매출을 앞서 알려 주는 지표로 늘 등장한다. 온라인 쪽 대응어는 web traffic.",
+      "related": [
+        { "word": "footprint", "ko": "발자국; (차지하는) 면적·영향 범위", "note": "foot이 들어가도 뜻이 다르다 — carbon footprint(탄소 발자국)처럼 '남기는 자국'" }
+      ]
+    },
+    {
+      "headword": "vacate",
+      "pos": "v.",
+      "ko": "(건물·자리를) 비우다, 떠나다; (법) 판결을 무효로 하다",
+      "example_en": "Tenants must vacate the premises by the end of the month.",
+      "example_ko": "임차인은 이달 말까지 건물을 비워야 한다.",
+      "collocations": ["vacate the premises", "vacate a position"],
+      "note": "vac-(비다)이 뿌리라 vacancy(공실)·vacation(휴가)과 한 가족 — 휴가도 본래 '자리를 비움'이다. 법률 기사에서는 상급심이 판결을 '파기하다'라는 뜻으로 쓴다.",
+      "family": [
+        { "word": "vacant", "pos": "a.", "ko": "비어 있는" },
+        { "word": "vacancy", "pos": "n.", "ko": "공실; 결원, 빈자리" }
+      ]
+    },
+    {
+      "headword": "unanimous",
+      "pos": "a.",
+      "ko": "만장일치의",
+      "example_en": "The board gave unanimous approval to the redevelopment plan.",
+      "example_ko": "이사회는 재개발 계획을 만장일치로 승인했다.",
+      "collocations": ["a unanimous decision", "a unanimous vote"],
+      "note": "unus(하나) + animus(마음) = '마음이 하나' — 여기의 un-은 부정의 un-이 아니다. 이걸 알아 두면 철자와 뜻을 동시에 잡는다.",
+      "family": [
+        { "word": "unanimously", "pos": "adv.", "ko": "만장일치로" },
+        { "word": "unanimity", "pos": "n.", "ko": "만장일치, 의견 일치" }
+      ]
+    },
+    {
+      "headword": "belated",
+      "pos": "a.",
+      "ko": "뒤늦은, 때늦은",
+      "example_en": "The company issued a belated apology to affected customers.",
+      "example_ko": "그 회사는 피해를 입은 고객들에게 뒤늦은 사과를 내놓았다.",
+      "collocations": ["a belated apology", "belated recognition"],
+      "note": "be- + late — '때를 놓친 뒤에야 온'. Happy belated birthday(늦었지만 생일 축하해)로 익혀 두면 바로 입에 붙는다.",
+      "related": [
+        { "word": "lately", "ko": "최근에", "note": "late(늦은)와 lately(최근에)는 뜻이 전혀 다르다 — '늦게'는 부사도 late 그대로 쓴다(He arrived late)" }
+      ]
+    },
+    {
+      "headword": "hamstring",
+      "pos": "v.",
+      "ko": "발목을 잡다, 무력하게 만들다",
+      "example_en": "Budget cuts have hamstrung the agency's inspection program.",
+      "example_ko": "예산 삭감이 그 기관의 점검 사업의 발목을 잡았다.",
+      "collocations": ["hamstring efforts", "be hamstrung by"],
+      "note": "무릎 뒤 힘줄(hamstring)을 끊어 못 걷게 하던 데서 온 말로, 한국어 '발목을 잡다'와 발상이 같다. 과거형·과거분사는 hamstrung.",
+      "related": [
+        { "word": "hinder", "ko": "방해하다", "note": "hinder는 진행을 더디게 하는 정도, hamstring은 능력 자체를 못 쓰게 만드는 훨씬 센 말" }
+      ]
+    },
+    {
+      "headword": "quorum",
+      "pos": "n.",
+      "ko": "의결정족수 (회의 성립에 필요한 최소 인원)",
+      "example_en": "The meeting was adjourned because it failed to reach a quorum.",
+      "example_ko": "그 회의는 의결정족수를 채우지 못해 연기되었다.",
+      "collocations": ["reach a quorum", "lack a quorum"],
+      "note": "라틴어 '~중에서'가 그대로 굳은 말 — 회의가 성립하려면 '그중 몇 명은' 있어야 한다는 뜻. agenda(안건)·minutes(회의록)·adjourn(휴회하다)과 한 묶음으로 외운다.",
+      "related": [
+        { "word": "quota", "ko": "할당량", "note": "quorum은 사람 수(정족수), quota는 몫·할당량 — 철자가 닮아 자주 헷갈린다" }
+      ]
+    },
+    {
+      "headword": "inclement",
+      "pos": "a.",
+      "ko": "(날씨가) 궂은, 험한",
+      "example_en": "Inclement weather delayed the crane work for a week.",
+      "example_ko": "궂은 날씨로 크레인 작업이 일주일 지연되었다.",
+      "collocations": ["inclement weather", "due to inclement weather"],
+      "note": "clement(온화한, 관대한)에 부정의 in-이 붙은 말. 사실상 weather하고만 붙어 다니므로 'inclement weather(악천후)'를 통째로 외우면 된다 — 항공·건설·행사 공지의 단골 표현.",
+      "family": [
+        { "word": "clemency", "pos": "n.", "ko": "관대한 처분, 감형 — 사람에게 쓰면 '너그러움'" }
+      ]
+    },
+    {
+      "headword": "speculative",
+      "pos": "a.",
+      "ko": "투기적인; 추측에 근거한",
+      "example_en": "Much of the tower was built on speculative demand that never materialized.",
+      "example_ko": "그 빌딩의 상당 부분은 끝내 실현되지 않은 투기적 수요를 보고 지어졌다.",
+      "collocations": ["speculative investment", "purely speculative"],
+      "note": "spect-(보다)가 뿌리 — 앞날을 '내다보고' 거는 것이 투기, 근거 없이 '넘겨짚는' 것이 또 하나의 뜻이다. inspect·prospect와 같은 가족.",
+      "family": [
+        { "word": "speculate", "pos": "v.", "ko": "투기하다; 추측하다" },
+        { "word": "speculation", "pos": "n.", "ko": "투기; 추측, 억측" }
+      ]
+    }
+  ]
+}

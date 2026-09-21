@@ -2565,6 +2565,51 @@
     },
     "repercussion": {
       "added_on": "2026-09-21"
+    },
+    "occupancy": {
+      "added_on": "2026-09-22"
+    },
+    "foreclosure": {
+      "added_on": "2026-09-22"
+    },
+    "delinquency": {
+      "added_on": "2026-09-22"
+    },
+    "refinance": {
+      "added_on": "2026-09-22"
+    },
+    "appraisal": {
+      "added_on": "2026-09-22"
+    },
+    "repurpose": {
+      "added_on": "2026-09-22"
+    },
+    "overhang": {
+      "added_on": "2026-09-22"
+    },
+    "mothball": {
+      "added_on": "2026-09-22"
+    },
+    "egress": {
+      "added_on": "2026-09-22"
+    },
+    "setback": {
+      "added_on": "2026-09-22"
+    },
+    "foot traffic": {
+      "added_on": "2026-09-22"
+    },
+    "vacate": {
+      "added_on": "2026-09-22"
+    },
+    "unanimous": {
+      "added_on": "2026-09-22"
+    },
+    "belated": {
+      "added_on": "2026-09-22"
+    },
+    "hamstring": {
+      "added_on": "2026-09-22"
     }
   }
 }
