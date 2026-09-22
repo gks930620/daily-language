@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-23",
+  "passage_note": "소비·경제 — 가격은 그대로 두고 양을 줄이는 '슈링크플레이션'과 단위가격 표시 규제의 한계(논설)",
+  "sentences": [
+    {
+      "en": "When the price of a chocolate bar stays the same but the bar itself quietly shrinks by a tenth, most shoppers never notice, and that inattention is precisely what manufacturers are counting on.",
+      "ko": "초콜릿 바의 가격은 그대로인데 바 자체가 슬그머니 10분의 1만큼 작아지면 대부분의 소비자는 끝내 알아차리지 못하는데, 바로 그 무관심이야말로 제조업체들이 믿고 기대는 것이다.",
+      "structure": "· When ~ 부사절 안에서 but이 'the price stays the same'과 'the bar shrinks'를 대조로 연결한다.\n· by a tenth : '차이'의 by — '10분의 1만큼' 줄어든다.\n· what manufacturers are counting on : 선행사를 포함한 관계대명사 what(= the thing which). count on의 목적어가 what으로 앞에 나가 전치사 on이 문장 끝에 남았다.\n· that inattention is precisely what ~ : precisely가 보어를 강조 — '바로 ~인 것'.",
+      "vocab_notes": [
+        { "word": "stay the same", "ko": "그대로이다, 변하지 않다" },
+        { "word": "itself", "ko": "(강조) 그 자체" },
+        { "word": "quietly", "ko": "슬그머니, 조용히" },
+        { "word": "shrink", "ko": "줄어들다, 작아지다" },
+        { "word": "by a tenth", "ko": "10분의 1만큼" },
+        { "word": "shopper", "ko": "쇼핑객, 소비자" },
+        { "word": "notice", "ko": "알아차리다" },
+        { "word": "inattention", "ko": "부주의, 무관심" },
+        { "word": "precisely", "ko": "바로, 정확히" },
+        { "word": "manufacturer", "ko": "제조업체" },
+        { "word": "count on", "ko": "~을 믿다, ~에 기대다" }
+      ]
+    },
+    {
+      "en": "Economists call the practice \"shrinkflation,\" and although it is perfectly legal, critics argue that it amounts to a disguised price increase that erodes consumer trust far more than an honest markup would.",
+      "ko": "경제학자들은 이 관행을 '슈링크플레이션'이라 부르는데, 그것이 완전히 합법적이긴 해도 비판자들은 그것이 사실상 위장된 가격 인상이며, 정직한 가격 인상보다 소비자의 신뢰를 훨씬 더 갉아먹는다고 주장한다.",
+      "structure": "· call A B : 5형식 — A를 B라고 부르다(the practice = 목적어, \"shrinkflation\" = 목적격 보어).\n· although ~ : 양보의 부사절.\n· that erodes ~ : 주격 관계대명사절, 선행사는 a disguised price increase.\n· than an honest markup would : would 뒤에 erode consumer trust가 생략된 대동사 — '정직한 인상이라면 (신뢰를) 갉아먹을 정도보다'라는 가정의 뉘앙스.\n· far more : far가 비교급 more를 강조(훨씬).",
+      "vocab_notes": [
+        { "word": "economist", "ko": "경제학자" },
+        { "word": "practice", "ko": "관행, 관습" },
+        { "word": "shrinkflation", "ko": "슈링크플레이션(shrink + inflation) — 가격은 두고 용량을 줄이는 것" },
+        { "word": "perfectly legal", "ko": "완전히 합법적인" },
+        { "word": "critic", "ko": "비판자, 비평가" },
+        { "word": "argue", "ko": "주장하다" },
+        { "word": "amount to", "ko": "~에 해당하다, 결국 ~이다" },
+        { "word": "disguised", "ko": "위장된, 변장한" },
+        { "word": "price increase", "ko": "가격 인상" },
+        { "word": "erode", "ko": "서서히 무너뜨리다, 침식하다" },
+        { "word": "consumer trust", "ko": "소비자 신뢰" },
+        { "word": "far more", "ko": "훨씬 더" },
+        { "word": "honest", "ko": "정직한" },
+        { "word": "markup", "ko": "가격 인상(폭), 이윤 가산" }
+      ]
+    },
+    {
+      "en": "Companies counter that soaring costs for raw materials, packaging and transport leave them little choice, and that shoppers, faced with a visible price hike, simply defect to cheaper rivals.",
+      "ko": "기업들은 원자재·포장재·운송 비용이 치솟아 선택의 여지가 거의 없으며, 소비자들은 눈에 보이는 가격 인상에 부딪히면 그냥 더 싼 경쟁 제품으로 넘어가 버린다고 반박한다.",
+      "structure": "· counter that ~, and that ~ : 두 개의 that절이 and로 병렬되어 모두 counter의 목적어가 된다(두 번째 that을 생략하지 않아 '반박 내용이 두 가지'임이 분명해진다).\n· leave them little choice : 4형식 — them에게 little choice를 남기다 → '거의 선택지가 없게 만들다'. little은 부정의 뉘앙스(거의 없는).\n· faced with a visible price hike : 주어 shoppers와 동사 defect 사이에 삽입된 과거분사구문(= when they are faced with ~).",
+      "vocab_notes": [
+        { "word": "counter", "ko": "반박하다, 맞받아치다" },
+        { "word": "soaring", "ko": "치솟는, 급등하는" },
+        { "word": "raw materials", "ko": "원자재" },
+        { "word": "packaging", "ko": "포장(재)" },
+        { "word": "transport", "ko": "운송" },
+        { "word": "leave A little choice", "ko": "A에게 선택의 여지를 거의 남기지 않다" },
+        { "word": "be faced with", "ko": "~에 직면하다" },
+        { "word": "visible", "ko": "눈에 보이는, 가시적인" },
+        { "word": "price hike", "ko": "가격 인상" },
+        { "word": "simply", "ko": "그냥, 간단히" },
+        { "word": "defect to", "ko": "~로 넘어가다, 이탈하다" },
+        { "word": "rival", "ko": "경쟁자, 경쟁 상품" }
+      ]
+    },
+    {
+      "en": "Regulators in several countries have responded not by banning the tactic outright but by requiring retailers to display the unit price, the cost per gram or litre, prominently on shelf labels.",
+      "ko": "여러 나라의 규제 당국은 이 수법을 전면 금지하는 대신, 소매업체가 선반 가격표에 단위가격, 즉 그램당 또는 리터당 가격을 눈에 잘 띄게 표시하도록 의무화하는 방식으로 대응해 왔다.",
+      "structure": "· not A but B : 'A가 아니라 B' — A와 B 자리에 by -ing 전치사구가 나란히 병렬(by banning ~ / by requiring ~).\n· require + 목적어 + to부정사 : ~에게 …하도록 요구(의무화)하다.\n· the unit price, the cost per gram or litre : 콤마로 이어진 동격 — 뒤의 명사구가 unit price를 풀어 설명한다.\n· have responded : 현재완료(계속·결과) — 지금까지 그렇게 대응해 왔다.",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국, 감독 기관" },
+        { "word": "respond", "ko": "대응하다, 반응하다" },
+        { "word": "ban", "ko": "금지하다" },
+        { "word": "tactic", "ko": "수법, 전술" },
+        { "word": "outright", "ko": "전면적으로, 완전히" },
+        { "word": "require A to do", "ko": "A에게 ~하도록 요구하다(의무화하다)" },
+        { "word": "retailer", "ko": "소매업체" },
+        { "word": "display", "ko": "표시하다, 진열하다" },
+        { "word": "unit price", "ko": "단위가격, 단가" },
+        { "word": "per", "ko": "~당" },
+        { "word": "prominently", "ko": "눈에 잘 띄게" },
+        { "word": "shelf label", "ko": "선반 가격표" }
+      ]
+    },
+    {
+      "en": "Yet such labels work only if people actually read them, and research suggests that busy shoppers, scanning dozens of products in a matter of minutes, rely on familiar packaging rather than the fine print.",
+      "ko": "그러나 그런 표시는 사람들이 실제로 읽어야만 효과가 있는데, 연구에 따르면 불과 몇 분 만에 수십 개의 상품을 훑어보는 바쁜 소비자들은 깨알 같은 글씨보다 익숙한 포장에 의존한다.",
+      "structure": "· only if ~ : '~해야만'(조건을 좁혀 한정). 이 조건이 충족되기 어렵다는 반전을 Yet이 예고한다.\n· suggest that + 직설법 : 여기서 suggest는 '제안하다'가 아니라 '시사하다/보여 주다'라서 that절에 (should) 동사원형이 아닌 직설법(rely)을 쓴다 — 수능 단골 포인트.\n· scanning ~ minutes : 주어 busy shoppers를 부연하는 삽입 현재분사구(= who scan ~ / as they scan ~).\n· A rather than B : B보다는 A — familiar packaging과 the fine print가 on의 목적어로 병렬.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그러나, 하지만" },
+        { "word": "work", "ko": "효과가 있다, 통하다" },
+        { "word": "only if", "ko": "~해야만, ~하는 경우에만" },
+        { "word": "actually", "ko": "실제로" },
+        { "word": "research suggests", "ko": "연구에 따르면 ~로 보인다" },
+        { "word": "scan", "ko": "훑어보다" },
+        { "word": "dozens of", "ko": "수십 개의" },
+        { "word": "in a matter of minutes", "ko": "불과 몇 분 만에" },
+        { "word": "rely on", "ko": "~에 의존하다" },
+        { "word": "familiar", "ko": "익숙한, 친숙한" },
+        { "word": "rather than", "ko": "~보다는, ~ 대신" },
+        { "word": "fine print", "ko": "깨알 같은 글씨, (계약서의) 세부 조항" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "disguise",
+      "pos": "v.",
+      "ko": "위장하다, 감추다",
+      "example_en": "The firm tried to disguise its losses by moving debt off its balance sheet.",
+      "example_ko": "그 회사는 부채를 대차대조표 밖으로 옮겨 손실을 감추려 했다.",
+      "collocations": ["disguise the fact that", "thinly disguised", "a blessing in disguise"],
+      "note": "dis-(벗어나) + guise(겉모습) — 본래 모습에서 벗어난 겉모습을 씌운다. 'a blessing in disguise(전화위복)'는 '변장한 축복'이라 외우면 바로 붙는다.",
+      "family": [
+        { "word": "disguised", "pos": "a.", "ko": "위장된" },
+        { "word": "guise", "pos": "n.", "ko": "겉모습, 가장 — under the guise of(~을 구실로)" }
+      ]
+    },
+    {
+      "headword": "defect",
+      "pos": "v. / n.",
+      "ko": "(v.) 이탈하다, 넘어가다 / (n.) 결함",
+      "example_en": "Several key engineers defected to a rival startup last quarter.",
+      "example_ko": "지난 분기에 핵심 엔지니어 몇 명이 경쟁 스타트업으로 넘어갔다.",
+      "collocations": ["defect to a rival", "a manufacturing defect", "birth defect"],
+      "note": "강세로 품사가 갈린다 — 명사 DE-fect(결함), 동사 de-FECT(이탈하다). de-(떨어져) + fect(만들다)에서 '제대로 만들어지지 못한 것 → 결함', '무리에서 떨어져 나감 → 이탈'로 갈라졌다.",
+      "family": [
+        { "word": "defective", "pos": "a.", "ko": "결함 있는 — '이탈한'이 아님에 주의" },
+        { "word": "defection", "pos": "n.", "ko": "이탈, 망명" },
+        { "word": "defector", "pos": "n.", "ko": "이탈자, 망명자" }
+      ]
+    },
+    {
+      "headword": "outright",
+      "pos": "ad. / a.",
+      "ko": "전면적으로, 완전히 / 노골적인, 명백한",
+      "example_en": "The city stopped short of banning e-scooters outright and capped their numbers instead.",
+      "example_ko": "시는 전동 킥보드를 전면 금지하는 데까지는 가지 않고 대신 대수를 제한했다.",
+      "collocations": ["ban outright", "an outright lie", "buy outright"],
+      "note": "부사로 쓸 땐 보통 동사 '뒤'에 온다(ban it outright, reject outright). 'buy outright'는 할부 없이 '일시불로 사다'라는 토익 빈출 뜻.",
+      "related": [
+        { "word": "downright", "ko": "순전히, 완전히", "note": "주로 나쁜 형용사를 강조(downright rude). outright는 행위·거절의 '전면성'에 쓴다" }
+      ]
+    },
+    {
+      "headword": "prominent",
+      "pos": "a.",
+      "ko": "눈에 띄는, 두드러진; 저명한",
+      "example_en": "Safety warnings must be placed in a prominent position on the package.",
+      "example_ko": "안전 경고문은 포장의 눈에 잘 띄는 위치에 두어야 한다.",
+      "collocations": ["a prominent position", "a prominent figure", "play a prominent role"],
+      "note": "pro-(앞으로) + minere(튀어나오다) — 앞으로 불쑥 튀어나와 '눈에 띄는' 것. 사람에게 쓰면 '저명한'이 된다(a prominent economist).",
+      "family": [
+        { "word": "prominently", "pos": "ad.", "ko": "눈에 띄게" },
+        { "word": "prominence", "pos": "n.", "ko": "두드러짐, 명성 — rise to prominence(유명해지다)" }
+      ]
+    },
+    {
+      "headword": "counter",
+      "pos": "v.",
+      "ko": "반박하다; 대응하다, 맞서다",
+      "example_en": "The CEO countered that the layoffs were necessary to keep the company afloat.",
+      "example_ko": "CEO는 회사를 유지하려면 감원이 불가피했다고 반박했다.",
+      "collocations": ["counter that", "counter the threat", "counter-offer"],
+      "note": "'가게 계산대'만 알면 놓치는 뜻. 뿌리는 contra(반대) — 동사 counter는 '맞받아치다'. counter that ~은 기사에서 반론을 소개하는 전형 표현이다.",
+      "family": [
+        { "word": "counteract", "pos": "v.", "ko": "(효과를) 상쇄하다" },
+        { "word": "counterproductive", "pos": "a.", "ko": "역효과를 낳는" }
+      ]
+    },
+    {
+      "headword": "fine print",
+      "pos": "n.",
+      "ko": "(계약서·약관의) 깨알 같은 세부 조항",
+      "example_en": "Always read the fine print before signing a mobile phone contract.",
+      "example_ko": "휴대폰 계약서에 서명하기 전에는 항상 세부 조항을 읽어라.",
+      "collocations": ["read the fine print", "buried in the fine print"],
+      "note": "fine은 '좋은'이 아니라 '가는, 미세한'(fine dust = 미세먼지) — 작게 인쇄된 글씨, 즉 불리한 조건이 숨어 있는 곳이라는 뉘앙스. 영국식은 small print.",
+      "related": [
+        { "word": "small print", "ko": "세부 조항", "note": "영국식 동의어" }
+      ]
+    },
+    {
+      "headword": "surreptitious",
+      "pos": "a.",
+      "ko": "은밀한, 몰래 하는",
+      "example_en": "Investigators found surreptitious payments to the procurement officer.",
+      "example_ko": "조사관들은 구매 담당자에게 몰래 건네진 돈을 찾아냈다.",
+      "collocations": ["surreptitious payments", "a surreptitious glance"],
+      "note": "sub-(아래로) + rapere(잡아채다) — '밑으로 슬쩍 낚아채는'. 같은 rapt 뿌리의 rapid·rapture를 떠올리면 '재빠르고 몰래'가 붙는다.",
+      "family": [
+        { "word": "surreptitiously", "pos": "ad.", "ko": "몰래, 은밀히" }
+      ],
+      "related": [
+        { "word": "clandestine", "ko": "비밀의", "note": "조직적·계획적 비밀(clandestine operation). surreptitious는 남 눈을 피해 '슬쩍' 하는 행동" }
+      ]
+    },
+    {
+      "headword": "stealth",
+      "pos": "n.",
+      "ko": "몰래 함, 은밀함",
+      "example_en": "Critics call the new fee a tax increase by stealth.",
+      "example_ko": "비판자들은 새 수수료를 몰래 하는 증세라고 부른다.",
+      "collocations": ["by stealth", "stealth tax", "stealth inflation"],
+      "note": "steal(훔치다)의 명사형 — 도둑처럼 소리 없이. 'stealth tax(눈에 안 띄는 증세)'처럼 슈링크플레이션·수수료 기사에 자주 나온다.",
+      "family": [
+        { "word": "stealthy", "pos": "a.", "ko": "살금살금 하는, 은밀한" },
+        { "word": "stealthily", "pos": "ad.", "ko": "몰래" }
+      ]
+    },
+    {
+      "headword": "gouge",
+      "pos": "v.",
+      "ko": "바가지를 씌우다; 도려내다",
+      "example_en": "Several stores were fined for gouging customers on bottled water after the storm.",
+      "example_ko": "폭풍 뒤 생수 값으로 손님에게 바가지를 씌운 몇몇 상점이 벌금을 물었다.",
+      "collocations": ["price gouging", "gouge consumers"],
+      "note": "원래 '끌로 파내다' — 고객 지갑을 '파낸다'는 비유. 재난·품귀 때 폭리를 뜻하는 'price gouging'이 시사 빈출.",
+      "related": [
+        { "word": "rip off", "ko": "바가지 씌우다", "note": "구어체 동의어 — 명사 rip-off(바가지)" }
+      ]
+    },
+    {
+      "headword": "conceal",
+      "pos": "v.",
+      "ko": "숨기다, 감추다",
+      "example_en": "The report accused the bank of concealing the true scale of its losses.",
+      "example_ko": "보고서는 은행이 손실의 실제 규모를 숨겼다고 비난했다.",
+      "collocations": ["conceal the truth", "concealed weapon"],
+      "note": "con-(완전히) + celare(숨기다) — cell(작은 방)과 같은 뿌리로 '방 안에 꽁꽁 숨기다'. hide보다 격식적이고 '의도적 은폐'의 뉘앙스가 강하다.",
+      "family": [
+        { "word": "concealment", "pos": "n.", "ko": "은폐" }
+      ],
+      "related": [
+        { "word": "reveal", "ko": "드러내다", "note": "반의어 — 공문서·기사에서 conceal ↔ reveal/disclose 짝으로 나온다" }
+      ]
+    },
+    {
+      "headword": "mislead",
+      "pos": "v.",
+      "ko": "오해하게 하다, 호도하다",
+      "example_en": "The advertisement was banned for misleading consumers about the product's health benefits.",
+      "example_ko": "그 광고는 제품의 건강 효과에 대해 소비자를 오도했다는 이유로 금지됐다.",
+      "collocations": ["misleading claims", "mislead investors"],
+      "note": "mis-(잘못) + lead(이끌다) — 잘못된 방향으로 이끈다. 거짓말은 아니어도 '틀린 인상을 주는 것'까지 포함해 lie보다 넓다. 과거형은 misled.",
+      "family": [
+        { "word": "misleading", "pos": "a.", "ko": "오해의 소지가 있는" }
+      ]
+    },
+    {
+      "headword": "transparency",
+      "pos": "n.",
+      "ko": "투명성",
+      "example_en": "Consumer groups are calling for greater transparency in how prices are set.",
+      "example_ko": "소비자 단체들은 가격 결정 방식에 더 큰 투명성을 요구하고 있다.",
+      "collocations": ["price transparency", "lack of transparency", "greater transparency"],
+      "note": "trans-(통과해) + parere(보이다) — 속까지 '비쳐 보이는'. 반의어 opaque(불투명한)와 짝으로 외우면 시사 지문에서 논지가 금방 잡힌다.",
+      "family": [
+        { "word": "transparent", "pos": "a.", "ko": "투명한; 속이 뻔히 보이는" }
+      ]
+    },
+    {
+      "headword": "heuristic",
+      "pos": "n. / a.",
+      "ko": "어림짐작(법), 경험칙 / 체험적인",
+      "example_en": "Shoppers often use simple heuristics, such as assuming a bigger box holds more.",
+      "example_ko": "소비자들은 큰 상자에 더 많이 들었다고 여기는 것 같은 단순한 어림짐작을 자주 쓴다.",
+      "collocations": ["a simple heuristic", "rule-of-thumb heuristics"],
+      "note": "그리스어 heuriskein(찾아내다) — 아르키메데스의 '유레카(eureka)'와 같은 뿌리. 행동경제학에서 '완벽한 계산 대신 쓰는 빠른 지름길 판단'을 뜻한다.",
+      "related": [
+        { "word": "rule of thumb", "ko": "경험 법칙", "note": "일상어 동의어 — heuristic은 학술·논설체" }
+      ]
+    },
+    {
+      "headword": "margin",
+      "pos": "n.",
+      "ko": "이윤(폭); 여백; (득표 등의) 차이",
+      "example_en": "Rising input costs have squeezed the company's profit margins.",
+      "example_ko": "투입 비용 상승이 회사의 이윤폭을 압박했다.",
+      "collocations": ["profit margin", "by a narrow margin", "margin of error"],
+      "note": "기본 뜻은 '가장자리' — 종이 가장자리(여백), 가격의 가장자리 남는 몫(이윤), 두 수치 사이의 틈(차이)으로 뻗었다. 형용사 marginal은 '미미한'.",
+      "family": [
+        { "word": "marginal", "pos": "a.", "ko": "미미한, 주변적인" },
+        { "word": "marginally", "pos": "ad.", "ko": "아주 조금" }
+      ]
+    },
+    {
+      "headword": "pass on",
+      "pos": "phr. v.",
+      "ko": "(비용을) 전가하다; 전달하다",
+      "example_en": "Airlines passed on higher fuel costs to passengers through fuel surcharges.",
+      "example_ko": "항공사들은 유류할증료를 통해 늘어난 연료비를 승객에게 전가했다.",
+      "collocations": ["pass on costs to consumers", "pass on a message"],
+      "note": "'pass A on to B' 구조가 핵심 — 비용을 다음 사람에게 '넘긴다'. 명사 pass-through(비용 전가율)도 경제 기사 빈출. 단 pass away는 '돌아가시다'로 전혀 다름.",
+      "related": [
+        { "word": "pass up", "ko": "(기회를) 놓치다", "note": "혼동 주의 — 전치사 하나로 뜻이 완전히 바뀐다" }
+      ]
+    },
+    {
+      "headword": "benchmark",
+      "pos": "n. / v.",
+      "ko": "기준(점), 벤치마크 / 기준과 비교하다",
+      "example_en": "The central bank's benchmark interest rate remained unchanged at 3 percent.",
+      "example_ko": "중앙은행의 기준금리는 3%로 동결됐다.",
+      "collocations": ["benchmark interest rate", "set a benchmark", "benchmark against"],
+      "note": "측량사가 높이의 기준으로 바위에 새긴 표시(mark)에서 나온 말. 뉴스의 '기준금리'가 benchmark rate — '한국식 벤치마킹(따라 하기)'보다 '기준'의 뜻이 먼저다."
+    },
+    {
+      "headword": "leeway",
+      "pos": "n.",
+      "ko": "재량의 여지, 여유",
+      "example_en": "The new rules give local managers more leeway in setting prices.",
+      "example_ko": "새 규정은 지역 관리자들에게 가격 책정에서 더 많은 재량을 준다.",
+      "collocations": ["give leeway", "some leeway", "leeway to adjust"],
+      "note": "원래 항해 용어 — 배가 바람에 밀려 옆(lee)으로 흘러가는 거리. 거기서 '움직일 수 있는 여유 폭'으로 넓어졌다. 불가산명사라 a leeway로 쓰지 않는다.",
+      "related": [
+        { "word": "latitude", "ko": "재량, 자유", "note": "거의 동의어(give A latitude) — 위도라는 뜻과 함께 외워 둘 것" }
+      ]
+    },
+    {
+      "headword": "reiterate",
+      "pos": "v.",
+      "ko": "되풀이해 말하다, 재차 강조하다",
+      "example_en": "The minister reiterated that there would be no new taxes this year.",
+      "example_ko": "장관은 올해 새로운 세금은 없을 것이라고 재차 강조했다.",
+      "collocations": ["reiterate a commitment", "reiterate that"],
+      "note": "re-(다시) + iterate(되풀이하다) — iterate 자체가 이미 '반복'이라 '거듭 또 말한다'는 강한 뉘앙스. 공식 입장을 '재확인'할 때 기사에 자주 쓰인다.",
+      "family": [
+        { "word": "reiteration", "pos": "n.", "ko": "반복, 재천명" },
+        { "word": "iterate", "pos": "v.", "ko": "반복하다(주로 IT·수학)" }
+      ]
+    }
+  ]
+}
