@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-09-24",
+  "passage_note": "과학·환경 — 사라지는 밤하늘, 빛 공해의 생태·건강 비용과 LED의 역설(논설)",
+  "sentences": [
+    {
+      "en": "For most of human history, a clear night revealed thousands of stars, but today an estimated eight in ten people live beneath skies so saturated with artificial light that the Milky Way has become all but invisible.",
+      "ko": "인류 역사 대부분의 기간 동안 맑은 밤이면 수천 개의 별이 드러났지만, 오늘날에는 추산컨대 열 명 중 여덟 명이 인공조명으로 너무나 포화된 하늘 아래 살고 있어 은하수는 거의 보이지 않게 되었다.",
+      "structure": "· so ~ that … 구문: skies so saturated with artificial light that … = '너무 ~해서 …하다'. saturated with ~ 과거분사구가 skies를 뒤에서 수식하고 그 앞에 so가 붙은 형태.\n· an estimated + 수치 = '추산으로 약 ~'. eight in ten = 열 명 중 여덟 명.\n· all but + 형용사 = '거의 ~'(= almost). '~만 빼고 전부'에서 온 표현이라 not과 혼동하지 말 것.\n· has become: 현재완료(결과) — 지금 그런 상태가 되어 버렸다.",
+      "vocab_notes": [
+        { "word": "reveal", "ko": "드러내다, 보여 주다" },
+        { "word": "an estimated", "ko": "추산으로 약 ~" },
+        { "word": "beneath", "ko": "~ 아래에" },
+        { "word": "saturated with", "ko": "~로 가득 찬, 포화된" },
+        { "word": "artificial", "ko": "인공의" },
+        { "word": "the Milky Way", "ko": "은하수" },
+        { "word": "all but", "ko": "거의(= almost)" },
+        { "word": "invisible", "ko": "보이지 않는" }
+      ]
+    },
+    {
+      "en": "The glow is not merely an aesthetic loss: ecologists have documented how misdirected illumination disorients migratory birds, lures nesting sea turtles away from the ocean, and disrupts the nocturnal rhythms on which countless insects depend.",
+      "ko": "그 불빛은 단지 미적인 손실에 그치지 않는다. 생태학자들은 엉뚱한 곳을 비추는 조명이 철새의 방향 감각을 흐트러뜨리고, 알을 낳으러 온 바다거북을 바다에서 멀리 꾀어내며, 수많은 곤충이 의존하는 야간의 생활 리듬을 교란한다는 사실을 기록해 왔다.",
+      "structure": "· 콜론(:)은 부연 — 앞의 '단순한 미적 손실이 아니다'에 대한 근거를 뒤에서 제시한다.\n· how 명사절이 documented의 목적어. 그 안에서 주어 misdirected illumination에 동사 disorients, lures, disrupts 셋이 병렬(A, B, and C).\n· on which countless insects depend: 전치사 + 관계대명사. depend on의 on이 관계대명사 앞으로 나간 형태 → the nocturnal rhythms를 수식.\n· not merely A = '단지 A만은 아니다'(A 이상의 것이 있다는 예고).",
+      "vocab_notes": [
+        { "word": "glow", "ko": "(은은한) 불빛, 빛" },
+        { "word": "merely", "ko": "단지, 그저" },
+        { "word": "aesthetic", "ko": "미적인, 미학의" },
+        { "word": "ecologist", "ko": "생태학자" },
+        { "word": "document", "ko": "(증거로) 기록하다, 입증하다" },
+        { "word": "misdirected", "ko": "엉뚱한 곳으로 향한, 잘못 겨눈" },
+        { "word": "illumination", "ko": "조명, 빛" },
+        { "word": "disorient", "ko": "방향 감각을 잃게 하다" },
+        { "word": "migratory bird", "ko": "철새" },
+        { "word": "lure ~ away from", "ko": "~을 …에서 꾀어내다" },
+        { "word": "nesting", "ko": "둥지를 트는, (알을 낳으러 온)" },
+        { "word": "sea turtle", "ko": "바다거북" },
+        { "word": "disrupt", "ko": "교란하다, 방해하다" },
+        { "word": "nocturnal", "ko": "야행성의, 밤의" },
+        { "word": "rhythm", "ko": "리듬, 주기" },
+        { "word": "countless", "ko": "셀 수 없이 많은" },
+        { "word": "depend on", "ko": "~에 의존하다" }
+      ]
+    },
+    {
+      "en": "Human health may suffer as well, since prolonged exposure to light at night suppresses melatonin, a hormone that regulates sleep, and has been tentatively linked to metabolic disorders such as diabetes.",
+      "ko": "사람의 건강도 해를 입을 수 있는데, 밤에 빛에 장시간 노출되면 수면을 조절하는 호르몬인 멜라토닌이 억제되고, 이런 노출이 당뇨병 같은 대사 질환과 관련이 있다는 잠정적인 연구 결과도 나와 있기 때문이다.",
+      "structure": "· since는 이유의 접속사(~이므로). '~ 이래로'가 아님.\n· a hormone that regulates sleep: melatonin과 동격(콤마로 삽입), 그 안의 that은 주격 관계대명사.\n· 주어 prolonged exposure에 동사 suppresses와 has been linked가 and로 병렬 — 뒤의 것은 현재완료 수동태(지금까지 연관 지어져 왔다).\n· tentatively(잠정적으로)는 '아직 확정된 결론은 아니다'라는 신중한 표현(헤징).",
+      "vocab_notes": [
+        { "word": "suffer", "ko": "해를 입다, 나빠지다" },
+        { "word": "as well", "ko": "또한, 역시" },
+        { "word": "since", "ko": "~이므로" },
+        { "word": "prolonged", "ko": "장기간의, 오래 계속된" },
+        { "word": "exposure to", "ko": "~에의 노출" },
+        { "word": "suppress", "ko": "억제하다, 억누르다" },
+        { "word": "melatonin", "ko": "멜라토닌(수면 호르몬)" },
+        { "word": "hormone", "ko": "호르몬" },
+        { "word": "regulate", "ko": "조절하다, 규제하다" },
+        { "word": "tentatively", "ko": "잠정적으로, 조심스럽게" },
+        { "word": "be linked to", "ko": "~와 연관되다" },
+        { "word": "metabolic disorder", "ko": "대사 질환" },
+        { "word": "diabetes", "ko": "당뇨병" }
+      ]
+    },
+    {
+      "en": "What makes the problem especially frustrating is that, unlike most forms of pollution, it could be reversed almost overnight, simply by shielding fixtures, dimming them during off-peak hours, and aiming them downward where the light is needed.",
+      "ko": "이 문제를 특히 답답하게 만드는 것은, 대부분의 오염과 달리 조명 기구에 갓을 씌우고, 한산한 시간대에는 밝기를 낮추고, 빛이 필요한 곳을 향해 아래로 비추기만 해도 거의 하룻밤 사이에 되돌릴 수 있다는 점이다.",
+      "structure": "· What makes the problem especially frustrating: 관계대명사 what절이 문장 전체의 주어. 그 안은 make + O + 형용사(5형식) = 'O를 ~하게 만들다'.\n· is that ~: that절이 보어. unlike most forms of pollution은 삽입구.\n· could be reversed: 가능성의 could + 수동태 = '되돌려질 수 있다'.\n· simply by + 동명사 세 개(shielding, dimming, aiming) 병렬 = '~하기만 해도'.\n· where the light is needed: 관계부사 where가 '빛이 필요한 곳'을 나타낸다.",
+      "vocab_notes": [
+        { "word": "frustrating", "ko": "답답한, 좌절감을 주는" },
+        { "word": "unlike", "ko": "~와 달리" },
+        { "word": "form", "ko": "형태, 종류" },
+        { "word": "reverse", "ko": "되돌리다, 뒤집다" },
+        { "word": "overnight", "ko": "하룻밤 사이에, 단번에" },
+        { "word": "shield", "ko": "가리다, 차폐하다" },
+        { "word": "fixture", "ko": "(붙박이) 조명 기구, 설비" },
+        { "word": "dim", "ko": "(불빛을) 어둡게 하다" },
+        { "word": "off-peak hours", "ko": "사용량이 적은 한산한 시간대" },
+        { "word": "aim", "ko": "(~쪽으로) 향하게 하다, 겨누다" },
+        { "word": "downward", "ko": "아래쪽으로" }
+      ]
+    },
+    {
+      "en": "Yet the widespread switch to cheap, energy-efficient LEDs has, paradoxically, made matters worse, as municipalities that saved money on electricity have often responded by installing brighter and more numerous lamps, a textbook case of what economists call the rebound effect.",
+      "ko": "그런데 값싸고 에너지 효율이 높은 LED로의 대대적인 전환은 역설적이게도 사태를 오히려 악화시켰다. 전기료를 아낀 지자체들이 더 밝고 더 많은 가로등을 설치하는 것으로 대응하는 경우가 많았기 때문인데, 이는 경제학자들이 '리바운드 효과'라고 부르는 현상의 전형적인 사례다.",
+      "structure": "· has made matters worse: 현재완료 + make O C(5형식) = '사태를 더 나쁘게 만들었다'. paradoxically는 콤마로 끼워 넣은 문장 부사.\n· as는 이유·설명의 접속사(~ 때문에).\n· that saved money on electricity: 주격 관계대명사절이 municipalities를 수식.\n· respond by ~ing = '~하는 것으로 대응하다'.\n· a textbook case of ~: 앞 절 전체와 동격인 부연 명사구.\n· what economists call the rebound effect: what + S + call + O = '이른바 ~라고 부르는 것'.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그런데, 그러나" },
+        { "word": "widespread", "ko": "광범위한, 널리 퍼진" },
+        { "word": "switch to", "ko": "~로의 전환" },
+        { "word": "energy-efficient", "ko": "에너지 효율이 높은" },
+        { "word": "paradoxically", "ko": "역설적이게도" },
+        { "word": "make matters worse", "ko": "사태를 악화시키다" },
+        { "word": "municipality", "ko": "지방자치단체, 시(市)" },
+        { "word": "save money on", "ko": "~에서 돈을 아끼다" },
+        { "word": "respond by ~ing", "ko": "~함으로써 대응하다" },
+        { "word": "install", "ko": "설치하다" },
+        { "word": "numerous", "ko": "수많은" },
+        { "word": "textbook case", "ko": "전형적인 사례, 교과서적 사례" },
+        { "word": "rebound effect", "ko": "리바운드(반동) 효과 — 효율이 좋아지면 오히려 사용량이 늘어나는 현상" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "illuminate",
+      "pos": "v.",
+      "ko": "비추다; (문제를) 밝히다, 해명하다",
+      "example_en": "The report illuminates how small suppliers were squeezed by the new rules.",
+      "example_ko": "그 보고서는 새 규정 때문에 소규모 납품업체들이 어떻게 쥐어짜였는지를 밝혀 준다.",
+      "collocations": ["illuminate the problem", "brightly illuminated"],
+      "note": "어원: lumen(빛) — '빛을 비추다'에서 '(모르던 것을) 환히 밝히다=해명하다'로 뜻이 넓어졌다. luminous(빛나는)와 같은 뿌리.",
+      "family": [
+        { "word": "illumination", "pos": "n.", "ko": "조명; 해명, 계몽" },
+        { "word": "illuminating", "pos": "a.", "ko": "이해를 돕는, 깨우침을 주는 — '밝은'이 아님에 주의" }
+      ]
+    },
+    {
+      "headword": "nocturnal",
+      "pos": "a.",
+      "ko": "야행성의; 밤의",
+      "example_en": "Many nocturnal animals rely on darkness to hunt and to avoid predators.",
+      "example_ko": "많은 야행성 동물은 사냥하고 포식자를 피하는 데 어둠에 의존한다.",
+      "collocations": ["nocturnal animals", "nocturnal habits"],
+      "note": "어원: noct-/nox(밤) — nocturne(야상곡), equinox(equi 같은 + nox 밤 = 밤낮 길이가 같은 날, 춘분·추분)와 같은 뿌리.",
+      "related": [
+        { "word": "diurnal", "ko": "주행성의, 낮의", "note": "반의어 — 낮에 활동하는 동물. dies(날)에서 왔다" }
+      ]
+    },
+    {
+      "headword": "disorient",
+      "pos": "v.",
+      "ko": "방향 감각을 잃게 하다; 혼란스럽게 하다",
+      "example_en": "Passengers were disoriented by the sudden gate change and the lack of announcements.",
+      "example_ko": "승객들은 갑작스러운 탑승구 변경과 안내 방송 부재에 갈피를 잡지 못했다.",
+      "collocations": ["feel disoriented", "disorient migrating birds"],
+      "note": "orient는 원래 '동쪽'. 옛 지도는 동쪽을 위에 두어 '동쪽을 맞추다 = 방향을 잡다'가 됐고, dis-(반대)가 붙어 '방향을 잃게 하다'.",
+      "family": [
+        { "word": "orient", "pos": "v.", "ko": "방향을 잡다; (~에) 맞추다 — customer-oriented(고객 지향의)" },
+        { "word": "orientation", "pos": "n.", "ko": "(신입) 오리엔테이션; 방향, 성향" },
+        { "word": "disoriented", "pos": "a.", "ko": "혼란스러운, 방향을 잃은" }
+      ]
+    },
+    {
+      "headword": "aesthetic",
+      "pos": "a.",
+      "ko": "미적인, 미학의",
+      "example_en": "The new office design balances aesthetic appeal with practical needs.",
+      "example_ko": "새 사무실 디자인은 미적인 매력과 실용적 필요 사이의 균형을 잡았다.",
+      "collocations": ["aesthetic appeal", "for aesthetic reasons"],
+      "note": "그리스어 aisthesis(감각)에서 왔다 — '감각으로 느끼는 아름다움'. 여기에 an-(없음)이 붙으면 anesthetic(감각을 없애는 것 = 마취제).",
+      "family": [
+        { "word": "aesthetically", "pos": "ad.", "ko": "미적으로 — aesthetically pleasing(보기 좋은)" },
+        { "word": "aesthetics", "pos": "n.", "ko": "미학; 미적 요소" }
+      ],
+      "related": [
+        { "word": "anesthetic", "ko": "마취제; 마취의", "note": "철자가 비슷하지만 an-(없음)이 붙어 '감각을 없애는' 쪽 — 뜻이 전혀 다르다" }
+      ]
+    },
+    {
+      "headword": "circadian",
+      "pos": "a.",
+      "ko": "(약) 24시간 주기의, 생체 리듬의",
+      "example_en": "Night shifts can disrupt workers' circadian rhythms and harm their long-term health.",
+      "example_ko": "야간 교대 근무는 노동자의 생체 리듬을 교란해 장기적인 건강을 해칠 수 있다.",
+      "collocations": ["circadian rhythm", "circadian clock"],
+      "note": "circa(대략) + dies(하루) = '대략 하루 주기'. 'circa 1900'(1900년경)의 circa와 같은 말이라 이것만 알면 뜻이 바로 풀린다."
+    },
+    {
+      "headword": "luminous",
+      "pos": "a.",
+      "ko": "빛나는, 야광의; 명쾌한",
+      "example_en": "The watch has luminous hands that are easy to read in the dark.",
+      "example_ko": "그 시계는 어둠 속에서도 읽기 쉬운 야광 바늘이 달려 있다.",
+      "collocations": ["luminous paint", "luminous display"],
+      "note": "lumen(빛) + -ous(가득한) = '빛이 가득한'. illuminate와 같은 뿌리이고, 사람에게 쓰면 luminary(분야의 권위자, '빛나는 인물')가 된다.",
+      "family": [
+        { "word": "luminosity", "pos": "n.", "ko": "광도, 밝기" }
+      ],
+      "related": [
+        { "word": "luminary", "ko": "권위자, 거물", "note": "같은 뿌리지만 '빛나는 사람' → 어느 분야의 대가를 뜻하는 명사" }
+      ]
+    },
+    {
+      "headword": "fixture",
+      "pos": "n.",
+      "ko": "붙박이 설비(조명 기구 등); 고정 멤버, 터줏대감",
+      "example_en": "The tenant may not remove any fixtures when moving out of the apartment.",
+      "example_ko": "세입자는 아파트에서 나갈 때 붙박이 설비를 떼어 가서는 안 된다.",
+      "collocations": ["light fixtures", "fixtures and fittings", "a fixture of the local scene"],
+      "note": "fix(고정하다) + -ture(것) = '고정된 것'. 임대·부동산 계약에서 fixtures(붙박이 — 두고 가야 함)와 furnishings(가구 — 가져갈 수 있음)의 구분이 중요하다.",
+      "related": [
+        { "word": "furnishings", "ko": "가구·비품", "note": "떼어 옮길 수 있는 것 — 벽·천장에 고정된 fixtures와 대비" }
+      ]
+    },
+    {
+      "headword": "rebound",
+      "pos": "n./v.",
+      "ko": "반등(하다), 회복(하다); 되튀다",
+      "example_en": "Consumer spending rebounded sharply in the third quarter after a weak spring.",
+      "example_ko": "봄철 부진 이후 3분기에 소비 지출이 급반등했다.",
+      "collocations": ["a strong rebound", "rebound effect", "rebound from losses"],
+      "note": "re-(다시) + bound(튀어 오르다) — 공이 되튀듯 떨어졌던 수치가 다시 오르는 것. 경제 기사의 '반등'. rebound effect는 효율이 좋아져 오히려 사용량이 늘어나는 현상.",
+      "related": [
+        { "word": "bounce back", "ko": "회복하다", "note": "구어체 동의어 — 회화에서는 rebound보다 훨씬 자주 쓴다" }
+      ]
+    },
+    {
+      "headword": "dim",
+      "pos": "a./v.",
+      "ko": "어둑한, 흐릿한; 어둡게 하다, (전망이) 흐려지다",
+      "example_en": "Hopes for a quick recovery have dimmed after the latest employment figures.",
+      "example_ko": "최근 고용 지표가 나온 뒤 빠른 회복에 대한 기대가 옅어졌다.",
+      "collocations": ["dim the lights", "prospects dim", "take a dim view of"],
+      "note": "빛뿐 아니라 희망·전망에도 쓴다(prospects dimmed = 전망이 어두워졌다). take a dim view of ~ = '~을 못마땅하게 여기다'는 회화·기사 공통 빈출.",
+      "family": [
+        { "word": "dimmer", "pos": "n.", "ko": "(조명) 밝기 조절기" }
+      ]
+    },
+    {
+      "headword": "metabolic",
+      "pos": "a.",
+      "ko": "(신진)대사의",
+      "example_en": "Poor sleep has been associated with a higher risk of metabolic disease.",
+      "example_ko": "수면 부족은 대사 질환 위험 증가와 연관되어 왔다.",
+      "collocations": ["metabolic rate", "metabolic disorder"],
+      "note": "meta-(변화) + ballein(던지다) — 몸 안에서 물질을 '바꿔 던지는' 과정 = 대사. 명사 metabolism에서 -ism을 떼고 -ic을 붙인 형용사.",
+      "family": [
+        { "word": "metabolism", "pos": "n.", "ko": "신진대사" },
+        { "word": "metabolize", "pos": "v.", "ko": "대사하다, (체내에서) 분해하다" }
+      ]
+    },
+    {
+      "headword": "reversible",
+      "pos": "a.",
+      "ko": "되돌릴 수 있는; (옷이) 양면으로 입는",
+      "example_en": "Officials insist the damage is reversible if action is taken quickly.",
+      "example_ko": "당국자들은 신속히 조치하면 피해를 되돌릴 수 있다고 주장한다.",
+      "collocations": ["fully reversible", "irreversible damage"],
+      "note": "reverse(뒤집다) + -ible(~할 수 있는). 시사에서는 부정형 irreversible(돌이킬 수 없는)이 더 자주 나온다 — 'irreversible damage', 'an irreversible decision'.",
+      "family": [
+        { "word": "reverse", "pos": "v.", "ko": "뒤집다, 되돌리다" },
+        { "word": "reversal", "pos": "n.", "ko": "반전, 역전; (판결) 파기" },
+        { "word": "irreversible", "pos": "a.", "ko": "돌이킬 수 없는" }
+      ]
+    },
+    {
+      "headword": "invariably",
+      "pos": "ad.",
+      "ko": "언제나, 예외 없이",
+      "example_en": "Higher shipping costs are invariably passed on to consumers.",
+      "example_ko": "운송비 상승분은 예외 없이 소비자에게 전가된다.",
+      "collocations": ["invariably lead to", "almost invariably"],
+      "note": "in-(부정) + vary(변하다) + -able → '변할 수 없게' → 늘. always보다 격식적이고 '예외가 없다'는 관찰의 뉘앙스가 강하다.",
+      "family": [
+        { "word": "vary", "pos": "v.", "ko": "다르다, 변하다" },
+        { "word": "variable", "pos": "a./n.", "ko": "변하기 쉬운; 변수" },
+        { "word": "invariable", "pos": "a.", "ko": "불변의, 한결같은" }
+      ]
+    },
+    {
+      "headword": "lenient",
+      "pos": "a.",
+      "ko": "관대한, (처벌이) 가벼운",
+      "example_en": "Critics say regulators have been far too lenient with repeat corporate offenders.",
+      "example_ko": "비판론자들은 규제 당국이 상습 위반 기업에 지나치게 관대했다고 말한다.",
+      "collocations": ["a lenient sentence", "lenient toward"],
+      "note": "라틴어 lenis(부드러운) — 처벌·규정이 '물렁한'. 반대말은 strict·stringent. 명사 leniency는 담합 '자진 신고자 감면제'(leniency program)로 기사에 자주 나온다.",
+      "family": [
+        { "word": "leniency", "pos": "n.", "ko": "관대함, 선처" }
+      ],
+      "related": [
+        { "word": "lax", "ko": "느슨한, 해이한", "note": "lax는 관리 소홀(부주의, 부정적), lenient는 의도적으로 봐주는 것" }
+      ]
+    },
+    {
+      "headword": "exorbitant",
+      "pos": "a.",
+      "ko": "(가격·요구가) 터무니없이 비싼, 과도한",
+      "example_en": "Small businesses have complained about exorbitant rents in the city center.",
+      "example_ko": "소상공인들은 도심의 터무니없는 임대료에 불만을 제기해 왔다.",
+      "collocations": ["exorbitant fees", "exorbitant prices"],
+      "note": "ex-(밖으로) + orbit(궤도) → '궤도를 벗어난' → 정상 범위를 한참 벗어난 가격. expensive보다 훨씬 강한 비난조다.",
+      "related": [
+        { "word": "steep", "ko": "(가격이) 비싼; 가파른", "note": "구어체 — 'That's a bit steep.'(좀 비싸네요)처럼 회화에서 가볍게 쓴다" }
+      ]
+    },
+    {
+      "headword": "commence",
+      "pos": "v.",
+      "ko": "시작하다, 개시하다(격식)",
+      "example_en": "Construction will commence as soon as the permits are approved.",
+      "example_ko": "허가가 승인되는 대로 공사가 시작될 것이다.",
+      "collocations": ["commence operations", "commence proceedings"],
+      "note": "begin·start의 격식체 — 계약서·공지문·토익 파트 7 빈출. 명사 commencement는 미국에서 '졸업식'(새 인생의 시작)이라는 뜻도 있다.",
+      "family": [
+        { "word": "commencement", "pos": "n.", "ko": "시작, 개시; (미) 졸업식" }
+      ]
+    },
+    {
+      "headword": "proficient",
+      "pos": "a.",
+      "ko": "능숙한, 숙달된",
+      "example_en": "Applicants must be proficient in at least two languages.",
+      "example_ko": "지원자는 최소 두 개 언어에 능숙해야 한다.",
+      "collocations": ["proficient in", "highly proficient"],
+      "note": "pro-(앞으로) + facere(만들다·하다) → '앞서 해내는'. 전치사는 in(분야) 또는 at(행위). 채용 공고의 단골 — 명사 proficiency는 'English proficiency test'(영어 능력 시험).",
+      "family": [
+        { "word": "proficiency", "pos": "n.", "ko": "능숙도, 숙달" }
+      ],
+      "related": [
+        { "word": "efficient", "ko": "효율적인", "note": "같은 facere 뿌리에 철자도 비슷하지만 '잘 하는 사람'이 아니라 '낭비 없는 방식'" }
+      ]
+    },
+    {
+      "headword": "prerogative",
+      "pos": "n.",
+      "ko": "(고유한) 권한, 특권",
+      "example_en": "Setting interest rates remains the prerogative of the central bank.",
+      "example_ko": "금리 결정은 여전히 중앙은행 고유의 권한이다.",
+      "collocations": ["the prerogative of", "royal prerogative", "it's your prerogative"],
+      "note": "pre-(먼저) + rogare(묻다) — 로마에서 '먼저 의견을 질문받을 권리'. 직위·기관에 원래 딸린 결정 권한을 뜻한다.",
+      "related": [
+        { "word": "privilege", "ko": "특권, 특혜", "note": "privilege는 남보다 누리는 혜택, prerogative는 그 자리에 고유하게 딸린 결정권" }
+      ]
+    },
+    {
+      "headword": "impending",
+      "pos": "a.",
+      "ko": "(주로 나쁜 일이) 임박한, 곧 닥칠",
+      "example_en": "Investors braced themselves for the impending interest rate hike.",
+      "example_ko": "투자자들은 임박한 금리 인상에 대비했다.",
+      "collocations": ["impending crisis", "impending doom"],
+      "note": "im-(위에) + pendere(매달리다) → '머리 위에 매달려 곧 떨어질'. pendant(매달린 장신구)·pending(미결의)과 같은 뿌리.",
+      "related": [
+        { "word": "pending", "ko": "미결의; ~까지", "note": "같은 뿌리지만 '아직 처리되지 않은' — pending approval(승인 대기 중). 임박의 뉘앙스는 없다" }
+      ]
+    }
+  ]
+}

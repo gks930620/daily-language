@@ -1,0 +1,352 @@
+{
+  "date": "2026-09-24",
+  "words": [
+    {
+      "headword": "illuminate",
+      "pos": "v.",
+      "ko": "비추다; (문제를) 밝히다, 해명하다",
+      "example_en": "The report illuminates how small suppliers were squeezed by the new rules.",
+      "example_ko": "그 보고서는 새 규정 때문에 소규모 납품업체들이 어떻게 쥐어짜였는지를 밝혀 준다.",
+      "collocations": [
+        "illuminate the problem",
+        "brightly illuminated"
+      ],
+      "note": "어원: lumen(빛) — '빛을 비추다'에서 '(모르던 것을) 환히 밝히다=해명하다'로 뜻이 넓어졌다. luminous(빛나는)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "illumination",
+          "pos": "n.",
+          "ko": "조명; 해명, 계몽"
+        },
+        {
+          "word": "illuminating",
+          "pos": "a.",
+          "ko": "이해를 돕는, 깨우침을 주는 — '밝은'이 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "nocturnal",
+      "pos": "a.",
+      "ko": "야행성의; 밤의",
+      "example_en": "Many nocturnal animals rely on darkness to hunt and to avoid predators.",
+      "example_ko": "많은 야행성 동물은 사냥하고 포식자를 피하는 데 어둠에 의존한다.",
+      "collocations": [
+        "nocturnal animals",
+        "nocturnal habits"
+      ],
+      "note": "어원: noct-/nox(밤) — nocturne(야상곡), equinox(equi 같은 + nox 밤 = 밤낮 길이가 같은 날, 춘분·추분)와 같은 뿌리.",
+      "related": [
+        {
+          "word": "diurnal",
+          "ko": "주행성의, 낮의",
+          "note": "반의어 — 낮에 활동하는 동물. dies(날)에서 왔다"
+        }
+      ]
+    },
+    {
+      "headword": "disorient",
+      "pos": "v.",
+      "ko": "방향 감각을 잃게 하다; 혼란스럽게 하다",
+      "example_en": "Passengers were disoriented by the sudden gate change and the lack of announcements.",
+      "example_ko": "승객들은 갑작스러운 탑승구 변경과 안내 방송 부재에 갈피를 잡지 못했다.",
+      "collocations": [
+        "feel disoriented",
+        "disorient migrating birds"
+      ],
+      "note": "orient는 원래 '동쪽'. 옛 지도는 동쪽을 위에 두어 '동쪽을 맞추다 = 방향을 잡다'가 됐고, dis-(반대)가 붙어 '방향을 잃게 하다'.",
+      "family": [
+        {
+          "word": "orient",
+          "pos": "v.",
+          "ko": "방향을 잡다; (~에) 맞추다 — customer-oriented(고객 지향의)"
+        },
+        {
+          "word": "orientation",
+          "pos": "n.",
+          "ko": "(신입) 오리엔테이션; 방향, 성향"
+        },
+        {
+          "word": "disoriented",
+          "pos": "a.",
+          "ko": "혼란스러운, 방향을 잃은"
+        }
+      ]
+    },
+    {
+      "headword": "aesthetic",
+      "pos": "a.",
+      "ko": "미적인, 미학의",
+      "example_en": "The new office design balances aesthetic appeal with practical needs.",
+      "example_ko": "새 사무실 디자인은 미적인 매력과 실용적 필요 사이의 균형을 잡았다.",
+      "collocations": [
+        "aesthetic appeal",
+        "for aesthetic reasons"
+      ],
+      "note": "그리스어 aisthesis(감각)에서 왔다 — '감각으로 느끼는 아름다움'. 여기에 an-(없음)이 붙으면 anesthetic(감각을 없애는 것 = 마취제).",
+      "family": [
+        {
+          "word": "aesthetically",
+          "pos": "ad.",
+          "ko": "미적으로 — aesthetically pleasing(보기 좋은)"
+        },
+        {
+          "word": "aesthetics",
+          "pos": "n.",
+          "ko": "미학; 미적 요소"
+        }
+      ],
+      "related": [
+        {
+          "word": "anesthetic",
+          "ko": "마취제; 마취의",
+          "note": "철자가 비슷하지만 an-(없음)이 붙어 '감각을 없애는' 쪽 — 뜻이 전혀 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "circadian",
+      "pos": "a.",
+      "ko": "(약) 24시간 주기의, 생체 리듬의",
+      "example_en": "Night shifts can disrupt workers' circadian rhythms and harm their long-term health.",
+      "example_ko": "야간 교대 근무는 노동자의 생체 리듬을 교란해 장기적인 건강을 해칠 수 있다.",
+      "collocations": [
+        "circadian rhythm",
+        "circadian clock"
+      ],
+      "note": "circa(대략) + dies(하루) = '대략 하루 주기'. 'circa 1900'(1900년경)의 circa와 같은 말이라 이것만 알면 뜻이 바로 풀린다."
+    },
+    {
+      "headword": "luminous",
+      "pos": "a.",
+      "ko": "빛나는, 야광의; 명쾌한",
+      "example_en": "The watch has luminous hands that are easy to read in the dark.",
+      "example_ko": "그 시계는 어둠 속에서도 읽기 쉬운 야광 바늘이 달려 있다.",
+      "collocations": [
+        "luminous paint",
+        "luminous display"
+      ],
+      "note": "lumen(빛) + -ous(가득한) = '빛이 가득한'. illuminate와 같은 뿌리이고, 사람에게 쓰면 luminary(분야의 권위자, '빛나는 인물')가 된다.",
+      "family": [
+        {
+          "word": "luminosity",
+          "pos": "n.",
+          "ko": "광도, 밝기"
+        }
+      ],
+      "related": [
+        {
+          "word": "luminary",
+          "ko": "권위자, 거물",
+          "note": "같은 뿌리지만 '빛나는 사람' → 어느 분야의 대가를 뜻하는 명사"
+        }
+      ]
+    },
+    {
+      "headword": "fixture",
+      "pos": "n.",
+      "ko": "붙박이 설비(조명 기구 등); 고정 멤버, 터줏대감",
+      "example_en": "The tenant may not remove any fixtures when moving out of the apartment.",
+      "example_ko": "세입자는 아파트에서 나갈 때 붙박이 설비를 떼어 가서는 안 된다.",
+      "collocations": [
+        "light fixtures",
+        "fixtures and fittings",
+        "a fixture of the local scene"
+      ],
+      "note": "fix(고정하다) + -ture(것) = '고정된 것'. 임대·부동산 계약에서 fixtures(붙박이 — 두고 가야 함)와 furnishings(가구 — 가져갈 수 있음)의 구분이 중요하다.",
+      "related": [
+        {
+          "word": "furnishings",
+          "ko": "가구·비품",
+          "note": "떼어 옮길 수 있는 것 — 벽·천장에 고정된 fixtures와 대비"
+        }
+      ]
+    },
+    {
+      "headword": "rebound",
+      "pos": "n./v.",
+      "ko": "반등(하다), 회복(하다); 되튀다",
+      "example_en": "Consumer spending rebounded sharply in the third quarter after a weak spring.",
+      "example_ko": "봄철 부진 이후 3분기에 소비 지출이 급반등했다.",
+      "collocations": [
+        "a strong rebound",
+        "rebound effect",
+        "rebound from losses"
+      ],
+      "note": "re-(다시) + bound(튀어 오르다) — 공이 되튀듯 떨어졌던 수치가 다시 오르는 것. 경제 기사의 '반등'. rebound effect는 효율이 좋아져 오히려 사용량이 늘어나는 현상.",
+      "related": [
+        {
+          "word": "bounce back",
+          "ko": "회복하다",
+          "note": "구어체 동의어 — 회화에서는 rebound보다 훨씬 자주 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "dim",
+      "pos": "a./v.",
+      "ko": "어둑한, 흐릿한; 어둡게 하다, (전망이) 흐려지다",
+      "example_en": "Hopes for a quick recovery have dimmed after the latest employment figures.",
+      "example_ko": "최근 고용 지표가 나온 뒤 빠른 회복에 대한 기대가 옅어졌다.",
+      "collocations": [
+        "dim the lights",
+        "prospects dim",
+        "take a dim view of"
+      ],
+      "note": "빛뿐 아니라 희망·전망에도 쓴다(prospects dimmed = 전망이 어두워졌다). take a dim view of ~ = '~을 못마땅하게 여기다'는 회화·기사 공통 빈출.",
+      "family": [
+        {
+          "word": "dimmer",
+          "pos": "n.",
+          "ko": "(조명) 밝기 조절기"
+        }
+      ]
+    },
+    {
+      "headword": "metabolic",
+      "pos": "a.",
+      "ko": "(신진)대사의",
+      "example_en": "Poor sleep has been associated with a higher risk of metabolic disease.",
+      "example_ko": "수면 부족은 대사 질환 위험 증가와 연관되어 왔다.",
+      "collocations": [
+        "metabolic rate",
+        "metabolic disorder"
+      ],
+      "note": "meta-(변화) + ballein(던지다) — 몸 안에서 물질을 '바꿔 던지는' 과정 = 대사. 명사 metabolism에서 -ism을 떼고 -ic을 붙인 형용사.",
+      "family": [
+        {
+          "word": "metabolism",
+          "pos": "n.",
+          "ko": "신진대사"
+        },
+        {
+          "word": "metabolize",
+          "pos": "v.",
+          "ko": "대사하다, (체내에서) 분해하다"
+        }
+      ]
+    },
+    {
+      "headword": "reversible",
+      "pos": "a.",
+      "ko": "되돌릴 수 있는; (옷이) 양면으로 입는",
+      "example_en": "Officials insist the damage is reversible if action is taken quickly.",
+      "example_ko": "당국자들은 신속히 조치하면 피해를 되돌릴 수 있다고 주장한다.",
+      "collocations": [
+        "fully reversible",
+        "irreversible damage"
+      ],
+      "note": "reverse(뒤집다) + -ible(~할 수 있는). 시사에서는 부정형 irreversible(돌이킬 수 없는)이 더 자주 나온다 — 'irreversible damage', 'an irreversible decision'.",
+      "family": [
+        {
+          "word": "reverse",
+          "pos": "v.",
+          "ko": "뒤집다, 되돌리다"
+        },
+        {
+          "word": "reversal",
+          "pos": "n.",
+          "ko": "반전, 역전; (판결) 파기"
+        },
+        {
+          "word": "irreversible",
+          "pos": "a.",
+          "ko": "돌이킬 수 없는"
+        }
+      ]
+    },
+    {
+      "headword": "invariably",
+      "pos": "ad.",
+      "ko": "언제나, 예외 없이",
+      "example_en": "Higher shipping costs are invariably passed on to consumers.",
+      "example_ko": "운송비 상승분은 예외 없이 소비자에게 전가된다.",
+      "collocations": [
+        "invariably lead to",
+        "almost invariably"
+      ],
+      "note": "in-(부정) + vary(변하다) + -able → '변할 수 없게' → 늘. always보다 격식적이고 '예외가 없다'는 관찰의 뉘앙스가 강하다.",
+      "family": [
+        {
+          "word": "vary",
+          "pos": "v.",
+          "ko": "다르다, 변하다"
+        },
+        {
+          "word": "variable",
+          "pos": "a./n.",
+          "ko": "변하기 쉬운; 변수"
+        },
+        {
+          "word": "invariable",
+          "pos": "a.",
+          "ko": "불변의, 한결같은"
+        }
+      ]
+    },
+    {
+      "headword": "lenient",
+      "pos": "a.",
+      "ko": "관대한, (처벌이) 가벼운",
+      "example_en": "Critics say regulators have been far too lenient with repeat corporate offenders.",
+      "example_ko": "비판론자들은 규제 당국이 상습 위반 기업에 지나치게 관대했다고 말한다.",
+      "collocations": [
+        "a lenient sentence",
+        "lenient toward"
+      ],
+      "note": "라틴어 lenis(부드러운) — 처벌·규정이 '물렁한'. 반대말은 strict·stringent. 명사 leniency는 담합 '자진 신고자 감면제'(leniency program)로 기사에 자주 나온다.",
+      "family": [
+        {
+          "word": "leniency",
+          "pos": "n.",
+          "ko": "관대함, 선처"
+        }
+      ],
+      "related": [
+        {
+          "word": "lax",
+          "ko": "느슨한, 해이한",
+          "note": "lax는 관리 소홀(부주의, 부정적), lenient는 의도적으로 봐주는 것"
+        }
+      ]
+    },
+    {
+      "headword": "exorbitant",
+      "pos": "a.",
+      "ko": "(가격·요구가) 터무니없이 비싼, 과도한",
+      "example_en": "Small businesses have complained about exorbitant rents in the city center.",
+      "example_ko": "소상공인들은 도심의 터무니없는 임대료에 불만을 제기해 왔다.",
+      "collocations": [
+        "exorbitant fees",
+        "exorbitant prices"
+      ],
+      "note": "ex-(밖으로) + orbit(궤도) → '궤도를 벗어난' → 정상 범위를 한참 벗어난 가격. expensive보다 훨씬 강한 비난조다.",
+      "related": [
+        {
+          "word": "steep",
+          "ko": "(가격이) 비싼; 가파른",
+          "note": "구어체 — 'That's a bit steep.'(좀 비싸네요)처럼 회화에서 가볍게 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "commence",
+      "pos": "v.",
+      "ko": "시작하다, 개시하다(격식)",
+      "example_en": "Construction will commence as soon as the permits are approved.",
+      "example_ko": "허가가 승인되는 대로 공사가 시작될 것이다.",
+      "collocations": [
+        "commence operations",
+        "commence proceedings"
+      ],
+      "note": "begin·start의 격식체 — 계약서·공지문·토익 파트 7 빈출. 명사 commencement는 미국에서 '졸업식'(새 인생의 시작)이라는 뜻도 있다.",
+      "family": [
+        {
+          "word": "commencement",
+          "pos": "n.",
+          "ko": "시작, 개시; (미) 졸업식"
+        }
+      ]
+    }
+  ]
+}
