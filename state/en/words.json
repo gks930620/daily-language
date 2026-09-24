@@ -2700,6 +2700,51 @@
     },
     "commence": {
       "added_on": "2026-09-24"
+    },
+    "reproducibility": {
+      "added_on": "2026-09-25"
+    },
+    "peer review": {
+      "added_on": "2026-09-25"
+    },
+    "falsify": {
+      "added_on": "2026-09-25"
+    },
+    "fraudulent": {
+      "added_on": "2026-09-25"
+    },
+    "hypothesis": {
+      "added_on": "2026-09-25"
+    },
+    "bias": {
+      "added_on": "2026-09-25"
+    },
+    "flaw": {
+      "added_on": "2026-09-25"
+    },
+    "robust": {
+      "added_on": "2026-09-25"
+    },
+    "sensational": {
+      "added_on": "2026-09-25"
+    },
+    "prestigious": {
+      "added_on": "2026-09-25"
+    },
+    "plagiarism": {
+      "added_on": "2026-09-25"
+    },
+    "elusive": {
+      "added_on": "2026-09-25"
+    },
+    "inflate": {
+      "added_on": "2026-09-25"
+    },
+    "premature": {
+      "added_on": "2026-09-25"
+    },
+    "rectify": {
+      "added_on": "2026-09-25"
     }
   }
 }

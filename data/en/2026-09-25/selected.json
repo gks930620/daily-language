@@ -1,0 +1,380 @@
+{
+  "date": "2026-09-25",
+  "words": [
+    {
+      "headword": "reproducibility",
+      "pos": "n.",
+      "ko": "재현 가능성",
+      "example_en": "Funding agencies now ask applicants to explain how they will ensure the reproducibility of their results.",
+      "example_ko": "이제 연구비 지원 기관들은 신청자에게 결과의 재현 가능성을 어떻게 보장할지 설명하라고 요구한다.",
+      "collocations": [
+        "reproducibility crisis",
+        "ensure reproducibility"
+      ],
+      "note": "re-(다시) + produce(만들어내다) + -ible(~할 수 있는) + -ity(명사) — '다시 만들어낼 수 있음'. 긴 단어도 이렇게 쪼개면 뜻이 바로 나온다.",
+      "family": [
+        {
+          "word": "reproduce",
+          "pos": "v.",
+          "ko": "재현하다; 복제하다; 번식하다"
+        },
+        {
+          "word": "reproducible",
+          "pos": "a.",
+          "ko": "재현 가능한"
+        },
+        {
+          "word": "reproduction",
+          "pos": "n.",
+          "ko": "재현, 복제; 번식"
+        }
+      ]
+    },
+    {
+      "headword": "peer review",
+      "pos": "n.",
+      "ko": "동료 평가(심사)",
+      "example_en": "The paper was withdrawn after peer review uncovered serious errors in the data.",
+      "example_ko": "그 논문은 동료 심사에서 데이터의 심각한 오류가 드러난 뒤 철회되었다.",
+      "collocations": [
+        "undergo peer review",
+        "peer-reviewed journal"
+      ],
+      "note": "peer는 '동등한 사람·또래' — 같은 분야 전문가가 심사한다는 뜻. peer pressure(또래 압력)의 그 peer다.",
+      "family": [
+        {
+          "word": "peer-reviewed",
+          "pos": "a.",
+          "ko": "동료 심사를 거친"
+        }
+      ],
+      "related": [
+        {
+          "word": "peer",
+          "ko": "(눈을 가늘게 뜨고) 자세히 들여다보다",
+          "note": "동사 peer는 명사 peer(동료)와 뜻이 무관한 동형이의어 — peer into the dark(어둠 속을 응시하다)"
+        }
+      ]
+    },
+    {
+      "headword": "falsify",
+      "pos": "v.",
+      "ko": "위조하다, 조작하다; 반증하다",
+      "example_en": "The researcher was fired for falsifying laboratory records.",
+      "example_ko": "그 연구원은 실험 기록을 조작한 일로 해고되었다.",
+      "collocations": [
+        "falsify data",
+        "falsify records"
+      ],
+      "note": "false + -ify(~로 만들다) = '거짓으로 만들다'. 과학철학에선 '반증하다(가설이 틀렸음을 보이다)' 뜻도 있어서, falsifiable(반증 가능한)은 오히려 좋은 과학 이론의 조건이다.",
+      "family": [
+        {
+          "word": "falsification",
+          "pos": "n.",
+          "ko": "위조; 반증"
+        },
+        {
+          "word": "falsifiable",
+          "pos": "a.",
+          "ko": "반증 가능한"
+        }
+      ]
+    },
+    {
+      "headword": "fraudulent",
+      "pos": "a.",
+      "ko": "사기의, 부정한",
+      "example_en": "Investigators found that dozens of insurance claims were fraudulent.",
+      "example_ko": "조사관들은 수십 건의 보험금 청구가 사기였다는 것을 밝혀냈다.",
+      "collocations": [
+        "fraudulent claims",
+        "fraudulent activity"
+      ],
+      "note": "fraud(사기) + -ulent(~로 가득한) — violent(폭력으로 가득한)·turbulent(소란으로 가득한)와 같은 접미사.",
+      "family": [
+        {
+          "word": "fraud",
+          "pos": "n.",
+          "ko": "사기, 부정행위"
+        },
+        {
+          "word": "fraudster",
+          "pos": "n.",
+          "ko": "사기꾼"
+        }
+      ]
+    },
+    {
+      "headword": "hypothesis",
+      "pos": "n.",
+      "ko": "가설",
+      "example_en": "The team designed an experiment to test the hypothesis that sleep loss impairs memory.",
+      "example_ko": "연구팀은 수면 부족이 기억력을 손상시킨다는 가설을 검증하기 위한 실험을 설계했다.",
+      "collocations": [
+        "test a hypothesis",
+        "support the hypothesis"
+      ],
+      "note": "hypo-(아래) + thesis(놓은 것) — 논증 '밑에 깔아 둔' 가정. 복수형은 -is → -es: hypotheses (crisis → crises, analysis → analyses와 같은 규칙).",
+      "family": [
+        {
+          "word": "hypothetical",
+          "pos": "a.",
+          "ko": "가설의, 가정의"
+        },
+        {
+          "word": "hypothesize",
+          "pos": "v.",
+          "ko": "가설을 세우다"
+        }
+      ]
+    },
+    {
+      "headword": "bias",
+      "pos": "n.",
+      "ko": "편향, 편견",
+      "example_en": "The survey's design introduced a bias toward younger respondents.",
+      "example_ko": "그 설문의 설계는 젊은 응답자 쪽으로 치우친 편향을 낳았다.",
+      "collocations": [
+        "confirmation bias",
+        "bias against"
+      ],
+      "note": "형용사는 biased(편향된) — '편견 있는 사람'은 a biased person이지 a bias person이 아니다. 반대는 unbiased(공정한).",
+      "family": [
+        {
+          "word": "biased",
+          "pos": "a.",
+          "ko": "편향된"
+        },
+        {
+          "word": "unbiased",
+          "pos": "a.",
+          "ko": "편향되지 않은, 공정한"
+        }
+      ],
+      "related": [
+        {
+          "word": "prejudice",
+          "ko": "편견",
+          "note": "prejudice는 사람·집단에 대한 부정적 선입견, bias는 판단·데이터가 한쪽으로 기우는 것까지 포괄"
+        }
+      ]
+    },
+    {
+      "headword": "flaw",
+      "pos": "n.",
+      "ko": "결함, 흠",
+      "example_en": "Engineers discovered a design flaw that could cause the battery to overheat.",
+      "example_ko": "엔지니어들은 배터리 과열을 일으킬 수 있는 설계 결함을 발견했다.",
+      "collocations": [
+        "design flaw",
+        "fatal flaw"
+      ],
+      "note": "flawed(결함 있는) ↔ flawless(흠 없는, 완벽한) — '-less'가 붙어 칭찬이 되는 대표 단어.",
+      "family": [
+        {
+          "word": "flawed",
+          "pos": "a.",
+          "ko": "결함 있는"
+        },
+        {
+          "word": "flawless",
+          "pos": "a.",
+          "ko": "흠 없는, 완벽한"
+        }
+      ],
+      "related": [
+        {
+          "word": "flow",
+          "ko": "흐름",
+          "note": "철자 한 글자 차이 — flaw[flɔː] 결함, flow[floʊ] 흐름. 발음도 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "robust",
+      "pos": "a.",
+      "ko": "탄탄한, 확고한, 견조한",
+      "example_en": "Despite the slowdown, consumer spending remained robust in the third quarter.",
+      "example_ko": "경기 둔화에도 불구하고 3분기 소비 지출은 견조한 흐름을 유지했다.",
+      "collocations": [
+        "robust growth",
+        "robust evidence"
+      ],
+      "note": "라틴어 robur(참나무) — 참나무처럼 단단한. 경제 뉴스에선 '견조한'(robust demand), 연구에선 '조건을 바꿔도 흔들리지 않는' 결과를 뜻한다.",
+      "family": [
+        {
+          "word": "robustness",
+          "pos": "n.",
+          "ko": "견고함, 강건성"
+        }
+      ]
+    },
+    {
+      "headword": "sensational",
+      "pos": "a.",
+      "ko": "선정적인; 세상을 놀라게 하는",
+      "example_en": "The tabloid ran a sensational headline that was later proven false.",
+      "example_ko": "그 타블로이드 신문은 나중에 거짓으로 드러난 선정적인 헤드라인을 실었다.",
+      "collocations": [
+        "sensational headline",
+        "sensational claim"
+      ],
+      "note": "좋은 뜻(굉장한)과 나쁜 뜻(선정적인) 둘 다 있지만, 파생어 sensationalism(선정주의)은 나쁜 쪽만 남는다.",
+      "family": [
+        {
+          "word": "sensationalism",
+          "pos": "n.",
+          "ko": "선정주의"
+        },
+        {
+          "word": "sensationalize",
+          "pos": "v.",
+          "ko": "선정적으로 다루다"
+        }
+      ],
+      "related": [
+        {
+          "word": "sensible",
+          "ko": "분별 있는",
+          "note": "sense 계열 혼동 주의 — sensible 분별 있는, sensitive 민감한, sensory 감각의, sensational 선정적인"
+        }
+      ]
+    },
+    {
+      "headword": "prestigious",
+      "pos": "a.",
+      "ko": "명망 있는, 일류의",
+      "example_en": "She turned down an offer from a prestigious law firm to start her own company.",
+      "example_ko": "그녀는 자기 회사를 차리기 위해 일류 로펌의 제안을 거절했다.",
+      "collocations": [
+        "prestigious university",
+        "prestigious award"
+      ],
+      "note": "prestige는 원래 라틴어로 '눈속임·마술'(마술사의 presto! '짠!'과 같은 뿌리) — 사람을 홀리는 광채가 '명성'으로 바뀌었다.",
+      "family": [
+        {
+          "word": "prestige",
+          "pos": "n.",
+          "ko": "명성, 위신"
+        }
+      ]
+    },
+    {
+      "headword": "plagiarism",
+      "pos": "n.",
+      "ko": "표절",
+      "example_en": "The university revoked his degree after an inquiry found evidence of plagiarism.",
+      "example_ko": "대학은 조사에서 표절 증거가 발견되자 그의 학위를 취소했다.",
+      "collocations": [
+        "accusations of plagiarism",
+        "plagiarism detection"
+      ],
+      "note": "라틴어 plagiarius(유괴범) — 남의 글을 '납치'해 제 것인 양 내놓는 것.",
+      "family": [
+        {
+          "word": "plagiarize",
+          "pos": "v.",
+          "ko": "표절하다"
+        },
+        {
+          "word": "plagiarist",
+          "pos": "n.",
+          "ko": "표절자"
+        }
+      ]
+    },
+    {
+      "headword": "elusive",
+      "pos": "a.",
+      "ko": "잡히지 않는, 찾기(이루기) 힘든",
+      "example_en": "A lasting peace agreement has proved elusive despite years of negotiations.",
+      "example_ko": "수년간의 협상에도 불구하고 항구적인 평화 협정은 여전히 이뤄지지 않고 있다.",
+      "collocations": [
+        "prove elusive",
+        "elusive goal"
+      ],
+      "note": "동사 elude(e-(밖으로) + lude(놀다) = 놀리듯 빠져나가다)의 형용사. 뉴스에선 'prove elusive(이루기 어려운 것으로 드러나다)'가 단골 표현.",
+      "family": [
+        {
+          "word": "elude",
+          "pos": "v.",
+          "ko": "교묘히 피하다, 빠져나가다"
+        }
+      ],
+      "related": [
+        {
+          "word": "illusive",
+          "ko": "착각의, 환상의",
+          "note": "철자 한두 글자 차이 — elusive는 '잡히지 않는', illusive는 '실체 없는 착각의'"
+        }
+      ]
+    },
+    {
+      "headword": "inflate",
+      "pos": "v.",
+      "ko": "부풀리다, 과장하다; (물가를) 올리다",
+      "example_en": "Some sellers inflate their prices before a sale so the discount looks larger.",
+      "example_ko": "일부 판매자는 할인 폭이 커 보이도록 세일 전에 가격을 부풀린다.",
+      "collocations": [
+        "inflate figures",
+        "artificially inflate"
+      ],
+      "note": "in-(안으로) + flate(불다) — 바람을 불어넣다 → 부풀리다. inflation(물가 상승)은 통화량이 '부풀어' 돈의 가치가 떨어지는 것.",
+      "family": [
+        {
+          "word": "inflation",
+          "pos": "n.",
+          "ko": "인플레이션, 물가 상승; 팽창"
+        },
+        {
+          "word": "inflated",
+          "pos": "a.",
+          "ko": "부풀려진, 과장된"
+        },
+        {
+          "word": "deflate",
+          "pos": "v.",
+          "ko": "바람을 빼다; 기를 꺾다"
+        }
+      ]
+    },
+    {
+      "headword": "premature",
+      "pos": "a.",
+      "ko": "시기상조의, 너무 이른",
+      "example_en": "It would be premature to conclude that the economic recovery is complete.",
+      "example_ko": "경기 회복이 완료됐다고 결론짓기는 시기상조일 것이다.",
+      "collocations": [
+        "premature to say",
+        "premature death"
+      ],
+      "note": "pre-(미리) + mature(익은) — '다 익기 전에' 벌어진 일. 'It is premature to ~'는 신중한 공식 발언의 단골 틀이다.",
+      "family": [
+        {
+          "word": "prematurely",
+          "pos": "ad.",
+          "ko": "너무 이르게, 때 이르게"
+        }
+      ]
+    },
+    {
+      "headword": "rectify",
+      "pos": "v.",
+      "ko": "바로잡다, 시정하다",
+      "example_en": "The airline promised to rectify the billing error within five business days.",
+      "example_ko": "항공사는 영업일 기준 5일 안에 요금 청구 오류를 바로잡겠다고 약속했다.",
+      "collocations": [
+        "rectify an error",
+        "rectify the situation"
+      ],
+      "note": "rect-(곧은) + -ify(만들다) — rectangle(직사각형 = 곧은 각)과 같은 뿌리. 굽은 것을 '곧게 펴다' → 바로잡다.",
+      "related": [
+        {
+          "word": "ratify",
+          "ko": "비준하다",
+          "note": "철자가 비슷해 혼동 — ratify는 조약·협정을 공식 승인, rectify는 잘못을 바로잡다"
+        }
+      ]
+    }
+  ]
+}
