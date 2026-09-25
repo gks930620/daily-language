@@ -1,0 +1,398 @@
+{
+  "date": "2026-09-26",
+  "words": [
+    {
+      "headword": "invasive",
+      "pos": "a.",
+      "ko": "침입하는, (외래종이) 퍼지는; (의료) 절개가 필요한",
+      "example_en": "Officials warned that the invasive beetle could wipe out the region's ash trees within a decade.",
+      "example_ko": "당국은 그 침입종 딱정벌레가 10년 안에 그 지역 물푸레나무를 전멸시킬 수 있다고 경고했다.",
+      "collocations": [
+        "invasive species",
+        "minimally invasive surgery"
+      ],
+      "note": "in-(안으로) + vad(가다) — '안으로 밀고 들어가는'. 의료에서 non-invasive는 '몸에 칼을 대지 않는(비침습적)'이라는 뜻으로 광고에 자주 나온다.",
+      "family": [
+        {
+          "word": "invade",
+          "pos": "v.",
+          "ko": "침략하다, 침범하다"
+        },
+        {
+          "word": "invasion",
+          "pos": "n.",
+          "ko": "침략, 침입"
+        },
+        {
+          "word": "invader",
+          "pos": "n.",
+          "ko": "침략자, 침입종"
+        }
+      ],
+      "related": [
+        {
+          "word": "pervasive",
+          "ko": "만연한",
+          "note": "per-(두루) + vad — '구석구석 퍼진'. 같은 뿌리지만 '들어오는' 게 아니라 '이미 다 퍼져 있는' 상태"
+        }
+      ]
+    },
+    {
+      "headword": "foothold",
+      "pos": "n.",
+      "ko": "발판, 거점",
+      "example_en": "The startup is trying to gain a foothold in the Japanese market before larger rivals arrive.",
+      "example_ko": "그 스타트업은 더 큰 경쟁사들이 들어오기 전에 일본 시장에서 발판을 마련하려 하고 있다.",
+      "collocations": [
+        "gain a foothold",
+        "establish a foothold",
+        "secure a foothold"
+      ],
+      "note": "foot + hold — 암벽에서 '발을 걸칠 자리'. 여기서 '일단 자리 잡으면 밀어내기 어려운 거점'으로 확장되어 시장 진출·침입종·세력 확장 기사에 두루 쓰인다.",
+      "related": [
+        {
+          "word": "stronghold",
+          "ko": "요새, 본거지",
+          "note": "foothold는 '막 잡은 첫 발판', stronghold는 '이미 굳건한 아성' — 단계가 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "quarantine",
+      "pos": "n./v.",
+      "ko": "격리, 검역; 격리하다",
+      "example_en": "All imported plants must remain in quarantine for two weeks before they can be sold.",
+      "example_ko": "모든 수입 식물은 판매되기 전 2주 동안 격리 상태로 있어야 한다.",
+      "collocations": [
+        "in quarantine",
+        "quarantine period",
+        "impose a quarantine"
+      ],
+      "note": "어원: 이탈리아어 quaranta(40) — 흑사병 시절 베네치아가 입항 선박을 40일간 바다에 묶어 둔 데서 왔다. 그래서 원래 '병을 막으려는 격리'이고, 사람을 벌주는 '고립'과는 결이 다르다.",
+      "related": [
+        {
+          "word": "isolation",
+          "ko": "격리, 고립",
+          "note": "의학에서 isolation은 '이미 아픈 사람'을, quarantine은 '노출됐지만 아직 모르는 사람·물건'을 떼어 놓는 것"
+        }
+      ]
+    },
+    {
+      "headword": "infestation",
+      "pos": "n.",
+      "ko": "(해충·유해 생물이) 들끓음, 만연",
+      "example_en": "The hotel was forced to close temporarily after guests reported a bedbug infestation.",
+      "example_ko": "그 호텔은 투숙객들이 빈대가 들끓는다고 신고하자 일시 폐쇄할 수밖에 없었다.",
+      "collocations": [
+        "pest infestation",
+        "severe infestation"
+      ],
+      "note": "infest는 해충·쥐처럼 '반갑지 않은 것'이 떼로 차지할 때만 쓴다. 비유로도 '범죄자·스팸이 들끓다'처럼 늘 부정적 — 좋은 것이 가득할 때는 abound를 쓴다.",
+      "family": [
+        {
+          "word": "infest",
+          "pos": "v.",
+          "ko": "들끓다, 우글거리다"
+        },
+        {
+          "word": "infested",
+          "pos": "a.",
+          "ko": "(~이) 들끓는 — rat-infested처럼 복합어로 자주"
+        }
+      ],
+      "related": [
+        {
+          "word": "infection",
+          "ko": "감염",
+          "note": "infection은 병원체가 몸 '안'에 들어온 것, infestation은 벌레 등이 장소·몸 '겉'을 차지한 것"
+        }
+      ]
+    },
+    {
+      "headword": "stowaway",
+      "pos": "n.",
+      "ko": "밀항자, 몰래 탄 사람(생물)",
+      "example_en": "Crew members discovered a stowaway hiding in a shipping container two days after leaving port.",
+      "example_ko": "선원들은 출항 이틀 뒤 선적 컨테이너에 숨어 있던 밀항자를 발견했다.",
+      "collocations": [
+        "stowaway on a ship",
+        "discover a stowaway"
+      ],
+      "note": "동사 stow away(짐을 넣어 두다, 몰래 숨다)를 한 단어로 붙이면 '숨어 탄 사람'. stow는 기내 방송의 'stow your bags in the overhead bin(짐을 선반에 넣어 주세요)'에서 매일 듣는 그 단어.",
+      "family": [
+        {
+          "word": "stow",
+          "pos": "v.",
+          "ko": "(짐을) 넣어 두다, 싣다"
+        },
+        {
+          "word": "stowage",
+          "pos": "n.",
+          "ko": "적재 공간, 적재"
+        }
+      ]
+    },
+    {
+      "headword": "perish",
+      "pos": "v.",
+      "ko": "죽다, 소멸하다",
+      "example_en": "Thousands of seedlings perished during the unexpected frost.",
+      "example_ko": "뜻밖의 서리로 묘목 수천 그루가 죽었다.",
+      "collocations": [
+        "perish in a fire",
+        "perish from hunger"
+      ],
+      "note": "die의 격식체로 사고·재난·굶주림처럼 '때 이른 죽음'에 쓴다. 이미 아는 perishable(상하기 쉬운)이 바로 이 동사 + -able — '썩어 없어질 수 있는'.",
+      "family": [
+        {
+          "word": "perishable",
+          "pos": "a.",
+          "ko": "상하기 쉬운"
+        },
+        {
+          "word": "imperishable",
+          "pos": "a.",
+          "ko": "불멸의, 썩지 않는"
+        }
+      ],
+      "related": [
+        {
+          "word": "Perish the thought.",
+          "ko": "그런 생각은 말아라",
+          "note": "회화 관용구 — '그런 끔찍한 일은 상상도 하지 마'라는 농담조"
+        }
+      ]
+    },
+    {
+      "headword": "outcompete",
+      "pos": "v.",
+      "ko": "경쟁에서 이기다, 밀어내다",
+      "example_en": "Discount chains have outcompeted many family-owned stores on price.",
+      "example_ko": "할인 체인점들은 가격 면에서 많은 가족 운영 상점들을 경쟁에서 밀어냈다.",
+      "collocations": [
+        "outcompete rivals",
+        "outcompete native species"
+      ],
+      "note": "out- + 동사 = '~에서 상대를 넘어서다' 규칙. outperform(성과로 앞서다)·outpace(속도로 앞서다)·outnumber(수로 앞서다)처럼 out- 뒤의 동사가 '무엇으로 이겼는지'를 알려 준다.",
+      "related": [
+        {
+          "word": "outnumber",
+          "ko": "수적으로 앞서다",
+          "note": "같은 out- 패턴 — Women outnumber men in the field.(그 분야는 여성이 더 많다)"
+        }
+      ]
+    },
+    {
+      "headword": "unchecked",
+      "pos": "a./ad.",
+      "ko": "억제되지 않은; 걷잡을 수 없이",
+      "example_en": "If left unchecked, rising rents could push small businesses out of the neighborhood.",
+      "example_ko": "방치된다면 치솟는 임대료가 소상공인들을 동네에서 밀어낼 수 있다.",
+      "collocations": [
+        "go unchecked",
+        "if left unchecked",
+        "unchecked growth"
+      ],
+      "note": "여기서 check는 '확인하다'가 아니라 '저지하다, 억제하다'(체스의 check = 왕의 움직임을 막음). 그래서 unchecked는 '확인 안 된'보다 '아무도 막지 않은'이 먼저다.",
+      "related": [
+        {
+          "word": "checks and balances",
+          "ko": "견제와 균형",
+          "note": "같은 '억제' 뜻의 check — 권력기관끼리 서로 막는 장치"
+        }
+      ]
+    },
+    {
+      "headword": "manifest",
+      "pos": "n./v./a.",
+      "ko": "적하목록; 드러내다; 명백한",
+      "example_en": "Customs officers compared the cargo against the ship's manifest and found several undeclared crates.",
+      "example_ko": "세관원들은 화물을 선박의 적하목록과 대조해 신고되지 않은 상자 여러 개를 찾아냈다.",
+      "collocations": [
+        "passenger manifest",
+        "manifest itself",
+        "manifest destiny"
+      ],
+      "note": "man-(손, manual과 같은 뿌리) — '손에 잡힐 듯 뚜렷한'. 그래서 형용사는 '명백한', 동사는 '(증상·감정이) 드러나다', 명사는 '실린 것을 명백히 적은 목록'이 된다.",
+      "family": [
+        {
+          "word": "manifestation",
+          "pos": "n.",
+          "ko": "나타남, 징후"
+        },
+        {
+          "word": "manifesto",
+          "pos": "n.",
+          "ko": "(정당의) 선언문, 공약집 — 뜻이 갈라지니 주의"
+        }
+      ]
+    },
+    {
+      "headword": "biodiversity",
+      "pos": "n.",
+      "ko": "생물 다양성",
+      "example_en": "The wetland restoration project aims to protect biodiversity while reducing flood risk.",
+      "example_ko": "그 습지 복원 사업은 홍수 위험을 줄이면서 생물 다양성을 보호하는 것을 목표로 한다.",
+      "collocations": [
+        "loss of biodiversity",
+        "biodiversity hotspot"
+      ],
+      "note": "bio-(생명) + diversity(다양성). diverse(다양한) → diversity(다양성) → diversify(다각화하다) 파생 줄기에서 diversify는 경제 기사의 '포트폴리오·사업 다각화'로 바로 쓰인다.",
+      "family": [
+        {
+          "word": "diverse",
+          "pos": "a.",
+          "ko": "다양한"
+        },
+        {
+          "word": "diversify",
+          "pos": "v.",
+          "ko": "다각화하다, 다양화하다"
+        }
+      ]
+    },
+    {
+      "headword": "indigenous",
+      "pos": "a.",
+      "ko": "토착의, 원산의",
+      "example_en": "The park replaced ornamental shrubs with indigenous plants that need far less water.",
+      "example_ko": "그 공원은 관상용 관목을 물이 훨씬 덜 드는 토종 식물로 바꿨다.",
+      "collocations": [
+        "indigenous peoples",
+        "indigenous to + 지역"
+      ],
+      "note": "indi-(안에서) + gen(태어나다) — '그 땅 안에서 태어난'. native보다 격식체이고, 사람에게 쓸 때(indigenous peoples = 원주민)는 native보다 공식 문서에서 선호된다.",
+      "related": [
+        {
+          "word": "indigent",
+          "ko": "극빈한",
+          "note": "철자가 비슷한 혼동어 — indigent는 '가난한', indigenous는 '토착의'로 전혀 다르다"
+        },
+        {
+          "word": "endemic",
+          "ko": "(특정 지역) 고유의; 풍토병의",
+          "note": "endemic은 '그곳에만 있는'까지 뜻해 범위가 더 좁다"
+        }
+      ]
+    },
+    {
+      "headword": "disperse",
+      "pos": "v.",
+      "ko": "흩어지다, 퍼뜨리다; 해산시키다",
+      "example_en": "Police used loudspeakers to disperse the crowd after the concert was canceled.",
+      "example_ko": "공연이 취소되자 경찰은 확성기로 군중을 해산시켰다.",
+      "collocations": [
+        "disperse a crowd",
+        "seeds are dispersed by wind"
+      ],
+      "note": "dis-(사방으로) + sperse(뿌리다) — '흩뿌리다'. 생태학에선 씨앗·동물이 새 서식지로 퍼지는 것, 뉴스에선 시위대 해산에 쓴다.",
+      "family": [
+        {
+          "word": "dispersal",
+          "pos": "n.",
+          "ko": "(생물의) 확산, 분산"
+        },
+        {
+          "word": "dispersion",
+          "pos": "n.",
+          "ko": "분산 — 통계·물리 용어"
+        }
+      ],
+      "related": [
+        {
+          "word": "disburse",
+          "ko": "(자금을) 지출하다",
+          "note": "발음이 비슷한 혼동어 — disburse는 bourse(지갑)에서 돈을 꺼내는 것"
+        }
+      ]
+    },
+    {
+      "headword": "lodge",
+      "pos": "v./n.",
+      "ko": "(틈에) 박히다; (항의·소송을) 제기하다; 오두막",
+      "example_en": "Several customers lodged complaints about hidden fees on their monthly bills.",
+      "example_ko": "고객 여러 명이 월 청구서에 숨은 수수료가 있다며 항의를 제기했다.",
+      "collocations": [
+        "lodge a complaint",
+        "lodge an appeal",
+        "become lodged in"
+      ],
+      "note": "핵심 이미지는 '어딘가에 머물러 자리를 차지하다' — 사람이 머물면 숙박(lodging), 물체가 머물면 '박히다', 서류가 기관에 머물면 '(공식적으로) 제기하다'. 토익에서는 lodge a complaint가 file a complaint와 같은 뜻으로 나온다.",
+      "family": [
+        {
+          "word": "lodging",
+          "pos": "n.",
+          "ko": "숙소, 숙박"
+        },
+        {
+          "word": "lodger",
+          "pos": "n.",
+          "ko": "하숙인"
+        }
+      ]
+    },
+    {
+      "headword": "suspend",
+      "pos": "v.",
+      "ko": "(일시) 중단하다, 정지시키다; 매달다, 부유시키다",
+      "example_en": "The airline suspended flights to the island until the storm had passed.",
+      "example_ko": "그 항공사는 폭풍이 지나갈 때까지 그 섬으로 가는 항공편을 중단했다.",
+      "collocations": [
+        "suspend operations",
+        "suspended sentence",
+        "be suspended in"
+      ],
+      "note": "sus-(아래) + pend(매달다) — '공중에 매달아 두다'. 그래서 '결정·운행을 매달아 둔 채 멈추다'(중단, 정학, 집행유예)로 번진다. 끝내는 게 아니라 '일시' 정지라는 점이 핵심.",
+      "family": [
+        {
+          "word": "suspension",
+          "pos": "n.",
+          "ko": "중단, 정직·정학; (차량) 서스펜션"
+        },
+        {
+          "word": "suspense",
+          "pos": "n.",
+          "ko": "긴장감 — 결말이 '매달려' 있는 상태"
+        }
+      ],
+      "related": [
+        {
+          "word": "suspect",
+          "ko": "의심하다; 의심스러운",
+          "note": "철자가 비슷하지만 spect(보다) 계열 — '밑에서 올려다보다 → 의심하다'"
+        }
+      ]
+    },
+    {
+      "headword": "preemptive",
+      "pos": "a.",
+      "ko": "선제의, 사전 대응의",
+      "example_en": "The bank took preemptive steps to shore up its capital before the new rules took effect.",
+      "example_ko": "그 은행은 새 규정이 시행되기 전에 자본을 보강하려고 선제 조치를 취했다.",
+      "collocations": [
+        "preemptive strike",
+        "preemptive measures"
+      ],
+      "note": "pre-(먼저) + empt(취하다, exempt와 같은 뿌리) — '남보다 먼저 가져가다'. 오늘 문단의 '예방'처럼 문제가 터지기 전에 움직이는 것.",
+      "family": [
+        {
+          "word": "preempt",
+          "pos": "v.",
+          "ko": "선수를 치다, 미리 막다"
+        },
+        {
+          "word": "preemption",
+          "pos": "n.",
+          "ko": "선제; (법) 우선 적용"
+        }
+      ],
+      "related": [
+        {
+          "word": "proactive",
+          "ko": "주도적인, 사전에 대비하는",
+          "note": "proactive는 태도(늘 앞서 준비함), preemptive는 특정 위협을 '먼저 쳐서 막는' 한 번의 행동"
+        }
+      ]
+    }
+  ]
+}

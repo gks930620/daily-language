@@ -2745,6 +2745,51 @@
     },
     "rectify": {
       "added_on": "2026-09-25"
+    },
+    "invasive": {
+      "added_on": "2026-09-26"
+    },
+    "foothold": {
+      "added_on": "2026-09-26"
+    },
+    "quarantine": {
+      "added_on": "2026-09-26"
+    },
+    "infestation": {
+      "added_on": "2026-09-26"
+    },
+    "stowaway": {
+      "added_on": "2026-09-26"
+    },
+    "perish": {
+      "added_on": "2026-09-26"
+    },
+    "outcompete": {
+      "added_on": "2026-09-26"
+    },
+    "unchecked": {
+      "added_on": "2026-09-26"
+    },
+    "manifest": {
+      "added_on": "2026-09-26"
+    },
+    "biodiversity": {
+      "added_on": "2026-09-26"
+    },
+    "indigenous": {
+      "added_on": "2026-09-26"
+    },
+    "disperse": {
+      "added_on": "2026-09-26"
+    },
+    "lodge": {
+      "added_on": "2026-09-26"
+    },
+    "suspend": {
+      "added_on": "2026-09-26"
+    },
+    "preemptive": {
+      "added_on": "2026-09-26"
     }
   }
 }
