@@ -1,0 +1,356 @@
+{
+  "date": "2026-09-27",
+  "words": [
+    {
+      "headword": "edible",
+      "pos": "a.",
+      "ko": "먹을 수 있는, 식용의",
+      "example_en": "Nearly a third of the edible food produced worldwide is never eaten.",
+      "example_ko": "전 세계에서 생산되는 먹을 수 있는 음식의 거의 3분의 1은 결코 먹히지 않는다.",
+      "collocations": [
+        "edible food",
+        "edible packaging"
+      ],
+      "note": "어원: ed-(먹다 — eat과 같은 뿌리) + -ible(~할 수 있는). -ible/-able이 붙으면 '~할 수 있는'이 된다(visible 볼 수 있는, audible 들을 수 있는).",
+      "family": [
+        {
+          "word": "inedible",
+          "pos": "a.",
+          "ko": "먹을 수 없는"
+        }
+      ],
+      "related": [
+        {
+          "word": "eatable",
+          "ko": "먹을 만한",
+          "note": "edible은 '먹어도 안전한(독이 없는)', eatable은 '맛이 그럭저럭 먹을 만한' — edible mushroom(식용 버섯)에 eatable을 쓰지 않는다"
+        }
+      ]
+    },
+    {
+      "headword": "spoilage",
+      "pos": "n.",
+      "ko": "(음식의) 부패, 변질",
+      "example_en": "Better refrigeration during transport has sharply reduced spoilage.",
+      "example_ko": "운송 중 냉장이 개선되면서 부패로 인한 손실이 크게 줄었다.",
+      "collocations": [
+        "food spoilage",
+        "reduce spoilage"
+      ],
+      "note": "spoil(망치다; 음식이 상하다) + -age(명사화: 상태·결과·양). '버릇없는 아이(spoiled child)'도 같은 spoil — '망쳐진' 상태.",
+      "family": [
+        {
+          "word": "spoil",
+          "pos": "v.",
+          "ko": "망치다; (음식이) 상하다"
+        },
+        {
+          "word": "spoiler",
+          "pos": "n.",
+          "ko": "(결말을 미리 알려) 재미를 망치는 것, 스포일러"
+        }
+      ]
+    },
+    {
+      "headword": "expiration",
+      "pos": "n.",
+      "ko": "만료, (기한) 종료",
+      "example_en": "Please renew your membership before its expiration date.",
+      "example_ko": "만료일 전에 회원 자격을 갱신해 주십시오.",
+      "collocations": [
+        "expiration date",
+        "upon expiration"
+      ],
+      "note": "어원: ex-(밖으로) + spir(숨 쉬다) — 숨을 내쉬다 → 숨이 다하다 → 만료. inspire(숨을 불어넣다=영감을 주다)·respiration(호흡)과 같은 뿌리.",
+      "family": [
+        {
+          "word": "expire",
+          "pos": "v.",
+          "ko": "만료되다; (문어) 숨을 거두다"
+        },
+        {
+          "word": "expiry",
+          "pos": "n.",
+          "ko": "(주로 영국) 만료 — expiry date"
+        }
+      ]
+    },
+    {
+      "headword": "interchangeable",
+      "pos": "a.",
+      "ko": "교환(대체) 가능한, 서로 바꿔 쓸 수 있는",
+      "example_en": "The parts are interchangeable, so any technician can replace them on site.",
+      "example_ko": "부품이 서로 호환되기 때문에 어느 기술자든 현장에서 교체할 수 있다.",
+      "collocations": [
+        "interchangeable parts",
+        "be used interchangeably"
+      ],
+      "note": "inter-(서로) + change + -able → '서로 바꿔 끼울 수 있는'. 단어 두 개를 '구별 없이 섞어 쓴다'고 할 때 use A and B interchangeably가 단골 표현.",
+      "family": [
+        {
+          "word": "interchangeably",
+          "pos": "ad.",
+          "ko": "구별 없이, 섞어서"
+        },
+        {
+          "word": "interchange",
+          "pos": "n.",
+          "ko": "교환; (고속도로) 나들목"
+        }
+      ]
+    },
+    {
+      "headword": "upstream",
+      "pos": "a./ad.",
+      "ko": "상류의(로); (공급망·공정의) 앞 단계의",
+      "example_en": "Most of the pollution originates upstream, long before the water reaches the city.",
+      "example_ko": "오염의 대부분은 물이 도시에 이르기 훨씬 전, 상류에서 발생한다.",
+      "collocations": [
+        "upstream suppliers",
+        "upstream and downstream"
+      ],
+      "note": "강물 비유 — 산업·공급망에서 upstream은 원료·생산 쪽, downstream은 유통·소비 쪽. 정유업의 '업스트림(탐사·시추)'도 이 뜻이다.",
+      "related": [
+        {
+          "word": "downstream",
+          "ko": "하류의; 후방 단계의",
+          "note": "반대말 — 제조·유통·판매 등 소비자 쪽 단계"
+        }
+      ]
+    },
+    {
+      "headword": "cosmetic",
+      "pos": "a./n.",
+      "ko": "외관상의, 겉치레의; 화장품",
+      "example_en": "The renovation was largely cosmetic and did nothing to fix the leaking roof.",
+      "example_ko": "그 개보수는 대체로 겉치레에 그쳐 새는 지붕은 전혀 고치지 못했다.",
+      "collocations": [
+        "cosmetic changes",
+        "purely cosmetic"
+      ],
+      "note": "원래 '화장품'인데 형용사로 쓰면 '겉만 손본, 본질은 그대로인'이라는 부정적 뉘앙스가 강하다 — cosmetic reform = 무늬만 개혁.",
+      "related": [
+        {
+          "word": "cosmic",
+          "ko": "우주의",
+          "note": "철자가 닮았지만 뜻은 무관 — 둘 다 그리스어 kosmos(질서·장식)에서 갈라졌다"
+        }
+      ]
+    },
+    {
+      "headword": "produce",
+      "pos": "n.",
+      "ko": "(신선) 농산물",
+      "example_en": "The market sells locally grown produce every Saturday morning.",
+      "example_ko": "그 시장은 매주 토요일 아침 지역에서 재배한 농산물을 판다.",
+      "collocations": [
+        "fresh produce",
+        "organic produce"
+      ],
+      "note": "강세로 품사가 갈린다 — 명사 PRO-duce(농산물, 셀 수 없음) vs 동사 pro-DUCE(생산하다). record·present·object도 같은 규칙(명사는 앞, 동사는 뒤에 강세).",
+      "family": [
+        {
+          "word": "product",
+          "pos": "n.",
+          "ko": "제품"
+        },
+        {
+          "word": "production",
+          "pos": "n.",
+          "ko": "생산"
+        },
+        {
+          "word": "productive",
+          "pos": "a.",
+          "ko": "생산적인"
+        }
+      ]
+    },
+    {
+      "headword": "redistribute",
+      "pos": "v.",
+      "ko": "재분배하다",
+      "example_en": "The charity collects unsold bread from bakeries and redistributes it to shelters.",
+      "example_ko": "그 자선단체는 빵집에서 팔리지 않은 빵을 모아 보호시설에 재분배한다.",
+      "collocations": [
+        "redistribute wealth",
+        "redistribute surplus food"
+      ],
+      "note": "re-(다시) + distribute(나눠 주다). 명사 redistribution은 정치·경제 기사에서 '(소득) 재분배'로 자주 나온다. distribution은 '분배' 외에 '유통'이라는 뜻도 있다.",
+      "family": [
+        {
+          "word": "distribute",
+          "pos": "v.",
+          "ko": "분배하다; 유통시키다"
+        },
+        {
+          "word": "distribution",
+          "pos": "n.",
+          "ko": "분배; 유통"
+        },
+        {
+          "word": "redistribution",
+          "pos": "n.",
+          "ko": "재분배"
+        }
+      ]
+    },
+    {
+      "headword": "compost",
+      "pos": "n./v.",
+      "ko": "퇴비; 퇴비로 만들다",
+      "example_en": "The city now collects food scraps separately and turns them into compost.",
+      "example_ko": "시는 이제 음식물 찌꺼기를 따로 수거해 퇴비로 만든다.",
+      "collocations": [
+        "compost bin",
+        "compost food waste"
+      ],
+      "note": "어원: com-(함께) + post(놓다) — 여러 가지를 한데 쌓아 둔 것 → 퇴비. compose(구성하다)·compound(혼합물)와 같은 뿌리.",
+      "related": [
+        {
+          "word": "composite",
+          "ko": "합성의; 복합 재료",
+          "note": "같은 뿌리지만 '여러 재료를 합친 것' — 퇴비와는 무관"
+        }
+      ]
+    },
+    {
+      "headword": "stale",
+      "pos": "a.",
+      "ko": "신선하지 않은, 퀴퀴한; 진부한",
+      "example_en": "The bread had gone stale, but it was still perfectly safe to eat.",
+      "example_ko": "빵이 딱딱하게 굳었지만 먹기에는 여전히 전혀 문제가 없었다.",
+      "collocations": [
+        "go stale",
+        "stale air",
+        "stale data"
+      ],
+      "note": "음식이 '상한' 게 아니라 '말라 굳거나 김빠진' 상태. 비유로 stale idea(진부한 생각), stale data(갱신이 안 된 데이터)처럼 '묵은'의 뜻으로 쓴다.",
+      "related": [
+        {
+          "word": "rotten",
+          "ko": "썩은",
+          "note": "rotten은 먹으면 안 되는 상태, stale은 맛만 떨어진 상태 — 정도 차이에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "blemish",
+      "pos": "n./v.",
+      "ko": "(표면의) 흠, 티; 오점",
+      "example_en": "Supermarkets often reject apples with even minor blemishes.",
+      "example_ko": "슈퍼마켓은 작은 흠만 있어도 사과를 퇴짜 놓는 경우가 많다.",
+      "collocations": [
+        "minor blemishes",
+        "a blemish on one's record"
+      ],
+      "note": "겉에 난 '작은 자국' — 기능에 문제가 생기는 flaw(결함)와 달리 blemish는 외관상의 흠이다. 비유로 unblemished record = 흠 없는 경력.",
+      "family": [
+        {
+          "word": "unblemished",
+          "pos": "a.",
+          "ko": "흠 없는, 깨끗한"
+        }
+      ],
+      "related": [
+        {
+          "word": "flaw",
+          "ko": "결함",
+          "note": "flaw는 구조·논리·기능의 결함, blemish는 겉모양의 흠"
+        }
+      ]
+    },
+    {
+      "headword": "oblige",
+      "pos": "v.",
+      "ko": "(의무를) 지우다; (부탁을) 들어주다",
+      "example_en": "Employers are obliged by law to provide safety training.",
+      "example_ko": "고용주는 법에 따라 안전 교육을 제공할 의무가 있다.",
+      "collocations": [
+        "be obliged to do",
+        "feel obliged to"
+      ],
+      "note": "be obliged to = '의무적으로 ~해야 한다'인데, I'm much obliged = '정말 감사합니다'. 호의를 받아 상대에게 '빚진(의무가 생긴)' 상태라서 감사 표현이 된다.",
+      "family": [
+        {
+          "word": "obligation",
+          "pos": "n.",
+          "ko": "의무"
+        },
+        {
+          "word": "obligatory",
+          "pos": "a.",
+          "ko": "의무적인"
+        }
+      ]
+    },
+    {
+      "headword": "negligent",
+      "pos": "a.",
+      "ko": "부주의한, 태만한(과실이 있는)",
+      "example_en": "The court found the landlord negligent for failing to repair the stairs.",
+      "example_ko": "법원은 계단을 수리하지 않은 집주인에게 과실이 있다고 판단했다.",
+      "collocations": [
+        "negligent in",
+        "grossly negligent"
+      ],
+      "note": "negligent와 negligible은 같은 neglect(소홀히 하다)에서 나왔지만 뜻이 갈라진다 — negligent는 '해야 할 주의를 게을리한(법적 과실)', negligible은 '무시해도 될 만큼 작은'.",
+      "family": [
+        {
+          "word": "negligence",
+          "pos": "n.",
+          "ko": "과실, 태만"
+        },
+        {
+          "word": "neglect",
+          "pos": "v.",
+          "ko": "소홀히 하다, 방치하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "negligible",
+          "ko": "무시할 만한, 미미한",
+          "note": "사람의 태도가 아니라 양·영향의 크기를 말한다"
+        }
+      ]
+    },
+    {
+      "headword": "conscientious",
+      "pos": "a.",
+      "ko": "양심적인, 성실한",
+      "example_en": "She is a conscientious worker who double-checks every invoice.",
+      "example_ko": "그녀는 모든 송장을 두 번씩 확인하는 성실한 직원이다.",
+      "collocations": [
+        "conscientious objector",
+        "conscientious about"
+      ],
+      "note": "conscience(양심) + -ious. conscientious objector = 양심적 병역 거부자. 철자가 닮은 conscious(의식하는)와 뿌리(sci- 알다)는 같지만 뜻이 다르다.",
+      "related": [
+        {
+          "word": "conscious",
+          "ko": "의식하는, 자각하는",
+          "note": "conscious는 '알아차린', conscientious는 '양심적으로 꼼꼼한'"
+        }
+      ]
+    },
+    {
+      "headword": "encompass",
+      "pos": "v.",
+      "ko": "포함하다, 아우르다",
+      "example_en": "The new policy encompasses all branches, including those overseas.",
+      "example_ko": "새 정책은 해외 지점을 포함한 모든 지점을 아우른다.",
+      "collocations": [
+        "encompass a wide range of"
+      ],
+      "note": "en-(안에) + compass(원, 범위) — 컴퍼스로 원을 그려 그 안에 넣다. include보다 '넓은 범위를 통째로 품는다'는 뉘앙스가 강하다.",
+      "related": [
+        {
+          "word": "include",
+          "ko": "포함하다",
+          "note": "include는 일부 항목을 넣는 것, encompass는 넓은 범위 전체를 감싸는 것"
+        }
+      ]
+    }
+  ]
+}

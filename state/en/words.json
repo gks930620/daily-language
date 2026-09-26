@@ -2790,6 +2790,51 @@
     },
     "preemptive": {
       "added_on": "2026-09-26"
+    },
+    "edible": {
+      "added_on": "2026-09-27"
+    },
+    "spoilage": {
+      "added_on": "2026-09-27"
+    },
+    "expiration": {
+      "added_on": "2026-09-27"
+    },
+    "interchangeable": {
+      "added_on": "2026-09-27"
+    },
+    "upstream": {
+      "added_on": "2026-09-27"
+    },
+    "cosmetic": {
+      "added_on": "2026-09-27"
+    },
+    "produce": {
+      "added_on": "2026-09-27"
+    },
+    "redistribute": {
+      "added_on": "2026-09-27"
+    },
+    "compost": {
+      "added_on": "2026-09-27"
+    },
+    "stale": {
+      "added_on": "2026-09-27"
+    },
+    "blemish": {
+      "added_on": "2026-09-27"
+    },
+    "oblige": {
+      "added_on": "2026-09-27"
+    },
+    "negligent": {
+      "added_on": "2026-09-27"
+    },
+    "conscientious": {
+      "added_on": "2026-09-27"
+    },
+    "encompass": {
+      "added_on": "2026-09-27"
     }
   }
 }
