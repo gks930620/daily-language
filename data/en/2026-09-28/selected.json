@@ -1,0 +1,330 @@
+{
+  "date": "2026-09-28",
+  "words": [
+    {
+      "headword": "installment",
+      "pos": "n.",
+      "ko": "할부금, 분할 납부 1회분; (연재물의) 1회분",
+      "example_en": "The laptop can be paid off in twelve monthly installments with no interest.",
+      "example_ko": "그 노트북은 무이자 12개월 할부로 갚을 수 있다.",
+      "collocations": [
+        "pay in installments",
+        "monthly installment",
+        "the latest installment"
+      ],
+      "note": "'전체를 여러 번에 나눠 놓은 한 조각'이 핵심 — 그래서 돈이면 할부금, 드라마·소설이면 연재 1회분(the latest installment of the series)이다. 영국식 철자는 instalment(l 하나).",
+      "family": [
+        {
+          "word": "install",
+          "pos": "v.",
+          "ko": "설치하다 — 같은 철자지만 '할부'의 뜻은 없음에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "splurge",
+      "pos": "v./n.",
+      "ko": "(큰맘 먹고) 돈을 펑펑 쓰다; 호사스러운 지출",
+      "example_en": "After months of saving, she decided to splurge on a weekend at a luxury hotel.",
+      "example_ko": "몇 달을 아낀 끝에 그녀는 고급 호텔에서의 주말에 큰돈을 쓰기로 했다.",
+      "collocations": [
+        "splurge on something",
+        "a holiday splurge"
+      ],
+      "note": "평소엔 아끼다가 '한 번' 크게 쓰는 뉘앙스 — 죄책감 섞인 즐거움이 있다. 습관적으로 재산을 날리는 squander(탕진하다)와는 무게가 다르다.",
+      "related": [
+        {
+          "word": "squander",
+          "ko": "탕진하다",
+          "note": "splurge는 일회성·가벼운 사치, squander는 기회·재산을 헛되이 날려 버리는 부정적 표현"
+        }
+      ]
+    },
+    {
+      "headword": "overextend",
+      "pos": "v.",
+      "ko": "(능력 이상으로) 무리하다, 과도하게 빚지다",
+      "example_en": "Many households overextended themselves during the housing boom and struggled when rates rose.",
+      "example_ko": "많은 가계가 부동산 호황기에 무리하게 빚을 졌고 금리가 오르자 허덕였다.",
+      "collocations": [
+        "overextend oneself",
+        "financially overextended"
+      ],
+      "note": "over(지나치게) + extend(뻗다) — 팔을 너무 멀리 뻗다 균형을 잃는 그림. 돈(빚)·군대(전선 확대)·일정(과로) 어디에나 쓴다. 흔히 재귀형 overextend oneself나 형용사 overextended로 나온다.",
+      "family": [
+        {
+          "word": "extend",
+          "pos": "v.",
+          "ko": "연장하다, 뻗다"
+        },
+        {
+          "word": "overextended",
+          "pos": "a.",
+          "ko": "무리하게 벌인, 빚이 과한"
+        }
+      ]
+    },
+    {
+      "headword": "creditworthiness",
+      "pos": "n.",
+      "ko": "신용도, 상환 능력",
+      "example_en": "Banks assess an applicant's creditworthiness before approving a mortgage.",
+      "example_ko": "은행은 주택담보대출을 승인하기 전에 신청자의 신용도를 평가한다.",
+      "collocations": [
+        "assess creditworthiness",
+        "creditworthiness check"
+      ],
+      "note": "-worthy = '~할 가치가 있는': credit(믿고 빌려줌)+worthy → 빌려줄 만한 → -ness로 명사. trustworthy(믿을 만한)·newsworthy(보도할 만한)·seaworthy(항해할 수 있는)와 같은 조어법.",
+      "family": [
+        {
+          "word": "creditworthy",
+          "pos": "a.",
+          "ko": "신용이 있는, 돈을 빌려줄 만한"
+        },
+        {
+          "word": "credit",
+          "pos": "n.",
+          "ko": "신용; 외상; 학점"
+        },
+        {
+          "word": "creditor",
+          "pos": "n.",
+          "ko": "채권자"
+        }
+      ]
+    },
+    {
+      "headword": "lender",
+      "pos": "n.",
+      "ko": "대출기관, 빌려주는 사람",
+      "example_en": "Online lenders have gained market share by approving loans within minutes.",
+      "example_ko": "온라인 대출업체들은 몇 분 만에 대출을 승인해 주며 시장 점유율을 늘렸다.",
+      "collocations": [
+        "mortgage lender",
+        "lender of last resort"
+      ],
+      "note": "lend(빌려주다)와 borrow(빌리다)는 방향이 반대 — 한국어 '빌리다'가 둘 다 되는 탓에 자주 헷갈린다. lender ↔ borrower 짝으로 외울 것. lender of last resort = 최종 대부자(중앙은행).",
+      "related": [
+        {
+          "word": "borrower",
+          "ko": "차입자",
+          "note": "돈을 빌리는 쪽 — lender의 반대"
+        },
+        {
+          "word": "loan",
+          "ko": "대출(금)",
+          "note": "주로 명사. 'lend me'가 표준이고 동사 loan은 미국 구어에서 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "frictionless",
+      "pos": "a.",
+      "ko": "마찰 없는, 번거로움 없는",
+      "example_en": "The app promises a frictionless checkout that takes less than ten seconds.",
+      "example_ko": "그 앱은 10초도 안 걸리는 막힘없는 결제를 약속한다.",
+      "collocations": [
+        "frictionless payment",
+        "frictionless experience"
+      ],
+      "note": "원래 물리 용어(friction 마찰 + -less 없는)가 IT·마케팅으로 넘어와 '걸리는 데 없이 매끄러운'이라는 칭찬이 됐다. 비판 글에선 '너무 쉬워서 멈춰 생각할 틈이 없다'는 반어로 쓰인다.",
+      "family": [
+        {
+          "word": "friction",
+          "pos": "n.",
+          "ko": "마찰; 불화, 알력"
+        }
+      ]
+    },
+    {
+      "headword": "impulsive",
+      "pos": "a.",
+      "ko": "충동적인",
+      "example_en": "Retailers place snacks near the register to encourage impulsive purchases.",
+      "example_ko": "소매업체들은 충동구매를 부추기려고 계산대 근처에 간식을 둔다.",
+      "collocations": [
+        "impulsive purchase",
+        "impulsive decision"
+      ],
+      "note": "어원: pel/puls-(밀다) — im-(안으로)+pulse, 마음을 순간 확 미는 힘. 같은 뿌리의 compulsive(com-함께·강제로 밀리는)는 '멈출 수 없는·강박적인'으로 뜻이 갈린다: 충동구매 = impulsive, 쇼핑 중독 = compulsive.",
+      "family": [
+        {
+          "word": "impulse",
+          "pos": "n.",
+          "ko": "충동; 자극 (impulse buy = 충동구매)"
+        }
+      ],
+      "related": [
+        {
+          "word": "compulsive",
+          "ko": "강박적인, 중독적인",
+          "note": "impulsive는 순간적 충동, compulsive는 반복되어 스스로 못 멈추는 상태"
+        }
+      ]
+    },
+    {
+      "headword": "obscure",
+      "pos": "v./a.",
+      "ko": "가리다, 흐리게 하다; 잘 알려지지 않은, 모호한",
+      "example_en": "Strong headline growth figures can obscure weakness in household spending.",
+      "example_ko": "강한 성장률 수치가 가계 소비의 약세를 가려 버릴 수 있다.",
+      "collocations": [
+        "obscure the fact that",
+        "an obscure reference"
+      ],
+      "note": "동사('가리다')와 형용사('무명의·모호한') 두 품사가 같은 모양 — 문장 속 위치로 구분한다. 명사 obscurity는 '무명, 세상에 잊힘'(fade into obscurity 잊혀 가다).",
+      "family": [
+        {
+          "word": "obscurity",
+          "pos": "n.",
+          "ko": "무명; 모호함"
+        }
+      ]
+    },
+    {
+      "headword": "hardship",
+      "pos": "n.",
+      "ko": "(경제적) 곤란, 고난",
+      "example_en": "The utility offers deferred payment plans to customers facing financial hardship.",
+      "example_ko": "그 공공요금 회사는 재정적 곤란을 겪는 고객에게 납부 유예 제도를 제공한다.",
+      "collocations": [
+        "financial hardship",
+        "economic hardship",
+        "hardship fund"
+      ],
+      "note": "-ship = '상태·자격'을 만드는 접미사(friendship 우정, citizenship 시민권). hard + ship → '힘든 상태'. 뉴스·약관에선 특히 돈에 쪼들리는 상황을 가리키는 공식 용어(hardship withdrawal 긴급 인출).",
+      "related": [
+        {
+          "word": "hardness",
+          "ko": "단단함, 경도",
+          "note": "hardness는 물질의 딱딱한 정도, '고생·곤궁'은 hardship"
+        }
+      ]
+    },
+    {
+      "headword": "overdraft",
+      "pos": "n.",
+      "ko": "(계좌) 잔고 초과 인출, 당좌대월",
+      "example_en": "The bank charged him a $35 overdraft fee when a payment bounced.",
+      "example_ko": "결제가 잔고 부족으로 튕기자 은행은 그에게 35달러의 초과 인출 수수료를 물렸다.",
+      "collocations": [
+        "overdraft fee",
+        "go into overdraft"
+      ],
+      "note": "draw(돈을 인출하다) → draft(인출·어음). 여기에 over(초과)가 붙어 '있는 돈보다 더 꺼내 쓴 상태'. 동사는 overdraw, 상태 형용사는 overdrawn(My account is overdrawn).",
+      "family": [
+        {
+          "word": "overdraw",
+          "pos": "v.",
+          "ko": "(잔고 이상으로) 초과 인출하다"
+        },
+        {
+          "word": "overdrawn",
+          "pos": "a.",
+          "ko": "잔고가 마이너스인"
+        }
+      ]
+    },
+    {
+      "headword": "garnish",
+      "pos": "v.",
+      "ko": "(급여를) 압류하다; (요리에) 고명을 얹다",
+      "example_en": "If the debt remains unpaid, a court may order the employer to garnish the worker's wages.",
+      "example_ko": "빚을 계속 갚지 않으면 법원은 고용주에게 그 직원의 급여를 압류하라고 명령할 수 있다.",
+      "collocations": [
+        "garnish wages",
+        "garnish with parsley"
+      ],
+      "note": "요리의 '고명 얹기'와 법률의 '급여 압류'라는 엉뚱한 두 뜻 — 원래 '갖추다·대비시키다(garnir)'에서 갈라져, 한쪽은 접시를 꾸미는 쪽으로, 한쪽은 채무자에게 미리 통보해 돈을 잡아 두는 쪽으로 흘렀다.",
+      "family": [
+        {
+          "word": "garnishment",
+          "pos": "n.",
+          "ko": "(급여) 압류"
+        }
+      ]
+    },
+    {
+      "headword": "outstanding",
+      "pos": "a.",
+      "ko": "뛰어난; 미지불의, 미해결의",
+      "example_en": "Customers with an outstanding balance cannot open a new installment plan.",
+      "example_ko": "미납 잔액이 있는 고객은 새 할부 계약을 열 수 없다.",
+      "collocations": [
+        "outstanding balance",
+        "outstanding debt",
+        "outstanding issues"
+      ],
+      "note": "out(밖으로) + standing(서 있는) — 무리에서 '튀어나와 서 있으면' 뛰어난 것이고, 처리되지 않고 '밖에 남아 서 있으면' 미지불·미해결이다. 금융 문맥에서는 거의 항상 후자.",
+      "related": [
+        {
+          "word": "overdue",
+          "ko": "기한이 지난",
+          "note": "outstanding은 '아직 안 갚은'(기한 전일 수도 있음), overdue는 '기한을 넘긴'"
+        }
+      ]
+    },
+    {
+      "headword": "gratification",
+      "pos": "n.",
+      "ko": "만족(감), 충족",
+      "example_en": "Marketers know that young shoppers are drawn to instant gratification.",
+      "example_ko": "마케터들은 젊은 쇼핑객이 즉각적인 만족에 끌린다는 것을 안다.",
+      "collocations": [
+        "instant gratification",
+        "delayed gratification"
+      ],
+      "note": "어원: grat-(기쁨·고마움) — grateful(고마워하는), gratitude(감사), gratuity(팁), congratulate(축하하다)와 같은 뿌리. 심리학의 delayed gratification(만족 지연)은 '마시멜로 실험'의 개념.",
+      "family": [
+        {
+          "word": "gratify",
+          "pos": "v.",
+          "ko": "만족시키다, 기쁘게 하다"
+        },
+        {
+          "word": "gratitude",
+          "pos": "n.",
+          "ko": "감사 — '만족'이 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "reprieve",
+      "pos": "n./v.",
+      "ko": "(처벌·위기의) 일시적 유예; 유예하다",
+      "example_en": "The factory won a six-month reprieve from closure after a new investor stepped in.",
+      "example_ko": "새 투자자가 나서면서 그 공장은 폐쇄를 6개월 유예받았다.",
+      "collocations": [
+        "a temporary reprieve",
+        "win a reprieve"
+      ],
+      "note": "원래 사형수의 '형 집행 유예'에서 온 말 — 그래서 '닥칠 나쁜 일이 잠깐 미뤄짐'이라는 긴장감이 있다. 단순한 쉼인 respite와 구별.",
+      "related": [
+        {
+          "word": "respite",
+          "ko": "한숨 돌림, 휴식",
+          "note": "respite은 힘든 상황 중의 잠깐 쉼, reprieve는 예정된 처벌·폐쇄가 연기됨"
+        }
+      ]
+    },
+    {
+      "headword": "pitfall",
+      "pos": "n.",
+      "ko": "(숨은) 함정, 위험",
+      "example_en": "The guide explains the common pitfalls of signing a contract without reading it.",
+      "example_ko": "그 안내서는 읽지 않고 계약서에 서명할 때의 흔한 함정들을 설명한다.",
+      "collocations": [
+        "common pitfalls",
+        "avoid the pitfalls of"
+      ],
+      "note": "pit(구덩이) + fall(빠짐) — 사냥용 함정 구덩이에서 온 말. 눈에 잘 안 띄는 위험이라는 점이 핵심이며, 보통 복수형 pitfalls로 쓴다.",
+      "related": [
+        {
+          "word": "drawback",
+          "ko": "단점, 결점",
+          "note": "drawback은 이미 드러난 약점, pitfall은 모르고 빠지기 쉬운 숨은 위험"
+        }
+      ]
+    }
+  ]
+}

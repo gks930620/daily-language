@@ -2835,6 +2835,51 @@
     },
     "encompass": {
       "added_on": "2026-09-27"
+    },
+    "installment": {
+      "added_on": "2026-09-28"
+    },
+    "splurge": {
+      "added_on": "2026-09-28"
+    },
+    "overextend": {
+      "added_on": "2026-09-28"
+    },
+    "creditworthiness": {
+      "added_on": "2026-09-28"
+    },
+    "lender": {
+      "added_on": "2026-09-28"
+    },
+    "frictionless": {
+      "added_on": "2026-09-28"
+    },
+    "impulsive": {
+      "added_on": "2026-09-28"
+    },
+    "obscure": {
+      "added_on": "2026-09-28"
+    },
+    "hardship": {
+      "added_on": "2026-09-28"
+    },
+    "overdraft": {
+      "added_on": "2026-09-28"
+    },
+    "garnish": {
+      "added_on": "2026-09-28"
+    },
+    "outstanding": {
+      "added_on": "2026-09-28"
+    },
+    "gratification": {
+      "added_on": "2026-09-28"
+    },
+    "reprieve": {
+      "added_on": "2026-09-28"
+    },
+    "pitfall": {
+      "added_on": "2026-09-28"
     }
   }
 }
