@@ -515,7 +515,11 @@
     },
     "2026-09-29": {
       "prepared_at": "2026-09-28T23:00:53.629Z",
-      "settled": false
+      "settled": true,
+      "settled_at": "2026-09-28T23:06:14.800Z",
+      "content_sha256": "e42949fe7b077a7ec1d2ac2f22a6c8a5b652bc2d79d70318f46d88ebc1eb9ba3",
+      "notes": [],
+      "built_at": "2026-09-28T23:06:14.972Z"
     }
   }
 }
