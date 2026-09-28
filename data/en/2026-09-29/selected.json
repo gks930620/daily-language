@@ -1,0 +1,335 @@
+{
+  "date": "2026-09-29",
+  "words": [
+    {
+      "headword": "isolation",
+      "pos": "n.",
+      "ko": "고립, 격리",
+      "example_en": "Older adults who live alone are especially vulnerable to social isolation.",
+      "example_ko": "혼자 사는 노인들은 특히 사회적 고립에 취약하다.",
+      "collocations": [
+        "social isolation",
+        "in isolation",
+        "sense of isolation"
+      ],
+      "note": "어원: insula(섬) — '섬처럼 따로 떨어뜨려 놓다'. insulation(단열: 섬처럼 막아 둠)·peninsula(반도: 거의 섬)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "isolate",
+          "pos": "v.",
+          "ko": "고립시키다, 격리하다"
+        },
+        {
+          "word": "isolated",
+          "pos": "a.",
+          "ko": "고립된, 외딴"
+        }
+      ],
+      "related": [
+        {
+          "word": "loneliness",
+          "ko": "외로움",
+          "note": "isolation은 객관적 상태(접촉이 적음), loneliness는 주관적 감정 — 사람들 속에 있어도 외로울 수 있다"
+        }
+      ]
+    },
+    {
+      "headword": "solitude",
+      "pos": "n.",
+      "ko": "(혼자 있는) 고독, 호젓함",
+      "example_en": "Some writers retreat to the countryside in search of peace and solitude.",
+      "example_ko": "어떤 작가들은 평온과 호젓함을 찾아 시골로 물러난다.",
+      "collocations": [
+        "in solitude",
+        "peace and solitude"
+      ],
+      "note": "sol-(혼자) — solo·sole·solitary와 같은 뿌리. solitude는 스스로 택한 '홀로 있음'이라 긍정적 뉘앙스가 강하고, loneliness는 괴로운 외로움이다.",
+      "family": [
+        {
+          "word": "solitary",
+          "pos": "a.",
+          "ko": "혼자의, 고독한; 단 하나의"
+        }
+      ],
+      "related": [
+        {
+          "word": "solicitude",
+          "ko": "염려, 배려",
+          "note": "철자가 비슷하지만 뜻은 무관 — solicit(간청하다) 계열"
+        }
+      ]
+    },
+    {
+      "headword": "epidemic",
+      "pos": "n.",
+      "ko": "유행병; (나쁜 현상의) 급속한 확산",
+      "example_en": "Officials warned that obesity had reached epidemic proportions among children.",
+      "example_ko": "당국자들은 아동 비만이 유행병 수준에 이르렀다고 경고했다.",
+      "collocations": [
+        "reach epidemic proportions",
+        "an epidemic of"
+      ],
+      "note": "어원: epi-(위에)+dem(사람들) — 사람들 위에 덮치듯 퍼지는 것. democracy(민중의 지배)·demographic(인구의)과 같은 dem.",
+      "related": [
+        {
+          "word": "pandemic",
+          "ko": "세계적 대유행병",
+          "note": "pan-(전체) — 여러 대륙·전 세계로 번진 것"
+        },
+        {
+          "word": "endemic",
+          "ko": "풍토병(의), 고질적인",
+          "note": "en-(안에) — 특정 지역 안에 늘 눌러앉아 있는 것"
+        }
+      ]
+    },
+    {
+      "headword": "sedentary",
+      "pos": "a.",
+      "ko": "주로 앉아서 지내는, 활동이 적은",
+      "example_en": "Office workers with sedentary jobs are advised to stand up and stretch every hour.",
+      "example_ko": "앉아서 일하는 사무직 직원들은 한 시간마다 일어나 스트레칭하라는 권고를 받는다.",
+      "collocations": [
+        "sedentary lifestyle",
+        "sedentary job"
+      ],
+      "note": "어원: sed-(앉다) — sediment(가라앉은 것=퇴적물)·session(앉아 있는 시간=회기)과 같은 뿌리. '앉아 있는'으로 기억하면 끝."
+    },
+    {
+      "headword": "dementia",
+      "pos": "n.",
+      "ko": "치매",
+      "example_en": "The clinic offers support to families caring for relatives with dementia.",
+      "example_ko": "그 클리닉은 치매에 걸린 가족을 돌보는 이들에게 지원을 제공한다.",
+      "collocations": [
+        "early-onset dementia",
+        "risk of dementia"
+      ],
+      "note": "어원: de-(떠나)+ment(정신) — '정신이 떠난 상태'. mental·mentality와 같은 ment.",
+      "related": [
+        {
+          "word": "Alzheimer's disease",
+          "ko": "알츠하이머병",
+          "note": "치매를 일으키는 원인 질환 중 하나 — 치매가 더 넓은 개념(증상군)"
+        }
+      ]
+    },
+    {
+      "headword": "estrange",
+      "pos": "v.",
+      "ko": "(사이를) 멀어지게 하다",
+      "example_en": "He had been estranged from his brother for nearly a decade after a dispute over the family business.",
+      "example_ko": "그는 가업을 둘러싼 다툼 이후 거의 10년 동안 형과 사이가 멀어져 있었다.",
+      "collocations": [
+        "be estranged from",
+        "estranged wife"
+      ],
+      "note": "strange(낯선)와 같은 뿌리 — 가까운 사람을 '낯선 사람'으로 만든다. 거의 항상 수동형 be estranged from ~ 으로 쓴다.",
+      "family": [
+        {
+          "word": "estranged",
+          "pos": "a.",
+          "ko": "사이가 멀어진; 별거 중인"
+        },
+        {
+          "word": "estrangement",
+          "pos": "n.",
+          "ko": "소원, 불화"
+        }
+      ]
+    },
+    {
+      "headword": "recluse",
+      "pos": "n.",
+      "ko": "은둔자",
+      "example_en": "After retiring, the famous actor became a recluse and rarely left his house.",
+      "example_ko": "은퇴 후 그 유명 배우는 은둔자가 되어 좀처럼 집을 나서지 않았다.",
+      "collocations": [
+        "live as a recluse"
+      ],
+      "note": "어원: re-(뒤로)+clus(닫다) — 문을 닫고 틀어박힌 사람. exclude(밖으로 닫다=제외)·include·seclude와 같은 뿌리.",
+      "family": [
+        {
+          "word": "reclusive",
+          "pos": "a.",
+          "ko": "은둔하는, 사람을 피하는"
+        }
+      ],
+      "related": [
+        {
+          "word": "secluded",
+          "ko": "외딴, 한적한",
+          "note": "secluded는 주로 장소(a secluded beach), reclusive는 사람의 성향에 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "gregarious",
+      "pos": "a.",
+      "ko": "사교적인; 무리 지어 사는",
+      "example_en": "A gregarious salesperson, she seemed to know everyone at the trade fair.",
+      "example_ko": "사교적인 영업 사원인 그녀는 무역 박람회의 모든 사람을 아는 것 같았다.",
+      "collocations": [
+        "gregarious personality",
+        "gregarious animals"
+      ],
+      "note": "어원: greg-(무리) — aggregate(무리로 모으다=총계)·congregate(함께 모이다)·segregate(무리에서 떼다=분리)와 같은 뿌리. '무리를 좋아하는' 사람.",
+      "family": [
+        {
+          "word": "gregariousness",
+          "pos": "n.",
+          "ko": "사교성"
+        }
+      ],
+      "related": [
+        {
+          "word": "segregate",
+          "ko": "분리하다, 차별하다",
+          "note": "같은 greg 뿌리지만 se-(떼어) 때문에 뜻이 정반대 방향"
+        }
+      ]
+    },
+    {
+      "headword": "rapport",
+      "pos": "n.",
+      "ko": "(서로 통하는) 친밀한 관계, 신뢰",
+      "example_en": "Good managers take the time to build rapport with new team members.",
+      "example_ko": "좋은 관리자는 시간을 들여 새 팀원들과 신뢰 관계를 쌓는다.",
+      "collocations": [
+        "build rapport with",
+        "establish a rapport"
+      ],
+      "note": "프랑스어 차용이라 끝의 t가 묵음 [ræˈpɔːr]. 회화·면접에서 자주 나오니 발음부터 익혀 둘 것.",
+      "related": [
+        {
+          "word": "report",
+          "ko": "보고(서)",
+          "note": "철자 한 글자 차이 — rapport는 사람 사이의 '통함', report는 '보고'"
+        }
+      ]
+    },
+    {
+      "headword": "camaraderie",
+      "pos": "n.",
+      "ko": "동지애, 끈끈한 우정",
+      "example_en": "Many veterans say they miss the camaraderie of military life more than anything else.",
+      "example_ko": "많은 퇴역 군인들은 무엇보다 군 생활의 동지애가 그립다고 말한다.",
+      "collocations": [
+        "sense of camaraderie",
+        "camaraderie among colleagues"
+      ],
+      "note": "camera(원래 '방')에서 comrade(같은 방을 쓰는 사람=동지)가 나왔다 — 한방에서 지낸 사이의 정이 camaraderie.",
+      "family": [
+        {
+          "word": "comrade",
+          "pos": "n.",
+          "ko": "동지, 전우"
+        }
+      ]
+    },
+    {
+      "headword": "kinship",
+      "pos": "n.",
+      "ko": "친족 관계; (정서적) 유대감",
+      "example_en": "Migrants often rely on kinship networks to find housing and work in a new city.",
+      "example_ko": "이주민들은 새 도시에서 집과 일자리를 구할 때 흔히 친족 연결망에 의지한다.",
+      "collocations": [
+        "kinship network",
+        "a sense of kinship"
+      ],
+      "note": "kin(친족)+-ship(관계). 혈연 말고 '동질감'에도 쓴다(feel a kinship with ~ = ~에게 동질감을 느끼다).",
+      "family": [
+        {
+          "word": "kin",
+          "pos": "n.",
+          "ko": "친족, 친척"
+        },
+        {
+          "word": "kindred",
+          "pos": "a.",
+          "ko": "비슷한, 동류의 (kindred spirit = 마음이 통하는 사람)"
+        }
+      ]
+    },
+    {
+      "headword": "confide",
+      "pos": "v.",
+      "ko": "(비밀을) 털어놓다",
+      "example_en": "Surveys show that many men have no one to confide in about personal problems.",
+      "example_ko": "조사에 따르면 많은 남성들이 개인적인 문제를 털어놓을 사람이 아무도 없다.",
+      "collocations": [
+        "confide in someone",
+        "confide a secret"
+      ],
+      "note": "con-+fid(믿다) — 믿으니까 털어놓는다. 같은 뿌리에서 뜻이 갈라진다: confident(자신 있는)·confidential(기밀의)·confidant(속을 터놓는 친구).",
+      "family": [
+        {
+          "word": "confidant",
+          "pos": "n.",
+          "ko": "속을 터놓는 친구 — confident(자신 있는)와 철자 주의"
+        },
+        {
+          "word": "confidential",
+          "pos": "a.",
+          "ko": "기밀의, 비밀의"
+        },
+        {
+          "word": "confidence",
+          "pos": "n.",
+          "ko": "자신감; 신뢰; (털어놓은) 비밀"
+        }
+      ]
+    },
+    {
+      "headword": "fray",
+      "pos": "v. / n.",
+      "ko": "(천·관계가) 해지다, 닳다 / 싸움, 경쟁",
+      "example_en": "Tempers began to fray as the negotiations dragged on past midnight.",
+      "example_ko": "협상이 자정을 넘기며 길어지자 사람들의 신경이 날카로워지기 시작했다.",
+      "collocations": [
+        "frayed nerves",
+        "fray at the edges",
+        "join the fray"
+      ],
+      "note": "원래 천 가장자리의 올이 풀리는 것 — 사회·관계를 '천(fabric)'에 빗대 the social fabric is fraying처럼 쓴다. 명사 the fray는 '싸움판'(enter the fray = 논쟁에 뛰어들다)."
+    },
+    {
+      "headword": "insidious",
+      "pos": "a.",
+      "ko": "서서히 퍼지는, 잠행성의",
+      "example_en": "High blood pressure is an insidious condition that often has no obvious symptoms.",
+      "example_ko": "고혈압은 뚜렷한 증상이 없는 경우가 많아 모르는 새 진행되는 질환이다.",
+      "collocations": [
+        "insidious effect",
+        "insidious threat"
+      ],
+      "note": "어원: in-(안에)+sid(앉다) — 안에 몰래 앉아 기다리다(매복하다). sedentary와 같은 sed/sid 뿌리. '눈에 띄지 않게 해를 끼치는'이 핵심.",
+      "related": [
+        {
+          "word": "invidious",
+          "ko": "불공평한, 반감을 사는",
+          "note": "철자·발음이 비슷하지만 뜻이 다르다 — an invidious comparison(불공평한 비교)"
+        }
+      ]
+    },
+    {
+      "headword": "detrimental",
+      "pos": "a.",
+      "ko": "해로운",
+      "example_en": "Frequent schedule changes can be detrimental to employee morale.",
+      "example_ko": "잦은 일정 변경은 직원 사기에 해로울 수 있다.",
+      "collocations": [
+        "detrimental to",
+        "detrimental effect"
+      ],
+      "note": "어원: de-+terere(문지르다) — 문질러 닳게 하는 것. 명사 detriment로 쓰는 to the detriment of ~(~에 손해가 되도록, ~을 희생하여)가 시사 영어 빈출.",
+      "family": [
+        {
+          "word": "detriment",
+          "pos": "n.",
+          "ko": "손해, 손상"
+        }
+      ]
+    }
+  ]
+}

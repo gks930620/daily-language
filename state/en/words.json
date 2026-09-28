@@ -2880,6 +2880,51 @@
     },
     "pitfall": {
       "added_on": "2026-09-28"
+    },
+    "isolation": {
+      "added_on": "2026-09-29"
+    },
+    "solitude": {
+      "added_on": "2026-09-29"
+    },
+    "epidemic": {
+      "added_on": "2026-09-29"
+    },
+    "sedentary": {
+      "added_on": "2026-09-29"
+    },
+    "dementia": {
+      "added_on": "2026-09-29"
+    },
+    "estrange": {
+      "added_on": "2026-09-29"
+    },
+    "recluse": {
+      "added_on": "2026-09-29"
+    },
+    "gregarious": {
+      "added_on": "2026-09-29"
+    },
+    "rapport": {
+      "added_on": "2026-09-29"
+    },
+    "camaraderie": {
+      "added_on": "2026-09-29"
+    },
+    "kinship": {
+      "added_on": "2026-09-29"
+    },
+    "confide": {
+      "added_on": "2026-09-29"
+    },
+    "fray": {
+      "added_on": "2026-09-29"
+    },
+    "insidious": {
+      "added_on": "2026-09-29"
+    },
+    "detrimental": {
+      "added_on": "2026-09-29"
     }
   }
 }
