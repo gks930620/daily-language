@@ -2925,6 +2925,51 @@
     },
     "detrimental": {
       "added_on": "2026-09-29"
+    },
+    "ridicule": {
+      "added_on": "2026-09-30"
+    },
+    "mundane": {
+      "added_on": "2026-09-30"
+    },
+    "trivial": {
+      "added_on": "2026-09-30"
+    },
+    "blur": {
+      "added_on": "2026-09-30"
+    },
+    "burnout": {
+      "added_on": "2026-09-30"
+    },
+    "tether": {
+      "added_on": "2026-09-30"
+    },
+    "incessant": {
+      "added_on": "2026-09-30"
+    },
+    "unwind": {
+      "added_on": "2026-09-30"
+    },
+    "absenteeism": {
+      "added_on": "2026-09-30"
+    },
+    "telecommute": {
+      "added_on": "2026-09-30"
+    },
+    "explicit": {
+      "added_on": "2026-09-30"
+    },
+    "telling": {
+      "added_on": "2026-09-30"
+    },
+    "reprimand": {
+      "added_on": "2026-09-30"
+    },
+    "tedious": {
+      "added_on": "2026-09-30"
+    },
+    "reiterate": {
+      "added_on": "2026-09-30"
     }
   }
 }

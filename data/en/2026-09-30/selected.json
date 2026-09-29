@@ -1,0 +1,375 @@
+{
+  "date": "2026-09-30",
+  "words": [
+    {
+      "headword": "ridicule",
+      "pos": "v./n.",
+      "ko": "비웃다, 조롱하다; 조롱",
+      "example_en": "The proposal was widely ridiculed at first but later adopted by several firms.",
+      "example_ko": "그 제안은 처음엔 널리 조롱받았지만 나중엔 여러 회사가 채택했다.",
+      "collocations": [
+        "ridicule an idea",
+        "face ridicule",
+        "an object of ridicule"
+      ],
+      "note": "어원: 라틴어 ridere(웃다). ridiculous(말도 안 되는, 우스꽝스러운)가 같은 뿌리 — ridicule은 '비웃는 행위', ridiculous는 '비웃음을 살 만한 상태'.",
+      "family": [
+        {
+          "word": "ridiculous",
+          "pos": "a.",
+          "ko": "터무니없는, 우스꽝스러운"
+        },
+        {
+          "word": "ridiculously",
+          "pos": "ad.",
+          "ko": "터무니없이"
+        }
+      ],
+      "related": [
+        {
+          "word": "mock",
+          "ko": "조롱하다",
+          "note": "거의 동의어 — mock은 흉내 내며 놀리는 느낌까지 있고, '모의(시험)'라는 형용사 뜻도 있다(mock exam)"
+        }
+      ]
+    },
+    {
+      "headword": "mundane",
+      "pos": "a.",
+      "ko": "평범한, 일상적인, 재미없는",
+      "example_en": "Automation can free staff from mundane tasks such as data entry.",
+      "example_ko": "자동화는 직원들을 데이터 입력 같은 단조로운 업무에서 해방시킬 수 있다.",
+      "collocations": [
+        "mundane tasks",
+        "mundane details"
+      ],
+      "note": "어원: 라틴어 mundus(세상) — 원래 '천상이 아닌 세속의'라는 뜻에서 '특별할 것 없는 일상의'로 좁혀졌다. 부정적 뉘앙스(지루함)가 섞여 있다는 점이 ordinary와 다르다.",
+      "related": [
+        {
+          "word": "ordinary",
+          "ko": "보통의",
+          "note": "중립적 — mundane은 '지루하고 따분한'이라는 불평이 섞인다"
+        }
+      ]
+    },
+    {
+      "headword": "trivial",
+      "pos": "a.",
+      "ko": "사소한, 하찮은",
+      "example_en": "What seemed like a trivial error ended up costing the company millions.",
+      "example_ko": "사소한 실수처럼 보였던 것이 결국 회사에 수백만 달러의 손실을 입혔다.",
+      "collocations": [
+        "a trivial matter",
+        "far from trivial"
+      ],
+      "note": "어원: tri(셋) + via(길) — 세 갈래 길이 만나는 곳에서 오가며 나누던 '잡담'에서 '하찮은'이 됐다. trivia(잡학 퀴즈)도 같은 뿌리.",
+      "family": [
+        {
+          "word": "trivia",
+          "pos": "n.",
+          "ko": "잡학, 사소한 정보"
+        },
+        {
+          "word": "trivialize",
+          "pos": "v.",
+          "ko": "하찮게 여기다, 경시하다"
+        }
+      ]
+    },
+    {
+      "headword": "blur",
+      "pos": "v./n.",
+      "ko": "흐리게 하다, 모호하게 만들다; 흐릿한 것",
+      "example_en": "Remote work has blurred the line between personal and professional life.",
+      "example_ko": "원격 근무는 사생활과 직장 생활의 경계를 흐려 놓았다.",
+      "collocations": [
+        "blur the line(s) between",
+        "a blur of activity"
+      ],
+      "note": "blur the line(s) between A and B는 시사 기사 단골 표현 — '경계를 흐리다'. 형용사는 blurry(흐릿한), 과거분사 blurred도 자주 쓴다(blurred vision 흐린 시야).",
+      "family": [
+        {
+          "word": "blurry",
+          "pos": "a.",
+          "ko": "흐릿한"
+        },
+        {
+          "word": "blurred",
+          "pos": "a.",
+          "ko": "흐려진, 모호해진"
+        }
+      ]
+    },
+    {
+      "headword": "burnout",
+      "pos": "n.",
+      "ko": "번아웃, 극도의 피로·소진",
+      "example_en": "The hospital introduced shorter shifts to reduce burnout among nurses.",
+      "example_ko": "그 병원은 간호사들의 번아웃을 줄이기 위해 교대 근무 시간을 단축했다.",
+      "collocations": [
+        "suffer from burnout",
+        "employee burnout"
+      ],
+      "note": "동사구 burn out(다 타 버리다)이 한 단어 명사가 된 것 — 연료가 다 타서 꺼진 엔진처럼 에너지가 바닥난 상태. 동사로 쓸 땐 띄어 쓴다(He burned out).",
+      "family": [
+        {
+          "word": "burn out",
+          "pos": "v.",
+          "ko": "(에너지가) 다 소진되다"
+        },
+        {
+          "word": "burned-out",
+          "pos": "a.",
+          "ko": "지칠 대로 지친"
+        }
+      ]
+    },
+    {
+      "headword": "tether",
+      "pos": "v./n.",
+      "ko": "(밧줄 등으로) 묶어 두다, 얽매다; 밧줄",
+      "example_en": "Many managers feel tethered to their phones even while on vacation.",
+      "example_ko": "많은 관리자들이 휴가 중에도 휴대전화에 매여 있다고 느낀다.",
+      "collocations": [
+        "be tethered to",
+        "at the end of one's tether"
+      ],
+      "note": "원래 동물이 멀리 못 가게 매어 두는 줄 — 그래서 be tethered to one's desk/phone은 '끈에 묶인 듯 벗어나지 못하다'. at the end of one's tether는 '줄 끝까지 가서 더는 못 가는' = 인내의 한계.",
+      "related": [
+        {
+          "word": "untethered",
+          "ko": "얽매이지 않은",
+          "note": "반의어 — untethered work는 장소·기기에 묶이지 않는 근무"
+        }
+      ]
+    },
+    {
+      "headword": "incessant",
+      "pos": "a.",
+      "ko": "끊임없는, 쉴 새 없는",
+      "example_en": "Employees complained about the incessant stream of notifications.",
+      "example_ko": "직원들은 끊임없이 쏟아지는 알림에 대해 불평했다.",
+      "collocations": [
+        "incessant noise",
+        "incessant demands"
+      ],
+      "note": "in(부정) + cess(멈추다, cease와 같은 뿌리) = '멈추지 않는'. constant와 달리 거의 언제나 '짜증 난다'는 부정적 뉘앙스로 쓴다.",
+      "family": [
+        {
+          "word": "incessantly",
+          "pos": "ad.",
+          "ko": "끊임없이"
+        },
+        {
+          "word": "cease",
+          "pos": "v.",
+          "ko": "멈추다, 그치다"
+        }
+      ],
+      "related": [
+        {
+          "word": "constant",
+          "ko": "끊임없는",
+          "note": "중립적 — incessant는 성가심·불쾌감이 담긴다"
+        }
+      ]
+    },
+    {
+      "headword": "unwind",
+      "pos": "v.",
+      "ko": "긴장을 풀다, 쉬다; (감긴 것을) 풀다",
+      "example_en": "Without clear boundaries, workers struggle to unwind after hours.",
+      "example_ko": "명확한 경계가 없으면 근로자들은 퇴근 후에 긴장을 풀기 어려워한다.",
+      "collocations": [
+        "unwind after work",
+        "a chance to unwind"
+      ],
+      "note": "un(반대) + wind(감다, 발음 [와인드]) — 팽팽히 감긴 태엽을 풀듯 긴장을 푼다. 금융 기사에선 '(포지션·정책을) 되돌리다·청산하다'로도 쓴다(unwind stimulus).",
+      "related": [
+        {
+          "word": "relax",
+          "ko": "쉬다",
+          "note": "비슷하지만 unwind는 '쌓인 긴장을 풀어내는 과정'이 강조된다"
+        },
+        {
+          "word": "wind",
+          "ko": "감다",
+          "note": "명사 wind[윈드] '바람'과 동사 wind[와인드] '감다'는 발음이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "absenteeism",
+      "pos": "n.",
+      "ko": "(습관적) 결근",
+      "example_en": "The firm saw absenteeism fall after it introduced flexible hours.",
+      "example_ko": "그 회사는 유연 근무제를 도입한 뒤 결근율이 떨어지는 것을 확인했다.",
+      "collocations": [
+        "reduce absenteeism",
+        "absenteeism rate"
+      ],
+      "note": "absent(부재한) + -ee(~하는 사람: absentee 부재자) + -ism(현상) = '결근 현상'. 반대 개념 presenteeism은 아픈데도 출근해 생산성이 떨어지는 현상.",
+      "family": [
+        {
+          "word": "absentee",
+          "pos": "n.",
+          "ko": "결석자, 부재자"
+        },
+        {
+          "word": "absent",
+          "pos": "a.",
+          "ko": "결석한, 부재한"
+        }
+      ],
+      "related": [
+        {
+          "word": "presenteeism",
+          "ko": "프레젠티즘",
+          "note": "몸이 안 좋아도 출근은 하지만 제대로 일하지 못하는 현상 — absenteeism의 짝"
+        }
+      ]
+    },
+    {
+      "headword": "telecommute",
+      "pos": "v.",
+      "ko": "(집 등에서) 원격으로 근무하다",
+      "example_en": "About a third of the staff now telecommute at least two days a week.",
+      "example_ko": "현재 직원의 약 3분의 1이 적어도 일주일에 이틀은 원격 근무를 한다.",
+      "collocations": [
+        "telecommute from home",
+        "telecommuting policy"
+      ],
+      "note": "tele-(멀리) + commute(통근하다) — '멀리서 통근하다' = 통근 대신 통신으로 출근. tele-는 telephone·television의 그 '멀리'.",
+      "family": [
+        {
+          "word": "telecommuter",
+          "pos": "n.",
+          "ko": "원격 근무자"
+        },
+        {
+          "word": "telecommuting",
+          "pos": "n.",
+          "ko": "원격 근무"
+        }
+      ]
+    },
+    {
+      "headword": "explicit",
+      "pos": "a.",
+      "ko": "명시적인, 분명한; (내용이) 노골적인",
+      "example_en": "The contract gives explicit instructions on how overtime is calculated.",
+      "example_ko": "그 계약서에는 초과 근무 수당이 어떻게 계산되는지에 대한 명시적인 지침이 있다.",
+      "collocations": [
+        "explicit consent",
+        "make something explicit"
+      ],
+      "note": "ex(밖으로) + plic(접다) = '접힌 것을 밖으로 펼친' → 다 드러나 분명한. 반의어 implicit(im 안으로 + 접다 = 안에 접혀 숨은 → 암묵적인)과 세트로 외운다.",
+      "family": [
+        {
+          "word": "explicitly",
+          "pos": "ad.",
+          "ko": "명시적으로"
+        }
+      ],
+      "related": [
+        {
+          "word": "implicit",
+          "ko": "암묵적인",
+          "note": "반의어 — 드러내 말하지 않고 안에 담긴"
+        }
+      ]
+    },
+    {
+      "headword": "telling",
+      "pos": "a.",
+      "ko": "의미심장한, 많은 것을 드러내는",
+      "example_en": "In a telling sign of the times, the company now advertises 'no emails after 7 p.m.' as a perk.",
+      "example_ko": "시대상을 잘 보여 주는 의미심장한 징후로, 그 회사는 이제 '오후 7시 이후 이메일 금지'를 복지 혜택으로 광고한다.",
+      "collocations": [
+        "a telling sign",
+        "telling detail",
+        "It is telling that ~"
+      ],
+      "note": "tell(말하다)에서 '많은 것을 말해 주는' = 속내·실상을 드러내는. It is telling that ~은 '~라는 점이 시사하는 바가 크다' — 논설 단골 문형. '말하는 중인'이라는 뜻이 아님에 주의.",
+      "related": [
+        {
+          "word": "revealing",
+          "ko": "드러내는",
+          "note": "거의 동의어 — telling이 더 '핵심을 찌른다'는 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "reprimand",
+      "pos": "v./n.",
+      "ko": "견책하다, 질책하다; 견책",
+      "example_en": "The employee was reprimanded for sharing confidential data.",
+      "example_ko": "그 직원은 기밀 데이터를 공유한 일로 견책을 받았다.",
+      "collocations": [
+        "a formal reprimand",
+        "be reprimanded for"
+      ],
+      "note": "직장·공직에서 '공식적으로' 꾸짖는 것 — 징계 단계 중 가장 가벼운 것(견책)을 뜻하기도 한다. scold는 부모가 아이를 혼내듯 사적인 꾸중.",
+      "related": [
+        {
+          "word": "scold",
+          "ko": "꾸짖다",
+          "note": "사적·일상적 — reprimand는 조직의 공식 질책"
+        },
+        {
+          "word": "rebuke",
+          "ko": "질책하다",
+          "note": "날카롭게 공개적으로 꾸짖음에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "tedious",
+      "pos": "a.",
+      "ko": "지루한, 싫증 나는",
+      "example_en": "Filling out expense reports is tedious but necessary.",
+      "example_ko": "경비 보고서를 작성하는 일은 지루하지만 필요하다.",
+      "collocations": [
+        "tedious work",
+        "a tedious process"
+      ],
+      "note": "명사 tedium(지루함)과 짝. boring이 '재미없는'이라면 tedious는 '길고 반복적이어서 지치는' 쪽 — 서류 작업·절차에 잘 붙는다.",
+      "family": [
+        {
+          "word": "tedium",
+          "pos": "n.",
+          "ko": "지루함, 권태"
+        },
+        {
+          "word": "tediously",
+          "pos": "ad.",
+          "ko": "지루하게"
+        }
+      ]
+    },
+    {
+      "headword": "reiterate",
+      "pos": "v.",
+      "ko": "되풀이하여 말하다, 거듭 강조하다",
+      "example_en": "The CEO reiterated that no jobs would be cut this year.",
+      "example_ko": "CEO는 올해 일자리 감축은 없을 것이라고 거듭 밝혔다.",
+      "collocations": [
+        "reiterate one's commitment",
+        "reiterate a warning"
+      ],
+      "note": "re(다시) + iterate(반복하다) — '다시 되풀이하다'. 뉴스에서 정부·기업이 '입장을 재확인했다'고 할 때 단골(reiterate its position).",
+      "family": [
+        {
+          "word": "reiteration",
+          "pos": "n.",
+          "ko": "반복, 재천명"
+        },
+        {
+          "word": "iterate",
+          "pos": "v.",
+          "ko": "반복하다"
+        }
+      ]
+    }
+  ]
+}
