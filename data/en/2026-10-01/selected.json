@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-01",
+  "words": [
+    {
+      "headword": "shrinkflation",
+      "pos": "n.",
+      "ko": "슈링크플레이션(가격은 두고 용량을 줄이는 우회 인상)",
+      "example_en": "Snack makers have been accused of shrinkflation after bags of chips lost nearly a fifth of their contents.",
+      "example_ko": "과자 봉지의 내용물이 거의 5분의 1이나 줄자 스낵 제조사들은 슈링크플레이션이라는 비난을 받았다.",
+      "collocations": [
+        "a case of shrinkflation",
+        "crack down on shrinkflation"
+      ],
+      "note": "shrink(줄어들다) + inflation(물가 상승)을 합친 신조어. stagflation(stagnation 경기 침체 + inflation)과 똑같은 조어 방식이라 함께 외우면 좋다.",
+      "related": [
+        {
+          "word": "stagflation",
+          "ko": "스태그플레이션",
+          "note": "같은 합성 방식 — 경기 침체 속 물가 상승. shrinkflation은 '양이 줄어드는' 가격 인상"
+        }
+      ]
+    },
+    {
+      "headword": "downsize",
+      "pos": "v.",
+      "ko": "(규모를) 축소하다; (인원을) 감축하다",
+      "example_en": "The firm plans to downsize its regional offices and move more staff to remote work.",
+      "example_ko": "그 회사는 지역 사무소 규모를 줄이고 더 많은 직원을 원격 근무로 돌릴 계획이다.",
+      "collocations": [
+        "downsize the workforce",
+        "downsize a package"
+      ],
+      "note": "제품 크기를 줄일 때도 쓰지만, 뉴스에서는 '감원(해고)'을 부드럽게 돌려 말하는 완곡어로 훨씬 자주 나온다. 기사에서 downsizing이 보이면 구조조정·해고를 떠올릴 것.",
+      "family": [
+        {
+          "word": "downsizing",
+          "pos": "n.",
+          "ko": "(인원·규모) 축소, 감원"
+        }
+      ],
+      "related": [
+        {
+          "word": "rightsize",
+          "ko": "적정 규모로 조정하다",
+          "note": "downsize를 더 완곡하게 포장한 기업 용어 — 사실상 같은 감원을 뜻한다"
+        }
+      ]
+    },
+    {
+      "headword": "imperceptible",
+      "pos": "a.",
+      "ko": "감지할 수 없는, 알아챌 수 없을 만큼 미세한",
+      "example_en": "The price increase was imperceptible to most customers, who rarely check the weight on the label.",
+      "example_ko": "가격 인상은 라벨의 중량을 거의 확인하지 않는 대부분의 고객에게 감지되지 않았다.",
+      "collocations": [
+        "almost imperceptible",
+        "an imperceptible change"
+      ],
+      "note": "im-(아닌) + percept(지각하다) + -ible(~할 수 있는) = '지각할 수 없는'. perceive(지각하다)의 가족이라 분해하면 바로 풀린다.",
+      "family": [
+        {
+          "word": "perceive",
+          "pos": "v.",
+          "ko": "지각하다, 인식하다"
+        },
+        {
+          "word": "perception",
+          "pos": "n.",
+          "ko": "인식, 지각"
+        },
+        {
+          "word": "perceptible",
+          "pos": "a.",
+          "ko": "감지할 수 있는"
+        }
+      ]
+    },
+    {
+      "headword": "gauge",
+      "pos": "v.",
+      "ko": "가늠하다, 측정하다; (n.) 계기, 척도",
+      "example_en": "The survey was designed to gauge public reaction to the proposed tax.",
+      "example_ko": "그 설문은 제안된 세금에 대한 대중의 반응을 가늠하기 위해 고안되었다.",
+      "collocations": [
+        "gauge public opinion",
+        "a fuel gauge"
+      ],
+      "note": "발음은 [geidʒ] '게이지' — u는 소리 나지 않는다. 철자를 gaguge·guage로 틀리기 쉬우니 g-a-u-g-e 순서를 따로 기억할 것.",
+      "related": [
+        {
+          "word": "gouge",
+          "ko": "바가지를 씌우다",
+          "note": "철자 한 글자 차이(a↔o) — gauge는 '재다', gouge는 '후벼 파다, 폭리를 취하다'"
+        }
+      ]
+    },
+    {
+      "headword": "savvy",
+      "pos": "a.",
+      "ko": "요령 있는, 물정(분야)에 밝은",
+      "example_en": "Savvy travelers book flights midweek, when fares tend to be lower.",
+      "example_ko": "요령 있는 여행객들은 항공료가 대체로 더 싼 주중에 항공편을 예약한다.",
+      "collocations": [
+        "tech-savvy",
+        "savvy investor",
+        "media-savvy"
+      ],
+      "note": "스페인·포르투갈어 saber(알다)에서 온 말 — '뭘 좀 아는'. 명사 뒤에 하이픈으로 붙여 tech-savvy(기술에 밝은)처럼 복합 형용사를 만드는 용법이 매우 흔하다.",
+      "family": [
+        {
+          "word": "savvy",
+          "pos": "n.",
+          "ko": "(실용적) 지식, 요령 — business savvy"
+        }
+      ]
+    },
+    {
+      "headword": "dilute",
+      "pos": "v.",
+      "ko": "희석하다; (효과·가치를) 약화시키다",
+      "example_en": "Issuing new shares would dilute the value of existing investors' holdings.",
+      "example_ko": "신주를 발행하면 기존 투자자들이 보유한 지분의 가치가 희석될 것이다.",
+      "collocations": [
+        "dilute the value",
+        "dilute trust",
+        "diluted solution"
+      ],
+      "note": "'물을 탄다'가 기본 뜻 → 비유로 신뢰·영향력·주식 가치를 '묽게 만든다'. 금융 기사의 '주식 희석(dilution)'이 바로 이 단어.",
+      "family": [
+        {
+          "word": "dilution",
+          "pos": "n.",
+          "ko": "희석; (주식 가치) 희석"
+        }
+      ]
+    },
+    {
+      "headword": "disgruntled",
+      "pos": "a.",
+      "ko": "불만을 품은, 언짢은",
+      "example_en": "A disgruntled former employee leaked the internal documents to the press.",
+      "example_ko": "불만을 품은 전직 직원이 내부 문서를 언론에 유출했다.",
+      "collocations": [
+        "disgruntled employee",
+        "disgruntled customers"
+      ],
+      "note": "dis-가 부정이 아니라 '강조'인 드문 경우 — gruntle(투덜대다, grunt '꿀꿀거리다'와 같은 뿌리)을 강하게 한 말. 그래서 gruntled(만족한)는 나중에 농담처럼 거꾸로 만든 단어다.",
+      "related": [
+        {
+          "word": "grunt",
+          "ko": "(돼지가) 꿀꿀거리다; 툴툴거리다",
+          "note": "disgruntled의 뿌리 — 불만스러워 툴툴대는 소리를 떠올리면 외워진다"
+        }
+      ]
+    },
+    {
+      "headword": "sleight of hand",
+      "pos": "n.",
+      "ko": "눈속임, 교묘한 속임수",
+      "example_en": "The company's record profit was largely an accounting sleight of hand.",
+      "example_ko": "그 회사의 사상 최대 이익은 상당 부분 회계상의 눈속임이었다.",
+      "collocations": [
+        "accounting sleight of hand",
+        "a bit of sleight of hand"
+      ],
+      "note": "원래 마술사의 '손재주'. sleight[slait]는 '교묘함'이라는 옛말로 sly(교활한)와 같은 뿌리다. 시사에서는 숫자·말로 사람을 속이는 수법을 비꼴 때 쓴다.",
+      "related": [
+        {
+          "word": "slight",
+          "ko": "약간의, 사소한",
+          "note": "발음이 똑같고 철자만 다름(sleight ↔ slight) — 뜻은 전혀 관계없다"
+        }
+      ]
+    },
+    {
+      "headword": "pricing power",
+      "pos": "n.",
+      "ko": "가격 결정력",
+      "example_en": "Luxury brands enjoy strong pricing power because their customers are less sensitive to price.",
+      "example_ko": "명품 브랜드는 고객이 가격에 덜 민감하기 때문에 강한 가격 결정력을 누린다.",
+      "collocations": [
+        "strong pricing power",
+        "lose pricing power"
+      ],
+      "note": "값을 올려도 손님이 떠나지 않는 힘. 워런 버핏이 좋은 기업을 고르는 첫 기준으로 꼽아 유명해진 개념 — 경제 기사에서 인플레이션기에 특히 자주 나온다.",
+      "related": [
+        {
+          "word": "price taker",
+          "ko": "가격 수용자",
+          "note": "반대 개념 — 시장 가격을 그대로 받아들일 수밖에 없는 기업"
+        }
+      ]
+    },
+    {
+      "headword": "recalibrate",
+      "pos": "v.",
+      "ko": "재조정하다, 다시 맞추다",
+      "example_en": "The central bank may need to recalibrate its policy as inflation cools.",
+      "example_ko": "인플레이션이 진정되면서 중앙은행은 정책을 재조정해야 할 수도 있다.",
+      "collocations": [
+        "recalibrate expectations",
+        "recalibrate a strategy"
+      ],
+      "note": "calibrate는 계기의 '눈금을 맞추다'(caliber 구경·역량과 같은 뿌리) → re-가 붙어 '다시 맞추다'. 정책·기대·전략을 통째로 뒤엎지 않고 '미세 조정'한다는 뉘앙스.",
+      "family": [
+        {
+          "word": "calibrate",
+          "pos": "v.",
+          "ko": "(눈금을) 맞추다, 조정하다"
+        },
+        {
+          "word": "calibration",
+          "pos": "n.",
+          "ko": "보정, 눈금 조정"
+        }
+      ]
+    },
+    {
+      "headword": "rebate",
+      "pos": "n.",
+      "ko": "(지불 후) 환급, 리베이트",
+      "example_en": "Customers who buy an energy-efficient refrigerator can claim a rebate of up to $200.",
+      "example_ko": "에너지 효율이 높은 냉장고를 구매한 고객은 최대 200달러를 환급받을 수 있다.",
+      "collocations": [
+        "tax rebate",
+        "claim a rebate",
+        "cash rebate"
+      ],
+      "note": "re-(다시) + bate(깎다, abate의 bate) — 이미 낸 돈에서 깎아 '돌려주는' 것. 한국어 '리베이트'의 뒷돈 뉘앙스와 달리 영어에서는 합법적 환급이 기본 뜻이다.",
+      "related": [
+        {
+          "word": "discount",
+          "ko": "할인",
+          "note": "discount는 결제할 때 바로 깎아 주고, rebate는 결제 후에 돌려준다"
+        }
+      ]
+    },
+    {
+      "headword": "hefty",
+      "pos": "a.",
+      "ko": "(금액이) 두둑한, 상당한; 묵직한",
+      "example_en": "The airline was hit with a hefty fine for failing to refund canceled flights.",
+      "example_ko": "그 항공사는 취소된 항공편을 환불하지 않아 거액의 벌금을 맞았다.",
+      "collocations": [
+        "a hefty fine",
+        "a hefty price tag",
+        "hefty fees"
+      ],
+      "note": "heave(들어 올리다) → heft(무게) → hefty(묵직한). 금액에 붙으면 '부담될 만큼 큰' 느낌이라 fine·fee·price tag와 거의 붙어 다닌다.",
+      "family": [
+        {
+          "word": "heft",
+          "pos": "n.",
+          "ko": "무게; 영향력"
+        }
+      ]
+    },
+    {
+      "headword": "nominal",
+      "pos": "a.",
+      "ko": "명목상의; (금액이) 아주 적은",
+      "example_en": "Although nominal wages rose, higher prices meant workers were no better off.",
+      "example_ko": "명목 임금은 올랐지만 물가가 더 올라 노동자들의 형편은 나아지지 않았다.",
+      "collocations": [
+        "nominal wages",
+        "nominal GDP",
+        "a nominal fee"
+      ],
+      "note": "nomin-(이름) → '이름뿐인'. 경제에서는 nominal(명목) vs real(실질) 대비가 핵심이고, a nominal fee는 '이름만 요금인 = 아주 싼 요금'으로 뜻이 갈라진다.",
+      "related": [
+        {
+          "word": "real",
+          "ko": "실질의",
+          "note": "경제 용어 짝 — nominal GDP(명목 GDP) ↔ real GDP(물가를 뺀 실질 GDP)"
+        }
+      ]
+    },
+    {
+      "headword": "tally",
+      "pos": "v.",
+      "ko": "집계하다; (with) 일치하다; (n.) 집계",
+      "example_en": "Officials are still tallying the votes, and the final count may not tally with early estimates.",
+      "example_ko": "관계자들은 아직 표를 집계 중이며, 최종 집계는 초기 추정치와 일치하지 않을 수도 있다.",
+      "collocations": [
+        "tally the votes",
+        "tally with",
+        "a running tally"
+      ],
+      "note": "원래 눈금을 새긴 막대(tally stick)를 반으로 쪼개 서로 맞춰 보던 장부 → '집계하다'와 '(두 기록이) 딱 맞다' 두 뜻이 모두 여기서 나왔다. tally with = ~와 일치하다.",
+      "related": [
+        {
+          "word": "tabulate",
+          "ko": "표로 만들다, 집계하다",
+          "note": "tally보다 격식 — 데이터를 표로 정리하는 것에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "rife",
+      "pos": "a.",
+      "ko": "(나쁜 것이) 만연한, 가득한",
+      "example_en": "The industry was rife with hidden fees until regulators stepped in.",
+      "example_ko": "규제 당국이 개입하기 전까지 그 업계에는 숨겨진 수수료가 만연했다.",
+      "collocations": [
+        "rife with corruption",
+        "speculation is rife"
+      ],
+      "note": "거의 항상 부정적인 대상(부패·루머·질병)에 쓰고, 명사 앞이 아니라 be rife (with ~) 형태로 서술적으로만 쓴다.",
+      "related": [
+        {
+          "word": "rampant",
+          "ko": "만연한, 걷잡을 수 없는",
+          "note": "뜻은 비슷하지만 rampant는 명사 앞에도 온다(rampant inflation); rife는 주로 be rife with"
+        }
+      ]
+    }
+  ]
+}
