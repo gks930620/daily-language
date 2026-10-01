@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-02",
+  "words": [
+    {
+      "headword": "groggy",
+      "pos": "a.",
+      "ko": "(잠이 덜 깨) 몽롱한, 비틀거리는",
+      "example_en": "Many passengers felt groggy after the overnight flight and skipped the morning meeting.",
+      "example_ko": "많은 승객이 야간 비행 후 몽롱해서 아침 회의를 건너뛰었다.",
+      "collocations": [
+        "feel groggy",
+        "groggy in the morning"
+      ],
+      "note": "어원: grog(물 탄 럼주) — 18세기 영국 해군 제독 별명 'Old Grog'에서 온 술. 술 취한 듯 머리가 흐릿한 상태 → 잠이 덜 깬 몽롱함.",
+      "family": [
+        {
+          "word": "grogginess",
+          "pos": "n.",
+          "ko": "몽롱함, 비몽사몽"
+        }
+      ],
+      "related": [
+        {
+          "word": "drowsy",
+          "ko": "졸린",
+          "note": "drowsy는 잠들기 직전의 졸림, groggy는 깬 직후(또는 약·충격 후)의 흐릿함"
+        }
+      ]
+    },
+    {
+      "headword": "drowsy",
+      "pos": "a.",
+      "ko": "졸린, 나른한",
+      "example_en": "This medication may make you drowsy, so do not operate heavy machinery.",
+      "example_ko": "이 약은 졸음을 유발할 수 있으니 중장비를 조작하지 마십시오.",
+      "collocations": [
+        "drowsy driving",
+        "make someone drowsy"
+      ],
+      "note": "drown(물에 빠지다)과 철자가 비슷하지만 무관 — '잠에 빠지다'로 엮어 외우면 쉽다. 약 설명서·교통안전 문구(drowsy driving 졸음운전)의 단골.",
+      "family": [
+        {
+          "word": "drowsiness",
+          "pos": "n.",
+          "ko": "졸음"
+        },
+        {
+          "word": "doze",
+          "pos": "v.",
+          "ko": "꾸벅꾸벅 졸다"
+        }
+      ]
+    },
+    {
+      "headword": "doze",
+      "pos": "v.",
+      "ko": "깜빡 졸다, 선잠 자다",
+      "example_en": "He dozed off during the quarterly earnings call and missed the key announcement.",
+      "example_ko": "그는 분기 실적 발표 통화 중에 깜빡 졸아서 핵심 발표를 놓쳤다.",
+      "collocations": [
+        "doze off",
+        "doze in front of the TV"
+      ],
+      "note": "doze off = 의도치 않게 '스르르' 잠드는 것. 일부러 자는 짧은 잠은 nap(take a nap)이라 구분된다.",
+      "related": [
+        {
+          "word": "nap",
+          "ko": "낮잠(자다)",
+          "note": "nap은 계획한 짧은 잠, doze는 꾸벅 조는 얕은 잠"
+        }
+      ]
+    },
+    {
+      "headword": "tardiness",
+      "pos": "n.",
+      "ko": "지각, 늦음",
+      "example_en": "Repeated tardiness may result in a written warning under the company's attendance policy.",
+      "example_ko": "반복된 지각은 회사 근태 규정에 따라 서면 경고로 이어질 수 있다.",
+      "collocations": [
+        "chronic tardiness",
+        "tardiness policy"
+      ],
+      "note": "tard-(느린) 어근 — retard(늦추다)와 같은 뿌리. 일상에선 late지만 근태 규정·공문에서는 tardiness/tardy를 쓴다.",
+      "family": [
+        {
+          "word": "tardy",
+          "pos": "a.",
+          "ko": "늦은, 지각한"
+        }
+      ],
+      "related": [
+        {
+          "word": "punctual",
+          "ko": "시간을 엄수하는",
+          "note": "반대말 — tardiness ↔ punctuality"
+        }
+      ]
+    },
+    {
+      "headword": "punctual",
+      "pos": "a.",
+      "ko": "시간을 엄수하는",
+      "example_en": "Our shuttle service is known for being punctual, even during rush hour.",
+      "example_ko": "우리 셔틀 서비스는 출퇴근 시간에도 시간을 잘 지키는 것으로 유명하다.",
+      "collocations": [
+        "be punctual for",
+        "punctual payment"
+      ],
+      "note": "어원: punct-(점·찌르다) — 정확히 그 '점'에 맞추는 것. punctuation(구두점)·puncture(펑크)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "punctuality",
+          "pos": "n.",
+          "ko": "시간 엄수"
+        },
+        {
+          "word": "punctuation",
+          "pos": "n.",
+          "ko": "구두점 — '시간 엄수'가 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "truancy",
+      "pos": "n.",
+      "ko": "무단결석",
+      "example_en": "The city launched a program to reduce truancy among middle school students.",
+      "example_ko": "시는 중학생의 무단결석을 줄이기 위한 프로그램을 시작했다.",
+      "collocations": [
+        "truancy rate",
+        "chronic truancy"
+      ],
+      "note": "tardiness(지각)와 짝으로 기억 — 늦게 오면 tardiness, 아예 안 오면 truancy. 사람은 truant(무단결석생), play truant = 땡땡이치다.",
+      "family": [
+        {
+          "word": "truant",
+          "pos": "n./a.",
+          "ko": "무단결석생; 무단결석한"
+        }
+      ]
+    },
+    {
+      "headword": "fatigue",
+      "pos": "n.",
+      "ko": "피로, 피곤",
+      "example_en": "Driver fatigue is a leading cause of accidents on long highway routes.",
+      "example_ko": "운전자 피로는 장거리 고속도로 노선에서 사고의 주요 원인이다.",
+      "collocations": [
+        "chronic fatigue",
+        "compassion fatigue",
+        "metal fatigue"
+      ],
+      "note": "tired보다 공식적·의학적. 비유로도 잘 확장된다: voter fatigue(유권자 피로감), Zoom fatigue, metal fatigue(금속 피로) — 반복으로 지친 상태.",
+      "family": [
+        {
+          "word": "fatigued",
+          "pos": "a.",
+          "ko": "지친, 피로한"
+        }
+      ]
+    },
+    {
+      "headword": "lethargy",
+      "pos": "n.",
+      "ko": "무기력, 나른함",
+      "example_en": "Investors blamed the market's lethargy on uncertainty over interest rates.",
+      "example_ko": "투자자들은 시장의 무기력을 금리 불확실성 탓으로 돌렸다.",
+      "collocations": [
+        "a sense of lethargy",
+        "economic lethargy"
+      ],
+      "note": "어원: 그리스 신화의 망각의 강 Lethe — 마시면 모든 걸 잊고 멍해진다. 몸의 무기력뿐 아니라 시장·조직의 활기 없음에도 쓴다.",
+      "family": [
+        {
+          "word": "lethargic",
+          "pos": "a.",
+          "ko": "무기력한, 나른한"
+        }
+      ],
+      "related": [
+        {
+          "word": "lethal",
+          "ko": "치명적인",
+          "note": "철자가 비슷하지만 무관 — lethal은 라틴어 letum(죽음)"
+        }
+      ]
+    },
+    {
+      "headword": "sluggish",
+      "pos": "a.",
+      "ko": "부진한, 굼뜬",
+      "example_en": "Sales remained sluggish in the third quarter despite aggressive discounts.",
+      "example_ko": "공격적인 할인에도 3분기 매출은 부진한 상태에 머물렀다.",
+      "collocations": [
+        "sluggish growth",
+        "sluggish demand",
+        "feel sluggish"
+      ],
+      "note": "slug(민달팽이) + -ish(~같은) = 민달팽이처럼 느린. 경제 기사에서 '경기 부진'의 단골 형용사(sluggish economy).",
+      "related": [
+        {
+          "word": "stagnant",
+          "ko": "정체된",
+          "note": "sluggish는 느리게라도 움직임, stagnant는 아예 고여 멈춤"
+        }
+      ]
+    },
+    {
+      "headword": "insomnia",
+      "pos": "n.",
+      "ko": "불면증",
+      "example_en": "Shift workers are particularly prone to insomnia and related health problems.",
+      "example_ko": "교대 근무자들은 특히 불면증과 관련 건강 문제에 걸리기 쉽다.",
+      "collocations": [
+        "suffer from insomnia",
+        "chronic insomnia"
+      ],
+      "note": "in-(없음) + somn-(잠) — '잠이 없음'. somn-은 somnambulist(몽유병자: somn+ambul 걷다)에도 나온다.",
+      "family": [
+        {
+          "word": "insomniac",
+          "pos": "n.",
+          "ko": "불면증 환자"
+        }
+      ]
+    },
+    {
+      "headword": "ripple",
+      "pos": "v./n.",
+      "ko": "(영향이) 파문처럼 번지다; 잔물결, 파급",
+      "example_en": "The port strike rippled through the supply chain, delaying deliveries for weeks.",
+      "example_ko": "항만 파업의 영향이 공급망 전체로 번져 배송이 몇 주씩 지연되었다.",
+      "collocations": [
+        "ripple effect",
+        "ripple through",
+        "send ripples through"
+      ],
+      "note": "물에 돌을 던졌을 때 퍼지는 '잔물결'이 원뜻 → 하나의 사건이 연쇄적으로 퍼지는 것. ripple effect(파급 효과)는 시사 기사 필수 표현.",
+      "related": [
+        {
+          "word": "repercussion",
+          "ko": "(부정적) 영향, 반향",
+          "note": "ripple은 퍼지는 모양 자체, repercussion은 그 결과로 돌아오는 나쁜 영향"
+        }
+      ]
+    },
+    {
+      "headword": "upheaval",
+      "pos": "n.",
+      "ko": "격변, 대변동",
+      "example_en": "The merger caused considerable upheaval among staff in both companies.",
+      "example_ko": "합병은 두 회사 직원들 사이에 상당한 격변을 일으켰다.",
+      "collocations": [
+        "political upheaval",
+        "social upheaval"
+      ],
+      "note": "up + heave(들어 올리다) — 땅을 들어 엎는 것. 일상·조직·사회가 통째로 뒤집히는 급격한 변화에 쓴다.",
+      "family": [
+        {
+          "word": "heave",
+          "pos": "v.",
+          "ko": "(무거운 것을) 들어 올리다; (한숨을) 내쉬다"
+        }
+      ]
+    },
+    {
+      "headword": "foster",
+      "pos": "v.",
+      "ko": "촉진하다, 육성하다; (남의 아이를) 맡아 기르다",
+      "example_en": "The program aims to foster collaboration between local businesses and universities.",
+      "example_ko": "이 프로그램은 지역 기업과 대학 간의 협력을 촉진하는 것을 목표로 한다.",
+      "collocations": [
+        "foster innovation",
+        "foster a sense of",
+        "foster parent"
+      ],
+      "note": "원뜻은 '(친자식이 아닌 아이를) 키우다'(foster parent 위탁 부모) → 아이를 키우듯 분위기·관계·혁신을 '길러 낸다'. promote보다 시간을 들여 키우는 뉘앙스.",
+      "related": [
+        {
+          "word": "adopt",
+          "ko": "입양하다",
+          "note": "foster는 법적 친권 없이 맡아 기르는 것, adopt는 법적으로 자식으로 삼는 것"
+        }
+      ]
+    },
+    {
+      "headword": "pivotal",
+      "pos": "a.",
+      "ko": "중추적인, 결정적인",
+      "example_en": "The new CFO played a pivotal role in securing the company's funding.",
+      "example_ko": "신임 CFO는 회사의 자금 확보에 중추적인 역할을 했다.",
+      "collocations": [
+        "pivotal role",
+        "pivotal moment"
+      ],
+      "note": "pivot(회전축, 축을 중심으로 돌다) + -al — 전체가 그것을 축으로 돌아가는. 스타트업 용어 pivot(사업 방향 전환)도 같은 단어.",
+      "family": [
+        {
+          "word": "pivot",
+          "pos": "n./v.",
+          "ko": "회전축; 방향을 틀다, 전환하다"
+        }
+      ]
+    },
+    {
+      "headword": "proficient",
+      "pos": "a.",
+      "ko": "능숙한, 숙달된",
+      "example_en": "Applicants must be proficient in at least one foreign language.",
+      "example_ko": "지원자는 최소 한 개 외국어에 능숙해야 한다.",
+      "collocations": [
+        "proficient in",
+        "proficient at",
+        "highly proficient"
+      ],
+      "note": "토익 구인 광고의 단골: be proficient in + 분야(언어·소프트웨어). 명사 proficiency는 시험 이름(English Proficiency Test)에 자주 나온다.",
+      "family": [
+        {
+          "word": "proficiency",
+          "pos": "n.",
+          "ko": "숙련도, 능숙함"
+        }
+      ],
+      "related": [
+        {
+          "word": "efficient",
+          "ko": "효율적인",
+          "note": "철자가 비슷하지만 efficient는 '낭비 없이', proficient는 '실력 있게'"
+        }
+      ]
+    }
+  ]
+}
