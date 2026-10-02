@@ -1,0 +1,405 @@
+{
+  "date": "2026-10-03",
+  "words": [
+    {
+      "headword": "tinker",
+      "pos": "v.",
+      "ko": "(고치려고) 이리저리 손보다, 만지작거리다",
+      "example_en": "Regulators are reluctant to tinker with a pricing rule that has worked well for years.",
+      "example_ko": "규제 당국은 수년간 잘 작동해 온 가격 규칙을 이리저리 손대는 것을 꺼린다.",
+      "collocations": [
+        "tinker with the engine",
+        "tinker around the edges"
+      ],
+      "note": "원래 냄비를 고치며 떠돌던 '땜장이(tinker)'에서 온 말 — 그래서 '제대로 고친다'보다 '어설프게 손본다'는 뉘앙스가 있다. tinker around the edges = 근본 개혁 없이 겉만 손보다(시사 빈출).",
+      "related": [
+        {
+          "word": "tamper with",
+          "ko": "함부로 손대다, 조작하다",
+          "note": "tinker는 고쳐 보려는 손질, tamper는 몰래·불법적으로 건드리는 조작(증거·봉인 등)"
+        }
+      ]
+    },
+    {
+      "headword": "void",
+      "pos": "v. / a.",
+      "ko": "무효로 하다; 무효의, 텅 빈",
+      "example_en": "Opening the casing yourself may void the manufacturer's warranty.",
+      "example_ko": "직접 케이스를 열면 제조사 보증이 무효가 될 수 있다.",
+      "collocations": [
+        "void the warranty",
+        "null and void",
+        "fill the void"
+      ],
+      "note": "기본 뜻은 '텅 빈' — 법적 효력이 '비어 버리면' 무효다. null and void(완전히 무효인)는 계약서 단골 표현. 반대로 avoid는 '밖으로(a-) 비우다 → 피하다'로 같은 뿌리.",
+      "family": [
+        {
+          "word": "avoid",
+          "pos": "v.",
+          "ko": "피하다"
+        },
+        {
+          "word": "devoid of",
+          "pos": "a.",
+          "ko": "~이 전혀 없는"
+        }
+      ],
+      "related": [
+        {
+          "word": "invalid",
+          "ko": "무효인; 병약자",
+          "note": "invalid는 '근거·효력이 없는'(invalid password), void는 계약·보증 등이 '효력이 소멸한'에 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "monopolize",
+      "pos": "v.",
+      "ko": "독점하다",
+      "example_en": "A handful of platforms now monopolize the market for online advertising.",
+      "example_ko": "소수의 플랫폼이 현재 온라인 광고 시장을 독점하고 있다.",
+      "collocations": [
+        "monopolize the market",
+        "monopolize the conversation"
+      ],
+      "note": "mono(하나) + pol(팔다) — '혼자만 파는' 상태. monopolize the conversation(대화를 독차지하다)처럼 시장 밖에서도 쓴다.",
+      "family": [
+        {
+          "word": "monopoly",
+          "pos": "n.",
+          "ko": "독점(권)"
+        },
+        {
+          "word": "monopolistic",
+          "pos": "a.",
+          "ko": "독점적인"
+        },
+        {
+          "word": "antitrust",
+          "pos": "a.",
+          "ko": "독점 금지의(미국식) — 반독점법 기사의 핵심어"
+        }
+      ],
+      "related": [
+        {
+          "word": "oligopoly",
+          "ko": "과점",
+          "note": "oligo(소수) — 한 곳이 아니라 몇몇 기업이 시장을 나눠 쥔 상태"
+        }
+      ]
+    },
+    {
+      "headword": "diagnostic",
+      "pos": "a. / n.",
+      "ko": "진단의; 진단 도구·검사",
+      "example_en": "Independent garages say they cannot afford the diagnostic tools required for newer cars.",
+      "example_ko": "독립 정비소들은 신형 차에 필요한 진단 장비를 감당할 수 없다고 말한다.",
+      "collocations": [
+        "diagnostic tool",
+        "diagnostic test",
+        "run a diagnostic"
+      ],
+      "note": "dia(꿰뚫어) + gnos(알다) — 겉을 꿰뚫어 원인을 '알아내다'. 같은 gnos 뿌리: prognosis(앞을 아는 것=예후), agnostic(알 수 없다는=불가지론의).",
+      "family": [
+        {
+          "word": "diagnose",
+          "pos": "v.",
+          "ko": "진단하다"
+        },
+        {
+          "word": "diagnosis",
+          "pos": "n.",
+          "ko": "진단 (복수 diagnoses)"
+        },
+        {
+          "word": "prognosis",
+          "pos": "n.",
+          "ko": "예후; 전망"
+        }
+      ]
+    },
+    {
+      "headword": "coalition",
+      "pos": "n.",
+      "ko": "연합, 연립",
+      "example_en": "A coalition of consumer groups filed a complaint against the company's pricing practices.",
+      "example_ko": "소비자 단체 연합이 그 회사의 가격 책정 관행에 대해 진정을 제기했다.",
+      "collocations": [
+        "form a coalition",
+        "coalition government",
+        "a broad coalition"
+      ],
+      "note": "co(함께) + al(자라다) — 따로 자라던 세력이 '함께 자라 한 몸'이 된 것. 정치 기사에선 coalition government(연립 정부)로 매우 자주 나온다.",
+      "family": [
+        {
+          "word": "coalesce",
+          "pos": "v.",
+          "ko": "합쳐지다, 연합하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "alliance",
+          "ko": "동맹",
+          "note": "alliance는 장기적·공식적 동맹(군사·기업), coalition은 특정 목표를 위한 한시적 연합에 가깝다"
+        }
+      ]
+    },
+    {
+      "headword": "lobby",
+      "pos": "v. / n.",
+      "ko": "로비하다; 로비 단체, (건물) 로비",
+      "example_en": "Airlines lobbied hard against the proposed tax on frequent flyers.",
+      "example_ko": "항공사들은 상용 고객 대상 과세안에 반대해 강하게 로비를 벌였다.",
+      "collocations": [
+        "lobby for/against",
+        "the gun lobby",
+        "lobby lawmakers"
+      ],
+      "note": "의회 건물 '로비(복도)'에서 의원을 붙잡고 청탁하던 데서 '로비하다'가 나왔다. lobby for(찬성 로비) / lobby against(반대 로비)로 방향을 구분해 외운다.",
+      "family": [
+        {
+          "word": "lobbyist",
+          "pos": "n.",
+          "ko": "로비스트"
+        },
+        {
+          "word": "lobbying",
+          "pos": "n.",
+          "ko": "로비 활동"
+        }
+      ]
+    },
+    {
+      "headword": "authorize",
+      "pos": "v.",
+      "ko": "권한을 부여하다, 승인하다",
+      "example_en": "Only authorized dealers are allowed to sell the product in this region.",
+      "example_ko": "이 지역에서는 공인 판매점만 그 제품을 판매할 수 있다.",
+      "collocations": [
+        "authorized dealer",
+        "authorize payment",
+        "unauthorized access"
+      ],
+      "note": "author(만든 사람=권위의 원천) → authority(권한) → authorize(권한을 주다). un-을 붙인 unauthorized(무단의)는 보안·결제 기사 빈출.",
+      "family": [
+        {
+          "word": "authority",
+          "pos": "n.",
+          "ko": "권한; (복수) 당국"
+        },
+        {
+          "word": "authorization",
+          "pos": "n.",
+          "ko": "허가, 승인"
+        },
+        {
+          "word": "authoritative",
+          "pos": "a.",
+          "ko": "권위 있는, 믿을 만한 — '권위적인'(authoritarian)과 다름"
+        }
+      ],
+      "related": [
+        {
+          "word": "authoritarian",
+          "ko": "권위주의적인",
+          "note": "authoritative(신뢰할 만한)는 칭찬, authoritarian(독재적인)은 비난 — 철자 한 끗 차이"
+        }
+      ]
+    },
+    {
+      "headword": "restrictive",
+      "pos": "a.",
+      "ko": "제한하는, 구속적인",
+      "example_en": "Critics argue that restrictive zoning rules have pushed up housing costs.",
+      "example_ko": "비판자들은 제한적인 용도 지역 규정이 주거비를 끌어올렸다고 주장한다.",
+      "collocations": [
+        "restrictive policy",
+        "restrictive covenant",
+        "overly restrictive"
+      ],
+      "note": "-ive는 '~하는 성질이 있는' — restrict(제한하다) → restrictive(제한하는 성질의). restricted는 '제한된(당한)' 쪽: restricted area(출입 제한 구역) vs restrictive rule(제한을 가하는 규칙).",
+      "family": [
+        {
+          "word": "restrict",
+          "pos": "v.",
+          "ko": "제한하다"
+        },
+        {
+          "word": "restriction",
+          "pos": "n.",
+          "ko": "제한, 규제"
+        },
+        {
+          "word": "restricted",
+          "pos": "a.",
+          "ko": "제한된, 출입이 금지된"
+        }
+      ]
+    },
+    {
+      "headword": "disassemble",
+      "pos": "v.",
+      "ko": "분해하다",
+      "example_en": "Technicians had to disassemble the entire unit just to replace a single fan.",
+      "example_ko": "기술자들은 팬 하나를 교체하려고 기기 전체를 분해해야 했다.",
+      "collocations": [
+        "disassemble a device",
+        "easy to disassemble"
+      ],
+      "note": "dis-(반대) + assemble(조립하다) — '조립의 반대'. dismantle(해체하다)은 제도·조직에도 쓰이지만 disassemble은 거의 기계·부품에만 쓴다.",
+      "family": [
+        {
+          "word": "assemble",
+          "pos": "v.",
+          "ko": "조립하다; 모이다"
+        },
+        {
+          "word": "assembly",
+          "pos": "n.",
+          "ko": "조립; 의회, 집회"
+        }
+      ],
+      "related": [
+        {
+          "word": "dissemble",
+          "ko": "(감정·의도를) 숨기다, 시치미 떼다",
+          "note": "a 하나 차이 — dissemble은 '분해'와 무관, 속마음을 감추는 것"
+        }
+      ]
+    },
+    {
+      "headword": "pry",
+      "pos": "v.",
+      "ko": "비집어 열다; 꼬치꼬치 캐묻다",
+      "example_en": "He used a thin blade to pry open the back cover of the phone.",
+      "example_ko": "그는 얇은 칼날로 휴대전화의 뒷면 덮개를 비집어 열었다.",
+      "collocations": [
+        "pry open",
+        "pry into someone's affairs",
+        "prying eyes"
+      ],
+      "note": "두 뜻을 이미지 하나로: 틈에 지렛대를 넣어 '억지로 벌리다' → 남의 사생활 틈을 '억지로 들추다'. prying eyes(엿보는 눈)는 보안·사생활 기사 단골.",
+      "related": [
+        {
+          "word": "pray",
+          "ko": "기도하다",
+          "note": "철자·발음 혼동 주의 — pry[프라이], pray[프레이]"
+        }
+      ]
+    },
+    {
+      "headword": "incompatible",
+      "pos": "a.",
+      "ko": "호환되지 않는, 양립할 수 없는",
+      "example_en": "The new charger is incompatible with older models, forcing users to buy extra cables.",
+      "example_ko": "새 충전기는 구형 모델과 호환되지 않아 사용자들이 케이블을 추가로 사야 한다.",
+      "collocations": [
+        "incompatible with",
+        "mutually incompatible"
+      ],
+      "note": "com(함께) + pat(견디다, patient와 같은 뿌리) — 함께 '견딜 수 있으면' 호환, in-이 붙어 '함께 못 견디는'. 기기뿐 아니라 가치·목표가 양립 불가할 때도 쓴다.",
+      "family": [
+        {
+          "word": "compatible",
+          "pos": "a.",
+          "ko": "호환되는, 양립 가능한"
+        },
+        {
+          "word": "compatibility",
+          "pos": "n.",
+          "ko": "호환성; 궁합"
+        }
+      ]
+    },
+    {
+      "headword": "aftermarket",
+      "pos": "n. / a.",
+      "ko": "(정품 외) 애프터마켓, 비순정 부품 시장",
+      "example_en": "Aftermarket parts are often cheaper but may not meet the original specifications.",
+      "example_ko": "비순정 부품은 대개 더 싸지만 원래 사양을 충족하지 못할 수도 있다.",
+      "collocations": [
+        "aftermarket parts",
+        "aftermarket sales"
+      ],
+      "note": "after(판매 후) + market — 신제품을 판 '뒤에' 열리는 부품·수리·액세서리 시장. 금융에서는 상장 후 거래되는 '유통 시장'을 뜻하기도 한다.",
+      "related": [
+        {
+          "word": "OEM",
+          "ko": "주문자 상표 부착 생산; 순정(부품)",
+          "note": "OEM parts(순정 부품) ↔ aftermarket parts(비순정 부품)가 짝으로 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "disposable",
+      "pos": "a.",
+      "ko": "일회용의; (소득이) 마음대로 쓸 수 있는",
+      "example_en": "Rising rents have left young workers with less disposable income.",
+      "example_ko": "치솟는 월세 때문에 젊은 직장인들의 가처분 소득이 줄었다.",
+      "collocations": [
+        "disposable income",
+        "disposable cups",
+        "disposable culture"
+      ],
+      "note": "dispose(처분하다)에 -able(할 수 있는) — '버릴 수 있는'(일회용)과 '내 뜻대로 처분할 수 있는'(가처분 소득) 두 갈래로 뜻이 갈라진다. 토익에선 disposable income이 핵심.",
+      "family": [
+        {
+          "word": "dispose of",
+          "pos": "v.",
+          "ko": "~을 처리하다, 버리다"
+        },
+        {
+          "word": "disposition",
+          "pos": "n.",
+          "ko": "기질, 성향 — '처분'과 거리가 먼 뜻에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "amend",
+      "pos": "v.",
+      "ko": "(법·문서를) 개정하다, 수정하다",
+      "example_en": "Lawmakers voted to amend the bill to include stronger consumer protections.",
+      "example_ko": "의원들은 더 강력한 소비자 보호 조항을 넣도록 법안을 수정하기로 표결했다.",
+      "collocations": [
+        "amend the law",
+        "amend the contract",
+        "make amends"
+      ],
+      "note": "mend(고치다)와 같은 뿌리 — 법·문서를 '고쳐 쓰다'. make amends(보상하다, 잘못을 바로잡다)는 명사 복수형 관용구. emend(원고 오류를 교정하다)와 혼동 주의.",
+      "family": [
+        {
+          "word": "amendment",
+          "pos": "n.",
+          "ko": "개정(안); (미국) 수정 헌법 조항"
+        },
+        {
+          "word": "amends",
+          "pos": "n.",
+          "ko": "보상 (make amends)"
+        }
+      ]
+    },
+    {
+      "headword": "squander",
+      "pos": "v.",
+      "ko": "(돈·기회를) 낭비하다, 허비하다",
+      "example_en": "The team squandered a two-goal lead in the final ten minutes.",
+      "example_ko": "그 팀은 마지막 10분 동안 두 골 차 리드를 날려 버렸다.",
+      "collocations": [
+        "squander an opportunity",
+        "squander money",
+        "squander a lead"
+      ],
+      "note": "waste보다 비난이 강하다 — 귀한 것(기회·리드·유산)을 '어리석게 날려 버리다'. 시사에선 squander an opportunity(기회를 허비하다)가 가장 흔하다.",
+      "related": [
+        {
+          "word": "splurge",
+          "ko": "(한 번에) 돈을 펑펑 쓰다",
+          "note": "splurge는 기분 내서 한 번 크게 쓰는 것(부정적이지 않을 수도), squander는 무책임하게 허비했다는 비난"
+        }
+      ]
+    }
+  ]
+}
