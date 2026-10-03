@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-04",
+  "words": [
+    {
+      "headword": "desalination",
+      "pos": "n.",
+      "ko": "(해수) 담수화",
+      "example_en": "The city plans to build a desalination plant to secure its water supply during dry summers.",
+      "example_ko": "그 도시는 건조한 여름철 물 공급을 확보하기 위해 담수화 시설을 지을 계획이다.",
+      "collocations": [
+        "desalination plant",
+        "seawater desalination"
+      ],
+      "note": "de-(제거) + sal(소금) + -ation(명사) = '소금을 빼냄'. sal은 salt·salad(소금 친 채소)·salary(병사에게 주던 소금 값)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "desalinate",
+          "pos": "v.",
+          "ko": "(바닷물의) 염분을 제거하다"
+        },
+        {
+          "word": "saline",
+          "pos": "a.",
+          "ko": "소금기 있는, 염분의 (saline solution = 식염수)"
+        }
+      ]
+    },
+    {
+      "headword": "brine",
+      "pos": "n.",
+      "ko": "고농도 소금물, 염수",
+      "example_en": "Environmental groups worry that brine discharged from the plant will harm coral reefs.",
+      "example_ko": "환경 단체들은 그 시설에서 배출되는 염수가 산호초에 해를 끼칠까 우려한다.",
+      "collocations": [
+        "brine discharge",
+        "in brine"
+      ],
+      "note": "그냥 바닷물(seawater)이 아니라 '바닷물보다 더 짠' 농축 소금물이다. 요리에서는 피클·올리브를 절이는 '소금물'도 brine — 동사로 쓰면 '소금물에 절이다'.",
+      "related": [
+        {
+          "word": "seawater",
+          "ko": "바닷물",
+          "note": "평범한 바닷물 — brine은 소금 농도가 그보다 높은 것"
+        }
+      ]
+    },
+    {
+      "headword": "salinity",
+      "pos": "n.",
+      "ko": "염도, 염분",
+      "example_en": "Rising salinity in the river delta has forced farmers to switch to salt-tolerant crops.",
+      "example_ko": "강 삼각주의 염도가 높아지자 농민들은 염분에 강한 작물로 바꿀 수밖에 없었다.",
+      "collocations": [
+        "soil salinity",
+        "high salinity"
+      ],
+      "note": "형용사 saline(소금기 있는) + -ity(성질·정도) = '소금기의 정도'. humid → humidity(습도), acid → acidity(산도)와 같은 '-ity = 정도·수치' 패턴.",
+      "family": [
+        {
+          "word": "saline",
+          "pos": "a.",
+          "ko": "소금기 있는"
+        },
+        {
+          "word": "salinization",
+          "pos": "n.",
+          "ko": "(토양의) 염류화, 염분 축적"
+        }
+      ]
+    },
+    {
+      "headword": "membrane",
+      "pos": "n.",
+      "ko": "막, 얇은 막(필터막)",
+      "example_en": "The filter uses a thin membrane that blocks bacteria while letting water pass through.",
+      "example_ko": "그 필터는 물은 통과시키면서 세균은 막는 얇은 막을 사용한다.",
+      "collocations": [
+        "cell membrane",
+        "mucous membrane"
+      ],
+      "note": "생물(세포막·점막)과 공학(정수 필터막)에서 같은 단어를 쓴다 — '선택적으로 통과시키는 얇은 막'이 핵심 이미지. 발음은 [멤브레인], 강세는 첫음절.",
+      "related": [
+        {
+          "word": "permeable",
+          "ko": "투과성의",
+          "note": "membrane이 '막' 자체라면 permeable은 그 막이 '통과시키는 성질'을 말한다"
+        }
+      ]
+    },
+    {
+      "headword": "arid",
+      "pos": "a.",
+      "ko": "매우 건조한, 불모의",
+      "example_en": "Large parts of the region are arid and receive less than 250 millimeters of rain a year.",
+      "example_ko": "그 지역의 상당 부분은 건조해서 연 강수량이 250밀리미터에 못 미친다.",
+      "collocations": [
+        "arid region",
+        "arid and semi-arid",
+        "arid climate"
+      ],
+      "note": "dry보다 격식·학술적이고 '기후·땅'에 주로 쓴다(arid skin은 어색). 비유적으로 '무미건조한'(an arid lecture)의 뜻도 있다.",
+      "family": [
+        {
+          "word": "aridity",
+          "pos": "n.",
+          "ko": "건조(함), 건조도"
+        },
+        {
+          "word": "semi-arid",
+          "pos": "a.",
+          "ko": "반건조의"
+        }
+      ],
+      "related": [
+        {
+          "word": "avid",
+          "ko": "열렬한, 열심인",
+          "note": "철자 한 글자 차이 — avid reader(열렬한 독자). 뜻은 전혀 다름"
+        }
+      ]
+    },
+    {
+      "headword": "brackish",
+      "pos": "a.",
+      "ko": "(물이) 약간 짠, 기수(汽水)의",
+      "example_en": "The company treats brackish groundwater, which costs less to purify than seawater.",
+      "example_ko": "그 회사는 바닷물보다 정화 비용이 적게 드는 약간 짠 지하수를 처리한다.",
+      "collocations": [
+        "brackish water",
+        "brackish groundwater"
+      ],
+      "note": "민물(fresh)과 바닷물(salt) 사이 — 강물이 바다와 섞이는 하구의 물처럼 '반쯤 짠' 물. 염도 순서로 외우자: fresh < brackish < seawater < brine.",
+      "related": [
+        {
+          "word": "brine",
+          "ko": "고농도 소금물",
+          "note": "brackish는 바닷물보다 덜 짜고, brine은 바닷물보다 더 짜다"
+        }
+      ]
+    },
+    {
+      "headword": "plume",
+      "pos": "n.",
+      "ko": "(연기·물 등이 퍼지는) 기둥, 띠; 깃털",
+      "example_en": "A plume of black smoke rose from the warehouse fire and drifted over the highway.",
+      "example_ko": "창고 화재에서 검은 연기 기둥이 솟아올라 고속도로 위로 흘러갔다.",
+      "collocations": [
+        "a plume of smoke",
+        "ash plume",
+        "pollution plume"
+      ],
+      "note": "원래 뜻은 '(장식용) 깃털' — 깃털처럼 한쪽에서 피어올라 퍼지는 연기·오염수의 모양을 가리키게 됐다. 화산재(ash plume)·오염 확산 뉴스에 자주 나온다.",
+      "family": [
+        {
+          "word": "plumage",
+          "pos": "n.",
+          "ko": "(새의) 깃털 전체"
+        }
+      ]
+    },
+    {
+      "headword": "seabed",
+      "pos": "n.",
+      "ko": "해저, 바다 밑바닥",
+      "example_en": "The company wants to lay a power cable across the seabed between the two islands.",
+      "example_ko": "그 회사는 두 섬 사이 해저에 전력 케이블을 깔고자 한다.",
+      "collocations": [
+        "seabed mining",
+        "on the seabed"
+      ],
+      "note": "sea + bed(바닥) — riverbed(강바닥)와 같은 조어. 같은 뜻의 seafloor·ocean floor도 함께 알아 두면 뉴스(심해 채굴 seabed mining) 독해가 편하다.",
+      "related": [
+        {
+          "word": "seafloor",
+          "ko": "해저",
+          "note": "거의 동의어 — 과학 기사는 seafloor, 법·자원 관련은 seabed를 더 자주 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "quench",
+      "pos": "v.",
+      "ko": "(갈증을) 풀다; (불을) 끄다; (욕구를) 충족시키다",
+      "example_en": "After the long hike, nothing quenched our thirst like cold water from the spring.",
+      "example_ko": "긴 산행 뒤에는 샘에서 나온 찬물만큼 우리 갈증을 풀어 주는 것이 없었다.",
+      "collocations": [
+        "quench one's thirst",
+        "quench a fire",
+        "quench demand"
+      ],
+      "note": "핵심 이미지는 '뜨겁게 타오르는 것을 꺼뜨리다' — 갈증·불·호기심(quench curiosity)이 모두 '타오르는 것'이라 같은 동사를 쓴다.",
+      "related": [
+        {
+          "word": "extinguish",
+          "ko": "(불을) 끄다",
+          "note": "불 끄기에는 둘 다 쓰지만 갈증에는 quench만 쓴다(fire extinguisher = 소화기)"
+        }
+      ]
+    },
+    {
+      "headword": "leakage",
+      "pos": "n.",
+      "ko": "누출, 새어 나감; (정보·자금의) 유출",
+      "example_en": "The utility loses nearly a third of its treated water to leakage from aging pipes.",
+      "example_ko": "그 수도 사업자는 정수한 물의 거의 3분의 1을 노후 관에서 새는 물로 잃는다.",
+      "collocations": [
+        "water leakage",
+        "data leakage",
+        "reduce leakage"
+      ],
+      "note": "leak(새다) + -age(결과·양) = '새어 나간 것·양'. shrink → shrinkage(감소분), break → breakage(파손분)처럼 -age는 '그렇게 된 양'을 만든다.",
+      "family": [
+        {
+          "word": "leak",
+          "pos": "v./n.",
+          "ko": "새다; 누출, (정보) 유출"
+        },
+        {
+          "word": "leaky",
+          "pos": "a.",
+          "ko": "새는, 구멍 난"
+        }
+      ]
+    },
+    {
+      "headword": "wastewater",
+      "pos": "n.",
+      "ko": "하수, 폐수",
+      "example_en": "Singapore recycles treated wastewater into drinking water that meets strict quality standards.",
+      "example_ko": "싱가포르는 처리된 하수를 엄격한 수질 기준을 충족하는 식수로 재활용한다.",
+      "collocations": [
+        "wastewater treatment",
+        "industrial wastewater"
+      ],
+      "note": "waste(쓰고 버린) + water. 집에서 나온 생활 하수는 sewage, 그 하수가 흐르는 관은 sewer — 셋을 묶어서 외우면 환경 기사가 쉬워진다.",
+      "related": [
+        {
+          "word": "sewage",
+          "ko": "(생활) 하수, 오물",
+          "note": "wastewater보다 '오물'의 느낌이 강하다. sewer는 하수관"
+        }
+      ]
+    },
+    {
+      "headword": "conservation",
+      "pos": "n.",
+      "ko": "(자원·자연의) 보존, 절약",
+      "example_en": "The water board launched a conservation campaign urging residents to shorten their showers.",
+      "example_ko": "수자원 당국은 주민들에게 샤워 시간을 줄이라고 촉구하는 절약 캠페인을 시작했다.",
+      "collocations": [
+        "water conservation",
+        "energy conservation",
+        "wildlife conservation"
+      ],
+      "note": "conserve(아껴 쓰다·보존하다)의 명사. 혼동 주의 — conservative는 '보수적인'으로 뜻이 갈라진다(같은 뿌리 '지키다'에서 '기존 것을 지키는' 정치 성향으로).",
+      "family": [
+        {
+          "word": "conserve",
+          "pos": "v.",
+          "ko": "아껴 쓰다, 보존하다"
+        },
+        {
+          "word": "conservative",
+          "pos": "a.",
+          "ko": "보수적인 — '보존의'가 아님에 주의"
+        },
+        {
+          "word": "conservationist",
+          "pos": "n.",
+          "ko": "(자연) 보호 운동가"
+        }
+      ],
+      "related": [
+        {
+          "word": "preservation",
+          "ko": "보존, 보호",
+          "note": "conservation은 '아껴 쓰며 유지', preservation은 '손대지 않고 원형 그대로 보존'(역사 유적 등)"
+        }
+      ]
+    },
+    {
+      "headword": "intractable",
+      "pos": "a.",
+      "ko": "다루기 힘든, 해결이 어려운",
+      "example_en": "Negotiators made little progress on the intractable issue of border security.",
+      "example_ko": "협상단은 해결이 어려운 국경 보안 문제에서 거의 진전을 보지 못했다.",
+      "collocations": [
+        "intractable problem",
+        "intractable conflict"
+      ],
+      "note": "in-(not) + tract(끌다) + -able = '끌고 갈 수 없는' → 다루기 힘든. tract는 tractor(끄는 차)·attract(끌어당기다)·extract(끌어내다)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "tractable",
+          "pos": "a.",
+          "ko": "다루기 쉬운, 유순한"
+        }
+      ]
+    },
+    {
+      "headword": "hail",
+      "pos": "v.",
+      "ko": "(~라고) 칭송하다, 환영하다; (택시 등을) 부르다",
+      "example_en": "Analysts hailed the merger as a turning point for the domestic auto industry.",
+      "example_ko": "분석가들은 그 합병을 국내 자동차 산업의 전환점이라며 높이 평가했다.",
+      "collocations": [
+        "hail A as B",
+        "hail a taxi",
+        "be widely hailed"
+      ],
+      "note": "기사 단골 구문 hail A as B(A를 B라고 치켜세우다). 명사 hail은 '우박' — 동사 hail from은 '~ 출신이다'(She hails from Busan)로 뜻이 또 갈라지니 전치사로 구분한다.",
+      "related": [
+        {
+          "word": "hail from",
+          "ko": "~ 출신이다",
+          "note": "같은 철자지만 from이 붙으면 '출신' — 칭송과 무관"
+        }
+      ]
+    },
+    {
+      "headword": "finite",
+      "pos": "a.",
+      "ko": "한정된, 유한한",
+      "example_en": "Groundwater is a finite resource that can take centuries to replenish.",
+      "example_ko": "지하수는 다시 채워지는 데 수백 년이 걸릴 수도 있는 유한한 자원이다.",
+      "collocations": [
+        "finite resource",
+        "finite supply"
+      ],
+      "note": "fin(끝) — finish·final과 같은 뿌리로 '끝이 있는'. 발음 주의: finite는 [파이나이트], 반대말 infinite는 [인피니트]로 모음 소리가 바뀐다.",
+      "family": [
+        {
+          "word": "infinite",
+          "pos": "a.",
+          "ko": "무한한"
+        },
+        {
+          "word": "infinity",
+          "pos": "n.",
+          "ko": "무한(대)"
+        }
+      ]
+    }
+  ]
+}

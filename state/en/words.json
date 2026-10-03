@@ -3105,6 +3105,51 @@
     },
     "squander": {
       "added_on": "2026-10-03"
+    },
+    "desalination": {
+      "added_on": "2026-10-04"
+    },
+    "brine": {
+      "added_on": "2026-10-04"
+    },
+    "salinity": {
+      "added_on": "2026-10-04"
+    },
+    "membrane": {
+      "added_on": "2026-10-04"
+    },
+    "arid": {
+      "added_on": "2026-10-04"
+    },
+    "brackish": {
+      "added_on": "2026-10-04"
+    },
+    "plume": {
+      "added_on": "2026-10-04"
+    },
+    "seabed": {
+      "added_on": "2026-10-04"
+    },
+    "quench": {
+      "added_on": "2026-10-04"
+    },
+    "leakage": {
+      "added_on": "2026-10-04"
+    },
+    "wastewater": {
+      "added_on": "2026-10-04"
+    },
+    "conservation": {
+      "added_on": "2026-10-04"
+    },
+    "intractable": {
+      "added_on": "2026-10-04"
+    },
+    "hail": {
+      "added_on": "2026-10-04"
+    },
+    "finite": {
+      "added_on": "2026-10-04"
     }
   }
 }
