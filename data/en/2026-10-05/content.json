@@ -1,0 +1,363 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-05",
+  "passage_note": "경제·기술 — 수요에 따라 실시간으로 값이 뛰는 '변동 가격제(다이내믹 프라이싱)'와 공정성·불투명성 논란(논설)",
+  "sentences": [
+    {
+      "en": "When tickets for a long-awaited reunion tour went on sale last year, fans who had queued online for hours watched in disbelief as prices climbed into the thousands, an escalation triggered not by scalpers but by the seller's own pricing algorithm.",
+      "ko": "작년 오랫동안 기다려 온 재결합 투어의 티켓 판매가 시작되었을 때, 몇 시간 동안 온라인에서 줄을 서 있던 팬들은 가격이 수천 달러대로 치솟는 것을 믿기지 않는 눈으로 지켜보았는데, 이 급등은 암표상이 아니라 판매자 자신의 가격 책정 알고리즘이 촉발한 것이었다.",
+      "structure": "· When ~ last year : 시간의 부사절, 주절의 주어는 fans.\n· who had queued ~ : 주격 관계대명사절이 fans를 수식. had p.p.(과거완료)로 '지켜보기 전부터 줄을 서 있던' 선후 관계를 표시.\n· watched ~ as prices climbed : 지각동사 맥락의 as = '~하는 동안/~할 때'.\n· an escalation triggered ~ : 앞 절 전체를 다시 받는 동격 명사구. triggered는 과거분사로 escalation을 뒤에서 수식.\n· not A but B : 'A가 아니라 B' (not by scalpers but by ~ algorithm).",
+      "vocab_notes": [
+        { "word": "long-awaited", "ko": "오랫동안 기다려 온" },
+        { "word": "reunion tour", "ko": "(해체했던 그룹의) 재결합 투어" },
+        { "word": "go on sale", "ko": "판매가 시작되다" },
+        { "word": "queue", "ko": "줄을 서다" },
+        { "word": "in disbelief", "ko": "믿기지 않아서, 어이없어하며" },
+        { "word": "climb into the thousands", "ko": "수천(달러) 단위로 치솟다" },
+        { "word": "escalation", "ko": "단계적 상승, 급등" },
+        { "word": "trigger", "ko": "촉발하다, 일으키다" },
+        { "word": "scalper", "ko": "암표상, 되팔이" },
+        { "word": "algorithm", "ko": "알고리즘(계산 절차)" }
+      ]
+    },
+    {
+      "en": "Proponents contend that such systems merely mirror what economists have long preached: letting prices fluctuate with demand allocates scarce goods more efficiently and siphons revenue away from resellers who would otherwise pocket the markup.",
+      "ko": "지지자들은 그러한 시스템이 경제학자들이 오랫동안 설파해 온 것을 그대로 반영할 뿐이라고 주장한다. 즉 가격이 수요에 따라 오르내리게 하면 희소한 재화가 더 효율적으로 배분되고, 그렇지 않았다면 웃돈을 챙겼을 재판매업자들로부터 수익을 빼앗아 온다는 것이다.",
+      "structure": "· contend that ~ : that절이 contend의 목적어(주장 내용).\n· what economists have long preached : 선행사를 포함한 관계대명사 what(= the thing which), mirror의 목적어.\n· 콜론(:) 뒤는 앞의 what의 구체적 내용을 풀어 쓴 부연.\n· letting prices fluctuate ~ : 동명사구 주어(단수 취급 → allocates, siphons). let + 목적어 + 동사원형(사역동사).\n· who would otherwise pocket ~ : otherwise가 if절을 대신하는 가정법 — '(이 시스템이) 없다면 챙겼을'.",
+      "vocab_notes": [
+        { "word": "proponent", "ko": "지지자, 옹호자" },
+        { "word": "contend", "ko": "주장하다" },
+        { "word": "merely", "ko": "단지, 그저" },
+        { "word": "mirror", "ko": "그대로 반영하다" },
+        { "word": "preach", "ko": "설파하다, 설교하다" },
+        { "word": "fluctuate", "ko": "(가격 등이) 오르내리다, 변동하다" },
+        { "word": "demand", "ko": "수요" },
+        { "word": "allocate", "ko": "배분하다, 할당하다" },
+        { "word": "scarce", "ko": "희소한, 부족한" },
+        { "word": "siphon (away)", "ko": "(돈·자원을) 빼돌리다, 빨아들이다" },
+        { "word": "revenue", "ko": "수익, 매출" },
+        { "word": "reseller", "ko": "재판매업자" },
+        { "word": "otherwise", "ko": "그렇지 않다면" },
+        { "word": "pocket", "ko": "(돈을) 챙기다, 착복하다" },
+        { "word": "markup", "ko": "가격 인상분, 웃돈" }
+      ]
+    },
+    {
+      "en": "Yet the practice sits uneasily with consumers' deeply held intuitions about fairness, which tolerate higher prices when costs rise but bristle when a company appears to be exploiting a sudden spike in desire.",
+      "ko": "그러나 이 관행은 공정성에 대한 소비자들의 뿌리 깊은 직관과 잘 맞지 않는데, 그 직관은 비용이 오를 때의 가격 인상은 용인하지만 기업이 갑작스러운 욕구의 급증을 이용해 먹는 것처럼 보일 때는 발끈한다.",
+      "structure": "· sit uneasily with ~ : '~와 잘 어울리지 않다, 불편하게 공존하다'.\n· , which ~ : 계속적 용법의 관계대명사, 선행사는 intuitions(복수 → tolerate, bristle).\n· tolerate A when ~ but bristle when ~ : 두 동사가 but으로 병렬, 각각 when 부사절을 거느림.\n· appears to be exploiting : appear to + 진행형 부정사 = '~하고 있는 것처럼 보이다'.",
+      "vocab_notes": [
+        { "word": "practice", "ko": "관행, 관례" },
+        { "word": "sit uneasily with", "ko": "~와 잘 맞지 않다, 불편하게 어긋나다" },
+        { "word": "deeply held", "ko": "뿌리 깊은, 굳게 믿는" },
+        { "word": "intuition", "ko": "직관" },
+        { "word": "fairness", "ko": "공정성" },
+        { "word": "tolerate", "ko": "용인하다, 참다" },
+        { "word": "bristle", "ko": "발끈하다, 털을 곤두세우다" },
+        { "word": "appear to", "ko": "~하는 것처럼 보이다" },
+        { "word": "exploit", "ko": "(부당하게) 이용하다, 착취하다" },
+        { "word": "spike", "ko": "급증, 급등" },
+        { "word": "desire", "ko": "욕구, 갈망" }
+      ]
+    },
+    {
+      "en": "That resentment is compounded by opacity, since buyers rarely know whether the figure on their screen reflects genuine scarcity or a calculation tailored to their browsing history, device, or perceived willingness to pay.",
+      "ko": "그 반감은 불투명성 때문에 더 심해지는데, 구매자들은 화면에 뜬 금액이 실제 희소성을 반영하는 것인지, 아니면 자신의 검색 기록이나 기기, 또는 추정된 지불 의사에 맞춰 짜인 계산인지를 거의 알지 못하기 때문이다.",
+      "structure": "· is compounded by ~ : 수동태, '~에 의해 악화되다/가중되다'.\n· since ~ : 이유의 부사절(= because).\n· know whether A or B : whether절이 know의 목적어 — 'A인지 B인지'.\n· a calculation tailored to ~ : 과거분사 tailored가 calculation을 뒤에서 수식. to 뒤에 명사 셋(history, device, willingness)이 병렬.",
+      "vocab_notes": [
+        { "word": "resentment", "ko": "분개, 반감" },
+        { "word": "compound", "ko": "(문제를) 악화시키다, 가중하다" },
+        { "word": "opacity", "ko": "불투명성" },
+        { "word": "rarely", "ko": "좀처럼 ~하지 않는" },
+        { "word": "figure", "ko": "수치, 금액" },
+        { "word": "reflect", "ko": "반영하다" },
+        { "word": "genuine", "ko": "진짜의, 실제의" },
+        { "word": "scarcity", "ko": "희소성, 부족" },
+        { "word": "calculation", "ko": "계산" },
+        { "word": "tailor", "ko": "(특정 대상에) 맞추다" },
+        { "word": "browsing history", "ko": "(인터넷) 검색·방문 기록" },
+        { "word": "device", "ko": "기기, 장치" },
+        { "word": "perceived", "ko": "(남이) 인식한, 추정된" },
+        { "word": "willingness to pay", "ko": "지불 의사(얼마까지 낼 생각이 있는지)" }
+      ]
+    },
+    {
+      "en": "As regulators on both sides of the Atlantic weigh whether to require upfront disclosure or cap fluctuations outright, the deeper question is whether markets can stay efficient without forfeiting the trust that keeps customers coming back.",
+      "ko": "대서양 양쪽(미국과 유럽)의 규제 당국이 사전 고지를 의무화할지 아니면 가격 변동에 아예 상한을 둘지를 저울질하는 가운데, 더 근본적인 질문은 시장이 고객을 다시 찾아오게 만드는 신뢰를 잃지 않으면서도 효율성을 유지할 수 있느냐다.",
+      "structure": "· As ~ : '~하는 가운데/~하면서'의 부사절.\n· weigh whether to A or B : whether + to부정사 = 'A할지 B할지'. require와 cap이 or로 병렬.\n· the deeper question is whether ~ : whether절이 보어(명사절).\n· without forfeiting ~ : 전치사 + 동명사, '~을 잃지 않고'.\n· the trust that keeps customers coming back : 주격 관계대명사 that절. keep + 목적어 + -ing = '계속 ~하게 하다'.",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국" },
+        { "word": "on both sides of the Atlantic", "ko": "대서양 양편에서(미국과 유럽 모두)" },
+        { "word": "weigh", "ko": "저울질하다, 따져 보다" },
+        { "word": "require", "ko": "의무화하다, 요구하다" },
+        { "word": "upfront", "ko": "사전의, 미리 밝히는" },
+        { "word": "disclosure", "ko": "공개, 고지" },
+        { "word": "cap", "ko": "상한을 두다" },
+        { "word": "fluctuation", "ko": "변동" },
+        { "word": "outright", "ko": "완전히, 아예" },
+        { "word": "efficient", "ko": "효율적인" },
+        { "word": "forfeit", "ko": "(대가로) 잃다, 몰수당하다" },
+        { "word": "trust", "ko": "신뢰" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "fluctuate",
+      "pos": "v.",
+      "ko": "(가격·수치가) 오르내리다, 변동하다",
+      "example_en": "Airline fares can fluctuate several times a day depending on demand.",
+      "example_ko": "항공 요금은 수요에 따라 하루에도 여러 번 변동할 수 있다.",
+      "collocations": ["fluctuate wildly", "fluctuate with demand", "fluctuating prices"],
+      "note": "어원: fluct-(흐르다, 물결치다) — fluid(유체)·fluent(유창한, 막힘없이 흐르는)·influx(유입)와 같은 뿌리. 물결처럼 위아래로 출렁이는 이미지로 외운다.",
+      "family": [
+        { "word": "fluctuation", "pos": "n.", "ko": "변동, 등락" },
+        { "word": "fluctuating", "pos": "a.", "ko": "변동하는" }
+      ],
+      "related": [
+        { "word": "vary", "ko": "다르다, 바뀌다", "note": "vary는 '서로 다르다/바뀐다'는 중립적 의미, fluctuate는 '불규칙하게 오르락내리락'에 초점" }
+      ]
+    },
+    {
+      "headword": "siphon",
+      "pos": "v.",
+      "ko": "(돈·자원을) 빼돌리다, 빨아들이다",
+      "example_en": "Investigators found that the manager had siphoned funds from the company's pension plan.",
+      "example_ko": "수사관들은 그 관리자가 회사 연금에서 자금을 빼돌렸다는 사실을 밝혀냈다.",
+      "collocations": ["siphon off funds", "siphon money from", "siphon away revenue"],
+      "note": "원래 '사이펀(관을 이용해 액체를 빨아 옮기는 장치)'. 통에서 기름을 관으로 몰래 빨아내는 그림 → 돈을 '조금씩 몰래 빼내다'. 뉴스에선 off/away/from과 함께 횡령 맥락에 자주 나온다.",
+      "related": [
+        { "word": "embezzle", "ko": "횡령하다", "note": "embezzle은 맡은 돈을 착복하는 법률 용어, siphon은 '빨아내듯 빼돌린다'는 비유적·일반적 표현" }
+      ]
+    },
+    {
+      "headword": "scalper",
+      "pos": "n.",
+      "ko": "암표상, 되팔이",
+      "example_en": "The venue introduced name-matched tickets to keep scalpers from buying seats in bulk.",
+      "example_ko": "공연장은 암표상이 좌석을 대량 구매하지 못하도록 이름이 일치해야 하는 티켓을 도입했다.",
+      "collocations": ["ticket scalper", "crack down on scalpers"],
+      "note": "scalp(머리 가죽을 벗기다)에서 나온 미국 구어 — '손님의 껍데기를 벗기듯 폭리를 취하는 사람'. 영국에서는 ticket tout라고 한다.",
+      "family": [
+        { "word": "scalp", "pos": "v.", "ko": "(표를) 비싸게 되팔다; 머리 가죽" },
+        { "word": "scalping", "pos": "n.", "ko": "암표 매매; (주식) 초단타 매매" }
+      ]
+    },
+    {
+      "headword": "escalation",
+      "pos": "n.",
+      "ko": "단계적 상승, (갈등·가격의) 확대",
+      "example_en": "The sudden escalation in shipping costs forced retailers to raise prices.",
+      "example_ko": "갑작스러운 운송비 상승으로 소매업체들은 가격을 올릴 수밖에 없었다.",
+      "collocations": ["escalation in prices", "rapid escalation", "avoid escalation"],
+      "note": "escalator(에스컬레이터)와 같은 뿌리 — 계단을 한 칸씩 오르듯 '단계적으로 커지는 것'. 반대말 de-escalation(긴장 완화)은 외교·분쟁 뉴스의 단골.",
+      "family": [
+        { "word": "escalate", "pos": "v.", "ko": "확대되다, 증가하다" },
+        { "word": "de-escalation", "pos": "n.", "ko": "(긴장) 완화, 단계적 축소" }
+      ]
+    },
+    {
+      "headword": "bristle",
+      "pos": "v.",
+      "ko": "발끈하다, (털이) 곤두서다",
+      "example_en": "Employees bristled at the suggestion that they should work unpaid overtime.",
+      "example_ko": "직원들은 무급 초과근무를 해야 한다는 제안에 발끈했다.",
+      "collocations": ["bristle at criticism", "bristle with anger"],
+      "note": "명사 bristle은 '뻣뻣한 털(칫솔모)'. 화난 고양이가 털을 곤두세우는 모습 → '발끈하다'. bristle at ~(~에 발끈하다) 형태로 기억한다.",
+      "related": [
+        { "word": "bristle with", "ko": "~이 빽빽하다, ~으로 가득하다", "note": "with가 붙으면 '(털처럼) 잔뜩 꽂혀 있다'는 뜻 — a city bristling with cranes(크레인이 빼곡한 도시)" }
+      ]
+    },
+    {
+      "headword": "exploit",
+      "pos": "v.",
+      "ko": "(부당하게) 이용하다, 착취하다; 활용하다",
+      "example_en": "Critics accused the landlord of exploiting the housing shortage to raise rents.",
+      "example_ko": "비판자들은 그 집주인이 주택 부족을 악용해 임대료를 올렸다고 비난했다.",
+      "collocations": ["exploit a loophole", "exploit workers", "exploit an opportunity"],
+      "note": "뜻이 두 갈래 — 자원·기회를 '최대한 활용하다'(중립)와 사람·약점을 '착취하다'(부정). exploit a vulnerability는 보안 뉴스에서 '취약점을 악용하다'. 명사 exploit은 '위업, 공적'이라는 엉뚱한 뜻도 있다.",
+      "family": [
+        { "word": "exploitation", "pos": "n.", "ko": "착취; (자원) 개발·이용" },
+        { "word": "exploitative", "pos": "a.", "ko": "착취적인" }
+      ],
+      "related": [
+        { "word": "explore", "ko": "탐험하다, 탐구하다", "note": "철자가 비슷하지만 무관 — explore는 '살펴보다', exploit은 '뽑아 쓰다'" }
+      ]
+    },
+    {
+      "headword": "spike",
+      "pos": "n.",
+      "ko": "급증, 급등",
+      "example_en": "Hospitals reported a spike in respiratory infections during the cold snap.",
+      "example_ko": "병원들은 한파 기간에 호흡기 감염이 급증했다고 보고했다.",
+      "collocations": ["a spike in demand", "price spike", "sudden spike"],
+      "note": "원뜻은 '뾰족한 못·대못'. 그래프에서 뾰족하게 솟은 봉우리 모양 → '급등'. surge가 '밀려오는 큰 물결'이라면 spike는 '짧고 날카롭게 튀는 것'.",
+      "family": [
+        { "word": "spike", "pos": "v.", "ko": "급등하다; (음료에) 몰래 약을 타다" },
+        { "word": "spiky", "pos": "a.", "ko": "뾰족뾰족한" }
+      ]
+    },
+    {
+      "headword": "tailor",
+      "pos": "v.",
+      "ko": "(특정 목적·대상에) 맞추다",
+      "example_en": "The bank tailors its loan packages to the needs of small businesses.",
+      "example_ko": "그 은행은 소상공인의 필요에 맞춰 대출 상품을 구성한다.",
+      "collocations": ["tailor A to B", "tailored service", "tailor-made"],
+      "note": "명사 tailor는 '재단사' — 몸 치수에 맞춰 옷을 재단하듯 '맞춤으로 만들다'. tailor A to B(A를 B에 맞추다) 형태로, 형용사 tailored·tailor-made는 '맞춤형'.",
+      "family": [
+        { "word": "tailored", "pos": "a.", "ko": "맞춤형의" },
+        { "word": "tailor-made", "pos": "a.", "ko": "맞춤 제작의, 안성맞춤인" }
+      ],
+      "related": [
+        { "word": "customize", "ko": "주문 제작하다", "note": "거의 동의어 — customize는 사용자가 설정을 바꾸는 느낌, tailor는 제공자가 대상에 맞춰 설계하는 느낌" }
+      ]
+    },
+    {
+      "headword": "elasticity",
+      "pos": "n.",
+      "ko": "탄력성; (경제) 수요·가격 탄력성",
+      "example_en": "Because gasoline has low price elasticity, demand barely falls when prices rise.",
+      "example_ko": "휘발유는 가격 탄력성이 낮아서 가격이 올라도 수요가 거의 줄지 않는다.",
+      "collocations": ["price elasticity of demand", "low elasticity"],
+      "note": "elastic(고무줄처럼 늘어나는)+-ity(명사). 경제 용어로는 '가격이 변할 때 수요가 얼마나 늘었다 줄었다 하는가'. 필수품은 비탄력적(inelastic), 사치품은 탄력적.",
+      "family": [
+        { "word": "elastic", "pos": "a.", "ko": "탄력 있는, 신축적인; n. 고무줄" },
+        { "word": "inelastic", "pos": "a.", "ko": "비탄력적인" }
+      ]
+    },
+    {
+      "headword": "equitable",
+      "pos": "a.",
+      "ko": "공정한, 공평한",
+      "example_en": "The union is demanding a more equitable distribution of profits.",
+      "example_ko": "노조는 이익의 더 공정한 분배를 요구하고 있다.",
+      "collocations": ["equitable distribution", "equitable access", "fair and equitable"],
+      "note": "equ-(같은) 계열 — equal·equivalent와 같은 뿌리. 다만 equal은 '똑같이 나눔', equitable은 '사정에 맞게 공평하게 나눔'. 명사 equity는 '공정성' 외에 '자기자본·주식'이라는 금융 뜻이 따로 있다.",
+      "family": [
+        { "word": "equity", "pos": "n.", "ko": "공정성; (금융) 자기자본, 주식" },
+        { "word": "inequitable", "pos": "a.", "ko": "불공평한" }
+      ],
+      "related": [
+        { "word": "equal", "ko": "동등한", "note": "equal은 산술적으로 같음, equitable은 필요·사정을 고려한 공평함" }
+      ]
+    },
+    {
+      "headword": "rescind",
+      "pos": "v.",
+      "ko": "(결정·계약·법을) 철회하다, 폐지하다",
+      "example_en": "The company rescinded its job offer after the hiring freeze was announced.",
+      "example_ko": "채용 동결이 발표되자 회사는 채용 제안을 철회했다.",
+      "collocations": ["rescind an order", "rescind a contract", "rescind a decision"],
+      "note": "어원: re-(뒤로)+scind(자르다) — 이미 내린 결정을 '잘라서 되돌리다'. 토익·법률 문서에서 계약·제안 취소에 쓰는 격식어. 명사는 rescission(형태가 바뀜에 주의).",
+      "family": [
+        { "word": "rescission", "pos": "n.", "ko": "(계약의) 해제, 철회" }
+      ],
+      "related": [
+        { "word": "revoke", "ko": "(면허·권리를) 취소하다", "note": "revoke는 허가·자격을 박탈할 때, rescind는 결정·계약·명령을 거둬들일 때 주로 쓴다" }
+      ]
+    },
+    {
+      "headword": "relinquish",
+      "pos": "v.",
+      "ko": "(권리·지위·통제권을) 내주다, 포기하다",
+      "example_en": "The founder agreed to relinquish control of the company to a new CEO.",
+      "example_ko": "창업자는 새 CEO에게 회사의 경영권을 넘기는 데 동의했다.",
+      "collocations": ["relinquish control", "relinquish power", "relinquish a claim"],
+      "note": "어원: re-+linqu-(남겨 두다) — 쥐고 있던 것을 '뒤에 남겨 두고 떠나다'. 같은 뿌리의 delinquent(의무를 내버려 둔 → 연체한·비행의)와 함께 외운다.",
+      "related": [
+        { "word": "give up", "ko": "포기하다", "note": "relinquish는 권력·권리처럼 '쥐고 있던 것'을 마지못해 넘길 때 쓰는 격식어" }
+      ]
+    },
+    {
+      "headword": "precedent",
+      "pos": "n.",
+      "ko": "선례, 전례",
+      "example_en": "The court's ruling could set a precedent for similar cases nationwide.",
+      "example_ko": "그 법원 판결은 전국의 유사 사건에 선례가 될 수 있다.",
+      "collocations": ["set a precedent", "without precedent", "legal precedent"],
+      "note": "pre-(앞에)+cede(가다) — '앞서 간 것'. unprecedented(전례 없는)는 이 단어에 un-이 붙은 것. 발음 주의: precedent[프레시던트] vs president[프레지던트].",
+      "family": [
+        { "word": "precede", "pos": "v.", "ko": "~에 앞서다" },
+        { "word": "preceding", "pos": "a.", "ko": "앞의, 이전의" }
+      ],
+      "related": [
+        { "word": "precedence", "ko": "우선(권)", "note": "철자 한 끗 차이 — precedence는 '먼저 할 권리'(take precedence over ~보다 우선하다)" }
+      ]
+    },
+    {
+      "headword": "contemplate",
+      "pos": "v.",
+      "ko": "(진지하게) 고려하다, 심사숙고하다",
+      "example_en": "The board is contemplating a merger with its largest competitor.",
+      "example_ko": "이사회는 최대 경쟁사와의 합병을 고려하고 있다.",
+      "collocations": ["contemplate a move", "contemplate + -ing", "unthinkable to contemplate"],
+      "note": "목적어로 동명사를 쓴다(contemplate moving, ×contemplate to move) — consider와 같은 패턴이라 토익 어법 문제의 단골. 원래 '신전(templum)에서 하늘을 관찰하다'.",
+      "family": [
+        { "word": "contemplation", "pos": "n.", "ko": "심사숙고; 명상" },
+        { "word": "contemplative", "pos": "a.", "ko": "사색적인" }
+      ]
+    },
+    {
+      "headword": "endeavor",
+      "pos": "n.",
+      "ko": "노력, (진지한) 시도",
+      "example_en": "Launching a satellite is a costly endeavor that few startups can afford.",
+      "example_ko": "위성을 발사하는 것은 감당할 수 있는 스타트업이 거의 없는 비싼 시도다.",
+      "collocations": ["a costly endeavor", "human endeavor", "endeavor to + 동사원형"],
+      "note": "동사로도 쓰이며 endeavor to do(~하려고 애쓰다) — try의 격식어로 비즈니스 이메일에 자주 나온다(We will endeavor to respond within 24 hours). 영국식 철자는 endeavour.",
+      "related": [
+        { "word": "effort", "ko": "노력", "note": "effort는 들이는 힘 자체, endeavor는 목표를 향한 '진지한 시도·사업' 전체를 가리킨다" }
+      ]
+    },
+    {
+      "headword": "concur",
+      "pos": "v.",
+      "ko": "동의하다; 동시에 일어나다",
+      "example_en": "Most analysts concur that interest rates will remain high this year.",
+      "example_ko": "대부분의 분석가들은 올해 금리가 높게 유지될 것이라는 데 동의한다.",
+      "collocations": ["concur with", "concur that ~"],
+      "note": "con-(함께)+cur(달리다) — '같은 방향으로 함께 달리다' → 의견이 일치하다. 같은 뿌리 current(흐름)·concurrent(동시에 일어나는)와 묶어 외운다.",
+      "family": [
+        { "word": "concurrence", "pos": "n.", "ko": "동의, 일치; 동시 발생" }
+      ],
+      "related": [
+        { "word": "occur", "ko": "발생하다", "note": "같은 cur 뿌리지만 뜻이 다름 — occur(일어나다), recur(재발하다), concur(동의하다)" }
+      ]
+    },
+    {
+      "headword": "conjecture",
+      "pos": "n.",
+      "ko": "추측, 짐작",
+      "example_en": "Reports of a takeover are pure conjecture at this stage.",
+      "example_ko": "인수설은 현 단계에서 순전한 추측일 뿐이다.",
+      "collocations": ["pure conjecture", "a matter of conjecture"],
+      "note": "con-(함께)+ject(던지다) — 단서들을 '함께 던져 맞춰 보는' 짐작. project(앞으로 던지다)·reject(뒤로 던지다)와 같은 ject 뿌리. 근거가 부족하다는 뉘앙스가 있다.",
+      "family": [
+        { "word": "conjecture", "pos": "v.", "ko": "추측하다" },
+        { "word": "conjectural", "pos": "a.", "ko": "추측에 근거한" }
+      ],
+      "related": [
+        { "word": "speculation", "ko": "추측; 투기", "note": "speculation은 '투기'라는 금융 뜻도 있고, conjecture는 순수하게 '짐작'만 뜻한다" }
+      ]
+    },
+    {
+      "headword": "deference",
+      "pos": "n.",
+      "ko": "존중, (남의 뜻에) 따름",
+      "example_en": "In deference to local customs, the company postponed its launch until after the holiday.",
+      "example_ko": "현지 관습을 존중하여 회사는 출시를 휴일 이후로 미뤘다.",
+      "collocations": ["in deference to", "show deference to"],
+      "note": "동사 defer는 뜻이 두 갈래 — '미루다'(defer payment)와 '(남의 판단에) 따르다'(defer to experts). deference는 '따르다' 계열이고, '미루다' 계열 명사는 deferral이다.",
+      "family": [
+        { "word": "defer", "pos": "v.", "ko": "미루다; (to) ~의 뜻에 따르다" },
+        { "word": "deferential", "pos": "a.", "ko": "공손한, 경의를 표하는" },
+        { "word": "deferral", "pos": "n.", "ko": "연기, 유예 — '존중'이 아님에 주의" }
+      ],
+      "related": [
+        { "word": "difference", "ko": "차이", "note": "철자·발음이 비슷해 헷갈리기 쉬움 — deference[데퍼런스]는 '존중'" }
+      ]
+    }
+  ]
+}
