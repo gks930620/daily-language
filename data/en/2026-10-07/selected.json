@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-07",
+  "words": [
+    {
+      "headword": "placebo",
+      "pos": "n.",
+      "ko": "위약(僞藥), 가짜 약",
+      "example_en": "Half of the participants received the new drug, while the other half were given a placebo.",
+      "example_ko": "참가자의 절반은 신약을, 나머지 절반은 위약을 받았다.",
+      "collocations": [
+        "placebo effect",
+        "placebo-controlled trial",
+        "be given a placebo"
+      ],
+      "note": "어원: 라틴어 '내가 기쁘게 하리라(I shall please)' — 약효가 아니라 환자를 '기쁘게 해 주려고' 주는 약. please·pleasant와 같은 뿌리.",
+      "related": [
+        {
+          "word": "nocebo",
+          "ko": "노시보",
+          "note": "반대 개념 — 부작용을 걱정하면 가짜 약으로도 실제로 몸이 나빠지는 효과"
+        }
+      ]
+    },
+    {
+      "headword": "physiological",
+      "pos": "a.",
+      "ko": "생리적인, 생리학의",
+      "example_en": "Chronic stress can produce physiological changes such as high blood pressure and poor sleep.",
+      "example_ko": "만성 스트레스는 고혈압과 수면 부족 같은 생리적 변화를 일으킬 수 있다.",
+      "collocations": [
+        "physiological response",
+        "physiological changes"
+      ],
+      "note": "physio-(자연·몸) + -logy(학문) — '몸이 작동하는 방식'. psychological(심리적인)과 철자·발음이 비슷해 시험에서 단골 혼동 쌍이다.",
+      "family": [
+        {
+          "word": "physiology",
+          "pos": "n.",
+          "ko": "생리학; 생리 기능"
+        },
+        {
+          "word": "physiologist",
+          "pos": "n.",
+          "ko": "생리학자"
+        }
+      ],
+      "related": [
+        {
+          "word": "psychological",
+          "ko": "심리적인",
+          "note": "몸(physio-) vs 마음(psycho-) — 한 글자 차이로 뜻이 정반대 영역"
+        },
+        {
+          "word": "physician",
+          "ko": "내과 의사",
+          "note": "physicist(물리학자)와 혼동 주의 — 같은 physi- 뿌리"
+        }
+      ]
+    },
+    {
+      "headword": "attenuate",
+      "pos": "v.",
+      "ko": "약화시키다, 줄이다",
+      "example_en": "The new vaccine uses an attenuated virus that cannot cause serious illness.",
+      "example_ko": "새 백신은 심각한 질병을 일으키지 못하는 약독화 바이러스를 사용한다.",
+      "collocations": [
+        "attenuate the effect",
+        "attenuated virus"
+      ],
+      "note": "어원: ad-(~로) + tenuis(가는, 얇은) — '가늘게 만들다'. 앞서 나온 tenuous(빈약한)와 같은 뿌리라 '얇아진다 → 약해진다'로 묶어 외운다.",
+      "family": [
+        {
+          "word": "attenuation",
+          "pos": "n.",
+          "ko": "약화, 감쇠"
+        }
+      ],
+      "related": [
+        {
+          "word": "tenuous",
+          "ko": "빈약한, 미약한",
+          "note": "같은 어근 tenu-(얇은) — 형용사형 짝꿍"
+        }
+      ]
+    },
+    {
+      "headword": "administer",
+      "pos": "v.",
+      "ko": "(약·치료를) 투여하다; 관리·운영하다; (시험을) 실시하다",
+      "example_en": "The medication must be administered by a qualified nurse.",
+      "example_ko": "그 약은 자격을 갖춘 간호사가 투여해야 한다.",
+      "collocations": [
+        "administer a drug",
+        "administer a test",
+        "administer justice"
+      ],
+      "note": "'관리하다'로만 알면 독해에서 막힌다 — 의료 문맥에선 '투여하다', 시험 문맥에선 '실시하다'. 공통 핵심은 '공식적으로 집행하다'.",
+      "family": [
+        {
+          "word": "administration",
+          "pos": "n.",
+          "ko": "행정; (미국) 행정부; 투여"
+        },
+        {
+          "word": "administrative",
+          "pos": "a.",
+          "ko": "행정의, 관리상의"
+        },
+        {
+          "word": "administrator",
+          "pos": "n.",
+          "ko": "관리자, 행정관"
+        }
+      ]
+    },
+    {
+      "headword": "benign",
+      "pos": "a.",
+      "ko": "무해한, 양성의; 온화한",
+      "example_en": "Fortunately, the tumor turned out to be benign.",
+      "example_ko": "다행히 그 종양은 양성으로 판명되었다.",
+      "collocations": [
+        "benign tumor",
+        "relatively benign",
+        "benign neglect"
+      ],
+      "note": "bene-(좋은)이 들어 있다 — benefit·beneficial과 같은 뿌리. 반대말 malignant(악성의)의 mal-(나쁜)은 malfunction·malpractice의 그 mal-.",
+      "related": [
+        {
+          "word": "malignant",
+          "ko": "악성의",
+          "note": "정반대 — 의학 기사에서 benign/malignant가 짝으로 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "counterintuitive",
+      "pos": "a.",
+      "ko": "직관에 반하는",
+      "example_en": "It may seem counterintuitive, but raising prices actually boosted the brand's sales.",
+      "example_ko": "직관에 반하는 것처럼 보일 수 있지만, 가격을 올린 것이 실제로 그 브랜드의 판매를 끌어올렸다.",
+      "collocations": [
+        "seem counterintuitive",
+        "a counterintuitive finding"
+      ],
+      "note": "counter-(반대) + intuitive(직관적인). counter-는 counterpart·counterfeit·counteract처럼 '맞서는/짝을 이루는'을 만드는 접두사.",
+      "family": [
+        {
+          "word": "intuition",
+          "pos": "n.",
+          "ko": "직관"
+        },
+        {
+          "word": "intuitive",
+          "pos": "a.",
+          "ko": "직관적인; (사용이) 쉬운"
+        },
+        {
+          "word": "counterintuitively",
+          "pos": "ad.",
+          "ko": "직관에 반하게"
+        }
+      ]
+    },
+    {
+      "headword": "fraught",
+      "pos": "a.",
+      "ko": "(문제·위험 등으로) 가득한; 걱정스러운",
+      "example_en": "Negotiations between the two companies were fraught with difficulties.",
+      "example_ko": "두 회사 간의 협상은 어려움으로 가득했다.",
+      "collocations": [
+        "fraught with danger",
+        "fraught with risk",
+        "a fraught relationship"
+      ],
+      "note": "be fraught with + 부정적 명사(danger, risk, difficulty)가 기본형 — 좋은 것으로 '가득하다'에는 쓰지 않는다(그땐 filled with).",
+      "related": [
+        {
+          "word": "laden",
+          "ko": "~을 잔뜩 실은",
+          "note": "비슷하게 '가득한'이지만 laden은 짐·부채 등 무게감, fraught는 위험·긴장감"
+        }
+      ]
+    },
+    {
+      "headword": "clinician",
+      "pos": "n.",
+      "ko": "임상의(환자를 직접 진료하는 의사)",
+      "example_en": "Clinicians are urged to discuss treatment options openly with their patients.",
+      "example_ko": "임상의들은 환자와 치료 선택지를 터놓고 논의하도록 권고받는다.",
+      "collocations": [
+        "experienced clinician",
+        "clinicians and researchers"
+      ],
+      "note": "clinic(진료소) + -ian(사람) — 실험실 연구자(researcher)와 대비해 '환자 침대 곁(그리스어 kline=침대)에서 일하는 사람'.",
+      "family": [
+        {
+          "word": "clinical",
+          "pos": "a.",
+          "ko": "임상의; (태도가) 냉정한"
+        },
+        {
+          "word": "clinic",
+          "pos": "n.",
+          "ko": "진료소, 클리닉"
+        }
+      ]
+    },
+    {
+      "headword": "sham",
+      "pos": "n./a.",
+      "ko": "가짜(의), 엉터리; 모의 ~",
+      "example_en": "In the study, patients who underwent sham surgery improved almost as much as those who had the real operation.",
+      "example_ko": "그 연구에서 가짜 수술을 받은 환자들은 실제 수술을 받은 환자들과 거의 비슷하게 호전되었다.",
+      "collocations": [
+        "sham surgery",
+        "sham election",
+        "a complete sham"
+      ],
+      "note": "의학에선 '위약 대조용 모의 시술(sham procedure)', 정치에선 '형식뿐인 가짜(sham election)'. 둘 다 '겉모양만 진짜'라는 핵심이 같다.",
+      "related": [
+        {
+          "word": "bogus",
+          "ko": "가짜의",
+          "note": "구어적 동의어 — sham은 형식·절차의 가짜에, bogus는 서류·주장의 가짜에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "mimic",
+      "pos": "v.",
+      "ko": "흉내 내다, 모방하다",
+      "example_en": "The software is designed to mimic the way a human customer service agent responds.",
+      "example_ko": "그 소프트웨어는 인간 상담원이 응답하는 방식을 흉내 내도록 설계되었다.",
+      "collocations": [
+        "mimic the symptoms",
+        "mimic human behavior"
+      ],
+      "note": "과거형·-ing에서 k가 붙는다: mimicked, mimicking(picnic → picnicked과 같은 규칙). 겉모습을 '그대로 따라 한다'는 뉘앙스.",
+      "family": [
+        {
+          "word": "mimicry",
+          "pos": "n.",
+          "ko": "흉내, (생물) 의태"
+        }
+      ],
+      "related": [
+        {
+          "word": "emulate",
+          "ko": "본받다",
+          "note": "mimic은 겉만 따라 하기, emulate는 존경해서 그 수준을 닮으려 애쓰기"
+        }
+      ]
+    },
+    {
+      "headword": "analgesic",
+      "pos": "n./a.",
+      "ko": "진통제; 진통의",
+      "example_en": "Over-the-counter analgesics such as ibuprofen are widely used for headaches.",
+      "example_ko": "이부프로펜 같은 일반 진통제는 두통에 널리 쓰인다.",
+      "collocations": [
+        "over-the-counter analgesic",
+        "analgesic effect"
+      ],
+      "note": "an-(없음) + alges-(고통) — '고통을 없애는'. painkiller의 격식어로, 약 설명서·의학 기사에 나온다. anesthetic(마취제 = 감각 자체를 없앰)과 구분.",
+      "related": [
+        {
+          "word": "anesthetic",
+          "ko": "마취제",
+          "note": "analgesic은 통증만 줄이고, anesthetic은 감각(또는 의식)을 차단한다"
+        }
+      ]
+    },
+    {
+      "headword": "endemic",
+      "pos": "a.",
+      "ko": "(특정 지역·집단에) 고질적인, 토착의",
+      "example_en": "Corruption had become endemic in the country's customs system.",
+      "example_ko": "부패는 그 나라 세관 체계에서 고질적인 것이 되어 있었다.",
+      "collocations": [
+        "endemic to",
+        "endemic corruption",
+        "become endemic"
+      ],
+      "note": "en-(안) + demos(사람들) — '그 사람들 안에 늘 있는'. epi-(위로 퍼지는)=epidemic(유행병), pan-(전부)=pandemic(세계적 유행)과 접두사로 구분한다.",
+      "related": [
+        {
+          "word": "epidemic",
+          "ko": "유행병; 만연",
+          "note": "갑자기 퍼지는 것 vs endemic은 늘 자리 잡고 있는 것"
+        },
+        {
+          "word": "pandemic",
+          "ko": "세계적 대유행",
+          "note": "pan-(모든) — 전 세계 규모"
+        }
+      ]
+    },
+    {
+      "headword": "lucid",
+      "pos": "a.",
+      "ko": "명쾌한, 알기 쉬운; 정신이 또렷한",
+      "example_en": "The report offers a lucid explanation of a highly technical issue.",
+      "example_ko": "그 보고서는 매우 기술적인 문제를 명쾌하게 설명한다.",
+      "collocations": [
+        "lucid explanation",
+        "lucid dream",
+        "remain lucid"
+      ],
+      "note": "어원 lux/luc-(빛) — 빛이 비쳐 '환히 보이는'. 글에 쓰면 '명쾌한', 사람에게 쓰면 '의식이 또렷한'. lucid dream = 꿈인 줄 아는 꿈(자각몽).",
+      "family": [
+        {
+          "word": "lucidity",
+          "pos": "n.",
+          "ko": "명료함; 의식이 또렷함"
+        },
+        {
+          "word": "elucidate",
+          "pos": "v.",
+          "ko": "(명쾌하게) 설명하다, 밝히다"
+        }
+      ]
+    },
+    {
+      "headword": "reticent",
+      "pos": "a.",
+      "ko": "말을 아끼는, 과묵한",
+      "example_en": "The CEO was reticent about the company's plans for further layoffs.",
+      "example_ko": "CEO는 회사의 추가 정리해고 계획에 대해 말을 아꼈다.",
+      "collocations": [
+        "reticent about",
+        "remain reticent"
+      ],
+      "note": "어원 tacere(침묵하다) — tacit(암묵적인)과 같은 뿌리. 흔히 reluctant(꺼리는)의 뜻으로 오용되지만, 본뜻은 '자기 생각·정보를 드러내지 않는'.",
+      "family": [
+        {
+          "word": "reticence",
+          "pos": "n.",
+          "ko": "과묵, 말을 삼감"
+        }
+      ],
+      "related": [
+        {
+          "word": "reluctant",
+          "ko": "꺼리는",
+          "note": "reluctant는 행동을 꺼림 전반, reticent는 '말하기'를 꺼림에 한정"
+        }
+      ]
+    },
+    {
+      "headword": "prerogative",
+      "pos": "n.",
+      "ko": "(고유한) 특권, 권한",
+      "example_en": "Setting interest rates is the prerogative of the central bank.",
+      "example_ko": "금리 결정은 중앙은행의 고유 권한이다.",
+      "collocations": [
+        "royal prerogative",
+        "it's your prerogative",
+        "management prerogative"
+      ],
+      "note": "pre-(먼저) + rogare(묻다) — 고대 로마에서 '먼저 의견을 물어볼 자격'. 그래서 아무나 아닌 '그 사람(기관)에게만 있는 권한'.",
+      "related": [
+        {
+          "word": "privilege",
+          "ko": "특권, 특혜",
+          "note": "privilege는 남보다 누리는 혜택, prerogative는 직위에 따른 결정 권한에 무게"
+        }
+      ]
+    }
+  ]
+}
