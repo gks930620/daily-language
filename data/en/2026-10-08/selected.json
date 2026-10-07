@@ -1,0 +1,356 @@
+{
+  "date": "2026-10-08",
+  "words": [
+    {
+      "headword": "acoustic",
+      "pos": "a.",
+      "ko": "음향의, 청각의",
+      "example_en": "Engineers installed acoustic panels to reduce echo in the conference hall.",
+      "example_ko": "엔지니어들은 회의장의 울림을 줄이기 위해 흡음(음향) 패널을 설치했다.",
+      "collocations": [
+        "acoustic signal",
+        "acoustic panel",
+        "acoustic guitar"
+      ],
+      "note": "그리스어 akouein(듣다)에서 — '듣는 것에 관한'. 기타에 붙으면 '전기 증폭 없는(통기타)'이라는 뜻이 되어, 시사에선 '음향', 음악에선 '어쿠스틱'으로 갈린다.",
+      "family": [
+        {
+          "word": "acoustics",
+          "pos": "n.",
+          "ko": "음향학; (공간의) 음향 상태 — 'The hall has great acoustics'처럼 복수형으로"
+        }
+      ]
+    },
+    {
+      "headword": "reverberate",
+      "pos": "v.",
+      "ko": "울려 퍼지다, 반향하다; (영향이) 파급되다",
+      "example_en": "The effects of the central bank's decision reverberated through global markets.",
+      "example_ko": "중앙은행 결정의 영향은 세계 시장 전반으로 파급되었다.",
+      "collocations": [
+        "reverberate through",
+        "reverberate around the room"
+      ],
+      "note": "re-(다시) + verber(때리다) — 소리가 벽을 '다시 때리며' 되돌아온다. 시사에선 소리가 아니라 사건의 여파가 '퍼져 나간다'는 비유로 더 자주 쓴다.",
+      "family": [
+        {
+          "word": "reverberation",
+          "pos": "n.",
+          "ko": "반향, 잔향; (주로 복수) 여파"
+        }
+      ],
+      "related": [
+        {
+          "word": "echo",
+          "ko": "메아리치다",
+          "note": "echo는 소리가 그대로 되돌아오는 것, reverberate는 여러 번 부딪히며 길게 울리는 것"
+        }
+      ]
+    },
+    {
+      "headword": "drown out",
+      "pos": "phr. v.",
+      "ko": "(더 큰 소리로) 묻어 버리다; (의견 등을) 압도하다",
+      "example_en": "Complaints from small shareholders were drowned out by the voices of large investors.",
+      "example_ko": "소액 주주들의 불만은 대형 투자자들의 목소리에 묻혀 버렸다.",
+      "collocations": [
+        "drown out the noise",
+        "be drowned out by"
+      ],
+      "note": "drown(물에 빠뜨리다) + out — 작은 소리를 큰 소리의 '물속에 빠뜨려' 안 들리게 한다. 회의·여론에서 소수 의견이 묻힐 때도 그대로 쓴다.",
+      "related": [
+        {
+          "word": "drown",
+          "ko": "익사하다, 물에 잠기게 하다",
+          "note": "out 없이 쓰면 '익사' — drown in debt(빚더미에 앉다)처럼 '~에 파묻히다' 비유도 가능"
+        }
+      ]
+    },
+    {
+      "headword": "navigate",
+      "pos": "v.",
+      "ko": "길을 찾다, 항해하다; (어려운 상황을) 헤쳐 나가다",
+      "example_en": "Small businesses are struggling to navigate the new tax regulations.",
+      "example_ko": "소기업들은 새 세법 규정을 헤쳐 나가는 데 애를 먹고 있다.",
+      "collocations": [
+        "navigate a crisis",
+        "navigate the market",
+        "navigate a website"
+      ],
+      "note": "nav-(배) + -igate(몰다) — '배를 몰다'. navy(해군)·naval(해군의)이 같은 뿌리. 비즈니스에선 '복잡한 규정·위기를 헤쳐 나가다'로 아주 자주 나온다.",
+      "family": [
+        {
+          "word": "navigation",
+          "pos": "n.",
+          "ko": "항해; 길 안내(내비게이션)"
+        },
+        {
+          "word": "navigable",
+          "pos": "a.",
+          "ko": "(강·바다가) 배가 다닐 수 있는"
+        },
+        {
+          "word": "navigator",
+          "pos": "n.",
+          "ko": "항해사"
+        }
+      ]
+    },
+    {
+      "headword": "intensify",
+      "pos": "v.",
+      "ko": "강화하다, 심해지다",
+      "example_en": "Competition among delivery apps has intensified over the past year.",
+      "example_ko": "배달 앱 간의 경쟁이 지난 1년간 심해졌다.",
+      "collocations": [
+        "intensify efforts",
+        "competition intensifies",
+        "intensify pressure"
+      ],
+      "note": "형용사 intense + -ify(~하게 만들다) — 자동사(심해지다)·타동사(강화하다) 둘 다 된다. intense와 intensive는 뜻이 갈리니 짝으로 외울 것.",
+      "family": [
+        {
+          "word": "intense",
+          "pos": "a.",
+          "ko": "강렬한, 극심한(감정·압박·더위)"
+        },
+        {
+          "word": "intensive",
+          "pos": "a.",
+          "ko": "집중적인(intensive care 중환자실, labor-intensive 노동 집약적)"
+        },
+        {
+          "word": "intensity",
+          "pos": "n.",
+          "ko": "강도, 세기"
+        }
+      ]
+    },
+    {
+      "headword": "abandon",
+      "pos": "v.",
+      "ko": "버리다, 떠나다; (계획을) 포기하다",
+      "example_en": "The company abandoned its expansion plans after sales fell sharply.",
+      "example_ko": "그 회사는 매출이 급감하자 확장 계획을 포기했다.",
+      "collocations": [
+        "abandon a plan",
+        "abandon ship",
+        "abandoned building"
+      ],
+      "note": "give up보다 단호하다 — 지키던 것(장소·계획·사람)을 '내팽개치고 떠나는' 뉘앙스. with abandon은 반대로 '거리낌 없이, 마음껏'이라는 명사 숙어라 함정.",
+      "family": [
+        {
+          "word": "abandonment",
+          "pos": "n.",
+          "ko": "버림, 포기, 유기"
+        },
+        {
+          "word": "abandoned",
+          "pos": "a.",
+          "ko": "버려진(abandoned house 폐가)"
+        }
+      ]
+    },
+    {
+      "headword": "runoff",
+      "pos": "n.",
+      "ko": "(빗물 등의) 유출수; 결선 투표",
+      "example_en": "Fertilizer runoff from nearby farms has turned the lake green with algae.",
+      "example_ko": "인근 농장에서 흘러든 비료 유출수 때문에 호수가 녹조로 초록색이 되었다.",
+      "collocations": [
+        "agricultural runoff",
+        "stormwater runoff",
+        "runoff election"
+      ],
+      "note": "run off(흘러가 버리다)가 한 단어 명사가 된 것 — 땅에 스미지 않고 '흘러 나가는' 물. 선거 기사에선 1차에서 과반이 없을 때 상위 두 명이 '다시 달리는' 결선 투표(runoff)로 쓰인다."
+    },
+    {
+      "headword": "slick",
+      "pos": "n./a.",
+      "ko": "(n.) 기름띠 / (a.) 매끈한; 번지르르한, 말만 그럴듯한",
+      "example_en": "The ad campaign was slick, but customers found the product disappointing.",
+      "example_ko": "광고 캠페인은 세련됐지만 고객들은 제품에 실망했다.",
+      "collocations": [
+        "oil slick",
+        "slick marketing",
+        "slick roads"
+      ],
+      "note": "핵심 이미지는 '미끌미끌' — 기름띠(oil slick), 미끄러운 길, 그리고 사람·광고에 쓰면 '겉만 매끈하고 진정성은 의심스러운'이라는 부정적 뉘앙스가 붙기 쉽다."
+    },
+    {
+      "headword": "frequency",
+      "pos": "n.",
+      "ko": "빈도; 주파수",
+      "example_en": "The frequency of extreme weather events has increased in recent years.",
+      "example_ko": "최근 몇 년간 극단적 기상 현상의 빈도가 증가했다.",
+      "collocations": [
+        "high frequency",
+        "radio frequency",
+        "increase in frequency"
+      ],
+      "note": "frequent(잦은) + -cy — '얼마나 자주'가 기본. 과학에선 1초에 '몇 번' 진동하는지 = 주파수로 같은 원리가 이어진다(low-frequency 저주파).",
+      "family": [
+        {
+          "word": "frequent",
+          "pos": "a./v.",
+          "ko": "(a.) 잦은 / (v.) 자주 드나들다 — 동사일 땐 강세가 뒤(fre-QUENT)"
+        },
+        {
+          "word": "frequently",
+          "pos": "ad.",
+          "ko": "자주"
+        }
+      ]
+    },
+    {
+      "headword": "toxic",
+      "pos": "a.",
+      "ko": "유독한; (관계·환경이) 해로운",
+      "example_en": "Employees complained about the toxic culture created by the new manager.",
+      "example_ko": "직원들은 새 관리자가 만든 해로운 조직 문화에 대해 불만을 제기했다.",
+      "collocations": [
+        "toxic waste",
+        "toxic chemicals",
+        "toxic workplace"
+      ],
+      "note": "그리스어 toxikon(화살에 바르는 독)에서 — 원래 '독화살'. 요즘은 toxic relationship·toxic workplace처럼 사람·조직에 대한 비유가 시사·회화에서 흔하다.",
+      "family": [
+        {
+          "word": "toxin",
+          "pos": "n.",
+          "ko": "독소"
+        },
+        {
+          "word": "toxicity",
+          "pos": "n.",
+          "ko": "독성"
+        },
+        {
+          "word": "detox",
+          "pos": "n./v.",
+          "ko": "해독(하다) — digital detox(디지털 기기 끊기)"
+        }
+      ]
+    },
+    {
+      "headword": "hull",
+      "pos": "n.",
+      "ko": "(배의) 선체",
+      "example_en": "Barnacles growing on a ship's hull can raise fuel consumption significantly.",
+      "example_ko": "배의 선체에 붙어 자라는 따개비는 연료 소비를 크게 늘릴 수 있다.",
+      "collocations": [
+        "ship's hull",
+        "hull design",
+        "double hull"
+      ],
+      "note": "돛·엔진을 뺀 배의 '몸통'. 원래 '껍질'이라는 뜻이라 곡식 껍질(hull)에도 쓴다 — 내용물을 감싸는 겉껍데기로 기억.",
+      "related": [
+        {
+          "word": "deck",
+          "ko": "갑판",
+          "note": "hull은 물에 잠기는 몸통 전체, deck은 그 위의 평평한 바닥"
+        }
+      ]
+    },
+    {
+      "headword": "muffle",
+      "pos": "v.",
+      "ko": "(소리를) 죽이다, 약하게 하다; (감싸서) 덮다",
+      "example_en": "Thick curtains muffled the noise from the busy street outside.",
+      "example_ko": "두꺼운 커튼이 바깥 번잡한 거리의 소음을 줄여 주었다.",
+      "collocations": [
+        "muffled voice",
+        "muffle the sound"
+      ],
+      "note": "목도리(muffler)로 감싸듯 '덮어서' 소리를 약하게 만든다 — 자동차 머플러(소음기)가 바로 이 단어. muffled는 '(벽 너머로) 웅웅거리는' 소리 묘사에 자주 쓴다.",
+      "family": [
+        {
+          "word": "muffler",
+          "pos": "n.",
+          "ko": "(자동차) 소음기; 목도리"
+        },
+        {
+          "word": "muffled",
+          "pos": "a.",
+          "ko": "(소리가) 죽은, 웅웅거리는"
+        }
+      ]
+    },
+    {
+      "headword": "din",
+      "pos": "n.",
+      "ko": "(시끄럽고 계속되는) 소음, 떠들썩함",
+      "example_en": "It was hard to hear the speaker over the din of the crowded trade fair.",
+      "example_ko": "붐비는 무역 박람회의 소음 때문에 연사의 말을 듣기 어려웠다.",
+      "collocations": [
+        "over the din",
+        "the din of traffic"
+      ],
+      "note": "noise보다 '여러 소리가 뒤섞여 계속 웅성대는' 소음. 'over the din'(소음 너머로 들리게)이 정형 표현이고, 시사에선 the din of debate처럼 '시끄러운 논쟁'으로 비유된다.",
+      "related": [
+        {
+          "word": "noise",
+          "ko": "소음",
+          "note": "noise는 일반적 소음, din은 크고 혼란스럽게 지속되는 소음"
+        }
+      ]
+    },
+    {
+      "headword": "modest",
+      "pos": "a.",
+      "ko": "(규모가) 크지 않은, 적당한; 겸손한",
+      "example_en": "The company posted a modest increase in profits despite the downturn.",
+      "example_ko": "그 회사는 경기 침체에도 불구하고 소폭의 이익 증가를 기록했다.",
+      "collocations": [
+        "modest increase",
+        "modest growth",
+        "modest income"
+      ],
+      "note": "mod-(척도, 적정선) — '선을 넘지 않는'. 사람에겐 '겸손한', 수치에겐 '소폭의'. 경제 기사에서 modest growth는 '그럭저럭 오른' 정도라 실망의 뉘앙스가 섞인다.",
+      "family": [
+        {
+          "word": "modesty",
+          "pos": "n.",
+          "ko": "겸손; 수수함"
+        },
+        {
+          "word": "modestly",
+          "pos": "ad.",
+          "ko": "소폭으로; 겸손하게"
+        }
+      ],
+      "related": [
+        {
+          "word": "moderate",
+          "ko": "적당한, 온건한",
+          "note": "같은 mod- 뿌리 — moderate는 '극단이 아닌 중간'(온건파·중간 강도), modest는 '크지 않은'·'겸손한'"
+        }
+      ]
+    },
+    {
+      "headword": "document",
+      "pos": "v./n.",
+      "ko": "(v.) 기록하다, (증거로) 입증하다 / (n.) 문서",
+      "example_en": "The report documents more than 200 cases of safety violations at the plant.",
+      "example_ko": "보고서는 그 공장에서 발생한 200건이 넘는 안전 위반 사례를 기록하고 있다.",
+      "collocations": [
+        "well-documented",
+        "document a case",
+        "document evidence"
+      ],
+      "note": "명사(문서)만 알면 시사 독해에서 막힌다 — 동사로는 '증거가 남도록 꼼꼼히 기록하다'. well-documented는 '충분히 입증된'이라는 뜻의 빈출 형용사.",
+      "family": [
+        {
+          "word": "documentation",
+          "pos": "n.",
+          "ko": "증빙 서류; (기록) 문서화"
+        },
+        {
+          "word": "documentary",
+          "pos": "n./a.",
+          "ko": "다큐멘터리; 문서의(documentary evidence 서증)"
+        }
+      ]
+    }
+  ]
+}
