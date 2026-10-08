@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-09",
+  "words": [
+    {
+      "headword": "decipher",
+      "pos": "v.",
+      "ko": "해독하다, 판독하다",
+      "example_en": "Investigators spent weeks trying to decipher the handwritten notes found in the suspect's office.",
+      "example_ko": "수사관들은 용의자의 사무실에서 발견된 손글씨 메모를 판독하느라 몇 주를 보냈다.",
+      "collocations": [
+        "decipher a code",
+        "decipher handwriting"
+      ],
+      "note": "de-(풀다) + cipher(암호) — '암호를 푸는' 것. 반대말 encipher·encrypt(암호화하다). 악필·옛 문자·복잡한 의미를 '겨우 알아내는' 뉘앙스.",
+      "related": [
+        {
+          "word": "decode",
+          "ko": "(부호를) 해독하다",
+          "note": "decode는 정해진 규칙대로 기계적으로 푸는 것, decipher는 알아보기 힘든 것을 애써 읽어내는 것"
+        }
+      ]
+    },
+    {
+      "headword": "posterity",
+      "pos": "n.",
+      "ko": "후세, 후대",
+      "example_en": "The museum recorded interviews with the last surviving workers to preserve their stories for posterity.",
+      "example_ko": "박물관은 마지막 생존 노동자들의 이야기를 후세에 남기기 위해 그들과의 인터뷰를 녹음했다.",
+      "collocations": [
+        "for posterity",
+        "preserve for posterity"
+      ],
+      "note": "post-(뒤) — '뒤에 오는 사람들'. postpone(뒤로 미루다)·postwar(전후)와 같은 뿌리. 'for posterity'(후세를 위해) 덩어리로 거의 굳어서 쓴다.",
+      "related": [
+        {
+          "word": "posterior",
+          "ko": "뒤쪽의",
+          "note": "같은 어원이지만 '위치상 뒤'라는 뜻의 형용사 — 사람(후손)을 뜻하지 않는다"
+        }
+      ]
+    },
+    {
+      "headword": "intact",
+      "pos": "a.",
+      "ko": "손상되지 않은, 온전한",
+      "example_en": "Despite the fire, the company's financial records remained intact in a fireproof safe.",
+      "example_ko": "화재에도 불구하고 회사의 재무 기록은 내화 금고 속에서 온전히 남아 있었다.",
+      "collocations": [
+        "remain intact",
+        "keep ~ intact",
+        "largely intact"
+      ],
+      "note": "in-(not) + tact(닿다, touch) — '아무것도 닿지 않은' = 손상 없는. contact(서로 닿음)·tactile(촉각의)과 같은 뿌리. remain/stay/keep 뒤에 보어로 잘 온다.",
+      "related": [
+        {
+          "word": "tact",
+          "ko": "요령, 눈치",
+          "note": "같은 '닿다' 어원 — 사람의 마음을 '잘 건드리는' 감각이라 '눈치·재치'가 됐다"
+        }
+      ]
+    },
+    {
+      "headword": "emulate",
+      "pos": "v.",
+      "ko": "(본받아) 모방하다; 에뮬레이트하다",
+      "example_en": "Many startups try to emulate the success of established tech giants.",
+      "example_ko": "많은 스타트업이 기존 거대 기술 기업의 성공을 본받으려 한다.",
+      "collocations": [
+        "emulate the success of",
+        "emulate a role model"
+      ],
+      "note": "mimic(흉내 내다)과 달리 emulate는 '따라잡거나 넘어서려고' 본받는 긍정적 뉘앙스. IT에서는 '다른 기기를 소프트웨어로 똑같이 재현하다'(emulator).",
+      "family": [
+        {
+          "word": "emulation",
+          "pos": "n.",
+          "ko": "모방, 경쟁적 본받기; 에뮬레이션"
+        },
+        {
+          "word": "emulator",
+          "pos": "n.",
+          "ko": "에뮬레이터(다른 기기를 재현하는 프로그램)"
+        }
+      ],
+      "related": [
+        {
+          "word": "imitate",
+          "ko": "모방하다",
+          "note": "imitate는 중립적인 '따라 하다', emulate는 '본받아 넘어서려는' 의지가 담긴다"
+        }
+      ]
+    },
+    {
+      "headword": "preservation",
+      "pos": "n.",
+      "ko": "보존, 보호",
+      "example_en": "The city allocated additional funds for the preservation of its historic buildings.",
+      "example_ko": "시는 역사적 건물 보존을 위해 추가 자금을 배정했다.",
+      "collocations": [
+        "historic preservation",
+        "data preservation"
+      ],
+      "note": "pre-(미리) + serve(지키다) — '미리 지켜 두다'. 혼동 주의: preservative는 '방부제', reservation은 '예약'.",
+      "family": [
+        {
+          "word": "preserve",
+          "pos": "v.",
+          "ko": "보존하다; (과일 등을) 저장 가공하다"
+        },
+        {
+          "word": "preservative",
+          "pos": "n.",
+          "ko": "방부제 — '보존하는 것'이라 식품 첨가물 뜻으로 갈라짐"
+        }
+      ],
+      "related": [
+        {
+          "word": "conservation",
+          "ko": "(자원·자연) 보존, 절약",
+          "note": "preservation은 원래 상태 그대로 '손대지 않고' 지키기, conservation은 아껴 쓰면서 지속 가능하게 관리하기"
+        }
+      ]
+    },
+    {
+      "headword": "oblivion",
+      "pos": "n.",
+      "ko": "망각, 잊혀짐",
+      "example_en": "Once a market leader, the brand faded into oblivion after failing to adapt to smartphones.",
+      "example_ko": "한때 시장 선두였던 그 브랜드는 스마트폰에 적응하지 못한 뒤 잊혀 사라졌다.",
+      "collocations": [
+        "fade into oblivion",
+        "consign ~ to oblivion"
+      ],
+      "note": "형용사 oblivious는 '망각한'이 아니라 '(주변을) 의식하지 못하는'으로 뜻이 갈라진다 — be oblivious to the danger(위험을 전혀 모르다).",
+      "family": [
+        {
+          "word": "oblivious",
+          "pos": "a.",
+          "ko": "의식하지 못하는, 안중에 없는 — '잊은'이 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "erasure",
+      "pos": "n.",
+      "ko": "삭제, 말소",
+      "example_en": "Under the new privacy law, users can request the erasure of their personal data.",
+      "example_ko": "새 개인정보 보호법에 따라 이용자는 자신의 개인 데이터 삭제를 요청할 수 있다.",
+      "collocations": [
+        "right to erasure",
+        "data erasure"
+      ],
+      "note": "erase(지우다) + -ure(명사화). 유럽 개인정보법(GDPR)의 'right to erasure'(삭제권, 잊힐 권리)로 시사 빈출. 사회적 맥락에선 '(존재·역사의) 지워짐'으로도 쓴다.",
+      "family": [
+        {
+          "word": "erase",
+          "pos": "v.",
+          "ko": "지우다, 삭제하다"
+        },
+        {
+          "word": "eraser",
+          "pos": "n.",
+          "ko": "지우개"
+        }
+      ]
+    },
+    {
+      "headword": "fidelity",
+      "pos": "n.",
+      "ko": "충실함; (재현의) 정확도",
+      "example_en": "The new scanner reproduces old photographs with remarkable fidelity.",
+      "example_ko": "새 스캐너는 옛 사진을 놀라울 만큼 정확하게 재현한다.",
+      "collocations": [
+        "high fidelity",
+        "fidelity to the original"
+      ],
+      "note": "fid-(믿다) — confident(확신하는)·confidential(기밀의)과 같은 뿌리. '하이파이(hi-fi)'가 바로 high fidelity(원음 충실도)의 줄임말.",
+      "related": [
+        {
+          "word": "infidelity",
+          "ko": "(배우자에 대한) 부정, 외도",
+          "note": "fidelity의 반대말이지만 거의 '불륜' 뜻으로만 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "artifact",
+      "pos": "n.",
+      "ko": "유물, 인공물; (데이터의) 잡음·왜곡",
+      "example_en": "The excavation uncovered thousands of artifacts dating back to the Bronze Age.",
+      "example_ko": "발굴 작업에서 청동기 시대로 거슬러 올라가는 수천 점의 유물이 나왔다.",
+      "collocations": [
+        "ancient artifacts",
+        "cultural artifact"
+      ],
+      "note": "arti-(기술, art) + fact(만들다) — '사람 손으로 만든 것'. 디지털 분야에서는 압축 등으로 생긴 '화질 깨짐'(compression artifacts)을 뜻하기도 한다.",
+      "related": [
+        {
+          "word": "relic",
+          "ko": "유물, 잔재",
+          "note": "relic은 '과거에서 남겨진 것'(시대착오적 잔재 뉘앙스도), artifact는 '사람이 만든 물건'에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "inscribe",
+      "pos": "v.",
+      "ko": "(글자를) 새기다, 적다",
+      "example_en": "The names of the donors were inscribed on a bronze plaque at the entrance.",
+      "example_ko": "기부자들의 이름이 입구의 청동 명판에 새겨졌다.",
+      "collocations": [
+        "inscribed on a plaque",
+        "inscribe a name"
+      ],
+      "note": "in-(안에) + scribe(쓰다) — 표면 '안으로 파고들어 쓰다'. scribe 가족: describe(묘사하다), prescribe(처방하다), subscribe(구독하다).",
+      "family": [
+        {
+          "word": "inscription",
+          "pos": "n.",
+          "ko": "새겨진 글, 비문"
+        }
+      ]
+    },
+    {
+      "headword": "corrupt",
+      "pos": "a./v.",
+      "ko": "부패한; (파일이) 손상된 / 부패시키다, 손상시키다",
+      "example_en": "The report could not be opened because the file had been corrupted during the transfer.",
+      "example_ko": "전송 중에 파일이 손상되어 보고서를 열 수 없었다.",
+      "collocations": [
+        "corrupt officials",
+        "corrupted file"
+      ],
+      "note": "cor-(완전히) + rupt(깨다) — '완전히 깨진'. 사람에겐 '부패한', 데이터엔 '손상된'. rupt 가족: bankrupt(파산한), disrupt(방해하다), erupt(분출하다).",
+      "family": [
+        {
+          "word": "corruption",
+          "pos": "n.",
+          "ko": "부패, 비리; (데이터) 손상"
+        },
+        {
+          "word": "incorruptible",
+          "pos": "a.",
+          "ko": "매수되지 않는, 청렴한"
+        }
+      ]
+    },
+    {
+      "headword": "consign",
+      "pos": "v.",
+      "ko": "(달갑지 않은 곳으로) 넘기다; (물품을) 위탁하다",
+      "example_en": "Rising costs threatened to consign the project to the history books.",
+      "example_ko": "치솟는 비용 탓에 그 프로젝트는 역사 속으로 사라질 위기에 처했다.",
+      "collocations": [
+        "consign ~ to history",
+        "consign ~ to oblivion"
+      ],
+      "note": "con-(함께) + sign(표시) — 원래 '도장을 찍어 넘기다'. 그래서 무역에선 '위탁 판매하다', 비유로는 '~을 잊힘·쓰레기통으로 넘겨 버리다'. consign A to B 형태로 외운다.",
+      "related": [
+        {
+          "word": "assign",
+          "ko": "배정하다, 할당하다",
+          "note": "assign은 일·역할을 '맡기다', consign은 물건을 '넘겨 보내다'(또는 부정적인 곳에 처박다)"
+        }
+      ]
+    },
+    {
+      "headword": "tenacious",
+      "pos": "a.",
+      "ko": "끈질긴, 집요한",
+      "example_en": "Her tenacious negotiating style eventually won the company a better contract.",
+      "example_ko": "그녀의 끈질긴 협상 방식 덕분에 회사는 결국 더 나은 계약을 따냈다.",
+      "collocations": [
+        "tenacious effort",
+        "a tenacious grip"
+      ],
+      "note": "ten-(붙잡다) — '꽉 붙잡고 놓지 않는'. tenant(세입자=공간을 붙잡고 있는 사람)·retain(보유하다)과 같은 뿌리.",
+      "family": [
+        {
+          "word": "tenacity",
+          "pos": "n.",
+          "ko": "끈기, 집요함"
+        }
+      ],
+      "related": [
+        {
+          "word": "stubborn",
+          "ko": "고집 센",
+          "note": "stubborn은 부정적 '고집불통', tenacious는 대개 칭찬인 '끈기 있는'"
+        }
+      ]
+    },
+    {
+      "headword": "proactive",
+      "pos": "a.",
+      "ko": "선제적인, 주도적인",
+      "example_en": "Rather than waiting for complaints, the firm took a proactive approach to customer service.",
+      "example_ko": "그 회사는 불만이 들어오기를 기다리기보다 고객 서비스에 선제적으로 접근했다.",
+      "collocations": [
+        "take a proactive approach",
+        "proactive measures"
+      ],
+      "note": "pro-(앞서) + active — 일이 터지기 '전에' 움직이는. 반대말 reactive(사후 대응적인)와 짝으로 외운다. 토익 비즈니스 지문 단골.",
+      "related": [
+        {
+          "word": "reactive",
+          "ko": "사후 대응적인, 반응하는",
+          "note": "문제가 생긴 '뒤에' 대응하는 것 — proactive의 정반대"
+        }
+      ]
+    },
+    {
+      "headword": "facilitate",
+      "pos": "v.",
+      "ko": "용이하게 하다, 촉진하다",
+      "example_en": "The new software is designed to facilitate communication between remote teams.",
+      "example_ko": "새 소프트웨어는 원격 팀 간의 소통을 원활하게 하도록 설계되었다.",
+      "collocations": [
+        "facilitate communication",
+        "facilitate trade"
+      ],
+      "note": "facile(쉬운) + -ate(만들다) — '쉽게 만들다'. 주의: 사람을 목적어로 쓰지 않는다(×facilitate him) — 일·과정을 목적어로 쓴다.",
+      "family": [
+        {
+          "word": "facilitator",
+          "pos": "n.",
+          "ko": "진행자, 조력자"
+        },
+        {
+          "word": "facility",
+          "pos": "n.",
+          "ko": "시설; (하는) 재능 — '쉽게 해 주는 것'에서 '시설'로 갈라짐"
+        }
+      ]
+    }
+  ]
+}
