@@ -1,0 +1,351 @@
+{
+  "date": "2026-10-10",
+  "words": [
+    {
+      "headword": "cultivate",
+      "pos": "v.",
+      "ko": "배양하다, 재배하다; (관계·능력을) 기르다",
+      "example_en": "The startup cultivates chicken cells in large stainless-steel tanks.",
+      "example_ko": "그 스타트업은 대형 스테인리스 탱크에서 닭 세포를 배양한다.",
+      "collocations": [
+        "cultivate crops",
+        "cultivate relationships",
+        "cultivated meat"
+      ],
+      "note": "어원: cult-(땅을 갈다, 돌보다) — culture(문화·배양)·agriculture(농업)와 같은 뿌리. '땅을 갈아 키운다'에서 작물→세포→인간관계까지 '공들여 기르다'로 넓어졌다.",
+      "family": [
+        {
+          "word": "cultivation",
+          "pos": "n.",
+          "ko": "재배, 배양; 함양"
+        },
+        {
+          "word": "culture",
+          "pos": "n.",
+          "ko": "문화; (세포·균의) 배양"
+        },
+        {
+          "word": "cultivated",
+          "pos": "a.",
+          "ko": "재배된; 교양 있는"
+        }
+      ]
+    },
+    {
+      "headword": "livestock",
+      "pos": "n.",
+      "ko": "가축(집합적)",
+      "example_en": "Rising feed prices have forced many farmers to reduce the size of their livestock herds.",
+      "example_ko": "사료 가격 상승으로 많은 농민이 가축 무리의 규모를 줄일 수밖에 없었다.",
+      "collocations": [
+        "livestock farming",
+        "raise livestock",
+        "livestock feed"
+      ],
+      "note": "live(살아 있는) + stock(재고·자산) = '살아 있는 재산'. 집합명사라 복수형 -s를 붙이지 않고, 셀 때는 head(마리)를 쓴다: 500 head of livestock.",
+      "related": [
+        {
+          "word": "cattle",
+          "ko": "소 떼",
+          "note": "cattle은 소만, livestock은 소·돼지·닭 등 가축 전체. 둘 다 -s 없이 복수 취급"
+        }
+      ]
+    },
+    {
+      "headword": "slaughter",
+      "pos": "n./v.",
+      "ko": "도살(하다); 대량 학살",
+      "example_en": "New regulations require that animals be stunned before slaughter.",
+      "example_ko": "새 규정은 가축을 도살하기 전에 기절시키도록 요구한다.",
+      "collocations": [
+        "slaughter animals",
+        "slaughterhouse",
+        "lambs to the slaughter"
+      ],
+      "note": "slaughter 안에 laughter(웃음)가 숨어 있다 — 's 하나 붙자 웃음이 도살로'로 외우면 철자까지 잡힌다. 스포츠 기사에선 '상대를 대파하다'는 비유로도 쓴다.",
+      "related": [
+        {
+          "word": "massacre",
+          "ko": "대학살",
+          "note": "massacre는 사람을 무자비하게 대량 학살할 때, slaughter는 가축 도축이 기본 뜻이고 비유로 사람에게도 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "sterile",
+      "pos": "a.",
+      "ko": "무균의, 살균한; 불임의; 무미건조한",
+      "example_en": "All surgical instruments must be kept in a sterile environment.",
+      "example_ko": "모든 수술 도구는 무균 환경에 보관해야 한다.",
+      "collocations": [
+        "sterile conditions",
+        "sterile environment"
+      ],
+      "note": "핵심 이미지는 '아무것도 자라지 않는' — 그래서 무균(균이 안 자람)·불임(생명이 안 생김)·무미건조한(생기 없는 토론)이 모두 한 단어다.",
+      "family": [
+        {
+          "word": "sterilize",
+          "pos": "v.",
+          "ko": "살균하다; 불임 시술하다"
+        },
+        {
+          "word": "sterility",
+          "pos": "n.",
+          "ko": "무균 상태; 불임"
+        }
+      ],
+      "related": [
+        {
+          "word": "fertile",
+          "ko": "비옥한, 생식력 있는",
+          "note": "정반대 — fertile soil(비옥한 땅) vs sterile soil(척박한 땅)"
+        }
+      ]
+    },
+    {
+      "headword": "hurdle",
+      "pos": "n.",
+      "ko": "장애물, 난관",
+      "example_en": "Securing regulatory approval remains the biggest hurdle for the new drug.",
+      "example_ko": "규제 승인을 받는 것이 그 신약의 가장 큰 난관으로 남아 있다.",
+      "collocations": [
+        "clear a hurdle",
+        "regulatory hurdle",
+        "overcome a hurdle"
+      ],
+      "note": "육상 허들 경기에서 온 말 — 그래서 '넘다'는 동사로 clear/overcome을 쓴다. obstacle보다 '하나씩 넘어야 할 단계형 난관' 느낌이 강하다.",
+      "related": [
+        {
+          "word": "obstacle",
+          "ko": "장애물",
+          "note": "obstacle은 길을 막는 것 일반, hurdle은 넘어야 할 '관문' 뉘앙스(승인·시험·자금 조달 등)"
+        }
+      ]
+    },
+    {
+      "headword": "parity",
+      "pos": "n.",
+      "ko": "동등함, 동일 수준",
+      "example_en": "Electric cars are expected to reach price parity with gasoline cars within a few years.",
+      "example_ko": "전기차는 몇 년 안에 휘발유 차와 가격 동등성에 도달할 것으로 예상된다.",
+      "collocations": [
+        "price parity",
+        "pay parity",
+        "reach parity with"
+      ],
+      "note": "par(같은, 기준) — 골프의 par(기준 타수), 'on a par with(~와 동등한)'와 같은 뿌리. 앞에 dis-(아닌)가 붙으면 disparity(격차) — 이미 아는 단어와 짝으로 외우자.",
+      "related": [
+        {
+          "word": "disparity",
+          "ko": "격차, 불균형",
+          "note": "parity의 반대말 — pay parity(임금 동등) vs pay disparity(임금 격차)"
+        },
+        {
+          "word": "on a par with",
+          "ko": "~와 동등한",
+          "note": "같은 par 뿌리의 관용 표현"
+        }
+      ]
+    },
+    {
+      "headword": "scalable",
+      "pos": "a.",
+      "ko": "규모 확장이 가능한",
+      "example_en": "Investors want a business model that is scalable across multiple markets.",
+      "example_ko": "투자자들은 여러 시장으로 확장 가능한 사업 모델을 원한다.",
+      "collocations": [
+        "scalable business model",
+        "highly scalable"
+      ],
+      "note": "scale(규모) + -able(~할 수 있는). 스타트업·IT 기사 단골어 — '작게 성공한 것을 크게 키워도 비용·품질이 버티느냐'를 묻는 말이다. 동사구 scale up(키우다)/scale back(줄이다)과 세트.",
+      "family": [
+        {
+          "word": "scale",
+          "pos": "n./v.",
+          "ko": "규모; (규모를) 조정하다"
+        },
+        {
+          "word": "scalability",
+          "pos": "n.",
+          "ko": "확장성"
+        }
+      ]
+    },
+    {
+      "headword": "aversion",
+      "pos": "n.",
+      "ko": "혐오, 강한 거부감",
+      "example_en": "Many investors have an aversion to risk during periods of uncertainty.",
+      "example_ko": "많은 투자자는 불확실한 시기에 위험을 극도로 꺼린다.",
+      "collocations": [
+        "risk aversion",
+        "an aversion to",
+        "loss aversion"
+      ],
+      "note": "a-(멀리) + vert(돌리다) — '고개를 돌려 버리는' 감정. 같은 vert 뿌리: avert(피하다), divert(돌리다). 전치사는 to를 쓴다(aversion to risk).",
+      "family": [
+        {
+          "word": "averse",
+          "pos": "a.",
+          "ko": "싫어하는 — risk-averse(위험 회피형의)"
+        }
+      ],
+      "related": [
+        {
+          "word": "adverse",
+          "ko": "불리한, 해로운",
+          "note": "철자가 비슷한 혼동어 — adverse는 '상황이 불리한'(adverse effects), averse는 '사람이 싫어하는'(averse to change)"
+        }
+      ]
+    },
+    {
+      "headword": "squeamish",
+      "pos": "a.",
+      "ko": "비위가 약한, 질색하는; (도덕적으로) 꺼리는",
+      "example_en": "If you are squeamish about blood, you may want to skip this part of the documentary.",
+      "example_ko": "피를 보는 게 힘들다면 다큐멘터리의 이 부분은 건너뛰는 게 좋겠다.",
+      "collocations": [
+        "squeamish about",
+        "not for the squeamish"
+      ],
+      "note": "뉘앙스: 피·벌레 같은 것에 '속이 울렁거리는' 느낌이 기본이고, 기사에선 '불편한 결정을 꺼리는'(squeamish about raising taxes) 비유로 자주 나온다. 'Not for the squeamish'는 '비위 약한 분은 주의'라는 관용구.",
+      "related": [
+        {
+          "word": "queasy",
+          "ko": "메스꺼운",
+          "note": "queasy는 실제 몸이 메스꺼운 상태, squeamish는 쉽게 메스꺼워하는 성향"
+        }
+      ]
+    },
+    {
+      "headword": "misnomer",
+      "pos": "n.",
+      "ko": "잘못 붙인 이름, 부적절한 명칭",
+      "example_en": "Calling it a \"free\" service is a misnomer, since users pay with their personal data.",
+      "example_ko": "사용자가 개인 정보로 대가를 치르니 그것을 '무료' 서비스라고 부르는 것은 잘못된 명칭이다.",
+      "collocations": [
+        "something of a misnomer",
+        "a bit of a misnomer"
+      ],
+      "note": "mis-(잘못) + nom(이름) — nominal(명목상의)·nominate(지명하다)와 같은 nom 뿌리. '틀린 사실'이 아니라 '이름이 실체와 안 맞는다'는 뜻이라 is a misnomer 형태로 쓴다.",
+      "family": [
+        {
+          "word": "nominate",
+          "pos": "v.",
+          "ko": "지명하다, 후보로 올리다"
+        },
+        {
+          "word": "denomination",
+          "pos": "n.",
+          "ko": "(화폐) 액면가; 교파"
+        }
+      ]
+    },
+    {
+      "headword": "inroads",
+      "pos": "n.",
+      "ko": "(시장 등으로의) 진출, 잠식",
+      "example_en": "Chinese automakers are making rapid inroads into the European market.",
+      "example_ko": "중국 자동차 업체들이 유럽 시장에 빠르게 진출하고 있다.",
+      "collocations": [
+        "make inroads into",
+        "make significant inroads"
+      ],
+      "note": "원래 '적지로 쳐들어가는 길(습격)' — 그래서 make inroads into/in은 '남의 영역을 조금씩 파고들다'. 거의 항상 make와 복수형 inroads로 쓰인다.",
+      "related": [
+        {
+          "word": "foothold",
+          "ko": "발판, 거점",
+          "note": "gain a foothold는 '첫 발판을 마련하다', make inroads는 '이미 파고들어 점유율을 넓혀 가다'"
+        }
+      ]
+    },
+    {
+      "headword": "prototype",
+      "pos": "n.",
+      "ko": "시제품, 원형",
+      "example_en": "The engineers spent two years refining the prototype before mass production began.",
+      "example_ko": "엔지니어들은 대량 생산이 시작되기 전 2년 동안 시제품을 다듬었다.",
+      "collocations": [
+        "build a prototype",
+        "working prototype",
+        "early prototype"
+      ],
+      "note": "proto-(최초의) + type(형태) — protocol(의정서, 원래 '첫 장')·protagonist(주인공, '첫 번째 배우')도 같은 proto-. '최초의 형태'라 시제품이자 어떤 유형의 '원형'이다.",
+      "family": [
+        {
+          "word": "prototypical",
+          "pos": "a.",
+          "ko": "전형적인, 원형의"
+        }
+      ]
+    },
+    {
+      "headword": "authenticity",
+      "pos": "n.",
+      "ko": "진짜임, 진정성",
+      "example_en": "Experts questioned the authenticity of the painting after examining its pigments.",
+      "example_ko": "전문가들은 물감을 분석한 뒤 그 그림의 진위를 의심했다.",
+      "collocations": [
+        "verify the authenticity",
+        "a sense of authenticity"
+      ],
+      "note": "authentic(진짜의) + -ity(명사). '진품 여부'(위조 판별)와 '꾸밈없는 진정성'(브랜드·사람) 두 뜻 — 식품·마케팅 기사에선 후자가 많다.",
+      "family": [
+        {
+          "word": "authentic",
+          "pos": "a.",
+          "ko": "진짜의, 진품의"
+        },
+        {
+          "word": "authenticate",
+          "pos": "v.",
+          "ko": "진짜임을 증명하다, 인증하다"
+        }
+      ]
+    },
+    {
+      "headword": "allay",
+      "pos": "v.",
+      "ko": "(두려움·의심을) 가라앉히다, 누그러뜨리다",
+      "example_en": "The company released safety data to allay consumers' concerns.",
+      "example_ko": "회사는 소비자의 우려를 가라앉히기 위해 안전성 자료를 공개했다.",
+      "collocations": [
+        "allay fears",
+        "allay concerns",
+        "allay suspicion"
+      ],
+      "note": "목적어가 거의 fears·concerns·doubts(감정·우려)로 정해져 있다. alleviate는 고통·부담, mitigate는 위험·피해에 붙는 것과 구별 — '우려를 덜다'는 allay가 가장 자연스럽다.",
+      "related": [
+        {
+          "word": "alley",
+          "ko": "골목",
+          "note": "발음이 같은 혼동어(앨리) — 철자 a-ll-a-y vs a-ll-e-y"
+        }
+      ]
+    },
+    {
+      "headword": "dissuade",
+      "pos": "v.",
+      "ko": "(설득해서) 단념시키다",
+      "example_en": "High fees may dissuade small businesses from joining the platform.",
+      "example_ko": "높은 수수료는 소상공인들이 그 플랫폼에 가입하는 것을 단념시킬 수 있다.",
+      "collocations": [
+        "dissuade A from -ing"
+      ],
+      "note": "dis-(반대로) + suade(권하다) = persuade(설득하다)의 반대. persuade A to do ↔ dissuade A from -ing — 뒤에 오는 형태가 to부정사/from 동명사로 갈리는 것까지 세트로 외우자.",
+      "related": [
+        {
+          "word": "persuade",
+          "ko": "설득하다",
+          "note": "반대말 — persuade A to do(하도록 설득) vs dissuade A from doing(하지 않도록 설득)"
+        },
+        {
+          "word": "deter",
+          "ko": "단념시키다, 억제하다",
+          "note": "deter는 두려움·불이익으로 막는 것, dissuade는 말로 설득해 그만두게 하는 것"
+        }
+      ]
+    }
+  ]
+}
