@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-13",
+  "words": [
+    {
+      "headword": "eyewitness",
+      "pos": "n.",
+      "ko": "목격자",
+      "example_en": "Police are appealing for eyewitnesses to the accident to come forward.",
+      "example_ko": "경찰은 그 사고의 목격자들이 나서 줄 것을 호소하고 있다.",
+      "collocations": [
+        "eyewitness account",
+        "eyewitness testimony"
+      ],
+      "note": "eye(눈) + witness(증인) — '자기 눈으로 본 증인'. witness만으로도 '목격자'지만, 법정에서는 witness가 '증인' 전반(전문가 증인 포함)을 뜻하므로 직접 본 사람을 구분할 때 eyewitness를 쓴다.",
+      "related": [
+        {
+          "word": "bystander",
+          "ko": "구경꾼, 행인",
+          "note": "그 자리에 우연히 있던 사람 — 목격 여부·증언과 무관하게 '옆에 서 있던 사람'에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "testimony",
+      "pos": "n.",
+      "ko": "증언; (~의) 증거",
+      "example_en": "Her testimony before the committee contradicted the CEO's earlier statements.",
+      "example_ko": "위원회 앞에서 한 그녀의 증언은 CEO의 이전 발언과 모순되었다.",
+      "collocations": [
+        "give testimony",
+        "sworn testimony",
+        "a testimony to"
+      ],
+      "note": "be a testimony to ~ 는 '~을 입증하는 증거다'라는 비유로 시사 기사에 잘 나온다(The building is a testimony to his skill). 법정 증언 말고 이 뜻도 함께 외울 것.",
+      "family": [
+        {
+          "word": "testify",
+          "pos": "v.",
+          "ko": "증언하다"
+        },
+        {
+          "word": "testimonial",
+          "pos": "n.",
+          "ko": "(제품·사람에 대한) 추천의 글, 사용 후기"
+        }
+      ]
+    },
+    {
+      "headword": "recollection",
+      "pos": "n.",
+      "ko": "기억, 회상",
+      "example_en": "I have no recollection of signing that contract.",
+      "example_ko": "나는 그 계약서에 서명한 기억이 전혀 없다.",
+      "collocations": [
+        "have no recollection of",
+        "to the best of my recollection"
+      ],
+      "note": "re(다시) + collect(모으다) — 흩어진 기억을 '다시 모아' 떠올리는 것. 오늘 문단의 '기억은 재구성이다'라는 주장과 어원이 그대로 맞물린다.",
+      "family": [
+        {
+          "word": "recollect",
+          "pos": "v.",
+          "ko": "기억해 내다"
+        },
+        {
+          "word": "re-collect",
+          "pos": "v.",
+          "ko": "(물건을) 다시 모으다 — 하이픈이 있으면 문자 그대로의 뜻"
+        }
+      ]
+    },
+    {
+      "headword": "malleable",
+      "pos": "a.",
+      "ko": "변형되기 쉬운, 영향을 잘 받는; (금속이) 펴 늘일 수 있는",
+      "example_en": "Young children's opinions are highly malleable.",
+      "example_ko": "어린아이들의 생각은 매우 쉽게 바뀐다.",
+      "collocations": [
+        "highly malleable",
+        "malleable metal"
+      ],
+      "note": "어원: malleus(망치) — 망치로 두드리면 모양이 바뀌는 금속처럼, 외부 힘에 따라 '모양이 바뀌는'. 뇌 속 기억·여론·성격에 비유로 확장된다.",
+      "related": [
+        {
+          "word": "flexible",
+          "ko": "유연한",
+          "note": "flexible은 '휘어지고 융통성 있는'(긍정적), malleable은 '남이 두드리는 대로 바뀌는'(수동적·때로 부정적) 뉘앙스"
+        }
+      ]
+    },
+    {
+      "headword": "exonerate",
+      "pos": "v.",
+      "ko": "(혐의를) 벗기다, 무죄를 입증하다",
+      "example_en": "New DNA evidence exonerated the man after 18 years in prison.",
+      "example_ko": "새 DNA 증거로 그 남성은 18년 수감 끝에 무죄가 입증되었다.",
+      "collocations": [
+        "be exonerated of",
+        "fully exonerate"
+      ],
+      "note": "ex(밖으로) + onus(짐, 부담) — 죄의 '짐을 벗겨 준다'. 장부에 있는 onus(부담, 책임)와 같은 뿌리라 함께 묶어 외우면 좋다.",
+      "family": [
+        {
+          "word": "exoneration",
+          "pos": "n.",
+          "ko": "무죄 입증, 혐의 벗음"
+        }
+      ],
+      "related": [
+        {
+          "word": "acquit",
+          "ko": "무죄를 선고하다",
+          "note": "acquit는 재판에서 '무죄 판결'을 내리는 것(법적 절차), exonerate는 증거로 '결백 자체'를 밝히는 것 — 무죄 선고를 받아도 exonerate되지 않을 수 있다"
+        }
+      ]
+    },
+    {
+      "headword": "conviction",
+      "pos": "n.",
+      "ko": "유죄 판결; 확신, 신념",
+      "example_en": "He spoke with such conviction that the board approved the plan.",
+      "example_ko": "그가 너무도 확신에 차서 말하는 바람에 이사회는 그 계획을 승인했다.",
+      "collocations": [
+        "overturn a conviction",
+        "with conviction",
+        "a deep conviction"
+      ],
+      "note": "동사 convict(유죄를 선고하다)와 convince(확신시키다)가 같은 뿌리(vincere, 이기다)라 명사 conviction 하나가 '유죄 판결'과 '확신' 두 뜻을 다 갖는다. 문맥으로 갈라 읽을 것.",
+      "family": [
+        {
+          "word": "convict",
+          "pos": "v.",
+          "ko": "유죄를 선고하다"
+        },
+        {
+          "word": "convict",
+          "pos": "n.",
+          "ko": "기결수, 죄수"
+        },
+        {
+          "word": "convince",
+          "pos": "v.",
+          "ko": "확신시키다, 납득시키다"
+        }
+      ]
+    },
+    {
+      "headword": "distort",
+      "pos": "v.",
+      "ko": "왜곡하다, 비틀다",
+      "example_en": "The headline distorted what the minister had actually said.",
+      "example_ko": "그 헤드라인은 장관이 실제로 한 말을 왜곡했다.",
+      "collocations": [
+        "distort the facts",
+        "distort the market"
+      ],
+      "note": "dis(벗어나게) + tort(비틀다) — '비틀어 원래 모양에서 벗어나게' 하다. 같은 tort 계열: torture(고문 — 몸을 비틂), contort(일그러뜨리다).",
+      "family": [
+        {
+          "word": "distortion",
+          "pos": "n.",
+          "ko": "왜곡"
+        },
+        {
+          "word": "distorted",
+          "pos": "a.",
+          "ko": "왜곡된, 일그러진"
+        }
+      ]
+    },
+    {
+      "headword": "reconstruct",
+      "pos": "v.",
+      "ko": "재구성하다; 재건하다",
+      "example_en": "Investigators used security footage to reconstruct the events of that night.",
+      "example_ko": "수사관들은 보안 카메라 영상을 이용해 그날 밤의 사건을 재구성했다.",
+      "collocations": [
+        "reconstruct events",
+        "reconstruct a timeline"
+      ],
+      "note": "건물을 '다시 짓는' 뜻과 사건·기억을 조각으로 '다시 맞춰 보는' 뜻 둘 다 있다. 시사 기사에서는 전쟁 후 재건(postwar reconstruction)과 사건 재구성 양쪽으로 자주 등장.",
+      "family": [
+        {
+          "word": "reconstruction",
+          "pos": "n.",
+          "ko": "재건; 재구성"
+        }
+      ]
+    },
+    {
+      "headword": "lineup",
+      "pos": "n.",
+      "ko": "(경찰의) 용의자 대면 확인; (출연자·상품 등의) 구성",
+      "example_en": "The company unveiled its new product lineup for the holiday season.",
+      "example_ko": "그 회사는 연말 시즌을 위한 새 제품 라인업을 공개했다.",
+      "collocations": [
+        "police lineup",
+        "product lineup"
+      ],
+      "note": "line up(줄 세우다)의 명사형 — 경찰서에서 용의자 여러 명을 '한 줄로 세워' 목격자에게 지목하게 하는 것. 토익에서는 '제품 구성·출연진'의 뜻이 더 흔하다.",
+      "related": [
+        {
+          "word": "line up",
+          "ko": "줄 서다; (일정을) 잡아 두다",
+          "note": "동사구는 띄어 쓴다(We lined up three speakers), 명사는 붙여 쓴다(lineup)"
+        }
+      ]
+    },
+    {
+      "headword": "suggestible",
+      "pos": "a.",
+      "ko": "암시에 걸리기 쉬운, 남의 말에 쉽게 휘둘리는",
+      "example_en": "Tired and frightened witnesses tend to be more suggestible during questioning.",
+      "example_ko": "지치고 겁먹은 목격자는 신문 중에 암시에 더 잘 걸리는 경향이 있다.",
+      "collocations": [
+        "highly suggestible",
+        "suggestible witnesses"
+      ],
+      "note": "suggest는 '제안하다'뿐 아니라 '암시하다'라는 뜻이 있고, -ible(~될 수 있는)이 붙어 '암시될 수 있는 → 암시에 넘어가기 쉬운'이 된다. 유도 질문(leading question)과 짝으로 외울 것.",
+      "family": [
+        {
+          "word": "suggestion",
+          "pos": "n.",
+          "ko": "제안; 암시"
+        },
+        {
+          "word": "suggestive",
+          "pos": "a.",
+          "ko": "(~을) 연상시키는, 시사하는 — '휘둘리기 쉬운'이 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "erroneous",
+      "pos": "a.",
+      "ko": "잘못된, 틀린",
+      "example_en": "The report was based on erroneous data and had to be withdrawn.",
+      "example_ko": "그 보고서는 잘못된 데이터를 근거로 해서 철회되어야 했다.",
+      "collocations": [
+        "erroneous assumption",
+        "erroneous information"
+      ],
+      "note": "err(실수하다) + -oneous — wrong의 격식체. 공문·보고서·법률 문서에서 'wrong'을 점잖게 쓸 때 쓰인다(an erroneous charge on your bill = 청구서의 잘못된 요금).",
+      "family": [
+        {
+          "word": "err",
+          "pos": "v.",
+          "ko": "실수하다(To err is human)"
+        },
+        {
+          "word": "error",
+          "pos": "n.",
+          "ko": "오류"
+        }
+      ]
+    },
+    {
+      "headword": "vivid",
+      "pos": "a.",
+      "ko": "생생한, 선명한",
+      "example_en": "She still has vivid memories of her first day at the company.",
+      "example_ko": "그녀는 회사 첫 출근 날을 아직도 생생하게 기억한다.",
+      "collocations": [
+        "vivid memory",
+        "vivid colors",
+        "a vivid description"
+      ],
+      "note": "어원: vivus(살아 있는) — 기억·색·묘사가 '살아 있는 듯한'. vital(생명의)·revive(되살리다)·survive(살아남다)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "vividly",
+          "pos": "ad.",
+          "ko": "생생하게"
+        }
+      ]
+    },
+    {
+      "headword": "admissible",
+      "pos": "a.",
+      "ko": "(증거로) 채택 가능한, 허용되는",
+      "example_en": "The judge ruled that the recording was not admissible as evidence.",
+      "example_ko": "판사는 그 녹음이 증거로 채택될 수 없다고 판결했다.",
+      "collocations": [
+        "admissible evidence",
+        "admissible in court"
+      ],
+      "note": "admit은 '인정하다'와 '들여보내다' 두 갈래 — admissible은 '들여보내다' 계열로, 법정 안으로 '들일 수 있는' 증거라는 뜻. admission도 '입장·입학'과 '자백·인정' 두 뜻이 갈린다.",
+      "family": [
+        {
+          "word": "admit",
+          "pos": "v.",
+          "ko": "인정하다; 들어가게 하다"
+        },
+        {
+          "word": "admission",
+          "pos": "n.",
+          "ko": "입장·입학; 인정·자백"
+        },
+        {
+          "word": "inadmissible",
+          "pos": "a.",
+          "ko": "(증거로) 채택할 수 없는"
+        }
+      ]
+    },
+    {
+      "headword": "juror",
+      "pos": "n.",
+      "ko": "배심원(개인)",
+      "example_en": "One juror was dismissed after posting about the trial online.",
+      "example_ko": "배심원 한 명이 재판에 관한 글을 온라인에 올린 뒤 해임되었다.",
+      "collocations": [
+        "jury duty",
+        "a panel of jurors"
+      ],
+      "note": "jury는 배심원 '단'(집합), juror는 그 구성원 '한 사람'. 어원 jur-(법, 맹세)는 jurisdiction(관할권)·justice와 같은 뿌리 — 맹세하고 판단하는 사람.",
+      "family": [
+        {
+          "word": "jury",
+          "pos": "n.",
+          "ko": "배심원단"
+        }
+      ]
+    },
+    {
+      "headword": "overturn",
+      "pos": "v.",
+      "ko": "(판결·결정을) 뒤집다; 전복시키다",
+      "example_en": "The appeals court overturned the lower court's ruling.",
+      "example_ko": "항소 법원은 하급 법원의 판결을 뒤집었다.",
+      "collocations": [
+        "overturn a ruling",
+        "overturn a decision"
+      ],
+      "note": "over(넘어) + turn(돌리다) — 배·차가 '뒤집히다'라는 물리적 뜻에서 판결·정책을 '뒤집다'로 확장. reverse와 거의 같지만 overturn은 상급 기관이 하급 결정을 무효로 할 때 특히 많이 쓴다.",
+      "related": [
+        {
+          "word": "overrule",
+          "ko": "기각하다, (결정을) 뒤엎다",
+          "note": "법정에서 판사가 이의 제기를 '기각'할 때(Objection overruled) — 상대의 주장을 권한으로 눌러 버리는 것"
+        }
+      ]
+    }
+  ]
+}

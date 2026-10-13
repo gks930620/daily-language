@@ -3510,6 +3510,51 @@
     },
     "outlier": {
       "added_on": "2026-10-12"
+    },
+    "eyewitness": {
+      "added_on": "2026-10-13"
+    },
+    "testimony": {
+      "added_on": "2026-10-13"
+    },
+    "recollection": {
+      "added_on": "2026-10-13"
+    },
+    "malleable": {
+      "added_on": "2026-10-13"
+    },
+    "exonerate": {
+      "added_on": "2026-10-13"
+    },
+    "conviction": {
+      "added_on": "2026-10-13"
+    },
+    "distort": {
+      "added_on": "2026-10-13"
+    },
+    "reconstruct": {
+      "added_on": "2026-10-13"
+    },
+    "lineup": {
+      "added_on": "2026-10-13"
+    },
+    "suggestible": {
+      "added_on": "2026-10-13"
+    },
+    "erroneous": {
+      "added_on": "2026-10-13"
+    },
+    "vivid": {
+      "added_on": "2026-10-13"
+    },
+    "admissible": {
+      "added_on": "2026-10-13"
+    },
+    "juror": {
+      "added_on": "2026-10-13"
+    },
+    "overturn": {
+      "added_on": "2026-10-13"
     }
   }
 }
