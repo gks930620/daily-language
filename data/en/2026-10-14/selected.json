@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-14",
+  "words": [
+    {
+      "headword": "boon",
+      "pos": "n.",
+      "ko": "혜택, 요긴한 것",
+      "example_en": "The new subway line has been a boon to small businesses near the stations.",
+      "example_ko": "새 지하철 노선은 역 주변 소상공인들에게 큰 혜택이 되었다.",
+      "collocations": [
+        "a boon to/for",
+        "an economic boon"
+      ],
+      "note": "boom(호황)과 철자가 한 끗 차이 — boom은 '경기가 터지는 소리', boon은 '받아서 고마운 것'. bane(화근)과 짝으로 외우면 좋다(a boon and a bane = 득이자 독).",
+      "related": [
+        {
+          "word": "boom",
+          "ko": "호황, 급성장",
+          "note": "철자 혼동 주의 — 경기·판매의 급증은 boom"
+        },
+        {
+          "word": "bane",
+          "ko": "골칫거리",
+          "note": "정반대 뜻 — boon or bane(약이냐 독이냐) 형태로 자주 짝지어 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "bane",
+      "pos": "n.",
+      "ko": "골칫거리, 화근",
+      "example_en": "Spam calls have become the bane of many office workers' lives.",
+      "example_ko": "스팸 전화는 많은 직장인의 삶에 골칫거리가 되었다.",
+      "collocations": [
+        "the bane of one's existence",
+        "the bane of ~"
+      ],
+      "note": "원래 고대 영어로 '살인자·독'이라는 뜻 — 그래서 '삶을 갉아먹는 원흉'의 어감이 있다. 거의 항상 'the bane of + 사람/집단' 형태로 쓴다.",
+      "related": [
+        {
+          "word": "boon",
+          "ko": "혜택",
+          "note": "반의어 짝 — boon or bane"
+        },
+        {
+          "word": "nuisance",
+          "ko": "성가신 것",
+          "note": "nuisance는 가벼운 성가심, bane은 지속적으로 괴롭히는 큰 골칫거리"
+        }
+      ]
+    },
+    {
+      "headword": "hollow out",
+      "pos": "phr. v.",
+      "ko": "속을 비우다, (산업·지역을) 공동화시키다",
+      "example_en": "Decades of factory closures have hollowed out the region's middle class.",
+      "example_ko": "수십 년간의 공장 폐쇄로 그 지역의 중산층이 텅 비어 버렸다.",
+      "collocations": [
+        "hollow out the middle class",
+        "hollowed-out town"
+      ],
+      "note": "hollow(속이 빈) + out(완전히) — 겉모양은 남고 속(사람·일자리·기능)만 빠져나간 상태. 시사에서 '산업 공동화(hollowing-out of industry)'로 아주 자주 나온다.",
+      "family": [
+        {
+          "word": "hollow",
+          "pos": "a.",
+          "ko": "속이 빈; 공허한(hollow promise 빈말)"
+        },
+        {
+          "word": "hollowing-out",
+          "pos": "n.",
+          "ko": "공동화"
+        }
+      ]
+    },
+    {
+      "headword": "sour",
+      "pos": "v.",
+      "ko": "(관계·분위기가) 틀어지다, 나빠지다",
+      "example_en": "Relations between the two companies soured after the merger talks collapsed.",
+      "example_ko": "합병 협상이 결렬된 뒤 두 회사의 관계가 틀어졌다.",
+      "collocations": [
+        "relations sour",
+        "sour on ~",
+        "the mood soured"
+      ],
+      "note": "형용사 sour(신, 상한)를 동사로 — 우유가 '시어지듯' 관계·분위기·여론이 상하는 것. sour on ~ 은 '~에 정이 떨어지다'(Investors soured on tech stocks).",
+      "related": [
+        {
+          "word": "sore",
+          "ko": "아픈, 쓰린",
+          "note": "발음 비슷 — sore throat(목 아픔)은 sour와 무관"
+        }
+      ]
+    },
+    {
+      "headword": "ashore",
+      "pos": "ad.",
+      "ko": "뭍으로, 해안에",
+      "example_en": "Passengers were allowed to go ashore for six hours while the ship refueled.",
+      "example_ko": "배가 연료를 보충하는 동안 승객들은 여섯 시간 동안 뭍에 내릴 수 있었다.",
+      "collocations": [
+        "go ashore",
+        "wash ashore",
+        "come ashore"
+      ],
+      "note": "a-(~에/~으로) + shore(해안). abroad(a+broad 해외로)·aboard(a+board 탑승하여)·asleep와 같은 'a- = ~상태/~쪽으로' 패턴. 반대말은 offshore(앞바다에).",
+      "related": [
+        {
+          "word": "aboard",
+          "ko": "탑승하여",
+          "note": "같은 a- 패턴 — 배·비행기 '안으로'는 aboard, '뭍으로'는 ashore"
+        },
+        {
+          "word": "offshore",
+          "ko": "앞바다의; 역외의",
+          "note": "반대 방향 — 해안에서 떨어진 쪽"
+        }
+      ]
+    },
+    {
+      "headword": "falter",
+      "pos": "v.",
+      "ko": "흔들리다, 비틀거리다, 주춤하다",
+      "example_en": "Consumer spending began to falter as interest rates kept rising.",
+      "example_ko": "금리가 계속 오르자 소비 지출이 주춤하기 시작했다.",
+      "collocations": [
+        "the economy falters",
+        "faltering demand",
+        "never falter"
+      ],
+      "note": "'멈추지는 않았지만 힘이 빠져 휘청이는' 뉘앙스 — stop/collapse보다 한 단계 약하다. 경제 기사에서 the recovery falters(회복세가 주춤하다)로 매우 흔하다.",
+      "family": [
+        {
+          "word": "faltering",
+          "pos": "a.",
+          "ko": "흔들리는, 주춤하는"
+        },
+        {
+          "word": "unfaltering",
+          "pos": "a.",
+          "ko": "흔들림 없는"
+        }
+      ],
+      "related": [
+        {
+          "word": "fail",
+          "ko": "실패하다",
+          "note": "fail은 실패로 끝남, falter는 아직 진행 중이지만 휘청임"
+        }
+      ]
+    },
+    {
+      "headword": "lifeblood",
+      "pos": "n.",
+      "ko": "생명줄, 원동력, 핵심 요소",
+      "example_en": "Small and medium-sized firms are the lifeblood of the local economy.",
+      "example_ko": "중소기업은 지역 경제의 생명줄이다.",
+      "collocations": [
+        "the lifeblood of ~"
+      ],
+      "note": "life + blood — 몸에 피가 돌아야 살듯, 그것이 끊기면 조직·경제가 죽는 '핵심 공급원'. 거의 항상 'the lifeblood of + 경제/산업/도시'.",
+      "related": [
+        {
+          "word": "backbone",
+          "ko": "중추, 근간",
+          "note": "backbone은 '떠받치는 뼈대', lifeblood는 '계속 흘러 들어와 살리는 것'"
+        }
+      ]
+    },
+    {
+      "headword": "throng",
+      "pos": "n./v.",
+      "ko": "군중; (사람들이) 가득 메우다",
+      "example_en": "Shoppers thronged the mall on the first day of the holiday sale.",
+      "example_ko": "연휴 세일 첫날 쇼핑객들이 쇼핑몰을 가득 메웠다.",
+      "collocations": [
+        "throngs of tourists",
+        "be thronged with ~"
+      ],
+      "note": "crowd보다 문어적이고 '움직이며 밀려드는' 어감. 동사로 쓸 때 장소가 목적어로 온다(throng the streets) — 수동으로 바꾸면 the streets were thronged with people.",
+      "related": [
+        {
+          "word": "crowd",
+          "ko": "군중; 붐비게 하다",
+          "note": "일상어 — throng은 더 문어적이고 생생한 표현"
+        },
+        {
+          "word": "swarm",
+          "ko": "떼; 떼 지어 몰려들다",
+          "note": "벌레 떼 이미지 — 부정적 뉘앙스가 더 강함"
+        }
+      ]
+    },
+    {
+      "headword": "quaint",
+      "pos": "a.",
+      "ko": "예스럽고 아기자기한, 진기한",
+      "example_en": "The hotel is located in a quaint fishing village on the coast.",
+      "example_ko": "그 호텔은 해안의 예스럽고 아담한 어촌 마을에 있다.",
+      "collocations": [
+        "a quaint village",
+        "quaint old streets"
+      ],
+      "note": "칭찬('옛 정취가 있는')과 은근한 비꼼('시대에 뒤떨어진', a quaint idea) 두 얼굴이 있다 — 사람의 생각·관습에 쓰면 대개 '고리타분한'.",
+      "related": [
+        {
+          "word": "antique",
+          "ko": "골동품의",
+          "note": "antique는 실제로 오래된 물건, quaint는 '오래된 듯한 매력'이라는 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "commodify",
+      "pos": "v.",
+      "ko": "상품화하다",
+      "example_en": "Some locals feel that mass tourism has commodified their traditional festivals.",
+      "example_ko": "일부 주민들은 대중 관광이 자신들의 전통 축제를 상품화했다고 느낀다.",
+      "collocations": [
+        "commodify culture",
+        "commodified experience"
+      ],
+      "note": "commodity(상품) + -fy(~로 만들다) — 돈으로 사고팔 수 없던 것(문화·관계·자연)을 '상품으로 만든다'는 비판적 어감이 기본이다.",
+      "family": [
+        {
+          "word": "commodity",
+          "pos": "n.",
+          "ko": "상품, 원자재"
+        },
+        {
+          "word": "commodification",
+          "pos": "n.",
+          "ko": "상품화"
+        }
+      ],
+      "related": [
+        {
+          "word": "commercialize",
+          "ko": "상업화하다",
+          "note": "commercialize는 중립적 '사업화', commodify는 '본래 상품이 아니던 것을 상품으로' 비판"
+        }
+      ]
+    },
+    {
+      "headword": "hospitality",
+      "pos": "n.",
+      "ko": "환대; 접객업(호텔·외식업)",
+      "example_en": "The hospitality sector is struggling to hire enough staff for the peak season.",
+      "example_ko": "접객업계는 성수기에 필요한 인력을 충분히 구하느라 애를 먹고 있다.",
+      "collocations": [
+        "the hospitality industry",
+        "warm hospitality"
+      ],
+      "note": "hospit-(손님·주인) 뿌리에서 hospital(원래 '손님 숙소')·hotel·host·hostel이 모두 갈라졌다. 토익에서는 '환대'보다 '호텔·외식 산업'의 뜻으로 훨씬 자주 나온다.",
+      "family": [
+        {
+          "word": "hospitable",
+          "pos": "a.",
+          "ko": "환대하는, 쾌적한"
+        },
+        {
+          "word": "inhospitable",
+          "pos": "a.",
+          "ko": "불친절한; (기후·땅이) 살기 힘든"
+        }
+      ],
+      "related": [
+        {
+          "word": "hostility",
+          "ko": "적대감",
+          "note": "철자 비슷하지만 hostile(적대적인) 계열 — 정반대 뜻"
+        }
+      ]
+    },
+    {
+      "headword": "price out",
+      "pos": "phr. v.",
+      "ko": "(비싸서) 시장·지역에서 밀려나게 하다",
+      "example_en": "Young couples are being priced out of the housing market in the capital.",
+      "example_ko": "젊은 부부들이 수도의 주택 시장에서 가격 때문에 밀려나고 있다.",
+      "collocations": [
+        "be priced out of the market",
+        "price out local residents"
+      ],
+      "note": "price(값을 매기다) + out(밖으로) — 값이 올라 '밖으로 밀려나는' 그림. 주로 수동태 'be priced out of + 시장/지역'으로 쓴다. 반대로 price in은 '가격에 미리 반영하다'.",
+      "related": [
+        {
+          "word": "price in",
+          "ko": "(가격에) 미리 반영하다",
+          "note": "주식 기사 표현 — The rate hike was already priced in."
+        }
+      ]
+    },
+    {
+      "headword": "court",
+      "pos": "v.",
+      "ko": "(지지·고객·투자를) 얻으려 애쓰다, 구애하다",
+      "example_en": "Both candidates are courting young voters through social media.",
+      "example_ko": "두 후보 모두 소셜 미디어를 통해 젊은 유권자의 환심을 사려 애쓰고 있다.",
+      "collocations": [
+        "court investors",
+        "court voters",
+        "court controversy"
+      ],
+      "note": "명사 court(궁정)에서 — 궁정에서 왕의 환심을 사려 애쓰던 데서 '구애하다'가 나왔다. court disaster/controversy는 '화를 자초하다'로 뜻이 뒤집히니 주의.",
+      "family": [
+        {
+          "word": "courtship",
+          "pos": "n.",
+          "ko": "구애(기간)"
+        },
+        {
+          "word": "courteous",
+          "pos": "a.",
+          "ko": "예의 바른 (궁정 예법에서)"
+        },
+        {
+          "word": "courtesy",
+          "pos": "n.",
+          "ko": "예의, 호의(courtesy shuttle 무료 셔틀)"
+        }
+      ]
+    },
+    {
+      "headword": "garner",
+      "pos": "v.",
+      "ko": "(지지·관심·정보를) 얻다, 모으다",
+      "example_en": "The proposal garnered support from more than half of the shareholders.",
+      "example_ko": "그 제안은 주주의 절반 이상으로부터 지지를 얻었다.",
+      "collocations": [
+        "garner support",
+        "garner attention",
+        "garner votes"
+      ],
+      "note": "원래 '곡물 창고(granary)'와 같은 뿌리 — 곡식을 거둬 창고에 쌓듯 지지·관심을 '차곡차곡 모은다'. 목적어는 거의 support/attention/praise/votes 같은 추상명사.",
+      "related": [
+        {
+          "word": "garnish",
+          "ko": "(음식을) 장식하다",
+          "note": "철자 비슷하지만 무관 — garnish는 요리 장식/급여 압류"
+        }
+      ]
+    },
+    {
+      "headword": "relegate",
+      "pos": "v.",
+      "ko": "(낮은 지위·자리로) 밀어내다, 좌천시키다",
+      "example_en": "The once-popular product has been relegated to the bottom shelf.",
+      "example_ko": "한때 인기 있던 그 제품은 맨 아래 선반으로 밀려났다.",
+      "collocations": [
+        "be relegated to ~",
+        "relegate ~ to the sidelines"
+      ],
+      "note": "re-(뒤로) + leg-(보내다) — '뒤로 보내 버리다'. 축구의 '강등'도 relegation. 같은 leg-(보내다) 뿌리에 delegate(대표로 보내다)·legate(사절)가 있다.",
+      "family": [
+        {
+          "word": "relegation",
+          "pos": "n.",
+          "ko": "좌천; (스포츠) 강등"
+        }
+      ],
+      "related": [
+        {
+          "word": "delegate",
+          "ko": "위임하다; 대표",
+          "note": "같은 뿌리 — de-(멀리) 보내 '맡기다' vs re-(뒤로) 보내 '밀어내다'"
+        }
+      ]
+    }
+  ]
+}
