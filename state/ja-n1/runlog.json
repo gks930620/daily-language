@@ -639,7 +639,11 @@
       "settled_at": "2026-10-13T22:28:28.359Z",
       "content_sha256": "87a5b2136673b4cfd4a16614f86ec4cbfcfd424edf2e9baa86acbb92ce6546b6",
       "notes": [],
-      "built_at": "2026-10-13T22:31:04.124Z"
+      "built_at": "2026-10-14T21:23:44.135Z"
+    },
+    "2026-10-15": {
+      "prepared_at": "2026-10-14T21:21:33.204Z",
+      "settled": false
     }
   }
 }

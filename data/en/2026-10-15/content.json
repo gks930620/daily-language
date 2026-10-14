@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-15",
+  "passage_note": "경제·소비 — 실험실에서 키운 다이아몬드가 무너뜨린 '희소성 신화', 보석의 가치는 돌인가 이야기인가(논설)",
+  "sentences": [
+    {
+      "en": "For more than a century, the diamond industry sold not a stone but a story: that a gem forged deep underground over billions of years was a rarity worth two months' salary, and that \"a diamond is forever.\"",
+      "ko": "한 세기가 넘도록 다이아몬드 업계는 돌이 아니라 이야기를 팔았다. 수십억 년에 걸쳐 땅속 깊은 곳에서 만들어진 보석은 두 달 치 월급의 가치가 있는 희귀품이며, '다이아몬드는 영원하다'는 이야기 말이다.",
+      "structure": "· sold not A but B : 'A가 아니라 B를 팔았다'(not A but B 상관접속사).\n· 콜론(:) 뒤의 두 that절(that a gem ~ / and that \"a diamond ~\")은 a story의 내용을 풀어 주는 동격절.\n· a gem forged deep underground ~ : 과거분사구 forged ~가 a gem을 뒤에서 수식(= a gem which was forged ~).\n· worth + 명사 : '~의 가치가 있는' — worth two months' salary가 a rarity를 수식.",
+      "vocab_notes": [
+        { "word": "for more than a century", "ko": "한 세기가 넘도록" },
+        { "word": "industry", "ko": "업계, 산업" },
+        { "word": "gem", "ko": "보석, 원석" },
+        { "word": "forge", "ko": "(열·압력으로) 만들어 내다, 단련하다" },
+        { "word": "deep underground", "ko": "땅속 깊은 곳에서" },
+        { "word": "billions of years", "ko": "수십억 년" },
+        { "word": "rarity", "ko": "희귀한 것, 희귀성" },
+        { "word": "worth", "ko": "~의 가치가 있는" },
+        { "word": "salary", "ko": "월급, 급여" },
+        { "word": "forever", "ko": "영원히" }
+      ]
+    },
+    {
+      "en": "That carefully contrived mystique is now unraveling, as laboratories can grow stones that are chemically identical to mined ones for a fraction of the cost.",
+      "ko": "실험실이 채굴된 것과 화학적으로 똑같은 돌을 비용의 일부만으로 키워 낼 수 있게 되면서, 그 공들여 꾸며 낸 신비로움은 이제 무너지고 있다.",
+      "structure": "· carefully contrived mystique : 부사(carefully) + 과거분사(contrived)가 명사 mystique를 앞에서 수식 — '공들여 꾸며진 신비감'.\n· as ~ : 이유·동시 진행의 접속사 '~하면서, ~하므로'.\n· stones that are ~ : 주격 관계대명사 that이 stones를 수식.\n· mined ones : ones = stones(앞 명사의 반복을 피하는 대명사), mined는 '채굴된'이라는 과거분사 형용사.\n· for a fraction of the cost : 'for + 가격' — 비용의 극히 일부로.",
+      "vocab_notes": [
+        { "word": "carefully", "ko": "공들여, 신중하게" },
+        { "word": "contrived", "ko": "꾸며 낸, 인위적인" },
+        { "word": "mystique", "ko": "신비로운 분위기, 신비감" },
+        { "word": "unravel", "ko": "(계획·신화가) 무너지다, 풀리다" },
+        { "word": "laboratory", "ko": "실험실" },
+        { "word": "chemically", "ko": "화학적으로" },
+        { "word": "identical to", "ko": "~와 똑같은" },
+        { "word": "mine", "ko": "채굴하다" },
+        { "word": "a fraction of", "ko": "~의 일부, 극히 적은 양" },
+        { "word": "cost", "ko": "비용" }
+      ]
+    },
+    {
+      "en": "Since even trained jewelers cannot tell the two apart without specialized equipment, prices for lab-grown diamonds have plunged, and many younger buyers now spurn the mined variety as an overpriced relic of a clever marketing ploy.",
+      "ko": "숙련된 보석상조차 특수 장비 없이는 둘을 구별할 수 없기 때문에 실험실에서 키운 다이아몬드의 가격은 폭락했고, 이제 많은 젊은 구매자들은 채굴 다이아몬드를 영리한 마케팅 술책이 남긴 값만 비싼 유물로 여기며 외면한다.",
+      "structure": "· Since ~ : 이유의 부사절 '~이기 때문에'(시간의 '~이래로'가 아님 — 뒤에 현재 시제 cannot이 오므로 이유).\n· tell A apart : 'A를 구별하다' — the two가 tell과 apart 사이에 들어간 형태.\n· have plunged : 현재완료(결과) — 가격이 떨어져 지금 낮은 상태.\n· spurn A as B : 'A를 B로 여겨 퇴짜 놓다'(regard A as B 구문과 같은 틀).\n· lab-grown : 명사-과거분사 복합 형용사 '실험실에서 키운'.",
+      "vocab_notes": [
+        { "word": "since", "ko": "~이기 때문에" },
+        { "word": "trained", "ko": "숙련된, 훈련받은" },
+        { "word": "jeweler", "ko": "보석상, 보석 세공인" },
+        { "word": "tell apart", "ko": "구별하다" },
+        { "word": "specialized", "ko": "특수한, 전문화된" },
+        { "word": "equipment", "ko": "장비" },
+        { "word": "lab-grown", "ko": "실험실에서 키운" },
+        { "word": "plunge", "ko": "급락하다, 폭락하다" },
+        { "word": "spurn", "ko": "퇴짜 놓다, 냉대하다" },
+        { "word": "variety", "ko": "종류, 품종" },
+        { "word": "overpriced", "ko": "값이 지나치게 비싼" },
+        { "word": "relic", "ko": "유물, 잔재" },
+        { "word": "clever", "ko": "영리한, 교묘한" },
+        { "word": "ploy", "ko": "술책, 계략" }
+      ]
+    },
+    {
+      "en": "Yet the shift poses an awkward question for consumers: if any stone can be produced on demand, what exactly is the cachet of owning one, and why would anyone expect it to hold its value on the resale market?",
+      "ko": "그러나 이 변화는 소비자에게 곤란한 질문을 던진다. 어떤 돌이든 원하는 대로 만들어 낼 수 있다면, 그것을 소유하는 것의 위신이란 정확히 무엇이며, 누가 그것이 재판매 시장에서 가치를 유지하리라 기대하겠는가?",
+      "structure": "· pose a question : '질문을 제기하다' — 콜론 뒤가 그 질문의 내용.\n· if ~ can be produced : 조건절 + 조동사 수동태(can be p.p.).\n· owning one : 동명사구가 전치사 of의 목적어, one = a stone.\n· expect + 목적어 + to부정사 : '~가 …하리라 기대하다'(5형식).\n· why would anyone ~? : 수사의문문 — 사실상 '아무도 기대하지 않을 것이다'라는 뜻.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그러나" },
+        { "word": "shift", "ko": "변화, 전환" },
+        { "word": "pose", "ko": "(문제·질문을) 제기하다" },
+        { "word": "awkward", "ko": "곤란한, 난처한" },
+        { "word": "consumer", "ko": "소비자" },
+        { "word": "on demand", "ko": "요구가 있을 때 바로, 주문형으로" },
+        { "word": "exactly", "ko": "정확히" },
+        { "word": "cachet", "ko": "위신, (남들이 우러러보는) 특별한 매력" },
+        { "word": "own", "ko": "소유하다" },
+        { "word": "hold its value", "ko": "가치를 유지하다" },
+        { "word": "resale market", "ko": "재판매 시장, 중고 시장" }
+      ]
+    },
+    {
+      "en": "Some analysts argue that diamonds were never a sound investment to begin with, since the moment a ring leaves the store it depreciates sharply, a reality the industry's erstwhile slogan conveniently left out.",
+      "ko": "일부 분석가들은 다이아몬드가 애초에 건전한 투자였던 적이 없다고 주장한다. 반지가 매장을 나서는 순간 가치가 급격히 떨어지기 때문인데, 이는 업계의 옛 슬로건이 편리하게도 빼 버린 현실이다.",
+      "structure": "· argue that ~ : that절이 argue의 목적어.\n· to begin with : 독립부정사 '애초에, 우선'.\n· the moment + 주어 + 동사 : 'the moment'가 접속사처럼 쓰여 '~하는 순간'(= as soon as).\n· , a reality (that) the industry's ~ left out : 앞 절 전체와 동격인 명사구 a reality에 목적격 관계대명사가 생략된 관계절이 붙은 형태.",
+      "vocab_notes": [
+        { "word": "analyst", "ko": "분석가" },
+        { "word": "argue", "ko": "주장하다" },
+        { "word": "sound", "ko": "건전한, 믿을 만한" },
+        { "word": "investment", "ko": "투자, 투자 대상" },
+        { "word": "to begin with", "ko": "애초에" },
+        { "word": "the moment", "ko": "~하는 순간" },
+        { "word": "depreciate", "ko": "가치가 떨어지다" },
+        { "word": "sharply", "ko": "급격히" },
+        { "word": "reality", "ko": "현실" },
+        { "word": "erstwhile", "ko": "예전의, 이전의" },
+        { "word": "slogan", "ko": "슬로건, 구호" },
+        { "word": "conveniently", "ko": "편리하게도(비꼬는 뉘앙스)" },
+        { "word": "leave out", "ko": "빼다, 누락하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "rarity",
+      "pos": "n.",
+      "ko": "희귀한 것; 희귀성",
+      "example_en": "Vintage watches in good condition have become a rarity at auctions.",
+      "example_ko": "상태가 좋은 빈티지 시계는 경매에서 보기 드문 물건이 되었다.",
+      "collocations": ["a rarity in", "become a rarity"],
+      "note": "rare(드문) + -ity(명사) — 셀 수 있게 쓰면 '희귀한 물건·일'(a rarity), 셀 수 없게 쓰면 '희귀성'. rarely(좀처럼 ~않다)는 부정의 뜻이 숨은 부사라 주의.",
+      "family": [
+        { "word": "rare", "pos": "a.", "ko": "드문, 희귀한" },
+        { "word": "rarely", "pos": "ad.", "ko": "좀처럼 ~하지 않는(부정 의미)" }
+      ]
+    },
+    {
+      "headword": "contrived",
+      "pos": "a.",
+      "ko": "꾸며 낸, 억지스러운, 인위적인",
+      "example_en": "Critics found the film's happy ending contrived and unconvincing.",
+      "example_ko": "평론가들은 그 영화의 해피엔딩이 억지스럽고 설득력이 없다고 봤다.",
+      "collocations": ["a contrived excuse", "feel contrived"],
+      "note": "동사 contrive는 '용케 꾸며 내다·궁리해 내다'(중립)인데, 과거분사 contrived가 되면 '티 나게 짜 맞춘, 부자연스러운'이라는 부정적 평가어로 굳는다.",
+      "family": [
+        { "word": "contrive", "pos": "v.", "ko": "고안하다, 용케 ~해 내다" },
+        { "word": "contrivance", "pos": "n.", "ko": "고안품; 술수" }
+      ],
+      "related": [
+        { "word": "artificial", "ko": "인공의", "note": "artificial은 '사람이 만든'이라는 사실 묘사, contrived는 '억지로 꾸민 티가 난다'는 비판" }
+      ]
+    },
+    {
+      "headword": "mystique",
+      "pos": "n.",
+      "ko": "신비감, 신비로운 분위기",
+      "example_en": "The brand has carefully cultivated a mystique of exclusivity.",
+      "example_ko": "그 브랜드는 '아무나 가질 수 없다'는 신비감을 공들여 키워 왔다.",
+      "collocations": ["lose its mystique", "an air of mystique"],
+      "note": "프랑스어에서 온 말로 mystery(수수께끼, 사건)와 달리 '사람·브랜드를 둘러싼 매혹적인 신비감'이라는 이미지 쪽이다. 마케팅·연예 기사에 자주 나온다.",
+      "related": [
+        { "word": "mystery", "ko": "수수께끼, 미스터리", "note": "mystery는 풀어야 할 '모르는 것', mystique는 일부러 유지하는 '신비한 분위기'" }
+      ]
+    },
+    {
+      "headword": "plunge",
+      "pos": "v.",
+      "ko": "급락하다; 뛰어들다",
+      "example_en": "Shares of the retailer plunged 20% after it cut its profit forecast.",
+      "example_ko": "그 소매업체의 주가는 이익 전망치를 낮춘 뒤 20% 급락했다.",
+      "collocations": ["plunge sharply", "plunge into debt", "a plunge in prices"],
+      "note": "원래 '물속에 확 빠뜨리다·뛰어들다' — 가격이 '물에 풍덩 빠지듯' 떨어지는 그림. 명사로도 같은 형태(a plunge in sales).",
+      "related": [
+        { "word": "plummet", "ko": "곤두박질치다", "note": "둘 다 급락이지만 plummet가 더 극적·수직 낙하 느낌" },
+        { "word": "dip", "ko": "살짝 떨어지다", "note": "dip은 일시적·소폭 하락 — plunge와 강도가 정반대" }
+      ]
+    },
+    {
+      "headword": "spurn",
+      "pos": "v.",
+      "ko": "(제안·사람을) 퇴짜 놓다, 냉대하다",
+      "example_en": "The board spurned a takeover offer that it said undervalued the company.",
+      "example_ko": "이사회는 회사 가치를 과소평가했다며 인수 제안을 일축했다.",
+      "collocations": ["spurn an offer", "spurn advances"],
+      "note": "reject보다 '경멸하며 걷어차다'라는 감정이 실린 단어 — 어원도 '발로 차다'(spur 박차와 같은 뿌리). 기업 인수 기사에서 spurn a bid가 단골.",
+      "related": [
+        { "word": "reject", "ko": "거절하다", "note": "중립적 거절 — spurn은 무시·경멸의 뉘앙스가 더해진다" }
+      ]
+    },
+    {
+      "headword": "ploy",
+      "pos": "n.",
+      "ko": "(남을 속이거나 이용하는) 술책, 계략",
+      "example_en": "The 'limited-time offer' turned out to be a marketing ploy to clear old stock.",
+      "example_ko": "'기간 한정 할인'은 재고 정리를 위한 마케팅 술책으로 드러났다.",
+      "collocations": ["a marketing ploy", "a cynical ploy", "a ploy to"],
+      "note": "employ(이용하다)의 앞부분이 떨어져 나간 말로 기억 — '사람을 이용(em-ploy)하는 수'. 언론에서 a political ploy처럼 비판적으로 쓴다.",
+      "related": [
+        { "word": "tactic", "ko": "전술", "note": "tactic은 중립적 '전술', ploy는 '속셈 있는 꼼수'라는 부정적 평가" }
+      ]
+    },
+    {
+      "headword": "cachet",
+      "pos": "n.",
+      "ko": "위신, 특별한 권위·매력",
+      "example_en": "A degree from that university still carries considerable cachet with employers.",
+      "example_ko": "그 대학의 학위는 여전히 고용주들에게 상당한 위신을 지닌다.",
+      "collocations": ["carry cachet", "social cachet"],
+      "note": "프랑스어 '봉인·도장'에서 — 권위 있는 도장이 찍힌 것처럼 '남들이 알아주는 격'. 발음 [kæʃéɪ]. 발음이 같은 cache(은닉처, 캐시 메모리)와 혼동 주의.",
+      "related": [
+        { "word": "cache", "ko": "은닉처; (컴퓨터) 캐시", "note": "철자 하나 차이 — cache는 '숨겨 둔 저장소'로 뜻이 전혀 다르다" },
+        { "word": "prestige", "ko": "명성, 위신", "note": "거의 동의어 — cachet는 '그것을 가지면 생기는 격'에 더 초점" }
+      ]
+    },
+    {
+      "headword": "resale",
+      "pos": "n.",
+      "ko": "재판매, 되팔기",
+      "example_en": "Cars from this brand have a high resale value even after five years.",
+      "example_ko": "이 브랜드의 차는 5년이 지나도 중고 가격이 높다.",
+      "collocations": ["resale value", "resale market", "not for resale"],
+      "note": "re-(다시) + sale. resale value(되팔 때 받는 값)는 자동차·명품·부동산 기사의 핵심 표현. 동사는 resell(-sold-sold).",
+      "family": [
+        { "word": "resell", "pos": "v.", "ko": "되팔다" },
+        { "word": "reseller", "pos": "n.", "ko": "재판매업자" }
+      ]
+    },
+    {
+      "headword": "depreciate",
+      "pos": "v.",
+      "ko": "가치가 떨어지다; 감가상각하다",
+      "example_en": "Most new cars depreciate by about 20% in their first year.",
+      "example_ko": "대부분의 새 차는 첫해에 가치가 약 20% 떨어진다.",
+      "collocations": ["depreciate rapidly", "depreciating asset", "depreciate against the dollar"],
+      "note": "de-(아래로) + preci(가격, price와 같은 뿌리) — '값이 내려가다'. 반대말 appreciate는 '감사하다' 외에 '가치가 오르다'라는 뜻이 있어 경제 기사에서 함정이 된다.",
+      "family": [
+        { "word": "depreciation", "pos": "n.", "ko": "가치 하락; 감가상각" },
+        { "word": "appreciate", "pos": "v.", "ko": "감사하다; (자산·통화가) 가치가 오르다" }
+      ],
+      "related": [
+        { "word": "deprecate", "ko": "반대하다; (기능을) 폐기 예정으로 하다", "note": "철자 비슷하지만 '가격'이 아닌 '비난·폐기' 쪽 — self-deprecating(자기 비하적인)" }
+      ]
+    },
+    {
+      "headword": "covet",
+      "pos": "v.",
+      "ko": "(남의 것을) 몹시 탐내다",
+      "example_en": "The limited-edition sneakers are coveted by collectors around the world.",
+      "example_ko": "그 한정판 운동화는 전 세계 수집가들이 탐내는 물건이다.",
+      "collocations": ["a coveted prize", "highly coveted"],
+      "note": "수동형 형용사 coveted(누구나 탐내는)가 실제로 훨씬 많이 쓰인다 — a coveted award, the coveted top spot. 명사 covetous(탐욕스러운)는 부정적 인물 묘사.",
+      "family": [
+        { "word": "coveted", "pos": "a.", "ko": "누구나 탐내는, 선망의 대상인" },
+        { "word": "covetous", "pos": "a.", "ko": "탐욕스러운" }
+      ]
+    },
+    {
+      "headword": "allure",
+      "pos": "n.",
+      "ko": "매력, 유혹",
+      "example_en": "The allure of quick profits drew many first-time investors into the market.",
+      "example_ko": "빠른 수익이라는 유혹이 많은 초보 투자자들을 시장으로 끌어들였다.",
+      "collocations": ["the allure of", "lose its allure"],
+      "note": "lure(미끼, 꾀어내다)에 a-가 붙은 형태 — '미끼처럼 끌어당기는 매력'. 그래서 단순한 charm보다 '빠져들게 만드는, 다소 위험한' 뉘앙스가 있다.",
+      "family": [
+        { "word": "alluring", "pos": "a.", "ko": "매혹적인" }
+      ]
+    },
+    {
+      "headword": "flaunt",
+      "pos": "v.",
+      "ko": "과시하다, 자랑하다",
+      "example_en": "Some influencers flaunt luxury goods they borrowed for a single photo shoot.",
+      "example_ko": "어떤 인플루언서들은 사진 한 번 찍으려고 빌린 명품을 과시한다.",
+      "collocations": ["flaunt one's wealth", "if you've got it, flaunt it"],
+      "note": "혼동어 flout(규칙을 대놓고 무시하다)와 원어민도 자주 헷갈린다. flaunt는 '보여 주다', flout는 '깔보다'로 구별.",
+      "related": [
+        { "word": "flout", "ko": "(규칙을) 대놓고 어기다", "note": "flout the rules — 철자 한 글자 차이로 뜻이 전혀 다르다" },
+        { "word": "show off", "ko": "자랑하다", "note": "구어적 동의어" }
+      ]
+    },
+    {
+      "headword": "connoisseur",
+      "pos": "n.",
+      "ko": "(미술·음식 등의) 감정가, 전문가",
+      "example_en": "Even wine connoisseurs failed to tell the cheap bottle from the expensive one.",
+      "example_ko": "와인 감정가들조차 싼 병과 비싼 병을 구별하지 못했다.",
+      "collocations": ["a connoisseur of", "art connoisseur"],
+      "note": "어원: 프랑스어 connaître(알다) — 라틴어 cognoscere와 같은 뿌리로 cognition(인지)·recognize(알아보다)와 형제. '잘 알아보는 사람'.",
+      "related": [
+        { "word": "amateur", "ko": "애호가, 아마추어", "note": "amateur는 '좋아하는 사람', connoisseur는 '안목을 갖춘 사람'" }
+      ]
+    },
+    {
+      "headword": "fungible",
+      "pos": "a.",
+      "ko": "대체 가능한(같은 것끼리 서로 바꿀 수 있는)",
+      "example_en": "Money is fungible: a dollar saved on rent is as good as a dollar earned.",
+      "example_ko": "돈은 대체 가능하다. 월세에서 아낀 1달러는 번 1달러와 똑같다.",
+      "collocations": ["fungible goods", "non-fungible token (NFT)"],
+      "note": "NFT의 N-F가 바로 non-fungible(대체 불가능한)이다. 금·석유·현금처럼 '하나가 다른 하나와 완전히 같아 바꿔도 손해 없는' 성질을 말하는 경제 용어.",
+      "family": [
+        { "word": "fungibility", "pos": "n.", "ko": "대체 가능성" },
+        { "word": "non-fungible", "pos": "a.", "ko": "대체 불가능한" }
+      ]
+    },
+    {
+      "headword": "erstwhile",
+      "pos": "a.",
+      "ko": "예전의, 이전의",
+      "example_en": "The startup now competes directly with its erstwhile partner.",
+      "example_ko": "그 스타트업은 이제 예전 협력사와 정면으로 경쟁한다.",
+      "collocations": ["erstwhile ally", "erstwhile rival"],
+      "note": "erst(고어 '먼저', 독일어 erst와 같은 뿌리) + while(때) — '먼저 그때의'. former와 같은 뜻이지만 시사 칼럼에서 'erstwhile ally(한때의 동맹)'처럼 관계가 뒤집혔음을 꼬집을 때 즐겨 쓴다.",
+      "related": [
+        { "word": "former", "ko": "이전의", "note": "일상적 동의어 — erstwhile은 격식·문어체" }
+      ]
+    },
+    {
+      "headword": "debase",
+      "pos": "v.",
+      "ko": "(가치·품위를) 떨어뜨리다",
+      "example_en": "Printing money to pay off debts risks debasing the currency.",
+      "example_ko": "빚을 갚으려고 돈을 찍어 내면 통화 가치를 떨어뜨릴 위험이 있다.",
+      "collocations": ["debase the currency", "debase oneself"],
+      "note": "de-(아래로) + base(천한, 낮은) — 원래 금화에 싼 금속을 섞어 질을 낮추던 행위에서 나온 말. 그래서 지금도 '통화 가치 하락' 기사에 단골.",
+      "related": [
+        { "word": "devalue", "ko": "평가 절하하다", "note": "devalue는 공식적으로 값을 낮추는 것, debase는 '질을 타락시켜' 가치를 떨어뜨리는 것" }
+      ]
+    },
+    {
+      "headword": "wean",
+      "pos": "v.",
+      "ko": "(의존에서) 서서히 떼어 놓다; 젖을 떼다",
+      "example_en": "The government is trying to wean the economy off cheap imported energy.",
+      "example_ko": "정부는 경제를 값싼 수입 에너지 의존에서 서서히 떼어 내려 하고 있다.",
+      "collocations": ["wean A off/from B", "be weaned on"],
+      "note": "본뜻은 '아기를 젖에서 떼다' — 그래서 시사에서는 '중독·의존(보조금, 화석연료)에서 단계적으로 끊게 하다'로 쓴다. be weaned on은 반대로 '어릴 때부터 ~을 먹고(보고) 자라다'.",
+      "related": [
+        { "word": "quit", "ko": "끊다", "note": "quit은 단번에 끊기, wean off는 '서서히' 끊게 하기" }
+      ]
+    },
+    {
+      "headword": "underscore",
+      "pos": "v.",
+      "ko": "강조하다, 분명히 보여 주다",
+      "example_en": "The latest data underscore the need for faster action on housing costs.",
+      "example_ko": "최신 데이터는 주거비 문제에 더 빠른 조치가 필요함을 분명히 보여 준다.",
+      "collocations": ["underscore the need for", "underscore the importance of"],
+      "note": "글자 아래(under)에 선(score)을 긋는 것 = 밑줄 — 그래서 '강조하다'. underline과 완전히 같은 비유이며 뉴스에서는 underscore가 더 자주 나온다.",
+      "related": [
+        { "word": "underline", "ko": "밑줄 긋다; 강조하다", "note": "동의어 — 둘 다 '밑줄'에서 '강조'로 뜻이 확장" }
+      ]
+    }
+  ]
+}

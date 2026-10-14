@@ -3600,6 +3600,51 @@
     },
     "relegate": {
       "added_on": "2026-10-14"
+    },
+    "rarity": {
+      "added_on": "2026-10-15"
+    },
+    "contrived": {
+      "added_on": "2026-10-15"
+    },
+    "mystique": {
+      "added_on": "2026-10-15"
+    },
+    "plunge": {
+      "added_on": "2026-10-15"
+    },
+    "spurn": {
+      "added_on": "2026-10-15"
+    },
+    "ploy": {
+      "added_on": "2026-10-15"
+    },
+    "cachet": {
+      "added_on": "2026-10-15"
+    },
+    "resale": {
+      "added_on": "2026-10-15"
+    },
+    "depreciate": {
+      "added_on": "2026-10-15"
+    },
+    "covet": {
+      "added_on": "2026-10-15"
+    },
+    "allure": {
+      "added_on": "2026-10-15"
+    },
+    "flaunt": {
+      "added_on": "2026-10-15"
+    },
+    "connoisseur": {
+      "added_on": "2026-10-15"
+    },
+    "fungible": {
+      "added_on": "2026-10-15"
+    },
+    "erstwhile": {
+      "added_on": "2026-10-15"
     }
   }
 }
