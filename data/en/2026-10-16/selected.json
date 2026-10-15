@@ -1,0 +1,393 @@
+{
+  "date": "2026-10-16",
+  "words": [
+    {
+      "headword": "fallacy",
+      "pos": "n.",
+      "ko": "오류, 잘못된 통념",
+      "example_en": "It is a common fallacy that higher prices always mean better quality.",
+      "example_ko": "비싸면 늘 품질이 좋다는 것은 흔한 오류다.",
+      "collocations": [
+        "sunk cost fallacy",
+        "a common fallacy",
+        "logical fallacy"
+      ],
+      "note": "어원: fall-(속이다) — false(거짓의)·fail(실패하다)과 같은 뿌리. '사람을 속여 넘어뜨리는 생각'이 fallacy. 사실의 틀림(error)보다 '추론·믿음의 틀림'에 쓴다.",
+      "family": [
+        {
+          "word": "fallacious",
+          "pos": "a.",
+          "ko": "잘못된, 오류에 근거한"
+        }
+      ],
+      "related": [
+        {
+          "word": "fallible",
+          "ko": "틀릴 수 있는",
+          "note": "같은 뿌리지만 fallible은 '사람이 실수할 수 있다', fallacy는 '생각 자체가 틀렸다'"
+        }
+      ]
+    },
+    {
+      "headword": "irretrievable",
+      "pos": "a.",
+      "ko": "되찾을 수 없는, 회복 불가능한",
+      "example_en": "Much of the data was irretrievable after the server crashed.",
+      "example_ko": "서버가 다운된 뒤 데이터의 상당 부분은 복구할 수 없었다.",
+      "collocations": [
+        "irretrievable loss",
+        "irretrievably lost"
+      ],
+      "note": "ir-(not) + retrieve(되찾다) + -able(~할 수 있는) — 세 조각으로 쪼개면 뜻이 바로 나온다. 매몰비용(sunk cost)의 핵심 성질이 바로 irretrievable이다.",
+      "family": [
+        {
+          "word": "retrieve",
+          "pos": "v.",
+          "ko": "되찾다, 회수하다"
+        },
+        {
+          "word": "retrieval",
+          "pos": "n.",
+          "ko": "회수, (정보) 검색"
+        },
+        {
+          "word": "irretrievably",
+          "pos": "ad.",
+          "ko": "돌이킬 수 없이"
+        }
+      ]
+    },
+    {
+      "headword": "cling",
+      "pos": "v.",
+      "ko": "매달리다, 집착하다 (cling to)",
+      "example_en": "The CEO clung to his strategy even as market share kept shrinking.",
+      "example_ko": "그 CEO는 시장 점유율이 계속 줄어드는데도 자기 전략을 고수했다.",
+      "collocations": [
+        "cling to hope",
+        "cling to power",
+        "cling to the past"
+      ],
+      "note": "불규칙 변화 cling-clung-clung. 물리적으로 '달라붙다'(젖은 옷이 몸에 cling)에서 '생각·권력에 집착하다'로 넓어졌다. 부정적 뉘앙스 — 놓아야 할 것을 못 놓는 느낌.",
+      "related": [
+        {
+          "word": "cling film",
+          "ko": "랩(식품 포장용)",
+          "note": "영국식 표현 — 미국은 plastic wrap. '착 달라붙는 필름'이라 cling"
+        }
+      ]
+    },
+    {
+      "headword": "doomed",
+      "pos": "a.",
+      "ko": "실패할 운명인, 가망 없는",
+      "example_en": "Without fresh investment, the merger was doomed from the start.",
+      "example_ko": "새로운 투자가 없었기에 그 합병은 처음부터 실패할 운명이었다.",
+      "collocations": [
+        "doomed to fail",
+        "doomed from the start"
+      ],
+      "note": "doom(파멸, 비운)에서 나온 형용사로 늘 나쁜 결말만 가리킨다. be doomed to V = '~할 운명이다'(좋은 운명에는 be destined to V를 쓴다).",
+      "family": [
+        {
+          "word": "doom",
+          "pos": "n.",
+          "ko": "파멸, 비운"
+        }
+      ],
+      "related": [
+        {
+          "word": "destined",
+          "ko": "운명 지어진",
+          "note": "중립·긍정에도 쓴다 — destined for greatness는 되지만 doomed for greatness는 안 된다"
+        }
+      ]
+    },
+    {
+      "headword": "stubborn",
+      "pos": "a.",
+      "ko": "고집 센, 완고한; (문제가) 끈질긴",
+      "example_en": "Stubborn inflation has forced the central bank to keep rates high.",
+      "example_ko": "좀처럼 잡히지 않는 인플레이션 때문에 중앙은행은 금리를 높게 유지할 수밖에 없었다.",
+      "collocations": [
+        "stubborn inflation",
+        "stubborn refusal",
+        "stubborn stain"
+      ],
+      "note": "사람에게는 '고집 센', 사물·현상에는 '잘 안 없어지는'(stubborn stain 지워지지 않는 얼룩, stubborn inflation 끈질긴 물가) — 시사에선 두 번째 뜻이 자주 나온다.",
+      "family": [
+        {
+          "word": "stubbornness",
+          "pos": "n.",
+          "ko": "고집, 완고함"
+        },
+        {
+          "word": "stubbornly",
+          "pos": "ad.",
+          "ko": "완고하게, 끈질기게"
+        }
+      ],
+      "related": [
+        {
+          "word": "obstinate",
+          "ko": "완고한",
+          "note": "더 딱딱하고 부정적 — 이유 없이 버티는 느낌. stubborn은 문맥에 따라 '끈질긴'처럼 덜 나쁘게도 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "admission",
+      "pos": "n.",
+      "ko": "인정, 시인; 입장(료), 입학",
+      "example_en": "The company's apology was seen as an admission of guilt.",
+      "example_ko": "그 회사의 사과는 잘못을 시인한 것으로 받아들여졌다.",
+      "collocations": [
+        "an admission of guilt",
+        "admission fee",
+        "by one's own admission"
+      ],
+      "note": "admit의 명사형이 두 개로 갈라진다 — admission은 '인정·입장' 둘 다, admittance는 '들어가도 됨(출입 허가)'만. No admittance = 출입 금지.",
+      "family": [
+        {
+          "word": "admit",
+          "pos": "v.",
+          "ko": "인정하다; 입장을 허락하다"
+        },
+        {
+          "word": "admittance",
+          "pos": "n.",
+          "ko": "입장 허가 — '인정'의 뜻은 없음"
+        },
+        {
+          "word": "admittedly",
+          "pos": "ad.",
+          "ko": "인정하건대, 분명히"
+        }
+      ]
+    },
+    {
+      "headword": "sting",
+      "pos": "v. / n.",
+      "ko": "쏘다, 따끔하게(쓰라리게) 하다; (경찰의) 함정 수사",
+      "example_en": "The criticism stung, but the team used it to improve the product.",
+      "example_ko": "비판은 뼈아팠지만 팀은 그것을 제품 개선에 활용했다.",
+      "collocations": [
+        "sting operation",
+        "the sting of defeat"
+      ],
+      "note": "sting-stung-stung. 벌이 '쏘다'에서 마음이 '쓰라리다'로 확장. 뉴스의 sting operation은 '함정 수사' — 범인을 미끼로 '콕 찔러' 잡는 작전이라 외우면 된다.",
+      "family": [
+        {
+          "word": "stinging",
+          "pos": "a.",
+          "ko": "따끔한, 신랄한 (stinging criticism)"
+        }
+      ]
+    },
+    {
+      "headword": "immune",
+      "pos": "a.",
+      "ko": "면역인; 영향을 받지 않는 (to/from)",
+      "example_en": "No industry is immune to rising energy costs.",
+      "example_ko": "어떤 산업도 에너지 비용 상승의 영향에서 자유롭지 않다.",
+      "collocations": [
+        "immune to criticism",
+        "immune system",
+        "immune from prosecution"
+      ],
+      "note": "의학 '면역인'에서 '~에 끄떡없는'으로 확장 — 시사에선 'A is not immune to B(A도 B를 피할 수 없다)'가 단골 문형. immune to는 영향, immune from은 법적 면제(처벌·소송)에 주로 붙는다.",
+      "family": [
+        {
+          "word": "immunity",
+          "pos": "n.",
+          "ko": "면역; (법적) 면책"
+        },
+        {
+          "word": "immunize",
+          "pos": "v.",
+          "ko": "면역시키다, 예방 접종하다"
+        }
+      ]
+    },
+    {
+      "headword": "champion",
+      "pos": "v. / n.",
+      "ko": "옹호하다, 앞장서 지지하다; 옹호자, 우승자",
+      "example_en": "She has long championed flexible working hours for parents.",
+      "example_ko": "그녀는 오래전부터 부모를 위한 유연 근무제를 앞장서 지지해 왔다.",
+      "collocations": [
+        "champion a cause",
+        "champion of reform"
+      ],
+      "note": "'우승자'로만 알면 독해에서 막힌다 — 동사 champion은 '(대의·정책을) 위해 싸우다·옹호하다'. 원래 중세에 남을 대신해 결투하던 투사를 뜻해서 '~의 편에 서서 싸우다'가 된 것.",
+      "related": [
+        {
+          "word": "advocate",
+          "ko": "옹호하다",
+          "note": "거의 동의어 — champion이 더 적극적·열성적으로 앞장선다는 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "perseverance",
+      "pos": "n.",
+      "ko": "끈기, 인내",
+      "example_en": "Building a startup requires perseverance as much as talent.",
+      "example_ko": "스타트업을 키우려면 재능만큼이나 끈기가 필요하다.",
+      "collocations": [
+        "sheer perseverance",
+        "patience and perseverance"
+      ],
+      "note": "per-(끝까지) + severe(엄격한) — 힘든 상황에서도 끝까지 버티는 것. 강세가 -VE-에 온다(per·se·VEER·ance). 긍정적 단어지만 지문처럼 '재평가 없는 끈기'는 고집(stubbornness)이 된다.",
+      "family": [
+        {
+          "word": "persevere",
+          "pos": "v.",
+          "ko": "꾸준히 해 나가다, 버티다 (persevere with/in)"
+        }
+      ],
+      "related": [
+        {
+          "word": "persistence",
+          "ko": "끈질김, 지속",
+          "note": "persistence는 좋은 데도 나쁜 데도(persistent cough 계속되는 기침) 쓰지만 perseverance는 거의 칭찬"
+        }
+      ]
+    },
+    {
+      "headword": "reassess",
+      "pos": "v.",
+      "ko": "재평가하다, 다시 검토하다",
+      "example_en": "Investors are reassessing their exposure to commercial real estate.",
+      "example_ko": "투자자들은 상업용 부동산에 대한 노출 정도를 재검토하고 있다.",
+      "collocations": [
+        "reassess the situation",
+        "reassess priorities"
+      ],
+      "note": "re-(다시) + assess(평가하다). assess는 '세금 액수를 매기다'에서 나와 금액·가치·위험을 따지는 평가에 쓴다 — risk assessment(위험 평가).",
+      "family": [
+        {
+          "word": "assess",
+          "pos": "v.",
+          "ko": "평가하다, (액수를) 산정하다"
+        },
+        {
+          "word": "reassessment",
+          "pos": "n.",
+          "ko": "재평가"
+        },
+        {
+          "word": "assessment",
+          "pos": "n.",
+          "ko": "평가"
+        }
+      ]
+    },
+    {
+      "headword": "ruinous",
+      "pos": "a.",
+      "ko": "파멸적인, 막대한 손해를 끼치는",
+      "example_en": "The lawsuit resulted in ruinous legal fees for the small firm.",
+      "example_ko": "그 소송으로 작은 회사는 감당 못 할 소송 비용을 떠안았다.",
+      "collocations": [
+        "ruinous cost",
+        "ruinously expensive"
+      ],
+      "note": "ruin(파멸시키다) + -ous(~의 성질을 가진). ruined는 '이미 망가진'(결과), ruinous는 '망하게 만드는'(원인) — 형용사 어미에 따라 방향이 다르다.",
+      "family": [
+        {
+          "word": "ruin",
+          "pos": "v. / n.",
+          "ko": "파멸시키다; 파멸, 폐허(ruins)"
+        },
+        {
+          "word": "ruined",
+          "pos": "a.",
+          "ko": "망가진, 폐허가 된"
+        }
+      ]
+    },
+    {
+      "headword": "rationalize",
+      "pos": "v.",
+      "ko": "(그럴듯하게) 정당화하다; (조직을) 합리화·효율화하다",
+      "example_en": "He rationalized the extra spending as a long-term investment.",
+      "example_ko": "그는 추가 지출을 장기 투자라며 정당화했다.",
+      "collocations": [
+        "rationalize a decision",
+        "rationalize operations"
+      ],
+      "note": "심리학에선 '핑계를 대며 자기 합리화하다'(부정적), 경영에선 '군살을 빼 효율화하다'(구조조정 완곡어) — 같은 단어가 문맥에 따라 정반대 평가를 받는다.",
+      "family": [
+        {
+          "word": "rational",
+          "pos": "a.",
+          "ko": "합리적인, 이성적인"
+        },
+        {
+          "word": "rationalization",
+          "pos": "n.",
+          "ko": "자기 합리화; 효율화"
+        }
+      ],
+      "related": [
+        {
+          "word": "rationale",
+          "ko": "근거, 논리적 이유",
+          "note": "철자 비슷 — rationale(명사, 근거)와 rationalize(동사, 정당화하다)를 구분"
+        }
+      ]
+    },
+    {
+      "headword": "hindsight",
+      "pos": "n.",
+      "ko": "(일이 끝난 뒤의) 깨달음, 사후 판단",
+      "example_en": "In hindsight, the expansion was clearly too aggressive.",
+      "example_ko": "돌이켜 보면 그 확장은 분명 지나치게 공격적이었다.",
+      "collocations": [
+        "in hindsight",
+        "with the benefit of hindsight",
+        "hindsight bias"
+      ],
+      "note": "hind(뒤의) + sight(봄) = '뒤돌아봄'. 반대말 foresight(fore 앞 + sight = 선견지명). 속담 Hindsight is 20/20(지나고 나면 다 잘 보인다)도 함께.",
+      "related": [
+        {
+          "word": "foresight",
+          "ko": "선견지명",
+          "note": "정반대 방향 — 미리 내다보는 능력"
+        },
+        {
+          "word": "insight",
+          "ko": "통찰",
+          "note": "안을 들여다보는 것 — 시간 방향과 무관"
+        }
+      ]
+    },
+    {
+      "headword": "write off",
+      "pos": "phr. v.",
+      "ko": "(손실·부채를) 장부에서 털다, 손실 처리하다; 실패로 단정하다",
+      "example_en": "The bank wrote off $2 billion in bad loans last quarter.",
+      "example_ko": "그 은행은 지난 분기 20억 달러의 부실 대출을 손실 처리했다.",
+      "collocations": [
+        "write off a debt",
+        "write off as a loss"
+      ],
+      "note": "장부에서 '지워(off) 버리다'. 명사 write-off는 '손실 처리액', 영국에선 '폐차 수준으로 부서진 차'. 사람에게 쓰면 '가망 없다고 포기하다'(Don't write him off yet).",
+      "family": [
+        {
+          "word": "write-off",
+          "pos": "n.",
+          "ko": "손실 처리(액), 대손 상각"
+        }
+      ],
+      "related": [
+        {
+          "word": "write down",
+          "ko": "자산 가치를 낮춰 잡다(감액)",
+          "note": "write off는 전액을 지우는 것, write down은 일부만 깎는 것"
+        }
+      ]
+    }
+  ]
+}
