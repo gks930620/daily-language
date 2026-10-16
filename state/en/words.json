@@ -3690,6 +3690,51 @@
     },
     "write off": {
       "added_on": "2026-10-16"
+    },
+    "predator": {
+      "added_on": "2026-10-17"
+    },
+    "prey": {
+      "added_on": "2026-10-17"
+    },
+    "graze": {
+      "added_on": "2026-10-17"
+    },
+    "reintroduce": {
+      "added_on": "2026-10-17"
+    },
+    "regenerate": {
+      "added_on": "2026-10-17"
+    },
+    "extinct": {
+      "added_on": "2026-10-17"
+    },
+    "cull": {
+      "added_on": "2026-10-17"
+    },
+    "carcass": {
+      "added_on": "2026-10-17"
+    },
+    "scavenger": {
+      "added_on": "2026-10-17"
+    },
+    "keystone": {
+      "added_on": "2026-10-17"
+    },
+    "compelling": {
+      "added_on": "2026-10-17"
+    },
+    "oversimplify": {
+      "added_on": "2026-10-17"
+    },
+    "plight": {
+      "added_on": "2026-10-17"
+    },
+    "embolden": {
+      "added_on": "2026-10-17"
+    },
+    "misgiving": {
+      "added_on": "2026-10-17"
     }
   }
 }

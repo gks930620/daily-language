@@ -1,0 +1,362 @@
+{
+  "date": "2026-10-17",
+  "words": [
+    {
+      "headword": "predator",
+      "pos": "n.",
+      "ko": "포식자; (남을 등치는) 약탈자",
+      "example_en": "Without natural predators, the deer population grew so large that it damaged local farms.",
+      "example_ko": "천적이 없자 사슴 개체 수가 너무 늘어나 지역 농장에 피해를 주었다.",
+      "collocations": [
+        "natural predator",
+        "apex predator",
+        "online predator"
+      ],
+      "note": "어원: praeda(약탈물) — '전리품을 노리는 자'. 이미 아는 predatory(약탈적인 — predatory lending 약탈적 대출)와 같은 뿌리라 동물·금융 양쪽에 다 쓰인다.",
+      "family": [
+        {
+          "word": "predatory",
+          "pos": "a.",
+          "ko": "포식성의; 약탈적인"
+        },
+        {
+          "word": "predation",
+          "pos": "n.",
+          "ko": "포식 (작용)"
+        }
+      ],
+      "related": [
+        {
+          "word": "prey",
+          "ko": "먹이, 사냥감",
+          "note": "반대 짝 — predator(잡아먹는 쪽) vs prey(잡아먹히는 쪽)"
+        }
+      ]
+    },
+    {
+      "headword": "prey",
+      "pos": "n./v.",
+      "ko": "먹이, 사냥감; (on) ~을 잡아먹다, 등쳐먹다",
+      "example_en": "Scammers often prey on elderly people who live alone.",
+      "example_ko": "사기꾼들은 혼자 사는 노인들을 노리는 경우가 많다.",
+      "collocations": [
+        "fall prey to",
+        "prey on",
+        "easy prey"
+      ],
+      "note": "fall prey to ~ = '~의 희생양이 되다'로 시사에서 동물이 아닌 사람·기업에도 자주 쓴다(fall prey to scams/hackers). 동사는 반드시 prey on + 대상.",
+      "related": [
+        {
+          "word": "pray",
+          "ko": "기도하다",
+          "note": "발음이 똑같은 동음이의어 — 철자 e(먹이)와 a(기도)로만 구별"
+        }
+      ]
+    },
+    {
+      "headword": "graze",
+      "pos": "v.",
+      "ko": "(가축이) 풀을 뜯다; 살짝 스치다(찰과상)",
+      "example_en": "The cattle are allowed to graze on public land for a small annual fee.",
+      "example_ko": "소들은 적은 연간 사용료를 내고 공유지에서 풀을 뜯을 수 있다.",
+      "collocations": [
+        "graze on",
+        "grazing land",
+        "grazing rights"
+      ],
+      "note": "grass(풀)와 같은 뿌리 — 'grass를 먹다'로 외우면 쉽다. 사람에게 쓰면 '조금씩 군것질하다', 또 '살짝 스치다(a graze on the knee 무릎 찰과상)'라는 뜻도 있다.",
+      "family": [
+        {
+          "word": "grazing",
+          "pos": "n.",
+          "ko": "방목"
+        },
+        {
+          "word": "overgrazing",
+          "pos": "n.",
+          "ko": "과잉 방목(풀이 남아나지 않게 됨)"
+        }
+      ]
+    },
+    {
+      "headword": "reintroduce",
+      "pos": "v.",
+      "ko": "(사라진 종을) 재도입하다; (제도·상품을) 다시 도입하다",
+      "example_en": "The city plans to reintroduce its mask requirement if infections rise again.",
+      "example_ko": "시는 감염이 다시 늘면 마스크 의무를 재도입할 계획이다.",
+      "collocations": [
+        "reintroduce a species",
+        "reintroduce a policy"
+      ],
+      "note": "re-(다시) + introduce(도입하다). 생태 기사에선 '멸종된 지역에 종을 되돌려 놓다', 경제 기사에선 '폐지했던 세금·규제를 부활시키다'로 쓰인다.",
+      "family": [
+        {
+          "word": "reintroduction",
+          "pos": "n.",
+          "ko": "재도입"
+        }
+      ]
+    },
+    {
+      "headword": "regenerate",
+      "pos": "v.",
+      "ko": "재생하다, 다시 자라나다; (지역·경제를) 부흥시키다",
+      "example_en": "Some lizards can regenerate their tails after losing them to a predator.",
+      "example_ko": "어떤 도마뱀은 포식자에게 꼬리를 잃은 뒤 다시 자라나게 할 수 있다.",
+      "collocations": [
+        "regenerate tissue",
+        "regenerate the economy",
+        "regenerative braking"
+      ],
+      "note": "re-(다시) + gen(낳다, 생기다) — gene·generate·genesis와 같은 뿌리. 형용사 regenerative는 전기차의 '회생 제동(regenerative braking)'·'재생 농업'에 자주 나온다.",
+      "family": [
+        {
+          "word": "regeneration",
+          "pos": "n.",
+          "ko": "재생; (도시) 재개발"
+        },
+        {
+          "word": "regenerative",
+          "pos": "a.",
+          "ko": "재생의, 재생시키는"
+        }
+      ]
+    },
+    {
+      "headword": "extinct",
+      "pos": "a.",
+      "ko": "멸종된; (화산이) 활동을 멈춘",
+      "example_en": "Many local dialects could become extinct within a generation.",
+      "example_ko": "많은 지역 방언이 한 세대 안에 사라질 수도 있다.",
+      "collocations": [
+        "go extinct",
+        "become extinct",
+        "extinct volcano"
+      ],
+      "note": "ex-(밖으로) + stinct(찌르다·끄다) — 원래 '불을 끄다(extinguish)'와 같은 말. 불이 꺼지듯 종이 꺼진 것. 소화기 = fire extinguisher.",
+      "family": [
+        {
+          "word": "extinction",
+          "pos": "n.",
+          "ko": "멸종"
+        },
+        {
+          "word": "extinguish",
+          "pos": "v.",
+          "ko": "(불을) 끄다; (희망을) 꺾다"
+        }
+      ],
+      "related": [
+        {
+          "word": "endangered",
+          "ko": "멸종 위기에 처한",
+          "note": "단계 차이 — endangered(위기) → extinct(이미 멸종)"
+        },
+        {
+          "word": "distinct",
+          "ko": "뚜렷한, 별개의",
+          "note": "철자가 비슷한 혼동어 — 뜻은 전혀 무관"
+        }
+      ]
+    },
+    {
+      "headword": "cull",
+      "pos": "v./n.",
+      "ko": "(개체 수 조절을 위해) 도태시키다, 살처분하다; 추려내다",
+      "example_en": "Farmers were ordered to cull thousands of chickens to stop the spread of bird flu.",
+      "example_ko": "농민들은 조류독감 확산을 막기 위해 닭 수천 마리를 살처분하라는 명령을 받았다.",
+      "collocations": [
+        "cull a herd",
+        "mass cull",
+        "cull from"
+      ],
+      "note": "collect(모으다)와 같은 뿌리로 원래 '골라내다'. 그래서 동물에 쓰면 '솎아 내 죽이다', 자료·인재에 쓰면 '추려 뽑다(culled from the archives)'로 뜻이 갈린다.",
+      "related": [
+        {
+          "word": "slaughter",
+          "ko": "도살하다",
+          "note": "slaughter는 식용 도축 전반, cull은 '수를 줄이려고' 골라 죽이는 것"
+        }
+      ]
+    },
+    {
+      "headword": "carcass",
+      "pos": "n.",
+      "ko": "(동물의) 사체; (건물·차량의) 잔해, 뼈대",
+      "example_en": "Hikers reported finding the carcass of a deer near the trail.",
+      "example_ko": "등산객들이 등산로 근처에서 사슴 사체를 발견했다고 신고했다.",
+      "collocations": [
+        "animal carcass",
+        "whale carcass"
+      ],
+      "note": "동물에만 쓴다 — 사람의 시신은 body·corpse. 사람에게 carcass를 쓰면 경멸·농담조('네 몸뚱이')가 되므로 주의.",
+      "related": [
+        {
+          "word": "corpse",
+          "ko": "(사람의) 시체",
+          "note": "corpse는 사람, carcass는 동물"
+        }
+      ]
+    },
+    {
+      "headword": "scavenger",
+      "pos": "n.",
+      "ko": "죽은 고기를 먹는 동물; 폐품을 뒤지는 사람",
+      "example_en": "Vultures and other scavengers clean up carcasses that would otherwise spread disease.",
+      "example_ko": "독수리 같은 청소동물들은 그대로 두면 질병을 퍼뜨릴 사체를 치워 준다.",
+      "collocations": [
+        "scavenger hunt",
+        "act as a scavenger"
+      ],
+      "note": "동사 scavenge(뒤져서 찾아내다)는 쓰레기·폐품뿐 아니라 '이리저리 긁어모으다'로도 쓴다. 놀이 'scavenger hunt(보물찾기·물건 찾기 게임)'로 기억하면 쉽다.",
+      "family": [
+        {
+          "word": "scavenge",
+          "pos": "v.",
+          "ko": "(쓰레기 등을) 뒤지다; 긁어모으다"
+        }
+      ],
+      "related": [
+        {
+          "word": "predator",
+          "ko": "포식자",
+          "note": "predator는 직접 사냥, scavenger는 남이 죽인 것을 먹는다"
+        }
+      ]
+    },
+    {
+      "headword": "keystone",
+      "pos": "n./a.",
+      "ko": "핵심, 근간; (아치의) 쐐기돌",
+      "example_en": "The new trade agreement is the keystone of the government's economic strategy.",
+      "example_ko": "새 무역 협정은 정부 경제 전략의 핵심이다.",
+      "collocations": [
+        "keystone species",
+        "keystone of a policy"
+      ],
+      "note": "아치 꼭대기에 박는 돌 하나 — 빼면 아치 전체가 무너진다. 그래서 keystone species(핵심종)는 '사라지면 생태계 전체가 무너지는 종'(예: 늑대, 해달).",
+      "related": [
+        {
+          "word": "cornerstone",
+          "ko": "주춧돌, 초석",
+          "note": "거의 동의어 — cornerstone은 '토대·출발점', keystone은 '빠지면 전체가 무너지는 연결 고리'"
+        }
+      ]
+    },
+    {
+      "headword": "compelling",
+      "pos": "a.",
+      "ko": "설득력 있는; 눈을 뗄 수 없는",
+      "example_en": "The lawyer presented compelling evidence that her client was elsewhere at the time.",
+      "example_ko": "변호사는 의뢰인이 당시 다른 곳에 있었다는 설득력 있는 증거를 제시했다.",
+      "collocations": [
+        "compelling evidence",
+        "compelling reason",
+        "compelling story"
+      ],
+      "note": "이미 아는 compel(억지로 ~하게 하다)의 -ing형인데 뜻이 '강요하는'이 아니라 '(마음을) 끌어당기는·반박하기 어려운'으로 갈라진다. compelling reason = 따를 수밖에 없는 이유.",
+      "family": [
+        {
+          "word": "compel",
+          "pos": "v.",
+          "ko": "강요하다, ~하게 만들다"
+        },
+        {
+          "word": "compulsion",
+          "pos": "n.",
+          "ko": "강박, 강요"
+        },
+        {
+          "word": "compulsory",
+          "pos": "a.",
+          "ko": "의무적인"
+        }
+      ]
+    },
+    {
+      "headword": "oversimplify",
+      "pos": "v.",
+      "ko": "지나치게 단순화하다",
+      "example_en": "Critics say the report oversimplifies the causes of youth unemployment.",
+      "example_ko": "비판자들은 그 보고서가 청년 실업의 원인을 지나치게 단순화한다고 말한다.",
+      "collocations": [
+        "grossly oversimplify",
+        "at the risk of oversimplifying"
+      ],
+      "note": "over-(지나치게) 접두사 세트로 외우면 효율적 — overstate(과장하다)·overestimate(과대평가하다)·overreact(과잉 반응하다). 'At the risk of oversimplifying, ~'은 '단순화하자면'이라는 회의·발표 단골 표현.",
+      "family": [
+        {
+          "word": "oversimplification",
+          "pos": "n.",
+          "ko": "지나친 단순화"
+        }
+      ],
+      "related": [
+        {
+          "word": "simplistic",
+          "ko": "지나치게 단순한",
+          "note": "simple(단순한, 중립)과 달리 simplistic은 '단순무식한'이라는 비판조"
+        }
+      ]
+    },
+    {
+      "headword": "plight",
+      "pos": "n.",
+      "ko": "곤경, 궁지",
+      "example_en": "The documentary drew attention to the plight of workers stranded without pay.",
+      "example_ko": "그 다큐멘터리는 임금도 못 받고 오도 가도 못하는 노동자들의 곤경에 관심을 모았다.",
+      "collocations": [
+        "the plight of refugees",
+        "highlight the plight",
+        "economic plight"
+      ],
+      "note": "거의 항상 'the plight of + 사람들' 형태로, 동정을 불러일으키는 딱한 처지에 쓴다. 단순한 '문제(problem)'가 아니라 '안타까운 처지'라는 감정이 실린 말.",
+      "related": [
+        {
+          "word": "predicament",
+          "ko": "곤경",
+          "note": "predicament는 '빠져나가기 어려운 상황' 자체, plight는 '딱하고 동정이 가는 처지'에 무게"
+        }
+      ]
+    },
+    {
+      "headword": "embolden",
+      "pos": "v.",
+      "ko": "대담하게 만들다, 기세를 북돋다",
+      "example_en": "Strong sales emboldened the company to expand into overseas markets.",
+      "example_ko": "판매 호조에 고무된 회사는 해외 시장 진출에 나섰다.",
+      "collocations": [
+        "be emboldened by",
+        "embolden A to do"
+      ],
+      "note": "em-(~하게 만들다) + bold(대담한). en-/em- 접두사 동사 세트: enable(가능하게 하다)·enlarge(크게 하다)·empower(권한을 주다). 시사에선 '나쁜 쪽을 기고만장하게 하다'는 부정적 뉘앙스가 잦다.",
+      "related": [
+        {
+          "word": "encourage",
+          "ko": "격려하다",
+          "note": "encourage는 중립·긍정, embolden은 '(위험을 무릅쓸 만큼) 대담해지게' — 비판 기사에 자주"
+        }
+      ]
+    },
+    {
+      "headword": "misgiving",
+      "pos": "n.",
+      "ko": "(주로 복수) 불안, 의구심",
+      "example_en": "Several board members expressed misgivings about the merger.",
+      "example_ko": "이사 여러 명이 합병에 대해 우려를 표명했다.",
+      "collocations": [
+        "have misgivings about",
+        "express misgivings",
+        "serious misgivings"
+      ],
+      "note": "mis-(잘못) + give — '마음이 잘못 내주다' 즉 속으로 꺼림칙한 느낌. 거의 항상 복수형 misgivings로 쓰며 doubt보다 '찜찜한 불안'에 가깝다.",
+      "related": [
+        {
+          "word": "reservation",
+          "ko": "(주로 복수) 의구심, 유보",
+          "note": "have reservations about ~도 같은 뜻 — '예약'이 아니라 '마음속 유보'"
+        }
+      ]
+    }
+  ]
+}

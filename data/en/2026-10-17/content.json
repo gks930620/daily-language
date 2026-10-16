@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-17",
+  "passage_note": "과학·생태 — 늑대가 돌아오자 강의 모습까지 바뀌었다? '재야생화(rewilding)'의 매혹적인 이야기와 그 비용을 떠안는 목장주들(논설)",
+  "sentences": [
+    {
+      "en": "When wolves were reintroduced to Yellowstone National Park in 1995, few anticipated that their return would reshape not only the behavior of elk but, according to some ecologists, the very course of the rivers.",
+      "ko": "1995년 옐로스톤 국립공원에 늑대를 다시 들여왔을 때, 그들의 귀환이 엘크(사슴)의 행동뿐 아니라, 일부 생태학자들에 따르면 강의 물줄기 자체까지 바꿔 놓으리라고 예상한 사람은 거의 없었다.",
+      "structure": "· When ~ 1995 : 시간의 부사절, 주절은 few anticipated that ~.\n· few(거의 없는 사람)가 주어 — 부정의 의미를 담은 주어로 '~한 사람은 거의 없었다'로 해석.\n· not only A but (also) B : A뿐 아니라 B도. 사이에 according to some ecologists가 삽입구로 끼어 있다.\n· the very + 명사 = '바로 그 ~, ~ 자체' (강조의 very).",
+      "vocab_notes": [
+        { "word": "wolf (wolves)", "ko": "늑대" },
+        { "word": "reintroduce", "ko": "(사라진 종을) 다시 들여오다, 재도입하다" },
+        { "word": "national park", "ko": "국립공원" },
+        { "word": "anticipate", "ko": "예상하다, 내다보다" },
+        { "word": "return", "ko": "귀환, 돌아옴" },
+        { "word": "reshape", "ko": "재편하다, 모양을 바꾸다" },
+        { "word": "behavior", "ko": "행동" },
+        { "word": "elk", "ko": "엘크(큰 사슴의 일종)" },
+        { "word": "according to", "ko": "~에 따르면" },
+        { "word": "ecologist", "ko": "생태학자" },
+        { "word": "the very ~", "ko": "바로 그 ~, ~ 자체" },
+        { "word": "course", "ko": "(강의) 물길, 흐름" }
+      ]
+    },
+    {
+      "en": "The theory, known as a trophic cascade, holds that by keeping grazing herds on the move, predators allowed overbrowsed willows and aspens to regenerate along the riverbanks, stabilizing soil that had long been eroding.",
+      "ko": "'영양 단계 연쇄 효과'라고 알려진 이 이론에 따르면, 포식자들이 풀을 뜯는 무리를 계속 움직이게 만듦으로써 지나치게 뜯어 먹혔던 버드나무와 사시나무가 강둑을 따라 다시 자라날 수 있었고, 그 덕에 오랫동안 깎여 나가던 흙이 안정되었다.",
+      "structure": "· The theory, known as ~, holds that ~ : 과거분사구 known as ~가 콤마 사이에서 주어를 보충 설명(삽입). hold that ~ = '~라고 주장하다/보다'.\n· by + -ing : '~함으로써'(수단). keep + 목적어 + on the move = 목적어를 계속 움직이게 하다.\n· allow + 목적어 + to부정사 : 목적어가 ~하도록 허용하다/가능하게 하다.\n· stabilizing soil ~ : 결과를 나타내는 분사구문(= and they stabilized soil).\n· that had long been eroding : 관계대명사절, 과거완료진행 — 그 시점 이전부터 계속 진행되던 일.",
+      "vocab_notes": [
+        { "word": "theory", "ko": "이론" },
+        { "word": "known as", "ko": "~라고 알려진" },
+        { "word": "trophic cascade", "ko": "영양 단계 연쇄 효과(먹이사슬 위쪽 변화가 아래로 연쇄적으로 번지는 현상)" },
+        { "word": "hold", "ko": "(이론이) ~라고 보다, 주장하다" },
+        { "word": "graze", "ko": "(가축·초식동물이) 풀을 뜯다" },
+        { "word": "herd", "ko": "(동물의) 무리, 떼" },
+        { "word": "on the move", "ko": "계속 이동하는, 움직이는" },
+        { "word": "predator", "ko": "포식자" },
+        { "word": "overbrowsed", "ko": "(나뭇잎·순이) 지나치게 뜯어 먹힌" },
+        { "word": "willow", "ko": "버드나무" },
+        { "word": "aspen", "ko": "사시나무" },
+        { "word": "regenerate", "ko": "재생하다, 다시 자라나다" },
+        { "word": "riverbank", "ko": "강둑" },
+        { "word": "stabilize", "ko": "안정시키다" },
+        { "word": "soil", "ko": "흙, 토양" },
+        { "word": "erode", "ko": "침식되다, 깎여 나가다" }
+      ]
+    },
+    {
+      "en": "This compelling narrative has since made rewilding — the deliberate restoration of ecosystems by reintroducing species that humans once wiped out — one of the most fashionable ideas in conservation.",
+      "ko": "이 설득력 있는 이야기 덕분에 그 이후로 '재야생화' — 인간이 한때 몰살시킨 종을 다시 들여와 생태계를 의도적으로 복원하는 것 — 는 자연 보전 분야에서 가장 유행하는 발상 중 하나가 되었다.",
+      "structure": "· make + 목적어 + 목적격보어(명사) : 목적어를 ~으로 만들다. 목적어 rewilding과 보어 one of the most fashionable ideas 사이에 대시(—)로 동격 설명이 끼어 있다.\n· has since made : 현재완료 + since(부사, '그 이후로') — 과거부터 지금까지 이어진 결과.\n· species that humans once wiped out : 목적격 관계대명사 that절이 species를 수식.\n· one of the + 최상급 + 복수명사 = '가장 ~한 것 중 하나'.",
+      "vocab_notes": [
+        { "word": "compelling", "ko": "설득력 있는, 마음을 사로잡는" },
+        { "word": "narrative", "ko": "이야기, 서사" },
+        { "word": "since", "ko": "(부사) 그 이후로" },
+        { "word": "rewilding", "ko": "재야생화(사라진 종을 되돌려 자연을 야생 상태로 복원하는 것)" },
+        { "word": "deliberate", "ko": "의도적인, 계획된" },
+        { "word": "restoration", "ko": "복원, 회복" },
+        { "word": "ecosystem", "ko": "생태계" },
+        { "word": "species", "ko": "(생물의) 종" },
+        { "word": "wipe out", "ko": "전멸시키다, 싹 쓸어버리다" },
+        { "word": "fashionable", "ko": "유행하는, 인기 있는" },
+        { "word": "conservation", "ko": "(자연) 보전, 보호" }
+      ]
+    },
+    {
+      "en": "Yet recent studies suggest the original story was oversimplified: drought, hunting by humans, and the recovery of bears may have played roles as large as those of the wolves themselves.",
+      "ko": "그러나 최근 연구들은 원래의 이야기가 지나치게 단순화되었음을 시사한다. 가뭄, 인간의 사냥, 곰 개체 수의 회복이 늑대 자신만큼이나 큰 역할을 했을 수도 있다는 것이다.",
+      "structure": "· suggest (that) ~ : 명사절 접속사 that 생략. 여기서 suggest는 '제안하다'가 아니라 '시사하다'이므로 that절에 should(당위)를 쓰지 않고 시제를 그대로 맞춘다(was).\n· 콜론(:) 뒤는 앞 내용의 구체적 설명.\n· may have p.p. : 과거에 대한 추측 '~했을지도 모른다'.\n· as large as those of ~ : 원급 비교. those는 앞의 roles를 대신하는 대명사(반복 회피).\n· the wolves themselves : 재귀대명사의 강조 용법 '늑대 그 자체'.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그러나, 하지만" },
+        { "word": "recent", "ko": "최근의" },
+        { "word": "suggest", "ko": "시사하다, 암시하다" },
+        { "word": "original", "ko": "원래의, 최초의" },
+        { "word": "oversimplify", "ko": "지나치게 단순화하다" },
+        { "word": "drought", "ko": "가뭄" },
+        { "word": "hunting", "ko": "사냥" },
+        { "word": "recovery", "ko": "회복" },
+        { "word": "bear", "ko": "곰" },
+        { "word": "play a role", "ko": "역할을 하다" }
+      ]
+    },
+    {
+      "en": "More importantly, for the ranchers whose livestock now fall prey to these predators, rewilding is less an elegant scientific experiment than a cost imposed by distant urban voters who will never have to bear it.",
+      "ko": "더 중요한 것은, 가축이 이제 이 포식자들의 먹잇감이 되는 목장주들에게 재야생화란 우아한 과학 실험이라기보다는, 그 비용을 결코 떠안을 일이 없는 먼 도시의 유권자들이 떠넘긴 비용이라는 점이다.",
+      "structure": "· More importantly : 문장 전체를 수식하는 부사구 '더 중요한 것은'.\n· the ranchers whose livestock ~ : 소유격 관계대명사 whose — '그들의 가축이 ~하는 목장주들'.\n· less A than B : A라기보다는 B (= more B than A). A와 B에 명사구가 대칭으로 온다.\n· a cost imposed by ~ : 과거분사구가 cost를 뒤에서 수식(수동 '부과된').\n· voters who will never have to bear it : 주격 관계대명사절, it = the cost. bear는 여기서 '(비용·부담을) 지다'.",
+      "vocab_notes": [
+        { "word": "more importantly", "ko": "더 중요한 것은" },
+        { "word": "rancher", "ko": "목장주, 목축업자" },
+        { "word": "livestock", "ko": "가축" },
+        { "word": "fall prey to", "ko": "~의 먹이가 되다, ~에 희생되다" },
+        { "word": "predator", "ko": "포식자" },
+        { "word": "less A than B", "ko": "A라기보다는 B" },
+        { "word": "elegant", "ko": "우아한, (이론이) 깔끔한" },
+        { "word": "scientific experiment", "ko": "과학 실험" },
+        { "word": "impose", "ko": "(비용·부담을) 부과하다, 떠넘기다" },
+        { "word": "distant", "ko": "멀리 떨어진" },
+        { "word": "urban", "ko": "도시의" },
+        { "word": "voter", "ko": "유권자" },
+        { "word": "bear", "ko": "(비용·부담을) 지다, 감당하다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "predator",
+      "pos": "n.",
+      "ko": "포식자; (남을 등치는) 약탈자",
+      "example_en": "Without natural predators, the deer population grew so large that it damaged local farms.",
+      "example_ko": "천적이 없자 사슴 개체 수가 너무 늘어나 지역 농장에 피해를 주었다.",
+      "collocations": ["natural predator", "apex predator", "online predator"],
+      "note": "어원: praeda(약탈물) — '전리품을 노리는 자'. 이미 아는 predatory(약탈적인 — predatory lending 약탈적 대출)와 같은 뿌리라 동물·금융 양쪽에 다 쓰인다.",
+      "family": [
+        { "word": "predatory", "pos": "a.", "ko": "포식성의; 약탈적인" },
+        { "word": "predation", "pos": "n.", "ko": "포식 (작용)" }
+      ],
+      "related": [
+        { "word": "prey", "ko": "먹이, 사냥감", "note": "반대 짝 — predator(잡아먹는 쪽) vs prey(잡아먹히는 쪽)" }
+      ]
+    },
+    {
+      "headword": "prey",
+      "pos": "n./v.",
+      "ko": "먹이, 사냥감; (on) ~을 잡아먹다, 등쳐먹다",
+      "example_en": "Scammers often prey on elderly people who live alone.",
+      "example_ko": "사기꾼들은 혼자 사는 노인들을 노리는 경우가 많다.",
+      "collocations": ["fall prey to", "prey on", "easy prey"],
+      "note": "fall prey to ~ = '~의 희생양이 되다'로 시사에서 동물이 아닌 사람·기업에도 자주 쓴다(fall prey to scams/hackers). 동사는 반드시 prey on + 대상.",
+      "related": [
+        { "word": "pray", "ko": "기도하다", "note": "발음이 똑같은 동음이의어 — 철자 e(먹이)와 a(기도)로만 구별" }
+      ]
+    },
+    {
+      "headword": "graze",
+      "pos": "v.",
+      "ko": "(가축이) 풀을 뜯다; 살짝 스치다(찰과상)",
+      "example_en": "The cattle are allowed to graze on public land for a small annual fee.",
+      "example_ko": "소들은 적은 연간 사용료를 내고 공유지에서 풀을 뜯을 수 있다.",
+      "collocations": ["graze on", "grazing land", "grazing rights"],
+      "note": "grass(풀)와 같은 뿌리 — 'grass를 먹다'로 외우면 쉽다. 사람에게 쓰면 '조금씩 군것질하다', 또 '살짝 스치다(a graze on the knee 무릎 찰과상)'라는 뜻도 있다.",
+      "family": [
+        { "word": "grazing", "pos": "n.", "ko": "방목" },
+        { "word": "overgrazing", "pos": "n.", "ko": "과잉 방목(풀이 남아나지 않게 됨)" }
+      ]
+    },
+    {
+      "headword": "reintroduce",
+      "pos": "v.",
+      "ko": "(사라진 종을) 재도입하다; (제도·상품을) 다시 도입하다",
+      "example_en": "The city plans to reintroduce its mask requirement if infections rise again.",
+      "example_ko": "시는 감염이 다시 늘면 마스크 의무를 재도입할 계획이다.",
+      "collocations": ["reintroduce a species", "reintroduce a policy"],
+      "note": "re-(다시) + introduce(도입하다). 생태 기사에선 '멸종된 지역에 종을 되돌려 놓다', 경제 기사에선 '폐지했던 세금·규제를 부활시키다'로 쓰인다.",
+      "family": [
+        { "word": "reintroduction", "pos": "n.", "ko": "재도입" }
+      ]
+    },
+    {
+      "headword": "regenerate",
+      "pos": "v.",
+      "ko": "재생하다, 다시 자라나다; (지역·경제를) 부흥시키다",
+      "example_en": "Some lizards can regenerate their tails after losing them to a predator.",
+      "example_ko": "어떤 도마뱀은 포식자에게 꼬리를 잃은 뒤 다시 자라나게 할 수 있다.",
+      "collocations": ["regenerate tissue", "regenerate the economy", "regenerative braking"],
+      "note": "re-(다시) + gen(낳다, 생기다) — gene·generate·genesis와 같은 뿌리. 형용사 regenerative는 전기차의 '회생 제동(regenerative braking)'·'재생 농업'에 자주 나온다.",
+      "family": [
+        { "word": "regeneration", "pos": "n.", "ko": "재생; (도시) 재개발" },
+        { "word": "regenerative", "pos": "a.", "ko": "재생의, 재생시키는" }
+      ]
+    },
+    {
+      "headword": "extinct",
+      "pos": "a.",
+      "ko": "멸종된; (화산이) 활동을 멈춘",
+      "example_en": "Many local dialects could become extinct within a generation.",
+      "example_ko": "많은 지역 방언이 한 세대 안에 사라질 수도 있다.",
+      "collocations": ["go extinct", "become extinct", "extinct volcano"],
+      "note": "ex-(밖으로) + stinct(찌르다·끄다) — 원래 '불을 끄다(extinguish)'와 같은 말. 불이 꺼지듯 종이 꺼진 것. 소화기 = fire extinguisher.",
+      "family": [
+        { "word": "extinction", "pos": "n.", "ko": "멸종" },
+        { "word": "extinguish", "pos": "v.", "ko": "(불을) 끄다; (희망을) 꺾다" }
+      ],
+      "related": [
+        { "word": "endangered", "ko": "멸종 위기에 처한", "note": "단계 차이 — endangered(위기) → extinct(이미 멸종)" },
+        { "word": "distinct", "ko": "뚜렷한, 별개의", "note": "철자가 비슷한 혼동어 — 뜻은 전혀 무관" }
+      ]
+    },
+    {
+      "headword": "cull",
+      "pos": "v./n.",
+      "ko": "(개체 수 조절을 위해) 도태시키다, 살처분하다; 추려내다",
+      "example_en": "Farmers were ordered to cull thousands of chickens to stop the spread of bird flu.",
+      "example_ko": "농민들은 조류독감 확산을 막기 위해 닭 수천 마리를 살처분하라는 명령을 받았다.",
+      "collocations": ["cull a herd", "mass cull", "cull from"],
+      "note": "collect(모으다)와 같은 뿌리로 원래 '골라내다'. 그래서 동물에 쓰면 '솎아 내 죽이다', 자료·인재에 쓰면 '추려 뽑다(culled from the archives)'로 뜻이 갈린다.",
+      "related": [
+        { "word": "slaughter", "ko": "도살하다", "note": "slaughter는 식용 도축 전반, cull은 '수를 줄이려고' 골라 죽이는 것" }
+      ]
+    },
+    {
+      "headword": "carcass",
+      "pos": "n.",
+      "ko": "(동물의) 사체; (건물·차량의) 잔해, 뼈대",
+      "example_en": "Hikers reported finding the carcass of a deer near the trail.",
+      "example_ko": "등산객들이 등산로 근처에서 사슴 사체를 발견했다고 신고했다.",
+      "collocations": ["animal carcass", "whale carcass"],
+      "note": "동물에만 쓴다 — 사람의 시신은 body·corpse. 사람에게 carcass를 쓰면 경멸·농담조('네 몸뚱이')가 되므로 주의.",
+      "related": [
+        { "word": "corpse", "ko": "(사람의) 시체", "note": "corpse는 사람, carcass는 동물" }
+      ]
+    },
+    {
+      "headword": "scavenger",
+      "pos": "n.",
+      "ko": "죽은 고기를 먹는 동물; 폐품을 뒤지는 사람",
+      "example_en": "Vultures and other scavengers clean up carcasses that would otherwise spread disease.",
+      "example_ko": "독수리 같은 청소동물들은 그대로 두면 질병을 퍼뜨릴 사체를 치워 준다.",
+      "collocations": ["scavenger hunt", "act as a scavenger"],
+      "note": "동사 scavenge(뒤져서 찾아내다)는 쓰레기·폐품뿐 아니라 '이리저리 긁어모으다'로도 쓴다. 놀이 'scavenger hunt(보물찾기·물건 찾기 게임)'로 기억하면 쉽다.",
+      "family": [
+        { "word": "scavenge", "pos": "v.", "ko": "(쓰레기 등을) 뒤지다; 긁어모으다" }
+      ],
+      "related": [
+        { "word": "predator", "ko": "포식자", "note": "predator는 직접 사냥, scavenger는 남이 죽인 것을 먹는다" }
+      ]
+    },
+    {
+      "headword": "keystone",
+      "pos": "n./a.",
+      "ko": "핵심, 근간; (아치의) 쐐기돌",
+      "example_en": "The new trade agreement is the keystone of the government's economic strategy.",
+      "example_ko": "새 무역 협정은 정부 경제 전략의 핵심이다.",
+      "collocations": ["keystone species", "keystone of a policy"],
+      "note": "아치 꼭대기에 박는 돌 하나 — 빼면 아치 전체가 무너진다. 그래서 keystone species(핵심종)는 '사라지면 생태계 전체가 무너지는 종'(예: 늑대, 해달).",
+      "related": [
+        { "word": "cornerstone", "ko": "주춧돌, 초석", "note": "거의 동의어 — cornerstone은 '토대·출발점', keystone은 '빠지면 전체가 무너지는 연결 고리'" }
+      ]
+    },
+    {
+      "headword": "compelling",
+      "pos": "a.",
+      "ko": "설득력 있는; 눈을 뗄 수 없는",
+      "example_en": "The lawyer presented compelling evidence that her client was elsewhere at the time.",
+      "example_ko": "변호사는 의뢰인이 당시 다른 곳에 있었다는 설득력 있는 증거를 제시했다.",
+      "collocations": ["compelling evidence", "compelling reason", "compelling story"],
+      "note": "이미 아는 compel(억지로 ~하게 하다)의 -ing형인데 뜻이 '강요하는'이 아니라 '(마음을) 끌어당기는·반박하기 어려운'으로 갈라진다. compelling reason = 따를 수밖에 없는 이유.",
+      "family": [
+        { "word": "compel", "pos": "v.", "ko": "강요하다, ~하게 만들다" },
+        { "word": "compulsion", "pos": "n.", "ko": "강박, 강요" },
+        { "word": "compulsory", "pos": "a.", "ko": "의무적인" }
+      ]
+    },
+    {
+      "headword": "oversimplify",
+      "pos": "v.",
+      "ko": "지나치게 단순화하다",
+      "example_en": "Critics say the report oversimplifies the causes of youth unemployment.",
+      "example_ko": "비판자들은 그 보고서가 청년 실업의 원인을 지나치게 단순화한다고 말한다.",
+      "collocations": ["grossly oversimplify", "at the risk of oversimplifying"],
+      "note": "over-(지나치게) 접두사 세트로 외우면 효율적 — overstate(과장하다)·overestimate(과대평가하다)·overreact(과잉 반응하다). 'At the risk of oversimplifying, ~'은 '단순화하자면'이라는 회의·발표 단골 표현.",
+      "family": [
+        { "word": "oversimplification", "pos": "n.", "ko": "지나친 단순화" }
+      ],
+      "related": [
+        { "word": "simplistic", "ko": "지나치게 단순한", "note": "simple(단순한, 중립)과 달리 simplistic은 '단순무식한'이라는 비판조" }
+      ]
+    },
+    {
+      "headword": "plight",
+      "pos": "n.",
+      "ko": "곤경, 궁지",
+      "example_en": "The documentary drew attention to the plight of workers stranded without pay.",
+      "example_ko": "그 다큐멘터리는 임금도 못 받고 오도 가도 못하는 노동자들의 곤경에 관심을 모았다.",
+      "collocations": ["the plight of refugees", "highlight the plight", "economic plight"],
+      "note": "거의 항상 'the plight of + 사람들' 형태로, 동정을 불러일으키는 딱한 처지에 쓴다. 단순한 '문제(problem)'가 아니라 '안타까운 처지'라는 감정이 실린 말.",
+      "related": [
+        { "word": "predicament", "ko": "곤경", "note": "predicament는 '빠져나가기 어려운 상황' 자체, plight는 '딱하고 동정이 가는 처지'에 무게" }
+      ]
+    },
+    {
+      "headword": "embolden",
+      "pos": "v.",
+      "ko": "대담하게 만들다, 기세를 북돋다",
+      "example_en": "Strong sales emboldened the company to expand into overseas markets.",
+      "example_ko": "판매 호조에 고무된 회사는 해외 시장 진출에 나섰다.",
+      "collocations": ["be emboldened by", "embolden A to do"],
+      "note": "em-(~하게 만들다) + bold(대담한). en-/em- 접두사 동사 세트: enable(가능하게 하다)·enlarge(크게 하다)·empower(권한을 주다). 시사에선 '나쁜 쪽을 기고만장하게 하다'는 부정적 뉘앙스가 잦다.",
+      "related": [
+        { "word": "encourage", "ko": "격려하다", "note": "encourage는 중립·긍정, embolden은 '(위험을 무릅쓸 만큼) 대담해지게' — 비판 기사에 자주" }
+      ]
+    },
+    {
+      "headword": "misgiving",
+      "pos": "n.",
+      "ko": "(주로 복수) 불안, 의구심",
+      "example_en": "Several board members expressed misgivings about the merger.",
+      "example_ko": "이사 여러 명이 합병에 대해 우려를 표명했다.",
+      "collocations": ["have misgivings about", "express misgivings", "serious misgivings"],
+      "note": "mis-(잘못) + give — '마음이 잘못 내주다' 즉 속으로 꺼림칙한 느낌. 거의 항상 복수형 misgivings로 쓰며 doubt보다 '찜찜한 불안'에 가깝다.",
+      "related": [
+        { "word": "reservation", "ko": "(주로 복수) 의구심, 유보", "note": "have reservations about ~도 같은 뜻 — '예약'이 아니라 '마음속 유보'" }
+      ]
+    },
+    {
+      "headword": "reparation",
+      "pos": "n.",
+      "ko": "(주로 복수) 배상(금), 보상",
+      "example_en": "The victims' families are demanding reparations from the government.",
+      "example_ko": "피해자 가족들은 정부에 배상을 요구하고 있다.",
+      "collocations": ["pay reparations", "war reparations", "demand reparations"],
+      "note": "repair(고치다)와 같은 뿌리 — '잘못을 바로잡는 돈'. 전쟁·역사적 가해에 대한 국가 배상에 주로 쓰이고, 일상의 손해 보상은 compensation이 더 자연스럽다.",
+      "related": [
+        { "word": "compensation", "ko": "보상(금)", "note": "compensation은 일반 손해·급여, reparations는 잘못·가해에 대한 도덕적 배상" }
+      ]
+    },
+    {
+      "headword": "unscathed",
+      "pos": "a.",
+      "ko": "다치지 않은, 무사한",
+      "example_en": "Few small businesses emerged unscathed from the pandemic.",
+      "example_ko": "팬데믹에서 무사히 살아남은 소규모 사업체는 거의 없었다.",
+      "collocations": ["emerge unscathed", "escape unscathed", "come through unscathed"],
+      "note": "scathe(해치다)는 이제 거의 안 쓰고 un-scathed와 scathing(신랄한 — a scathing review 혹평)만 살아남았다. emerge/escape unscathed가 시사 단골 짝.",
+      "family": [
+        { "word": "scathing", "pos": "a.", "ko": "신랄한, 통렬한" }
+      ]
+    },
+    {
+      "headword": "rudimentary",
+      "pos": "a.",
+      "ko": "기초적인, 초보적인; 원시적인",
+      "example_en": "The village had only rudimentary medical facilities.",
+      "example_ko": "그 마을에는 기초적인 의료 시설밖에 없었다.",
+      "collocations": ["rudimentary knowledge", "rudimentary tools"],
+      "note": "rude(거친, 다듬지 않은)와 같은 뿌리 — '아직 다듬어지지 않은 초기 단계'. basic이 중립이라면 rudimentary는 '겨우 기본만 갖춘'이라는 부족함이 묻어난다.",
+      "family": [
+        { "word": "rudiments", "pos": "n.", "ko": "기본 원리, 기초" }
+      ],
+      "related": [
+        { "word": "rude", "ko": "무례한", "note": "같은 뿌리지만 현대 뜻은 '무례한'으로 갈라졌다" }
+      ]
+    }
+  ]
+}
