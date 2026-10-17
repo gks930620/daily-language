@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-18",
+  "words": [
+    {
+      "headword": "infiltrate",
+      "pos": "v.",
+      "ko": "침투하다, 잠입하다",
+      "example_en": "Hackers infiltrated the company's network and stayed undetected for months.",
+      "example_ko": "해커들은 그 회사의 네트워크에 침투해 몇 달 동안 발각되지 않았다.",
+      "collocations": [
+        "infiltrate a network",
+        "infiltrate the body"
+      ],
+      "note": "어원: in(안으로) + filter(거르다) — 필터를 통과해 물이 스며들듯 '조금씩 안으로 스며든다'. 그래서 물질(미세입자)에도, 사람(스파이·해커)에도 쓴다.",
+      "family": [
+        {
+          "word": "infiltration",
+          "pos": "n.",
+          "ko": "침투, 잠입"
+        },
+        {
+          "word": "filter",
+          "pos": "n./v.",
+          "ko": "여과기; 거르다"
+        }
+      ],
+      "related": [
+        {
+          "word": "invade",
+          "ko": "침략하다",
+          "note": "invade는 대놓고 밀고 들어감, infiltrate는 몰래·서서히 스며듦"
+        }
+      ]
+    },
+    {
+      "headword": "murky",
+      "pos": "a.",
+      "ko": "불분명한, 흐릿한; (물이) 탁한",
+      "example_en": "The legal status of the new service remains murky in several countries.",
+      "example_ko": "그 새 서비스의 법적 지위는 여러 나라에서 여전히 불분명하다.",
+      "collocations": [
+        "murky waters",
+        "a murky picture",
+        "murky finances"
+      ],
+      "note": "원뜻은 '흙탕물처럼 탁한' — 속이 안 보이니 비유적으로 '사정이 불분명한', 나아가 '구린(수상한)'까지 뜻한다. murky finances = 불투명하고 수상한 자금.",
+      "related": [
+        {
+          "word": "vague",
+          "ko": "막연한, 모호한",
+          "note": "vague는 표현·설명이 구체적이지 않음, murky는 상황 자체가 탁해서 들여다보기 어려움(+수상함 뉘앙스)"
+        }
+      ]
+    },
+    {
+      "headword": "ingest",
+      "pos": "v.",
+      "ko": "섭취하다, (음식·약을) 삼키다",
+      "example_en": "Children who accidentally ingest batteries need immediate medical attention.",
+      "example_ko": "실수로 건전지를 삼킨 아이는 즉시 치료를 받아야 한다.",
+      "collocations": [
+        "ingest food",
+        "accidentally ingest"
+      ],
+      "note": "in(안으로) + gest(나르다) — 몸 '안으로 나르다'. 같은 뿌리 digest(di=나누어 + 나르다 → 소화하다), suggest(밑에서 날라 오다 → 넌지시 제안하다)와 묶어 외운다.",
+      "family": [
+        {
+          "word": "ingestion",
+          "pos": "n.",
+          "ko": "섭취"
+        }
+      ],
+      "related": [
+        {
+          "word": "digest",
+          "ko": "소화하다",
+          "note": "ingest는 '입으로 넣는 것', digest는 넣은 뒤 '분해하는 것' — 순서가 다르다"
+        },
+        {
+          "word": "inhale",
+          "ko": "흡입하다",
+          "note": "입으로 삼키면 ingest, 숨으로 들이마시면 inhale"
+        }
+      ]
+    },
+    {
+      "headword": "unfounded",
+      "pos": "a.",
+      "ko": "근거 없는, 사실무근의",
+      "example_en": "The rumors of a merger turned out to be completely unfounded.",
+      "example_ko": "합병설은 완전히 근거 없는 것으로 드러났다.",
+      "collocations": [
+        "unfounded rumors",
+        "unfounded fears",
+        "completely unfounded"
+      ],
+      "note": "found는 '찾았다(find의 과거)'가 아니라 '세우다·기초를 놓다'라는 별개 동사 — foundation(토대). un + founded = '토대가 세워지지 않은' → 근거 없는.",
+      "family": [
+        {
+          "word": "found",
+          "pos": "v.",
+          "ko": "설립하다, 근거를 두다 — find의 과거형과 다른 동사"
+        },
+        {
+          "word": "foundation",
+          "pos": "n.",
+          "ko": "토대, 기초; 재단"
+        },
+        {
+          "word": "well-founded",
+          "pos": "a.",
+          "ko": "근거가 충분한"
+        }
+      ]
+    },
+    {
+      "headword": "standardize",
+      "pos": "v.",
+      "ko": "표준화하다, 규격화하다",
+      "example_en": "The industry agreed to standardize charging ports for all new devices.",
+      "example_ko": "업계는 모든 신제품의 충전 단자를 표준화하기로 합의했다.",
+      "collocations": [
+        "standardize procedures",
+        "standardized test"
+      ],
+      "note": "-ize는 '~로 만들다' 동사화 접미사: standard(표준) → standardize(표준으로 만들다) → standardization(표준화). standardized test는 '표준화 시험'(토익·수능 같은 시험).",
+      "family": [
+        {
+          "word": "standard",
+          "pos": "n./a.",
+          "ko": "표준, 기준; 표준의"
+        },
+        {
+          "word": "standardization",
+          "pos": "n.",
+          "ko": "표준화"
+        }
+      ]
+    },
+    {
+      "headword": "magnitude",
+      "pos": "n.",
+      "ko": "규모, 크기, 중대성",
+      "example_en": "Few analysts grasped the magnitude of the crisis until it was too late.",
+      "example_ko": "너무 늦어 버리기 전까지 위기의 규모를 파악한 분석가는 거의 없었다.",
+      "collocations": [
+        "the magnitude of the problem",
+        "orders of magnitude",
+        "an earthquake of magnitude 6"
+      ],
+      "note": "어원: magn-(큰) — magnify(확대하다)·magnificent(웅장한)·magnate(거물)와 같은 뿌리. 'order of magnitude' = 10배 단위 자릿수, 'several orders of magnitude' = 수백~수천 배 차이.",
+      "related": [
+        {
+          "word": "intensity",
+          "ko": "강도; (지진의) 진도",
+          "note": "지진에서 magnitude는 방출 에너지의 '규모'(하나의 값), intensity는 지역별로 느끼는 '진도'"
+        }
+      ]
+    },
+    {
+      "headword": "alarmist",
+      "pos": "a./n.",
+      "ko": "불안을 부추기는; 과장해서 겁주는 사람",
+      "example_en": "Critics dismissed the report as alarmist, but its warnings proved accurate.",
+      "example_ko": "비평가들은 그 보고서를 공포 조장이라고 일축했지만, 그 경고는 정확한 것으로 드러났다.",
+      "collocations": [
+        "alarmist rhetoric",
+        "alarmist headlines"
+      ],
+      "note": "alarm(경보) + -ist(~하는 사람/성향) — '경보를 지나치게 울리는'. alarming(불안하게 하는)은 사실 묘사지만, alarmist는 '괜히 과장한다'는 비난조 평가다.",
+      "related": [
+        {
+          "word": "alarming",
+          "ko": "불안하게 하는, 놀라운",
+          "note": "alarming은 중립적 묘사(상황이 실제로 심각), alarmist는 '과장됐다'는 부정적 판단"
+        }
+      ]
+    },
+    {
+      "headword": "accumulate",
+      "pos": "v.",
+      "ko": "축적하다, 쌓이다",
+      "example_en": "Toxic chemicals can accumulate in the body over many years.",
+      "example_ko": "독성 화학물질은 수년에 걸쳐 체내에 축적될 수 있다.",
+      "collocations": [
+        "accumulate wealth",
+        "accumulate in the body",
+        "accumulated debt"
+      ],
+      "note": "ac(~에) + cumul(쌓다) — cumulative(누적의)와 같은 뿌리. 타동사(재산을 쌓다)·자동사(먼지가 쌓이다) 둘 다 된다. 생물 체내에 쌓이는 것은 bioaccumulate.",
+      "family": [
+        {
+          "word": "accumulation",
+          "pos": "n.",
+          "ko": "축적, 누적"
+        },
+        {
+          "word": "bioaccumulation",
+          "pos": "n.",
+          "ko": "생물 농축(먹이사슬 따라 체내 축적)"
+        }
+      ]
+    },
+    {
+      "headword": "pristine",
+      "pos": "a.",
+      "ko": "자연 그대로의, 오염되지 않은; 아주 깨끗한",
+      "example_en": "Even pristine mountain lakes now contain traces of plastic.",
+      "example_ko": "이제는 오염되지 않은 산속 호수에도 플라스틱 흔적이 들어 있다.",
+      "collocations": [
+        "pristine condition",
+        "pristine wilderness"
+      ],
+      "note": "본뜻은 '원래(처음) 상태 그대로의' — 그래서 중고 거래·부동산에서 'in pristine condition'(새것 같은 상태)으로 자주 쓰인다. '깨끗한'만 외우면 이 쓰임을 놓친다.",
+      "related": [
+        {
+          "word": "spotless",
+          "ko": "티 하나 없는",
+          "note": "spotless는 '얼룩 없이 청소된', pristine은 '손대지 않은 원래 상태'"
+        }
+      ]
+    },
+    {
+      "headword": "rule out",
+      "pos": "phr. v.",
+      "ko": "배제하다, (가능성을) 제외하다",
+      "example_en": "The CEO did not rule out further layoffs next year.",
+      "example_ko": "CEO는 내년 추가 감원 가능성을 배제하지 않았다.",
+      "collocations": [
+        "rule out the possibility",
+        "cannot be ruled out"
+      ],
+      "note": "rule(자) + out — 목록에서 자로 줄을 그어 '지워 버린다'는 이미지. 뉴스에서는 'did not rule out ~'(~ 가능성을 열어 두었다)이라는 부정형으로 훨씬 자주 나온다.",
+      "related": [
+        {
+          "word": "rule on",
+          "ko": "~에 대해 판결하다",
+          "note": "전치사 하나 차이 — rule on은 법원이 '판결을 내리다'"
+        }
+      ]
+    },
+    {
+      "headword": "substantiate",
+      "pos": "v.",
+      "ko": "입증하다, 증거로 뒷받침하다",
+      "example_en": "The company failed to substantiate its claims about the product's health benefits.",
+      "example_ko": "그 회사는 제품의 건강 효능에 관한 주장을 입증하지 못했다.",
+      "collocations": [
+        "substantiate a claim",
+        "unsubstantiated allegations"
+      ],
+      "note": "substance(실체) + -iate(만들다) — 주장에 '실체를 부여하다'. 부정형 unsubstantiated(입증되지 않은)가 뉴스·법률 기사에서 원형만큼 자주 나온다.",
+      "family": [
+        {
+          "word": "substance",
+          "pos": "n.",
+          "ko": "실체; 물질"
+        },
+        {
+          "word": "unsubstantiated",
+          "pos": "a.",
+          "ko": "입증되지 않은"
+        }
+      ]
+    },
+    {
+      "headword": "speculate",
+      "pos": "v.",
+      "ko": "추측하다; 투기하다",
+      "example_en": "Investors speculated that the central bank would cut rates in December.",
+      "example_ko": "투자자들은 중앙은행이 12월에 금리를 내릴 것이라고 추측했다.",
+      "collocations": [
+        "speculate about",
+        "widely speculated",
+        "speculate in real estate"
+      ],
+      "note": "spec-(보다) — spectator(관객)·inspect(검사하다)와 같은 뿌리로, 근거 없이 '내다보다'. 경제 기사에선 '투기하다'로 뜻이 갈라지니 speculation(추측/투기)은 문맥으로 구분한다.",
+      "family": [
+        {
+          "word": "speculation",
+          "pos": "n.",
+          "ko": "추측; 투기"
+        },
+        {
+          "word": "speculative",
+          "pos": "a.",
+          "ko": "추측에 근거한; 투기적인"
+        },
+        {
+          "word": "speculator",
+          "pos": "n.",
+          "ko": "투기꾼 — '추측하는 사람'이 아님"
+        }
+      ]
+    },
+    {
+      "headword": "allege",
+      "pos": "v.",
+      "ko": "(증거 없이) 주장하다, 혐의를 제기하다",
+      "example_en": "The lawsuit alleges that the firm misled its customers about hidden fees.",
+      "example_ko": "그 소송은 회사가 숨은 수수료에 관해 고객을 오도했다고 주장한다.",
+      "collocations": [
+        "allege that",
+        "alleged fraud",
+        "allegedly"
+      ],
+      "note": "기자가 아직 사실로 확정되지 않은 일을 쓸 때 책임을 피하려 쓰는 단어. alleged(~라고 알려진, 혐의를 받는)·allegedly(이른바, 전해진 바로는)는 '아직 증명 안 됨'이라는 신호다.",
+      "family": [
+        {
+          "word": "allegation",
+          "pos": "n.",
+          "ko": "(입증 안 된) 주장, 혐의"
+        },
+        {
+          "word": "alleged",
+          "pos": "a.",
+          "ko": "혐의를 받는, ~라고 하는"
+        },
+        {
+          "word": "allegedly",
+          "pos": "ad.",
+          "ko": "전해진 바에 의하면"
+        }
+      ]
+    },
+    {
+      "headword": "incidence",
+      "pos": "n.",
+      "ko": "발생률, (질병 등의) 발병률",
+      "example_en": "The incidence of asthma has risen sharply in urban areas.",
+      "example_ko": "도시 지역에서 천식 발병률이 급격히 증가했다.",
+      "collocations": [
+        "the incidence of",
+        "high incidence",
+        "incidence rate"
+      ],
+      "note": "incident(사건) + -ence가 아니라 '얼마나 자주 일어나는가'라는 비율 개념. incidents(사건들, 복수)와 발음이 거의 같아 듣기·쓰기에서 혼동하기 쉽다.",
+      "related": [
+        {
+          "word": "incident",
+          "ko": "사건, 일",
+          "note": "incident는 개별 사건 하나, incidence는 발생 빈도(비율)"
+        },
+        {
+          "word": "prevalence",
+          "ko": "유병률",
+          "note": "incidence는 일정 기간 '새로' 생긴 비율, prevalence는 현재 '앓고 있는' 사람의 비율"
+        }
+      ]
+    },
+    {
+      "headword": "exaggerate",
+      "pos": "v.",
+      "ko": "과장하다",
+      "example_en": "The advertisement greatly exaggerated the battery life of the phone.",
+      "example_ko": "그 광고는 휴대전화의 배터리 수명을 크게 과장했다.",
+      "collocations": [
+        "greatly exaggerated",
+        "exaggerate the risks"
+      ],
+      "note": "철자 함정: g가 두 개(exa-gg-erate), r은 하나. 라틴어 agger(쌓아 올린 더미)에서 — 사실 위에 흙을 '쌓아 올려' 크게 보이게 하다.",
+      "family": [
+        {
+          "word": "exaggeration",
+          "pos": "n.",
+          "ko": "과장"
+        },
+        {
+          "word": "exaggerated",
+          "pos": "a.",
+          "ko": "과장된"
+        }
+      ],
+      "related": [
+        {
+          "word": "overstate",
+          "ko": "과장하다",
+          "note": "overstate는 수치·정도를 실제보다 크게 '말하는' 것, exaggerate는 말·행동 전반의 과장"
+        }
+      ]
+    }
+  ]
+}
