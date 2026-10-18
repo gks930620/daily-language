@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-19",
+  "passage_note": "심리·경제 — 아무렇게나 던진 숫자 하나가 판단을 끌고 간다? 쇼핑부터 판사의 형량까지 흔드는 '앵커링(닻 내림) 효과'(논설)",
+  "sentences": [
+    {
+      "en": "Ask people whether the tallest redwood is taller or shorter than 1,200 feet, and their guesses about its actual height will be wildly inflated, even though the number was plainly plucked out of thin air.",
+      "ko": "사람들에게 가장 키 큰 레드우드가 1,200피트보다 큰지 작은지 물어보라. 그러면 그 숫자가 누가 봐도 허공에서 아무렇게나 뽑아낸 것인데도, 실제 높이에 대한 그들의 추측치는 터무니없이 부풀려질 것이다.",
+      "structure": "· 명령문, and S + V : '~해 보라, 그러면 ~할 것이다' (= If you ask people ~, their guesses will be ~).\n· whether A or B : ask의 직접목적어로 쓰인 명사절 'A인지 B인지'.\n· even though ~ : 양보의 부사절 '비록 ~이지만'. was plucked는 수동태(누가 뽑았는지는 중요하지 않음).",
+      "vocab_notes": [
+        { "word": "redwood", "ko": "레드우드(미국삼나무 — 세계에서 가장 키 큰 나무)" },
+        { "word": "taller or shorter than", "ko": "~보다 큰지 작은지" },
+        { "word": "guess", "ko": "추측, 짐작한 값" },
+        { "word": "actual", "ko": "실제의" },
+        { "word": "height", "ko": "높이, 키" },
+        { "word": "wildly", "ko": "터무니없이, 엄청나게" },
+        { "word": "inflate", "ko": "부풀리다" },
+        { "word": "even though", "ko": "비록 ~이지만" },
+        { "word": "plainly", "ko": "누가 봐도, 명백히" },
+        { "word": "pluck", "ko": "뽑다, 잡아 뜯다" },
+        { "word": "out of thin air", "ko": "허공에서, 아무 근거 없이(pluck ~ out of thin air = 근거 없이 지어내다)" }
+      ]
+    },
+    {
+      "en": "Psychologists call this tendency \"anchoring,\" and what makes it so insidious is not that we latch onto the first figure we hear, but that we adjust away from it far too timidly, stopping as soon as an estimate seems plausible.",
+      "ko": "심리학자들은 이 경향을 '앵커링(닻 내림)'이라 부르는데, 이것을 그토록 은밀하게 해로운 것으로 만드는 점은 우리가 처음 들은 숫자에 매달린다는 것이 아니라, 그 숫자에서 너무나 소심하게 벗어나다가 추정치가 그럴듯해 보이자마자 멈춰 버린다는 것이다.",
+      "structure": "· call O C (5형식) : this tendency를 \"anchoring\"이라고 부르다.\n· what makes it so insidious : 관계대명사 what이 이끄는 명사절이 주어 — '그것을 그토록 해롭게 만드는 것은'.\n· not that ~ but that ~ : 보어 자리의 that절 두 개를 not A but B로 대비 — '~라는 것이 아니라 ~라는 것'.\n· the first figure (that) we hear : 목적격 관계대명사 생략.\n· stopping as soon as ~ : 분사구문(부대상황·연속동작) '그리고 ~하자마자 멈춘다'.",
+      "vocab_notes": [
+        { "word": "psychologist", "ko": "심리학자" },
+        { "word": "tendency", "ko": "경향" },
+        { "word": "anchoring", "ko": "앵커링(닻 내림) 효과 — 처음 접한 숫자가 기준점이 되는 현상" },
+        { "word": "insidious", "ko": "서서히·티 안 나게 해로운" },
+        { "word": "latch onto", "ko": "~에 달라붙다, 매달리다" },
+        { "word": "figure", "ko": "수치, 숫자" },
+        { "word": "adjust away from", "ko": "~에서 (조정하며) 멀어지다" },
+        { "word": "far too", "ko": "지나치게, 너무나" },
+        { "word": "timidly", "ko": "소심하게, 머뭇거리며" },
+        { "word": "as soon as", "ko": "~하자마자" },
+        { "word": "estimate", "ko": "추정치, 어림값" },
+        { "word": "plausible", "ko": "그럴듯한" }
+      ]
+    },
+    {
+      "en": "Retailers have long exploited this quirk: a sweater marked down from an artificially high \"original\" price strikes shoppers as a bargain, regardless of whether anyone ever paid the higher sum.",
+      "ko": "소매업체들은 오래전부터 이 별난 특성을 이용해 왔다. 인위적으로 높게 매긴 '정가'에서 할인된 스웨터는, 실제로 누군가 그 높은 금액을 낸 적이 있는지와 상관없이 쇼핑객에게 횡재처럼 보인다.",
+      "structure": "· have long exploited : 현재완료(계속) + long '오래전부터 ~해 왔다'.\n· 콜론(:) 뒤는 앞의 this quirk를 어떻게 이용하는지 보여 주는 구체적 사례.\n· marked down from ~ : 과거분사구가 a sweater를 뒤에서 수식('~에서 가격이 인하된 스웨터').\n· strike A as B : 'A에게 B라는 인상을 주다, A에게 B로 보이다'.\n· regardless of whether ~ : 전치사구 뒤에 whether 명사절 '~인지 아닌지와 상관없이'.",
+      "vocab_notes": [
+        { "word": "retailer", "ko": "소매업체, 소매상" },
+        { "word": "have long + p.p.", "ko": "오래전부터 ~해 왔다" },
+        { "word": "exploit", "ko": "(약점 등을) 이용하다, 착취하다" },
+        { "word": "quirk", "ko": "별난 특성, 기벽" },
+        { "word": "mark down", "ko": "가격을 인하하다" },
+        { "word": "artificially", "ko": "인위적으로" },
+        { "word": "original price", "ko": "정가, 원래 가격" },
+        { "word": "strike A as B", "ko": "A에게 B라는 인상을 주다" },
+        { "word": "shopper", "ko": "쇼핑객" },
+        { "word": "bargain", "ko": "싸게 산 물건, 횡재" },
+        { "word": "regardless of", "ko": "~와 상관없이" },
+        { "word": "sum", "ko": "금액" }
+      ]
+    },
+    {
+      "en": "More troubling is evidence that seasoned professionals are scarcely immune; in one widely cited experiment, veteran judges who rolled a pair of loaded dice before reading a case file handed down noticeably longer sentences when the dice came up high.",
+      "ko": "더 걱정스러운 것은 노련한 전문가들도 거의 예외가 아니라는 증거다. 널리 인용되는 한 실험에서, 사건 기록을 읽기 전에 조작된 주사위 한 쌍을 굴린 베테랑 판사들은 주사위가 높은 숫자로 나왔을 때 눈에 띄게 더 긴 형을 선고했다.",
+      "structure": "· More troubling is evidence ~ : 보어(More troubling)를 문두로 보낸 도치 구문 — 원래 어순은 Evidence ~ is more troubling. 앞 문장과의 연결(비교)을 강조한다.\n· evidence that ~ : 동격의 that절 '~라는 증거'.\n· 세미콜론(;) 뒤에 앞 주장의 근거가 되는 실험 사례를 제시.\n· who rolled ~ a case file : 주격 관계대명사절이 주어 veteran judges를 수식하고, 본동사는 handed down. 주어와 동사 사이가 멀어 끊어 읽기에 주의.\n· before reading : 전치사 before + 동명사.",
+      "vocab_notes": [
+        { "word": "troubling", "ko": "걱정스러운, 곤혹스러운" },
+        { "word": "evidence", "ko": "증거" },
+        { "word": "seasoned", "ko": "노련한, 경험 많은" },
+        { "word": "professional", "ko": "전문가" },
+        { "word": "scarcely", "ko": "거의 ~ 않다" },
+        { "word": "immune", "ko": "면역이 있는, 영향을 받지 않는" },
+        { "word": "widely cited", "ko": "널리 인용되는" },
+        { "word": "experiment", "ko": "실험" },
+        { "word": "veteran", "ko": "베테랑의, 경험 많은" },
+        { "word": "judge", "ko": "판사" },
+        { "word": "roll", "ko": "(주사위를) 굴리다" },
+        { "word": "loaded dice", "ko": "조작된 주사위(특정 숫자가 나오도록 무게를 넣은 것)" },
+        { "word": "case file", "ko": "사건 기록" },
+        { "word": "hand down", "ko": "(판결·형을) 내리다, 선고하다" },
+        { "word": "noticeably", "ko": "눈에 띄게" },
+        { "word": "sentence", "ko": "형, 형벌" },
+        { "word": "come up high", "ko": "(주사위가) 높은 숫자로 나오다" }
+      ]
+    },
+    {
+      "en": "Since merely warning people about the bias does little to neutralize it, some negotiators advise a blunter remedy: make the first offer yourself, before the other side can drop an anchor of its own.",
+      "ko": "사람들에게 이 편향을 경고하는 것만으로는 그것을 무력화하는 데 별 효과가 없기 때문에, 일부 협상가들은 더 직설적인 처방을 권한다. 상대편이 자기 닻을 내리기 전에 먼저 첫 제안을 하라는 것이다.",
+      "structure": "· Since ~ : 이유의 부사절. 절의 주어는 동명사구 merely warning people about the bias(단수 취급 → does).\n· do little to V : '~하는 데 거의 효과가 없다'(little이 부정의 의미).\n· 콜론(:) 뒤의 make ~ yourself : 처방의 내용을 명령문으로 제시. yourself는 강조 용법의 재귀대명사('직접, 스스로').\n· drop an anchor of its own : '닻을 내리다'라는 문자 그대로의 표현으로 anchoring을 비유적으로 되받는다. its는 the other side를 가리킨다.",
+      "vocab_notes": [
+        { "word": "since", "ko": "~이므로" },
+        { "word": "merely", "ko": "단지, 그저" },
+        { "word": "warn A about B", "ko": "A에게 B에 대해 경고하다" },
+        { "word": "bias", "ko": "편향" },
+        { "word": "do little to", "ko": "~하는 데 거의 도움이 되지 않다" },
+        { "word": "neutralize", "ko": "무력화하다, 상쇄하다" },
+        { "word": "negotiator", "ko": "협상가" },
+        { "word": "advise", "ko": "권하다, 조언하다" },
+        { "word": "blunt", "ko": "직설적인, 투박한" },
+        { "word": "remedy", "ko": "처방, 해결책" },
+        { "word": "make the first offer", "ko": "먼저 제안하다(첫 가격을 부르다)" },
+        { "word": "the other side", "ko": "상대편" },
+        { "word": "drop an anchor", "ko": "닻을 내리다" },
+        { "word": "of its own", "ko": "자기 자신의" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "anchor",
+      "pos": "n./v.",
+      "ko": "닻; 기준점 / 고정하다, 뿌리내리게 하다",
+      "example_en": "The retailer plans to anchor its new shopping mall with a large supermarket.",
+      "example_ko": "그 소매업체는 대형 슈퍼마켓을 핵심 점포로 삼아 새 쇼핑몰을 운영할 계획이다.",
+      "collocations": ["drop anchor", "anchor tenant", "be anchored in"],
+      "note": "배를 한자리에 묶어 두는 '닻'에서 '사람을 붙잡아 두는 중심'으로 뜻이 넓어졌다 — 뉴스 앵커는 방송을 붙잡아 두는 사람, 쇼핑몰의 anchor tenant는 손님을 끌어오는 핵심 입점업체.",
+      "family": [
+        { "word": "anchoring", "pos": "n.", "ko": "앵커링 효과, 고정" },
+        { "word": "anchorage", "pos": "n.", "ko": "정박지" }
+      ]
+    },
+    {
+      "headword": "quirk",
+      "pos": "n.",
+      "ko": "별난 특성, 기벽; (운명의) 장난",
+      "example_en": "One quirk of the new software is that it saves files only when you close them.",
+      "example_ko": "새 소프트웨어의 별난 점 하나는 파일을 닫을 때만 저장한다는 것이다.",
+      "collocations": ["a quirk of fate", "a quirk of human nature", "a strange quirk"],
+      "note": "흠(flaw)이라 부르기엔 가볍고 개성이라 부르기엔 이상한 '특이한 버릇'에 쓴다. a quirk of fate는 '우연의 장난'이라는 관용구.",
+      "family": [
+        { "word": "quirky", "pos": "a.", "ko": "별난, 독특한(대체로 호감 섞인 뉘앙스)" }
+      ]
+    },
+    {
+      "headword": "latch onto",
+      "pos": "phr. v.",
+      "ko": "~에 달라붙다, 매달리다; (생각을) 덥석 받아들이다",
+      "example_en": "Investors quickly latched onto the rumor that the company would be sold.",
+      "example_ko": "투자자들은 그 회사가 매각될 것이라는 소문에 재빨리 매달렸다.",
+      "collocations": ["latch onto an idea", "latch onto a trend"],
+      "note": "latch는 문의 '걸쇠' — 걸쇠가 찰칵 걸리듯 한 번 붙으면 잘 안 떨어지는 느낌이다. 비판적 맥락에서 '근거 없이 덥석 물다'로 자주 쓰인다.",
+      "related": [
+        { "word": "cling to", "ko": "~에 매달리다", "note": "cling to는 놓지 않으려 버티는 쪽, latch onto는 재빨리 붙잡는 순간에 초점" }
+      ]
+    },
+    {
+      "headword": "timid",
+      "pos": "a.",
+      "ko": "소심한, 겁 많은",
+      "example_en": "Critics said the central bank's timid response would not be enough to cool inflation.",
+      "example_ko": "비판자들은 중앙은행의 소극적인 대응으로는 물가를 잡기에 부족할 것이라고 말했다.",
+      "collocations": ["a timid response", "timid steps"],
+      "note": "intimidate(겁주다, 위협하다)는 in-(안으로) + timid — '상대를 timid한 상태로 만들다'라는 뜻이라 한 세트로 외우면 둘 다 잡힌다.",
+      "family": [
+        { "word": "timidly", "pos": "ad.", "ko": "소심하게, 머뭇거리며" },
+        { "word": "timidity", "pos": "n.", "ko": "소심함" },
+        { "word": "intimidate", "pos": "v.", "ko": "겁주다, 위협하다" }
+      ]
+    },
+    {
+      "headword": "seasoned",
+      "pos": "a.",
+      "ko": "노련한, 경험 많은; 양념한",
+      "example_en": "The project was handed to a seasoned manager with twenty years in logistics.",
+      "example_ko": "그 프로젝트는 물류 분야에서 20년을 일한 노련한 관리자에게 맡겨졌다.",
+      "collocations": ["a seasoned professional", "seasoned investors", "seasoned traveler"],
+      "note": "season(동사)은 '양념하다'와 '(목재를) 오래 말려 길들이다' — 여러 계절을 거치며 맛과 결이 든 사람이 seasoned다. seasonal(계절의)과는 뜻이 갈라지니 주의.",
+      "family": [
+        { "word": "season", "pos": "v.", "ko": "양념하다; 길들이다" },
+        { "word": "seasoning", "pos": "n.", "ko": "양념, 조미료" },
+        { "word": "seasonal", "pos": "a.", "ko": "계절의, 계절적인 — '노련한'이 아님" }
+      ]
+    },
+    {
+      "headword": "scarcely",
+      "pos": "ad.",
+      "ko": "거의 ~ 않다; 겨우, 간신히",
+      "example_en": "Sales had scarcely recovered when the second price hike was announced.",
+      "example_ko": "판매가 겨우 회복되려던 참에 두 번째 가격 인상이 발표되었다.",
+      "collocations": ["scarcely any", "scarcely ~ when ...", "can scarcely believe"],
+      "note": "scarce(부족한)에 -ly가 붙었지만 '부족하게'가 아니라 hardly처럼 부정어로 쓰인다(문장에 not을 또 쓰지 않는다). Scarcely had S p.p. when ~(~하자마자 …했다)는 수능 도치 단골.",
+      "family": [
+        { "word": "scarce", "pos": "a.", "ko": "부족한, 드문" }
+      ],
+      "related": [
+        { "word": "hardly", "ko": "거의 ~ 않다", "note": "scarcely와 거의 같은 뜻 — hard(열심히)와 hardly(거의 ~않다)도 뜻이 갈라지는 쌍" }
+      ]
+    },
+    {
+      "headword": "neutralize",
+      "pos": "v.",
+      "ko": "무력화하다, 상쇄하다; 중화하다",
+      "example_en": "The company cut costs to neutralize the impact of the stronger currency.",
+      "example_ko": "그 회사는 통화 강세의 충격을 상쇄하기 위해 비용을 절감했다.",
+      "collocations": ["neutralize a threat", "neutralize the effect"],
+      "note": "neutral(중립의, 한쪽으로 기울지 않은) + -ize(~로 만들다) — 한쪽으로 쏠린 힘을 '0으로 되돌리다'. 화학의 '산을 중화하다'도 같은 그림이다.",
+      "family": [
+        { "word": "neutral", "pos": "a.", "ko": "중립의" },
+        { "word": "neutrality", "pos": "n.", "ko": "중립(성)" }
+      ]
+    },
+    {
+      "headword": "blunt",
+      "pos": "a./v.",
+      "ko": "직설적인, 무딘 / 무디게 하다, 약화시키다",
+      "example_en": "Higher fuel costs blunted the airline's profits in the third quarter.",
+      "example_ko": "연료비 상승이 3분기 그 항공사의 이익을 깎아 먹었다.",
+      "collocations": ["to be blunt", "blunt the impact", "a blunt instrument"],
+      "note": "원뜻은 '날이 무딘' — 말에 쓰면 돌려 말하지 않는 '직설적인', 동사로 쓰면 효과를 '무디게(약하게) 하다'가 된다. a blunt instrument는 '정밀하지 못한 수단'이라는 시사 단골 비유.",
+      "related": [
+        { "word": "frank", "ko": "솔직한", "note": "frank는 대체로 긍정적인 솔직함, blunt는 무례할 만큼 거칠게 직설적이라는 뉘앙스" }
+      ]
+    },
+    {
+      "headword": "remedy",
+      "pos": "n./v.",
+      "ko": "해결책, 치료법; (법) 구제 수단 / 바로잡다",
+      "example_en": "The court ordered the firm to pay damages as a remedy for the breach of contract.",
+      "example_ko": "법원은 계약 위반에 대한 구제 수단으로 그 회사에 손해배상금을 지급하라고 명령했다.",
+      "collocations": ["a remedy for", "legal remedy", "remedy the situation"],
+      "note": "re-(다시) + med(고치다) — medicine·medical과 같은 뿌리다. 그래서 원래는 '약', 지금은 문제를 고치는 '해결책'과 법적 '구제책'으로 쓴다.",
+      "family": [
+        { "word": "remedial", "pos": "a.", "ko": "개선·보충을 위한(remedial class = 보충 수업)" },
+        { "word": "irremediable", "pos": "a.", "ko": "고칠 수 없는" }
+      ]
+    },
+    {
+      "headword": "haggle",
+      "pos": "v.",
+      "ko": "(값을) 흥정하다",
+      "example_en": "Tourists are expected to haggle over prices at the night market.",
+      "example_ko": "야시장에서는 관광객들도 값을 흥정하는 것이 당연하게 여겨진다.",
+      "collocations": ["haggle over the price", "haggle with a vendor"],
+      "note": "negotiate가 격식 있는 '협상'이라면 haggle은 시장에서 몇 푼을 두고 옥신각신하는 '흥정' — 부정적으로 '자잘한 걸로 오래 다투다'는 뉘앙스도 있다.",
+      "related": [
+        { "word": "bargain", "ko": "흥정하다; 싸게 산 물건", "note": "bargain은 동사로 '흥정하다', 명사로는 흥정의 결과물인 '싼 물건'까지 뜻한다" }
+      ]
+    },
+    {
+      "headword": "lowball",
+      "pos": "v./a.",
+      "ko": "터무니없이 낮게 부르다 / 일부러 낮게 잡은",
+      "example_en": "The buyer lowballed the seller with an offer far below the asking price.",
+      "example_ko": "구매자는 판매자가 부른 가격보다 한참 낮은 금액을 제시했다.",
+      "collocations": ["a lowball offer", "lowball estimate"],
+      "note": "야구에서 낮게 던지는 공에서 나온 말 — 협상에서 일부러 아주 낮은 숫자를 '닻'으로 던지는 전략이다. 반대는 비공식적으로 highball.",
+      "related": [
+        { "word": "underbid", "ko": "더 낮게 입찰하다", "note": "underbid는 경쟁자보다 낮은 가격을 써내는 것, lowball은 상대에게 비현실적으로 낮은 값을 부르는 것" }
+      ]
+    },
+    {
+      "headword": "impressionable",
+      "pos": "a.",
+      "ko": "남의 영향을 쉽게 받는, 감수성이 예민한",
+      "example_en": "Regulators worry that the ads target impressionable teenagers.",
+      "example_ko": "규제 당국은 그 광고들이 영향을 받기 쉬운 십대들을 겨냥한다고 우려한다.",
+      "collocations": ["impressionable young minds", "at an impressionable age"],
+      "note": "impress(눌러 찍다) + -able — 말랑한 점토처럼 '자국이 쉽게 찍히는' 사람이다. impressive(인상적인)와 혼동하기 쉽지만 방향이 반대(남에게 자국을 남기는 쪽 vs 자국이 남는 쪽).",
+      "family": [
+        { "word": "impress", "pos": "v.", "ko": "깊은 인상을 주다; 눌러 찍다" },
+        { "word": "impressive", "pos": "a.", "ko": "인상적인 — 영향을 '주는' 쪽" },
+        { "word": "impression", "pos": "n.", "ko": "인상" }
+      ]
+    },
+    {
+      "headword": "cognitive",
+      "pos": "a.",
+      "ko": "인지의, 인식의",
+      "example_en": "Multitasking places a heavy cognitive load on workers.",
+      "example_ko": "멀티태스킹은 노동자에게 무거운 인지적 부담을 지운다.",
+      "collocations": ["cognitive bias", "cognitive decline", "cognitive load"],
+      "note": "cogn-(알다)은 recognize(다시 알아보다=인식하다)·incognito(알려지지 않은=신분을 숨긴)와 같은 뿌리. 앵커링 같은 판단의 체계적 오류를 통틀어 cognitive bias(인지 편향)라 한다.",
+      "family": [
+        { "word": "cognition", "pos": "n.", "ko": "인지" },
+        { "word": "recognize", "pos": "v.", "ko": "알아보다, 인정하다" }
+      ]
+    },
+    {
+      "headword": "irrational",
+      "pos": "a.",
+      "ko": "비이성적인, 불합리한",
+      "example_en": "Panic selling is often driven by irrational fear rather than by data.",
+      "example_ko": "투매는 데이터보다 비이성적인 공포에 의해 일어나는 경우가 많다.",
+      "collocations": ["irrational fear", "irrational exuberance"],
+      "note": "ratio(계산·이성)에서 온 rational에 부정 접두사 ir-(r 앞에서 in-이 ir-로 바뀜)이 붙었다. irregular·irresponsible도 같은 규칙. 경제 뉴스의 irrational exuberance(비이성적 과열)는 거품 경고의 대명사.",
+      "family": [
+        { "word": "rational", "pos": "a.", "ko": "이성적인, 합리적인" },
+        { "word": "irrationality", "pos": "n.", "ko": "비합리성" }
+      ]
+    },
+    {
+      "headword": "verdict",
+      "pos": "n.",
+      "ko": "(배심원의) 평결; 판단, 의견",
+      "example_en": "The jury returned a verdict of not guilty after two days of deliberation.",
+      "example_ko": "배심원단은 이틀간의 숙의 끝에 무죄 평결을 내렸다.",
+      "collocations": ["reach a verdict", "a guilty verdict", "deliver a verdict"],
+      "note": "ver-(참, 진실) + dict(말하다) — '진실을 말한 것'. veracity(진실성)·dictate(받아쓰게 하다)와 같은 뿌리다. 일상에선 '평가·결론'의 뜻으로도 쓴다(the verdict on the new phone).",
+      "related": [
+        { "word": "sentence", "ko": "형, 형벌", "note": "verdict는 유죄냐 무죄냐의 판단, sentence는 유죄일 때 판사가 정하는 형량 — 순서가 verdict → sentence" }
+      ]
+    },
+    {
+      "headword": "sentence",
+      "pos": "n./v.",
+      "ko": "형, 형벌; 문장 / 형을 선고하다",
+      "example_en": "The former executive was sentenced to five years in prison for fraud.",
+      "example_ko": "그 전직 임원은 사기죄로 징역 5년을 선고받았다.",
+      "collocations": ["hand down a sentence", "a life sentence", "be sentenced to"],
+      "note": "sent-(느끼다, 판단하다)에서 온 말 — '판단을 내린 말'이 문법에선 '문장', 법정에선 '형의 선고'가 됐다. sentiment(감정)·consent(동의)와 같은 뿌리.",
+      "family": [
+        { "word": "sentencing", "pos": "n.", "ko": "형량 선고(sentencing guidelines = 양형 기준)" }
+      ]
+    },
+    {
+      "headword": "subsequent",
+      "pos": "a.",
+      "ko": "그 다음의, 이후의",
+      "example_en": "The first shipment arrived on time, but subsequent deliveries were delayed.",
+      "example_ko": "첫 선적분은 제때 도착했지만 이후 배송분은 지연되었다.",
+      "collocations": ["subsequent years", "subsequent to", "in subsequent months"],
+      "note": "sub-(아래, 뒤) + sequ(따라가다) — '뒤따라오는'. sequence(순서)·consequence(결과)와 같은 뿌리. subsequent to = after의 격식체로 토익 문서에 자주 나온다.",
+      "family": [
+        { "word": "subsequently", "pos": "ad.", "ko": "그 후에" }
+      ],
+      "related": [
+        { "word": "consequent", "ko": "결과로 일어나는", "note": "subsequent는 시간상 '뒤에', consequent는 인과상 '그 결과로' — 시간 순서 vs 원인·결과" }
+      ]
+    },
+    {
+      "headword": "plaintiff",
+      "pos": "n.",
+      "ko": "(민사소송의) 원고",
+      "example_en": "The plaintiffs claim the airline charged hidden fees for years.",
+      "example_ko": "원고들은 그 항공사가 수년간 숨은 수수료를 부과했다고 주장한다.",
+      "collocations": ["the plaintiff's lawyer", "rule in favor of the plaintiff"],
+      "note": "plaint는 '불평, 하소연' — complaint(불평)와 같은 말이다. '억울하다고 하소연한 쪽'이 원고(plaintiff), 소송을 당한 쪽은 defendant(피고).",
+      "related": [
+        { "word": "plaintive", "ko": "구슬픈, 애처로운", "note": "같은 plaint(하소연)에서 왔지만 법률 용어가 아니라 '구슬픈 소리' 같은 감정 형용사" }
+      ]
+    }
+  ]
+}
