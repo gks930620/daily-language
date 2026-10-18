@@ -671,7 +671,11 @@
     },
     "2026-10-19": {
       "prepared_at": "2026-10-18T20:15:07.736Z",
-      "settled": false
+      "settled": true,
+      "settled_at": "2026-10-18T20:23:10.194Z",
+      "content_sha256": "81e703893aad331fb14a6edee71c9ef3871997a6eeef8b85e41f2748cd9ffe88",
+      "notes": [],
+      "built_at": "2026-10-18T20:23:10.479Z"
     }
   }
 }
