@@ -1,0 +1,351 @@
+{
+  "date": "2026-10-20",
+  "words": [
+    {
+      "headword": "vagary",
+      "pos": "n.",
+      "ko": "변덕, 예측할 수 없는 변화(주로 복수 vagaries)",
+      "example_en": "Exporters have long struggled with the vagaries of exchange rates.",
+      "example_ko": "수출업자들은 오랫동안 환율의 변덕에 시달려 왔다.",
+      "collocations": [
+        "the vagaries of weather",
+        "the vagaries of the market"
+      ],
+      "note": "어원: 라틴어 vagari(떠돌다) — vague(모호한)·vagabond(방랑자)와 같은 뿌리. '이리저리 떠도는 것' → 종잡을 수 없는 변덕. 거의 항상 the vagaries of + 날씨·시장·운처럼 복수로 쓴다.",
+      "related": [
+        {
+          "word": "vague",
+          "ko": "모호한",
+          "note": "같은 뿌리 — vague는 '흐릿해서 분명치 않은', vagary는 '떠돌아서 예측 안 되는'"
+        }
+      ]
+    },
+    {
+      "headword": "erratic",
+      "pos": "a.",
+      "ko": "변덕스러운, 불규칙한",
+      "example_en": "The company's erratic delivery schedule frustrated many retailers.",
+      "example_ko": "그 회사의 들쭉날쭉한 배송 일정은 많은 소매업체를 짜증 나게 했다.",
+      "collocations": [
+        "erratic behavior",
+        "erratic performance"
+      ],
+      "note": "어원: err-(헤매다, 길을 잃다) — error(오류)·err(실수하다)와 같은 뿌리. '갈 길을 벗어나 헤매는' → 일정한 패턴 없이 들쭉날쭉한.",
+      "family": [
+        {
+          "word": "err",
+          "pos": "v.",
+          "ko": "실수하다, 잘못하다"
+        },
+        {
+          "word": "erratically",
+          "pos": "ad.",
+          "ko": "불규칙하게"
+        },
+        {
+          "word": "erroneous",
+          "pos": "a.",
+          "ko": "잘못된, 틀린 — '변덕'이 아니라 '오류'"
+        }
+      ]
+    },
+    {
+      "headword": "saddle",
+      "pos": "v.",
+      "ko": "(짐·부담을) 떠안기다",
+      "example_en": "Graduates are often saddled with student loans for decades.",
+      "example_ko": "졸업생들은 흔히 수십 년 동안 학자금 대출을 떠안고 산다.",
+      "collocations": [
+        "be saddled with debt",
+        "saddle A with B"
+      ],
+      "note": "명사 saddle은 '말안장' — 말 등에 안장을 얹듯 원치 않는 짐을 얹는 그림으로 외운다. 주로 수동태 be saddled with + 빚·책임으로 쓰고, 부정적 뉘앙스가 강하다.",
+      "related": [
+        {
+          "word": "burden",
+          "ko": "부담을 지우다",
+          "note": "비슷한 뜻 — burden은 일반적 '짐', saddle은 피할 수 없게 '떠안겨진' 느낌이 더 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "niche",
+      "pos": "n.",
+      "ko": "틈새(시장); 꼭 맞는 자리",
+      "example_en": "The startup found a profitable niche selling software to small dental clinics.",
+      "example_ko": "그 스타트업은 소규모 치과에 소프트웨어를 파는 수익성 좋은 틈새를 찾아냈다.",
+      "collocations": [
+        "niche market",
+        "carve out a niche"
+      ],
+      "note": "원래 뜻은 벽을 움푹 파서 조각상을 놓는 '벽감' — 큰 벽 속의 작은 오목한 자리 → 대형 시장 속 작은 틈새. 형용사처럼 niche product(틈새 상품)로도 자주 쓴다. 발음 [니쉬/니치] 둘 다 쓰인다.",
+      "related": [
+        {
+          "word": "mainstream",
+          "ko": "주류",
+          "note": "반대 개념 — niche는 소수를 노린 좁은 시장, mainstream은 다수가 따르는 주류"
+        }
+      ]
+    },
+    {
+      "headword": "hydroponics",
+      "pos": "n.",
+      "ko": "수경 재배(흙 없이 양액으로 키우는 재배법)",
+      "example_en": "The restaurant grows its own basil using hydroponics on the roof.",
+      "example_ko": "그 식당은 옥상에서 수경 재배로 바질을 직접 키운다.",
+      "collocations": [
+        "hydroponic farming",
+        "hydroponic system"
+      ],
+      "note": "어원: hydro-(물) + ponos(노동) — '물이 일하는' 재배. hydro-는 hydrogen(수소)·hydrate(수분을 공급하다)·dehydration(탈수)에 공통으로 들어가는 '물' 접두사.",
+      "family": [
+        {
+          "word": "hydroponic",
+          "pos": "a.",
+          "ko": "수경 재배의"
+        },
+        {
+          "word": "hydrate",
+          "pos": "v.",
+          "ko": "수분을 공급하다"
+        },
+        {
+          "word": "dehydration",
+          "pos": "n.",
+          "ko": "탈수"
+        }
+      ]
+    },
+    {
+      "headword": "photosynthesis",
+      "pos": "n.",
+      "ko": "광합성",
+      "example_en": "LED lights tuned to red and blue wavelengths can drive photosynthesis indoors.",
+      "example_ko": "빨강·파랑 파장에 맞춘 LED 조명은 실내에서도 광합성을 일으킬 수 있다.",
+      "collocations": [
+        "drive photosynthesis",
+        "rate of photosynthesis"
+      ],
+      "note": "photo-(빛) + synthesis(합성) — 한자어 '광(光)합성'과 구조가 똑같다. photo-는 photon(광자)·photograph(빛으로 그린 그림=사진)의 '빛', synthesis는 synthetic(합성의)의 명사형.",
+      "family": [
+        {
+          "word": "photosynthesize",
+          "pos": "v.",
+          "ko": "광합성하다"
+        },
+        {
+          "word": "photon",
+          "pos": "n.",
+          "ko": "광자, 빛 알갱이"
+        },
+        {
+          "word": "synthesis",
+          "pos": "n.",
+          "ko": "합성; 종합"
+        }
+      ]
+    },
+    {
+      "headword": "horticulture",
+      "pos": "n.",
+      "ko": "원예(학)",
+      "example_en": "She left banking to study horticulture and now runs a plant nursery.",
+      "example_ko": "그녀는 은행 일을 그만두고 원예를 공부해 지금은 묘목장을 운영한다.",
+      "collocations": [
+        "commercial horticulture",
+        "horticulture industry"
+      ],
+      "note": "어원: hortus(정원) + culture(경작) — agriculture가 ager(밭)를 가꾸는 '농업'이라면 horticulture는 정원·온실의 채소·꽃·과일을 가꾸는 '원예'. culture의 본래 뜻이 '땅을 갈다'임을 보여 주는 단어.",
+      "related": [
+        {
+          "word": "agriculture",
+          "ko": "농업",
+          "note": "agri-(밭) — 넓은 밭의 곡물·가축, horticulture는 작은 땅의 집약적 재배"
+        }
+      ]
+    },
+    {
+      "headword": "capital-intensive",
+      "pos": "a.",
+      "ko": "자본 집약적인(설비 투자가 많이 드는)",
+      "example_en": "Chipmaking is a capital-intensive business that requires billions in upfront investment.",
+      "example_ko": "반도체 제조는 막대한 선행 투자가 필요한 자본 집약적 사업이다.",
+      "collocations": [
+        "capital-intensive industry",
+        "highly capital-intensive"
+      ],
+      "note": "명사-intensive = '~을 집중적으로 많이 쓰는'. labor-intensive(노동 집약적 — 사람 손이 많이 듦), energy-intensive(에너지 집약적)처럼 앞 명사만 바꿔 끼우면 된다. 시사 경제 기사 빈출 패턴.",
+      "related": [
+        {
+          "word": "labor-intensive",
+          "ko": "노동 집약적인",
+          "note": "대비 — 돈(설비)이 많이 드는가, 사람 손이 많이 드는가"
+        }
+      ]
+    },
+    {
+      "headword": "hype",
+      "pos": "n.",
+      "ko": "과대 광고, 과장된 열기",
+      "example_en": "The product failed to live up to the hype surrounding its launch.",
+      "example_ko": "그 제품은 출시를 둘러싼 과장된 기대에 미치지 못했다.",
+      "collocations": [
+        "live up to the hype",
+        "media hype",
+        "hype cycle"
+      ],
+      "note": "hyperbole(과장법)의 줄임말에서 왔다고 보는 설이 유력 — hyper-(지나치게)를 떠올리면 '지나치게 부풀린 기대'. 동사로도 쓴다: hype up(과대 선전하다).",
+      "family": [
+        {
+          "word": "hyped",
+          "pos": "a.",
+          "ko": "과대 선전된; (구어) 신난"
+        },
+        {
+          "word": "hyperbole",
+          "pos": "n.",
+          "ko": "과장(법)"
+        }
+      ]
+    },
+    {
+      "headword": "liquidate",
+      "pos": "v.",
+      "ko": "(회사를) 청산하다; (자산을) 현금화하다",
+      "example_en": "After failing to find a buyer, the firm was forced to liquidate its assets.",
+      "example_ko": "인수자를 찾지 못하자 그 회사는 자산을 청산할 수밖에 없었다.",
+      "collocations": [
+        "liquidate assets",
+        "be forced to liquidate"
+      ],
+      "note": "liquid(액체)에서 — 단단히 묶인 자산을 '녹여' 흐르는 현금으로 바꾼다. 같은 뿌리의 liquidity(유동성)는 '얼마나 쉽게 현금으로 바꿀 수 있나'. 회사에 쓰면 '문 닫고 재산을 팔아 빚을 갚다'는 뜻.",
+      "family": [
+        {
+          "word": "liquidation",
+          "pos": "n.",
+          "ko": "청산"
+        },
+        {
+          "word": "liquid",
+          "pos": "a./n.",
+          "ko": "액체(의); 현금화하기 쉬운"
+        },
+        {
+          "word": "liquidity",
+          "pos": "n.",
+          "ko": "유동성"
+        }
+      ]
+    },
+    {
+      "headword": "swell",
+      "pos": "v.",
+      "ko": "(수·양이) 불어나다, 부풀다",
+      "example_en": "The number of remote workers swelled during the pandemic.",
+      "example_ko": "팬데믹 동안 원격 근무자 수가 불어났다.",
+      "collocations": [
+        "swell the ranks",
+        "swelling population"
+      ],
+      "note": "불규칙 변화 swell-swelled-swollen 주의. 본래는 몸이 '붓다'(My ankle is swollen 발목이 부었다) → 인구·군중·예산이 '불어나다'로 확장. swollen은 주로 신체의 '부은'에 쓴다.",
+      "family": [
+        {
+          "word": "swollen",
+          "pos": "a.",
+          "ko": "부은, 부푼"
+        },
+        {
+          "word": "swelling",
+          "pos": "n.",
+          "ko": "부기, 부어오른 곳"
+        }
+      ]
+    },
+    {
+      "headword": "pesticide",
+      "pos": "n.",
+      "ko": "살충제, 농약",
+      "example_en": "Indoor farms claim their produce is grown without pesticides.",
+      "example_ko": "실내 농장들은 자기네 농산물이 농약 없이 재배된다고 주장한다.",
+      "collocations": [
+        "pesticide residue",
+        "spray pesticides"
+      ],
+      "note": "pest(해충) + -cide(죽이다) — -cide는 '죽임'. herbicide(제초제 = 풀을 죽임), suicide(자살), homicide(살인), genocide(집단 학살)까지 한 번에 묶어 외운다.",
+      "family": [
+        {
+          "word": "pest",
+          "pos": "n.",
+          "ko": "해충"
+        },
+        {
+          "word": "herbicide",
+          "pos": "n.",
+          "ko": "제초제"
+        },
+        {
+          "word": "insecticide",
+          "pos": "n.",
+          "ko": "살충제(곤충 전용)"
+        }
+      ]
+    },
+    {
+      "headword": "high-profile",
+      "pos": "a.",
+      "ko": "세간의 이목을 끄는, 유명한",
+      "example_en": "The high-profile case drew reporters from around the world.",
+      "example_ko": "그 세간의 이목을 끈 사건에 전 세계 기자들이 몰려들었다.",
+      "collocations": [
+        "high-profile case",
+        "high-profile figure"
+      ],
+      "note": "profile(옆얼굴 윤곽 → 사람들에게 드러난 모습)이 '높이' 드러나 있다는 뜻. 반대로 keep a low profile은 '눈에 띄지 않게 처신하다'로, 회화에서도 자주 쓴다.",
+      "related": [
+        {
+          "word": "low-profile",
+          "ko": "눈에 띄지 않는",
+          "note": "반대말 — keep a low profile(조용히 지내다)이 관용 표현"
+        }
+      ]
+    },
+    {
+      "headword": "ameliorate",
+      "pos": "v.",
+      "ko": "개선하다, (나쁜 상황을) 낫게 하다",
+      "example_en": "The city introduced new bus routes to ameliorate traffic congestion.",
+      "example_ko": "시는 교통 혼잡을 개선하려고 새 버스 노선을 도입했다.",
+      "collocations": [
+        "ameliorate conditions",
+        "ameliorate the effects"
+      ],
+      "note": "어원: 라틴어 melior(더 나은) — '더 낫게 만들다'. improve의 격식체로, 이미 나쁜 상황(빈곤·혼잡·고통)을 덜 나쁘게 만든다는 뉘앙스. 반대 뜻의 deteriorate(악화되다)와 짝으로 외운다.",
+      "related": [
+        {
+          "word": "improve",
+          "ko": "개선하다",
+          "note": "improve는 좋은 것을 더 좋게도 가능, ameliorate는 주로 '나쁜 것을 덜 나쁘게'"
+        }
+      ]
+    },
+    {
+      "headword": "unwieldy",
+      "pos": "a.",
+      "ko": "(크거나 복잡해서) 다루기 힘든",
+      "example_en": "The approval process had become so unwieldy that projects took years to start.",
+      "example_ko": "승인 절차가 너무 다루기 힘들어져서 사업 착수에 몇 년이 걸렸다.",
+      "collocations": [
+        "unwieldy bureaucracy",
+        "unwieldy system"
+      ],
+      "note": "wield(휘두르다, 다루다)의 반대 — 칼처럼 손에 쥐고 휘두를 수 없을 만큼 크고 무거운. 물건뿐 아니라 조직·절차·제도가 비대해 굴러가지 않을 때 시사 기사에 자주 나온다.",
+      "related": [
+        {
+          "word": "cumbersome",
+          "ko": "거추장스러운, 번거로운",
+          "note": "거의 동의어 — cumbersome은 '느리고 번거로운', unwieldy는 '덩치가 커서 통제가 안 되는'에 초점"
+        }
+      ]
+    }
+  ]
+}
