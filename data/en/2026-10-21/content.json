@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-21",
+  "passage_note": "환경·과학 — 은하수를 지워 버린 밤의 불빛, 철새와 바다거북을 길 잃게 하는 '빛 공해'와 스위치 하나로 끝나는 오염이라는 역설(논설)",
+  "sentences": [
+    {
+      "en": "For almost all of human history, a star-filled sky was something people saw every clear night, yet the advent of cheap electric lighting has quietly obliterated that view, hiding the Milky Way from more than a third of humanity.",
+      "ko": "인류 역사의 거의 전 기간 동안 별이 가득한 하늘은 맑은 밤이면 언제나 볼 수 있는 것이었지만, 값싼 전기 조명의 등장은 그 광경을 소리 없이 지워 버렸고, 인류의 3분의 1 이상에게서 은하수를 가려 버렸다.",
+      "structure": "· something (that) people saw: 목적격 관계대명사 that이 생략된 형태로 something을 뒤에서 수식.\n· yet: '그런데도, 그러나'의 뜻인 역접 접속사로 앞뒤 절을 대조.\n· has quietly obliterated: 현재완료(결과) — 과거에 시작된 변화가 지금 '사라진 상태'로 남아 있음.\n· hiding the Milky Way ~: 결과를 나타내는 분사구문(= and it has hidden the Milky Way ~).",
+      "vocab_notes": [
+        { "word": "almost all of", "ko": "거의 모든 ~" },
+        { "word": "human history", "ko": "인류 역사" },
+        { "word": "star-filled", "ko": "별이 가득한" },
+        { "word": "clear night", "ko": "맑은 밤" },
+        { "word": "yet", "ko": "그런데도, 그러나" },
+        { "word": "advent", "ko": "출현, 등장" },
+        { "word": "cheap", "ko": "값싼" },
+        { "word": "electric lighting", "ko": "전기 조명" },
+        { "word": "quietly", "ko": "조용히, 소리 없이" },
+        { "word": "obliterate", "ko": "완전히 지워 없애다" },
+        { "word": "view", "ko": "광경, 경치" },
+        { "word": "hide", "ko": "숨기다, 가리다" },
+        { "word": "the Milky Way", "ko": "은하수" },
+        { "word": "more than a third of", "ko": "~의 3분의 1 이상" },
+        { "word": "humanity", "ko": "인류" }
+      ]
+    },
+    {
+      "en": "Unlike smog or plastic waste, this kind of pollution leaves no visible residue, which is precisely why its ecological costs are so easily overlooked.",
+      "ko": "스모그나 플라스틱 쓰레기와 달리 이런 종류의 오염은 눈에 보이는 잔여물을 남기지 않는데, 바로 그 때문에 그것의 생태적 대가는 너무나 쉽게 간과된다.",
+      "structure": "· Unlike A, ~: 전치사 unlike(~와 달리)로 문두에서 대조를 먼저 제시.\n· , which is precisely why ~: 계속적 용법의 관계대명사 which가 앞 절 전체(눈에 보이는 흔적이 없다는 사실)를 받는다. 'that is why ~' = '그래서 ~하다'(뒤에 결과가 온다).\n· are so easily overlooked: 수동태 + 부사 so easily로 정도 강조.",
+      "vocab_notes": [
+        { "word": "unlike", "ko": "~와 달리" },
+        { "word": "smog", "ko": "스모그(매연 섞인 안개)" },
+        { "word": "plastic waste", "ko": "플라스틱 쓰레기" },
+        { "word": "this kind of", "ko": "이런 종류의" },
+        { "word": "pollution", "ko": "오염, 공해" },
+        { "word": "leave", "ko": "남기다" },
+        { "word": "visible", "ko": "눈에 보이는" },
+        { "word": "residue", "ko": "잔여물, 찌꺼기" },
+        { "word": "precisely", "ko": "바로, 정확히" },
+        { "word": "ecological", "ko": "생태적인, 생태계의" },
+        { "word": "cost", "ko": "대가, 비용" },
+        { "word": "overlook", "ko": "간과하다, 못 보고 넘어가다" }
+      ]
+    },
+    {
+      "en": "Migrating birds that navigate by celestial cues are drawn toward brightly lit skyscrapers, where vast numbers die colliding with glass every year, while sea turtle hatchlings, instinctively crawling toward the brightest horizon, wander inland instead of toward the sea.",
+      "ko": "천체의 신호로 길을 찾는 철새들은 환하게 불 밝힌 고층 빌딩 쪽으로 끌려가 해마다 엄청난 수가 유리에 부딪혀 죽고, 갓 부화한 바다거북 새끼들은 본능적으로 가장 밝은 지평선을 향해 기어가다가 바다가 아닌 내륙 쪽으로 헤매고 만다.",
+      "structure": "· Migrating birds that navigate ~: 주격 관계대명사 that이 Migrating birds를 수식, 본동사는 are drawn(수동태).\n· , where vast numbers die ~: 계속적 용법의 관계부사 where(= and there).\n· die colliding with ~: die + 분사(~하다가 죽다) — 죽음의 방식·상황을 나타내는 분사.\n· while ~: 앞 절과 대조하는 접속사('한편').\n· , instinctively crawling ~,: 주어 hatchlings와 동사 wander 사이에 삽입된 분사구문(부대상황·이유).\n· instead of toward the sea: instead of 뒤에 전치사구가 온 형태로 inland와 대조.",
+      "vocab_notes": [
+        { "word": "migrate", "ko": "(철새가) 이동하다, 이주하다" },
+        { "word": "navigate", "ko": "길을 찾다, 항행하다" },
+        { "word": "celestial", "ko": "천체의, 하늘의" },
+        { "word": "cue", "ko": "신호, 단서" },
+        { "word": "be drawn toward", "ko": "~쪽으로 끌려가다" },
+        { "word": "brightly lit", "ko": "환하게 불 밝힌" },
+        { "word": "skyscraper", "ko": "고층 빌딩" },
+        { "word": "vast numbers", "ko": "엄청난 수" },
+        { "word": "collide with", "ko": "~와 충돌하다" },
+        { "word": "sea turtle", "ko": "바다거북" },
+        { "word": "hatchling", "ko": "갓 부화한 새끼" },
+        { "word": "instinctively", "ko": "본능적으로" },
+        { "word": "crawl", "ko": "기어가다" },
+        { "word": "horizon", "ko": "지평선, 수평선" },
+        { "word": "wander", "ko": "헤매다, 돌아다니다" },
+        { "word": "inland", "ko": "내륙으로" },
+        { "word": "instead of", "ko": "~ 대신에" }
+      ]
+    },
+    {
+      "en": "Ironically, the switch from warm incandescent bulbs to energy-efficient LEDs has in some places made matters worse, because cities that saved money on electricity simply installed more lights, many of them emitting the bluish hue that most disrupts animals' internal clocks.",
+      "ko": "역설적이게도 따뜻한 빛의 백열전구에서 에너지 효율이 높은 LED로의 전환은 일부 지역에서 사태를 오히려 악화시켰는데, 전기료를 아낀 도시들이 그저 조명을 더 많이 설치했고, 그중 상당수가 동물의 생체 시계를 가장 심하게 교란하는 푸르스름한 색조의 빛을 내뿜기 때문이다.",
+      "structure": "· the switch from A to B: 'A에서 B로의 전환' — 이 명사구 전체가 주어, 동사는 has made.\n· has (in some places) made matters worse: make + 목적어 + 형용사(5형식) '사태를 더 나쁘게 만들다'. 부사구 in some places가 조동사와 동사 사이에 삽입.\n· cities that saved ~ simply installed: 주격 관계대명사절이 cities를 수식, 본동사는 installed.\n· , many of them emitting ~: 의미상 주어(many of them)를 밝힌 독립분사구문(= and many of them emit ~).\n· the bluish hue that most disrupts ~: 주격 관계대명사 that, most는 '가장'의 뜻인 부사.",
+      "vocab_notes": [
+        { "word": "ironically", "ko": "역설적이게도, 아이러니하게도" },
+        { "word": "switch from A to B", "ko": "A에서 B로의 전환" },
+        { "word": "warm", "ko": "(빛이) 따뜻한 색의" },
+        { "word": "incandescent bulb", "ko": "백열전구" },
+        { "word": "energy-efficient", "ko": "에너지 효율이 높은" },
+        { "word": "make matters worse", "ko": "사태를 악화시키다" },
+        { "word": "save money on", "ko": "~에 드는 돈을 아끼다" },
+        { "word": "electricity", "ko": "전기, 전력" },
+        { "word": "simply", "ko": "그저, 단순히" },
+        { "word": "install", "ko": "설치하다" },
+        { "word": "emit", "ko": "(빛·열 등을) 내뿜다" },
+        { "word": "bluish", "ko": "푸르스름한" },
+        { "word": "hue", "ko": "색조, 빛깔" },
+        { "word": "disrupt", "ko": "교란하다, 방해하다" },
+        { "word": "internal clock", "ko": "생체 시계" }
+      ]
+    },
+    {
+      "en": "Yet light pollution may be the easiest environmental problem to solve: unlike carbon dioxide, which lingers in the atmosphere for centuries, artificial light disappears the instant a switch is flipped.",
+      "ko": "그러나 빛 공해는 해결하기 가장 쉬운 환경 문제일지도 모른다. 수 세기 동안 대기 중에 남아 있는 이산화탄소와 달리, 인공 빛은 스위치를 내리는 순간 사라지기 때문이다.",
+      "structure": "· the easiest ~ problem to solve: to부정사의 형용사적 용법이 problem을 수식('해결하기에 가장 쉬운 문제').\n· 콜론(:): 앞 주장에 대한 이유·부연 설명을 이끈다.\n· carbon dioxide, which lingers ~: 계속적 용법의 관계대명사 which.\n· the instant + 주어 + 동사: '~하는 순간(= as soon as)' — the instant가 접속사처럼 쓰임.\n· a switch is flipped: 수동태.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그러나, 그렇지만" },
+        { "word": "light pollution", "ko": "빛 공해" },
+        { "word": "environmental", "ko": "환경의" },
+        { "word": "solve", "ko": "해결하다" },
+        { "word": "carbon dioxide", "ko": "이산화탄소" },
+        { "word": "linger", "ko": "오래 남아 있다, 머물다" },
+        { "word": "atmosphere", "ko": "대기" },
+        { "word": "for centuries", "ko": "수 세기 동안" },
+        { "word": "artificial", "ko": "인공의" },
+        { "word": "disappear", "ko": "사라지다" },
+        { "word": "the instant", "ko": "~하는 순간" },
+        { "word": "flip a switch", "ko": "스위치를 켜다/끄다(딸깍 젖히다)" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "obliterate",
+      "pos": "v.",
+      "ko": "완전히 지워 없애다, 말살하다",
+      "example_en": "The flood obliterated most of the town's historic records.",
+      "example_ko": "홍수가 그 마을의 역사 기록 대부분을 완전히 지워 버렸다.",
+      "collocations": ["obliterate the view", "obliterate all traces"],
+      "note": "어원: ob-(위에) + litera(글자) — 써 놓은 글자 위를 덧칠해 '흔적도 없이' 지운다. letter·literacy와 같은 뿌리.",
+      "family": [
+        { "word": "obliteration", "pos": "n.", "ko": "말살, 완전한 소멸" }
+      ],
+      "related": [
+        { "word": "eliminate", "ko": "제거하다", "note": "eliminate는 '골라내 없애다'(중립), obliterate는 '흔적까지 싹 지운다'는 파괴적 뉘앙스" }
+      ]
+    },
+    {
+      "headword": "advent",
+      "pos": "n.",
+      "ko": "(중요한 것의) 출현, 도래",
+      "example_en": "The advent of smartphones transformed how people shop and bank.",
+      "example_ko": "스마트폰의 등장은 사람들이 쇼핑하고 은행 업무를 보는 방식을 바꿔 놓았다.",
+      "collocations": ["the advent of", "since the advent of"],
+      "note": "어원: ad-(~쪽으로) + vent(오다) — '다가옴'. 기독교의 강림절(Advent)도 같은 단어. adventure(다가오는 일 → 모험)·event(밖으로 나온 일)와 같은 뿌리. 거의 항상 'the advent of ~' 형태로 쓴다.",
+      "related": [
+        { "word": "adventure", "ko": "모험", "note": "철자가 비슷하지만 advent는 '등장', adventure는 '모험' — 뜻을 혼동하지 말 것" }
+      ]
+    },
+    {
+      "headword": "incandescent",
+      "pos": "a.",
+      "ko": "백열의, 백열광을 내는; (감정이) 격렬한",
+      "example_en": "Many countries have phased out incandescent bulbs in favor of LEDs.",
+      "example_ko": "많은 나라가 LED를 위해 백열전구를 단계적으로 퇴출했다.",
+      "collocations": ["incandescent bulb", "incandescent with rage"],
+      "note": "라틴어 candere(하얗게 빛나다) — candle(양초)과 같은 뿌리. -escent는 '~해지는 중'이라는 접미사(adolescent 성장 중인, luminescent 빛을 내는).",
+      "related": [
+        { "word": "fluorescent", "ko": "형광의", "note": "incandescent는 필라멘트를 달궈 내는 빛(백열), fluorescent는 형광 물질이 내는 빛(형광등)" }
+      ]
+    },
+    {
+      "headword": "hue",
+      "pos": "n.",
+      "ko": "색조, 빛깔; (의견 등의) 성향",
+      "example_en": "The sky took on a reddish hue as the sun went down.",
+      "example_ko": "해가 지자 하늘이 불그스름한 빛을 띠었다.",
+      "collocations": ["a bluish hue", "people of every political hue"],
+      "note": "color가 '색' 자체라면 hue는 그 안의 미묘한 '색조'. 비유로 '정치적 성향(political hue)'에도 쓴다. 발음 [hjuː]는 '휴'.",
+      "related": [
+        { "word": "tint", "ko": "옅은 색, 색조", "note": "tint는 색이 '살짝 섞인' 옅은 정도(창문 틴팅), hue는 빨강·파랑 같은 색의 계열" }
+      ]
+    },
+    {
+      "headword": "celestial",
+      "pos": "a.",
+      "ko": "천체의, 하늘의; 천상의",
+      "example_en": "Ancient sailors relied on celestial navigation to cross the ocean.",
+      "example_ko": "고대 선원들은 천체 항법에 의지해 바다를 건넜다.",
+      "collocations": ["celestial body", "celestial navigation"],
+      "note": "라틴어 caelum(하늘)에서 — 반대말 terrestrial(땅의, terra=땅)과 짝으로 외우면 좋다. celestial body = 천체(별·행성).",
+      "related": [
+        { "word": "terrestrial", "ko": "지구의, 육지의", "note": "반의어 짝 — celestial(하늘) ↔ terrestrial(땅)" }
+      ]
+    },
+    {
+      "headword": "hatchling",
+      "pos": "n.",
+      "ko": "갓 부화한 새끼(새·거북 등)",
+      "example_en": "Volunteers guided the turtle hatchlings safely to the water.",
+      "example_ko": "자원봉사자들이 거북 새끼들을 바다까지 안전하게 안내했다.",
+      "collocations": ["sea turtle hatchlings"],
+      "note": "hatch(알을 깨고 나오다) + -ling(작은 것·어린 것) — duckling(새끼 오리), seedling(묘목)과 같은 지소 접미사.",
+      "family": [
+        { "word": "hatch", "pos": "v.", "ko": "부화하다; (계획을) 꾸미다" },
+        { "word": "hatchery", "pos": "n.", "ko": "부화장" }
+      ]
+    },
+    {
+      "headword": "dazzle",
+      "pos": "v.",
+      "ko": "눈부시게 하다; 현혹하다, 감탄시키다",
+      "example_en": "Drivers were dazzled by the oncoming headlights.",
+      "example_ko": "운전자들은 마주 오는 전조등에 눈이 부셨다.",
+      "collocations": ["be dazzled by", "dazzle the audience"],
+      "note": "daze(멍하게 하다) + -le(반복) — 빛이 계속 쏘아 '멍해질 정도로 눈부시게' 한다. 비유로 '압도해서 감탄시키다'로도 쓴다.",
+      "family": [
+        { "word": "dazzling", "pos": "a.", "ko": "눈부신, 휘황찬란한" },
+        { "word": "daze", "pos": "v./n.", "ko": "멍하게 하다; 멍한 상태" }
+      ]
+    },
+    {
+      "headword": "beacon",
+      "pos": "n.",
+      "ko": "(신호용) 불빛, 등대; 길잡이, 희망의 상징",
+      "example_en": "The city became a beacon for young entrepreneurs.",
+      "example_ko": "그 도시는 젊은 창업가들에게 등대 같은 곳이 되었다.",
+      "collocations": ["a beacon of hope", "a beacon for"],
+      "note": "원래 언덕 위에 피운 신호용 봉화 — 그래서 '멀리서 사람을 끌어당기는 것'이라는 비유로 쓴다(a beacon of hope). 기사에서 비유적 용법이 훨씬 많다.",
+      "related": [
+        { "word": "lighthouse", "ko": "등대", "note": "lighthouse는 건물로서의 등대, beacon은 신호용 불빛 자체이자 비유적 '길잡이'" }
+      ]
+    },
+    {
+      "headword": "extinguish",
+      "pos": "v.",
+      "ko": "(불을) 끄다; (희망 등을) 꺾다, 소멸시키다",
+      "example_en": "Firefighters took six hours to extinguish the blaze.",
+      "example_ko": "소방관들이 그 불길을 끄는 데 6시간이 걸렸다.",
+      "collocations": ["extinguish a fire", "extinguish hope"],
+      "note": "ex-(밖으로) + stinguere(찌르다·끄다) — extinct(멸종한, 불이 꺼진)와 같은 뿌리. 불이 '꺼진' 것처럼 종도 '꺼진' 것이 extinct.",
+      "family": [
+        { "word": "extinguisher", "pos": "n.", "ko": "소화기(fire extinguisher)" },
+        { "word": "extinction", "pos": "n.", "ko": "멸종, 소멸" }
+      ],
+      "related": [
+        { "word": "distinguish", "ko": "구별하다", "note": "철자가 닮았지만 뜻은 무관 — dis-(떼어)+stinguere(찌르다) → '찔러 표시해 구별하다'" }
+      ]
+    },
+    {
+      "headword": "ambient",
+      "pos": "a.",
+      "ko": "주변의, 주위 환경의",
+      "example_en": "The sensor automatically adjusts screen brightness to the ambient light.",
+      "example_ko": "센서가 주변 빛에 맞춰 화면 밝기를 자동으로 조절한다.",
+      "collocations": ["ambient light", "ambient temperature", "ambient noise"],
+      "note": "어원: ambi-(둘레에) + ire(가다) — '둘레를 감싸고 있는'. ambiguous(양쪽으로 해석되는), ambition(표를 얻으러 돌아다님 → 야망)의 ambi-와 같다.",
+      "related": [
+        { "word": "ambience", "ko": "분위기", "note": "명사형 — 식당·카페의 '분위기'를 말할 때 자주 쓴다(atmosphere와 비슷)" }
+      ]
+    },
+    {
+      "headword": "dusk",
+      "pos": "n.",
+      "ko": "땅거미, 해 질 녘",
+      "example_en": "Street lights in the park switch on automatically at dusk.",
+      "example_ko": "공원의 가로등은 해 질 녘에 자동으로 켜진다.",
+      "collocations": ["at dusk", "from dawn to dusk", "dusk till dawn"],
+      "note": "반대말 dawn(새벽)과 짝으로 'from dawn to dusk(새벽부터 해 질 때까지 = 하루 종일)'로 외운다. twilight는 해 뜨기 전·해 진 후의 '어스름' 전체.",
+      "related": [
+        { "word": "twilight", "ko": "황혼, 어스름; 쇠퇴기", "note": "dusk는 '해 질 무렵'이라는 시점, twilight는 그 어스름한 빛·시간대이며 비유적으로 '말년'" }
+      ]
+    },
+    {
+      "headword": "disrupt",
+      "pos": "v.",
+      "ko": "방해하다, 교란하다, 지장을 주다",
+      "example_en": "The strike disrupted rail services across the country.",
+      "example_ko": "파업으로 전국의 철도 운행에 차질이 빚어졌다.",
+      "collocations": ["disrupt supply chains", "disrupt sleep", "disrupt services"],
+      "note": "어원: dis-(산산이) + rupt(깨다) — 흐름을 '깨뜨려 흩어 놓다'. erupt(밖으로 깨져 나오다=분출), bankrupt(은행 의자가 깨짐=파산)와 같은 rupt.",
+      "family": [
+        { "word": "disruption", "pos": "n.", "ko": "혼란, 중단" },
+        { "word": "disruptive", "pos": "a.", "ko": "지장을 주는; (기술이) 판을 뒤엎는 혁신적인" }
+      ]
+    },
+    {
+      "headword": "byproduct",
+      "pos": "n.",
+      "ko": "부산물; (의도치 않은) 부수적 결과",
+      "example_en": "Heat is an unavoidable byproduct of generating electricity.",
+      "example_ko": "열은 전기를 생산할 때 피할 수 없는 부산물이다.",
+      "collocations": ["an unintended byproduct", "a byproduct of"],
+      "note": "by-는 '곁에, 부차적인' — bypass(옆길), bystander(구경꾼)처럼 '주된 것 옆에 딸려 나온' 생산물. 비유로 '의도하지 않은 결과'에 자주 쓴다.",
+      "related": [
+        { "word": "side effect", "ko": "부작용", "note": "side effect는 주로 '나쁜' 부수 효과(약 부작용), byproduct는 좋고 나쁨과 무관한 부수 결과" }
+      ]
+    },
+    {
+      "headword": "trade-off",
+      "pos": "n.",
+      "ko": "(얻는 것과 잃는 것 사이의) 맞바꿈, 절충",
+      "example_en": "There is always a trade-off between speed and accuracy.",
+      "example_ko": "속도와 정확성 사이에는 늘 하나를 얻으면 하나를 잃는 관계가 있다.",
+      "collocations": ["a trade-off between A and B", "make a trade-off"],
+      "note": "trade off(교환해서 내주다)에서 온 명사 — '하나를 얻으려면 다른 하나를 내줘야 하는' 관계. 경제 기사에서 'between A and B'와 짝으로 거의 항상 나온다.",
+      "related": [
+        { "word": "compromise", "ko": "타협", "note": "compromise는 사람 사이의 양보·합의, trade-off는 두 가치 사이의 구조적 맞바꿈" }
+      ]
+    },
+    {
+      "headword": "subtle",
+      "pos": "a.",
+      "ko": "미묘한, 은근한; 교묘한",
+      "example_en": "The changes to the logo were subtle, but loyal customers noticed them.",
+      "example_ko": "로고의 변화는 미묘했지만 단골 고객들은 그것을 알아챘다.",
+      "collocations": ["a subtle difference", "subtle changes"],
+      "note": "b는 묵음 — 발음은 [sʌ́tl] '서틀'. 명사형 subtlety도 b가 묵음이다. 'obvious(뻔한)'의 반대 자리에 놓으면 뜻이 잘 잡힌다.",
+      "family": [
+        { "word": "subtlety", "pos": "n.", "ko": "미묘함, 섬세함" },
+        { "word": "subtly", "pos": "ad.", "ko": "미묘하게, 은근히" }
+      ]
+    },
+    {
+      "headword": "impose",
+      "pos": "v.",
+      "ko": "(세금·규제를) 부과하다; (의견을) 강요하다",
+      "example_en": "Several cities have imposed limits on outdoor lighting after midnight.",
+      "example_ko": "여러 도시가 자정 이후의 야외 조명에 제한을 부과했다.",
+      "collocations": ["impose restrictions on", "impose a fine", "impose A on B"],
+      "note": "im-(위에) + pose(놓다) — 남의 '위에 얹어 놓다' → 부과하다·강요하다. impose A on B 구조로 쓴다. 형용사 imposing은 '위압적인, 웅장한'으로 뜻이 갈라진다.",
+      "family": [
+        { "word": "imposition", "pos": "n.", "ko": "부과; 부담·폐" },
+        { "word": "imposing", "pos": "a.", "ko": "인상적인, 위압적인 — '부과하는'이 아님에 주의" }
+      ]
+    },
+    {
+      "headword": "paltry",
+      "pos": "a.",
+      "ko": "(액수가) 쥐꼬리만 한, 하찮은",
+      "example_en": "Savings accounts offered a paltry 0.5 percent interest last year.",
+      "example_ko": "작년 예금 계좌는 고작 0.5퍼센트라는 쥐꼬리만 한 이자를 줬다.",
+      "collocations": ["a paltry sum", "a paltry amount"],
+      "note": "small이 중립이라면 paltry는 '너무 적어서 무시당할 만한'이라는 경멸·불만이 담긴 말 — 기사에서 임금·보상·이자가 적다고 비판할 때 쓴다.",
+      "related": [
+        { "word": "meager", "ko": "빈약한, 불충분한", "note": "meager는 '부족함'에, paltry는 '하찮아서 모욕적일 정도'라는 감정에 무게가 있다" }
+      ]
+    },
+    {
+      "headword": "overlook",
+      "pos": "v.",
+      "ko": "간과하다, 못 보고 넘어가다; (눈감아) 봐주다; 내려다보다",
+      "example_en": "The report overlooks the hidden costs of the new system.",
+      "example_ko": "그 보고서는 새 시스템의 숨은 비용을 간과하고 있다.",
+      "collocations": ["easily overlooked", "overlook a mistake", "a room overlooking the sea"],
+      "note": "over-(위로 넘어) + look — 시선이 '위로 넘어가 버려' 못 본다(간과). 반면 'a hotel overlooking the sea'는 '위에서 내려다보다'. oversee(감독하다)와 혼동 주의.",
+      "related": [
+        { "word": "oversee", "ko": "감독하다", "note": "oversee는 '위에서 지켜보다=감독', overlook은 '보지 못하고 지나치다' — 뜻이 거의 반대" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-21",
+  "words": [
+    {
+      "headword": "obliterate",
+      "pos": "v.",
+      "ko": "완전히 지워 없애다, 말살하다",
+      "example_en": "The flood obliterated most of the town's historic records.",
+      "example_ko": "홍수가 그 마을의 역사 기록 대부분을 완전히 지워 버렸다.",
+      "collocations": [
+        "obliterate the view",
+        "obliterate all traces"
+      ],
+      "note": "어원: ob-(위에) + litera(글자) — 써 놓은 글자 위를 덧칠해 '흔적도 없이' 지운다. letter·literacy와 같은 뿌리.",
+      "family": [
+        {
+          "word": "obliteration",
+          "pos": "n.",
+          "ko": "말살, 완전한 소멸"
+        }
+      ],
+      "related": [
+        {
+          "word": "eliminate",
+          "ko": "제거하다",
+          "note": "eliminate는 '골라내 없애다'(중립), obliterate는 '흔적까지 싹 지운다'는 파괴적 뉘앙스"
+        }
+      ]
+    },
+    {
+      "headword": "advent",
+      "pos": "n.",
+      "ko": "(중요한 것의) 출현, 도래",
+      "example_en": "The advent of smartphones transformed how people shop and bank.",
+      "example_ko": "스마트폰의 등장은 사람들이 쇼핑하고 은행 업무를 보는 방식을 바꿔 놓았다.",
+      "collocations": [
+        "the advent of",
+        "since the advent of"
+      ],
+      "note": "어원: ad-(~쪽으로) + vent(오다) — '다가옴'. 기독교의 강림절(Advent)도 같은 단어. adventure(다가오는 일 → 모험)·event(밖으로 나온 일)와 같은 뿌리. 거의 항상 'the advent of ~' 형태로 쓴다.",
+      "related": [
+        {
+          "word": "adventure",
+          "ko": "모험",
+          "note": "철자가 비슷하지만 advent는 '등장', adventure는 '모험' — 뜻을 혼동하지 말 것"
+        }
+      ]
+    },
+    {
+      "headword": "incandescent",
+      "pos": "a.",
+      "ko": "백열의, 백열광을 내는; (감정이) 격렬한",
+      "example_en": "Many countries have phased out incandescent bulbs in favor of LEDs.",
+      "example_ko": "많은 나라가 LED를 위해 백열전구를 단계적으로 퇴출했다.",
+      "collocations": [
+        "incandescent bulb",
+        "incandescent with rage"
+      ],
+      "note": "라틴어 candere(하얗게 빛나다) — candle(양초)과 같은 뿌리. -escent는 '~해지는 중'이라는 접미사(adolescent 성장 중인, luminescent 빛을 내는).",
+      "related": [
+        {
+          "word": "fluorescent",
+          "ko": "형광의",
+          "note": "incandescent는 필라멘트를 달궈 내는 빛(백열), fluorescent는 형광 물질이 내는 빛(형광등)"
+        }
+      ]
+    },
+    {
+      "headword": "hue",
+      "pos": "n.",
+      "ko": "색조, 빛깔; (의견 등의) 성향",
+      "example_en": "The sky took on a reddish hue as the sun went down.",
+      "example_ko": "해가 지자 하늘이 불그스름한 빛을 띠었다.",
+      "collocations": [
+        "a bluish hue",
+        "people of every political hue"
+      ],
+      "note": "color가 '색' 자체라면 hue는 그 안의 미묘한 '색조'. 비유로 '정치적 성향(political hue)'에도 쓴다. 발음 [hjuː]는 '휴'.",
+      "related": [
+        {
+          "word": "tint",
+          "ko": "옅은 색, 색조",
+          "note": "tint는 색이 '살짝 섞인' 옅은 정도(창문 틴팅), hue는 빨강·파랑 같은 색의 계열"
+        }
+      ]
+    },
+    {
+      "headword": "celestial",
+      "pos": "a.",
+      "ko": "천체의, 하늘의; 천상의",
+      "example_en": "Ancient sailors relied on celestial navigation to cross the ocean.",
+      "example_ko": "고대 선원들은 천체 항법에 의지해 바다를 건넜다.",
+      "collocations": [
+        "celestial body",
+        "celestial navigation"
+      ],
+      "note": "라틴어 caelum(하늘)에서 — 반대말 terrestrial(땅의, terra=땅)과 짝으로 외우면 좋다. celestial body = 천체(별·행성).",
+      "related": [
+        {
+          "word": "terrestrial",
+          "ko": "지구의, 육지의",
+          "note": "반의어 짝 — celestial(하늘) ↔ terrestrial(땅)"
+        }
+      ]
+    },
+    {
+      "headword": "hatchling",
+      "pos": "n.",
+      "ko": "갓 부화한 새끼(새·거북 등)",
+      "example_en": "Volunteers guided the turtle hatchlings safely to the water.",
+      "example_ko": "자원봉사자들이 거북 새끼들을 바다까지 안전하게 안내했다.",
+      "collocations": [
+        "sea turtle hatchlings"
+      ],
+      "note": "hatch(알을 깨고 나오다) + -ling(작은 것·어린 것) — duckling(새끼 오리), seedling(묘목)과 같은 지소 접미사.",
+      "family": [
+        {
+          "word": "hatch",
+          "pos": "v.",
+          "ko": "부화하다; (계획을) 꾸미다"
+        },
+        {
+          "word": "hatchery",
+          "pos": "n.",
+          "ko": "부화장"
+        }
+      ]
+    },
+    {
+      "headword": "dazzle",
+      "pos": "v.",
+      "ko": "눈부시게 하다; 현혹하다, 감탄시키다",
+      "example_en": "Drivers were dazzled by the oncoming headlights.",
+      "example_ko": "운전자들은 마주 오는 전조등에 눈이 부셨다.",
+      "collocations": [
+        "be dazzled by",
+        "dazzle the audience"
+      ],
+      "note": "daze(멍하게 하다) + -le(반복) — 빛이 계속 쏘아 '멍해질 정도로 눈부시게' 한다. 비유로 '압도해서 감탄시키다'로도 쓴다.",
+      "family": [
+        {
+          "word": "dazzling",
+          "pos": "a.",
+          "ko": "눈부신, 휘황찬란한"
+        },
+        {
+          "word": "daze",
+          "pos": "v./n.",
+          "ko": "멍하게 하다; 멍한 상태"
+        }
+      ]
+    },
+    {
+      "headword": "beacon",
+      "pos": "n.",
+      "ko": "(신호용) 불빛, 등대; 길잡이, 희망의 상징",
+      "example_en": "The city became a beacon for young entrepreneurs.",
+      "example_ko": "그 도시는 젊은 창업가들에게 등대 같은 곳이 되었다.",
+      "collocations": [
+        "a beacon of hope",
+        "a beacon for"
+      ],
+      "note": "원래 언덕 위에 피운 신호용 봉화 — 그래서 '멀리서 사람을 끌어당기는 것'이라는 비유로 쓴다(a beacon of hope). 기사에서 비유적 용법이 훨씬 많다.",
+      "related": [
+        {
+          "word": "lighthouse",
+          "ko": "등대",
+          "note": "lighthouse는 건물로서의 등대, beacon은 신호용 불빛 자체이자 비유적 '길잡이'"
+        }
+      ]
+    },
+    {
+      "headword": "extinguish",
+      "pos": "v.",
+      "ko": "(불을) 끄다; (희망 등을) 꺾다, 소멸시키다",
+      "example_en": "Firefighters took six hours to extinguish the blaze.",
+      "example_ko": "소방관들이 그 불길을 끄는 데 6시간이 걸렸다.",
+      "collocations": [
+        "extinguish a fire",
+        "extinguish hope"
+      ],
+      "note": "ex-(밖으로) + stinguere(찌르다·끄다) — extinct(멸종한, 불이 꺼진)와 같은 뿌리. 불이 '꺼진' 것처럼 종도 '꺼진' 것이 extinct.",
+      "family": [
+        {
+          "word": "extinguisher",
+          "pos": "n.",
+          "ko": "소화기(fire extinguisher)"
+        },
+        {
+          "word": "extinction",
+          "pos": "n.",
+          "ko": "멸종, 소멸"
+        }
+      ],
+      "related": [
+        {
+          "word": "distinguish",
+          "ko": "구별하다",
+          "note": "철자가 닮았지만 뜻은 무관 — dis-(떼어)+stinguere(찌르다) → '찔러 표시해 구별하다'"
+        }
+      ]
+    },
+    {
+      "headword": "ambient",
+      "pos": "a.",
+      "ko": "주변의, 주위 환경의",
+      "example_en": "The sensor automatically adjusts screen brightness to the ambient light.",
+      "example_ko": "센서가 주변 빛에 맞춰 화면 밝기를 자동으로 조절한다.",
+      "collocations": [
+        "ambient light",
+        "ambient temperature",
+        "ambient noise"
+      ],
+      "note": "어원: ambi-(둘레에) + ire(가다) — '둘레를 감싸고 있는'. ambiguous(양쪽으로 해석되는), ambition(표를 얻으러 돌아다님 → 야망)의 ambi-와 같다.",
+      "related": [
+        {
+          "word": "ambience",
+          "ko": "분위기",
+          "note": "명사형 — 식당·카페의 '분위기'를 말할 때 자주 쓴다(atmosphere와 비슷)"
+        }
+      ]
+    },
+    {
+      "headword": "dusk",
+      "pos": "n.",
+      "ko": "땅거미, 해 질 녘",
+      "example_en": "Street lights in the park switch on automatically at dusk.",
+      "example_ko": "공원의 가로등은 해 질 녘에 자동으로 켜진다.",
+      "collocations": [
+        "at dusk",
+        "from dawn to dusk",
+        "dusk till dawn"
+      ],
+      "note": "반대말 dawn(새벽)과 짝으로 'from dawn to dusk(새벽부터 해 질 때까지 = 하루 종일)'로 외운다. twilight는 해 뜨기 전·해 진 후의 '어스름' 전체.",
+      "related": [
+        {
+          "word": "twilight",
+          "ko": "황혼, 어스름; 쇠퇴기",
+          "note": "dusk는 '해 질 무렵'이라는 시점, twilight는 그 어스름한 빛·시간대이며 비유적으로 '말년'"
+        }
+      ]
+    },
+    {
+      "headword": "disrupt",
+      "pos": "v.",
+      "ko": "방해하다, 교란하다, 지장을 주다",
+      "example_en": "The strike disrupted rail services across the country.",
+      "example_ko": "파업으로 전국의 철도 운행에 차질이 빚어졌다.",
+      "collocations": [
+        "disrupt supply chains",
+        "disrupt sleep",
+        "disrupt services"
+      ],
+      "note": "어원: dis-(산산이) + rupt(깨다) — 흐름을 '깨뜨려 흩어 놓다'. erupt(밖으로 깨져 나오다=분출), bankrupt(은행 의자가 깨짐=파산)와 같은 rupt.",
+      "family": [
+        {
+          "word": "disruption",
+          "pos": "n.",
+          "ko": "혼란, 중단"
+        },
+        {
+          "word": "disruptive",
+          "pos": "a.",
+          "ko": "지장을 주는; (기술이) 판을 뒤엎는 혁신적인"
+        }
+      ]
+    },
+    {
+      "headword": "byproduct",
+      "pos": "n.",
+      "ko": "부산물; (의도치 않은) 부수적 결과",
+      "example_en": "Heat is an unavoidable byproduct of generating electricity.",
+      "example_ko": "열은 전기를 생산할 때 피할 수 없는 부산물이다.",
+      "collocations": [
+        "an unintended byproduct",
+        "a byproduct of"
+      ],
+      "note": "by-는 '곁에, 부차적인' — bypass(옆길), bystander(구경꾼)처럼 '주된 것 옆에 딸려 나온' 생산물. 비유로 '의도하지 않은 결과'에 자주 쓴다.",
+      "related": [
+        {
+          "word": "side effect",
+          "ko": "부작용",
+          "note": "side effect는 주로 '나쁜' 부수 효과(약 부작용), byproduct는 좋고 나쁨과 무관한 부수 결과"
+        }
+      ]
+    },
+    {
+      "headword": "trade-off",
+      "pos": "n.",
+      "ko": "(얻는 것과 잃는 것 사이의) 맞바꿈, 절충",
+      "example_en": "There is always a trade-off between speed and accuracy.",
+      "example_ko": "속도와 정확성 사이에는 늘 하나를 얻으면 하나를 잃는 관계가 있다.",
+      "collocations": [
+        "a trade-off between A and B",
+        "make a trade-off"
+      ],
+      "note": "trade off(교환해서 내주다)에서 온 명사 — '하나를 얻으려면 다른 하나를 내줘야 하는' 관계. 경제 기사에서 'between A and B'와 짝으로 거의 항상 나온다.",
+      "related": [
+        {
+          "word": "compromise",
+          "ko": "타협",
+          "note": "compromise는 사람 사이의 양보·합의, trade-off는 두 가치 사이의 구조적 맞바꿈"
+        }
+      ]
+    },
+    {
+      "headword": "subtle",
+      "pos": "a.",
+      "ko": "미묘한, 은근한; 교묘한",
+      "example_en": "The changes to the logo were subtle, but loyal customers noticed them.",
+      "example_ko": "로고의 변화는 미묘했지만 단골 고객들은 그것을 알아챘다.",
+      "collocations": [
+        "a subtle difference",
+        "subtle changes"
+      ],
+      "note": "b는 묵음 — 발음은 [sʌ́tl] '서틀'. 명사형 subtlety도 b가 묵음이다. 'obvious(뻔한)'의 반대 자리에 놓으면 뜻이 잘 잡힌다.",
+      "family": [
+        {
+          "word": "subtlety",
+          "pos": "n.",
+          "ko": "미묘함, 섬세함"
+        },
+        {
+          "word": "subtly",
+          "pos": "ad.",
+          "ko": "미묘하게, 은근히"
+        }
+      ]
+    }
+  ]
+}
