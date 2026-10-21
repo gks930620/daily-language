@@ -1,0 +1,435 @@
+{
+  "date": "2026-10-22",
+  "words": [
+    {
+      "headword": "grudgingly",
+      "pos": "ad.",
+      "ko": "마지못해, 억지로",
+      "example_en": "The board grudgingly approved the budget after weeks of heated debate.",
+      "example_ko": "이사회는 몇 주간의 격론 끝에 마지못해 예산을 승인했다.",
+      "collocations": [
+        "grudgingly accept",
+        "grudgingly admit"
+      ],
+      "note": "grudge(원한, 앙금)에서 왔다 — 속에 앙금을 품은 채 하는 행동이라 '하긴 하는데 속으로는 싫은' 뉘앙스. reluctantly(내키지 않아 망설이며)보다 불만·억울함이 더 짙다.",
+      "family": [
+        {
+          "word": "grudge",
+          "pos": "n.",
+          "ko": "원한, 앙금 (hold a grudge 원한을 품다)"
+        },
+        {
+          "word": "grudging",
+          "pos": "a.",
+          "ko": "마지못해 하는 (grudging respect 마지못한 인정)"
+        },
+        {
+          "word": "begrudge",
+          "pos": "v.",
+          "ko": "아까워하다, 시기하다"
+        }
+      ]
+    },
+    {
+      "headword": "ritual",
+      "pos": "n.",
+      "ko": "의식, (반복되는) 관례",
+      "example_en": "For many commuters, the morning coffee run has become a daily ritual.",
+      "example_ko": "많은 통근자에게 아침에 커피를 사러 가는 일은 매일의 의식이 되었다.",
+      "collocations": [
+        "daily ritual",
+        "annual ritual"
+      ],
+      "note": "rite(종교·전통 의식)와 같은 뿌리. 원래는 종교 의식이지만 시사 영어에서는 '의미는 희미해졌는데 습관처럼 반복되는 일'을 꼬집을 때 자주 쓴다.",
+      "family": [
+        {
+          "word": "rite",
+          "pos": "n.",
+          "ko": "(종교적) 의식 (rite of passage 통과의례)"
+        },
+        {
+          "word": "ritualistic",
+          "pos": "a.",
+          "ko": "의례적인, 형식적인"
+        }
+      ],
+      "related": [
+        {
+          "word": "routine",
+          "ko": "일과, 판에 박힌 일",
+          "note": "routine은 단순한 순서·일과, ritual은 거기에 의미·고집이 붙은 반복"
+        }
+      ]
+    },
+    {
+      "headword": "biannual",
+      "pos": "a.",
+      "ko": "1년에 두 번의",
+      "example_en": "The company publishes a biannual report on its environmental performance.",
+      "example_ko": "그 회사는 환경 성과에 관한 반기 보고서를 1년에 두 번 발행한다.",
+      "collocations": [
+        "biannual meeting",
+        "biannual review"
+      ],
+      "note": "bi-(둘) + annual(해마다) = 1년에 두 번. 철자 한 끗 차이인 biennial은 '2년에 한 번' — 둘을 뒤섞으면 일정이 네 배 차이가 난다.",
+      "related": [
+        {
+          "word": "biennial",
+          "ko": "2년에 한 번의",
+          "note": "biannual(1년에 2번)과 혼동 주의 — 비엔날레(Biennale)가 2년마다 열리는 이유"
+        },
+        {
+          "word": "semiannual",
+          "ko": "반년마다의",
+          "note": "biannual과 같은 뜻으로 오해 소지가 적어 공문서에서 선호"
+        }
+      ]
+    },
+    {
+      "headword": "uptick",
+      "pos": "n.",
+      "ko": "소폭 증가, (약간의) 상승",
+      "example_en": "Retailers reported an uptick in sales during the holiday season.",
+      "example_ko": "소매업체들은 연휴 기간 매출이 소폭 늘었다고 보고했다.",
+      "collocations": [
+        "an uptick in",
+        "a slight uptick"
+      ],
+      "note": "그래프 눈금(tick)이 한 칸 위로(up) 올라가는 그림 — '급등'이 아니라 '살짝 오름'. 반대말 downtick. surge·spike(급등)와 크기 감각을 구별해 두면 기사 톤을 읽을 수 있다.",
+      "related": [
+        {
+          "word": "uptake",
+          "ko": "흡수, 이용률",
+          "note": "철자가 비슷하지만 뜻이 전혀 다름 — uptake of vaccines(백신 접종률)"
+        },
+        {
+          "word": "downtick",
+          "ko": "소폭 하락",
+          "note": "uptick의 반대말"
+        }
+      ]
+    },
+    {
+      "headword": "rob",
+      "pos": "v.",
+      "ko": "빼앗다, 강탈하다",
+      "example_en": "The injury robbed him of the chance to play in the final.",
+      "example_ko": "부상 때문에 그는 결승전에 뛸 기회를 빼앗겼다.",
+      "collocations": [
+        "rob A of B",
+        "rob a bank"
+      ],
+      "note": "rob은 '사람·장소'를 목적어로(rob a bank, rob A of B), steal은 '물건'을 목적어로(steal money from A) 쓴다. 'rob money'는 틀린 영어 — 목적어가 거꾸로다.",
+      "family": [
+        {
+          "word": "robbery",
+          "pos": "n.",
+          "ko": "강도 (사건)"
+        },
+        {
+          "word": "robber",
+          "pos": "n.",
+          "ko": "강도 (사람)"
+        }
+      ],
+      "related": [
+        {
+          "word": "steal",
+          "ko": "훔치다",
+          "note": "steal + 물건 + from 사람 / rob + 사람 + of 물건 — 목적어 자리가 반대"
+        },
+        {
+          "word": "deprive",
+          "ko": "박탈하다",
+          "note": "deprive A of B — rob과 같은 'A of B' 틀, 더 격식체"
+        }
+      ]
+    },
+    {
+      "headword": "quarrel",
+      "pos": "n./v.",
+      "ko": "다툼, 언쟁; 다투다",
+      "example_en": "The two partners had a bitter quarrel over how to split the profits.",
+      "example_ko": "두 동업자는 이익을 어떻게 나눌지를 두고 심하게 다퉜다.",
+      "collocations": [
+        "quarrel over",
+        "have a quarrel with"
+      ],
+      "note": "'무엇을 두고' 다투는지는 over/about로 붙인다(quarrel over money). 시사 영어에서 'have no quarrel with ~'는 '~에 이의가 없다'는 관용 표현으로 자주 나온다.",
+      "family": [
+        {
+          "word": "quarrelsome",
+          "pos": "a.",
+          "ko": "싸우기 좋아하는, 시비조의"
+        }
+      ],
+      "related": [
+        {
+          "word": "dispute",
+          "ko": "분쟁, 논쟁",
+          "note": "dispute는 법적·공식 분쟁에도 쓰이고, quarrel은 감정 섞인 말다툼 쪽"
+        }
+      ]
+    },
+    {
+      "headword": "stall",
+      "pos": "v./n.",
+      "ko": "지연시키다, 교착 상태에 빠지다; 노점",
+      "example_en": "Negotiations stalled after both sides refused to compromise on wages.",
+      "example_ko": "양측이 임금에서 양보하지 않자 협상은 교착 상태에 빠졌다.",
+      "collocations": [
+        "talks stall",
+        "stalled reform",
+        "stall for time"
+      ],
+      "note": "자동차 엔진이 꺼져 멈추는 것(engine stalls)에서 '진행이 멈추다'로 넓어졌다. 명사로는 '노점·칸막이(market stall)' — 같은 철자, 다른 뜻에 주의. stall for time은 '시간을 끌다'.",
+      "related": [
+        {
+          "word": "stale",
+          "ko": "신선하지 않은, 진부한",
+          "note": "철자가 비슷한 혼동어 — 뜻은 전혀 무관"
+        },
+        {
+          "word": "deadlock",
+          "ko": "교착 상태",
+          "note": "stall이 '멈춰 섬'이라면 deadlock은 양쪽이 맞물려 옴짝달싹 못 하는 상태"
+        }
+      ]
+    },
+    {
+      "headword": "dilemma",
+      "pos": "n.",
+      "ko": "딜레마, 진퇴양난",
+      "example_en": "Managers face a dilemma between cutting costs and keeping staff morale high.",
+      "example_ko": "관리자들은 비용 절감과 직원 사기 유지 사이에서 딜레마에 빠진다.",
+      "collocations": [
+        "face a dilemma",
+        "moral dilemma"
+      ],
+      "note": "di-(둘) + lemma(전제) — 원래 '둘 중 무엇을 골라도 곤란한' 선택. 그래서 단순히 '어려운 문제'가 아니라 선택지가 갈리는 상황에 쓴다. 철자는 m 두 개(dilemma)이고 n이 들어가지 않는다.",
+      "related": [
+        {
+          "word": "quandary",
+          "ko": "곤경, 진퇴양난",
+          "note": "거의 동의어 — quandary는 '어찌할 바 모르는 상태'에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "synchronize",
+      "pos": "v.",
+      "ko": "(시간·동작을) 맞추다, 동기화하다",
+      "example_en": "Please synchronize your calendars so that the meeting appears for everyone.",
+      "example_ko": "회의 일정이 모두에게 보이도록 캘린더를 동기화해 주세요.",
+      "collocations": [
+        "synchronize with",
+        "synchronized swimming"
+      ],
+      "note": "syn-(함께) + chron(시간) — '시간을 함께 맞추다'. chron은 chronic(만성적인, 오래 끄는)·chronological(연대순의)에도 들어 있다.",
+      "family": [
+        {
+          "word": "synchronization",
+          "pos": "n.",
+          "ko": "동기화 (흔히 sync로 줄임)"
+        },
+        {
+          "word": "synchronous",
+          "pos": "a.",
+          "ko": "동시에 일어나는"
+        },
+        {
+          "word": "asynchronous",
+          "pos": "a.",
+          "ko": "비동기의, 시간을 맞추지 않는"
+        }
+      ]
+    },
+    {
+      "headword": "irony",
+      "pos": "n.",
+      "ko": "아이러니, 역설적인 상황; 반어",
+      "example_en": "The irony is that the safety campaign itself caused more traffic jams.",
+      "example_ko": "아이러니하게도 안전 캠페인 자체가 교통 체증을 더 일으켰다.",
+      "collocations": [
+        "the irony is that",
+        "a twist of irony"
+      ],
+      "note": "기대와 정반대로 결과가 나오는 상황. 단순히 '우연'이나 '불운'에는 쓰지 않는다 — 결과가 의도를 배반해야 irony다.",
+      "family": [
+        {
+          "word": "ironic",
+          "pos": "a.",
+          "ko": "역설적인, 반어적인"
+        },
+        {
+          "word": "ironically",
+          "pos": "ad.",
+          "ko": "아이러니하게도"
+        }
+      ],
+      "related": [
+        {
+          "word": "sarcasm",
+          "ko": "빈정거림",
+          "note": "sarcasm은 상대를 비꼬려는 '말투', irony는 상황·표현의 '어긋남' 자체"
+        }
+      ]
+    },
+    {
+      "headword": "supposed",
+      "pos": "a.",
+      "ko": "이른바, ~라고 하는; ~하기로 되어 있는",
+      "example_en": "The supposed benefits of the merger have yet to materialize.",
+      "example_ko": "합병의 이른바 이점들은 아직 현실화되지 않았다.",
+      "collocations": [
+        "the supposed benefits",
+        "be supposed to"
+      ],
+      "note": "명사 앞에 오면 '남들이 그렇다고 하지만 의심스러운'이라는 회의적 뉘앙스(the supposed savings). be supposed to는 '~하기로 되어 있다'로 완전히 다른 쓰임 — 위치가 뜻을 가른다.",
+      "family": [
+        {
+          "word": "suppose",
+          "pos": "v.",
+          "ko": "가정하다, 생각하다"
+        },
+        {
+          "word": "supposedly",
+          "pos": "ad.",
+          "ko": "소문에 의하면, 아마도 — 의심의 뉘앙스"
+        },
+        {
+          "word": "supposition",
+          "pos": "n.",
+          "ko": "가정, 추측"
+        }
+      ]
+    },
+    {
+      "headword": "prolong",
+      "pos": "v.",
+      "ko": "연장하다, 오래 끌다",
+      "example_en": "Raising interest rates further could prolong the economic slowdown.",
+      "example_ko": "금리를 더 올리면 경기 둔화가 길어질 수 있다.",
+      "collocations": [
+        "prolong the life of",
+        "prolonged exposure"
+      ],
+      "note": "pro-(앞으로) + long(길게) — 끝을 앞으로 길게 늘이다. extend가 '기한·범위'를 늘리는 중립어라면 prolong은 원래보다 길어져 '질질 끄는' 뉘앙스가 잘 붙는다.",
+      "family": [
+        {
+          "word": "prolonged",
+          "pos": "a.",
+          "ko": "장기화된"
+        },
+        {
+          "word": "prolongation",
+          "pos": "n.",
+          "ko": "연장"
+        }
+      ],
+      "related": [
+        {
+          "word": "extend",
+          "ko": "연장하다, 확대하다",
+          "note": "extend the deadline(마감 연장)처럼 중립적; prolong은 고통·분쟁 등 부정적 지속에 자주"
+        }
+      ]
+    },
+    {
+      "headword": "precede",
+      "pos": "v.",
+      "ko": "~에 앞서다, 선행하다",
+      "example_en": "A brief networking session will precede the main presentation.",
+      "example_ko": "본 발표에 앞서 짧은 교류 시간이 있겠습니다.",
+      "collocations": [
+        "precede the meeting",
+        "in the preceding year"
+      ],
+      "note": "pre-(앞에) + cede(가다) = 앞서 가다. proceed(pro-앞으로 + 가다 = 계속 진행하다)와 철자가 헷갈리는 토익 단골 혼동어.",
+      "family": [
+        {
+          "word": "preceding",
+          "pos": "a.",
+          "ko": "이전의, 앞선"
+        },
+        {
+          "word": "precedence",
+          "pos": "n.",
+          "ko": "우선(순위) (take precedence over ~보다 우선하다)"
+        },
+        {
+          "word": "unprecedented",
+          "pos": "a.",
+          "ko": "전례 없는"
+        }
+      ],
+      "related": [
+        {
+          "word": "proceed",
+          "ko": "진행하다, 계속하다",
+          "note": "pre(앞에 감) vs pro(앞으로 나아감) — 철자 혼동 주의"
+        }
+      ]
+    },
+    {
+      "headword": "incidental",
+      "pos": "a.",
+      "ko": "부수적인, 부차적인",
+      "example_en": "Employees will be reimbursed for incidental expenses such as taxi fares.",
+      "example_ko": "직원들은 택시비 같은 부대비용을 환급받는다.",
+      "collocations": [
+        "incidental expenses",
+        "incidental to"
+      ],
+      "note": "incident(사건)에 -al이 붙었지만 뜻은 '사건의'가 아니라 '주된 일에 딸려 생기는, 부수적인'. 출장 규정의 incidentals(부대비용)로 토익에 자주 나온다.",
+      "family": [
+        {
+          "word": "incident",
+          "pos": "n.",
+          "ko": "사건, 일"
+        },
+        {
+          "word": "incidentally",
+          "pos": "ad.",
+          "ko": "그런데(화제 전환); 부수적으로"
+        },
+        {
+          "word": "incidentals",
+          "pos": "n.",
+          "ko": "부대비용, 잡비"
+        }
+      ]
+    },
+    {
+      "headword": "pertinent",
+      "pos": "a.",
+      "ko": "적절한, 관련 있는",
+      "example_en": "Please attach all documents pertinent to your application.",
+      "example_ko": "지원서와 관련된 모든 서류를 첨부해 주십시오.",
+      "collocations": [
+        "pertinent to",
+        "pertinent information"
+      ],
+      "note": "per-(완전히) + tain(붙잡다, 붙어 있다) — 주제에 딱 붙어 있는. relevant와 거의 같지만 더 격식체이고 '정곡을 찌르는'의 느낌. 반대말 impertinent는 '무관한'보다 '무례한, 건방진'으로 주로 쓰인다.",
+      "family": [
+        {
+          "word": "pertain",
+          "pos": "v.",
+          "ko": "(to) ~에 관계되다"
+        },
+        {
+          "word": "impertinent",
+          "pos": "a.",
+          "ko": "무례한, 건방진 — '무관한'보다 이 뜻이 주"
+        }
+      ],
+      "related": [
+        {
+          "word": "relevant",
+          "ko": "관련 있는",
+          "note": "거의 동의어 — relevant가 일상적, pertinent가 격식체"
+        }
+      ]
+    }
+  ]
+}
