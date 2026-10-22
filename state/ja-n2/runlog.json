@@ -699,7 +699,11 @@
       "settled_at": "2026-10-21T21:30:43.439Z",
       "content_sha256": "5b9bd495fda0d6be8da1ce0e120d7bfbd306b14b8a3a5aec7877785c1ee189ca",
       "notes": [],
-      "built_at": "2026-10-21T21:30:43.685Z"
+      "built_at": "2026-10-22T21:19:58.491Z"
+    },
+    "2026-10-23": {
+      "prepared_at": "2026-10-22T21:17:36.240Z",
+      "settled": false
     }
   }
 }

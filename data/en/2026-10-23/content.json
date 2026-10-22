@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-23",
+  "passage_note": "과학·건강 — 장내 미생물(마이크로바이옴) 연구와 프로바이오틱 열풍에 대한 경고(해설 기사)",
+  "sentences": [
+    {
+      "en": "For decades, the trillions of bacteria residing in the human gut were regarded as little more than passive passengers, tolerated but largely irrelevant to our health.",
+      "ko": "수십 년 동안 인간의 장에 사는 수조 마리의 세균은 그저 묵인될 뿐 우리 건강과는 대체로 무관한, 수동적인 승객에 불과한 존재로 여겨졌다.",
+      "structure": "· residing in the human gut : 현재분사구가 bacteria를 뒤에서 수식(= which reside in ~).\n· were regarded as A : regard A as B('A를 B로 여기다')의 수동태 — 'A로 여겨졌다'.\n· little more than ~ = '~에 불과한', 사실상 only와 같은 뜻.\n· tolerated but largely irrelevant ~ : 과거분사와 형용사가 but으로 병렬되어 passengers를 보충 설명(앞에 who were가 생략된 것으로 볼 수 있음).",
+      "vocab_notes": [
+        { "word": "for decades", "ko": "수십 년 동안" },
+        { "word": "trillions of", "ko": "수조 개의" },
+        { "word": "bacteria", "ko": "세균, 박테리아(bacterium의 복수)" },
+        { "word": "reside", "ko": "살다, 거주하다" },
+        { "word": "gut", "ko": "장, 내장" },
+        { "word": "be regarded as", "ko": "~로 여겨지다" },
+        { "word": "little more than", "ko": "~에 불과한" },
+        { "word": "passive", "ko": "수동적인, 소극적인" },
+        { "word": "passenger", "ko": "승객 — 여기선 '얹혀 사는 존재'라는 비유" },
+        { "word": "tolerate", "ko": "용인하다, 묵인하다, 참다" },
+        { "word": "largely", "ko": "대체로, 주로" },
+        { "word": "irrelevant", "ko": "무관한, 상관없는" }
+      ]
+    },
+    {
+      "en": "That view has been upended by a growing body of research suggesting that these microbes help regulate everything from digestion and immunity to mood, and that their composition is shaped far more by diet than by genetics.",
+      "ko": "이 견해는 이 미생물들이 소화와 면역부터 기분에 이르기까지 모든 것의 조절을 돕고, 그 구성은 유전보다 식단에 의해 훨씬 더 크게 결정된다는 점을 시사하는, 점점 늘어나는 연구 성과에 의해 뒤집혔다.",
+      "structure": "· has been upended : 현재완료 수동태 — 과거에 뒤집혀 지금까지 그 결과가 이어짐.\n· suggesting that ~, and that ~ : 현재분사구가 research를 뒤에서 수식하고, suggest의 목적어인 that절 두 개가 and로 병렬.\n· help regulate : help + 원형부정사(to 생략 가능).\n· everything from A and B to C : from A to B 범위 표현 — 'A·B부터 C까지 모든 것'.\n· far more by diet than by genetics : 비교급 강조 부사 far + 전치사구끼리의 비교(by A than by B).",
+      "vocab_notes": [
+        { "word": "view", "ko": "견해, 관점" },
+        { "word": "upend", "ko": "뒤집다, 완전히 바꿔 놓다" },
+        { "word": "a growing body of research", "ko": "점점 늘어나는 연구 성과(연구 축적)" },
+        { "word": "suggest", "ko": "시사하다, 암시하다" },
+        { "word": "microbe", "ko": "미생물" },
+        { "word": "regulate", "ko": "조절하다, 규제하다" },
+        { "word": "everything from A to B", "ko": "A부터 B까지 모든 것" },
+        { "word": "digestion", "ko": "소화" },
+        { "word": "immunity", "ko": "면역(력)" },
+        { "word": "mood", "ko": "기분" },
+        { "word": "composition", "ko": "구성, 구성 성분" },
+        { "word": "shape", "ko": "형성하다, 좌우하다" },
+        { "word": "far more", "ko": "훨씬 더" },
+        { "word": "diet", "ko": "식단, 식습관" },
+        { "word": "genetics", "ko": "유전(적 요인), 유전학" }
+      ]
+    },
+    {
+      "en": "In one widely cited study, volunteers who ate fermented foods such as yogurt and kimchi for ten weeks showed a marked increase in microbial diversity, along with reduced markers of inflammation.",
+      "ko": "널리 인용되는 한 연구에서, 요구르트와 김치 같은 발효 식품을 10주간 먹은 참가자들은 미생물 다양성이 뚜렷하게 증가했고, 염증 지표도 함께 감소했다.",
+      "structure": "· who ate ~ for ten weeks : 주격 관계대명사절이 volunteers를 수식 — 주어가 길어져 동사 showed가 멀리 떨어져 있다.\n· widely cited : 부사 + 과거분사가 명사 study를 앞에서 수식.\n· a marked increase in ~ : increase in + 증가하는 대상('~의 증가').\n· along with ~ : '~와 함께' — 부가 결과를 덧붙임.",
+      "vocab_notes": [
+        { "word": "widely cited", "ko": "널리 인용되는" },
+        { "word": "volunteer", "ko": "자원자, (실험) 참가자" },
+        { "word": "ferment", "ko": "발효시키다(fermented 발효된)" },
+        { "word": "such as", "ko": "~와 같은" },
+        { "word": "marked", "ko": "뚜렷한, 현저한" },
+        { "word": "increase in", "ko": "~의 증가" },
+        { "word": "microbial", "ko": "미생물의" },
+        { "word": "diversity", "ko": "다양성" },
+        { "word": "along with", "ko": "~와 함께" },
+        { "word": "reduced", "ko": "감소한, 줄어든" },
+        { "word": "marker", "ko": "지표, 표지(자)" },
+        { "word": "inflammation", "ko": "염증" }
+      ]
+    },
+    {
+      "en": "Such findings have fueled a booming market for probiotic supplements, many of which promise benefits that their manufacturers have yet to substantiate in rigorous trials.",
+      "ko": "이런 연구 결과들은 프로바이오틱 보충제 시장의 호황을 부채질했는데, 그중 다수는 제조사들이 아직 엄격한 임상시험으로 입증하지 못한 효능을 내세운다.",
+      "structure": "· many of which : 부정대명사 + of + which(계속적 용법) — = and many of them(= supplements).\n· benefits that ~ substantiate : 목적격 관계대명사 that — substantiate의 목적어 자리가 비어 있다.\n· have yet to + 동사원형 = '아직 ~하지 못했다' — 부정어 없이 부정의 뜻.",
+      "vocab_notes": [
+        { "word": "findings", "ko": "(연구·조사) 결과" },
+        { "word": "fuel", "ko": "부채질하다, 촉진하다" },
+        { "word": "booming", "ko": "호황인, 급성장하는" },
+        { "word": "probiotic", "ko": "프로바이오틱(유익균)의" },
+        { "word": "supplement", "ko": "보충제" },
+        { "word": "promise", "ko": "약속하다, 내세우다" },
+        { "word": "benefit", "ko": "이점, 효능" },
+        { "word": "manufacturer", "ko": "제조사" },
+        { "word": "have yet to", "ko": "아직 ~하지 못했다" },
+        { "word": "substantiate", "ko": "입증하다, 실증하다" },
+        { "word": "rigorous", "ko": "엄격한, 철저한" },
+        { "word": "trial", "ko": "(임상) 시험" }
+      ]
+    },
+    {
+      "en": "Scientists caution that the microbiome is highly individual, meaning that a regimen which restores balance in one person may do little, or even cause harm, in another.",
+      "ko": "과학자들은 마이크로바이옴이 개인차가 매우 크다고 경고한다. 즉 어떤 사람에게서 균형을 되찾아 주는 요법이 다른 사람에게는 별 효과가 없거나 심지어 해를 끼칠 수도 있다는 것이다.",
+      "structure": "· caution that ~ : 동사 caution — '~라고 경고하다'.\n· , meaning that ~ : 분사구문 — 앞 절 내용이 뜻하는 바를 풀어 설명(= which means that ~).\n· a regimen which restores ~ : 주격 관계대명사절이 주어 regimen을 수식, 본동사는 may do.\n· do little, or even cause harm : 조동사 may에 원형동사 두 개가 병렬로 걸림(or even 삽입).\n· in one person ... in another : one ~ another 대비 — '한 사람에게는 ~, 다른 사람에게는 ~'.",
+      "vocab_notes": [
+        { "word": "caution", "ko": "경고하다, 주의를 주다" },
+        { "word": "microbiome", "ko": "마이크로바이옴(체내 미생물 군집)" },
+        { "word": "highly individual", "ko": "개인차가 매우 큰" },
+        { "word": "meaning that", "ko": "즉 ~라는 뜻이다" },
+        { "word": "regimen", "ko": "요법, 섭생(규칙적 관리 계획)" },
+        { "word": "restore", "ko": "회복시키다, 되찾아 주다" },
+        { "word": "balance", "ko": "균형" },
+        { "word": "do little", "ko": "별 효과가 없다" },
+        { "word": "cause harm", "ko": "해를 끼치다" },
+        { "word": "another", "ko": "(여기선) 다른 사람" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "microbe",
+      "pos": "n.",
+      "ko": "미생물",
+      "example_en": "Some microbes in the soil help plants absorb nutrients more efficiently.",
+      "example_ko": "토양 속 일부 미생물은 식물이 영양분을 더 효율적으로 흡수하도록 돕는다.",
+      "collocations": ["gut microbes", "harmful microbes"],
+      "note": "micro-(작은) + bio(생명) — 'biology(생물학)'의 bio와 같은 뿌리. microbiome은 여기에 -ome(전체 집합)이 붙어 '미생물 군집 전체'.",
+      "family": [
+        { "word": "microbial", "pos": "a.", "ko": "미생물의" },
+        { "word": "microbiome", "pos": "n.", "ko": "(체내·환경의) 미생물 군집" },
+        { "word": "microbiology", "pos": "n.", "ko": "미생물학" }
+      ]
+    },
+    {
+      "headword": "reside",
+      "pos": "v.",
+      "ko": "살다, 거주하다; (성질·권한이) ~에 있다",
+      "example_en": "Applicants must reside in the city for at least two years to qualify for the program.",
+      "example_ko": "지원자는 이 프로그램 자격을 얻으려면 최소 2년간 시에 거주해야 한다.",
+      "collocations": ["reside in", "reside abroad", "power resides with ~"],
+      "note": "re-(뒤에) + sid(앉다) — '뒤에 눌러앉다'. 같은 sid가 든 residue(남은 찌꺼기)는 '뒤에 남아 앉은 것'. live보다 격식 있는 말로 공문서·계약서에 자주 나온다.",
+      "family": [
+        { "word": "resident", "pos": "n.", "ko": "거주자, 주민" },
+        { "word": "residence", "pos": "n.", "ko": "거주지, 주택" },
+        { "word": "residential", "pos": "a.", "ko": "주거의(residential area 주택가)" }
+      ]
+    },
+    {
+      "headword": "upend",
+      "pos": "v.",
+      "ko": "뒤집다, (기존 질서·생각을) 완전히 바꿔 놓다",
+      "example_en": "The pandemic upended the way many companies think about office space.",
+      "example_ko": "팬데믹은 많은 기업이 사무 공간을 생각하는 방식을 완전히 뒤바꿔 놓았다.",
+      "collocations": ["upend the market", "upend assumptions"],
+      "note": "up + end — 물건의 '끝(end)을 위로(up)' 세운다 → 거꾸로 뒤집다. 시사 기사에서 overturn·disrupt 자리에 생생한 동사로 즐겨 쓴다.",
+      "related": [
+        { "word": "upset", "ko": "뒤엎다; 속상하게 하다", "note": "upset은 계획·감정을 '흐트러뜨리는' 쪽, upend는 구조 자체를 '통째로 뒤집는' 쪽이라 더 강하다" }
+      ]
+    },
+    {
+      "headword": "ferment",
+      "pos": "v.",
+      "ko": "발효시키다, 발효하다",
+      "example_en": "The cabbage is left to ferment for several days before it is packaged.",
+      "example_ko": "양배추는 포장되기 전 며칠 동안 발효되도록 둔다.",
+      "collocations": ["fermented foods", "ferment slowly"],
+      "note": "라틴어 fervere(끓다)에서 — 발효할 때 거품이 부글부글 끓어오르는 모습. 명사로는 '(사회적) 동요·소요'라는 뜻도 있어 a period of political ferment(정치적 격동기)처럼 쓴다.",
+      "family": [
+        { "word": "fermentation", "pos": "n.", "ko": "발효" },
+        { "word": "fermented", "pos": "a.", "ko": "발효된" }
+      ],
+      "related": [
+        { "word": "foment", "ko": "(분쟁·불만을) 조장하다", "note": "철자·발음이 비슷한 혼동어 — foment unrest(소요를 조장하다). 음식에는 ferment, 선동에는 foment" }
+      ]
+    },
+    {
+      "headword": "inflammation",
+      "pos": "n.",
+      "ko": "염증",
+      "example_en": "Chronic inflammation has been linked to a range of conditions, including heart disease.",
+      "example_ko": "만성 염증은 심장병을 비롯한 여러 질환과 연관되어 왔다.",
+      "collocations": ["chronic inflammation", "reduce inflammation"],
+      "note": "in-(안에) + flame(불꽃) — 몸 안에 '불이 붙은' 상태(붓고 열나는 것). 철자 주의: 동사 inflame은 e가 있지만 명사 inflammation은 mm.",
+      "family": [
+        { "word": "inflame", "pos": "v.", "ko": "염증을 일으키다; (감정을) 자극하다" },
+        { "word": "inflammatory", "pos": "a.", "ko": "염증성의; 선동적인" }
+      ],
+      "related": [
+        { "word": "inflammable", "ko": "불붙기 쉬운", "note": "in-이 부정이 아니라 '안에'라서 flammable과 같은 뜻(가연성) — 반대말로 착각하면 위험. 반대말은 nonflammable" }
+      ]
+    },
+    {
+      "headword": "probiotic",
+      "pos": "a./n.",
+      "ko": "프로바이오틱(유익균)(의)",
+      "example_en": "Sales of probiotic drinks have doubled as consumers seek natural ways to improve digestion.",
+      "example_ko": "소비자들이 소화를 개선할 자연스러운 방법을 찾으면서 프로바이오틱 음료 판매가 두 배로 늘었다.",
+      "collocations": ["probiotic supplements", "probiotic yogurt"],
+      "note": "pro-(~을 위해) + bio(생명) — '생명 편'. 정반대 구조가 anti-(맞서) + bio인 antibiotic(항생제): 하나는 균을 늘리고, 하나는 균을 죽인다.",
+      "related": [
+        { "word": "antibiotic", "ko": "항생제", "note": "세균을 죽이는 약 — 항생제 복용 뒤 유익균을 보충하려고 probiotic을 먹는다" },
+        { "word": "prebiotic", "ko": "프리바이오틱(유익균의 먹이)", "note": "pre-(먼저) — 균 자체가 아니라 유익균이 먹는 식이섬유 등. probiotic과 한 글자 차이로 뜻이 다르다" }
+      ]
+    },
+    {
+      "headword": "symbiotic",
+      "pos": "a.",
+      "ko": "공생의, 서로 이익이 되는",
+      "example_en": "The two firms have a symbiotic relationship: one designs the chips and the other manufactures them.",
+      "example_ko": "두 회사는 공생 관계다. 한쪽은 칩을 설계하고 다른 쪽은 그것을 생산한다.",
+      "collocations": ["symbiotic relationship", "symbiotic partnership"],
+      "note": "sym-(함께) + bio(살다) — '함께 산다'. 생물학 용어지만 비즈니스 기사에서 '윈윈 관계'를 뜻하는 비유로 훨씬 자주 나온다. sym-은 sympathy(함께 느낌=동정)의 sym과 같다.",
+      "family": [
+        { "word": "symbiosis", "pos": "n.", "ko": "공생" }
+      ],
+      "related": [
+        { "word": "parasitic", "ko": "기생하는", "note": "symbiotic의 반대 — 한쪽만 이득을 보고 상대에 해를 끼치는 관계" }
+      ]
+    },
+    {
+      "headword": "colonize",
+      "pos": "v.",
+      "ko": "(생물이) 군락을 이루다, 서식지로 삼다; 식민지로 만들다",
+      "example_en": "Within hours of birth, bacteria begin to colonize a baby's digestive tract.",
+      "example_ko": "태어난 지 몇 시간 안에 세균이 아기의 소화관에 자리 잡기 시작한다.",
+      "collocations": ["colonize the gut", "colonize new habitats"],
+      "note": "colony(식민지; 군락)의 동사형. 역사 문맥에선 '식민지화', 생물 문맥에선 '어떤 곳에 퍼져 자리 잡다' — 같은 단어가 문맥에 따라 감정 색이 완전히 다르다.",
+      "family": [
+        { "word": "colony", "pos": "n.", "ko": "식민지; (생물) 군락, 군체" },
+        { "word": "colonization", "pos": "n.", "ko": "식민지화; 군락 형성" },
+        { "word": "colonial", "pos": "a.", "ko": "식민지의" }
+      ]
+    },
+    {
+      "headword": "dietary",
+      "pos": "a.",
+      "ko": "식이의, 식단의",
+      "example_en": "Please let us know of any dietary restrictions before the conference dinner.",
+      "example_ko": "컨퍼런스 만찬 전에 식이 제한 사항이 있으면 알려 주십시오.",
+      "collocations": ["dietary restrictions", "dietary fiber", "dietary supplement"],
+      "note": "diet는 '살 빼기'가 아니라 원래 '평소 먹는 음식' 전체를 뜻한다(a balanced diet 균형 잡힌 식단). 토익 행사·출장 지문의 dietary restrictions(채식·알레르기 등 식이 제한)는 단골 표현.",
+      "related": [
+        { "word": "dietitian", "ko": "영양사", "note": "diet에 -itian(전문가) — 철자 dietician도 쓴다" }
+      ]
+    },
+    {
+      "headword": "digestion",
+      "pos": "n.",
+      "ko": "소화; (정보의) 이해·소화",
+      "example_en": "Walking after meals can aid digestion and stabilize blood sugar.",
+      "example_ko": "식후 걷기는 소화를 돕고 혈당을 안정시킬 수 있다.",
+      "collocations": ["aid digestion", "poor digestion"],
+      "note": "동사 digest는 강세에 따라 뜻이 갈린다 — di-GEST(동사)는 '소화하다·이해하다', DI-gest(명사)는 '요약본'(Reader's Digest). 음식이든 정보든 '잘게 나눠 받아들인다'는 같은 그림.",
+      "family": [
+        { "word": "digest", "pos": "v./n.", "ko": "소화하다, 이해하다 / 요약본" },
+        { "word": "digestive", "pos": "a.", "ko": "소화의(digestive system 소화계)" },
+        { "word": "indigestion", "pos": "n.", "ko": "소화불량" }
+      ]
+    },
+    {
+      "headword": "marked",
+      "pos": "a.",
+      "ko": "뚜렷한, 현저한",
+      "example_en": "There has been a marked improvement in customer satisfaction since the new system was introduced.",
+      "example_ko": "새 시스템이 도입된 이후 고객 만족도가 현저히 개선되었다.",
+      "collocations": ["a marked increase", "in marked contrast to"],
+      "note": "'표시된(mark)' → 눈에 띄게 표시가 날 만큼 '뚜렷한'. 발음 주의: 형용사 marked는 [마크트], 부사 markedly는 [마-키드리]로 e를 소리 낸다.",
+      "family": [
+        { "word": "markedly", "pos": "ad.", "ko": "현저하게, 눈에 띄게" }
+      ],
+      "related": [
+        { "word": "remarkable", "ko": "주목할 만한, 놀라운", "note": "marked는 변화·차이가 '뚜렷하다'는 중립적 서술, remarkable은 '놀랍다'는 감탄이 담긴 평가" }
+      ]
+    },
+    {
+      "headword": "composition",
+      "pos": "n.",
+      "ko": "구성, 구성 요소; 작품(작곡·작문)",
+      "example_en": "The composition of the board changed significantly after the merger.",
+      "example_ko": "합병 후 이사회 구성이 크게 바뀌었다.",
+      "collocations": ["the composition of ~", "chemical composition"],
+      "note": "com-(함께) + pos(놓다) — 여러 요소를 '함께 놓아' 만든 것. 같은 pos가 든 component(구성 요소)·compound(혼합물)와 묶어 외우면 된다.",
+      "family": [
+        { "word": "compose", "pos": "v.", "ko": "구성하다; 작곡하다(be composed of ~로 구성되다)" },
+        { "word": "composer", "pos": "n.", "ko": "작곡가" }
+      ],
+      "related": [
+        { "word": "comprise", "ko": "~로 구성되다", "note": "The team comprises five people.(전체가 부분을 포함) — be composed of와 같은 뜻이지만 of를 붙이지 않는 것이 원칙" }
+      ]
+    },
+    {
+      "headword": "tolerate",
+      "pos": "v.",
+      "ko": "용인하다, 참다; (약·환경을) 견디다",
+      "example_en": "The company will not tolerate any form of harassment in the workplace.",
+      "example_ko": "회사는 직장 내 어떤 형태의 괴롭힘도 용인하지 않을 것이다.",
+      "collocations": ["will not tolerate", "tolerate a drug", "tolerate heat"],
+      "note": "파생형 두 개를 구분하는 게 핵심 — tolerant는 사람이 '관대한', tolerable은 상황이 '참을 만한'. -ant는 '그러는 주체', -able은 '그럴 수 있는 대상'이라는 규칙.",
+      "family": [
+        { "word": "tolerance", "pos": "n.", "ko": "관용; 내성(drug tolerance 약물 내성)" },
+        { "word": "tolerant", "pos": "a.", "ko": "관대한, 내성이 있는" },
+        { "word": "tolerable", "pos": "a.", "ko": "참을 만한, 그럭저럭 괜찮은" }
+      ]
+    },
+    {
+      "headword": "caution",
+      "pos": "v./n.",
+      "ko": "경고하다, 주의를 주다 / 조심, 주의",
+      "example_en": "Analysts caution that the recovery may be slower than the government expects.",
+      "example_ko": "분석가들은 회복이 정부 예상보다 더딜 수 있다고 경고한다.",
+      "collocations": ["caution that ~", "caution against ~", "exercise caution"],
+      "note": "명사로만 알기 쉽지만 기사에선 동사 caution that ~(~라고 경고하다)이 훨씬 많이 나온다. warn보다 어조가 차분해서 전문가 발언을 전할 때 쓴다.",
+      "family": [
+        { "word": "cautious", "pos": "a.", "ko": "조심스러운(사람·태도)" },
+        { "word": "cautionary", "pos": "a.", "ko": "경고성의(a cautionary tale 교훈이 되는 이야기)" }
+      ]
+    },
+    {
+      "headword": "salutary",
+      "pos": "a.",
+      "ko": "(불쾌하지만) 유익한, 교훈이 되는",
+      "example_en": "The failed product launch was a salutary lesson for the entire marketing team.",
+      "example_ko": "제품 출시 실패는 마케팅팀 전체에 쓰지만 유익한 교훈이 되었다.",
+      "collocations": ["a salutary lesson", "a salutary reminder", "a salutary effect"],
+      "note": "라틴어 salus(건강) — '건강에 좋은' → 쓴 약처럼 당장은 불쾌해도 결국 도움이 되는 것에 쓴다. salary(급여)와 철자가 비슷하지만 뿌리가 다르다(salary는 sal 소금 — 소금 살 돈).",
+      "related": [
+        { "word": "salubrious", "ko": "(기후·장소가) 건강에 좋은", "note": "같은 salus 뿌리 — salubrious는 물리적 환경, salutary는 경험·교훈에 주로 붙는다" }
+      ]
+    },
+    {
+      "headword": "embellish",
+      "pos": "v.",
+      "ko": "(이야기를) 과장해 꾸미다; 장식하다",
+      "example_en": "Recruiters say many applicants embellish their job titles on their résumés.",
+      "example_ko": "채용 담당자들은 많은 지원자가 이력서에 직함을 부풀려 쓴다고 말한다.",
+      "collocations": ["embellish the truth", "embellish a story"],
+      "note": "em-(만들다) + bel(아름다운, 프랑스어 belle) — '예쁘게 만들다'. 물건에 쓰면 '장식하다'지만, 말·기록에 쓰면 사실에 살을 붙여 '부풀리다'라는 부정적 뉘앙스가 된다.",
+      "family": [
+        { "word": "embellishment", "pos": "n.", "ko": "장식; 윤색, 과장" }
+      ],
+      "related": [
+        { "word": "exaggerate", "ko": "과장하다", "note": "exaggerate는 크기·정도를 부풀리는 것, embellish는 없던 세부를 덧붙여 그럴듯하게 꾸미는 것" }
+      ]
+    },
+    {
+      "headword": "bogus",
+      "pos": "a.",
+      "ko": "가짜의, 엉터리의",
+      "example_en": "Regulators fined the firm for making bogus health claims about its products.",
+      "example_ko": "규제 당국은 그 회사가 자사 제품에 대해 엉터리 건강 효능을 주장했다며 벌금을 부과했다.",
+      "collocations": ["bogus claims", "a bogus company", "bogus invoices"],
+      "note": "counterfeit가 '물건을 위조한' 것이라면 bogus는 주장·서류·회사 등 무엇이든 '진짜인 척하는 가짜'에 두루 쓰는 구어적 단어. 사기·허위 광고 기사에 단골.",
+      "related": [
+        { "word": "fake", "ko": "가짜의", "note": "가장 일반적인 말 — bogus는 '속이려는 의도'가 더 강하게 느껴진다" }
+      ]
+    },
+    {
+      "headword": "amenable",
+      "pos": "a.",
+      "ko": "(제안 등을) 기꺼이 받아들이는; (~에) 적합한·잘 반응하는",
+      "example_en": "The supplier seemed amenable to renegotiating the delivery schedule.",
+      "example_ko": "공급업체는 배송 일정을 재협상하는 데 호의적인 것 같았다.",
+      "collocations": ["amenable to change", "amenable to treatment"],
+      "note": "프랑스어 mener(이끌다)에서 — '이끌기 쉬운' → 말이 잘 통하는. 항상 amenable to ~ 형태로 쓴다. amenity(편의 시설)와 철자가 비슷하지만 뜻은 무관.",
+      "related": [
+        { "word": "amiable", "ko": "상냥한, 붙임성 있는", "note": "amiable은 성격이 '친절한' 것, amenable은 제안·변화를 '받아들일 의향이 있는' 것" }
+      ]
+    }
+  ]
+}
