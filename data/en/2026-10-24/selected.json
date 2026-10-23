@@ -1,0 +1,389 @@
+{
+  "date": "2026-10-24",
+  "words": [
+    {
+      "headword": "overwhelm",
+      "pos": "v.",
+      "ko": "압도하다, 감당 못 하게 하다",
+      "example_en": "New employees are often overwhelmed by the sheer volume of internal documents.",
+      "example_ko": "신입 직원들은 사내 문서의 엄청난 양에 압도당하는 경우가 많다.",
+      "collocations": [
+        "be overwhelmed by",
+        "overwhelming majority",
+        "feel overwhelmed"
+      ],
+      "note": "whelm은 고어로 '(배를) 뒤집어 물에 잠기게 하다' — over가 붙어 '위로 덮쳐 삼키다'. 파도에 잠기는 그림으로 외우면 '압도'와 '감당 불가'가 한 번에 잡힌다.",
+      "family": [
+        {
+          "word": "overwhelming",
+          "pos": "a.",
+          "ko": "압도적인; 감당하기 벅찬"
+        },
+        {
+          "word": "overwhelmingly",
+          "pos": "ad.",
+          "ko": "압도적으로"
+        }
+      ]
+    },
+    {
+      "headword": "assortment",
+      "pos": "n.",
+      "ko": "(여러 종류의) 모음, 구색",
+      "example_en": "The store carries a wide assortment of organic snacks.",
+      "example_ko": "그 매장은 다양한 유기농 간식을 폭넓게 갖추고 있다.",
+      "collocations": [
+        "a wide assortment of",
+        "product assortment"
+      ],
+      "note": "sort(종류)가 뿌리 — assort는 '종류별로 나누다', assortment는 '여러 종류를 골고루 모은 것'. 소매업에서 '상품 구색(assortment planning)'으로 자주 쓴다.",
+      "family": [
+        {
+          "word": "assorted",
+          "pos": "a.",
+          "ko": "여러 가지의, 갖은"
+        },
+        {
+          "word": "sort",
+          "pos": "n./v.",
+          "ko": "종류; 분류하다"
+        }
+      ]
+    },
+    {
+      "headword": "indecisive",
+      "pos": "a.",
+      "ko": "우유부단한; 결정적이지 않은",
+      "example_en": "The board's indecisive response to the crisis frustrated investors.",
+      "example_ko": "위기에 대한 이사회의 우유부단한 대응이 투자자들을 답답하게 했다.",
+      "collocations": [
+        "indecisive leadership",
+        "an indecisive outcome"
+      ],
+      "note": "decide → decisive(단호한; 결정적인) → in- 부정. 사람에겐 '우유부단한', 전투·선거에는 '승부가 나지 않은'이라는 두 뜻이 decisive의 두 뜻과 짝을 이룬다.",
+      "family": [
+        {
+          "word": "decisive",
+          "pos": "a.",
+          "ko": "단호한; 결정적인"
+        },
+        {
+          "word": "indecision",
+          "pos": "n.",
+          "ko": "망설임, 우유부단"
+        }
+      ],
+      "related": [
+        {
+          "word": "decided",
+          "ko": "뚜렷한, 확고한",
+          "note": "a decided advantage(분명한 우위) — '결정된'이 아니라 '확실한'이라는 뜻으로도 쓰여 decisive와 헷갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "procrastinate",
+      "pos": "v.",
+      "ko": "(해야 할 일을) 미루다",
+      "example_en": "Many taxpayers procrastinate until the filing deadline is only days away.",
+      "example_ko": "많은 납세자가 신고 마감이 며칠 남지 않을 때까지 일을 미룬다.",
+      "collocations": [
+        "stop procrastinating",
+        "procrastinate on a task"
+      ],
+      "note": "어원: pro-(앞으로) + crastinus(내일의) = '내일로 밀어 두다'. postpone이 일정을 공식적으로 연기하는 중립어라면, procrastinate는 게으름·회피로 미루는 부정적 뉘앙스.",
+      "family": [
+        {
+          "word": "procrastination",
+          "pos": "n.",
+          "ko": "미루는 버릇, 지연"
+        },
+        {
+          "word": "procrastinator",
+          "pos": "n.",
+          "ko": "일을 미루는 사람"
+        }
+      ],
+      "related": [
+        {
+          "word": "postpone",
+          "ko": "연기하다",
+          "note": "날짜를 정식으로 뒤로 옮기는 중립어 — postpone a meeting"
+        }
+      ]
+    },
+    {
+      "headword": "remorse",
+      "pos": "n.",
+      "ko": "(깊은) 후회, 양심의 가책",
+      "example_en": "The defendant showed no remorse during the trial.",
+      "example_ko": "피고는 재판 내내 아무런 뉘우침도 보이지 않았다.",
+      "collocations": [
+        "show remorse",
+        "buyer's remorse",
+        "feel remorse"
+      ],
+      "note": "어원: re-(다시) + mordere(물다) = '양심이 거듭 문다'. 쇼핑 맥락의 buyer's remorse(산 뒤에 밀려오는 후회)는 시사·마케팅 기사 단골 표현.",
+      "family": [
+        {
+          "word": "remorseful",
+          "pos": "a.",
+          "ko": "후회하는, 뉘우치는"
+        },
+        {
+          "word": "remorseless",
+          "pos": "a.",
+          "ko": "무자비한, 가책 없는"
+        }
+      ],
+      "related": [
+        {
+          "word": "regret",
+          "ko": "후회",
+          "note": "regret은 일상적 아쉬움까지 넓게, remorse는 잘못에 대한 무거운 죄책감 쪽"
+        }
+      ]
+    },
+    {
+      "headword": "fastidious",
+      "pos": "a.",
+      "ko": "까다로운, 세심한",
+      "example_en": "Fastidious shoppers compare labels before choosing even a bottle of olive oil.",
+      "example_ko": "까다로운 쇼핑객들은 올리브유 한 병을 고를 때조차 라벨을 비교한다.",
+      "collocations": [
+        "fastidious about detail",
+        "a fastidious customer"
+      ],
+      "note": "fast(빠른)와 무관 — 라틴어 fastidium(혐오, 질림)에서 와서 원래 '쉽게 질려 하는'. 그래서 칭찬(꼼꼼한)과 흉(유난스러운)이 섞인 뉘앙스다.",
+      "related": [
+        {
+          "word": "picky",
+          "ko": "까다로운",
+          "note": "구어체 거의 동의어 — 음식·물건 고르기에 주로"
+        },
+        {
+          "word": "meticulous",
+          "ko": "꼼꼼한",
+          "note": "순수한 칭찬 쪽 — fastidious는 '유난스러움'이 묻어날 수 있다"
+        }
+      ]
+    },
+    {
+      "headword": "upscale",
+      "pos": "a.",
+      "ko": "고급의, 부유층 대상의",
+      "example_en": "The chain plans to open an upscale outlet in the city's business district.",
+      "example_ko": "그 체인은 도심 업무 지구에 고급 매장을 열 계획이다.",
+      "collocations": [
+        "upscale neighborhood",
+        "upscale restaurant",
+        "upscale market"
+      ],
+      "note": "scale(소득 사다리)의 위쪽(up) = 고급. 반대는 downscale(저가의). 동사 upscale(고급화하다; 화질을 높이다)도 같은 그림이다.",
+      "related": [
+        {
+          "word": "downscale",
+          "ko": "저가의; 축소하다",
+          "note": "반대말 — downmarket과 비슷"
+        },
+        {
+          "word": "high-end",
+          "ko": "고급의",
+          "note": "제품에 더 많이, upscale은 동네·가게·고객층에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "cater",
+      "pos": "v.",
+      "ko": "(요구에) 맞추다; 음식을 공급하다",
+      "example_en": "The hotel caters mainly to business travelers.",
+      "example_ko": "그 호텔은 주로 출장객의 요구에 맞춘다.",
+      "collocations": [
+        "cater to",
+        "cater for",
+        "catering service"
+      ],
+      "note": "원래 '음식을 사 오다(조달하다)' → 연회 음식 공급(catering) → '손님 입맛을 맞추다'로 확장. 토익에선 catering(출장 연회)과 cater to(~을 겨냥하다)가 둘 다 빈출.",
+      "family": [
+        {
+          "word": "catering",
+          "pos": "n.",
+          "ko": "출장 연회, 음식 공급업"
+        },
+        {
+          "word": "caterer",
+          "pos": "n.",
+          "ko": "출장 연회 업체"
+        }
+      ]
+    },
+    {
+      "headword": "conceivable",
+      "pos": "a.",
+      "ko": "생각할 수 있는, 상상 가능한",
+      "example_en": "It is conceivable that the merger will be blocked by regulators.",
+      "example_ko": "그 합병이 규제 당국에 의해 저지될 가능성도 생각해 볼 수 있다.",
+      "collocations": [
+        "every conceivable",
+        "it is conceivable that"
+      ],
+      "note": "conceive(마음에 품다, 구상하다; 임신하다) + -able. concept(개념)·conception(구상; 수태)과 한 뿌리 — '머릿속에 잉태할 수 있는'으로 외운다.",
+      "family": [
+        {
+          "word": "conceive",
+          "pos": "v.",
+          "ko": "구상하다; 임신하다"
+        },
+        {
+          "word": "inconceivable",
+          "pos": "a.",
+          "ko": "상상도 할 수 없는"
+        },
+        {
+          "word": "conceivably",
+          "pos": "ad.",
+          "ko": "아마, 상상컨대"
+        }
+      ]
+    },
+    {
+      "headword": "abundance",
+      "pos": "n.",
+      "ko": "풍부함, 넘쳐남",
+      "example_en": "The region has an abundance of skilled labor but little investment.",
+      "example_ko": "그 지역은 숙련 인력이 풍부하지만 투자는 거의 없다.",
+      "collocations": [
+        "an abundance of",
+        "in abundance"
+      ],
+      "note": "어원: ab-(넘쳐) + unda(물결) = '물결이 넘쳐흐름'. undulate(물결치다)와 같은 뿌리. 형용사 abundant는 be abundant in(~이 풍부하다) 형태로 시험 단골.",
+      "family": [
+        {
+          "word": "abundant",
+          "pos": "a.",
+          "ko": "풍부한"
+        },
+        {
+          "word": "abound",
+          "pos": "v.",
+          "ko": "많이 있다, 넘쳐 나다"
+        }
+      ]
+    },
+    {
+      "headword": "plethora",
+      "pos": "n.",
+      "ko": "과잉, 지나치게 많음",
+      "example_en": "Consumers now face a plethora of streaming services, each with its own fee.",
+      "example_ko": "소비자들은 이제 각자 요금을 받는 수많은 스트리밍 서비스에 직면해 있다.",
+      "collocations": [
+        "a plethora of options",
+        "a plethora of choices"
+      ],
+      "note": "그리스어 plēthōrē(가득 참) — 원래 의학 용어 '혈액 과다'라서 '필요 이상으로 많다'는 뉘앙스가 깔린다. abundance(풍부함, 긍정적)와 달리 '넘쳐서 부담'일 때 잘 쓴다.",
+      "related": [
+        {
+          "word": "abundance",
+          "ko": "풍부함",
+          "note": "대체로 긍정적 — plethora는 과잉·부담 쪽으로 기운다"
+        }
+      ]
+    },
+    {
+      "headword": "empower",
+      "pos": "v.",
+      "ko": "힘을 실어 주다, 권한을 부여하다",
+      "example_en": "The new app empowers patients to track their own medical records.",
+      "example_ko": "새 앱은 환자들이 자신의 진료 기록을 직접 추적할 수 있게 해 준다.",
+      "collocations": [
+        "empower A to do",
+        "empower employees",
+        "women's empowerment"
+      ],
+      "note": "em-(= en-, 만들다) + power = '힘 있게 만들다'. en-/em- 접두사는 동사를 만든다: enable(가능하게 하다)·enrich(풍요롭게 하다)·endanger(위험에 빠뜨리다).",
+      "family": [
+        {
+          "word": "empowerment",
+          "pos": "n.",
+          "ko": "권한 부여, 역량 강화"
+        },
+        {
+          "word": "empowering",
+          "pos": "a.",
+          "ko": "자신감·힘을 북돋우는"
+        }
+      ]
+    },
+    {
+      "headword": "subsequent",
+      "pos": "a.",
+      "ko": "그 후의, 이어지는",
+      "example_en": "Sales dropped sharply in March but recovered in subsequent months.",
+      "example_ko": "매출은 3월에 급감했지만 그 후 몇 달 동안 회복되었다.",
+      "collocations": [
+        "subsequent to",
+        "in subsequent years"
+      ],
+      "note": "sub-(아래·뒤) + sequ(따르다) = '뒤따라오는'. sequence(순서)·consequence(결과)와 같은 뿌리. subsequent to = after의 격식체(토익 빈출).",
+      "family": [
+        {
+          "word": "subsequently",
+          "pos": "ad.",
+          "ko": "그 후에, 나중에"
+        }
+      ],
+      "related": [
+        {
+          "word": "consequent",
+          "ko": "결과로 일어나는",
+          "note": "con-(함께) 따라오는 = '그 결과의' — subsequent는 시간상 '뒤의'일 뿐 인과는 없다"
+        }
+      ]
+    },
+    {
+      "headword": "taxing",
+      "pos": "a.",
+      "ko": "힘든, 진을 빼는",
+      "example_en": "Managing two teams across time zones proved more taxing than she expected.",
+      "example_ko": "시간대가 다른 두 팀을 관리하는 일은 그녀가 예상한 것보다 더 버거웠다.",
+      "collocations": [
+        "physically taxing",
+        "mentally taxing"
+      ],
+      "note": "tax(세금)의 원뜻은 '부담을 지우다' — 그래서 동사 tax는 '(체력·인내를) 혹사하다', 형용사 taxing은 '진을 빼는'. tax one's patience(인내심을 시험하다)도 같은 그림.",
+      "related": [
+        {
+          "word": "taxable",
+          "ko": "과세 대상인",
+          "note": "세금 쪽 뜻만 — taxing과 혼동 주의"
+        }
+      ]
+    },
+    {
+      "headword": "striking",
+      "pos": "a.",
+      "ko": "눈에 띄는, 두드러진",
+      "example_en": "There is a striking contrast between the two companies' growth rates.",
+      "example_ko": "두 회사의 성장률 사이에는 두드러진 대조가 있다.",
+      "collocations": [
+        "a striking contrast",
+        "a striking resemblance",
+        "strikingly similar"
+      ],
+      "note": "strike(치다)에서 — '눈을 탁 치는' 것이 striking. 단, 노사 맥락의 striking workers는 '파업 중인 노동자'라 뜻이 갈라진다.",
+      "family": [
+        {
+          "word": "strikingly",
+          "pos": "ad.",
+          "ko": "눈에 띄게, 현저히"
+        },
+        {
+          "word": "strike",
+          "pos": "v./n.",
+          "ko": "치다; 파업(하다)"
+        }
+      ]
+    }
+  ]
+}
