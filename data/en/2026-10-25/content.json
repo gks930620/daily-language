@@ -1,0 +1,335 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-25",
+  "passage_note": "과학·환경 — 바다가 데워지자 하얗게 질린 산호초, 열에 강한 산호를 길러 옮겨 심는 '보조 진화'는 해법인가 시간 벌기인가(논설)",
+  "sentences": [
+    {
+      "en": "Coral reefs cover less than one percent of the ocean floor, yet they shelter roughly a quarter of all marine species, which is why the mass bleaching events now sweeping the tropics have alarmed scientists far beyond the field of marine biology.",
+      "ko": "산호초는 해저의 1퍼센트도 채 차지하지 않지만 전체 해양 생물종의 약 4분의 1이 그곳에 깃들어 산다. 그래서 지금 열대 바다를 휩쓸고 있는 대규모 백화 현상은 해양생물학 분야를 훨씬 넘어 여러 과학자들에게 경각심을 불러일으켰다.",
+      "structure": "· ~, yet ~ : 역접의 등위접속사 yet — '~이지만 (그런데도)'.\n· which is why ~ : 앞 절 전체를 선행사로 받는 계속적 용법의 관계대명사 which — '그래서 ~이다'.\n· now sweeping the tropics : 현재분사구가 the mass bleaching events를 뒤에서 수식.\n· far beyond ~ : 부사 far가 전치사구를 강조 — '~을 훨씬 넘어'.",
+      "vocab_notes": [
+        { "word": "coral reef", "ko": "산호초" },
+        { "word": "cover", "ko": "(면적을) 차지하다, 덮다" },
+        { "word": "ocean floor", "ko": "해저" },
+        { "word": "yet", "ko": "그러나, 그런데도" },
+        { "word": "shelter", "ko": "보호하다, 서식처가 되어 주다" },
+        { "word": "roughly", "ko": "대략" },
+        { "word": "a quarter", "ko": "4분의 1" },
+        { "word": "marine", "ko": "바다의, 해양의" },
+        { "word": "species", "ko": "(생물의) 종 — 단수·복수 동형" },
+        { "word": "mass", "ko": "대규모의, 대량의" },
+        { "word": "bleaching", "ko": "(산호의) 백화 현상, 하얗게 바램" },
+        { "word": "event", "ko": "(현상의) 발생, 사건" },
+        { "word": "sweep", "ko": "휩쓸다" },
+        { "word": "the tropics", "ko": "열대 지방" },
+        { "word": "alarm", "ko": "불안하게 하다, 경각심을 주다" },
+        { "word": "far beyond", "ko": "~을 훨씬 넘어" },
+        { "word": "field", "ko": "분야" },
+        { "word": "marine biology", "ko": "해양생물학" }
+      ]
+    },
+    {
+      "en": "Bleaching occurs when water that is unusually warm for weeks on end prompts corals to expel the microscopic algae living in their tissues, stripping them of both their color and their main source of food.",
+      "ko": "백화는 몇 주 내내 이례적으로 따뜻한 바닷물 때문에 산호가 자기 조직 속에 사는 미세한 조류를 몸 밖으로 내보낼 때 일어나는데, 그러면 산호는 색깔과 주된 먹이 공급원을 한꺼번에 잃게 된다.",
+      "structure": "· when 부사절의 주어는 water that is unusually warm for weeks on end(주격 관계대명사절이 water 수식), 동사는 prompts.\n· prompt + 목적어 + to부정사 : '~가 …하도록 유발하다'.\n· living in their tissues : 현재분사구가 algae를 뒤에서 수식.\n· stripping them of ~ : 결과를 나타내는 분사구문(= and it strips them of ~).\n· strip A of B : 'A에게서 B를 벗겨 내다/빼앗다' — rob A of B, deprive A of B와 같은 구조.\n· both A and B : 'A와 B 둘 다'.",
+      "vocab_notes": [
+        { "word": "occur", "ko": "발생하다, 일어나다" },
+        { "word": "unusually", "ko": "이례적으로, 평소와 달리" },
+        { "word": "for weeks on end", "ko": "몇 주 동안 계속" },
+        { "word": "prompt", "ko": "(~하도록) 유발하다, 촉발하다" },
+        { "word": "expel", "ko": "내쫓다, (몸 밖으로) 배출하다" },
+        { "word": "microscopic", "ko": "현미경으로 봐야 보이는, 미세한" },
+        { "word": "algae", "ko": "조류(藻類), 말 — 단수형은 alga" },
+        { "word": "tissue", "ko": "(생물의) 조직" },
+        { "word": "strip A of B", "ko": "A에게서 B를 벗겨 내다/빼앗다" },
+        { "word": "source", "ko": "원천, 공급원" }
+      ]
+    },
+    {
+      "en": "Faced with this, some researchers have begun breeding heat-tolerant corals in laboratory tanks and transplanting them onto damaged reefs, an approach they call 'assisted evolution.'",
+      "ko": "이런 상황에 직면하자 일부 연구자들은 열에 강한 산호를 실험실 수조에서 길러 손상된 산호초에 옮겨 심기 시작했는데, 그들은 이 방식을 '보조 진화'라고 부른다.",
+      "structure": "· Faced with this : 수동의 분사구문(= As they were faced with this) — 앞의 Being이 생략된 형태.\n· have begun breeding ~ and transplanting ~ : begin의 목적어로 동명사 두 개가 and로 병렬.\n· , an approach they call ~ : 앞 내용 전체와 동격인 명사구. they call 앞에 목적격 관계대명사(that/which)가 생략됐고, call + 목적어 + 목적격보어 구조에서 목적어가 빠진 형태.",
+      "vocab_notes": [
+        { "word": "be faced with", "ko": "~에 직면하다" },
+        { "word": "researcher", "ko": "연구자" },
+        { "word": "breed", "ko": "번식시키다, 길러 내다" },
+        { "word": "heat-tolerant", "ko": "열에 강한, 고온 내성이 있는" },
+        { "word": "laboratory tank", "ko": "실험실 수조" },
+        { "word": "transplant", "ko": "이식하다, 옮겨 심다" },
+        { "word": "damaged", "ko": "손상된" },
+        { "word": "approach", "ko": "접근법, 방식" },
+        { "word": "assisted", "ko": "(사람의) 도움을 받은, 보조된" },
+        { "word": "evolution", "ko": "진화" }
+      ]
+    },
+    {
+      "en": "Critics, however, warn that such projects, however ingenious, are painstakingly slow and costly, and that they risk lulling governments into believing that the reefs can be rescued without curbing the emissions that are cooking them in the first place.",
+      "ko": "그러나 비판자들은 이런 사업이 아무리 기발하더라도 지독하게 느리고 비용이 많이 들며, 애초에 산호초를 달구고 있는 배출가스를 억제하지 않고도 산호초를 구할 수 있다고 정부가 믿으며 방심하게 만들 위험이 있다고 경고한다.",
+      "structure": "· however가 두 번 나온다: 첫째(Critics, however,)는 삽입된 접속부사 '그러나', 둘째(however ingenious)는 '아무리 ~하더라도'의 양보 표현(= however ingenious they may be에서 주어·동사 생략).\n· warn that ~, and that ~ : warn의 목적어 that절 두 개가 and로 병렬.\n· risk + 동명사 : '~할 위험이 있다'.\n· lull A into -ing : 'A를 달래어(방심시켜) ~하게 만들다'.\n· without curbing ~ : 전치사 without + 동명사. that are cooking them은 주격 관계대명사절로 the emissions 수식(them = the reefs).",
+      "vocab_notes": [
+        { "word": "critic", "ko": "비판자, 비평가" },
+        { "word": "however", "ko": "그러나" },
+        { "word": "warn", "ko": "경고하다" },
+        { "word": "project", "ko": "(대규모) 사업, 프로젝트" },
+        { "word": "however ingenious", "ko": "아무리 기발하더라도" },
+        { "word": "ingenious", "ko": "기발한, 독창적인" },
+        { "word": "painstakingly", "ko": "공들여; (느림·어려움을 강조해) 지독하게" },
+        { "word": "costly", "ko": "비용이 많이 드는" },
+        { "word": "risk", "ko": "(~할) 위험이 있다, 위험을 무릅쓰다" },
+        { "word": "lull", "ko": "달래다, 안심시켜 방심하게 하다" },
+        { "word": "rescue", "ko": "구하다, 구조하다" },
+        { "word": "curb", "ko": "억제하다" },
+        { "word": "emission", "ko": "배출(가스)" },
+        { "word": "cook", "ko": "(비유) 뜨겁게 달구다, 익히다" },
+        { "word": "in the first place", "ko": "애초에, 처음부터" }
+      ]
+    },
+    {
+      "en": "Seen this way, assisted evolution is less a cure than a means of buying time—worthwhile only if the time it buys is actually used to cool the oceans.",
+      "ko": "이렇게 보면 보조 진화는 치료책이라기보다 시간을 버는 수단이며, 그렇게 번 시간을 실제로 바다를 식히는 데 쓸 때에만 가치가 있다.",
+      "structure": "· Seen this way : 수동의 분사구문(= If it is seen this way) — '이렇게 보면'.\n· less A than B : 'A라기보다는 B' (= not so much A as B).\n· 대시(—) 뒤 worthwhile only if ~ : 앞의 a means of buying time을 부연하는 형용사구(앞에 which is가 생략된 것으로 볼 수 있음).\n· the time it buys : 목적격 관계대명사 생략 — '그것이 버는 시간'.\n· be used to + 동사원형 : '~하는 데 사용되다'(수동태 + 목적의 to부정사). be used to -ing(~에 익숙하다)와 구별.",
+      "vocab_notes": [
+        { "word": "seen this way", "ko": "이렇게 보면" },
+        { "word": "less A than B", "ko": "A라기보다는 B" },
+        { "word": "cure", "ko": "치료법, 해결책" },
+        { "word": "means", "ko": "수단 — 단수·복수 동형" },
+        { "word": "buy time", "ko": "시간을 벌다" },
+        { "word": "worthwhile", "ko": "(시간·노력을 들일) 가치가 있는" },
+        { "word": "only if", "ko": "~할 때에만" },
+        { "word": "actually", "ko": "실제로" },
+        { "word": "cool", "ko": "식히다" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "bleach",
+      "pos": "v.",
+      "ko": "표백하다; (색이) 하얗게 바래다",
+      "example_en": "Weeks of record heat bleached large sections of the reef last summer.",
+      "example_ko": "지난여름 몇 주간 이어진 기록적 폭염으로 산호초의 넓은 구역이 하얗게 바랬다.",
+      "collocations": ["coral bleaching", "sun-bleached"],
+      "note": "'창백한(pale)'을 뜻하는 옛말에서 나왔고 bleak(황량한·암울한)와 먼 형제 — 둘 다 '색이 빠져 허옇다'는 이미지다.",
+      "family": [
+        { "word": "bleaching", "pos": "n.", "ko": "표백; (산호의) 백화 현상" },
+        { "word": "bleach", "pos": "n.", "ko": "표백제" }
+      ],
+      "related": [
+        { "word": "bleak", "ko": "황량한, 암울한", "note": "같은 '창백한' 계열이지만 bleak은 풍경·전망이 '희망 없이 허옇다' — a bleak outlook(암울한 전망)" }
+      ]
+    },
+    {
+      "headword": "expel",
+      "pos": "v.",
+      "ko": "내쫓다, 추방하다; (몸 밖으로) 배출하다",
+      "example_en": "The school expelled two students for cheating on the final exam.",
+      "example_ko": "학교는 기말시험 부정행위로 학생 두 명을 퇴학시켰다.",
+      "collocations": ["be expelled from school", "expel a diplomat"],
+      "note": "pel = 몰다·밀다. ex(밖으로)+pel = 밖으로 몰아내다. compel(함께 몰다=강요하다)·propel(앞으로 몰다=추진하다)·repel(뒤로 몰다=물리치다)·dispel(흩어지게 몰다=떨쳐 내다)이 모두 같은 뿌리.",
+      "family": [
+        { "word": "expulsion", "pos": "n.", "ko": "추방, 퇴학; 배출 — 명사에선 -pel이 -pulsion으로 바뀐다" }
+      ],
+      "related": [
+        { "word": "dispel", "ko": "떨쳐 버리다, 불식시키다", "note": "같은 pel 계열 — 사람이 아니라 의심·소문·공포를 흩어 없앨 때: dispel rumors/fears" }
+      ]
+    },
+    {
+      "headword": "tolerance",
+      "pos": "n.",
+      "ko": "내성, 견딜 수 있는 한도; 관용",
+      "example_en": "Farmers are switching to crop varieties with a higher tolerance for drought.",
+      "example_ko": "농민들은 가뭄에 대한 내성이 더 강한 작물 품종으로 바꾸고 있다.",
+      "collocations": ["heat tolerance", "zero tolerance", "tolerance for risk"],
+      "note": "형용사가 둘로 갈라진다 — tolerant는 '견디는 쪽'(관대한, 내성이 있는), tolerable은 '견뎌지는 쪽'(견딜 만한). -ant는 행위자, -able은 대상이라는 규칙으로 외워라.",
+      "family": [
+        { "word": "tolerant", "pos": "a.", "ko": "관대한; (~에) 내성이 있는 — heat-tolerant 열에 강한" },
+        { "word": "tolerable", "pos": "a.", "ko": "견딜 만한, 그런대로 괜찮은" },
+        { "word": "intolerance", "pos": "n.", "ko": "불관용; (음식) 과민증 — lactose intolerance 유당불내증" }
+      ]
+    },
+    {
+      "headword": "ingenious",
+      "pos": "a.",
+      "ko": "기발한, 독창적인",
+      "example_en": "The engineer came up with an ingenious way to cut the factory's water use in half.",
+      "example_ko": "그 엔지니어는 공장의 물 사용량을 절반으로 줄이는 기발한 방법을 생각해 냈다.",
+      "collocations": ["an ingenious solution", "an ingenious device"],
+      "note": "ingenuous(순진한)와 철자 한 글자 차이 — ingenious 속의 'geni'를 genius(천재)로 떠올리면 '머리 좋은' 쪽이 된다.",
+      "family": [
+        { "word": "ingenuity", "pos": "n.", "ko": "독창성, 창의력 — 명사는 철자가 ingenu-로 바뀌니 주의" }
+      ],
+      "related": [
+        { "word": "ingenuous", "ko": "순진한, 꾸밈없는", "note": "genuine(진짜의)처럼 '꾸밈없다'는 뜻 — 영리한 ingenious와 혼동 주의" }
+      ]
+    },
+    {
+      "headword": "painstaking",
+      "pos": "a.",
+      "ko": "공들인, 꼼꼼한, 품이 많이 드는",
+      "example_en": "Restoring the damaged mural required months of painstaking work.",
+      "example_ko": "손상된 벽화를 복원하는 데는 몇 달에 걸친 공들인 작업이 필요했다.",
+      "collocations": ["painstaking research", "painstaking effort"],
+      "note": "pains(수고)+taking(들이는) — take pains(애쓰다)에서 왔다. pain(고통)을 '주는'이 아니라 수고를 '들이는'이라는 뜻이라 칭찬에도 쓴다.",
+      "family": [
+        { "word": "painstakingly", "pos": "ad.", "ko": "공들여; (느림·어려움을 강조해) 지독하게" }
+      ],
+      "related": [
+        { "word": "take pains to ~", "ko": "~하려고 애쓰다", "note": "복수형 pains = '수고' — painstaking의 출처" }
+      ]
+    },
+    {
+      "headword": "lull",
+      "pos": "v. / n.",
+      "ko": "(v.) 달래다, 안심시켜 방심하게 하다 / (n.) 소강상태",
+      "example_en": "Years of low interest rates lulled many borrowers into a false sense of security.",
+      "example_ko": "수년간의 저금리는 많은 대출자를 거짓 안도감에 빠뜨렸다.",
+      "collocations": ["lull A into a false sense of security", "a lull in the fighting"],
+      "note": "아기를 자장가로 재우듯 '조용히 달래다'가 핵심 — 동사는 lull A into ~(달래서 방심하게 만들다), 명사 a lull은 '폭풍 사이 잠깐 잠잠한 때'(a lull in sales 판매 소강).",
+      "related": [
+        { "word": "lullaby", "ko": "자장가", "note": "lull(달래 재우다)에서 나온 말 — 함께 외우면 뜻이 바로 잡힌다" }
+      ]
+    },
+    {
+      "headword": "acidification",
+      "pos": "n.",
+      "ko": "산성화",
+      "example_en": "Ocean acidification makes it harder for shellfish to build their shells.",
+      "example_ko": "해양 산성화는 조개류가 껍데기를 만들기 어렵게 한다.",
+      "collocations": ["ocean acidification", "soil acidification"],
+      "note": "acid(산)+-ify(~로 만들다)+-cation(명사). -ify 동사의 명사는 -ification이 규칙: simplify→simplification, purify→purification, intensify→intensification.",
+      "family": [
+        { "word": "acidify", "pos": "v.", "ko": "산성화하다" },
+        { "word": "acidic", "pos": "a.", "ko": "산성의" }
+      ]
+    },
+    {
+      "headword": "decimate",
+      "pos": "v.",
+      "ko": "(많은 수를) 죽이다, 대폭 줄이다",
+      "example_en": "A fungal disease has decimated frog populations across Central America.",
+      "example_ko": "곰팡이 질병이 중앙아메리카 전역의 개구리 개체군을 크게 감소시켰다.",
+      "collocations": ["decimate a population", "be decimated by disease"],
+      "note": "어원 decem(10) — 로마군이 반란 부대를 '10명 중 1명꼴로' 처형하던 벌에서 나왔다. 지금은 '대부분을 쓸어버리다'로 훨씬 크게 쓴다. decimal(십진법의)과 같은 뿌리."
+    },
+    {
+      "headword": "marine",
+      "pos": "a.",
+      "ko": "바다의, 해양의",
+      "example_en": "The oil spill caused lasting damage to marine life along the coast.",
+      "example_ko": "기름 유출은 해안을 따라 해양 생물에 오래가는 피해를 입혔다.",
+      "collocations": ["marine life", "marine ecosystem", "marine biologist"],
+      "note": "mar = 바다 — submarine(바다 밑=잠수함), mariner(선원), aquamarine(바닷물색). 명사 a Marine은 '해병대원'.",
+      "related": [
+        { "word": "maritime", "ko": "해상의, 해운의", "note": "marine은 바다의 생물·환경(marine life), maritime은 바다를 이용하는 인간 활동(maritime trade, maritime law)" }
+      ]
+    },
+    {
+      "headword": "propagate",
+      "pos": "v.",
+      "ko": "번식시키다; (사상·정보를) 퍼뜨리다",
+      "example_en": "Misinformation propagates far faster online than corrections do.",
+      "example_ko": "온라인에서 허위 정보는 정정 보도보다 훨씬 빨리 퍼진다.",
+      "collocations": ["propagate plants from cuttings", "propagate a myth"],
+      "note": "원래 '꺾꽂이로 식물을 늘리다'라는 원예 용어 — 거기서 '사상·소문을 퍼뜨리다'로 넓어졌다. propaganda(정치 선전)가 같은 뿌리라 '퍼뜨리다'에 부정적 뉘앙스가 실리기도 한다.",
+      "family": [
+        { "word": "propagation", "pos": "n.", "ko": "번식; 전파" },
+        { "word": "propaganda", "pos": "n.", "ko": "(정치적) 선전 — 같은 뿌리, 부정적 뉘앙스" }
+      ]
+    },
+    {
+      "headword": "dissipate",
+      "pos": "v.",
+      "ko": "(서서히) 흩어져 사라지다; (열을) 발산하다; 탕진하다",
+      "example_en": "The morning fog dissipated by noon, and flights resumed.",
+      "example_ko": "아침 안개가 정오쯤 걷히자 항공편 운항이 재개됐다.",
+      "collocations": ["dissipate heat", "tensions dissipate"],
+      "note": "'사라지다' 중에서도 '흩어지며 서서히' 없어지는 뉘앙스 — fog·heat·anger·tension이 주어로 잘 온다. 사람이 재산·재능을 dissipate하면 '탕진하다'.",
+      "family": [
+        { "word": "dissipation", "pos": "n.", "ko": "소멸, 발산; 방탕" }
+      ]
+    },
+    {
+      "headword": "intervene",
+      "pos": "v.",
+      "ko": "개입하다, 끼어들다",
+      "example_en": "The central bank intervened to stop the currency from falling further.",
+      "example_ko": "중앙은행은 통화 가치가 더 떨어지는 것을 막기 위해 개입했다.",
+      "collocations": ["intervene in the market", "intervene on behalf of"],
+      "note": "inter(사이에)+vene(오다) = 사이에 들어오다. vene/vent(오다) 형제: convene(함께 오다=소집하다), prevent(먼저 와서 막다), venue(사람들이 오는 곳=장소).",
+      "family": [
+        { "word": "intervention", "pos": "n.", "ko": "개입, 중재 — military intervention 군사 개입" }
+      ]
+    },
+    {
+      "headword": "pinpoint",
+      "pos": "v.",
+      "ko": "정확히 찾아내다, 콕 집어내다",
+      "example_en": "Investigators have yet to pinpoint the cause of the outage.",
+      "example_ko": "조사관들은 아직 정전의 원인을 정확히 밝혀내지 못했다.",
+      "collocations": ["pinpoint the cause", "pinpoint accuracy"],
+      "note": "pin(핀)+point(끝) = 핀 끝으로 콕 찍듯 짚다. identify(확인하다)보다 '정확한 위치·원인'을 강조하고, 형용사로 pinpoint accuracy(한 치 오차 없는 정확도)처럼도 쓴다."
+    },
+    {
+      "headword": "underscore",
+      "pos": "v.",
+      "ko": "강조하다, 부각하다",
+      "example_en": "The latest figures underscore the need for faster action on inflation.",
+      "example_ko": "최신 수치는 물가에 대한 더 빠른 대응이 필요하다는 점을 부각한다.",
+      "collocations": ["underscore the need for", "underscore the importance of"],
+      "note": "under(밑에)+score(긋다) = 밑줄 긋다 → '중요성을 부각하다'. 뉴스에서 주어가 사건·수치일 때 '~임을 보여 주다'로 단골 등장한다.",
+      "related": [
+        { "word": "underline", "ko": "강조하다", "note": "사실상 동의어 — 둘 다 '밑줄을 긋다'에서 나온 비유" }
+      ]
+    },
+    {
+      "headword": "envisage",
+      "pos": "v.",
+      "ko": "(미래를) 마음속에 그리다, 구상하다",
+      "example_en": "The plan envisages a fully automated warehouse by 2030.",
+      "example_ko": "그 계획은 2030년까지 완전 자동화된 창고를 구상하고 있다.",
+      "collocations": ["envisage a future", "envisage a role for"],
+      "note": "en(안에)+visage(얼굴·모습) = 아직 없는 모습을 마음속에 떠올리다. 계획·문서가 주어로 와서 '~을 상정하다'로도 쓴다.",
+      "related": [
+        { "word": "envision", "ko": "마음에 그리다", "note": "같은 뜻 — 미국 영어는 envision, 영국 영어는 envisage를 더 많이 쓴다" }
+      ]
+    },
+    {
+      "headword": "deplore",
+      "pos": "v.",
+      "ko": "개탄하다, 강하게 비난하다",
+      "example_en": "Human rights groups deplored the decision to close the border.",
+      "example_ko": "인권 단체들은 국경을 폐쇄하기로 한 결정을 강하게 비난했다.",
+      "collocations": ["deplore the violence", "deplore the decision"],
+      "note": "de(강조)+plore(울다) = 울며 한탄하다. 단순히 '싫다'가 아니라 공식 성명에서 쓰는 강한 도덕적 비난이다.",
+      "family": [
+        { "word": "deplorable", "pos": "a.", "ko": "개탄스러운, 비참한 — deplorable conditions 열악한 환경" }
+      ],
+      "related": [
+        { "word": "implore", "ko": "애원하다", "note": "같은 plore(울다) — 울며 매달리다: implore A to ~(A에게 ~해 달라고 애원하다)" }
+      ]
+    },
+    {
+      "headword": "vie",
+      "pos": "v.",
+      "ko": "경쟁하다, 다투다",
+      "example_en": "Dozens of cities are vying to host the new battery plant.",
+      "example_ko": "수십 개 도시가 새 배터리 공장을 유치하려고 경쟁하고 있다.",
+      "collocations": ["vie for attention", "vie with rivals"],
+      "note": "현재분사는 vying — die→dying, lie→lying과 같은 -ie→-ying 규칙. 거의 항상 vie for(~을 얻으려고)·vie with(~와)·vie to ~ 형태로 쓴다."
+    },
+    {
+      "headword": "commendable",
+      "pos": "a.",
+      "ko": "칭찬할 만한, 훌륭한",
+      "example_en": "The company's quick response to the product recall was commendable.",
+      "example_ko": "제품 리콜에 대한 그 회사의 신속한 대응은 칭찬할 만했다.",
+      "collocations": ["a commendable effort", "commendable restraint"],
+      "note": "commend(칭찬하다)+-able. recommend(추천하다)는 re-(강조)+commend — '좋다고 거듭 말하다'라서 같은 뿌리다.",
+      "family": [
+        { "word": "commend", "pos": "v.", "ko": "칭찬하다; (공식적으로) 추천하다" },
+        { "word": "commendation", "pos": "n.", "ko": "표창, 칭찬" }
+      ]
+    }
+  ]
+}
