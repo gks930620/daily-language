@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-26",
+  "words": [
+    {
+      "headword": "referral",
+      "pos": "n.",
+      "ko": "(전문가·기관으로의) 의뢰, 소개",
+      "example_en": "You will need a referral from your doctor to see a specialist.",
+      "example_ko": "전문의를 만나려면 주치의의 의뢰서가 필요합니다.",
+      "collocations": [
+        "make a referral",
+        "referral letter",
+        "customer referral program"
+      ],
+      "note": "refer(~로 보내다/언급하다)에 명사 어미 -al이 붙은 꼴(arrive→arrival, approve→approval과 같은 규칙). 철자는 r을 겹쳐 referral — 강세가 뒤(re-FER)에 있어 자음을 겹친다.",
+      "family": [
+        {
+          "word": "refer",
+          "pos": "v.",
+          "ko": "(~에게) 보내다, 의뢰하다; 언급하다"
+        },
+        {
+          "word": "reference",
+          "pos": "n.",
+          "ko": "언급; 참고; 추천서"
+        },
+        {
+          "word": "referee",
+          "pos": "n.",
+          "ko": "심판; 신원 보증인"
+        }
+      ]
+    },
+    {
+      "headword": "affliction",
+      "pos": "n.",
+      "ko": "고통, 질환, 고난",
+      "example_en": "Back pain is one of the most common afflictions among office workers.",
+      "example_ko": "요통은 사무직 노동자들 사이에서 가장 흔한 질환 중 하나다.",
+      "collocations": [
+        "a common affliction",
+        "suffer from an affliction"
+      ],
+      "note": "afflict는 '(병·문제가) 사람을 괴롭히다'로, 주어가 병·재난이고 사람이 목적어다: Poverty afflicts millions. 사람이 주어면 be afflicted with ~(~을 앓다).",
+      "family": [
+        {
+          "word": "afflict",
+          "pos": "v.",
+          "ko": "괴롭히다, 시달리게 하다"
+        },
+        {
+          "word": "afflicted",
+          "pos": "a.",
+          "ko": "시달리는, 고통받는"
+        }
+      ],
+      "related": [
+        {
+          "word": "inflict",
+          "ko": "(피해를) 가하다",
+          "note": "inflict는 가해자가 주어(inflict damage on ~), afflict는 고통 자체가 주어(Disease afflicts ~) — 방향이 반대다"
+        }
+      ]
+    },
+    {
+      "headword": "holistic",
+      "pos": "a.",
+      "ko": "전체론적인, 전인적인",
+      "example_en": "The school takes a holistic approach to education, focusing on students' emotional as well as academic needs.",
+      "example_ko": "그 학교는 학생의 학업적 필요뿐 아니라 정서적 필요에도 초점을 맞추는 전인적 교육 방식을 취한다.",
+      "collocations": [
+        "a holistic approach",
+        "holistic care",
+        "holistic view"
+      ],
+      "note": "어원: 그리스어 holos(전체) — whole과 같은 뿌리. 부분(증상 하나)이 아니라 사람·문제를 '통째로' 본다는 뜻. 'holy(신성한)'와는 무관하다.",
+      "family": [
+        {
+          "word": "holistically",
+          "pos": "ad.",
+          "ko": "전체론적으로"
+        },
+        {
+          "word": "holism",
+          "pos": "n.",
+          "ko": "전체론"
+        }
+      ]
+    },
+    {
+      "headword": "pharmaceutical",
+      "pos": "a.",
+      "ko": "제약의, 약학의 / (n. 복수) 의약품",
+      "example_en": "Several pharmaceutical companies are racing to develop a cheaper version of the drug.",
+      "example_ko": "여러 제약 회사가 그 약의 더 저렴한 버전을 개발하려고 경쟁하고 있다.",
+      "collocations": [
+        "pharmaceutical company",
+        "pharmaceutical industry",
+        "pharmaceutical giant"
+      ],
+      "note": "어원: 그리스어 pharmakon(약). pharmacy(약국)·pharmacist(약사)와 한 묶음. 뉴스에선 줄여서 pharma(Big Pharma = 거대 제약 업계)로 자주 나온다.",
+      "family": [
+        {
+          "word": "pharmacy",
+          "pos": "n.",
+          "ko": "약국; 약학"
+        },
+        {
+          "word": "pharmacist",
+          "pos": "n.",
+          "ko": "약사"
+        },
+        {
+          "word": "pharmaceuticals",
+          "pos": "n.",
+          "ko": "의약품(복수형)"
+        }
+      ]
+    },
+    {
+      "headword": "alienation",
+      "pos": "n.",
+      "ko": "소외, 소외감; 멀어짐",
+      "example_en": "Long working hours can lead to a sense of alienation from family and friends.",
+      "example_ko": "긴 근무 시간은 가족과 친구로부터의 소외감으로 이어질 수 있다.",
+      "collocations": [
+        "a sense of alienation",
+        "social alienation"
+      ],
+      "note": "alien(외부인, 이방인) → alienate(이방인으로 만들다 = 멀어지게 하다) → alienation. 'alienate customers(고객을 등 돌리게 하다)'처럼 비즈니스 기사에서도 자주 쓰인다.",
+      "family": [
+        {
+          "word": "alien",
+          "pos": "a./n.",
+          "ko": "낯선, 이질적인 / 외국인, 외계인"
+        },
+        {
+          "word": "alienate",
+          "pos": "v.",
+          "ko": "멀어지게 하다, 등 돌리게 하다"
+        }
+      ]
+    },
+    {
+      "headword": "overburdened",
+      "pos": "a.",
+      "ko": "과중한 부담을 진, 과부하 걸린",
+      "example_en": "Overburdened hospitals are struggling to cope with the winter surge in patients.",
+      "example_ko": "과부하 걸린 병원들이 겨울철 환자 급증에 대처하느라 애쓰고 있다.",
+      "collocations": [
+        "overburdened staff",
+        "overburdened health system"
+      ],
+      "note": "over-(지나치게) + burden(짐) + -ed. over-는 '과잉' 접두사로 overworked(과로한)·overcrowded(과밀한)·overstretched(무리하게 늘어난)처럼 공공 서비스 위기 기사에 세트로 나온다.",
+      "family": [
+        {
+          "word": "burden",
+          "pos": "n./v.",
+          "ko": "짐, 부담 / 부담을 지우다"
+        },
+        {
+          "word": "burdensome",
+          "pos": "a.",
+          "ko": "부담스러운"
+        }
+      ]
+    },
+    {
+      "headword": "medicalize",
+      "pos": "v.",
+      "ko": "(사회·일상 문제를) 의료 문제로 취급하다",
+      "example_en": "Some experts worry that we are medicalizing normal sadness by treating it with drugs.",
+      "example_ko": "일부 전문가들은 우리가 평범한 슬픔을 약으로 다스리며 의료 문제로 만들고 있다고 우려한다.",
+      "collocations": [
+        "medicalize everyday problems",
+        "the medicalization of grief"
+      ],
+      "note": "-ize는 '~로 만들다/~화하다'(modernize 현대화하다, privatize 민영화하다). medical + -ize = '의료의 영역으로 만들다' — 비판적 뉘앙스로 쓰이는 경우가 대부분이다.",
+      "family": [
+        {
+          "word": "medicalization",
+          "pos": "n.",
+          "ko": "의료화"
+        },
+        {
+          "word": "medication",
+          "pos": "n.",
+          "ko": "약, 약물 치료 — medicalization과 혼동 주의"
+        }
+      ]
+    },
+    {
+      "headword": "scant",
+      "pos": "a.",
+      "ko": "부족한, 빈약한, 거의 없는",
+      "example_en": "The company paid scant attention to customer complaints until sales began to fall.",
+      "example_ko": "그 회사는 매출이 떨어지기 시작할 때까지 고객 불만에 거의 관심을 기울이지 않았다.",
+      "collocations": [
+        "scant evidence",
+        "pay scant attention to",
+        "scant regard for"
+      ],
+      "note": "scant는 명사 앞에 붙어 '있어야 할 만큼 없다'는 불만의 뉘앙스(scant evidence = 근거 빈약). 비슷한 scanty는 주로 옷·양이 '쥐꼬리만 한'에 쓴다.",
+      "related": [
+        {
+          "word": "scarce",
+          "ko": "드문, 부족한",
+          "note": "scarce는 서술적으로 '(자원이) 귀하다'(Water is scarce), scant는 명사 앞 '(관심·근거가) 빈약한'에 잘 쓰인다"
+        },
+        {
+          "word": "meager",
+          "ko": "빈약한",
+          "note": "meager는 주로 돈·식사·수입의 양이 적을 때"
+        }
+      ]
+    },
+    {
+      "headword": "quantify",
+      "pos": "v.",
+      "ko": "수량화하다, 수치로 나타내다",
+      "example_en": "It is difficult to quantify the damage the scandal has done to the brand.",
+      "example_ko": "그 스캔들이 브랜드에 입힌 손상을 수치화하기는 어렵다.",
+      "collocations": [
+        "hard to quantify",
+        "quantify the impact",
+        "quantify the risk"
+      ],
+      "note": "quantity(양) + -fy(~로 만들다) = '양으로 만들다'. -fy 동사 규칙: simplify·clarify·intensify처럼 '~하게 만들다'. 반대 개념은 qualitative(질적인) — quantitative(양적인)와 짝으로 외운다.",
+      "family": [
+        {
+          "word": "quantity",
+          "pos": "n.",
+          "ko": "양"
+        },
+        {
+          "word": "quantitative",
+          "pos": "a.",
+          "ko": "양적인, 정량적인"
+        },
+        {
+          "word": "quantifiable",
+          "pos": "a.",
+          "ko": "수량화할 수 있는"
+        }
+      ],
+      "related": [
+        {
+          "word": "qualify",
+          "ko": "자격을 얻다",
+          "note": "quality(질)에서 온 qualify는 '수치화'가 아니라 '자격을 갖추다' — 철자 한 끗 차이"
+        }
+      ]
+    },
+    {
+      "headword": "beleaguered",
+      "pos": "a.",
+      "ko": "곤경에 처한, 시달리는, 사면초가의",
+      "example_en": "The beleaguered airline announced another round of job cuts this week.",
+      "example_ko": "곤경에 처한 그 항공사는 이번 주 또 한 차례의 인력 감축을 발표했다.",
+      "collocations": [
+        "beleaguered company",
+        "beleaguered government",
+        "beleaguered staff"
+      ],
+      "note": "원래 '(성이) 적에게 포위된'이라는 군사 용어 — be- + leaguer(진지, 포위군). 그래서 지금도 '사방에서 문제·비판에 둘러싸여 시달리는' 기업·정부·CEO에 붙는 시사 단골 형용사다."
+    },
+    {
+      "headword": "fledgling",
+      "pos": "a./n.",
+      "ko": "신생의, 걸음마 단계의 / 갓 깃털이 난 새",
+      "example_en": "The fledgling startup secured its first major investor last month.",
+      "example_ko": "그 신생 스타트업은 지난달 첫 대형 투자자를 확보했다.",
+      "collocations": [
+        "fledgling company",
+        "fledgling democracy",
+        "fledgling industry"
+      ],
+      "note": "fledge(새끼 새가 깃털이 다 나다) + -ling(작은 것). 둥지를 막 떠나려는 새끼 새의 이미지 → '이제 막 시작해 아직 불안정한' 기업·산업·민주주의. full-fledged(완전히 자란 = 본격적인)와 짝으로 외운다.",
+      "family": [
+        {
+          "word": "full-fledged",
+          "pos": "a.",
+          "ko": "본격적인, 완전한 자격을 갖춘"
+        }
+      ]
+    },
+    {
+      "headword": "ostracize",
+      "pos": "v.",
+      "ko": "(집단에서) 따돌리다, 배척하다",
+      "example_en": "Employees who reported the fraud were ostracized by their colleagues.",
+      "example_ko": "그 사기를 신고한 직원들은 동료들에게 따돌림을 당했다.",
+      "collocations": [
+        "be ostracized by",
+        "socially ostracized"
+      ],
+      "note": "어원: 고대 아테네의 도편추방(ostrakon = 도자기 조각에 추방할 사람의 이름을 적어 투표). 그래서 '공동체가 한 사람을 집단으로 밀어내다'라는 뜻이 된다.",
+      "family": [
+        {
+          "word": "ostracism",
+          "pos": "n.",
+          "ko": "배척, 따돌림; 도편추방"
+        }
+      ]
+    },
+    {
+      "headword": "sociable",
+      "pos": "a.",
+      "ko": "사교적인, 붙임성 있는",
+      "example_en": "She is very sociable and quickly made friends with her new coworkers.",
+      "example_ko": "그녀는 매우 사교적이어서 새 동료들과 금방 친해졌다.",
+      "collocations": [
+        "a sociable person",
+        "sociable hours"
+      ],
+      "note": "-able은 '~하기 좋은' — sociable은 사람의 '성격'(어울리기 좋아하는)에 쓴다. social은 '사회의/사회적인'으로 성격이 아니라 분야(social media, social problem)를 가리킨다.",
+      "related": [
+        {
+          "word": "social",
+          "ko": "사회의, 사회적인",
+          "note": "social은 분류·영역, sociable은 성격 — a sociable person(O) / a social person은 '사회적 동물' 같은 느낌"
+        },
+        {
+          "word": "antisocial",
+          "ko": "반사회적인; 비사교적인",
+          "note": "일상 회화에선 '사람 어울리기 싫어하는'의 의미로도 흔히 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "triage",
+      "pos": "n./v.",
+      "ko": "(응급) 환자 분류; 우선순위 정하기 / 우선순위를 매기다",
+      "example_en": "Nurses triage patients as soon as they arrive at the emergency room.",
+      "example_ko": "간호사들은 환자가 응급실에 도착하자마자 중증도를 분류한다.",
+      "collocations": [
+        "triage nurse",
+        "triage system",
+        "triage requests"
+      ],
+      "note": "프랑스어 trier(골라내다)에서 — 한정된 자원으로 '누구부터 처리할지 고른다'는 뜻. 의료 밖에서도 'triage emails(급한 메일부터 처리하다)'처럼 업무 우선순위 정하기에 널리 쓴다."
+    },
+    {
+      "headword": "palliative",
+      "pos": "a./n.",
+      "ko": "완화하는, 고통을 덜어 주는 / 임시방편",
+      "example_en": "The hospital opened a new ward for patients receiving palliative care.",
+      "example_ko": "그 병원은 완화 치료를 받는 환자를 위한 새 병동을 열었다.",
+      "collocations": [
+        "palliative care",
+        "a mere palliative"
+      ],
+      "note": "어원: 라틴어 pallium(망토) — 병을 고치는 게 아니라 '망토로 덮어' 고통만 가린다. 그래서 시사에선 'a palliative, not a cure(근본 해결이 아닌 임시방편)'라는 비판에도 쓰인다.",
+      "related": [
+        {
+          "word": "curative",
+          "ko": "치료하는",
+          "note": "curative는 병 자체를 고치고, palliative는 증상·고통만 덜어 준다"
+        }
+      ]
+    }
+  ]
+}
