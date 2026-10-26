@@ -4140,6 +4140,51 @@
     },
     "palliative": {
       "added_on": "2026-10-26"
+    },
+    "redeem": {
+      "added_on": "2026-10-27"
+    },
+    "perk": {
+      "added_on": "2026-10-27"
+    },
+    "issuer": {
+      "added_on": "2026-10-27"
+    },
+    "mint": {
+      "added_on": "2026-10-27"
+    },
+    "breakage": {
+      "added_on": "2026-10-27"
+    },
+    "ancillary": {
+      "added_on": "2026-10-27"
+    },
+    "tier": {
+      "added_on": "2026-10-27"
+    },
+    "voucher": {
+      "added_on": "2026-10-27"
+    },
+    "lock-in": {
+      "added_on": "2026-10-27"
+    },
+    "recourse": {
+      "added_on": "2026-10-27"
+    },
+    "fiduciary": {
+      "added_on": "2026-10-27"
+    },
+    "prorate": {
+      "added_on": "2026-10-27"
+    },
+    "unequivocal": {
+      "added_on": "2026-10-27"
+    },
+    "deplore": {
+      "added_on": "2026-10-27"
+    },
+    "reprisal": {
+      "added_on": "2026-10-27"
     }
   }
 }

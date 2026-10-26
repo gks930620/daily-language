@@ -1,0 +1,362 @@
+{
+  "date": "2026-10-27",
+  "words": [
+    {
+      "headword": "redeem",
+      "pos": "v.",
+      "ko": "(포인트·쿠폰을) 교환하다; 만회하다, 구제하다",
+      "example_en": "Points can be redeemed for gift cards or flight upgrades.",
+      "example_ko": "포인트는 상품권이나 항공 좌석 업그레이드로 교환할 수 있다.",
+      "collocations": [
+        "redeem points",
+        "redeem a voucher",
+        "redeem oneself"
+      ],
+      "note": "어원: re-(다시) + emere(사다) = '도로 사 오다'. 저당 잡힌 물건을 되사 오듯 포인트를 '되찾아 쓰고', 실수 뒤 명예를 '되찾는다(만회하다)' — 두 뜻이 한 뿌리.",
+      "family": [
+        {
+          "word": "redemption",
+          "pos": "n.",
+          "ko": "교환, 상환; 구원 — 명사형은 -deem이 -demp-로 바뀐다"
+        },
+        {
+          "word": "redeemable",
+          "pos": "a.",
+          "ko": "교환(상환) 가능한"
+        },
+        {
+          "word": "unredeemed",
+          "pos": "a.",
+          "ko": "사용되지 않은, 교환되지 않은"
+        }
+      ],
+      "related": [
+        {
+          "word": "deem",
+          "ko": "여기다, 간주하다",
+          "note": "철자만 겹칠 뿐 어원이 전혀 다르다 — redeem을 're+deem(다시 여기다)'로 쪼개면 틀린다"
+        }
+      ]
+    },
+    {
+      "headword": "perk",
+      "pos": "n.",
+      "ko": "(직장·회원의) 특전, 부가 혜택",
+      "example_en": "Free parking and a gym membership are among the perks of the job.",
+      "example_ko": "무료 주차와 헬스장 회원권이 그 일자리의 혜택에 포함된다.",
+      "collocations": [
+        "job perks",
+        "a nice perk",
+        "perks and benefits"
+      ],
+      "note": "perquisite(급여 외 특전)의 줄임말. benefits가 법·계약상 당연히 주는 복리후생이라면, perk는 '덤으로 얹어 주는' 가볍고 즐거운 혜택이라는 뉘앙스.",
+      "related": [
+        {
+          "word": "perk up",
+          "ko": "기운이 나다, 활기를 띠다",
+          "note": "동사 perk는 어원이 다른 별개 단어 — 'Sales perked up(매출이 살아났다)'처럼 경기 기사에 자주 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "issuer",
+      "pos": "n.",
+      "ko": "발행인, 발행 기관(카드사·채권 발행사 등)",
+      "example_en": "Contact your card issuer immediately if you notice an unauthorized charge.",
+      "example_ko": "승인하지 않은 결제를 발견하면 즉시 카드 발급사에 연락하세요.",
+      "collocations": [
+        "card issuer",
+        "bond issuer"
+      ],
+      "note": "issue의 핵심은 '내보내다' — 문제(issue)도 '밖으로 불거져 나온 것', 잡지 호(issue)도 '찍어 내보낸 것'. 금융에서 issue는 카드·채권·주식을 '발행하다'이고 -er이 붙어 발행 주체가 된다.",
+      "family": [
+        {
+          "word": "issue",
+          "pos": "v.",
+          "ko": "발행하다, 발급하다; (성명을) 내다"
+        },
+        {
+          "word": "reissue",
+          "pos": "v.",
+          "ko": "재발급하다"
+        }
+      ]
+    },
+    {
+      "headword": "mint",
+      "pos": "v.",
+      "ko": "(화폐를) 주조하다, 찍어내다; (신조어 등을) 만들어 내다",
+      "example_en": "The government minted a commemorative coin to mark the anniversary.",
+      "example_ko": "정부는 기념일을 맞아 기념주화를 주조했다.",
+      "collocations": [
+        "mint coins",
+        "newly minted",
+        "in mint condition"
+      ],
+      "note": "로마의 여신 Juno Moneta 신전에서 동전을 찍은 데서 mint와 money가 둘 다 나왔다(같은 뿌리). 'newly minted graduate(갓 졸업한)'처럼 '갓 만들어진'으로도 쓰이고, 'mint condition'은 '갓 찍은 동전처럼 새것 같은 상태'.",
+      "related": [
+        {
+          "word": "mint (n.)",
+          "ko": "박하",
+          "note": "식물 박하는 어원이 다른 동음이의어"
+        }
+      ]
+    },
+    {
+      "headword": "breakage",
+      "pos": "n.",
+      "ko": "(미사용 포인트·상품권으로 생기는) 낙전 수입; 파손(량)",
+      "example_en": "Retailers count on breakage, since many gift cards are never fully spent.",
+      "example_ko": "상품권 상당수가 끝까지 다 쓰이지 않기 때문에 소매업체는 낙전 수입을 기대한다.",
+      "collocations": [
+        "breakage revenue",
+        "breakage rate"
+      ],
+      "note": "원래 뜻은 운송 중 '깨져서 못 쓰게 된 몫'. 거기서 유통·항공업계 용어로 '팔렸지만 끝내 사용되지 않아 회사에 고스란히 남는 몫'(낙전)을 가리키게 됐다 — 마일리지 사업의 숨은 수익원.",
+      "family": [
+        {
+          "word": "break",
+          "pos": "v.",
+          "ko": "깨다"
+        },
+        {
+          "word": "breakable",
+          "pos": "a.",
+          "ko": "깨지기 쉬운"
+        }
+      ]
+    },
+    {
+      "headword": "ancillary",
+      "pos": "a.",
+      "ko": "부수적인, 보조의",
+      "example_en": "Budget airlines rely heavily on ancillary revenue such as baggage and seat fees.",
+      "example_ko": "저비용 항공사는 수하물·좌석 지정 수수료 같은 부대 수입에 크게 의존한다.",
+      "collocations": [
+        "ancillary revenue",
+        "ancillary services",
+        "ancillary costs"
+      ],
+      "note": "어원: 라틴어 ancilla(하녀) — 주인(본업)을 '시중드는' 것이라 '부수적인'. 항공업계에서 ancillary revenue는 운임 외 수하물·기내식·마일리지 판매 수입을 통칭하는 핵심 용어.",
+      "related": [
+        {
+          "word": "auxiliary",
+          "ko": "보조의",
+          "note": "auxiliary는 '예비로 돕는'(보조 전원, 조동사 auxiliary verb), ancillary는 '본업에 딸린 부수적인'(부대 수입·부대 서비스)"
+        }
+      ]
+    },
+    {
+      "headword": "tier",
+      "pos": "n.",
+      "ko": "(계층의) 단계, 등급",
+      "example_en": "Members who fly more than 50,000 miles a year move up to the top tier.",
+      "example_ko": "연간 5만 마일 넘게 탑승한 회원은 최상위 등급으로 올라간다.",
+      "collocations": [
+        "top tier",
+        "two-tier system",
+        "tiered pricing"
+      ],
+      "note": "원래 극장 객석이나 웨딩케이크처럼 '층층이 쌓인 단' — 그래서 tier는 위아래로 서열이 있는 등급이다. 'two-tier system'은 기사에서 '차별적 이중 구조'라는 비판조로 자주 쓰인다.",
+      "family": [
+        {
+          "word": "tiered",
+          "pos": "a.",
+          "ko": "계층화된, 단계별의"
+        }
+      ],
+      "related": [
+        {
+          "word": "tear",
+          "ko": "눈물; 찢다",
+          "note": "tier[티어]와 tear(눈물)[티어]는 발음이 같다 — 철자로 구분"
+        }
+      ]
+    },
+    {
+      "headword": "voucher",
+      "pos": "n.",
+      "ko": "상품권, 쿠폰; 바우처(지원금 이용권)",
+      "example_en": "Passengers on the delayed flight were given meal vouchers.",
+      "example_ko": "지연된 항공편 승객들은 식사 쿠폰을 받았다.",
+      "collocations": [
+        "meal voucher",
+        "travel voucher",
+        "school voucher"
+      ],
+      "note": "vouch(보증하다)+-er = '금액·권리를 보증해 주는 증서'. 그래서 정책 기사의 voucher는 현금 대신 특정 용도에만 쓰게 하는 '이용권'(교육 바우처·보육 바우처)을 뜻한다.",
+      "family": [
+        {
+          "word": "vouch for",
+          "pos": "v.",
+          "ko": "~을 보증하다, 장담하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "coupon",
+          "ko": "할인권",
+          "note": "coupon은 주로 '할인'을 주고, voucher는 그 자체로 '정해진 금액·서비스'를 대신한다"
+        }
+      ]
+    },
+    {
+      "headword": "lock-in",
+      "pos": "n.",
+      "ko": "(고객을) 묶어 두기, 고착 효과",
+      "example_en": "Critics say the software's file format creates customer lock-in.",
+      "example_ko": "비판론자들은 그 소프트웨어의 파일 형식이 고객을 묶어 두는 효과를 낳는다고 말한다.",
+      "collocations": [
+        "vendor lock-in",
+        "customer lock-in",
+        "lock-in effect"
+      ],
+      "note": "lock in(가두다)이 명사가 된 것. 바꾸려면 쌓아 둔 마일리지·데이터·호환성을 잃으니 '갈아타는 비용(switching cost)' 때문에 떠나지 못하는 상태 — 마일리지 제도의 진짜 목적이 바로 이것.",
+      "related": [
+        {
+          "word": "lockdown",
+          "ko": "봉쇄",
+          "note": "lockdown은 '이동을 막는 봉쇄 조치', lock-in은 '고객이 빠져나가지 못하게 묶는 효과'"
+        }
+      ]
+    },
+    {
+      "headword": "recourse",
+      "pos": "n.",
+      "ko": "(기댈) 구제 수단, 의지할 방도",
+      "example_en": "Without a written contract, the tenants had little legal recourse.",
+      "example_ko": "서면 계약서가 없어서 세입자들은 기댈 법적 수단이 거의 없었다.",
+      "collocations": [
+        "legal recourse",
+        "have no recourse",
+        "without recourse to"
+      ],
+      "note": "re-(뒤로) + course(달림) = '도움을 청하러 되돌아 달려가는 곳'. 주로 'have little/no recourse'처럼 부정형으로 쓰여 '억울해도 호소할 데가 없다'는 뉘앙스를 만든다.",
+      "related": [
+        {
+          "word": "resource",
+          "ko": "자원, 수단",
+          "note": "철자가 비슷한 혼동어 — resource는 '가진 자원', recourse는 '문제가 생겼을 때 기댈 수단'"
+        }
+      ]
+    },
+    {
+      "headword": "fiduciary",
+      "pos": "a.",
+      "ko": "신탁의, 수탁자로서의",
+      "example_en": "Financial advisers have a fiduciary duty to act in their clients' best interests.",
+      "example_ko": "재무 상담사는 고객의 최선의 이익을 위해 행동할 수탁자 의무가 있다.",
+      "collocations": [
+        "fiduciary duty",
+        "fiduciary responsibility"
+      ],
+      "note": "어원: fides(믿음) — fidelity(충실)·confide(털어놓다)와 같은 뿌리. 남의 돈을 '믿고 맡은' 사람은 자기 이익보다 맡긴 사람의 이익을 앞세울 법적 의무(fiduciary duty)를 진다.",
+      "family": [
+        {
+          "word": "fiduciary",
+          "pos": "n.",
+          "ko": "수탁자"
+        }
+      ]
+    },
+    {
+      "headword": "prorate",
+      "pos": "v.",
+      "ko": "비례 배분하다, 일할 계산하다",
+      "example_en": "If you cancel mid-month, your subscription fee will be prorated.",
+      "example_ko": "월 중간에 해지하면 구독료는 일할 계산된다.",
+      "collocations": [
+        "prorated refund",
+        "on a prorated basis"
+      ],
+      "note": "라틴어 pro rata(비율에 따라)를 동사로 만든 말. 토익 청구서·환불 지문의 단골 — 'prorated refund'는 남은 기간만큼만 돌려주는 환불.",
+      "family": [
+        {
+          "word": "pro rata",
+          "pos": "ad.",
+          "ko": "비례하여"
+        }
+      ]
+    },
+    {
+      "headword": "unequivocal",
+      "pos": "a.",
+      "ko": "명백한, 분명한(애매함이 전혀 없는)",
+      "example_en": "The board gave its unequivocal support to the merger.",
+      "example_ko": "이사회는 합병에 분명한 지지를 보냈다.",
+      "collocations": [
+        "unequivocal support",
+        "an unequivocal answer"
+      ],
+      "note": "un-(아닌) + equi(같은) + voc(목소리) = '두 가지로 똑같이 들리지 않는'. equivocal(이렇게도 저렇게도 들리는 → 애매한)의 반대말이라, 쪼개 보면 뜻이 저절로 나온다.",
+      "family": [
+        {
+          "word": "unequivocally",
+          "pos": "ad.",
+          "ko": "명백히, 단호히"
+        },
+        {
+          "word": "equivocal",
+          "pos": "a.",
+          "ko": "모호한, 애매한"
+        },
+        {
+          "word": "equivocate",
+          "pos": "v.",
+          "ko": "얼버무리다"
+        }
+      ]
+    },
+    {
+      "headword": "deplore",
+      "pos": "v.",
+      "ko": "(공개적으로) 개탄하다, 강하게 비난하다",
+      "example_en": "Human rights groups deplored the use of force against protesters.",
+      "example_ko": "인권 단체들은 시위대에 대한 무력 사용을 개탄했다.",
+      "collocations": [
+        "deplore the violence",
+        "deeply deplore"
+      ],
+      "note": "de-(완전히) + plorare(울부짖다) = '통곡하다'. 외교 성명·사설에서 '유감을 넘어 강하게 비난한다'는 공식 표현으로 쓰인다.",
+      "family": [
+        {
+          "word": "deplorable",
+          "pos": "a.",
+          "ko": "개탄스러운, 비참한"
+        }
+      ],
+      "related": [
+        {
+          "word": "deploy",
+          "ko": "배치하다",
+          "note": "철자가 비슷한 혼동어 — deploy는 군대·장비를 '펼쳐 배치하다'"
+        }
+      ]
+    },
+    {
+      "headword": "reprisal",
+      "pos": "n.",
+      "ko": "보복, 앙갚음",
+      "example_en": "Employees were afraid to report the problem for fear of reprisal.",
+      "example_ko": "직원들은 보복이 두려워 그 문제를 신고하지 못했다.",
+      "collocations": [
+        "for fear of reprisal",
+        "in reprisal for",
+        "reprisals against"
+      ],
+      "note": "re-(도로) + prise(잡다) = '빼앗긴 만큼 도로 잡아 오다'. 'for fear of reprisal(보복이 두려워)'은 내부고발·노동 기사의 정형 표현.",
+      "related": [
+        {
+          "word": "retaliation",
+          "ko": "보복",
+          "note": "retaliation은 국가 간 관세 보복 등 넓게, reprisal은 약자에 대한 '앙갚음·불이익'에 자주 쓴다"
+        },
+        {
+          "word": "reprise",
+          "ko": "(노래의) 반복, 재연",
+          "note": "철자가 비슷하지만 음악·공연 용어"
+        }
+      ]
+    }
+  ]
+}
