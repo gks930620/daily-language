@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-28",
+  "words": [
+    {
+      "headword": "pedometer",
+      "pos": "n.",
+      "ko": "만보계, 걸음 수 측정기",
+      "example_en": "Employees who joined the wellness program received a free pedometer to track their daily steps.",
+      "example_ko": "건강 프로그램에 참여한 직원들은 하루 걸음 수를 기록할 무료 만보계를 받았다.",
+      "collocations": [
+        "wear a pedometer",
+        "pedometer reading"
+      ],
+      "note": "어원: ped-(발) + meter(재는 것) — '발걸음을 재는 기계'. pedestrian(보행자)·pedal(페달)과 같은 ped- 뿌리라 함께 묶어 두면 쉽다.",
+      "related": [
+        {
+          "word": "odometer",
+          "ko": "주행 거리계",
+          "note": "자동차가 달린 거리를 재는 계기 — pedometer는 사람의 걸음, odometer는 바퀴의 거리"
+        }
+      ]
+    },
+    {
+      "headword": "originate",
+      "pos": "v.",
+      "ko": "비롯되다, 유래하다; 시작하다",
+      "example_en": "The idea for the new product line originated in a casual conversation between two engineers.",
+      "example_ko": "새 제품군에 대한 아이디어는 두 엔지니어의 가벼운 대화에서 비롯되었다.",
+      "collocations": [
+        "originate in",
+        "originate from",
+        "originate with someone"
+      ],
+      "note": "origin(기원)에 동사 어미 -ate가 붙은 형태. 'originate in + 장소/분야', 'originate with + 사람'(그 사람이 처음 꺼낸 것)으로 전치사가 갈린다.",
+      "family": [
+        {
+          "word": "origin",
+          "pos": "n.",
+          "ko": "기원, 출처"
+        },
+        {
+          "word": "original",
+          "pos": "a.",
+          "ko": "원래의; 독창적인"
+        },
+        {
+          "word": "originality",
+          "pos": "n.",
+          "ko": "독창성 — '원래 상태'가 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "plateau",
+      "pos": "v. / n.",
+      "ko": "정체되다, 안정기에 들다 / 고원; 정체기",
+      "example_en": "After two years of rapid growth, the company's sales began to plateau.",
+      "example_ko": "2년간 빠르게 성장한 뒤 그 회사의 매출은 정체되기 시작했다.",
+      "collocations": [
+        "reach a plateau",
+        "hit a plateau",
+        "sales plateau"
+      ],
+      "note": "원래 '높고 평평한 땅(고원)' — 그래프가 올라가다 꼭대기에서 평평해지는 모양을 떠올리면 '정체기'라는 뜻이 그대로 보인다. 다이어트·학습의 '정체기'도 plateau.",
+      "related": [
+        {
+          "word": "stagnant",
+          "ko": "침체된, 고인",
+          "note": "plateau는 '올라간 뒤 멈춘' 중립적 느낌, stagnant는 처음부터 '고여 썩는' 부정적 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "fixate",
+      "pos": "v.",
+      "ko": "(on) ~에 집착하다, 고착되다",
+      "example_en": "Investors who fixate on short-term returns often miss long-term opportunities.",
+      "example_ko": "단기 수익에 집착하는 투자자들은 장기적인 기회를 놓치는 경우가 많다.",
+      "collocations": [
+        "fixate on",
+        "be fixated on"
+      ],
+      "note": "fix(고정하다)에서 온 말 — 시선과 생각이 한곳에 '못 박힌' 상태. focus on이 중립·긍정이라면 fixate on은 지나쳐서 문제가 되는 집착이라는 부정적 뉘앙스.",
+      "family": [
+        {
+          "word": "fixation",
+          "pos": "n.",
+          "ko": "집착, 고착"
+        },
+        {
+          "word": "fixated",
+          "pos": "a.",
+          "ko": "집착하는"
+        }
+      ]
+    },
+    {
+      "headword": "craze",
+      "pos": "n.",
+      "ko": "(일시적) 열풍, 대유행",
+      "example_en": "The retailer ordered thousands of units to cash in on the latest toy craze.",
+      "example_ko": "그 소매업체는 최신 장난감 열풍에 편승해 돈을 벌려고 수천 개를 주문했다.",
+      "collocations": [
+        "the latest craze",
+        "a fitness craze",
+        "spark a craze"
+      ],
+      "note": "형용사 crazy(미친)와 같은 뿌리 — 사람들이 '미친 듯이' 몰리는 짧은 유행. trend보다 더 뜨겁고 금방 식는다는 뉘앙스가 있다.",
+      "related": [
+        {
+          "word": "fad",
+          "ko": "일시적 유행",
+          "note": "거의 동의어 — fad는 '곧 사라질 것'이라는 깎아내림이 더 강하다"
+        },
+        {
+          "word": "trend",
+          "ko": "추세, 경향",
+          "note": "장기적인 흐름 — craze·fad와 달리 금방 끝난다는 뜻이 없다"
+        }
+      ]
+    },
+    {
+      "headword": "humbling",
+      "pos": "a.",
+      "ko": "겸허하게 만드는, 자만을 꺾는",
+      "example_en": "Losing the contract to a much smaller competitor was a humbling experience for the firm.",
+      "example_ko": "훨씬 작은 경쟁사에 계약을 빼앗긴 것은 그 회사에 자만심을 꺾는 경험이었다.",
+      "collocations": [
+        "a humbling experience",
+        "humbling reminder"
+      ],
+      "note": "humble(겸손한)이 동사로 '겸손하게 만들다'도 되며, -ing형은 '(대상이) 겸손하게 만드는' 쪽. 수상 소감의 \"I'm humbled\"는 '과분한 영광이다'라는 관용 표현.",
+      "family": [
+        {
+          "word": "humble",
+          "pos": "a. / v.",
+          "ko": "겸손한; 초라한 / 겸손하게 만들다"
+        },
+        {
+          "word": "humility",
+          "pos": "n.",
+          "ko": "겸손 — humbleness보다 훨씬 많이 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "reassuring",
+      "pos": "a.",
+      "ko": "안심시키는, 마음이 놓이게 하는",
+      "example_en": "The CEO's reassuring statement helped calm nervous shareholders.",
+      "example_ko": "CEO의 안심시키는 성명은 불안해하던 주주들을 진정시키는 데 도움이 됐다.",
+      "collocations": [
+        "reassuring news",
+        "a reassuring sign"
+      ],
+      "note": "re-(다시) + assure(확신시키다) — 불안해진 사람을 '다시 확신시킨다'. -ing(안심시키는, 사물) / -ed(안심한, 사람) 구분은 토익 단골.",
+      "family": [
+        {
+          "word": "reassure",
+          "pos": "v.",
+          "ko": "안심시키다"
+        },
+        {
+          "word": "reassurance",
+          "pos": "n.",
+          "ko": "안심시키는 말, 확언"
+        },
+        {
+          "word": "reassured",
+          "pos": "a.",
+          "ko": "(사람이) 안심한"
+        }
+      ],
+      "related": [
+        {
+          "word": "insure / ensure / assure",
+          "note": "insure는 보험에 들다, ensure는 (일이) 확실히 되게 하다, assure는 (사람에게) 확신을 주다 — assure 뒤에는 사람 목적어"
+        }
+      ]
+    },
+    {
+      "headword": "steep",
+      "pos": "a.",
+      "ko": "가파른; (가격이) 터무니없이 비싼",
+      "example_en": "The company reported a steep decline in profits after raw material costs doubled.",
+      "example_ko": "그 회사는 원자재 비용이 두 배가 된 후 이익이 급감했다고 발표했다.",
+      "collocations": [
+        "a steep decline",
+        "a steep price",
+        "steep learning curve"
+      ],
+      "note": "그래프의 '가파름' → 증감이 급격함. 가격에 쓰면 '너무 비싼'이라는 뜻이 되어 The fee is a bit steep(좀 비싸다)는 회화에서 자주 나온다.",
+      "family": [
+        {
+          "word": "steeply",
+          "pos": "adv.",
+          "ko": "가파르게, 급격히"
+        },
+        {
+          "word": "steepen",
+          "pos": "v.",
+          "ko": "더 가파르게 되다"
+        }
+      ]
+    },
+    {
+      "headword": "cardiovascular",
+      "pos": "a.",
+      "ko": "심혈관의",
+      "example_en": "Regular aerobic exercise lowers the risk of cardiovascular disease.",
+      "example_ko": "규칙적인 유산소 운동은 심혈관 질환의 위험을 낮춘다.",
+      "collocations": [
+        "cardiovascular disease",
+        "cardiovascular health"
+      ],
+      "note": "cardio-(심장) + vascular(혈관의)로 쪼개면 그대로 뜻이 나온다. 헬스장의 '카디오(cardio)'가 바로 심장을 뛰게 하는 유산소 운동.",
+      "related": [
+        {
+          "word": "cardiac",
+          "ko": "심장의",
+          "note": "심장 자체 — cardiac arrest(심정지). cardiovascular는 심장 + 혈관 전체"
+        }
+      ]
+    },
+    {
+      "headword": "brisk",
+      "pos": "a.",
+      "ko": "활발한, 빠른; (장사가) 잘되는",
+      "example_en": "Sales of winter coats have been brisk since the first cold snap.",
+      "example_ko": "첫 한파 이후로 겨울 코트 판매가 활발하다.",
+      "collocations": [
+        "a brisk walk",
+        "brisk business",
+        "brisk sales"
+      ],
+      "note": "사람의 걸음에 쓰면 '빠르고 힘찬', 장사에 쓰면 '잘되는' — 둘 다 '활기가 돈다'는 한 이미지. 토익에서는 business is brisk(장사가 잘된다)로 자주 나온다.",
+      "related": [
+        {
+          "word": "brusque",
+          "ko": "무뚝뚝한, 퉁명스러운",
+          "note": "철자·발음이 비슷한 혼동어 — brisk는 긍정, brusque는 태도가 쌀쌀맞다는 부정"
+        }
+      ]
+    },
+    {
+      "headword": "gimmick",
+      "pos": "n.",
+      "ko": "(관심을 끌기 위한) 술책, 눈속임 장치",
+      "example_en": "Critics dismissed the free gift as a marketing gimmick to boost subscriptions.",
+      "example_ko": "비평가들은 그 사은품을 구독자를 늘리려는 마케팅 술책이라고 일축했다.",
+      "collocations": [
+        "a marketing gimmick",
+        "a publicity gimmick"
+      ],
+      "note": "실제 가치보다 '눈길 끌기'가 목적이라는 깎아내림이 들어 있다. 형용사 gimmicky(속임수 같은, 잔재주뿐인)도 리뷰에서 자주 쓴다.",
+      "family": [
+        {
+          "word": "gimmicky",
+          "pos": "a.",
+          "ko": "잔재주뿐인, 속임수 같은"
+        }
+      ]
+    },
+    {
+      "headword": "catchy",
+      "pos": "a.",
+      "ko": "(곡·문구가) 기억하기 쉬운, 귀에 쏙 들어오는",
+      "example_en": "The agency came up with a catchy slogan for the product launch.",
+      "example_ko": "대행사는 제품 출시를 위한 귀에 쏙 들어오는 슬로건을 내놓았다.",
+      "collocations": [
+        "a catchy slogan",
+        "a catchy tune",
+        "catchy name"
+      ],
+      "note": "catch(붙잡다) + -y — 귀와 머리를 '붙잡는'. memorable이 중립적인 '기억에 남는'이라면 catchy는 광고·노래처럼 일부러 귀에 걸리게 만든 느낌.",
+      "related": [
+        {
+          "word": "memorable",
+          "ko": "기억할 만한, 인상적인",
+          "note": "경험·사건에도 쓴다(a memorable trip) — catchy는 주로 문구·곡조에만"
+        }
+      ]
+    },
+    {
+      "headword": "metric",
+      "pos": "n.",
+      "ko": "(성과 측정) 지표, 척도",
+      "example_en": "Customer retention is the key metric the board uses to evaluate the sales team.",
+      "example_ko": "고객 유지율은 이사회가 영업팀을 평가하는 핵심 지표다.",
+      "collocations": [
+        "key metric",
+        "performance metrics",
+        "track metrics"
+      ],
+      "note": "meter(재다)와 같은 뿌리 — '잴 수 있는 기준'. 형용사 metric은 '미터법의'(the metric system)라 뜻이 갈라진다. 비즈니스에서는 거의 복수 metrics로 쓴다.",
+      "related": [
+        {
+          "word": "metrics vs. statistics",
+          "note": "statistics는 모은 수치 전반, metrics는 그중 '성과를 판단하려고 정한' 지표"
+        }
+      ]
+    },
+    {
+      "headword": "physician",
+      "pos": "n.",
+      "ko": "의사(특히 내과의사)",
+      "example_en": "Please consult your physician before starting any new exercise program.",
+      "example_ko": "새로운 운동 프로그램을 시작하기 전에 담당 의사와 상담하십시오.",
+      "collocations": [
+        "primary care physician",
+        "consult a physician"
+      ],
+      "note": "physic(옛말: 약·의술)에서 온 말이라 '의사'. 헷갈리는 physicist는 physics(물리학)에서 온 '물리학자' — -cian(의사) vs -cist(학자)로 구분.",
+      "related": [
+        {
+          "word": "physicist",
+          "ko": "물리학자",
+          "note": "철자가 거의 같지만 전혀 다른 직업 — physician은 의사"
+        },
+        {
+          "word": "surgeon",
+          "ko": "외과의사",
+          "note": "physician은 주로 약으로 치료하는 내과의, surgeon은 수술하는 외과의"
+        }
+      ]
+    },
+    {
+      "headword": "discourage",
+      "pos": "v.",
+      "ko": "의욕을 꺾다; (~하지 못하게) 막다, 말리다",
+      "example_en": "High fees discourage small businesses from using the platform.",
+      "example_ko": "높은 수수료 때문에 소상공인들이 그 플랫폼 이용을 꺼린다.",
+      "collocations": [
+        "discourage A from -ing",
+        "be discouraged by"
+      ],
+      "note": "dis-(없애다) + courage(용기) — 용기를 빼앗다. 'discourage A from -ing(A가 ~하지 못하게 하다)'는 prevent·deter와 같은 from 구문으로 토익 빈출.",
+      "family": [
+        {
+          "word": "encourage",
+          "pos": "v.",
+          "ko": "격려하다, 장려하다 — 반대말"
+        },
+        {
+          "word": "discouraging",
+          "pos": "a.",
+          "ko": "실망스러운, 낙담시키는"
+        },
+        {
+          "word": "discouragement",
+          "pos": "n.",
+          "ko": "낙담; 억제"
+        }
+      ]
+    }
+  ]
+}
