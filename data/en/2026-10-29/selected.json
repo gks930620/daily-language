@@ -1,0 +1,352 @@
+{
+  "date": "2026-10-29",
+  "words": [
+    {
+      "headword": "thwart",
+      "pos": "v.",
+      "ko": "좌절시키다, (계획·시도를) 가로막다",
+      "example_en": "Heavy rain thwarted the company's plans for an outdoor product launch.",
+      "example_ko": "폭우로 그 회사의 야외 제품 출시 행사 계획이 무산됐다.",
+      "collocations": [
+        "thwart an attempt",
+        "thwart a plan",
+        "be thwarted by"
+      ],
+      "note": "원래 '가로질러(athwart)'라는 뜻 — 길을 가로질러 막아서는 그림. 그래서 목적어로 plan·attempt·effort처럼 '하려던 일'이 온다.",
+      "related": [
+        {
+          "word": "frustrate",
+          "ko": "좌절시키다",
+          "note": "거의 동의어 — frustrate는 사람의 감정(답답함)까지 담고, thwart는 계획을 '막아 세우는' 행위에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "coax",
+      "pos": "v.",
+      "ko": "구슬리다, 달래서 ~하게 하다",
+      "example_en": "The sales team coaxed hesitant clients into signing a two-year contract with a free first month.",
+      "example_ko": "영업팀은 첫 달 무료 혜택으로 망설이는 고객들을 구슬려 2년 계약에 서명하게 했다.",
+      "collocations": [
+        "coax A into -ing",
+        "coax A out of B"
+      ],
+      "note": "coax A into -ing(구슬려 ~하게 하다) / coax A out of B(달래서 B에서 끌어내다). 같은 '시키다'라도 coerce는 힘으로 강제, coax는 살살 달래서 — 어감이 정반대다.",
+      "related": [
+        {
+          "word": "coerce",
+          "ko": "강요하다",
+          "note": "coerce A into -ing도 같은 틀이지만 압력·위협으로 억지로 시킨다"
+        },
+        {
+          "word": "persuade",
+          "ko": "설득하다",
+          "note": "논리로 설득 — coax는 논리보다 달콤한 말·혜택으로 구슬린다"
+        }
+      ]
+    },
+    {
+      "headword": "recurring",
+      "pos": "a.",
+      "ko": "반복되는, 정기적으로 발생하는",
+      "example_en": "Please review the recurring charges on your monthly statement before the renewal date.",
+      "example_ko": "갱신일 전에 월별 명세서의 정기 결제 항목을 확인해 주십시오.",
+      "collocations": [
+        "recurring charge",
+        "recurring payment",
+        "recurring problem"
+      ],
+      "note": "re-(다시) + cur(달리다) — '다시 달려오는' 일. occur(일어나다)·current(흐름)·courier(배달원)와 같은 cur(달리다) 뿌리다.",
+      "family": [
+        {
+          "word": "recur",
+          "pos": "v.",
+          "ko": "재발하다, 되풀이되다"
+        },
+        {
+          "word": "recurrence",
+          "pos": "n.",
+          "ko": "재발, 반복"
+        }
+      ]
+    },
+    {
+      "headword": "convoluted",
+      "pos": "a.",
+      "ko": "복잡하게 얽힌, 난해한",
+      "example_en": "Customers complained that the refund policy was so convoluted that no one could follow it.",
+      "example_ko": "고객들은 환불 규정이 너무 복잡하게 꼬여 있어서 아무도 따라갈 수 없다고 불평했다.",
+      "collocations": [
+        "a convoluted process",
+        "convoluted logic"
+      ],
+      "note": "con-(함께) + volv(말다, 감다) — 여러 겹 둘둘 말려 있는 상태. revolve(돌다)·evolve(펼쳐지다=진화하다)·involve(안으로 말아 넣다=포함하다)와 같은 뿌리.",
+      "related": [
+        {
+          "word": "complicated",
+          "ko": "복잡한",
+          "note": "중립적 표현 — convoluted는 '쓸데없이 꼬아 놓아서 알아먹기 힘들다'는 부정적 뉘앙스가 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "churn",
+      "pos": "n./v.",
+      "ko": "(고객) 이탈; 휘젓다",
+      "example_en": "The streaming platform cut its churn rate by offering a cheaper ad-supported plan.",
+      "example_ko": "그 스트리밍 플랫폼은 더 싼 광고형 요금제를 내놓아 고객 이탈률을 낮췄다.",
+      "collocations": [
+        "churn rate",
+        "customer churn",
+        "churn out"
+      ],
+      "note": "원뜻은 버터를 만드는 교반기(churn)로 '휘젓다' — 고객이 들어왔다 나갔다 휘저어지는 데서 비즈니스 용어 churn(이탈)이 나왔다. churn out은 '(질 낮은 것을) 마구 찍어내다'.",
+      "related": [
+        {
+          "word": "attrition",
+          "ko": "(인력·고객의) 자연 감소",
+          "note": "직원이 서서히 빠지는 감소엔 attrition, 구독 고객이 해지하는 이탈률엔 churn을 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "terminate",
+      "pos": "v.",
+      "ko": "종료하다, (계약을) 해지하다",
+      "example_en": "Either party may terminate the agreement with thirty days' written notice.",
+      "example_ko": "어느 당사자든 30일 전 서면 통지로 계약을 해지할 수 있다.",
+      "collocations": [
+        "terminate a contract",
+        "terminate employment"
+      ],
+      "note": "term(끝, 경계) — terminal(끝나는 곳=종점), terminology(경계를 정해 둔 말=용어)와 같은 뿌리. 토익에선 계약 해지·고용 해지(=해고)의 격식체로 자주 나온다.",
+      "family": [
+        {
+          "word": "termination",
+          "pos": "n.",
+          "ko": "종료, 해지; 해고"
+        },
+        {
+          "word": "terminal",
+          "pos": "a./n.",
+          "ko": "말기의; 종점, 터미널"
+        }
+      ],
+      "related": [
+        {
+          "word": "exterminate",
+          "ko": "박멸하다, 몰살하다",
+          "note": "ex-(밖으로) + 끝내다 — 해지가 아니라 해충 등을 '없애 버리다'"
+        }
+      ]
+    },
+    {
+      "headword": "revoke",
+      "pos": "v.",
+      "ko": "(면허·허가·권한을) 취소하다, 철회하다",
+      "example_en": "The regulator threatened to revoke the firm's license if it kept misleading customers.",
+      "example_ko": "규제 당국은 그 회사가 계속 고객을 오도하면 면허를 취소하겠다고 경고했다.",
+      "collocations": [
+        "revoke a license",
+        "revoke consent",
+        "revoke a permit"
+      ],
+      "note": "re-(뒤로) + voc(부르다) — 내보낸 것을 '도로 불러들이다'. invoke(불러내다)·evoke(불러일으키다)·advocate(~ 편에서 부르다=옹호하다)와 같은 voc 뿌리.",
+      "family": [
+        {
+          "word": "revocation",
+          "pos": "n.",
+          "ko": "취소, 철회"
+        },
+        {
+          "word": "irrevocable",
+          "pos": "a.",
+          "ko": "돌이킬 수 없는, 취소 불가능한"
+        }
+      ]
+    },
+    {
+      "headword": "clamp down",
+      "pos": "v.",
+      "ko": "엄중히 단속하다",
+      "example_en": "Authorities are clamping down on hidden fees in online ticket sales.",
+      "example_ko": "당국은 온라인 티켓 판매의 숨은 수수료를 엄중히 단속하고 있다.",
+      "collocations": [
+        "clamp down on",
+        "a clampdown on"
+      ],
+      "note": "clamp는 물건을 꽉 죄는 '죔쇠' — 위에서 꽉 눌러 죄는 그림. 대상은 on으로 받는다(clamp down on fraud). 명사형은 붙여 쓴 clampdown.",
+      "family": [
+        {
+          "word": "clampdown",
+          "pos": "n.",
+          "ko": "단속, 탄압"
+        }
+      ],
+      "related": [
+        {
+          "word": "crack down",
+          "ko": "단속하다",
+          "note": "거의 같은 뜻 — 둘 다 on과 함께 쓰고, 명사형도 crackdown/clampdown으로 붙여 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "unwitting",
+      "pos": "a.",
+      "ko": "자기도 모르는, 무심코 한",
+      "example_en": "Many users became unwitting subscribers after a free trial quietly converted into a paid plan.",
+      "example_ko": "무료 체험이 소리 없이 유료 요금제로 전환되면서 많은 이용자가 자기도 모르게 구독자가 됐다.",
+      "collocations": [
+        "an unwitting accomplice",
+        "unwitting victim"
+      ],
+      "note": "wit은 고대영어 witan(알다)에서 — wittingly(알면서, 고의로)/unwittingly(모르고). 재치를 뜻하는 witty와 혼동하기 쉽지만 여기 wit은 '앎'이다.",
+      "family": [
+        {
+          "word": "unwittingly",
+          "pos": "adv.",
+          "ko": "자기도 모르게, 무심코"
+        },
+        {
+          "word": "wittingly",
+          "pos": "adv.",
+          "ko": "알면서, 고의로"
+        }
+      ],
+      "related": [
+        {
+          "word": "witty",
+          "ko": "재치 있는",
+          "note": "같은 wit이지만 '재치' 쪽 뜻 — unwitty가 아니라 unwitting이 '모르는'이다"
+        }
+      ]
+    },
+    {
+      "headword": "manipulative",
+      "pos": "a.",
+      "ko": "(사람·심리를) 조종하는, 교묘하게 조작하는",
+      "example_en": "Consumer groups criticized the ad as manipulative because it exploited parents' fears.",
+      "example_ko": "소비자 단체들은 그 광고가 부모의 불안을 이용했다며 조종적이라고 비판했다.",
+      "collocations": [
+        "manipulative tactics",
+        "manipulative behavior"
+      ],
+      "note": "manu-(손) — '손으로 주무르다'에서 사람·숫자를 마음대로 주무른다는 뜻으로. manual(손으로 하는)·manuscript(손으로 쓴 원고)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "manipulate",
+          "pos": "v.",
+          "ko": "조작하다, 조종하다"
+        },
+        {
+          "word": "manipulation",
+          "pos": "n.",
+          "ko": "조작, 조종"
+        }
+      ]
+    },
+    {
+      "headword": "obstruct",
+      "pos": "v.",
+      "ko": "방해하다, (길·진행을) 막다",
+      "example_en": "A parked truck obstructed the entrance to the loading dock all morning.",
+      "example_ko": "주차된 트럭이 오전 내내 하역장 입구를 막고 있었다.",
+      "collocations": [
+        "obstruct the view",
+        "obstruct justice"
+      ],
+      "note": "ob-(맞서) + struct(쌓다) — 앞길에 무언가를 '쌓아' 막는다. construct(함께 쌓다=건설하다)·structure(쌓은 것=구조)와 같은 뿌리. obstruction of justice는 '사법 방해'.",
+      "family": [
+        {
+          "word": "obstruction",
+          "pos": "n.",
+          "ko": "방해, 장애물"
+        },
+        {
+          "word": "obstructive",
+          "pos": "a.",
+          "ko": "방해하는"
+        }
+      ]
+    },
+    {
+      "headword": "dupe",
+      "pos": "v./n.",
+      "ko": "속이다; 잘 속는 사람",
+      "example_en": "Investors were duped into buying shares in a company that did not exist.",
+      "example_ko": "투자자들은 속아서 존재하지도 않는 회사의 주식을 샀다.",
+      "collocations": [
+        "be duped into -ing"
+      ],
+      "note": "be duped into -ing(속아서 ~하다) 형태로 가장 많이 쓴다. 요즘 소비 기사에서 dupe가 '명품 저가 모조품'으로도 쓰이는데, 이건 duplicate(복제)의 줄임말로 뿌리가 다른 별개 뜻이다.",
+      "related": [
+        {
+          "word": "deceive",
+          "ko": "속이다",
+          "note": "일반적인 '속이다' — dupe는 속는 쪽이 어수룩하게 '당한다'는 느낌이 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "rein in",
+      "pos": "v.",
+      "ko": "억제하다, 통제하다",
+      "example_en": "The new CFO promised to rein in spending after two years of losses.",
+      "example_ko": "새 재무책임자는 2년간의 적자 끝에 지출을 억제하겠다고 약속했다.",
+      "collocations": [
+        "rein in spending",
+        "rein in costs",
+        "free rein"
+      ],
+      "note": "rein은 말의 '고삐' — 고삐를 당겨 말을 멈춰 세우는 그림. 반대로 give A free rein은 '고삐를 풀어 주다=재량을 주다'. 발음이 같은 reign(통치)과 철자 혼동 주의.",
+      "related": [
+        {
+          "word": "reign",
+          "ko": "통치, 군림하다",
+          "note": "발음 같고 철자만 다름 — '억제'는 고삐 rein, '통치'는 reign"
+        }
+      ]
+    },
+    {
+      "headword": "nuisance",
+      "pos": "n.",
+      "ko": "성가신 것, 골칫거리",
+      "example_en": "Constant promotional emails have become a nuisance for many shoppers.",
+      "example_ko": "끊임없는 홍보 메일은 많은 쇼핑객에게 골칫거리가 됐다.",
+      "collocations": [
+        "a public nuisance",
+        "nuisance calls",
+        "make a nuisance of oneself"
+      ],
+      "note": "라틴어 nocere(해치다)에서 — innocuous(해가 없는)·noxious(유해한)와 같은 뿌리. 법률 용어 public nuisance는 소음·악취 같은 '생활 방해'.",
+      "related": [
+        {
+          "word": "noxious",
+          "ko": "유해한",
+          "note": "같은 뿌리지만 훨씬 강함 — nuisance는 성가신 수준, noxious는 실제로 해로운(가스·물질)"
+        }
+      ]
+    },
+    {
+      "headword": "heed",
+      "pos": "v./n.",
+      "ko": "(경고·조언에) 주의를 기울이다; 주의",
+      "example_en": "Had the board heeded the auditors' warnings, the losses could have been avoided.",
+      "example_ko": "이사회가 감사인들의 경고에 귀를 기울였더라면 손실을 피할 수 있었을 것이다.",
+      "collocations": [
+        "heed a warning",
+        "heed advice",
+        "take heed of"
+      ],
+      "note": "목적어는 거의 항상 warning·advice·call 같은 '말'이다 — '듣고 따르다'까지 포함. 반대말 heedless(부주의한, 아랑곳하지 않는)는 heedless of danger(위험을 아랑곳하지 않고)처럼 쓴다.",
+      "family": [
+        {
+          "word": "heedless",
+          "pos": "a.",
+          "ko": "부주의한, 아랑곳하지 않는"
+        }
+      ]
+    }
+  ]
+}
