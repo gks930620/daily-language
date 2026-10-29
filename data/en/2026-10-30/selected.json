@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-30",
+  "words": [
+    {
+      "headword": "resin",
+      "pos": "n.",
+      "ko": "수지(나무 진; 플라스틱 원료)",
+      "example_en": "The factory converts recycled resin into pellets for packaging manufacturers.",
+      "example_ko": "그 공장은 재생 수지를 포장재 제조업체용 알갱이로 바꾼다.",
+      "collocations": [
+        "plastic resin",
+        "synthetic resin",
+        "recycled resin"
+      ],
+      "note": "원래는 소나무 등에서 나오는 '송진'이라는 뜻 — 인공으로 만든 것이 synthetic resin(합성수지), 즉 플라스틱이다. 용기 바닥 삼각형 속 숫자 1~7이 'resin code(수지 코드)'.",
+      "related": [
+        {
+          "word": "rosin",
+          "ko": "로진(송진 가루)",
+          "note": "철자 비슷한 혼동어 — rosin은 송진을 굳힌 가루로, 바이올린 활·야구 투수 손에 바른다"
+        }
+      ]
+    },
+    {
+      "headword": "polymer",
+      "pos": "n.",
+      "ko": "중합체, 고분자",
+      "example_en": "Researchers are developing a polymer that breaks down in seawater within months.",
+      "example_ko": "연구진은 바닷물에서 몇 달 안에 분해되는 고분자를 개발하고 있다.",
+      "collocations": [
+        "synthetic polymer",
+        "polymer chain"
+      ],
+      "note": "어원: poly-(많은) + -mer(부분) — 작은 단위(monomer, 단량체)가 사슬처럼 '많이' 이어진 것. 녹일 때마다 이 사슬이 끊어져 플라스틱이 약해진다.",
+      "family": [
+        {
+          "word": "monomer",
+          "pos": "n.",
+          "ko": "단량체(사슬의 한 고리)"
+        },
+        {
+          "word": "polymerize",
+          "pos": "v.",
+          "ko": "중합하다(사슬로 잇다)"
+        }
+      ]
+    },
+    {
+      "headword": "virgin",
+      "pos": "a.",
+      "ko": "처음 쓰는, 새로 만든(재생이 아닌); 손대지 않은",
+      "example_en": "Brands pledged to replace virgin plastic with recycled content by 2030.",
+      "example_ko": "브랜드들은 2030년까지 신재 플라스틱을 재생 원료로 바꾸겠다고 약속했다.",
+      "collocations": [
+        "virgin plastic",
+        "virgin forest",
+        "virgin territory"
+      ],
+      "note": "'한 번도 쓰이지 않은'이 핵심 뜻 — virgin plastic(신재), virgin forest(원시림), virgin olive oil(첫 압착 올리브유). 경제 기사에서는 recycled(재생)의 반대말로 거의 고정이다.",
+      "related": [
+        {
+          "word": "pristine",
+          "ko": "원래 그대로의, 깨끗한",
+          "note": "pristine은 '오염되지 않은 상태'를 칭찬하는 말, virgin은 '아직 쓰이지 않은' 사실 서술"
+        }
+      ]
+    },
+    {
+      "headword": "downcycle",
+      "pos": "v.",
+      "ko": "하향 재활용하다(질이 낮은 제품으로 만들다)",
+      "example_en": "Most plastic bottles are downcycled into carpet fibers rather than new bottles.",
+      "example_ko": "대부분의 플라스틱병은 새 병이 아니라 카펫 섬유로 하향 재활용된다.",
+      "collocations": [
+        "be downcycled into"
+      ],
+      "note": "re-cycle(다시 돌리다)에서 down(아래로)만 바꾼 말 — 돌 때마다 등급이 내려간다. 반대로 더 가치 있는 물건으로 만들면 upcycle.",
+      "family": [
+        {
+          "word": "upcycle",
+          "pos": "v.",
+          "ko": "새활용하다(더 가치 있게 만들다)"
+        },
+        {
+          "word": "downcycling",
+          "pos": "n.",
+          "ko": "하향 재활용"
+        }
+      ]
+    },
+    {
+      "headword": "greenwashing",
+      "pos": "n.",
+      "ko": "그린워싱, 위장 환경주의",
+      "example_en": "Regulators fined the company for greenwashing after it labeled non-recyclable cups as eco-friendly.",
+      "example_ko": "규제 당국은 재활용 불가능한 컵에 친환경 표시를 한 그 회사에 그린워싱으로 벌금을 매겼다.",
+      "collocations": [
+        "accuse ~ of greenwashing",
+        "corporate greenwashing"
+      ],
+      "note": "whitewashing(흰 칠로 덮기 → 잘못을 덮어 감추기)을 비튼 말 — 녹색(green) 칠로 환경 문제를 덮는다. 동사 greenwash도 쓴다.",
+      "related": [
+        {
+          "word": "whitewash",
+          "ko": "(잘못을) 덮어 감추다",
+          "note": "원형 표현 — 정치·스캔들 기사에서 '은폐하다'로 자주 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "bale",
+      "pos": "n.",
+      "ko": "(압축해 묶은) 더미, 꾸러미",
+      "example_en": "Bales of mixed plastic piled up at the port after the importer refused the shipment.",
+      "example_ko": "수입업체가 화물을 거부하자 혼합 플라스틱 더미가 항구에 쌓였다.",
+      "collocations": [
+        "a bale of hay",
+        "bales of plastic"
+      ],
+      "note": "건초·면화·폐기물을 압축해 끈으로 묶은 큰 덩어리. 발음이 같은 bail(보석금; 구제하다)과 철자로 구분한다 — 뜻은 전혀 다르다.",
+      "related": [
+        {
+          "word": "bail",
+          "ko": "보석(금); (물을) 퍼내다",
+          "note": "동음이의어 — bail out(구제 금융) 기사와 bale(폐기물 더미) 기사를 헷갈리지 말 것"
+        }
+      ]
+    },
+    {
+      "headword": "sift",
+      "pos": "v.",
+      "ko": "체로 거르다; 꼼꼼히 살피다",
+      "example_en": "Workers sift through mountains of waste to pick out anything that can be sold.",
+      "example_ko": "노동자들은 팔 수 있는 것을 골라내려고 산더미 같은 쓰레기를 뒤진다.",
+      "collocations": [
+        "sift through",
+        "sift the evidence"
+      ],
+      "note": "원래 '체(sieve)로 치다' — 가루를 거르듯 많은 것 중에서 쓸 것만 골라낸다. sift through + 서류·데이터·쓰레기 형태로 '샅샅이 살피다'로 넓게 쓴다.",
+      "family": [
+        {
+          "word": "sieve",
+          "pos": "n.",
+          "ko": "체"
+        }
+      ]
+    },
+    {
+      "headword": "brittle",
+      "pos": "a.",
+      "ko": "잘 부서지는, 깨지기 쉬운",
+      "example_en": "Plastic chairs left in the sun for years become brittle and crack easily.",
+      "example_ko": "수년간 햇볕에 놓인 플라스틱 의자는 잘 부서지게 되어 쉽게 금이 간다.",
+      "collocations": [
+        "brittle bones",
+        "become brittle"
+      ],
+      "note": "단단하지만 휘지 않아서 '툭' 부러지는 성질 — 비유로 brittle peace(위태로운 평화), brittle ego(쉽게 상처받는 자존심)처럼도 쓴다.",
+      "related": [
+        {
+          "word": "fragile",
+          "ko": "깨지기 쉬운, 연약한",
+          "note": "fragile은 '조심히 다뤄야 할' 일반적 연약함, brittle은 '단단한데 탄력이 없어 부러지는' 재질 성질"
+        }
+      ]
+    },
+    {
+      "headword": "apathy",
+      "pos": "n.",
+      "ko": "무관심, 무감동",
+      "example_en": "Low turnout was blamed on voter apathy rather than bad weather.",
+      "example_ko": "낮은 투표율은 궂은 날씨보다 유권자의 무관심 탓으로 돌려졌다.",
+      "collocations": [
+        "voter apathy",
+        "public apathy"
+      ],
+      "note": "어원: a-(없음) + path(감정) — 느끼는 것이 없다. sympathy(함께 느낌=공감)·empathy(안으로 느낌=감정이입)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "apathetic",
+          "pos": "a.",
+          "ko": "무관심한"
+        },
+        {
+          "word": "sympathy",
+          "pos": "n.",
+          "ko": "동정, 공감"
+        },
+        {
+          "word": "empathy",
+          "pos": "n.",
+          "ko": "감정이입, 공감 능력"
+        }
+      ]
+    },
+    {
+      "headword": "deflect",
+      "pos": "v.",
+      "ko": "(관심·비판을) 돌리다, 빗나가게 하다",
+      "example_en": "The CEO tried to deflect blame onto the suppliers.",
+      "example_ko": "그 CEO는 책임을 공급업체에 떠넘기려 했다.",
+      "collocations": [
+        "deflect criticism",
+        "deflect attention from",
+        "deflect blame"
+      ],
+      "note": "어원: de-(떨어져) + flect(구부리다) — 날아오는 것을 비스듬히 꺾어 피한다. reflect(뒤로 꺾다=반사하다)·flexible(구부릴 수 있는)과 같은 뿌리.",
+      "family": [
+        {
+          "word": "deflection",
+          "pos": "n.",
+          "ko": "빗나감; 책임 회피"
+        },
+        {
+          "word": "reflect",
+          "pos": "v.",
+          "ko": "반사하다; 반영하다"
+        }
+      ]
+    },
+    {
+      "headword": "conscience",
+      "pos": "n.",
+      "ko": "양심",
+      "example_en": "She could not, in good conscience, sign a report she knew was misleading.",
+      "example_ko": "그녀는 오해를 부를 줄 아는 보고서에 양심상 서명할 수 없었다.",
+      "collocations": [
+        "a clear conscience",
+        "in good conscience",
+        "guilty conscience"
+      ],
+      "note": "con-(함께) + science(앎) — 옳고 그름을 '스스로 함께 아는' 마음. 철자가 비슷한 conscious(의식하는)와 혼동 주의.",
+      "family": [
+        {
+          "word": "conscientious",
+          "pos": "a.",
+          "ko": "양심적인, 성실한 — conscious(의식하는)와 다름"
+        },
+        {
+          "word": "conscious",
+          "pos": "a.",
+          "ko": "의식하는, 자각하는"
+        }
+      ]
+    },
+    {
+      "headword": "soothe",
+      "pos": "v.",
+      "ko": "달래다, 진정시키다",
+      "example_en": "The central bank's statement did little to soothe nervous investors.",
+      "example_ko": "중앙은행의 발표는 불안한 투자자들을 달래는 데 별 도움이 되지 못했다.",
+      "collocations": [
+        "soothe fears",
+        "soothe nerves",
+        "soothing music"
+      ],
+      "note": "감정·통증을 부드럽게 가라앉힌다는 뉘앙스 — 형용사 soothing은 '마음을 편하게 하는'이지만, 기사에서는 '문제는 그대로 두고 기분만 달래는'이라는 비꼼으로도 쓰인다.",
+      "related": [
+        {
+          "word": "allay",
+          "ko": "(두려움·의심을) 가라앉히다",
+          "note": "allay는 거의 fears·concerns에만 붙는 격식어, soothe는 감정·통증·아기 등 폭넓게"
+        }
+      ]
+    },
+    {
+      "headword": "concur",
+      "pos": "v.",
+      "ko": "동의하다; 동시에 일어나다",
+      "example_en": "Most economists concur that the tax will raise prices in the short term.",
+      "example_ko": "대부분의 경제학자는 그 세금이 단기적으로 물가를 올릴 것이라는 데 동의한다.",
+      "collocations": [
+        "concur with",
+        "concur that"
+      ],
+      "note": "어원: con-(함께) + cur(달리다) — 의견이 '함께 달린다'=동의. 같은 뿌리의 concurrent는 '동시에 일어나는', current는 '흐르는(현재의)'.",
+      "family": [
+        {
+          "word": "concurrence",
+          "pos": "n.",
+          "ko": "동의; 동시 발생"
+        },
+        {
+          "word": "concurrent",
+          "pos": "a.",
+          "ko": "동시에 일어나는 — '동의'가 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "outsource",
+      "pos": "v.",
+      "ko": "외주를 주다, 외부에 맡기다",
+      "example_en": "The firm outsourced its customer service to a call center overseas.",
+      "example_ko": "그 회사는 고객 서비스를 해외 콜센터에 외주로 맡겼다.",
+      "collocations": [
+        "outsource production",
+        "outsource to"
+      ],
+      "note": "out(밖) + source(공급원) — 일을 회사 바깥에서 조달한다. 해외로 옮기는 것은 offshore, 다시 안으로 들이는 것은 insource / reshore.",
+      "family": [
+        {
+          "word": "outsourcing",
+          "pos": "n.",
+          "ko": "외주, 아웃소싱"
+        },
+        {
+          "word": "insource",
+          "pos": "v.",
+          "ko": "내부에서 직접 하다"
+        }
+      ]
+    },
+    {
+      "headword": "beholden",
+      "pos": "a.",
+      "ko": "신세를 진, 얽매인",
+      "example_en": "Critics say the agency is beholden to the industry it is supposed to regulate.",
+      "example_ko": "비판론자들은 그 기관이 규제해야 할 업계에 얽매여 있다고 말한다.",
+      "collocations": [
+        "beholden to"
+      ],
+      "note": "be + hold(붙잡혀 있는) 느낌으로 기억 — 돈·은혜를 받아 상대에게 '붙잡혀' 독립적으로 행동하지 못하는 상태. 항상 beholden to + 대상, 서술적으로만 쓴다.",
+      "related": [
+        {
+          "word": "indebted",
+          "ko": "빚진, 은혜를 입은",
+          "note": "indebted는 고마움을 표하는 중립·긍정적 말, beholden은 '그래서 휘둘린다'는 부정적 뉘앙스"
+        }
+      ]
+    }
+  ]
+}
