@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-10-31",
+  "passage_note": "심리 — 사람들은 왜 돈을 내고 일부러 무서워하려 하는가(교양 기사)",
+  "sentences": [
+    {
+      "en": "Every autumn, millions of people willingly pay to be frightened, queuing for haunted attractions or binge-watching horror films that would, in any other context, be regarded as deeply unpleasant.",
+      "ko": "매년 가을이면 수백만 명이 기꺼이 돈을 내고 겁을 먹는다. 유령의 집 앞에 줄을 서거나, 다른 맥락이었다면 몹시 불쾌한 것으로 여겨졌을 공포 영화를 몰아 본다.",
+      "structure": "· pay to be frightened : to부정사의 수동형(to be p.p.) — '겁먹기 위해(겁먹는 것에) 돈을 내다'.\n· queuing ~ or binge-watching ~ : 분사구문(부대상황)이 or로 병렬 연결 — 앞 절의 '돈 내고 겁먹는' 구체적 모습을 덧붙인다.\n· that would, in any other context, be regarded as ~ : 주격 관계대명사절. in any other context가 '다른 맥락이었다면'이라는 조건을 담아 would가 가정의 뜻을 띤다(가정법 대용 — 부사구가 if절 역할).\n· be regarded as ~ = '~로 여겨지다'(regard A as B의 수동태).",
+      "vocab_notes": [
+        { "word": "willingly", "ko": "기꺼이, 자진해서" },
+        { "word": "frighten", "ko": "겁먹게 하다, 놀라게 하다" },
+        { "word": "queue", "ko": "줄을 서다" },
+        { "word": "haunted attraction", "ko": "유령의 집(공포 체험 시설)" },
+        { "word": "binge-watch", "ko": "(드라마·영화를) 몰아서 보다" },
+        { "word": "horror film", "ko": "공포 영화" },
+        { "word": "context", "ko": "맥락, 상황" },
+        { "word": "regard A as B", "ko": "A를 B로 여기다" },
+        { "word": "deeply", "ko": "몹시, 깊이" },
+        { "word": "unpleasant", "ko": "불쾌한" }
+      ]
+    },
+    {
+      "en": "Psychologists contend that this seemingly perverse appetite stems from what they call \"recreational fear\": a carefully calibrated dose of terror experienced within a setting the brain recognizes as fundamentally safe.",
+      "ko": "심리학자들은 겉보기에 비뚤어진 듯한 이 욕구가 그들이 '오락적 공포'라고 부르는 것에서 비롯된다고 주장한다. 즉, 뇌가 근본적으로 안전하다고 인식하는 환경 안에서 경험하는, 세심하게 조절된 양의 공포다.",
+      "structure": "· contend that ~ : that절이 contend의 목적어 — '~라고 주장하다'.\n· what they call ~ : 관계대명사 what절 = '그들이 ~라고 부르는 것'(전치사 from의 목적어).\n· 콜론(:) 뒤는 앞의 \"recreational fear\"를 풀어 설명하는 동격.\n· experienced within ~ : 과거분사구가 dose of terror를 뒤에서 수식.\n· a setting (that) the brain recognizes as ~ : 목적격 관계대명사 생략. recognize A as B = 'A를 B로 인식하다'.",
+      "vocab_notes": [
+        { "word": "psychologist", "ko": "심리학자" },
+        { "word": "contend", "ko": "주장하다" },
+        { "word": "seemingly", "ko": "겉보기에는" },
+        { "word": "perverse", "ko": "비뚤어진, 상식에 어긋나는" },
+        { "word": "appetite", "ko": "욕구, 식욕" },
+        { "word": "stem from", "ko": "~에서 비롯되다" },
+        { "word": "recreational", "ko": "오락의, 기분 전환용의" },
+        { "word": "calibrate", "ko": "(양·정도를) 세밀하게 조정하다" },
+        { "word": "dose", "ko": "(1회) 분량, 투여량" },
+        { "word": "terror", "ko": "공포, 두려움" },
+        { "word": "setting", "ko": "환경, 배경" },
+        { "word": "recognize A as B", "ko": "A를 B로 인식하다" },
+        { "word": "fundamentally", "ko": "근본적으로" }
+      ]
+    },
+    {
+      "en": "Because the threat is simulated rather than real, the surge of adrenaline that accompanies a jump scare can be savored instead of endured, leaving participants feeling exhilarated rather than traumatized.",
+      "ko": "위협이 실제가 아니라 모의된 것이기 때문에, 깜짝 놀래는 장면에 뒤따르는 아드레날린의 급증은 견뎌야 할 것이 아니라 음미할 수 있는 것이 되고, 그 결과 참가자들은 정신적 충격을 받기보다 짜릿한 기분을 느끼게 된다.",
+      "structure": "· A rather than B / A instead of B : 'B가 아니라 A' — 한 문장에 대비 구조가 세 번(simulated/real, savored/endured, exhilarated/traumatized) 반복되며 논지를 강조.\n· the surge of adrenaline that accompanies ~ : 주격 관계대명사절이 surge를 수식. 주어의 핵은 surge(단수).\n· can be savored : 조동사 + 수동태(be p.p.).\n· leaving participants feeling ~ : 결과의 분사구문 — '그 결과 ~하게 만든다'. leave + 목적어 + -ing(목적격 보어) = '~가 …한 상태로 두다'.",
+      "vocab_notes": [
+        { "word": "threat", "ko": "위협" },
+        { "word": "simulate", "ko": "모의로 만들어 내다, 흉내 내다" },
+        { "word": "surge", "ko": "급증, 치솟음" },
+        { "word": "adrenaline", "ko": "아드레날린(흥분 호르몬)" },
+        { "word": "accompany", "ko": "~에 동반되다, 뒤따르다" },
+        { "word": "jump scare", "ko": "(공포물에서) 갑자기 튀어나와 놀래는 장면" },
+        { "word": "savor", "ko": "음미하다, 만끽하다" },
+        { "word": "endure", "ko": "견디다, 참다" },
+        { "word": "participant", "ko": "참가자" },
+        { "word": "exhilarated", "ko": "짜릿한, 들뜬" },
+        { "word": "traumatize", "ko": "정신적 충격(트라우마)을 주다" }
+      ]
+    },
+    {
+      "en": "Some researchers go further, suggesting that such experiences serve as a kind of rehearsal, allowing people to hone their capacity to regulate anxiety without incurring any genuine risk.",
+      "ko": "일부 연구자들은 한 걸음 더 나아가, 이런 경험이 일종의 예행연습 역할을 해서 사람들이 실제 위험을 전혀 떠안지 않고도 불안을 다스리는 능력을 갈고닦게 해 준다고 말한다.",
+      "structure": "· suggesting that ~ : 부대상황의 분사구문 — 'go further'의 구체적 내용을 덧붙인다. 여기서 suggest는 '제안하다'가 아니라 '시사하다, 말하다'이므로 that절에 should(동사원형)를 쓰지 않는다.\n· allowing people to hone ~ : 결과의 분사구문. allow + 목적어 + to부정사 = '~가 …하게 해 주다'.\n· their capacity to regulate ~ : to부정사의 형용사적 용법(capacity 수식).\n· without incurring ~ : 전치사 without + 동명사.",
+      "vocab_notes": [
+        { "word": "researcher", "ko": "연구자" },
+        { "word": "go further", "ko": "한 걸음 더 나아가다" },
+        { "word": "suggest", "ko": "시사하다, 넌지시 말하다" },
+        { "word": "serve as", "ko": "~의 역할을 하다" },
+        { "word": "rehearsal", "ko": "예행연습, 리허설" },
+        { "word": "allow A to B", "ko": "A가 B하게 해 주다" },
+        { "word": "hone", "ko": "(기술·능력을) 연마하다" },
+        { "word": "capacity", "ko": "능력, 역량" },
+        { "word": "regulate", "ko": "조절하다, 다스리다" },
+        { "word": "anxiety", "ko": "불안" },
+        { "word": "incur", "ko": "(손실·위험 등을) 초래하다, 떠안다" },
+        { "word": "genuine", "ko": "진짜의, 실제의" }
+      ]
+    },
+    {
+      "en": "Notably, a study conducted at a haunted house in Denmark found that visitors enjoyed themselves most when their fear was moderate, implying that there is a \"sweet spot\" beyond which thrill gives way to sheer distress.",
+      "ko": "주목할 만하게도, 덴마크의 한 유령의 집에서 실시된 연구는 방문객들이 공포가 적당할 때 가장 즐거워했다는 것을 발견했는데, 이는 그 선을 넘으면 스릴이 순전한 괴로움으로 바뀌는 '최적점'이 있음을 시사한다.",
+      "structure": "· a study conducted at ~ : 과거분사구가 study를 뒤에서 수식(주어부). 본동사는 found.\n· enjoy oneself = '즐거운 시간을 보내다'(재귀대명사 목적어).\n· implying that ~ : 앞 절 전체를 받는 분사구문 — '이는 ~을 시사한다'(, which implies that ~로 바꿔 쓸 수 있음).\n· beyond which ~ : 전치사 + 관계대명사. which의 선행사는 a \"sweet spot\" — '그 지점을 넘어서면 ~'.\n· give way to ~ = '~에 자리를 내주다, ~로 바뀌다'.",
+      "vocab_notes": [
+        { "word": "notably", "ko": "주목할 만하게도, 특히" },
+        { "word": "conduct", "ko": "(연구·조사를) 실시하다" },
+        { "word": "haunted house", "ko": "유령의 집" },
+        { "word": "enjoy oneself", "ko": "즐거운 시간을 보내다" },
+        { "word": "moderate", "ko": "적당한, 중간 정도의" },
+        { "word": "imply", "ko": "시사하다, 암시하다" },
+        { "word": "sweet spot", "ko": "최적점, 가장 효과가 좋은 지점" },
+        { "word": "beyond", "ko": "~을 넘어서" },
+        { "word": "thrill", "ko": "전율, 스릴" },
+        { "word": "give way to", "ko": "~로 바뀌다, ~에 자리를 내주다" },
+        { "word": "sheer", "ko": "순전한, 완전한" },
+        { "word": "distress", "ko": "괴로움, 고통" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "exhilarate",
+      "pos": "v.",
+      "ko": "아주 들뜨게 하다, 짜릿하게 하다",
+      "example_en": "Investors were exhilarated by the company's record-breaking quarterly results.",
+      "example_ko": "투자자들은 그 회사의 기록적인 분기 실적에 크게 들떴다.",
+      "collocations": ["feel exhilarated", "an exhilarating experience"],
+      "note": "어원: ex-(강조) + hilaris(명랑한) — hilarious(아주 웃긴)와 같은 뿌리. '웃음이 터질 만큼 기분을 띄우다'로 기억.",
+      "family": [
+        { "word": "exhilarating", "pos": "a.", "ko": "짜릿한, 신나는(대상이 주는 느낌)" },
+        { "word": "exhilarated", "pos": "a.", "ko": "들뜬, 짜릿함을 느끼는(사람의 감정)" },
+        { "word": "exhilaration", "pos": "n.", "ko": "들뜸, 짜릿함" }
+      ],
+      "related": [
+        { "word": "exasperate", "ko": "몹시 화나게 하다", "note": "ex-로 시작하고 철자가 비슷하지만 뜻은 정반대 — exhilarate는 기분을 띄우고, exasperate는 속을 뒤집는다" }
+      ]
+    },
+    {
+      "headword": "savor",
+      "pos": "v.",
+      "ko": "음미하다, 만끽하다",
+      "example_en": "After months of negotiations, the team took a moment to savor their victory.",
+      "example_ko": "몇 달간의 협상 끝에 팀은 잠시 승리를 만끽했다.",
+      "collocations": ["savor the moment", "savor the flavor"],
+      "note": "명사 savor는 '맛·풍미' — 맛을 천천히 느끼듯 경험을 서둘지 않고 즐기는 것. 형용사 savory는 '단맛이 아닌, 짭짤하고 감칠맛 나는'(sweet의 반대 개념) 음식에 쓴다.",
+      "family": [
+        { "word": "savory", "pos": "a.", "ko": "짭짤한, 감칠맛 나는(디저트가 아닌 요리)" }
+      ],
+      "related": [
+        { "word": "relish", "ko": "즐기다, 기대하다", "note": "relish는 '하고 싶어 들뜨다'(relish the chance)까지 포함, savor는 '이미 가진 것을 천천히 음미'에 무게" }
+      ]
+    },
+    {
+      "headword": "hone",
+      "pos": "v.",
+      "ko": "(기술·능력을) 연마하다, 갈고닦다",
+      "example_en": "The internship helped her hone her negotiation skills before joining the sales team.",
+      "example_ko": "인턴십은 그녀가 영업팀에 합류하기 전에 협상 능력을 갈고닦는 데 도움이 되었다.",
+      "collocations": ["hone one's skills", "hone a strategy"],
+      "note": "원래 명사 hone은 칼을 가는 '숫돌' — 이미 있는 능력을 숫돌에 갈듯 더 날카롭게 만든다는 뜻. 처음 배우는 것에는 쓰지 않는다.",
+      "related": [
+        { "word": "home in on", "ko": "~에 초점을 맞추다, ~를 정확히 겨누다", "note": "원래 표현은 home in on(미사일이 목표로 '귀환'하듯 접근). hone in on은 이를 잘못 들은 변형으로 퍼졌으니 격식 글에선 home in on을 쓴다" }
+      ]
+    },
+    {
+      "headword": "trepidation",
+      "pos": "n.",
+      "ko": "(앞일에 대한) 불안, 두려움",
+      "example_en": "Many employees viewed the upcoming merger with considerable trepidation.",
+      "example_ko": "많은 직원이 다가오는 합병을 상당한 불안감을 갖고 바라보았다.",
+      "collocations": ["with trepidation", "a sense of trepidation"],
+      "note": "어원: 라틴어 trepidus(떨고 있는) — 몸이 떨리는 두려움. 반대로 in-(부정)이 붙은 intrepid는 '떨지 않는 = 용맹한'.",
+      "family": [
+        { "word": "intrepid", "pos": "a.", "ko": "두려움을 모르는, 용맹한 — trepidation의 반대" }
+      ]
+    },
+    {
+      "headword": "macabre",
+      "pos": "a.",
+      "ko": "(죽음을 다뤄) 섬뜩한, 오싹한",
+      "example_en": "The museum's exhibit on medieval medicine was fascinating, if a little macabre.",
+      "example_ko": "중세 의학에 관한 그 박물관 전시는 다소 섬뜩하긴 해도 매우 흥미로웠다.",
+      "collocations": ["macabre humor", "a macabre fascination"],
+      "note": "프랑스어 danse macabre(해골이 춤추는 '죽음의 무도')에서 — 그냥 무서운 게 아니라 '죽음·시체'가 연상되는 섬뜩함. 발음 [머카-브르], 끝 e는 거의 안 들린다.",
+      "related": [
+        { "word": "morbid", "ko": "병적인, 죽음에 집착하는", "note": "morbid는 그런 것에 끌리는 사람의 '관심·성향'(morbid curiosity), macabre는 대상 자체의 섬뜩함" }
+      ]
+    },
+    {
+      "headword": "visceral",
+      "pos": "a.",
+      "ko": "본능적인, 직감적인",
+      "example_en": "Voters had a visceral reaction to the proposed tax increase.",
+      "example_ko": "유권자들은 제안된 증세안에 본능적으로 반발했다.",
+      "collocations": ["a visceral reaction", "visceral fear"],
+      "note": "viscera = '내장' — 머리로 따져서가 아니라 배 속에서 치밀어 오르는 반응. 우리말 '속에서 받친다', 영어 gut reaction(gut=창자)과 같은 발상.",
+      "related": [
+        { "word": "gut feeling", "ko": "직감", "note": "같은 '내장' 비유 — visceral이 더 격식체, 기사·논설에서 자주 쓴다" }
+      ]
+    },
+    {
+      "headword": "catharsis",
+      "pos": "n.",
+      "ko": "카타르시스, (억눌린 감정의) 정화·해소",
+      "example_en": "For many fans, the tearful final episode provided a sense of catharsis.",
+      "example_ko": "많은 팬에게 눈물겨운 마지막 회는 일종의 카타르시스를 주었다.",
+      "collocations": ["a sense of catharsis", "emotional catharsis"],
+      "note": "그리스어 katharsis(깨끗이 씻어냄) — 아리스토텔레스가 비극이 관객의 연민·공포를 '씻어 준다'고 설명한 데서 감정 해소의 뜻이 됐다.",
+      "family": [
+        { "word": "cathartic", "pos": "a.", "ko": "카타르시스를 주는, 속이 후련해지는" }
+      ]
+    },
+    {
+      "headword": "desensitize",
+      "pos": "v.",
+      "ko": "둔감하게 만들다",
+      "example_en": "Critics argue that constant exposure to violent news desensitizes viewers to real suffering.",
+      "example_ko": "비평가들은 폭력적인 뉴스에 끊임없이 노출되면 시청자들이 실제 고통에 둔감해진다고 주장한다.",
+      "collocations": ["become desensitized to", "desensitize A to B"],
+      "note": "de-(없애다) + sensitive(민감한) + -ize(~하게 만들다) — 접두사·접미사만 떼면 뜻이 그대로 보인다. 전치사 to와 짝: desensitized to violence.",
+      "family": [
+        { "word": "desensitization", "pos": "n.", "ko": "둔감화" },
+        { "word": "sensitize", "pos": "v.", "ko": "민감하게 만들다, 경각심을 갖게 하다" }
+      ],
+      "related": [
+        { "word": "insensitive", "ko": "무신경한, 배려 없는", "note": "insensitive는 원래 그런 '성격·태도', desensitized는 반복 노출로 '무뎌진 상태'" }
+      ]
+    },
+    {
+      "headword": "uncanny",
+      "pos": "a.",
+      "ko": "기묘한, 이상하리만치 (정확한)",
+      "example_en": "The analyst has an uncanny ability to predict shifts in consumer demand.",
+      "example_ko": "그 애널리스트는 소비자 수요의 변화를 예측하는 신기할 정도의 능력이 있다.",
+      "collocations": ["an uncanny resemblance", "an uncanny ability", "the uncanny valley"],
+      "note": "canny는 '눈치 빠른, 알고 있는' → un- = '설명이 안 되는'. 그래서 섬뜩함(uncanny valley: 사람과 거의 같은 로봇이 주는 불쾌감)과 감탄(uncanny ability: 귀신같은 능력) 양쪽에 다 쓴다.",
+      "family": [
+        { "word": "canny", "pos": "a.", "ko": "영리한, 빈틈없는(특히 돈·사업에)" },
+        { "word": "uncannily", "pos": "ad.", "ko": "이상하리만치, 묘하게" }
+      ]
+    },
+    {
+      "headword": "innate",
+      "pos": "a.",
+      "ko": "타고난, 선천적인",
+      "example_en": "Some managers believe leadership is an innate quality, while others insist it can be taught.",
+      "example_ko": "어떤 관리자들은 리더십이 타고난 자질이라고 믿는 반면, 다른 이들은 가르칠 수 있다고 주장한다.",
+      "collocations": ["an innate ability", "innate curiosity"],
+      "note": "어원: in-(안에) + nat-(태어나다) — '태어날 때부터 안에 있는'. native·nation·prenatal(태어나기 전의)과 같은 뿌리.",
+      "related": [
+        { "word": "inherent", "ko": "내재된, 고유의", "note": "innate는 사람·동물의 능력·성향, inherent는 사물·제도에 원래 들어 있는 속성(inherent risk)에 주로 쓴다" }
+      ]
+    },
+    {
+      "headword": "insatiable",
+      "pos": "a.",
+      "ko": "만족할 줄 모르는, 끝없는",
+      "example_en": "The platform's growth is driven by an insatiable demand for short-form video.",
+      "example_ko": "그 플랫폼의 성장은 짧은 동영상에 대한 끝없는 수요가 이끌고 있다.",
+      "collocations": ["an insatiable appetite", "insatiable demand"],
+      "note": "in-(부정) + sati-(충분한) + -able — '채울 수 없는'. satisfy(충분히 하다)·saturate(가득 채우다)와 같은 sat- 뿌리.",
+      "family": [
+        { "word": "sate", "pos": "v.", "ko": "(욕구를) 충족시키다" },
+        { "word": "satiety", "pos": "n.", "ko": "포만감" }
+      ]
+    },
+    {
+      "headword": "complementary",
+      "pos": "a.",
+      "ko": "보완적인, 서로 보충하는",
+      "example_en": "The two companies merged because their product lines were highly complementary.",
+      "example_ko": "두 회사는 제품군이 서로 매우 보완적이어서 합병했다.",
+      "collocations": ["complementary skills", "complementary products"],
+      "note": "complement는 complete(완성하다)와 같은 뿌리 — 부족한 부분을 '채워서 완성'한다. 철자 e를 complete의 e로 기억하라.",
+      "family": [
+        { "word": "complement", "pos": "v./n.", "ko": "보완하다; 보완물" }
+      ],
+      "related": [
+        { "word": "complimentary", "ko": "무료의; 칭찬하는", "note": "i 하나 차이 — compliment(칭찬)에서 '서비스로 주는 = 무료의'(complimentary breakfast). 토익 단골 함정" }
+      ]
+    },
+    {
+      "headword": "conjecture",
+      "pos": "n.",
+      "ko": "추측, 어림짐작",
+      "example_en": "Reports of an imminent takeover remain pure conjecture at this stage.",
+      "example_ko": "임박한 인수 보도는 현 단계에서 순전한 추측에 불과하다.",
+      "collocations": ["pure conjecture", "a matter of conjecture"],
+      "note": "con-(함께) + ject(던지다) — 단서들을 '던져 모아' 결론을 짐작한다. project·reject·inject와 같은 ject 뿌리. 동사로도 쓴다(conjecture that ~).",
+      "related": [
+        { "word": "speculation", "ko": "추측; 투기", "note": "뉴스에서 거의 같은 뜻으로 쓰지만 conjecture는 '근거가 불충분한 추측'이라는 점이 더 두드러진다" }
+      ]
+    },
+    {
+      "headword": "lackluster",
+      "pos": "a.",
+      "ko": "활기 없는, 부진한",
+      "example_en": "Shares fell sharply after the retailer reported lackluster holiday sales.",
+      "example_ko": "그 소매업체가 부진한 연휴 매출을 발표하자 주가가 급락했다.",
+      "collocations": ["lackluster sales", "a lackluster performance"],
+      "note": "lack(없다) + luster(광택) = '광택이 없는' — 반짝임 없이 밋밋한 실적·경기를 묘사하는 경제 기사 단골어. 영국식 철자는 lacklustre.",
+      "related": [
+        { "word": "sluggish", "ko": "부진한, 굼뜬", "note": "sluggish는 '움직임·성장 속도가 느린' 데, lackluster는 '결과물이 인상적이지 못한' 데 초점" }
+      ]
+    },
+    {
+      "headword": "headwind",
+      "pos": "n.",
+      "ko": "역풍, (성장을 막는) 악재",
+      "example_en": "Rising interest rates remain a major headwind for the housing market.",
+      "example_ko": "금리 상승은 여전히 주택 시장의 큰 악재다.",
+      "collocations": ["face headwinds", "economic headwinds"],
+      "note": "비행기·배의 '앞(head)에서 부는 맞바람' → 경제 기사에선 성장을 늦추는 악재. 반대말 tailwind(뒤에서 미는 순풍 = 호재)와 짝으로 외운다.",
+      "family": [
+        { "word": "tailwind", "pos": "n.", "ko": "순풍; 호재 — headwind의 반대" }
+      ]
+    },
+    {
+      "headword": "amass",
+      "pos": "v.",
+      "ko": "(많은 양을) 모으다, 축적하다",
+      "example_en": "Over three decades, the founder amassed a fortune worth billions of dollars.",
+      "example_ko": "30년에 걸쳐 그 창업자는 수십억 달러에 달하는 재산을 모았다.",
+      "collocations": ["amass a fortune", "amass evidence"],
+      "note": "a-(~로) + mass(덩어리) — 흩어진 것을 '큰 덩어리로 만들다'. 재산·증거·지지 등 상당한 양을 의도적으로 모을 때 쓴다.",
+      "related": [
+        { "word": "accumulate", "ko": "축적하다, 쌓이다", "note": "accumulate는 자연히 쌓이는 것(먼지·부채)에도 쓰지만, amass는 주체가 '의도적으로 대량으로' 모으는 뉘앙스" }
+      ]
+    },
+    {
+      "headword": "forthright",
+      "pos": "a.",
+      "ko": "솔직한, 단도직입적인",
+      "example_en": "The CEO was forthright about the challenges the company faced.",
+      "example_ko": "그 CEO는 회사가 직면한 어려움에 대해 솔직하게 말했다.",
+      "collocations": ["forthright about", "a forthright answer"],
+      "note": "forth(앞으로) + right(곧게) — 돌려 말하지 않고 곧장 앞으로 말한다. 칭찬으로도, '너무 직설적'이라는 뉘앙스로도 쓰인다.",
+      "related": [
+        { "word": "forthcoming", "ko": "다가오는; (정보를) 선뜻 내놓는", "note": "사람에게 쓰면 '묻는 말에 협조적으로 알려 주는'(not forthcoming = 말을 아끼는). forthright는 '말투가 직설적인'" }
+      ]
+    },
+    {
+      "headword": "rehearsal",
+      "pos": "n.",
+      "ko": "예행연습, 리허설",
+      "example_en": "The fire drill served as a useful rehearsal for a real emergency.",
+      "example_ko": "소방 훈련은 실제 비상 상황에 대비한 유용한 예행연습이 되었다.",
+      "collocations": ["a dress rehearsal", "serve as a rehearsal"],
+      "note": "re-(다시) + hearse(써레질하다) — 밭을 써레로 '반복해 고르듯' 같은 것을 되풀이해 연습한다. dress rehearsal은 실제 복장을 갖춘 '최종 리허설'로, 비유적으로 본 행사 직전의 시험 무대를 뜻한다.",
+      "family": [
+        { "word": "rehearse", "pos": "v.", "ko": "예행연습하다; (같은 말을) 되풀이하다" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-31",
+  "words": [
+    {
+      "headword": "exhilarate",
+      "pos": "v.",
+      "ko": "아주 들뜨게 하다, 짜릿하게 하다",
+      "example_en": "Investors were exhilarated by the company's record-breaking quarterly results.",
+      "example_ko": "투자자들은 그 회사의 기록적인 분기 실적에 크게 들떴다.",
+      "collocations": [
+        "feel exhilarated",
+        "an exhilarating experience"
+      ],
+      "note": "어원: ex-(강조) + hilaris(명랑한) — hilarious(아주 웃긴)와 같은 뿌리. '웃음이 터질 만큼 기분을 띄우다'로 기억.",
+      "family": [
+        {
+          "word": "exhilarating",
+          "pos": "a.",
+          "ko": "짜릿한, 신나는(대상이 주는 느낌)"
+        },
+        {
+          "word": "exhilarated",
+          "pos": "a.",
+          "ko": "들뜬, 짜릿함을 느끼는(사람의 감정)"
+        },
+        {
+          "word": "exhilaration",
+          "pos": "n.",
+          "ko": "들뜸, 짜릿함"
+        }
+      ],
+      "related": [
+        {
+          "word": "exasperate",
+          "ko": "몹시 화나게 하다",
+          "note": "ex-로 시작하고 철자가 비슷하지만 뜻은 정반대 — exhilarate는 기분을 띄우고, exasperate는 속을 뒤집는다"
+        }
+      ]
+    },
+    {
+      "headword": "savor",
+      "pos": "v.",
+      "ko": "음미하다, 만끽하다",
+      "example_en": "After months of negotiations, the team took a moment to savor their victory.",
+      "example_ko": "몇 달간의 협상 끝에 팀은 잠시 승리를 만끽했다.",
+      "collocations": [
+        "savor the moment",
+        "savor the flavor"
+      ],
+      "note": "명사 savor는 '맛·풍미' — 맛을 천천히 느끼듯 경험을 서둘지 않고 즐기는 것. 형용사 savory는 '단맛이 아닌, 짭짤하고 감칠맛 나는'(sweet의 반대 개념) 음식에 쓴다.",
+      "family": [
+        {
+          "word": "savory",
+          "pos": "a.",
+          "ko": "짭짤한, 감칠맛 나는(디저트가 아닌 요리)"
+        }
+      ],
+      "related": [
+        {
+          "word": "relish",
+          "ko": "즐기다, 기대하다",
+          "note": "relish는 '하고 싶어 들뜨다'(relish the chance)까지 포함, savor는 '이미 가진 것을 천천히 음미'에 무게"
+        }
+      ]
+    },
+    {
+      "headword": "hone",
+      "pos": "v.",
+      "ko": "(기술·능력을) 연마하다, 갈고닦다",
+      "example_en": "The internship helped her hone her negotiation skills before joining the sales team.",
+      "example_ko": "인턴십은 그녀가 영업팀에 합류하기 전에 협상 능력을 갈고닦는 데 도움이 되었다.",
+      "collocations": [
+        "hone one's skills",
+        "hone a strategy"
+      ],
+      "note": "원래 명사 hone은 칼을 가는 '숫돌' — 이미 있는 능력을 숫돌에 갈듯 더 날카롭게 만든다는 뜻. 처음 배우는 것에는 쓰지 않는다.",
+      "related": [
+        {
+          "word": "home in on",
+          "ko": "~에 초점을 맞추다, ~를 정확히 겨누다",
+          "note": "원래 표현은 home in on(미사일이 목표로 '귀환'하듯 접근). hone in on은 이를 잘못 들은 변형으로 퍼졌으니 격식 글에선 home in on을 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "trepidation",
+      "pos": "n.",
+      "ko": "(앞일에 대한) 불안, 두려움",
+      "example_en": "Many employees viewed the upcoming merger with considerable trepidation.",
+      "example_ko": "많은 직원이 다가오는 합병을 상당한 불안감을 갖고 바라보았다.",
+      "collocations": [
+        "with trepidation",
+        "a sense of trepidation"
+      ],
+      "note": "어원: 라틴어 trepidus(떨고 있는) — 몸이 떨리는 두려움. 반대로 in-(부정)이 붙은 intrepid는 '떨지 않는 = 용맹한'.",
+      "family": [
+        {
+          "word": "intrepid",
+          "pos": "a.",
+          "ko": "두려움을 모르는, 용맹한 — trepidation의 반대"
+        }
+      ]
+    },
+    {
+      "headword": "macabre",
+      "pos": "a.",
+      "ko": "(죽음을 다뤄) 섬뜩한, 오싹한",
+      "example_en": "The museum's exhibit on medieval medicine was fascinating, if a little macabre.",
+      "example_ko": "중세 의학에 관한 그 박물관 전시는 다소 섬뜩하긴 해도 매우 흥미로웠다.",
+      "collocations": [
+        "macabre humor",
+        "a macabre fascination"
+      ],
+      "note": "프랑스어 danse macabre(해골이 춤추는 '죽음의 무도')에서 — 그냥 무서운 게 아니라 '죽음·시체'가 연상되는 섬뜩함. 발음 [머카-브르], 끝 e는 거의 안 들린다.",
+      "related": [
+        {
+          "word": "morbid",
+          "ko": "병적인, 죽음에 집착하는",
+          "note": "morbid는 그런 것에 끌리는 사람의 '관심·성향'(morbid curiosity), macabre는 대상 자체의 섬뜩함"
+        }
+      ]
+    },
+    {
+      "headword": "visceral",
+      "pos": "a.",
+      "ko": "본능적인, 직감적인",
+      "example_en": "Voters had a visceral reaction to the proposed tax increase.",
+      "example_ko": "유권자들은 제안된 증세안에 본능적으로 반발했다.",
+      "collocations": [
+        "a visceral reaction",
+        "visceral fear"
+      ],
+      "note": "viscera = '내장' — 머리로 따져서가 아니라 배 속에서 치밀어 오르는 반응. 우리말 '속에서 받친다', 영어 gut reaction(gut=창자)과 같은 발상.",
+      "related": [
+        {
+          "word": "gut feeling",
+          "ko": "직감",
+          "note": "같은 '내장' 비유 — visceral이 더 격식체, 기사·논설에서 자주 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "catharsis",
+      "pos": "n.",
+      "ko": "카타르시스, (억눌린 감정의) 정화·해소",
+      "example_en": "For many fans, the tearful final episode provided a sense of catharsis.",
+      "example_ko": "많은 팬에게 눈물겨운 마지막 회는 일종의 카타르시스를 주었다.",
+      "collocations": [
+        "a sense of catharsis",
+        "emotional catharsis"
+      ],
+      "note": "그리스어 katharsis(깨끗이 씻어냄) — 아리스토텔레스가 비극이 관객의 연민·공포를 '씻어 준다'고 설명한 데서 감정 해소의 뜻이 됐다.",
+      "family": [
+        {
+          "word": "cathartic",
+          "pos": "a.",
+          "ko": "카타르시스를 주는, 속이 후련해지는"
+        }
+      ]
+    },
+    {
+      "headword": "desensitize",
+      "pos": "v.",
+      "ko": "둔감하게 만들다",
+      "example_en": "Critics argue that constant exposure to violent news desensitizes viewers to real suffering.",
+      "example_ko": "비평가들은 폭력적인 뉴스에 끊임없이 노출되면 시청자들이 실제 고통에 둔감해진다고 주장한다.",
+      "collocations": [
+        "become desensitized to",
+        "desensitize A to B"
+      ],
+      "note": "de-(없애다) + sensitive(민감한) + -ize(~하게 만들다) — 접두사·접미사만 떼면 뜻이 그대로 보인다. 전치사 to와 짝: desensitized to violence.",
+      "family": [
+        {
+          "word": "desensitization",
+          "pos": "n.",
+          "ko": "둔감화"
+        },
+        {
+          "word": "sensitize",
+          "pos": "v.",
+          "ko": "민감하게 만들다, 경각심을 갖게 하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "insensitive",
+          "ko": "무신경한, 배려 없는",
+          "note": "insensitive는 원래 그런 '성격·태도', desensitized는 반복 노출로 '무뎌진 상태'"
+        }
+      ]
+    },
+    {
+      "headword": "uncanny",
+      "pos": "a.",
+      "ko": "기묘한, 이상하리만치 (정확한)",
+      "example_en": "The analyst has an uncanny ability to predict shifts in consumer demand.",
+      "example_ko": "그 애널리스트는 소비자 수요의 변화를 예측하는 신기할 정도의 능력이 있다.",
+      "collocations": [
+        "an uncanny resemblance",
+        "an uncanny ability",
+        "the uncanny valley"
+      ],
+      "note": "canny는 '눈치 빠른, 알고 있는' → un- = '설명이 안 되는'. 그래서 섬뜩함(uncanny valley: 사람과 거의 같은 로봇이 주는 불쾌감)과 감탄(uncanny ability: 귀신같은 능력) 양쪽에 다 쓴다.",
+      "family": [
+        {
+          "word": "canny",
+          "pos": "a.",
+          "ko": "영리한, 빈틈없는(특히 돈·사업에)"
+        },
+        {
+          "word": "uncannily",
+          "pos": "ad.",
+          "ko": "이상하리만치, 묘하게"
+        }
+      ]
+    },
+    {
+      "headword": "innate",
+      "pos": "a.",
+      "ko": "타고난, 선천적인",
+      "example_en": "Some managers believe leadership is an innate quality, while others insist it can be taught.",
+      "example_ko": "어떤 관리자들은 리더십이 타고난 자질이라고 믿는 반면, 다른 이들은 가르칠 수 있다고 주장한다.",
+      "collocations": [
+        "an innate ability",
+        "innate curiosity"
+      ],
+      "note": "어원: in-(안에) + nat-(태어나다) — '태어날 때부터 안에 있는'. native·nation·prenatal(태어나기 전의)과 같은 뿌리.",
+      "related": [
+        {
+          "word": "inherent",
+          "ko": "내재된, 고유의",
+          "note": "innate는 사람·동물의 능력·성향, inherent는 사물·제도에 원래 들어 있는 속성(inherent risk)에 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "insatiable",
+      "pos": "a.",
+      "ko": "만족할 줄 모르는, 끝없는",
+      "example_en": "The platform's growth is driven by an insatiable demand for short-form video.",
+      "example_ko": "그 플랫폼의 성장은 짧은 동영상에 대한 끝없는 수요가 이끌고 있다.",
+      "collocations": [
+        "an insatiable appetite",
+        "insatiable demand"
+      ],
+      "note": "in-(부정) + sati-(충분한) + -able — '채울 수 없는'. satisfy(충분히 하다)·saturate(가득 채우다)와 같은 sat- 뿌리.",
+      "family": [
+        {
+          "word": "sate",
+          "pos": "v.",
+          "ko": "(욕구를) 충족시키다"
+        },
+        {
+          "word": "satiety",
+          "pos": "n.",
+          "ko": "포만감"
+        }
+      ]
+    },
+    {
+      "headword": "complementary",
+      "pos": "a.",
+      "ko": "보완적인, 서로 보충하는",
+      "example_en": "The two companies merged because their product lines were highly complementary.",
+      "example_ko": "두 회사는 제품군이 서로 매우 보완적이어서 합병했다.",
+      "collocations": [
+        "complementary skills",
+        "complementary products"
+      ],
+      "note": "complement는 complete(완성하다)와 같은 뿌리 — 부족한 부분을 '채워서 완성'한다. 철자 e를 complete의 e로 기억하라.",
+      "family": [
+        {
+          "word": "complement",
+          "pos": "v./n.",
+          "ko": "보완하다; 보완물"
+        }
+      ],
+      "related": [
+        {
+          "word": "complimentary",
+          "ko": "무료의; 칭찬하는",
+          "note": "i 하나 차이 — compliment(칭찬)에서 '서비스로 주는 = 무료의'(complimentary breakfast). 토익 단골 함정"
+        }
+      ]
+    },
+    {
+      "headword": "conjecture",
+      "pos": "n.",
+      "ko": "추측, 어림짐작",
+      "example_en": "Reports of an imminent takeover remain pure conjecture at this stage.",
+      "example_ko": "임박한 인수 보도는 현 단계에서 순전한 추측에 불과하다.",
+      "collocations": [
+        "pure conjecture",
+        "a matter of conjecture"
+      ],
+      "note": "con-(함께) + ject(던지다) — 단서들을 '던져 모아' 결론을 짐작한다. project·reject·inject와 같은 ject 뿌리. 동사로도 쓴다(conjecture that ~).",
+      "related": [
+        {
+          "word": "speculation",
+          "ko": "추측; 투기",
+          "note": "뉴스에서 거의 같은 뜻으로 쓰지만 conjecture는 '근거가 불충분한 추측'이라는 점이 더 두드러진다"
+        }
+      ]
+    },
+    {
+      "headword": "lackluster",
+      "pos": "a.",
+      "ko": "활기 없는, 부진한",
+      "example_en": "Shares fell sharply after the retailer reported lackluster holiday sales.",
+      "example_ko": "그 소매업체가 부진한 연휴 매출을 발표하자 주가가 급락했다.",
+      "collocations": [
+        "lackluster sales",
+        "a lackluster performance"
+      ],
+      "note": "lack(없다) + luster(광택) = '광택이 없는' — 반짝임 없이 밋밋한 실적·경기를 묘사하는 경제 기사 단골어. 영국식 철자는 lacklustre.",
+      "related": [
+        {
+          "word": "sluggish",
+          "ko": "부진한, 굼뜬",
+          "note": "sluggish는 '움직임·성장 속도가 느린' 데, lackluster는 '결과물이 인상적이지 못한' 데 초점"
+        }
+      ]
+    },
+    {
+      "headword": "headwind",
+      "pos": "n.",
+      "ko": "역풍, (성장을 막는) 악재",
+      "example_en": "Rising interest rates remain a major headwind for the housing market.",
+      "example_ko": "금리 상승은 여전히 주택 시장의 큰 악재다.",
+      "collocations": [
+        "face headwinds",
+        "economic headwinds"
+      ],
+      "note": "비행기·배의 '앞(head)에서 부는 맞바람' → 경제 기사에선 성장을 늦추는 악재. 반대말 tailwind(뒤에서 미는 순풍 = 호재)와 짝으로 외운다.",
+      "family": [
+        {
+          "word": "tailwind",
+          "pos": "n.",
+          "ko": "순풍; 호재 — headwind의 반대"
+        }
+      ]
+    }
+  ]
+}
