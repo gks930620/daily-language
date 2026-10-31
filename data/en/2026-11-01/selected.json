@@ -1,0 +1,349 @@
+{
+  "date": "2026-11-01",
+  "words": [
+    {
+      "headword": "vestige",
+      "pos": "n.",
+      "ko": "흔적, 잔재",
+      "example_en": "The old tollbooth is one of the last vestiges of the highway's original design.",
+      "example_ko": "그 오래된 요금소는 고속도로 원래 설계의 마지막 남은 흔적 중 하나다.",
+      "collocations": [
+        "a vestige of",
+        "the last vestiges of"
+      ],
+      "note": "어원: 라틴어 vestigium(발자국) — 지나간 것이 남긴 '발자국'. 흔히 the last vestiges of ~ 처럼 복수로 '마지막 남은 흔적'을 말한다.",
+      "family": [
+        {
+          "word": "vestigial",
+          "pos": "a.",
+          "ko": "흔적만 남은, 퇴화한 (vestigial organ 퇴화 기관)"
+        }
+      ],
+      "related": [
+        {
+          "word": "relic",
+          "ko": "유물, 유품",
+          "note": "relic은 남아 있는 '물건 자체', vestige는 사라진 것의 '희미한 흔적'"
+        }
+      ]
+    },
+    {
+      "headword": "archaic",
+      "pos": "a.",
+      "ko": "낡은, 구식의, 고대의",
+      "example_en": "Employees complained that the company's archaic filing system slowed everything down.",
+      "example_ko": "직원들은 회사의 구식 문서 정리 체계가 모든 일을 늦춘다고 불평했다.",
+      "collocations": [
+        "archaic law",
+        "archaic system"
+      ],
+      "note": "어원: archae-(옛, 시초) — archaeology(고고학)·archive(기록 보관소)와 같은 뿌리. outdated보다 '아주 옛 시대의 것'이라는 느낌이 강하고 비판조로 쓰인다.",
+      "family": [
+        {
+          "word": "archaeology",
+          "pos": "n.",
+          "ko": "고고학"
+        }
+      ],
+      "related": [
+        {
+          "word": "obsolete",
+          "ko": "더 이상 쓰이지 않는",
+          "note": "obsolete는 이미 쓰지 않는 것, archaic은 아직 쓰지만 시대착오적인 것"
+        }
+      ]
+    },
+    {
+      "headword": "negate",
+      "pos": "v.",
+      "ko": "무효로 만들다, 상쇄하다; 부정하다",
+      "example_en": "Rising shipping costs negated the benefits of the lower tariff.",
+      "example_ko": "운송비 상승이 관세 인하의 이점을 상쇄해 버렸다.",
+      "collocations": [
+        "negate the benefits",
+        "negate the effect"
+      ],
+      "note": "어원: neg-(아니다) — negative(부정적인)와 같은 뿌리. '효과를 0으로 만들다'로 외우면 기사 속 쓰임이 바로 잡힌다.",
+      "family": [
+        {
+          "word": "negation",
+          "pos": "n.",
+          "ko": "부정; 무효화"
+        }
+      ],
+      "related": [
+        {
+          "word": "offset",
+          "ko": "상쇄하다",
+          "note": "offset은 일부를 메워 균형을 맞추는 것, negate는 효과를 아예 없애 버리는 것"
+        }
+      ]
+    },
+    {
+      "headword": "misalignment",
+      "pos": "n.",
+      "ko": "어긋남, 불일치",
+      "example_en": "A misalignment between sales targets and production capacity created a costly backlog.",
+      "example_ko": "판매 목표와 생산 능력 사이의 불일치가 비용이 많이 드는 주문 적체를 낳았다.",
+      "collocations": [
+        "misalignment between A and B",
+        "wheel misalignment"
+      ],
+      "note": "mis-(잘못) + align(일직선으로 맞추다) + -ment(명사). 정비소의 '휠 얼라인먼트'가 바로 그 align — 줄이 안 맞은 상태가 misalignment.",
+      "family": [
+        {
+          "word": "align",
+          "pos": "v.",
+          "ko": "정렬하다; (입장·목표를) 맞추다"
+        },
+        {
+          "word": "alignment",
+          "pos": "n.",
+          "ko": "정렬; 일치, 제휴"
+        }
+      ]
+    },
+    {
+      "headword": "cardiac",
+      "pos": "a.",
+      "ko": "심장의",
+      "example_en": "The patient was rushed to the hospital after suffering cardiac arrest.",
+      "example_ko": "그 환자는 심정지를 일으킨 뒤 병원으로 급히 이송되었다.",
+      "collocations": [
+        "cardiac arrest",
+        "cardiac surgery"
+      ],
+      "note": "어원: cardi-(심장) — cardiology(심장학)·cardiovascular(심혈관의)와 같은 뿌리. 의료 기사에서는 heart 대신 cardiac이 형용사로 쓰인다.",
+      "related": [
+        {
+          "word": "cardinal",
+          "ko": "가장 중요한; 추기경",
+          "note": "철자가 비슷하지만 심장과 무관 — cardinal은 '경첩(cardo)'에서 온 '핵심의'"
+        }
+      ]
+    },
+    {
+      "headword": "coincide",
+      "pos": "v.",
+      "ko": "동시에 일어나다; 일치하다",
+      "example_en": "The product launch was timed to coincide with the holiday shopping season.",
+      "example_ko": "제품 출시는 연말 쇼핑 시즌과 겹치도록 시기를 맞췄다.",
+      "collocations": [
+        "coincide with",
+        "timed to coincide with"
+      ],
+      "note": "co-(함께) + incide(떨어지다) — 같은 시점에 '함께 떨어지다'. 명사 coincidence는 '우연의 일치'로 뜻이 한 걸음 옮겨 간다.",
+      "family": [
+        {
+          "word": "coincidence",
+          "pos": "n.",
+          "ko": "우연의 일치"
+        },
+        {
+          "word": "coincidental",
+          "pos": "a.",
+          "ko": "우연의"
+        }
+      ]
+    },
+    {
+      "headword": "latitude",
+      "pos": "n.",
+      "ko": "위도; (행동의) 재량, 자유",
+      "example_en": "Countries at higher latitudes see the biggest swings in daylight between summer and winter.",
+      "example_ko": "고위도 국가일수록 여름과 겨울 사이 일조 시간의 차이가 가장 크다.",
+      "collocations": [
+        "high latitudes",
+        "give someone latitude"
+      ],
+      "note": "뜻이 두 갈래 — 지리의 '위도'와 '재량'. 어원 latus(넓은)에서: 폭이 넓다 → 운신의 폭. 토익에선 'given latitude to decide(결정할 재량을 받다)'로 나온다.",
+      "related": [
+        {
+          "word": "longitude",
+          "ko": "경도",
+          "note": "latitude는 가로선(위도), longitude는 세로선(경도) — long(길다)=세로로 긴 선으로 기억"
+        },
+        {
+          "word": "altitude",
+          "ko": "고도",
+          "note": "철자가 비슷한 혼동어 — 높이를 말한다"
+        }
+      ]
+    },
+    {
+      "headword": "solstice",
+      "pos": "n.",
+      "ko": "(하지·동지의) 지(至)",
+      "example_en": "On the winter solstice, Seoul gets fewer than ten hours of daylight.",
+      "example_ko": "동지에는 서울의 낮이 10시간도 채 되지 않는다.",
+      "collocations": [
+        "summer solstice",
+        "winter solstice"
+      ],
+      "note": "어원: sol(태양) + stice(멈춰 서다) — 남북으로 움직이던 태양이 '멈춰 서는' 날. sol은 solar(태양의)의 그 sol.",
+      "related": [
+        {
+          "word": "equinox",
+          "ko": "춘분, 추분",
+          "note": "equi(같은) + nox(밤) — 낮과 밤의 길이가 같은 날"
+        }
+      ]
+    },
+    {
+      "headword": "stalemate",
+      "pos": "n.",
+      "ko": "교착 상태",
+      "example_en": "Negotiations between the union and management ended in a stalemate.",
+      "example_ko": "노조와 경영진의 협상은 교착 상태로 끝났다.",
+      "collocations": [
+        "reach a stalemate",
+        "break the stalemate",
+        "end in a stalemate"
+      ],
+      "note": "원래 체스 용어(스테일메이트) — 왕이 잡히진 않았지만 둘 수 있는 수가 없어 무승부가 되는 상태. 그래서 '누구도 이기지 못하고 막힌 상황'.",
+      "related": [
+        {
+          "word": "deadlock",
+          "ko": "교착 상태",
+          "note": "거의 동의어 — deadlock은 '꽉 잠긴' 느낌, stalemate는 '양쪽 다 이길 수 없는' 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "bicker",
+      "pos": "v.",
+      "ko": "티격태격하다, 옥신각신하다",
+      "example_en": "The two departments bickered over who should pay for the new software.",
+      "example_ko": "두 부서는 새 소프트웨어 비용을 누가 낼지를 두고 옥신각신했다.",
+      "collocations": [
+        "bicker over",
+        "constant bickering"
+      ],
+      "note": "사소한 일로 짜증 섞인 말다툼을 '반복'하는 것 — 뉴스에선 정치권·부서 간 다툼을 깎아내릴 때 자주 쓴다. 주로 bicker over/about + 사소한 대상.",
+      "family": [
+        {
+          "word": "bickering",
+          "pos": "n.",
+          "ko": "말다툼, 옥신각신"
+        }
+      ],
+      "related": [
+        {
+          "word": "quarrel",
+          "ko": "말다툼하다",
+          "note": "quarrel은 일반적인 말다툼, bicker는 하찮은 일로 계속 티격태격하는 것"
+        }
+      ]
+    },
+    {
+      "headword": "grumble",
+      "pos": "v.",
+      "ko": "투덜거리다, 불평하다",
+      "example_en": "Commuters grumbled about the fare increase but kept taking the subway.",
+      "example_ko": "통근자들은 요금 인상에 투덜거렸지만 지하철을 계속 탔다.",
+      "collocations": [
+        "grumble about",
+        "grumble that"
+      ],
+      "note": "낮게 '그르릉' 울리는 소리에서 온 의성어 계열 — 천둥·배가 grumble하기도 한다. complain이 정식 항의라면 grumble은 뒤에서 웅얼거리는 불평.",
+      "family": [
+        {
+          "word": "grumbling",
+          "pos": "n.",
+          "ko": "투덜거림, 불평"
+        }
+      ],
+      "related": [
+        {
+          "word": "complain",
+          "ko": "불평하다, 항의하다",
+          "note": "complain은 상대에게 공식적으로 불만을 전하는 것, grumble은 혼잣말 같은 불평"
+        }
+      ]
+    },
+    {
+      "headword": "sentiment",
+      "pos": "n.",
+      "ko": "정서, 여론; 감정",
+      "example_en": "Consumer sentiment improved as inflation began to ease.",
+      "example_ko": "물가 상승세가 누그러지기 시작하자 소비 심리가 개선되었다.",
+      "collocations": [
+        "public sentiment",
+        "consumer sentiment",
+        "investor sentiment"
+      ],
+      "note": "시사에선 개인 감정보다 '집단의 분위기·심리'로 쓰인다(consumer sentiment index = 소비자심리지수). 형용사 sentimental은 '감상적인'으로 뜻이 갈라지니 주의.",
+      "family": [
+        {
+          "word": "sentimental",
+          "pos": "a.",
+          "ko": "감상적인 — '여론'과 무관"
+        }
+      ]
+    },
+    {
+      "headword": "vociferous",
+      "pos": "a.",
+      "ko": "큰 소리로 강하게 주장하는, 극성스러운",
+      "example_en": "The redevelopment plan faced vociferous opposition from local residents.",
+      "example_ko": "재개발 계획은 지역 주민들의 거센 반대에 부딪혔다.",
+      "collocations": [
+        "vociferous opposition",
+        "vociferous critic"
+      ],
+      "note": "어원: voc-(목소리) + fer(나르다) — 목소리를 실어 나른다 → 시끄럽게 주장. vocal(목소리를 내는)·advocate(옹호하다)와 같은 voc- 뿌리.",
+      "family": [
+        {
+          "word": "vociferously",
+          "pos": "ad.",
+          "ko": "목청 높여, 극렬하게"
+        }
+      ],
+      "related": [
+        {
+          "word": "vocal",
+          "ko": "목소리를 내는, 의견을 밝히는",
+          "note": "vocal은 '의견을 분명히 내는' 정도, vociferous는 '시끄럽고 격렬하게'"
+        }
+      ]
+    },
+    {
+      "headword": "amenable",
+      "pos": "a.",
+      "ko": "(제안 등을) 기꺼이 받아들이는, 순순히 따르는",
+      "example_en": "The landlord seemed amenable to signing a shorter lease.",
+      "example_ko": "집주인은 더 짧은 임대 계약을 맺는 데 순순히 응할 것 같았다.",
+      "collocations": [
+        "amenable to change",
+        "amenable to compromise"
+      ],
+      "note": "거의 항상 to와 붙어 'be amenable to ~ = ~에 열려 있다'. 협상·회의 영어에서 '상대가 받아들일 의향이 있다'를 점잖게 말할 때 쓴다.",
+      "related": [
+        {
+          "word": "amenity",
+          "ko": "편의시설",
+          "note": "철자가 비슷한 혼동어 — 뜻이 전혀 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "perfunctory",
+      "pos": "a.",
+      "ko": "형식적인, 성의 없는",
+      "example_en": "The manager gave the report only a perfunctory glance before signing it.",
+      "example_ko": "관리자는 보고서를 형식적으로 한번 훑어보고는 서명했다.",
+      "collocations": [
+        "perfunctory glance",
+        "perfunctory apology"
+      ],
+      "note": "어원: per-(끝까지) + fungi(수행하다) — '해치우기만 하는' → 마음 없이 형식만 채운. function(기능)과 같은 fung/funct 뿌리.",
+      "related": [
+        {
+          "word": "cursory",
+          "ko": "대충 하는",
+          "note": "cursory는 '빠르게 대충', perfunctory는 '의무감에 성의 없이'에 무게"
+        }
+      ]
+    }
+  ]
+}
