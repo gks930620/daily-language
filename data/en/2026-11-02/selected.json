@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-02",
+  "words": [
+    {
+      "headword": "spatial",
+      "pos": "a.",
+      "ko": "공간의, 공간적인",
+      "example_en": "Architects need strong spatial reasoning to imagine how a building will look from every angle.",
+      "example_ko": "건축가는 건물이 모든 각도에서 어떻게 보일지 상상하기 위해 뛰어난 공간 추론 능력이 필요하다.",
+      "collocations": [
+        "spatial awareness",
+        "spatial memory",
+        "spatial reasoning"
+      ],
+      "note": "space(공간)의 형용사형인데 철자가 spacial이 아니라 spatial(t)이다 — 라틴어 spatium에서 왔기 때문. 시험에서 철자를 자주 틀린다.",
+      "family": [
+        {
+          "word": "space",
+          "pos": "n.",
+          "ko": "공간"
+        },
+        {
+          "word": "spacious",
+          "pos": "a.",
+          "ko": "(방·집이) 넓은 — '공간의'가 아니라 '널찍한'"
+        }
+      ]
+    },
+    {
+      "headword": "landmark",
+      "pos": "n.",
+      "ko": "랜드마크, 지형지물; 획기적인 사건",
+      "example_en": "The Supreme Court issued a landmark ruling that reshaped privacy law for decades.",
+      "example_ko": "대법원은 수십 년간 사생활 관련 법을 바꿔 놓은 획기적인 판결을 내렸다.",
+      "collocations": [
+        "a landmark ruling",
+        "a landmark decision",
+        "a local landmark"
+      ],
+      "note": "land(땅) + mark(표시) = 길 찾을 때 기준이 되는 표지물. 시사에서는 '역사의 이정표가 되는'이라는 뜻의 형용사처럼 쓰여 a landmark ruling(획기적 판결)이 아주 흔하다."
+    },
+    {
+      "headword": "atrophy",
+      "pos": "v./n.",
+      "ko": "위축(되다), 퇴화(하다)",
+      "example_en": "Without regular practice, language skills can atrophy surprisingly quickly.",
+      "example_ko": "꾸준히 연습하지 않으면 언어 능력은 놀랄 만큼 빨리 퇴화할 수 있다.",
+      "collocations": [
+        "muscle atrophy",
+        "skills atrophy"
+      ],
+      "note": "어원: a-(없음) + troph(영양) — 영양을 못 받아 쪼그라든다. 근육뿐 아니라 '안 쓰면 녹스는' 능력·제도에도 비유적으로 쓴다. 반대는 hypertrophy(비대).",
+      "related": [
+        {
+          "word": "wither",
+          "ko": "시들다",
+          "note": "식물·희망 등이 말라 시드는 것 — atrophy는 '쓰지 않아서' 약해진다는 원인이 담긴다"
+        }
+      ]
+    },
+    {
+      "headword": "recall",
+      "pos": "v./n.",
+      "ko": "기억해 내다, 회상; (결함 제품의) 회수, 리콜",
+      "example_en": "The automaker announced a recall of 200,000 vehicles over faulty brakes.",
+      "example_ko": "그 자동차 회사는 브레이크 결함으로 차량 20만 대의 리콜을 발표했다.",
+      "collocations": [
+        "issue a recall",
+        "a product recall",
+        "recall a name"
+      ],
+      "note": "re-(다시) + call(부르다) = 다시 불러들이다. 기억을 다시 부르면 '회상', 팔린 제품을 다시 부르면 '리콜', 대사를 다시 부르면 '소환'이 된다 — 한 그림에서 세 뜻.",
+      "related": [
+        {
+          "word": "remind",
+          "ko": "상기시키다",
+          "note": "recall은 내가 스스로 떠올리는 것, remind A of B는 남이 A에게 B를 떠올리게 하는 것"
+        }
+      ]
+    },
+    {
+      "headword": "orientation",
+      "pos": "n.",
+      "ko": "방향(감각); 성향; (신입) 오리엔테이션",
+      "example_en": "All new employees must attend a two-day orientation before starting work.",
+      "example_ko": "모든 신입 사원은 업무를 시작하기 전에 이틀간의 오리엔테이션에 참석해야 한다.",
+      "collocations": [
+        "new employee orientation",
+        "political orientation",
+        "lose one's orientation"
+      ],
+      "note": "Orient(동양 = 해 뜨는 방향)에서 왔다. 옛 지도는 동쪽을 위로 그렸기에 orient = '방향을 잡다'. 신입 오리엔테이션도 '조직 안에서 방향을 잡아 주는 것'.",
+      "family": [
+        {
+          "word": "orient",
+          "pos": "v.",
+          "ko": "방향을 잡다, (~에) 맞추다"
+        },
+        {
+          "word": "oriented",
+          "pos": "a.",
+          "ko": "~지향의(customer-oriented 고객 지향의)"
+        },
+        {
+          "word": "disorient",
+          "pos": "v.",
+          "ko": "방향 감각을 잃게 하다"
+        }
+      ]
+    },
+    {
+      "headword": "habitual",
+      "pos": "a.",
+      "ko": "습관적인, 상습적인",
+      "example_en": "The court treated him as a habitual offender because of his long criminal record.",
+      "example_ko": "법원은 그의 긴 전과 기록 때문에 그를 상습범으로 취급했다.",
+      "collocations": [
+        "a habitual offender",
+        "habitual use"
+      ],
+      "note": "habit(습관) + -ual. 법·뉴스에서는 나쁜 행동의 반복을 가리켜 '상습적인'으로 자주 쓴다(habitual offender 상습범).",
+      "related": [
+        {
+          "word": "inhabit",
+          "ko": "거주하다",
+          "note": "철자에 habit이 있지만 '습관'과 무관 — 라틴어 habitare(살다)에서 온 별개 갈래"
+        }
+      ]
+    },
+    {
+      "headword": "conversely",
+      "pos": "ad.",
+      "ko": "반대로, 역으로",
+      "example_en": "A weak currency helps exporters; conversely, it makes imported goods more expensive.",
+      "example_ko": "약한 통화는 수출업체에 도움이 된다. 반대로, 수입품은 더 비싸진다.",
+      "collocations": [
+        "and conversely"
+      ],
+      "note": "converse(거꾸로 된 것) + -ly. 앞 내용을 뒤집은 경우를 제시할 때 쓰는 논리 연결어로, on the other hand보다 '정확히 반대 방향'이라는 느낌이 강하다.",
+      "related": [
+        {
+          "word": "converse",
+          "ko": "대화하다",
+          "note": "동사 converse(대화하다, conversation)와 명사·형용사 converse(정반대)는 철자가 같지만 뜻이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "inclined",
+      "pos": "a.",
+      "ko": "(~하고 싶은) 마음이 드는, ~하는 경향이 있는",
+      "example_en": "Customers are more inclined to buy when the return policy is generous.",
+      "example_ko": "반품 정책이 너그러우면 고객들은 더 사고 싶어 한다.",
+      "collocations": [
+        "be inclined to do",
+        "be less inclined to"
+      ],
+      "note": "incline은 원래 '기울다'. 마음이 한쪽으로 기울어진 상태 = be inclined to(~하고 싶다). 경사로를 뜻하는 incline(n.)과 같은 그림.",
+      "family": [
+        {
+          "word": "incline",
+          "pos": "v./n.",
+          "ko": "기울(이)다; 경사"
+        },
+        {
+          "word": "inclination",
+          "pos": "n.",
+          "ko": "의향, 성향"
+        }
+      ]
+    },
+    {
+      "headword": "substitute",
+      "pos": "n./v.",
+      "ko": "대용품, 대체물; 대신하다",
+      "example_en": "Online meetings are useful, but they are no substitute for face-to-face negotiations.",
+      "example_ko": "온라인 회의는 유용하지만 대면 협상을 대신할 수는 없다.",
+      "collocations": [
+        "a substitute for",
+        "be no substitute for",
+        "substitute A for B"
+      ],
+      "note": "substitute A for B는 'B 대신 A를 쓰다'로 순서가 헷갈리기 쉽다(A가 새로 들어오는 것). replace A with B는 'A를 B로 교체' — 들어오는 쪽이 반대 위치.",
+      "related": [
+        {
+          "word": "replace",
+          "ko": "교체하다",
+          "note": "replace A with B = A를 빼고 B를 넣음 / substitute B for A = 같은 뜻, 어순이 반대"
+        }
+      ]
+    },
+    {
+      "headword": "plasticity",
+      "pos": "n.",
+      "ko": "가소성(변형되는 성질), 유연성",
+      "example_en": "Brain plasticity allows adults to keep learning new skills well into old age.",
+      "example_ko": "뇌의 가소성 덕분에 성인도 노년까지 새로운 기술을 계속 배울 수 있다.",
+      "collocations": [
+        "brain plasticity",
+        "neural plasticity"
+      ],
+      "note": "plastic의 원래 뜻은 '모양을 빚을 수 있는'(그리스어 plassein 빚다). 플라스틱이라는 재료 이름도 여기서 왔다 — 뇌가 경험에 따라 '빚어진다'는 것이 plasticity.",
+      "family": [
+        {
+          "word": "plastic",
+          "pos": "a./n.",
+          "ko": "모양을 빚을 수 있는; 플라스틱"
+        }
+      ]
+    },
+    {
+      "headword": "vicinity",
+      "pos": "n.",
+      "ko": "부근, 인근",
+      "example_en": "Several hotels are located in the vicinity of the convention center.",
+      "example_ko": "컨벤션 센터 부근에 호텔이 여러 곳 있다.",
+      "collocations": [
+        "in the vicinity of",
+        "the immediate vicinity"
+      ],
+      "note": "토익 빈출 — in the vicinity of = near의 격식체. 어원 vicus(마을)에서 왔다(neighbor 느낌). 뒤에 숫자가 오면 '약, ~ 언저리'라는 뜻도 된다(in the vicinity of $5 million).",
+      "related": [
+        {
+          "word": "proximity",
+          "ko": "근접",
+          "note": "proximity는 '가까움'이라는 거리 자체, vicinity는 '주변 지역'이라는 장소"
+        }
+      ]
+    },
+    {
+      "headword": "meander",
+      "pos": "v.",
+      "ko": "(강·길이) 굽이쳐 흐르다; 정처 없이 거닐다; (말이) 두서없이 이어지다",
+      "example_en": "The speaker meandered for twenty minutes before finally reaching his main point.",
+      "example_ko": "연사는 20분간 두서없이 말한 끝에야 요점에 도달했다.",
+      "collocations": [
+        "meander through",
+        "a meandering river",
+        "a meandering speech"
+      ],
+      "note": "구불구불하기로 유명했던 터키의 강 Maeander(마이안드로스)의 이름에서 왔다. 강→걸음→말 순으로 '구불구불, 목적 없이'가 번진다.",
+      "related": [
+        {
+          "word": "wander",
+          "ko": "돌아다니다",
+          "note": "wander는 목적 없이 '돌아다님' 자체, meander는 '구불구불한 경로'라는 모양이 강조된다"
+        }
+      ]
+    },
+    {
+      "headword": "rudimentary",
+      "pos": "a.",
+      "ko": "기초적인, 초보적인; 원시적인",
+      "example_en": "Applicants need only a rudimentary knowledge of spreadsheets for this position.",
+      "example_ko": "이 직무의 지원자는 스프레드시트에 대한 기초적인 지식만 있으면 된다.",
+      "collocations": [
+        "rudimentary knowledge",
+        "rudimentary tools"
+      ],
+      "note": "rudiment(기초, 첫걸음)의 형용사. 어원 rudis(거친, 다듬지 않은) — rude(무례한)와 같은 뿌리로, '아직 다듬어지지 않은 초보 단계'라는 뉘앙스.",
+      "related": [
+        {
+          "word": "basic",
+          "ko": "기본적인",
+          "note": "basic은 중립적, rudimentary는 '겨우 초보 수준'이라는 낮춤 뉘앙스가 있다"
+        }
+      ]
+    },
+    {
+      "headword": "prolific",
+      "pos": "a.",
+      "ko": "다작의, (작품·결과를) 많이 내는; 다산의",
+      "example_en": "She is one of the most prolific inventors in the company, with over forty patents.",
+      "example_ko": "그녀는 특허가 40건이 넘는, 회사에서 가장 많은 발명을 한 사람 중 하나다.",
+      "collocations": [
+        "a prolific writer",
+        "a prolific inventor"
+      ],
+      "note": "proli-(자손) + -fic(만들다) = 자식을 많이 낳는 → 작품을 많이 낳는. -fic은 terrific·magnificent의 '만드는'과 같다.",
+      "related": [
+        {
+          "word": "productive",
+          "ko": "생산적인",
+          "note": "productive는 효율·성과, prolific은 '양이 많다'는 점에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "deficiency",
+      "pos": "n.",
+      "ko": "결핍, 부족; 결함",
+      "example_en": "The inspection revealed several deficiencies in the factory's safety procedures.",
+      "example_ko": "점검 결과 그 공장의 안전 절차에서 여러 결함이 드러났다.",
+      "collocations": [
+        "vitamin deficiency",
+        "a serious deficiency"
+      ],
+      "note": "deficit(적자)와 같은 뿌리지만 deficit은 돈·수치의 모자람, deficiency는 영양·능력·체계의 결핍이나 결함에 쓴다.",
+      "family": [
+        {
+          "word": "deficient",
+          "pos": "a.",
+          "ko": "부족한, 결핍된(be deficient in ~이 부족하다)"
+        },
+        {
+          "word": "deficit",
+          "pos": "n.",
+          "ko": "적자, 부족액"
+        }
+      ]
+    }
+  ]
+}
