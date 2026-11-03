@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-11-03",
+  "passage_note": "과학 — 화산 분화 예측의 어려움과 '경보 피로'(해설 기사)",
+  "sentences": [
+    {
+      "en": "For centuries, communities living in the shadow of volcanoes had little warning before an eruption, often mistaking the ominous rumbles beneath their feet for the ordinary restlessness of the earth.",
+      "ko": "수세기 동안 화산 바로 곁에 사는 공동체들은 분화 전에 거의 아무런 예고도 받지 못했고, 발밑에서 들려오는 불길한 우르릉 소리를 땅이 늘 하는 평범한 들썩임으로 착각하곤 했다.",
+      "structure": "· living in the shadow of volcanoes : 현재분사구가 communities를 뒤에서 수식.\n· had little warning : little + 불가산명사 = '거의 없는'(부정의 의미).\n· often mistaking ~ : 분사구문(부대상황) = and they often mistook ~.\n· mistake A for B = 'A를 B로 착각하다' — A(the ominous rumbles ~)가 길어서 for가 뒤로 밀려 있다.",
+      "vocab_notes": [
+        { "word": "for centuries", "ko": "수세기 동안" },
+        { "word": "community", "ko": "공동체, 지역 사회" },
+        { "word": "in the shadow of", "ko": "~의 바로 곁에서, ~의 그늘 아래" },
+        { "word": "volcano", "ko": "화산" },
+        { "word": "warning", "ko": "경고, 예고" },
+        { "word": "eruption", "ko": "(화산의) 분화, 폭발" },
+        { "word": "mistake A for B", "ko": "A를 B로 착각하다" },
+        { "word": "ominous", "ko": "불길한" },
+        { "word": "rumble", "ko": "우르릉거리는 소리" },
+        { "word": "beneath", "ko": "~의 아래에" },
+        { "word": "ordinary", "ko": "평범한, 보통의" },
+        { "word": "restlessness", "ko": "들썩임, 불안정" }
+      ]
+    },
+    {
+      "en": "Today, scientists track a range of precursors, from tiny earthquakes and swelling ground to sudden changes in the gases escaping through fissures, each of which may signal that molten rock is rising toward the surface.",
+      "ko": "오늘날 과학자들은 미세한 지진과 부풀어 오르는 지면에서부터 균열을 통해 새어 나오는 가스의 급격한 변화에 이르기까지 다양한 전조를 추적하는데, 그 각각은 녹은 암석이 지표면을 향해 올라오고 있다는 신호일 수 있다.",
+      "structure": "· from A to B : precursors의 구체적 예를 범위로 나열('A에서 B에 이르기까지').\n· the gases escaping through fissures : 현재분사구가 gases를 뒤에서 수식.\n· each of which : 계속적 용법의 관계대명사(= and each of them) — 앞의 전조들 하나하나를 받는다.\n· signal that + 절 : that절이 signal의 목적어.",
+      "vocab_notes": [
+        { "word": "track", "ko": "추적하다" },
+        { "word": "a range of", "ko": "다양한, 여러 가지의" },
+        { "word": "precursor", "ko": "전조, 前兆" },
+        { "word": "tiny", "ko": "아주 작은" },
+        { "word": "earthquake", "ko": "지진" },
+        { "word": "swell", "ko": "부풀다, 부어오르다" },
+        { "word": "ground", "ko": "지면, 땅" },
+        { "word": "sudden", "ko": "갑작스러운" },
+        { "word": "escape", "ko": "(가스·액체가) 새어 나오다" },
+        { "word": "fissure", "ko": "(바위·땅의) 갈라진 틈, 균열" },
+        { "word": "signal", "ko": "~의 신호가 되다, 나타내다" },
+        { "word": "molten rock", "ko": "녹은 암석, 용융 암석" },
+        { "word": "rise", "ko": "올라오다, 상승하다" },
+        { "word": "surface", "ko": "표면, 지표" }
+      ]
+    },
+    {
+      "en": "Yet reading these signals remains notoriously difficult, because magma can stall for months or even years without ever breaking through, leaving forecasters on the brink of a decision they cannot easily defer.",
+      "ko": "그러나 이 신호들을 읽어 내는 일은 여전히 악명 높을 만큼 어려운데, 마그마가 끝내 뚫고 나오지 않은 채 몇 달, 심지어 몇 년씩 멈춰 있을 수 있어서 예보관들은 쉽게 미룰 수도 없는 결정의 문턱에 서게 되기 때문이다.",
+      "structure": "· reading these signals : 동명사구 주어(단수 취급 → remains).\n· remain + 형용사 : 2형식, '여전히 ~하다'.\n· without ever -ing : '한 번도 ~하지 않고'(ever가 부정을 강조).\n· leaving forecasters on ~ : 분사구문(결과) — leave O + 전치사구 = 'O를 ~한 상태로 남겨 두다'.\n· a decision (that) they cannot easily defer : 목적격 관계대명사 생략.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그러나, 그렇지만" },
+        { "word": "remain", "ko": "여전히 ~이다" },
+        { "word": "notoriously", "ko": "악명 높게, (나쁜 쪽으로) 유명할 만큼" },
+        { "word": "magma", "ko": "마그마(지하의 녹은 암석)" },
+        { "word": "stall", "ko": "멈추다, 정체되다" },
+        { "word": "break through", "ko": "뚫고 나오다, 돌파하다" },
+        { "word": "leave", "ko": "(어떤 상태로) 남겨 두다, 만들다" },
+        { "word": "forecaster", "ko": "예보관, 예측하는 사람" },
+        { "word": "on the brink of", "ko": "~의 직전에, ~의 문턱에" },
+        { "word": "decision", "ko": "결정" },
+        { "word": "defer", "ko": "미루다, 연기하다" }
+      ]
+    },
+    {
+      "en": "Were officials to order an evacuation every time the instruments flickered, residents would soon begin to ignore the warnings, a phenomenon researchers call \"warning fatigue.\"",
+      "ko": "만약 당국자들이 관측 기기가 조금 흔들릴 때마다 대피 명령을 내린다면 주민들은 곧 경보를 무시하기 시작할 것인데, 연구자들은 이런 현상을 '경보 피로'라고 부른다.",
+      "structure": "· Were officials to order ~ = If officials were to order ~ : 가정법 미래(were to)에서 if를 생략하고 주어·동사를 도치.\n· 주절 would + 동사원형 : 가정법의 귀결절.\n· every time + 절 = '~할 때마다'(접속사처럼 쓰임).\n· a phenomenon (that) researchers call \"~\" : 앞 절 전체를 받는 동격 명사구 + call O C(5형식)에서 목적어가 관계사로 빠진 형태.",
+      "vocab_notes": [
+        { "word": "official", "ko": "공무원, 당국자" },
+        { "word": "order", "ko": "명령하다, 지시하다" },
+        { "word": "evacuation", "ko": "대피, 피난" },
+        { "word": "every time", "ko": "~할 때마다" },
+        { "word": "instrument", "ko": "(관측·측정) 기기, 계기" },
+        { "word": "flicker", "ko": "깜빡이다, (바늘·수치가) 살짝 흔들리다" },
+        { "word": "resident", "ko": "주민, 거주자" },
+        { "word": "ignore", "ko": "무시하다" },
+        { "word": "phenomenon", "ko": "현상(복수 phenomena)" },
+        { "word": "researcher", "ko": "연구자" },
+        { "word": "warning fatigue", "ko": "경보 피로(잦은 경보에 둔감해지는 현상)" }
+      ]
+    },
+    {
+      "en": "The real challenge, therefore, lies not merely in predicting eruptions but in building a culture of preparedness that keeps people alert without exhausting their trust.",
+      "ko": "따라서 진짜 과제는 단지 분화를 예측하는 데 있는 것이 아니라, 사람들의 신뢰를 소진시키지 않으면서도 그들이 경계를 늦추지 않게 하는 대비의 문화를 만드는 데 있다.",
+      "structure": "· lie in ~ = '~에 있다'(원인·본질의 소재).\n· not merely A but B : 상관접속사(= not only A but also B) — A·B 모두 in + 동명사로 형태를 맞춘 병렬.\n· a culture of preparedness that keeps ~ : 주격 관계대명사절이 a culture를 수식.\n· keep O C(alert) : 5형식, 'O를 C한 상태로 유지하다'.\n· without -ing : 전치사 + 동명사, '~하지 않고'.",
+      "vocab_notes": [
+        { "word": "challenge", "ko": "과제, 어려운 일" },
+        { "word": "therefore", "ko": "따라서, 그러므로" },
+        { "word": "lie in", "ko": "~에 있다" },
+        { "word": "not merely A but B", "ko": "단지 A가 아니라 B" },
+        { "word": "predict", "ko": "예측하다" },
+        { "word": "build", "ko": "(문화·체계를) 쌓다, 만들다" },
+        { "word": "culture", "ko": "문화, 풍토" },
+        { "word": "preparedness", "ko": "대비 태세" },
+        { "word": "alert", "ko": "경계하는, 기민한" },
+        { "word": "exhaust", "ko": "다 써 버리다, 고갈시키다" },
+        { "word": "trust", "ko": "신뢰" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "erupt",
+      "pos": "v.",
+      "ko": "(화산이) 분화하다; (갑자기) 터지다",
+      "example_en": "Protests erupted across the capital after the election results were announced.",
+      "example_ko": "선거 결과가 발표된 뒤 수도 전역에서 시위가 터져 나왔다.",
+      "collocations": ["erupt into violence", "a volcano erupts"],
+      "note": "어원: e-(밖으로) + rupt(깨다) — 안에서 깨고 '밖으로' 터져 나온다. disrupt(따로 깨다=방해), bankrupt(은행 탁자가 깨짐=파산)와 같은 rupt 뿌리.",
+      "family": [
+        { "word": "eruption", "pos": "n.", "ko": "분화, 폭발" },
+        { "word": "eruptive", "pos": "a.", "ko": "분화성의, 폭발적인" }
+      ],
+      "related": [
+        { "word": "disrupt", "ko": "방해하다", "note": "erupt는 '밖으로 터짐', disrupt는 '흐름을 끊음' — 철자 한 끗 차이로 뜻이 갈린다" }
+      ]
+    },
+    {
+      "headword": "magma",
+      "pos": "n.",
+      "ko": "마그마",
+      "example_en": "Satellite data suggest that a large body of magma is accumulating beneath the island.",
+      "example_ko": "위성 자료는 섬 아래에 거대한 마그마가 쌓이고 있음을 시사한다.",
+      "collocations": ["magma chamber", "rising magma"],
+      "note": "같은 녹은 암석이라도 땅속에 있을 때는 magma, 지표로 흘러나오면 lava라고 부른다 — '위치'로 이름이 바뀐다.",
+      "related": [
+        { "word": "lava", "ko": "용암", "note": "지표로 분출된 마그마. lava flow(용암류)로 자주 쓴다" }
+      ]
+    },
+    {
+      "headword": "molten",
+      "pos": "a.",
+      "ko": "(고열에) 녹은, 용융된",
+      "example_en": "Workers poured the molten steel into heavy iron molds.",
+      "example_ko": "작업자들은 녹인 강철을 무거운 쇠 거푸집에 부었다.",
+      "collocations": ["molten rock", "molten metal"],
+      "note": "molten은 melt의 옛 과거분사 — 지금은 '고온에서 녹은 금속·암석'에만 쓰고, 버터·눈처럼 녹은 것은 melted라고 한다.",
+      "related": [
+        { "word": "melted", "ko": "녹은", "note": "일상적으로 녹은 것(melted butter, melted snow). molten butter라고는 하지 않는다" }
+      ]
+    },
+    {
+      "headword": "precursor",
+      "pos": "n.",
+      "ko": "전조, 선구자",
+      "example_en": "Rising bond yields are often seen as a precursor to slower economic growth.",
+      "example_ko": "채권 수익률 상승은 흔히 경제 성장 둔화의 전조로 여겨진다.",
+      "collocations": ["a precursor to", "an early precursor"],
+      "note": "어원: pre-(앞에) + curs(달리다) — '앞서 달려가는 것'. cursor(화면을 달리는 표시)·current(흐르는 것)·excursion(밖으로 달려 나감=소풍)과 같은 뿌리.",
+      "related": [
+        { "word": "harbinger", "ko": "전조, 조짐", "note": "거의 동의어지만 더 문어적 — a harbinger of spring처럼 '도래를 알리는 것'에 주로 쓴다" }
+      ]
+    },
+    {
+      "headword": "subterranean",
+      "pos": "a.",
+      "ko": "지하의",
+      "example_en": "The city plans to expand its network of subterranean parking garages.",
+      "example_ko": "시는 지하 주차장 네트워크를 확장할 계획이다.",
+      "collocations": ["subterranean water", "subterranean tunnels"],
+      "note": "어원: sub-(아래) + terra(땅) — '땅 아래'. terrain(지형)·territory(영토)·Mediterranean(땅 가운데 바다=지중해)도 terra 계열.",
+      "related": [
+        { "word": "underground", "ko": "지하의", "note": "일상어. subterranean은 과학·기사체에서 쓰는 격식어" }
+      ]
+    },
+    {
+      "headword": "fissure",
+      "pos": "n.",
+      "ko": "(바위·땅의) 갈라진 틈, 균열; (조직 내) 분열",
+      "example_en": "The scandal exposed deep fissures within the ruling party.",
+      "example_ko": "그 스캔들은 집권당 내부의 깊은 균열을 드러냈다.",
+      "collocations": ["a deep fissure", "fissures within the party"],
+      "note": "어원: fiss(쪼개다) — nuclear fission(핵분열)과 같은 뿌리. 땅의 틈뿐 아니라 정당·동맹 내부의 '분열'을 말할 때 기사에 자주 나온다.",
+      "related": [
+        { "word": "crack", "ko": "금, 틈", "note": "일상어로 작은 금까지 포함. fissure는 길고 깊게 갈라진 틈" },
+        { "word": "fission", "ko": "(핵)분열", "note": "같은 어근의 과학 용어 — fusion(융합)과 반대" }
+      ]
+    },
+    {
+      "headword": "tectonic",
+      "pos": "a.",
+      "ko": "지각 구조의; (변화가) 근본적이고 거대한",
+      "example_en": "The rise of remote work has caused a tectonic shift in the commercial property market.",
+      "example_ko": "원격 근무의 확산은 상업용 부동산 시장에 지각 변동을 일으켰다.",
+      "collocations": ["tectonic plates", "a tectonic shift"],
+      "note": "본뜻은 지질학(tectonic plates 지각판)이지만, 시사에서는 a tectonic shift = '판이 움직일 만큼 근본적인 변화'라는 비유로 훨씬 자주 쓴다.",
+      "family": [
+        { "word": "tectonics", "pos": "n.", "ko": "지각 구조론(plate tectonics 판 구조론)" }
+      ]
+    },
+    {
+      "headword": "ominous",
+      "pos": "a.",
+      "ko": "불길한, 나쁜 일이 생길 것 같은",
+      "example_en": "There was an ominous silence in the boardroom after the quarterly figures were presented.",
+      "example_ko": "분기 실적이 발표된 뒤 이사회실에는 불길한 침묵이 흘렀다.",
+      "collocations": ["an ominous sign", "ominous silence"],
+      "note": "omen(징조) + -ous(~한 성질의) — '징조가 서린'. 영어에서 omen 계열은 거의 늘 나쁜 쪽으로 기운다.",
+      "family": [
+        { "word": "omen", "pos": "n.", "ko": "징조, 전조" },
+        { "word": "ominously", "pos": "ad.", "ko": "불길하게" }
+      ]
+    },
+    {
+      "headword": "rumble",
+      "pos": "v. / n.",
+      "ko": "우르릉거리다; 우르릉 소리",
+      "example_en": "Trucks rumbled past the factory gates all night.",
+      "example_ko": "트럭들이 밤새 공장 정문 앞을 우르릉거리며 지나갔다.",
+      "collocations": ["the rumble of thunder", "rumble on (논쟁 등이 계속되다)"],
+      "note": "소리를 흉내 낸 의성어 계열. rumble on은 '논란·분쟁이 끝나지 않고 계속 웅웅거리다'는 뜻으로 영국식 기사에 자주 나온다.",
+      "related": [
+        { "word": "grumble", "ko": "투덜거리다", "note": "g 하나 차이 — rumble은 낮은 굉음, grumble은 사람의 불평" }
+      ]
+    },
+    {
+      "headword": "preparedness",
+      "pos": "n.",
+      "ko": "대비(태세), 준비가 되어 있음",
+      "example_en": "The agency has doubled its budget for disaster preparedness.",
+      "example_ko": "그 기관은 재난 대비 예산을 두 배로 늘렸다.",
+      "collocations": ["disaster preparedness", "emergency preparedness"],
+      "note": "prepare(준비하다) → prepared(준비된) → preparedness(준비된 '상태'). preparation은 준비하는 '행위', preparedness는 이미 갖춘 '태세'라는 점이 다르다.",
+      "family": [
+        { "word": "prepare", "pos": "v.", "ko": "준비하다" },
+        { "word": "preparation", "pos": "n.", "ko": "준비(하는 행위)" }
+      ]
+    },
+    {
+      "headword": "cordon off",
+      "pos": "v.",
+      "ko": "(경찰 등이) 저지선을 쳐서 출입을 막다",
+      "example_en": "Police cordoned off the area around the damaged building.",
+      "example_ko": "경찰은 파손된 건물 주변 지역에 저지선을 쳐 출입을 통제했다.",
+      "collocations": ["cordon off the area", "a police cordon"],
+      "note": "cordon은 원래 '끈, 줄'(cord와 같은 뿌리) — 줄을 쳐서(off = 떼어 놓아) 구역을 분리한다는 그림. 사고·재난 기사의 단골 표현.",
+      "family": [
+        { "word": "cordon", "pos": "n.", "ko": "저지선, 비상선" }
+      ]
+    },
+    {
+      "headword": "unscathed",
+      "pos": "a.",
+      "ko": "다치지 않은, 무사한",
+      "example_en": "Few retailers emerged unscathed from the downturn.",
+      "example_ko": "경기 침체에서 무사히 빠져나온 소매업체는 거의 없었다.",
+      "collocations": ["emerge unscathed", "escape unscathed"],
+      "note": "옛말 scathe(해치다)에 un-이 붙은 형태로, 긍정형 scathed는 거의 안 쓰고 부정형만 살아남았다. 짝꿍 동사 emerge/escape와 통째로 외우자.",
+      "related": [
+        { "word": "scathing", "ko": "(비판이) 신랄한", "note": "같은 뿌리 — a scathing review(혹평)처럼 '상처 줄 만큼 날카로운'" }
+      ]
+    },
+    {
+      "headword": "hasten",
+      "pos": "v.",
+      "ko": "재촉하다, 앞당기다",
+      "example_en": "The merger is expected to hasten the closure of several regional offices.",
+      "example_ko": "이번 합병은 여러 지역 사무소의 폐쇄를 앞당길 것으로 예상된다.",
+      "collocations": ["hasten the decline", "hasten to add"],
+      "note": "haste(서두름) + -en(동사화) — '서두르게 만들다'. 단어 끝의 t는 발음하지 않는다[헤이슨]. I hasten to add는 '급히 덧붙이자면'이라는 말투.",
+      "family": [
+        { "word": "haste", "pos": "n.", "ko": "서두름" },
+        { "word": "hasty", "pos": "a.", "ko": "성급한, 서두른" }
+      ]
+    },
+    {
+      "headword": "exponential",
+      "pos": "a.",
+      "ko": "기하급수적인",
+      "example_en": "The startup has enjoyed exponential growth since launching its mobile app.",
+      "example_ko": "그 스타트업은 모바일 앱 출시 이후 기하급수적인 성장을 누려 왔다.",
+      "collocations": ["exponential growth", "increase exponentially"],
+      "note": "exponent는 수학의 '지수(2³의 3)' — 지수가 커지듯 불어나는 것. 단순히 '많이 늘었다'가 아니라 '늘어나는 속도 자체가 빨라진다'는 뉘앙스.",
+      "family": [
+        { "word": "exponent", "pos": "n.", "ko": "지수; 주창자" },
+        { "word": "exponentially", "pos": "ad.", "ko": "기하급수적으로" }
+      ],
+      "related": [
+        { "word": "linear", "ko": "선형의, 일정하게 늘어나는", "note": "exponential의 대비어 — linear growth는 매번 같은 양씩 증가" }
+      ]
+    },
+    {
+      "headword": "brink",
+      "pos": "n.",
+      "ko": "(벼랑의) 끝, 직전",
+      "example_en": "The airline was on the brink of bankruptcy before the government stepped in.",
+      "example_ko": "그 항공사는 정부가 개입하기 전에 파산 직전이었다.",
+      "collocations": ["on the brink of", "pull back from the brink"],
+      "note": "본뜻은 '절벽 끝' — 그래서 on the brink of 뒤에는 대개 collapse·war·bankruptcy처럼 떨어지면 큰일 나는 말이 온다.",
+      "family": [
+        { "word": "brinkmanship", "pos": "n.", "ko": "벼랑 끝 전술" }
+      ],
+      "related": [
+        { "word": "verge", "ko": "가장자리, 직전", "note": "on the verge of tears처럼 좋은 일·중립적인 일에도 쓰여 brink보다 위기감이 덜하다" }
+      ]
+    },
+    {
+      "headword": "foresee",
+      "pos": "v.",
+      "ko": "예견하다, 내다보다",
+      "example_en": "Few analysts foresaw the sudden collapse in oil prices.",
+      "example_ko": "유가의 갑작스러운 폭락을 예견한 분석가는 거의 없었다.",
+      "collocations": ["foresee problems", "for the foreseeable future"],
+      "note": "fore-(미리) + see. fore-(앞)와 for-(금지·멀리)는 다른 접두사 — forecast·foresee는 '미리', forbid·forgo는 '멀리 떼어 냄'이다.",
+      "family": [
+        { "word": "foreseeable", "pos": "a.", "ko": "예견할 수 있는(for the foreseeable future 당분간)" },
+        { "word": "unforeseen", "pos": "a.", "ko": "예기치 못한" },
+        { "word": "foresight", "pos": "n.", "ko": "선견지명" }
+      ]
+    },
+    {
+      "headword": "heighten",
+      "pos": "v.",
+      "ko": "고조시키다, 높이다",
+      "example_en": "The data breach has heightened concerns about online privacy.",
+      "example_ko": "그 정보 유출 사고는 온라인 사생활에 대한 우려를 고조시켰다.",
+      "collocations": ["heighten tension", "heightened security"],
+      "note": "height(높이) + -en(~하게 만들다). 물리적 높이보다 긴장·우려·경계 같은 '감정·상태의 수위'를 올릴 때 쓴다. heightened security(경계 강화)는 뉴스 빈출.",
+      "family": [
+        { "word": "height", "pos": "n.", "ko": "높이; 절정" },
+        { "word": "heightened", "pos": "a.", "ko": "고조된, 강화된" }
+      ]
+    },
+    {
+      "headword": "notwithstanding",
+      "pos": "prep. / ad.",
+      "ko": "~에도 불구하고",
+      "example_en": "Notwithstanding the weak economy, the company posted record profits.",
+      "example_ko": "경기 부진에도 불구하고 그 회사는 사상 최대 이익을 기록했다.",
+      "collocations": ["notwithstanding the fact that", "objections notwithstanding"],
+      "note": "not + withstand(맞서 버티다) — '~이 막아서지 못한 채'. 명사 뒤에 둘 수도 있다(objections notwithstanding). 계약서·공문에 잦은 despite의 격식체.",
+      "related": [
+        { "word": "despite", "ko": "~에도 불구하고", "note": "일상·기사체. notwithstanding은 법률·계약 문서에서 특히 많다" },
+        { "word": "withstand", "ko": "견뎌 내다", "note": "같은 뿌리 — withstand pressure(압력을 견디다)" }
+      ]
+    }
+  ]
+}
