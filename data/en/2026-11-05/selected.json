@@ -1,0 +1,357 @@
+{
+  "date": "2026-11-05",
+  "words": [
+    {
+      "headword": "antitrust",
+      "pos": "a.",
+      "ko": "반독점의",
+      "example_en": "The company is facing an antitrust lawsuit over its control of the online advertising market.",
+      "example_ko": "그 회사는 온라인 광고 시장 장악을 두고 반독점 소송에 직면해 있다.",
+      "collocations": [
+        "antitrust law",
+        "antitrust regulator",
+        "antitrust lawsuit"
+      ],
+      "note": "anti-(반대) + trust — 여기서 trust는 '신뢰'가 아니라 19세기 미국의 '기업 연합(트러스트)'을 뜻한다. 그래서 '신뢰에 반대'가 아니라 '독점 기업 연합에 반대' = 반독점.",
+      "related": [
+        {
+          "word": "competition law",
+          "ko": "경쟁법",
+          "note": "같은 개념을 유럽·영국에선 competition law, 미국에선 antitrust law라 부른다"
+        }
+      ]
+    },
+    {
+      "headword": "merger",
+      "pos": "n.",
+      "ko": "합병",
+      "example_en": "The proposed merger would create the country's largest airline.",
+      "example_ko": "제안된 합병은 그 나라 최대의 항공사를 탄생시킬 것이다.",
+      "collocations": [
+        "mergers and acquisitions (M&A)",
+        "proposed merger",
+        "block a merger"
+      ],
+      "note": "merge(합치다) + -er. 뉴스의 M&A = mergers(대등하게 합침) and acquisitions(한쪽이 사들임) — 둘을 구분해 두면 기사가 정확히 읽힌다.",
+      "family": [
+        {
+          "word": "merge",
+          "pos": "v.",
+          "ko": "합병하다, 합치다"
+        }
+      ],
+      "related": [
+        {
+          "word": "emerge",
+          "ko": "나타나다",
+          "note": "e-(밖으로)+merge(잠기다) = 물속에서 밖으로 떠오르다. 철자는 비슷해도 '합치다'와 무관하다"
+        }
+      ]
+    },
+    {
+      "headword": "yardstick",
+      "pos": "n.",
+      "ko": "기준, 잣대",
+      "example_en": "Sales growth is not the only yardstick of a manager's performance.",
+      "example_ko": "매출 성장만이 관리자 실적의 유일한 잣대는 아니다.",
+      "collocations": [
+        "a yardstick of success",
+        "by any yardstick"
+      ],
+      "note": "yard(약 91cm 단위) + stick(막대) = 길이를 재는 1야드짜리 자. 한국어 '잣대'와 비유가 똑같아 그대로 외우면 된다. by any yardstick = 어떤 기준으로 봐도.",
+      "related": [
+        {
+          "word": "benchmark",
+          "ko": "기준점",
+          "note": "benchmark는 비교 대상이 되는 수치·표준, yardstick은 판단하는 척도 자체에 가깝다"
+        }
+      ]
+    },
+    {
+      "headword": "dominant",
+      "pos": "a.",
+      "ko": "지배적인, 우세한",
+      "example_en": "The firm holds a dominant position in the smartphone chip market.",
+      "example_ko": "그 회사는 스마트폰 칩 시장에서 지배적인 위치를 차지하고 있다.",
+      "collocations": [
+        "dominant position",
+        "dominant player",
+        "market dominance"
+      ],
+      "note": "어원: domin-(주인, 지배) — domain(영역=주인의 땅), dominion(통치권)과 같은 뿌리. predominant는 '수적으로 우세한, 대부분의'로 조금 다르다.",
+      "family": [
+        {
+          "word": "dominate",
+          "pos": "v.",
+          "ko": "지배하다"
+        },
+        {
+          "word": "dominance",
+          "pos": "n.",
+          "ko": "지배(력), 우위"
+        },
+        {
+          "word": "predominant",
+          "pos": "a.",
+          "ko": "두드러진, 대다수의"
+        },
+        {
+          "word": "predominantly",
+          "pos": "ad.",
+          "ko": "주로, 대부분"
+        }
+      ]
+    },
+    {
+      "headword": "harvest",
+      "pos": "v.",
+      "ko": "수확하다; (데이터 등을) 수집하다",
+      "example_en": "The app was accused of harvesting users' contact lists without permission.",
+      "example_ko": "그 앱은 허락 없이 사용자의 연락처 목록을 수집했다는 비난을 받았다.",
+      "collocations": [
+        "harvest data",
+        "harvest crops",
+        "a bumper harvest"
+      ],
+      "note": "원래 '곡식을 거두다' — 시사 영어에서는 개인정보를 '긁어모은다'는 부정적 뉘앙스로 harvest data가 자주 쓰인다. 명사로 a bumper harvest는 '대풍작'.",
+      "related": [
+        {
+          "word": "collect",
+          "ko": "모으다",
+          "note": "중립적 표현. harvest는 '대량으로, 허락 없이' 거둬 간다는 비판적 느낌이 더해진다"
+        }
+      ]
+    },
+    {
+      "headword": "behemoth",
+      "pos": "n.",
+      "ko": "거대 기업, 거대한 존재",
+      "example_en": "The small bookstore could not compete with the online retail behemoth.",
+      "example_ko": "그 작은 서점은 온라인 유통 공룡과 경쟁할 수 없었다.",
+      "collocations": [
+        "tech behemoth",
+        "corporate behemoth"
+      ],
+      "note": "성경 욥기에 나오는 거대한 짐승 이름에서 왔다. 기사에서 '공룡 기업'에 해당하는 표현으로, giant보다 '덩치가 너무 커서 위협적'이라는 뉘앙스가 강하다.",
+      "related": [
+        {
+          "word": "juggernaut",
+          "ko": "막을 수 없는 거대 세력",
+          "note": "behemoth는 크기에, juggernaut는 멈출 수 없는 기세에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "acquisition",
+      "pos": "n.",
+      "ko": "인수, 매입; 습득",
+      "example_en": "The acquisition of the startup gave the company access to new technology.",
+      "example_ko": "그 스타트업 인수로 회사는 새로운 기술을 확보하게 되었다.",
+      "collocations": [
+        "make an acquisition",
+        "language acquisition",
+        "acquisition cost"
+      ],
+      "note": "acquire(얻다)의 명사형인데 철자가 acquir-이 아니라 acquisit-으로 바뀐다(require → requisition과 같은 패턴). 경제 기사에선 '인수', 교육 분야에선 language acquisition(언어 습득).",
+      "family": [
+        {
+          "word": "acquire",
+          "pos": "v.",
+          "ko": "얻다, 인수하다"
+        },
+        {
+          "word": "acquirer",
+          "pos": "n.",
+          "ko": "인수자"
+        },
+        {
+          "word": "acquisitive",
+          "pos": "a.",
+          "ko": "탐욕스러운, 소유욕이 강한"
+        }
+      ]
+    },
+    {
+      "headword": "dub",
+      "pos": "v.",
+      "ko": "~라고 부르다, 별명을 붙이다; (영화를) 더빙하다",
+      "example_en": "The press dubbed the new stadium 'the Spaceship' because of its shape.",
+      "example_ko": "언론은 새 경기장을 그 모양 때문에 '우주선'이라고 불렀다.",
+      "collocations": [
+        "be dubbed (as) ~",
+        "dubbed version"
+      ],
+      "note": "기사의 단골 구조 'what has been dubbed ~' = '이른바 ~'. 형식은 dub A B(A를 B라고 부르다) — call A B와 같은 5형식이다. 영화 '더빙'도 같은 단어.",
+      "related": [
+        {
+          "word": "so-called",
+          "ko": "이른바",
+          "note": "dubbed와 비슷하게 쓰지만 so-called는 비꼬는 뉘앙스가 섞이기 쉽다"
+        }
+      ]
+    },
+    {
+      "headword": "regulator",
+      "pos": "n.",
+      "ko": "규제 당국, 규제 기관",
+      "example_en": "Regulators ordered the bank to raise more capital.",
+      "example_ko": "규제 당국은 그 은행에 자본을 더 확충하라고 명령했다.",
+      "collocations": [
+        "financial regulator",
+        "antitrust regulators"
+      ],
+      "note": "regul-(규칙, 자) — regular(규칙적인)와 같은 뿌리. 파생에서 deregulation(규제 완화)은 뉴스 빈출, regulatory(규제의)는 형용사라 명사 앞에 붙는다(regulatory approval).",
+      "family": [
+        {
+          "word": "regulate",
+          "pos": "v.",
+          "ko": "규제하다, 조절하다"
+        },
+        {
+          "word": "regulation",
+          "pos": "n.",
+          "ko": "규제, 규정"
+        },
+        {
+          "word": "regulatory",
+          "pos": "a.",
+          "ko": "규제의"
+        },
+        {
+          "word": "deregulation",
+          "pos": "n.",
+          "ko": "규제 완화"
+        }
+      ]
+    },
+    {
+      "headword": "conglomerate",
+      "pos": "n.",
+      "ko": "복합 기업, 대기업 집단",
+      "example_en": "The media conglomerate owns newspapers, TV channels, and a film studio.",
+      "example_ko": "그 미디어 복합 기업은 신문, TV 채널, 영화 스튜디오를 소유하고 있다.",
+      "collocations": [
+        "media conglomerate",
+        "industrial conglomerate"
+      ],
+      "note": "con-(함께) + glomer-(덩어리, 공) = 여러 덩어리를 뭉친 것. 서로 다른 업종을 거느린 기업 집단이라 한국의 '재벌(chaebol)'을 설명할 때도 이 단어를 쓴다.",
+      "related": [
+        {
+          "word": "subsidiary",
+          "ko": "자회사",
+          "note": "conglomerate는 전체 그룹, subsidiary는 그 아래 개별 회사"
+        }
+      ]
+    },
+    {
+      "headword": "rival",
+      "pos": "n.",
+      "ko": "경쟁자, 라이벌",
+      "example_en": "The company cut its prices to win customers from its main rival.",
+      "example_ko": "그 회사는 주요 경쟁사로부터 고객을 빼앗기 위해 가격을 내렸다.",
+      "collocations": [
+        "main rival",
+        "rival firm",
+        "unrivaled quality"
+      ],
+      "note": "어원: 라틴어 rivus(개울) — 같은 개울물을 두고 다투던 사람들. unrivaled는 '경쟁자가 없는 = 타의 추종을 불허하는'이라는 칭찬이 된다.",
+      "family": [
+        {
+          "word": "rivalry",
+          "pos": "n.",
+          "ko": "경쟁 관계"
+        },
+        {
+          "word": "unrivaled",
+          "pos": "a.",
+          "ko": "비할 데 없는, 독보적인"
+        }
+      ]
+    },
+    {
+      "headword": "burden of proof",
+      "pos": "n.",
+      "ko": "입증 책임",
+      "example_en": "In a criminal trial, the burden of proof lies with the prosecution.",
+      "example_ko": "형사 재판에서 입증 책임은 검찰 측에 있다.",
+      "collocations": [
+        "the burden of proof lies with ~",
+        "shift the burden of proof"
+      ],
+      "note": "burden(짐) + of proof(증명의) = '증명해야 하는 짐'. 법률·논쟁에서 '누가 증명해야 하나'를 따질 때 쓰며, 동사는 lie with(~에게 있다)·shift(옮기다)가 짝이다.",
+      "related": [
+        {
+          "word": "onus",
+          "ko": "책임, 부담",
+          "note": "the onus is on ~ 도 거의 같은 뜻으로 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "amicable",
+      "pos": "a.",
+      "ko": "우호적인, 원만한",
+      "example_en": "Both sides hope to reach an amicable settlement out of court.",
+      "example_ko": "양측은 법정 밖에서 원만한 합의에 이르기를 바란다.",
+      "collocations": [
+        "amicable settlement",
+        "amicable divorce",
+        "amicable relationship"
+      ],
+      "note": "어원: amic-(친구) — 스페인어 amigo와 같은 뿌리. amiable은 '사람 성격이 상냥한', amicable은 '관계·합의가 원만한'으로 붙는 대상이 다르다.",
+      "related": [
+        {
+          "word": "amiable",
+          "ko": "상냥한",
+          "note": "사람(성격)에 붙는다 — an amiable host"
+        }
+      ]
+    },
+    {
+      "headword": "succinct",
+      "pos": "a.",
+      "ko": "간결한",
+      "example_en": "Please keep your summary succinct — no more than one page.",
+      "example_ko": "요약은 간결하게 해 주세요 — 한 페이지 이내로.",
+      "collocations": [
+        "succinct summary",
+        "succinct explanation"
+      ],
+      "note": "발음 주의: 석-싱(크)트 [səkˈsɪŋkt] — cc를 [ks]로 읽는다(success, accept와 같은 규칙). '군더더기 없이 핵심만'이라는 칭찬의 뉘앙스.",
+      "family": [
+        {
+          "word": "succinctly",
+          "pos": "ad.",
+          "ko": "간결하게"
+        }
+      ],
+      "related": [
+        {
+          "word": "concise",
+          "ko": "간결한",
+          "note": "거의 동의어 — concise는 '잘라내서 짧은', succinct는 '핵심을 꽉 담아 짧은'"
+        }
+      ]
+    },
+    {
+      "headword": "impending",
+      "pos": "a.",
+      "ko": "곧 닥칠, 임박한",
+      "example_en": "Investors grew nervous about the impending interest rate hike.",
+      "example_ko": "투자자들은 임박한 금리 인상을 두고 불안해졌다.",
+      "collocations": [
+        "impending crisis",
+        "impending deadline",
+        "impending doom"
+      ],
+      "note": "im-(위에) + pend-(매달리다) = 머리 위에 매달려 곧 떨어질 듯한. pending(미결의, 보류 중인)과 같은 뿌리지만 impending은 주로 나쁜 일이 '곧 닥친다'는 위협의 뉘앙스.",
+      "related": [
+        {
+          "word": "pending",
+          "ko": "미결의, 계류 중인",
+          "note": "pending approval(승인 대기 중) — 위협감 없이 '아직 결정 안 됨'"
+        }
+      ]
+    }
+  ]
+}
