@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-11",
+  "words": [
+    {
+      "headword": "resurrect",
+      "pos": "v.",
+      "ko": "되살리다, 부활시키다",
+      "example_en": "The new CEO hopes to resurrect a brand that was discontinued a decade ago.",
+      "example_ko": "새 CEO는 10년 전 단종된 브랜드를 되살리기를 바란다.",
+      "collocations": [
+        "resurrect a plan",
+        "resurrect a brand",
+        "resurrect the idea"
+      ],
+      "note": "어원: re-(다시) + surgere(일어서다) — '다시 일으켜 세우다'. 같은 뿌리의 surge(치솟다)·insurgent(반란자, 안에서 일어서는 자)와 묶으면 쉽다. 시사에선 죽은 사람보다 '폐기된 계획·법안을 되살리다'에 훨씬 자주 쓴다.",
+      "family": [
+        {
+          "word": "resurrection",
+          "pos": "n.",
+          "ko": "부활, 재기"
+        }
+      ],
+      "related": [
+        {
+          "word": "revive",
+          "ko": "되살리다",
+          "note": "revive는 시들한 것을 '다시 활기 띠게'(경기·관심), resurrect는 완전히 죽거나 폐기된 것을 '무덤에서 꺼내듯' 되살린다는 느낌이 더 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "revive",
+      "pos": "v.",
+      "ko": "되살리다, 소생시키다; 부활하다",
+      "example_en": "The central bank cut rates to revive a sluggish economy.",
+      "example_ko": "중앙은행은 부진한 경제를 되살리기 위해 금리를 내렸다.",
+      "collocations": [
+        "revive the economy",
+        "revive interest in",
+        "revive talks"
+      ],
+      "note": "어원: re-(다시) + vivere(살다). vivid(생생한)·survive(넘어서 살다=살아남다)와 같은 뿌리 — '다시 살게 하다'로 외운다. 자동사·타동사 둘 다 된다.",
+      "family": [
+        {
+          "word": "revival",
+          "pos": "n.",
+          "ko": "부활, 회복; (연극의) 재공연"
+        }
+      ],
+      "related": [
+        {
+          "word": "revise",
+          "ko": "수정하다",
+          "note": "철자 한 글자 차이 혼동어 — revise는 vise(보다): '다시 보고 고치다'"
+        }
+      ]
+    },
+    {
+      "headword": "hybrid",
+      "pos": "n./a.",
+      "ko": "잡종, 혼합체; 혼합의",
+      "example_en": "Many firms have adopted a hybrid model that lets staff work from home two days a week.",
+      "example_ko": "많은 회사가 직원이 주 이틀은 재택근무를 할 수 있는 혼합형 모델을 도입했다.",
+      "collocations": [
+        "hybrid work",
+        "hybrid vehicle",
+        "a hybrid of A and B"
+      ],
+      "note": "원래 생물학의 '잡종'이지만, 토익·시사에선 '두 방식을 섞은'이라는 형용사로 압도적으로 많이 나온다(hybrid work 출근+재택, hybrid car 엔진+전기모터).",
+      "family": [
+        {
+          "word": "hybridize",
+          "pos": "v.",
+          "ko": "교잡하다, 잡종을 만들다"
+        }
+      ]
+    },
+    {
+      "headword": "ancestor",
+      "pos": "n.",
+      "ko": "조상, 선조; (기계 등의) 원형",
+      "example_en": "Today's smartphones are distant ancestors of the bulky car phones of the 1980s.",
+      "example_ko": "1980년대의 커다란 차량 전화는 오늘날 스마트폰의 먼 조상이다.",
+      "collocations": [
+        "common ancestor",
+        "distant ancestor"
+      ],
+      "note": "어원: ante-(앞) + cedere(가다) — '앞서 간 사람'. precede(앞서다)·predecessor(전임자)와 같은 cede/cess 뿌리. 반대말은 descendant(후손, de-: 아래로 내려온 자).",
+      "family": [
+        {
+          "word": "ancestral",
+          "pos": "a.",
+          "ko": "조상의, 대대로 내려온"
+        },
+        {
+          "word": "ancestry",
+          "pos": "n.",
+          "ko": "가계, 혈통"
+        }
+      ],
+      "related": [
+        {
+          "word": "descendant",
+          "ko": "후손",
+          "note": "ancestor의 반대 — '앞서 간 자' vs '아래로 내려온 자'"
+        },
+        {
+          "word": "predecessor",
+          "ko": "전임자",
+          "note": "혈연이 아닌 직위·제품의 '앞선 것'에는 predecessor를 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "genome",
+      "pos": "n.",
+      "ko": "유전체, 게놈",
+      "example_en": "Sequencing a human genome now costs a fraction of what it did twenty years ago.",
+      "example_ko": "사람의 유전체를 해독하는 비용은 이제 20년 전의 극히 일부에 불과하다.",
+      "collocations": [
+        "sequence a genome",
+        "the human genome"
+      ],
+      "note": "gene(유전자) + -ome(전체) — '한 생물이 가진 유전자 전부'. gene은 낱개, genome은 설계도 한 벌이라는 차이로 기억한다. 같은 -ome 계열: microbiome(미생물 전체).",
+      "family": [
+        {
+          "word": "gene",
+          "pos": "n.",
+          "ko": "유전자"
+        },
+        {
+          "word": "genetic",
+          "pos": "a.",
+          "ko": "유전의, 유전적인"
+        },
+        {
+          "word": "genomic",
+          "pos": "a.",
+          "ko": "유전체의"
+        }
+      ]
+    },
+    {
+      "headword": "tweak",
+      "pos": "v./n.",
+      "ko": "살짝 손보다, 미세 조정하다; 약간의 수정",
+      "example_en": "The marketing team tweaked the slogan after the first round of customer feedback.",
+      "example_ko": "마케팅팀은 1차 고객 의견을 받은 뒤 슬로건을 살짝 손봤다.",
+      "collocations": [
+        "tweak the design",
+        "a minor tweak",
+        "tweak the rules"
+      ],
+      "note": "뉘앙스: 원래 '(코·귀를) 살짝 비틀다'에서 나왔다 — 전면 수정(overhaul)이 아니라 '조금만 비틀어 고친다'. 회의·업무 영어에서 just a few tweaks(조금만 고치면 돼요)로 아주 많이 쓴다.",
+      "related": [
+        {
+          "word": "adjust",
+          "ko": "조정하다",
+          "note": "adjust는 중립적인 '맞추다', tweak은 구어적이고 '사소하게' 고친다는 크기 감각이 들어 있다"
+        }
+      ]
+    },
+    {
+      "headword": "endangered",
+      "pos": "a.",
+      "ko": "멸종 위기에 처한; 위험에 빠진",
+      "example_en": "The project was halted because the site is home to an endangered species of frog.",
+      "example_ko": "그 부지가 멸종 위기 개구리의 서식지여서 사업이 중단되었다.",
+      "collocations": [
+        "endangered species",
+        "critically endangered"
+      ],
+      "note": "en-(~하게 만들다) + danger — '위험에 빠뜨리다(endanger)'의 과거분사. 등급 순서를 같이 외운다: vulnerable(취약) → endangered(위기) → critically endangered(위급) → extinct(멸종).",
+      "family": [
+        {
+          "word": "endanger",
+          "pos": "v.",
+          "ko": "위험에 빠뜨리다"
+        }
+      ],
+      "related": [
+        {
+          "word": "dangerous",
+          "ko": "위험한",
+          "note": "dangerous는 '위험을 주는' 쪽(맹수), endangered는 '위험에 처한' 쪽(사라져 가는 종) — 방향이 반대"
+        }
+      ]
+    },
+    {
+      "headword": "roam",
+      "pos": "v.",
+      "ko": "돌아다니다, 배회하다",
+      "example_en": "Travelers should check roaming charges before using mobile data abroad.",
+      "example_ko": "여행자는 해외에서 모바일 데이터를 쓰기 전에 로밍 요금을 확인해야 한다.",
+      "collocations": [
+        "roam freely",
+        "roam the streets",
+        "roaming charges"
+      ],
+      "note": "휴대전화 '로밍(roaming)'이 바로 이 단어 — 내 통신사 구역 밖을 '돌아다니며' 쓰는 것. 목적 없이 넓은 곳을 자유롭게 누비는 느낌이라 동물·방랑자에 잘 붙는다.",
+      "related": [
+        {
+          "word": "wander",
+          "ko": "헤매다, 거닐다",
+          "note": "wander는 길을 잃거나 한가롭게 '헤매는' 느낌, roam은 넓은 영역을 '누비는' 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "surrogate",
+      "pos": "n./a.",
+      "ko": "대리인, 대용물; 대리의",
+      "example_en": "Stock prices are often used as a surrogate for investor confidence.",
+      "example_ko": "주가는 흔히 투자자 신뢰의 대용 지표로 쓰인다.",
+      "collocations": [
+        "surrogate mother",
+        "a surrogate for",
+        "surrogate marker"
+      ],
+      "note": "어원: sub-(아래·대신) + rogare(요청하다) — '대신 세우도록 요청받은 자'. 멸종 복원에선 배아를 대신 품는 '대리모' 코끼리, 시사에선 후보를 대신해 발언하는 '대리인'으로 나온다.",
+      "family": [
+        {
+          "word": "surrogacy",
+          "pos": "n.",
+          "ko": "대리모 제도, 대리 출산"
+        }
+      ],
+      "related": [
+        {
+          "word": "substitute",
+          "ko": "대체물",
+          "note": "substitute는 '갈아 끼우는' 대체, surrogate는 원래 역할을 '대신 맡는' 대리 — 사람·지표에 surrogate가 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "embryo",
+      "pos": "n.",
+      "ko": "배아, 태아; (발달) 초기 단계",
+      "example_en": "The merger plan is still in embryo, and no formal talks have begun.",
+      "example_ko": "합병 계획은 아직 초기 단계여서 공식 협상은 시작되지 않았다.",
+      "collocations": [
+        "human embryo",
+        "in embryo",
+        "embryo transfer"
+      ],
+      "note": "비유가 핵심: in embryo = '아직 싹 단계인'. 형용사 embryonic은 시사에서 '걸음마 단계의(산업·시장)'라는 뜻으로 자주 쓰인다 — an embryonic industry.",
+      "family": [
+        {
+          "word": "embryonic",
+          "pos": "a.",
+          "ko": "배아의; 초기 단계의, 미발달의"
+        }
+      ],
+      "related": [
+        {
+          "word": "fetus",
+          "ko": "태아",
+          "note": "의학적으로 embryo는 초기(사람은 약 8주까지), 그 이후는 fetus"
+        }
+      ]
+    },
+    {
+      "headword": "specimen",
+      "pos": "n.",
+      "ko": "표본, 견본; 샘플",
+      "example_en": "Please sign the form exactly as it appears on your specimen signature card.",
+      "example_ko": "서명 견본 카드에 있는 것과 똑같이 양식에 서명해 주십시오.",
+      "collocations": [
+        "blood specimen",
+        "museum specimen",
+        "specimen signature"
+      ],
+      "note": "어원: specere(보다) — '보여 주려고 떼어 낸 것'. spectacle(볼거리)·inspect(들여다보다)·spectator(관객)와 같은 spec 뿌리. 은행·계약 영어의 specimen signature(서명 견본)가 토익 포인트.",
+      "related": [
+        {
+          "word": "sample",
+          "ko": "샘플, 견본",
+          "note": "sample은 일반적 '맛보기 견본', specimen은 검사·연구·전시용 '표본'에 쓰는 격식어"
+        }
+      ]
+    },
+    {
+      "headword": "hubris",
+      "pos": "n.",
+      "ko": "오만, 자만(파멸을 부르는)",
+      "example_en": "Analysts blamed the company's collapse on the hubris of executives who ignored every warning.",
+      "example_ko": "분석가들은 회사의 몰락을 모든 경고를 무시한 경영진의 오만 탓으로 돌렸다.",
+      "collocations": [
+        "an act of hubris",
+        "corporate hubris"
+      ],
+      "note": "그리스 비극에서 신의 영역을 넘보다 벌받는 인간의 오만에서 왔다 — 그래서 단순한 arrogance가 아니라 '몰락을 예고하는 자만'이다. '자연을 마음대로 되돌리려는 과학의 오만' 같은 논설 단골어.",
+      "family": [
+        {
+          "word": "hubristic",
+          "pos": "a.",
+          "ko": "오만한, 자만에 찬"
+        }
+      ],
+      "related": [
+        {
+          "word": "arrogance",
+          "ko": "거만함",
+          "note": "arrogance는 태도의 '거만', hubris는 자기 한계를 넘다 '대가를 치르는' 오만 — 결말까지 함축한다"
+        }
+      ]
+    },
+    {
+      "headword": "lifeline",
+      "pos": "n.",
+      "ko": "생명줄, 구명줄; (존속에) 꼭 필요한 것",
+      "example_en": "The emergency loan was a lifeline for small businesses during the lockdown.",
+      "example_ko": "긴급 대출은 봉쇄 기간 동안 소상공인들에게 생명줄이었다.",
+      "collocations": [
+        "a financial lifeline",
+        "throw a lifeline to",
+        "serve as a lifeline"
+      ],
+      "note": "물에 빠진 사람에게 던지는 '구명줄'에서 — 위기 때 '버티게 해 주는 유일한 지원'. 비슷해 보이는 lifeblood는 평소에 '돌아가게 하는 핵심'(Tourism is the lifeblood of the town)이라 위기 뉘앙스가 없다.",
+      "related": [
+        {
+          "word": "lifeblood",
+          "ko": "원동력, 생명선",
+          "note": "lifeline은 위기 속 구조, lifeblood는 평상시의 핵심 동력"
+        },
+        {
+          "word": "lifespan",
+          "ko": "수명",
+          "note": "life- 합성어 혼동 주의 — 기간을 뜻한다"
+        }
+      ]
+    },
+    {
+      "headword": "herald",
+      "pos": "v./n.",
+      "ko": "~의 도래를 알리다, 예고하다; 전조, 선구자",
+      "example_en": "The deal was heralded as a turning point for the struggling airline.",
+      "example_ko": "그 거래는 고전하던 항공사의 전환점으로 대대적으로 알려졌다.",
+      "collocations": [
+        "herald a new era",
+        "be heralded as",
+        "herald the arrival of"
+      ],
+      "note": "중세에 왕의 포고를 큰 소리로 알리던 '전령'에서 왔다. 그래서 신문 이름(The Herald)에 많고, be heralded as ~ 는 '~이라고 떠들썩하게 칭송받다'라는 뜻이 된다 — 논설에선 그 기대가 과장이었다는 반전이 뒤따르기 쉽다.",
+      "related": [
+        {
+          "word": "harbinger",
+          "ko": "전조, 조짐",
+          "note": "harbinger는 주로 나쁜 일의 '불길한 조짐', herald는 새 시대의 시작을 알리는 쪽에 더 잘 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "distraction",
+      "pos": "n.",
+      "ko": "주의를 흩뜨리는 것, 방해물; 기분 전환",
+      "example_en": "Open-plan offices can be a constant source of distraction for employees.",
+      "example_ko": "칸막이 없는 사무실은 직원들에게 끊임없이 집중을 방해하는 원인이 될 수 있다.",
+      "collocations": [
+        "a welcome distraction",
+        "a distraction from",
+        "free from distraction"
+      ],
+      "note": "dis-(떨어져) + trahere(끌다) — 주의를 '딴 데로 끌어가는 것'. attract(끌어당기다)·extract(끌어내다)·contract(함께 끌다=계약)와 같은 tract 뿌리. drive sb to distraction은 '미치게 만들다'.",
+      "family": [
+        {
+          "word": "distract",
+          "pos": "v.",
+          "ko": "(주의를) 딴 데로 돌리다"
+        },
+        {
+          "word": "distracted",
+          "pos": "a.",
+          "ko": "산만해진, 정신이 팔린"
+        },
+        {
+          "word": "distracting",
+          "pos": "a.",
+          "ko": "집중을 방해하는"
+        }
+      ],
+      "related": [
+        {
+          "word": "detract",
+          "ko": "(가치를) 떨어뜨리다",
+          "note": "detract from은 '가치를 깎다', distract from은 '주의를 돌리다' — 철자가 비슷해 시험에 자주 엮인다"
+        }
+      ]
+    }
+  ]
+}

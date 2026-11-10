@@ -4545,6 +4545,51 @@
     },
     "impending": {
       "added_on": "2026-11-05"
+    },
+    "resurrect": {
+      "added_on": "2026-11-11"
+    },
+    "revive": {
+      "added_on": "2026-11-11"
+    },
+    "hybrid": {
+      "added_on": "2026-11-11"
+    },
+    "ancestor": {
+      "added_on": "2026-11-11"
+    },
+    "genome": {
+      "added_on": "2026-11-11"
+    },
+    "tweak": {
+      "added_on": "2026-11-11"
+    },
+    "endangered": {
+      "added_on": "2026-11-11"
+    },
+    "roam": {
+      "added_on": "2026-11-11"
+    },
+    "surrogate": {
+      "added_on": "2026-11-11"
+    },
+    "embryo": {
+      "added_on": "2026-11-11"
+    },
+    "specimen": {
+      "added_on": "2026-11-11"
+    },
+    "hubris": {
+      "added_on": "2026-11-11"
+    },
+    "lifeline": {
+      "added_on": "2026-11-11"
+    },
+    "herald": {
+      "added_on": "2026-11-11"
+    },
+    "distraction": {
+      "added_on": "2026-11-11"
     }
   }
 }
