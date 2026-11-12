@@ -1,0 +1,399 @@
+{
+  "date": "2026-11-12",
+  "words": [
+    {
+      "headword": "fungus",
+      "pos": "n.",
+      "ko": "균류, 곰팡이(버섯 포함)",
+      "example_en": "A fungus that attacks banana plants has spread to several new growing regions.",
+      "example_ko": "바나나 나무를 공격하는 균류가 여러 신규 재배 지역으로 퍼졌다.",
+      "collocations": [
+        "fungal infection",
+        "edible fungi"
+      ],
+      "note": "복수형이 라틴어식 fungi(펀자이/펑기)다 — cactus→cacti, stimulus→stimuli와 같은 -us→-i 규칙. 형용사는 fungal.",
+      "family": [
+        {
+          "word": "fungi",
+          "pos": "n.",
+          "ko": "fungus의 복수형"
+        },
+        {
+          "word": "fungal",
+          "pos": "a.",
+          "ko": "균류의"
+        },
+        {
+          "word": "fungicide",
+          "pos": "n.",
+          "ko": "살균제(-cide = 죽이다)"
+        }
+      ]
+    },
+    {
+      "headword": "seedling",
+      "pos": "n.",
+      "ko": "묘목, 모종",
+      "example_en": "Volunteers planted more than 5,000 seedlings along the riverbank last spring.",
+      "example_ko": "자원봉사자들이 지난봄 강둑을 따라 묘목 5,000그루 이상을 심었다.",
+      "collocations": [
+        "plant seedlings",
+        "tree seedlings"
+      ],
+      "note": "-ling은 '작은·어린 것'을 만드는 접미사 — seed(씨)+ling = 씨에서 막 난 어린 식물. duckling(새끼 오리)·sapling(어린 나무)·underling(아랫사람)도 같은 원리.",
+      "related": [
+        {
+          "word": "sapling",
+          "ko": "어린 나무",
+          "note": "seedling은 싹 튼 직후의 모종, sapling은 그보다 자라 줄기가 생긴 어린 나무"
+        }
+      ]
+    },
+    {
+      "headword": "nourish",
+      "pos": "v.",
+      "ko": "영양분을 공급하다; (감정·생각을) 키우다",
+      "example_en": "The program aims to nourish young talent in rural schools.",
+      "example_ko": "그 프로그램은 농촌 학교의 젊은 인재를 키우는 것을 목표로 한다.",
+      "collocations": [
+        "nourish the soil",
+        "well-nourished children"
+      ],
+      "note": "어원 nutrire(먹이다) — nutrient(영양소)·nutrition(영양)·nurse(돌보다)와 한 뿌리. 몸뿐 아니라 희망·재능을 '키우다'에도 쓴다.",
+      "family": [
+        {
+          "word": "nourishment",
+          "pos": "n.",
+          "ko": "영양(분), 자양물"
+        },
+        {
+          "word": "nourishing",
+          "pos": "a.",
+          "ko": "영양가 있는"
+        },
+        {
+          "word": "malnourished",
+          "pos": "a.",
+          "ko": "영양실조의(mal- = 나쁜)"
+        }
+      ]
+    },
+    {
+      "headword": "nutrient",
+      "pos": "n.",
+      "ko": "영양소, 양분",
+      "example_en": "Fertilizer runoff loads rivers with excess nutrients, triggering algae blooms.",
+      "example_ko": "비료 유출수가 강에 과도한 양분을 실어 날라 녹조를 일으킨다.",
+      "collocations": [
+        "essential nutrients",
+        "nutrient-rich soil"
+      ],
+      "note": "nutrient(영양소 그 자체) vs nutrition(영양 섭취·영양학) vs nutritious(영양가 높은 — 음식을 꾸밈). 셋 다 nutr-(먹이다) 계열.",
+      "family": [
+        {
+          "word": "nutrition",
+          "pos": "n.",
+          "ko": "영양, 영양 섭취"
+        },
+        {
+          "word": "nutritious",
+          "pos": "a.",
+          "ko": "영양가 높은"
+        },
+        {
+          "word": "nutritionist",
+          "pos": "n.",
+          "ko": "영양사"
+        }
+      ]
+    },
+    {
+      "headword": "ecologist",
+      "pos": "n.",
+      "ko": "생태학자",
+      "example_en": "Ecologists warn that the new dam could wipe out fish species found nowhere else.",
+      "example_ko": "생태학자들은 새 댐이 다른 곳에는 없는 어종을 몰살시킬 수 있다고 경고한다.",
+      "collocations": [
+        "field ecologist",
+        "marine ecologist"
+      ],
+      "note": "eco-는 그리스어 oikos(집) — ecology는 '생물의 집(환경)에 대한 학문', economy는 '집안 살림 관리'. 생태와 경제가 같은 뿌리다.",
+      "family": [
+        {
+          "word": "ecology",
+          "pos": "n.",
+          "ko": "생태학; 생태계"
+        },
+        {
+          "word": "ecological",
+          "pos": "a.",
+          "ko": "생태(학)의"
+        },
+        {
+          "word": "ecosystem",
+          "pos": "n.",
+          "ko": "생태계"
+        }
+      ],
+      "related": [
+        {
+          "word": "economist",
+          "ko": "경제학자",
+          "note": "같은 eco-(집) 뿌리지만 economist는 경제학자 — 철자 한 덩어리 차이로 분야가 갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "germinate",
+      "pos": "v.",
+      "ko": "싹트다, 발아하다; (생각이) 싹트다",
+      "example_en": "The idea for the startup germinated during a late-night conversation between two engineers.",
+      "example_ko": "그 스타트업의 아이디어는 두 엔지니어의 심야 대화에서 싹텄다.",
+      "collocations": [
+        "seeds germinate",
+        "germination rate"
+      ],
+      "note": "germ은 원래 '씨앗·싹'이라는 뜻 — 그래서 '세균'이라는 뜻과 '(생각의) 싹(the germ of an idea)'이라는 뜻이 함께 있다. germinate = 싹을 틔우다.",
+      "family": [
+        {
+          "word": "germination",
+          "pos": "n.",
+          "ko": "발아"
+        },
+        {
+          "word": "germ",
+          "pos": "n.",
+          "ko": "세균; (생각의) 싹, 근원"
+        }
+      ]
+    },
+    {
+      "headword": "channel",
+      "pos": "v.",
+      "ko": "(자금·에너지 등을 특정 방향으로) 돌리다, 쏟다, 전달하다",
+      "example_en": "The foundation channels most of its donations into early childhood education.",
+      "example_ko": "그 재단은 기부금 대부분을 유아 교육에 투입한다.",
+      "collocations": [
+        "channel funds into",
+        "channel energy into"
+      ],
+      "note": "명사 channel(수로·경로·방송 채널)이 동사가 되면 '물길을 내서 한쪽으로 흘려보내다' — 그래서 돈·노력·분노를 어딘가로 '쏟다'에 쓴다. channel A into B 형태를 통째로 외울 것.",
+      "related": [
+        {
+          "word": "canal",
+          "ko": "운하",
+          "note": "channel과 같은 라틴어 canalis(수로)에서 나왔다 — canal은 사람이 판 물길로 뜻이 좁아졌다"
+        }
+      ]
+    },
+    {
+      "headword": "anthropomorphize",
+      "pos": "v.",
+      "ko": "의인화하다(동물·사물에 인간의 감정·의도를 부여하다)",
+      "example_en": "Marketers often anthropomorphize their products, giving them names and personalities.",
+      "example_ko": "마케터들은 흔히 제품을 의인화해 이름과 성격을 부여한다.",
+      "collocations": [
+        "anthropomorphize animals",
+        "anthropomorphic robots"
+      ],
+      "note": "anthropo(인간) + morph(형태) + -ize — '인간의 형태로 만들다'. anthropology(인류학)·morph(변형하다)·metamorphosis(변태)와 조각을 공유한다.",
+      "family": [
+        {
+          "word": "anthropomorphism",
+          "pos": "n.",
+          "ko": "의인화, 의인관"
+        },
+        {
+          "word": "anthropomorphic",
+          "pos": "a.",
+          "ko": "의인화된"
+        },
+        {
+          "word": "anthropology",
+          "pos": "n.",
+          "ko": "인류학"
+        }
+      ]
+    },
+    {
+      "headword": "decompose",
+      "pos": "v.",
+      "ko": "분해되다, 부패하다; (성분으로) 분해하다",
+      "example_en": "Unlike paper, plastic bags can take centuries to decompose in a landfill.",
+      "example_ko": "종이와 달리 비닐봉지는 매립지에서 분해되는 데 수 세기가 걸릴 수 있다.",
+      "collocations": [
+        "decompose naturally",
+        "decomposing leaves"
+      ],
+      "note": "de-(반대로) + compose(구성하다) — '짜 맞춘 것을 거꾸로 푼다'. 그래서 생물이 썩는 것과 문제·데이터를 요소로 '분해'하는 것 둘 다에 쓴다.",
+      "family": [
+        {
+          "word": "decomposition",
+          "pos": "n.",
+          "ko": "분해, 부패"
+        },
+        {
+          "word": "decomposer",
+          "pos": "n.",
+          "ko": "분해자(균류·세균 등)"
+        }
+      ]
+    },
+    {
+      "headword": "narrative",
+      "pos": "n.",
+      "ko": "서사, 이야기; (정치·언론의) 프레임",
+      "example_en": "The company is trying to change the narrative after a string of product recalls.",
+      "example_ko": "그 회사는 잇따른 제품 리콜 이후 여론의 흐름(서사)을 바꾸려 하고 있다.",
+      "collocations": [
+        "control the narrative",
+        "a false narrative"
+      ],
+      "note": "시사 영어에서 narrative는 단순 '이야기'가 아니라 '사람들이 사건을 해석하는 틀' — change/control the narrative는 '여론의 프레임을 바꾸다/장악하다'.",
+      "family": [
+        {
+          "word": "narrate",
+          "pos": "v.",
+          "ko": "이야기하다, 내레이션하다"
+        },
+        {
+          "word": "narrator",
+          "pos": "n.",
+          "ko": "화자, 내레이터"
+        }
+      ]
+    },
+    {
+      "headword": "seize on",
+      "pos": "phr. v.",
+      "ko": "(아이디어·실수·기회를) 덥석 붙잡다, 물고 늘어지다",
+      "example_en": "Critics seized on the minister's remarks as proof that the plan had failed.",
+      "example_ko": "비판자들은 장관의 발언을 계획이 실패했다는 증거로 물고 늘어졌다.",
+      "collocations": [
+        "seize on a mistake",
+        "seize on an opportunity"
+      ],
+      "note": "seize(꽉 붙잡다)에 on이 붙으면 '어떤 것에 달려들어 이용하다' — 특히 상대의 실수·약점을 이용할 때 자주 쓴다. seize the day(오늘을 잡아라)의 seize.",
+      "family": [
+        {
+          "word": "seize",
+          "pos": "v.",
+          "ko": "붙잡다; 압수하다"
+        },
+        {
+          "word": "seizure",
+          "pos": "n.",
+          "ko": "압수; (의학) 발작"
+        }
+      ]
+    },
+    {
+      "headword": "captivating",
+      "pos": "a.",
+      "ko": "매혹적인, 마음을 사로잡는",
+      "example_en": "Her captivating presentation won over even the most skeptical investors.",
+      "example_ko": "그녀의 매혹적인 발표는 가장 회의적인 투자자들조차 설득했다.",
+      "collocations": [
+        "a captivating story",
+        "captivating performance"
+      ],
+      "note": "captive(포로)에서 나왔다 — 마음을 '포로로 붙잡는' 것. capture(포획하다)와 같은 cap-(잡다) 뿌리. -ing는 '사로잡는(주는 쪽)', captivated는 '사로잡힌(받는 쪽)'.",
+      "family": [
+        {
+          "word": "captivate",
+          "pos": "v.",
+          "ko": "매혹하다"
+        },
+        {
+          "word": "captive",
+          "pos": "n./a.",
+          "ko": "포로; 사로잡힌"
+        },
+        {
+          "word": "captivated",
+          "pos": "a.",
+          "ko": "매료된(감정을 느끼는 쪽)"
+        }
+      ]
+    },
+    {
+      "headword": "metaphor",
+      "pos": "n.",
+      "ko": "은유, 비유",
+      "example_en": "The 'invisible hand' is a metaphor for how markets coordinate without central control.",
+      "example_ko": "'보이지 않는 손'은 시장이 중앙 통제 없이 조율되는 방식을 가리키는 은유다.",
+      "collocations": [
+        "a powerful metaphor",
+        "a metaphor for"
+      ],
+      "note": "meta(넘어) + phor(옮기다) — 한 대상의 의미를 다른 대상으로 '옮겨 싣는' 것. 그리스에선 지금도 이삿짐 트럭에 metaphora라고 쓰여 있다.",
+      "family": [
+        {
+          "word": "metaphorical",
+          "pos": "a.",
+          "ko": "은유적인"
+        },
+        {
+          "word": "metaphorically",
+          "pos": "ad.",
+          "ko": "비유적으로"
+        }
+      ],
+      "related": [
+        {
+          "word": "simile",
+          "ko": "직유",
+          "note": "like/as로 대놓고 비교하면 simile(직유), 'A는 B다'처럼 바로 겹치면 metaphor(은유)"
+        }
+      ]
+    },
+    {
+      "headword": "outrun",
+      "pos": "v.",
+      "ko": "~보다 빨리 달리다, 앞지르다; (한계를) 넘어서다",
+      "example_en": "Demand for skilled workers has outrun the supply of graduates.",
+      "example_ko": "숙련 노동자에 대한 수요가 졸업생 공급을 앞질렀다.",
+      "collocations": [
+        "outrun demand",
+        "outrun the evidence"
+      ],
+      "note": "out- + 동사 = '~보다 더 …하다'(outlive 더 오래 살다, outnumber 수가 더 많다). outrun the evidence는 '증거가 받쳐 주는 것보다 주장이 앞서 나가다'라는 논설 단골 표현.",
+      "related": [
+        {
+          "word": "overrun",
+          "ko": "(장소를) 휩쓸다; (시간·예산을) 초과하다",
+          "note": "out-은 '경쟁에서 앞서다', over-는 '넘쳐서 덮치다·초과하다' — 접두사 하나로 뜻이 갈린다"
+        }
+      ]
+    },
+    {
+      "headword": "imaginary",
+      "pos": "a.",
+      "ko": "상상의, 가상의(실재하지 않는)",
+      "example_en": "The border between the two districts is largely imaginary; residents cross it every day.",
+      "example_ko": "두 지역 사이의 경계는 거의 관념상의 것이라 주민들은 매일 그것을 넘나든다.",
+      "collocations": [
+        "an imaginary line",
+        "imaginary friend"
+      ],
+      "note": "imagine의 형용사가 셋으로 갈린다 — imaginary(실재하지 않는), imaginative(상상력이 풍부한), imaginable(상상할 수 있는). 'imaginative child'를 'imaginary child'라 하면 '존재하지 않는 아이'가 된다.",
+      "family": [
+        {
+          "word": "imaginative",
+          "pos": "a.",
+          "ko": "상상력이 풍부한, 창의적인"
+        },
+        {
+          "word": "imaginable",
+          "pos": "a.",
+          "ko": "상상할 수 있는"
+        },
+        {
+          "word": "imagination",
+          "pos": "n.",
+          "ko": "상상(력)"
+        }
+      ]
+    }
+  ]
+}
