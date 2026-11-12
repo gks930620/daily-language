@@ -823,7 +823,11 @@
       "settled_at": "2026-11-12T00:16:13.723Z",
       "content_sha256": "47d08d52641d7b6d0d2d137b65294d9bf6f623c46f0f09ab58fc1de9bf1d69e8",
       "notes": [],
-      "built_at": "2026-11-12T00:18:23.760Z"
+      "built_at": "2026-11-12T23:20:28.745Z"
+    },
+    "2026-11-13": {
+      "prepared_at": "2026-11-12T23:17:19.300Z",
+      "settled": false
     }
   }
 }

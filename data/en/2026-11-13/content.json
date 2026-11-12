@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-11-13",
+  "passage_note": "경제 — '선구매 후결제(BNPL)'의 급성장과 신용 기록에 잡히지 않는 '유령 부채' 논란(해설 기사)",
+  "sentences": [
+    {
+      "en": "\"Buy now, pay later\" services, which let shoppers split a purchase into a handful of interest-free installments at the checkout, have ballooned from a niche convenience into a mainstream form of credit in barely a decade.",
+      "ko": "결제 단계에서 쇼핑객이 구매액을 몇 차례의 무이자 할부로 나눌 수 있게 해 주는 '선구매 후결제' 서비스는 불과 10년 만에 틈새 편의 서비스에서 주류 신용 수단으로 급격히 불어났다.",
+      "structure": "· which let ~ at the checkout: 계속적 용법의 주격 관계대명사절로 services를 보충 설명한다(콤마로 묶인 삽입부).\n· let + 목적어(shoppers) + 동사원형(split): 사역동사 구문 — '~가 …하게 해 주다'.\n· 주어 services(복수) ↔ 동사 have ballooned: 관계절 때문에 주어와 동사가 멀리 떨어져 있다. 현재완료로 '지금까지 불어나 온 결과'를 나타낸다.\n· from A into B: 'A에서 B로' 성격이 바뀌는 변화를 나타낸다.",
+      "vocab_notes": [
+        { "word": "buy now, pay later", "ko": "선구매 후결제(BNPL)" },
+        { "word": "shopper", "ko": "쇼핑객, 구매자" },
+        { "word": "split A into B", "ko": "A를 B로 나누다" },
+        { "word": "purchase", "ko": "구매(액), 구매품" },
+        { "word": "a handful of", "ko": "몇 개의, 소수의" },
+        { "word": "interest-free", "ko": "무이자의" },
+        { "word": "installment", "ko": "할부금, 분할 납부액" },
+        { "word": "checkout", "ko": "계산대, (온라인) 결제 단계" },
+        { "word": "balloon", "ko": "(풍선처럼) 급격히 불어나다" },
+        { "word": "niche", "ko": "틈새(의)" },
+        { "word": "convenience", "ko": "편의, 편리한 것" },
+        { "word": "mainstream", "ko": "주류의" },
+        { "word": "form of credit", "ko": "신용(대출)의 한 형태" },
+        { "word": "barely", "ko": "겨우, 불과" },
+        { "word": "decade", "ko": "10년" }
+      ]
+    },
+    {
+      "en": "Their appeal is easy to grasp: no lengthy application, no hard credit check, and none of the stigma that clings to a maxed-out credit card.",
+      "ko": "그 매력은 쉽게 이해된다. 긴 신청 절차도, 정식 신용 조회도 없고, 한도까지 꽉 찬 신용카드에 따라붙는 낙인도 전혀 없다.",
+      "structure": "· be easy to grasp: 난이형용사(easy) 구문 — 주어(Their appeal)가 to부정사의 의미상 목적어다. It is easy to grasp their appeal로 바꿔 쓸 수 있다.\n· 콜론(:) 뒤는 appeal의 구체적 내용 — no A, no B, and none of C의 3항 병렬.\n· that clings to ~: 주격 관계대명사절이 stigma를 수식한다.",
+      "vocab_notes": [
+        { "word": "appeal", "ko": "매력, 호소력" },
+        { "word": "grasp", "ko": "이해하다, 파악하다" },
+        { "word": "lengthy", "ko": "긴, 장황한" },
+        { "word": "application", "ko": "신청(서)" },
+        { "word": "hard credit check", "ko": "정식 신용 조회(신용 기록에 남는 조회)" },
+        { "word": "none of", "ko": "~이 전혀 없음" },
+        { "word": "stigma", "ko": "낙인, 오명" },
+        { "word": "cling to", "ko": "~에 달라붙다, 따라붙다" },
+        { "word": "maxed-out", "ko": "한도까지 다 쓴" }
+      ]
+    },
+    {
+      "en": "Yet regulators increasingly worry that this very ease is what makes the product hazardous, because many of these loans go unreported to credit bureaus, creating a pool of \"phantom debt\" that lenders cannot see.",
+      "ko": "그러나 규제 당국은 바로 이 손쉬움이 그 상품을 위험하게 만드는 요인이라고 점점 더 우려한다. 이런 대출 다수가 신용평가기관에 보고되지 않아, 대출 기관들이 볼 수 없는 '유령 부채'가 쌓이기 때문이다.",
+      "structure": "· worry that ~: that 명사절이 worry의 목적어.\n· what makes the product hazardous: 관계대명사 what절이 is의 보어 — '~하게 만드는 것'. make + 목적어 + 형용사(hazardous)는 5형식.\n· go unreported: go + 과거분사/형용사 = '~인 상태가 되다(로 남다)'. go unnoticed, go unpunished도 같은 틀.\n· creating a pool of ~: 결과를 나타내는 분사구문(= and this creates ~).\n· that lenders cannot see: 목적격 관계대명사절이 phantom debt를 수식.",
+      "vocab_notes": [
+        { "word": "regulator", "ko": "규제 당국, 감독 기관" },
+        { "word": "increasingly", "ko": "점점 더" },
+        { "word": "this very ~", "ko": "바로 이 ~ (강조)" },
+        { "word": "ease", "ko": "쉬움, 용이함" },
+        { "word": "hazardous", "ko": "위험한" },
+        { "word": "go unreported", "ko": "보고되지 않은 채로 남다" },
+        { "word": "credit bureau", "ko": "신용평가기관" },
+        { "word": "a pool of", "ko": "~의 더미, 웅덩이(모여 있는 양)" },
+        { "word": "phantom", "ko": "유령의, 실체가 보이지 않는" },
+        { "word": "debt", "ko": "부채, 빚" },
+        { "word": "lender", "ko": "대출 기관, 빌려주는 사람" }
+      ]
+    },
+    {
+      "en": "A borrower can thus juggle half a dozen plans from different providers at once, each individually manageable but collectively ruinous, and the warning signs surface only when payments start to bounce.",
+      "ko": "그래서 대출자는 여러 업체의 할부 계획 대여섯 개를 동시에 굴릴 수 있는데, 하나하나는 감당할 만해도 합치면 파멸적이며, 경고 신호는 결제가 거절되기 시작할 때에야 비로소 드러난다.",
+      "structure": "· each (being) individually manageable but collectively ruinous: 독립분사구문 — 문장 주어(A borrower)와 다른 의미상 주어 each를 따로 두고 being이 생략된 형태.\n· individually ~ but collectively ~: 부사 대조 — '개별로는 ~, 합치면 ~'.\n· only when ~: '~할 때에야 비로소'. (문두로 나가면 Only when ~ do the warning signs surface처럼 도치된다.)",
+      "vocab_notes": [
+        { "word": "borrower", "ko": "대출자, 빌리는 사람" },
+        { "word": "thus", "ko": "그리하여, 따라서" },
+        { "word": "juggle", "ko": "(여러 개를) 동시에 꾸려 가다" },
+        { "word": "half a dozen", "ko": "대여섯 개" },
+        { "word": "provider", "ko": "(서비스) 제공업체" },
+        { "word": "at once", "ko": "동시에" },
+        { "word": "individually", "ko": "개별적으로" },
+        { "word": "manageable", "ko": "감당할 수 있는" },
+        { "word": "collectively", "ko": "합쳐서, 전체적으로" },
+        { "word": "ruinous", "ko": "파멸적인" },
+        { "word": "warning sign", "ko": "경고 신호" },
+        { "word": "surface", "ko": "(표면으로) 드러나다" },
+        { "word": "bounce", "ko": "(결제가) 거절되다, 부도나다" }
+      ]
+    },
+    {
+      "en": "Proponents counter that most users repay on time and that the late fees are modest compared with revolving card interest, but critics argue that averages obscure the plight of the most financially stretched households, who are precisely the ones the industry courts most aggressively.",
+      "ko": "지지자들은 대부분의 이용자가 제때 갚고 연체료도 리볼빙 카드 이자에 비하면 크지 않다고 반박하지만, 비판자들은 평균치가 재정적으로 가장 쪼들리는 가구의 곤경을 가린다고 주장한다. 그런데 바로 그 가구들이 업계가 가장 공격적으로 공략하는 대상이다.",
+      "structure": "· counter that A and that B: that절 두 개가 병렬로 counter의 목적어. 두 번째 that을 생략하지 않아 '주장 두 개'임이 분명해진다.\n· compared with ~: '~와 비교하면' — 관용적 분사구문.\n· , who are ~: 계속적 용법 관계대명사 — households를 보충 설명.\n· the ones (that) the industry courts: 목적격 관계대명사 생략. court는 여기서 '(고객을) 구애하듯 끌어들이다'라는 동사.",
+      "vocab_notes": [
+        { "word": "proponent", "ko": "지지자, 옹호자" },
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "repay", "ko": "갚다, 상환하다" },
+        { "word": "on time", "ko": "제때, 기한 내에" },
+        { "word": "late fee", "ko": "연체료" },
+        { "word": "modest", "ko": "크지 않은, 적당한" },
+        { "word": "compared with", "ko": "~에 비해" },
+        { "word": "revolving", "ko": "리볼빙(회전식 신용)의" },
+        { "word": "interest", "ko": "이자" },
+        { "word": "critic", "ko": "비판자" },
+        { "word": "average", "ko": "평균(치)" },
+        { "word": "obscure", "ko": "가리다, 흐리게 하다" },
+        { "word": "plight", "ko": "곤경, 궁지" },
+        { "word": "financially stretched", "ko": "재정적으로 쪼들리는" },
+        { "word": "household", "ko": "가구, 세대" },
+        { "word": "precisely", "ko": "바로, 정확히" },
+        { "word": "court", "ko": "(고객·지지를) 얻으려 공들이다, 구애하다" },
+        { "word": "aggressively", "ko": "공격적으로, 적극적으로" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "balloon",
+      "pos": "v.",
+      "ko": "급격히 불어나다",
+      "example_en": "The company's debt ballooned to $3 billion after a string of failed acquisitions.",
+      "example_ko": "잇단 인수 실패 이후 그 회사의 부채는 30억 달러로 불어났다.",
+      "collocations": ["balloon to + 금액", "ballooning costs", "balloon payment"],
+      "note": "풍선처럼 '짧은 시간에 크게 부풀다' — 주로 부채·비용·적자 같은 반갑지 않은 숫자에 쓴다. balloon payment는 대출 마지막에 크게 몰리는 '만기 일시 상환액'.",
+      "related": [
+        { "word": "soar", "ko": "치솟다", "note": "soar는 가격·수치가 '위로 치솟다', balloon은 덩치가 '부풀어 커지다' — 높이 vs 크기의 그림" }
+      ]
+    },
+    {
+      "headword": "juggle",
+      "pos": "v.",
+      "ko": "(여러 일을) 동시에 꾸려 가다",
+      "example_en": "Many working parents juggle full-time jobs and childcare.",
+      "example_ko": "많은 맞벌이 부모가 전일제 직장과 육아를 동시에 꾸려 간다.",
+      "collocations": ["juggle work and family", "a juggling act", "juggle multiple loans"],
+      "note": "원뜻은 공 여러 개를 던지고 받는 '저글링' — 하나만 놓쳐도 전부 무너지는 아슬아슬함이 함께 담긴다. 그래서 '여유 있게 병행'이 아니라 '간신히 버티며 병행'에 가깝다.",
+      "family": [
+        { "word": "juggler", "pos": "n.", "ko": "저글러, 곡예사" },
+        { "word": "juggling act", "pos": "n.", "ko": "곡예 같은 병행, 아슬아슬한 균형 잡기" }
+      ]
+    },
+    {
+      "headword": "revolving",
+      "pos": "a.",
+      "ko": "회전식의; (신용) 리볼빙의",
+      "example_en": "Revolving credit lets cardholders carry a balance from month to month as long as they make the minimum payment.",
+      "example_ko": "리볼빙 신용은 최소 결제액만 내면 카드 소지자가 잔액을 다음 달로 계속 넘길 수 있게 해 준다.",
+      "collocations": ["revolving credit", "revolving balance", "revolving door"],
+      "note": "re-(다시) + volv(돌다) — 갚은 만큼 한도가 '다시 돌아오는' 신용. revolution(판을 한 바퀴 뒤집음=혁명)·evolve(밖으로 굴러 나옴=진화하다)·involve(안으로 말려듦=관련시키다)와 같은 뿌리.",
+      "family": [
+        { "word": "revolve", "pos": "v.", "ko": "회전하다; (~을 중심으로) 돌아가다" },
+        { "word": "revolution", "pos": "n.", "ko": "혁명; 회전" }
+      ],
+      "related": [
+        { "word": "installment loan", "ko": "할부 대출", "note": "정해진 횟수만 갚으면 끝나는 대출 — 한도 안에서 쓰고 갚기를 계속 반복하는 revolving credit과 구조가 반대" }
+      ]
+    },
+    {
+      "headword": "bureau",
+      "pos": "n.",
+      "ko": "(정부의) 국; 사무소, (정보) 기관",
+      "example_en": "Consumers can request a free copy of their report from each credit bureau once a year.",
+      "example_ko": "소비자는 각 신용평가기관에 1년에 한 번 자기 신용 보고서를 무료로 요청할 수 있다.",
+      "collocations": ["credit bureau", "travel bureau", "the Federal Bureau of Investigation"],
+      "note": "프랑스어 '책상(bureau)'에서 → 책상이 놓인 곳=사무소 → 관청의 '국'. '책상의 지배'가 bureaucracy(관료제)다. 복수는 bureaus 또는 bureaux.",
+      "family": [
+        { "word": "bureaucracy", "pos": "n.", "ko": "관료제; 번잡한 행정 절차" },
+        { "word": "bureaucrat", "pos": "n.", "ko": "관료" },
+        { "word": "bureaucratic", "pos": "a.", "ko": "관료적인, 형식적인" }
+      ]
+    },
+    {
+      "headword": "max out",
+      "pos": "phr. v.",
+      "ko": "(한도까지) 다 쓰다",
+      "example_en": "He maxed out three credit cards to keep his small business afloat.",
+      "example_ko": "그는 작은 가게를 버티게 하려고 신용카드 세 장을 한도까지 다 썼다.",
+      "collocations": ["max out a credit card", "a maxed-out card", "max out one's savings"],
+      "note": "max(maximum) + out(끝까지) — 한도를 '꽉 채워' 쓰는 것. 신용카드·대출뿐 아니라 체력·용량에도 쓰며, 형용사 maxed-out은 '한도가 꽉 찬, 녹초가 된'."
+    },
+    {
+      "headword": "bounce",
+      "pos": "v.",
+      "ko": "(수표·결제가) 부도나다, 거절되다",
+      "example_en": "The payment bounced because there wasn't enough money in her account.",
+      "example_ko": "그녀의 계좌에 잔액이 부족해서 결제가 거절되었다.",
+      "collocations": ["a bounced check", "bounce a payment", "bounce fee"],
+      "note": "공이 '튕겨 나오다' → 은행에 들어간 결제가 받아들여지지 않고 '튕겨 돌아오다'. 이메일이 반송되는 것도 bounce.",
+      "related": [
+        { "word": "bounce back", "ko": "회복하다", "note": "다시 튀어 오르다 = (경기·건강·기분이) 회복하다 — 부도의 bounce와 뜻의 방향이 정반대" }
+      ]
+    },
+    {
+      "headword": "stretched",
+      "pos": "a.",
+      "ko": "(돈·자원이) 빠듯한, 쪼들리는",
+      "example_en": "With rent rising faster than wages, many young households feel financially stretched.",
+      "example_ko": "월세가 임금보다 빨리 오르면서 많은 젊은 가구가 재정적으로 쪼들린다고 느낀다.",
+      "collocations": ["financially stretched", "stretched thin", "stretched budget"],
+      "note": "stretch(늘이다)의 과거분사 — 고무줄을 한계까지 늘려 더는 여유가 없는 상태. stretched thin(너무 얇게 펴진)은 '인력·예산이 바닥나기 직전'.",
+      "family": [
+        { "word": "overstretched", "pos": "a.", "ko": "무리하게 늘린, 과부하가 걸린" },
+        { "word": "stretch", "pos": "n.", "ko": "(연속된) 기간, 구간 — a long stretch of time" }
+      ]
+    },
+    {
+      "headword": "phantom",
+      "pos": "a./n.",
+      "ko": "유령(의); 실체가 보이지 않는",
+      "example_en": "Auditors discovered phantom employees on the payroll who had never worked a day.",
+      "example_ko": "감사관들은 급여 대장에서 하루도 일한 적 없는 유령 직원들을 찾아냈다.",
+      "collocations": ["phantom debt", "phantom employees", "phantom limb"],
+      "note": "그리스어 phantasma(나타난 것, 환영) — fantasy(공상)·phenomenon(현상)과 같은 뿌리. 경제 기사에서는 '장부·통계에 잡히지 않는 숨은 ~'(phantom debt, phantom income)이라는 뜻으로 자주 쓴다."
+    },
+    {
+      "headword": "usury",
+      "pos": "n.",
+      "ko": "고리대금, 폭리",
+      "example_en": "Many countries have usury laws that cap the interest rate lenders may charge.",
+      "example_ko": "많은 나라에는 대출 기관이 받을 수 있는 금리에 상한을 두는 고리대금 규제법이 있다.",
+      "collocations": ["usury laws", "usury cap"],
+      "note": "use(사용)에서 온 말 — 원래 '돈을 쓰게 해 주고 받는 대가(이자)'라는 중립어였지만 지금은 '법정 한도를 넘는 폭리'라는 비난의 뜻만 남았다.",
+      "family": [
+        { "word": "usurious", "pos": "a.", "ko": "폭리의, 고리의" },
+        { "word": "usurer", "pos": "n.", "ko": "고리대금업자" }
+      ]
+    },
+    {
+      "headword": "amass",
+      "pos": "v.",
+      "ko": "(재산·자료를) 모으다, 축적하다",
+      "example_en": "Over two decades, she amassed a fortune by investing in real estate.",
+      "example_ko": "20년에 걸쳐 그녀는 부동산 투자로 큰 재산을 모았다.",
+      "collocations": ["amass a fortune", "amass debt", "amass evidence"],
+      "note": "a-(~쪽으로) + mass(덩어리) — 하나씩 끌어모아 '큰 덩어리'로 만드는 그림. fortune·wealth·evidence·debt처럼 '많은 양'과 붙는다.",
+      "related": [
+        { "word": "accumulate", "ko": "축적하다", "note": "accumulate는 저절로 쌓이는 것도 포함(먼지가 쌓이다), amass는 '많이·의도적으로' 모으는 느낌이 강하다" }
+      ]
+    },
+    {
+      "headword": "mounting",
+      "pos": "a.",
+      "ko": "증가하는, 쌓여 가는",
+      "example_en": "The airline is under mounting pressure to cut fares.",
+      "example_ko": "그 항공사는 운임을 내리라는 압박을 점점 더 받고 있다.",
+      "collocations": ["mounting debt", "mounting pressure", "mounting evidence"],
+      "note": "mount(오르다)의 -ing형 — 계단을 오르듯 '점점 높아지는'. 대개 pressure·debt·concern·evidence 같은 부담스러운 명사 앞에 붙는다.",
+      "family": [
+        { "word": "mount", "pos": "v.", "ko": "오르다; 증가하다; (행사를) 개최하다" },
+        { "word": "amount to", "pos": "v.", "ko": "합계 ~에 이르다 — 같은 mount(오르다) 뿌리" }
+      ]
+    },
+    {
+      "headword": "repossess",
+      "pos": "v.",
+      "ko": "(대금 미납으로) 회수하다, 압류하다",
+      "example_en": "The bank repossessed his car after he missed six monthly payments.",
+      "example_ko": "그가 월 납부금을 여섯 번 연체하자 은행은 그의 차를 회수했다.",
+      "collocations": ["repossess a car", "repossession agent", "face repossession"],
+      "note": "re-(다시) + possess(소유하다) — 할부로 넘겨준 물건을 채권자가 '다시 소유'하는 것. 주로 차·가전 같은 동산에 쓰고, 집을 경매로 넘기는 것은 foreclosure.",
+      "family": [
+        { "word": "repossession", "pos": "n.", "ko": "회수, 압류" }
+      ],
+      "related": [
+        { "word": "confiscate", "ko": "몰수하다", "note": "당국이 불법 물건 등을 강제로 빼앗는 것 — 채권자가 담보물을 되찾는 repossess와 주체·이유가 다르다" }
+      ]
+    },
+    {
+      "headword": "loan shark",
+      "pos": "n.",
+      "ko": "고리대금업자, 불법 사채업자",
+      "example_en": "Desperate for cash, he borrowed from a loan shark who charged 20 percent a week.",
+      "example_ko": "현금이 절박했던 그는 주 20퍼센트 이자를 받는 사채업자에게 돈을 빌렸다.",
+      "collocations": ["borrow from a loan shark", "loan-sharking"],
+      "note": "상어(shark)처럼 약한 먹잇감을 노리는 불법 대부업자. shark 단독으로도 '남을 등쳐 먹는 사람'을 뜻한다(card shark=노름 타짜)."
+    },
+    {
+      "headword": "grasp",
+      "pos": "v./n.",
+      "ko": "이해하다, 파악하다; 꽉 쥐다",
+      "example_en": "It took the new manager weeks to fully grasp the complexities of the budget.",
+      "example_ko": "새 매니저가 예산의 복잡한 구조를 완전히 파악하는 데 몇 주가 걸렸다.",
+      "collocations": ["grasp the concept", "a firm grasp of", "beyond one's grasp"],
+      "note": "손으로 '꽉 움켜쥐다' → 개념을 '머리로 붙잡다' = 이해하다. grasp at straws(지푸라기라도 붙잡다)는 원뜻 그대로.",
+      "related": [
+        { "word": "grip", "ko": "꽉 쥠; 장악", "note": "grip은 '쥐고 있는 상태·통제력'(lose one's grip=통제력을 잃다), grasp은 '붙잡는 동작·이해'에 무게가 있다" }
+      ]
+    },
+    {
+      "headword": "embezzle",
+      "pos": "v.",
+      "ko": "횡령하다",
+      "example_en": "The accountant was arrested for embezzling $2 million from client accounts.",
+      "example_ko": "그 회계사는 고객 계좌에서 200만 달러를 횡령한 혐의로 체포되었다.",
+      "collocations": ["embezzle funds", "embezzlement charges"],
+      "note": "그냥 훔치는 steal과 달리, 관리하라고 '믿고 맡겨진' 돈을 빼돌린다는 배신이 핵심 — 그래서 주어는 대개 회계사·임원·공무원 같은 내부자다.",
+      "family": [
+        { "word": "embezzlement", "pos": "n.", "ko": "횡령" },
+        { "word": "embezzler", "pos": "n.", "ko": "횡령범" }
+      ],
+      "related": [
+        { "word": "misappropriate", "ko": "유용하다", "note": "목적 외로 돈을 쓰는 것까지 포함하는 더 넓고 완곡한 법률 용어 — embezzle은 자기 주머니로 가져간 경우" }
+      ]
+    },
+    {
+      "headword": "dissent",
+      "pos": "n./v.",
+      "ko": "반대(의견); 이의를 제기하다",
+      "example_en": "Two board members voiced dissent over the proposed merger.",
+      "example_ko": "이사 두 명이 제안된 합병에 반대 의견을 밝혔다.",
+      "collocations": ["voice dissent", "a dissenting opinion", "crush dissent"],
+      "note": "dis-(떨어져) + sent(느끼다) — '다르게 느끼다'. consent(함께 느끼다=동의)의 정반대. 대법원 판결의 소수 반대의견이 dissenting opinion.",
+      "family": [
+        { "word": "dissenter", "pos": "n.", "ko": "반대자" },
+        { "word": "dissenting", "pos": "a.", "ko": "반대하는, 이견을 가진" }
+      ],
+      "related": [
+        { "word": "descent", "ko": "하강; 혈통", "note": "철자 한 글자 차이에 발음도 비슷해 혼동 주의 — descend(내려가다)의 명사" }
+      ]
+    },
+    {
+      "headword": "cognizant",
+      "pos": "a.",
+      "ko": "인식하는, 알고 있는",
+      "example_en": "Investors should be cognizant of the risks before buying high-yield bonds.",
+      "example_ko": "투자자는 고수익 채권을 사기 전에 그 위험을 인식하고 있어야 한다.",
+      "collocations": ["be cognizant of", "fully cognizant"],
+      "note": "cogn-(알다) — recognize(다시 알아보다)·cognitive(인지의)·incognito(알아보지 못하게=신분을 숨기고)와 같은 뿌리. be cognizant of는 be aware of의 격식체.",
+      "family": [
+        { "word": "cognizance", "pos": "n.", "ko": "인식; (법원의) 관할 — take cognizance of: ~을 인지하다" }
+      ]
+    },
+    {
+      "headword": "tantalizing",
+      "pos": "a.",
+      "ko": "(닿을 듯 말 듯) 감질나게 하는, 애타게 하는",
+      "example_en": "The startup promised tantalizing returns, but few investors ever saw a profit.",
+      "example_ko": "그 스타트업은 감질나는 수익을 약속했지만, 실제로 이익을 본 투자자는 거의 없었다.",
+      "collocations": ["a tantalizing glimpse", "a tantalizing prospect"],
+      "note": "그리스 신화 탄탈로스 — 물과 과일이 눈앞에 있는데 손을 뻗으면 물러나 영원히 먹지 못하는 벌을 받았다. 그래서 단순히 '매력적인(attractive)'이 아니라 '손에 잡힐 듯 안 잡혀 애태우는'.",
+      "family": [
+        { "word": "tantalize", "pos": "v.", "ko": "감질나게 하다, 애태우다" }
+      ]
+    }
+  ]
+}
