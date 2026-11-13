@@ -1,0 +1,361 @@
+{
+  "date": "2026-11-14",
+  "words": [
+    {
+      "headword": "companionship",
+      "pos": "n.",
+      "ko": "교제, 동반, 함께 있어 줌",
+      "example_en": "Many elderly residents rely on volunteers for companionship as much as for practical help.",
+      "example_ko": "많은 노인 거주자들은 실질적인 도움만큼이나 말벗이 되어 주는 것을 자원봉사자에게 의존한다.",
+      "collocations": [
+        "seek companionship",
+        "offer companionship"
+      ],
+      "note": "어원: com-(함께) + pan-(빵) — '빵을 함께 나눠 먹는 사람'이 companion. 같은 빵(pan-) 뿌리가 company(회사·일행)에도 들어 있다.",
+      "family": [
+        {
+          "word": "companion",
+          "pos": "n.",
+          "ko": "동반자, 친구"
+        },
+        {
+          "word": "company",
+          "pos": "n.",
+          "ko": "회사; 함께 있음, 일행"
+        }
+      ]
+    },
+    {
+      "headword": "seclusion",
+      "pos": "n.",
+      "ko": "은둔, 격리된 상태",
+      "example_en": "After retiring, he lived in near seclusion and rarely received visitors.",
+      "example_ko": "은퇴 후 그는 거의 은둔하다시피 살며 방문객을 좀처럼 받지 않았다.",
+      "collocations": [
+        "live in seclusion",
+        "social seclusion"
+      ],
+      "note": "se-(떨어져) + clud(닫다) — '문을 닫고 떨어져 있음'. include(안으로 닫다=포함)·exclude(밖으로 닫다=배제)와 같은 뿌리.",
+      "family": [
+        {
+          "word": "seclude",
+          "pos": "v.",
+          "ko": "격리하다, 떼어 놓다"
+        },
+        {
+          "word": "secluded",
+          "pos": "a.",
+          "ko": "외딴, 한적한 — 장소에 쓰면 '인적 드문'이라는 긍정적 뉘앙스도 있음"
+        }
+      ],
+      "related": [
+        {
+          "word": "isolation",
+          "ko": "고립",
+          "note": "isolation은 원치 않게 떨어진 상태에도, seclusion은 스스로 물러나 숨은 상태에 더 잘 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "debilitating",
+      "pos": "a.",
+      "ko": "(심신을) 쇠약하게 만드는",
+      "example_en": "Chronic pain can be debilitating, making even simple tasks difficult.",
+      "example_ko": "만성 통증은 사람을 쇠약하게 만들어 간단한 일조차 어렵게 할 수 있다.",
+      "collocations": [
+        "debilitating illness",
+        "debilitating effect"
+      ],
+      "note": "de-(제거) + bilis(힘, 라틴어 debilis '약한') — 힘을 빼 버리는. 병·통증·불안 등 '일상 기능을 무너뜨리는' 수준을 강조할 때 쓴다.",
+      "family": [
+        {
+          "word": "debilitate",
+          "pos": "v.",
+          "ko": "쇠약하게 하다"
+        },
+        {
+          "word": "debility",
+          "pos": "n.",
+          "ko": "쇠약, 허약"
+        }
+      ]
+    },
+    {
+      "headword": "outreach",
+      "pos": "n.",
+      "ko": "(지원이 닿지 않는 이들을 찾아가는) 봉사·지원 활동",
+      "example_en": "The charity expanded its outreach to isolated seniors in rural areas.",
+      "example_ko": "그 자선 단체는 농촌 지역의 고립된 노인들을 찾아가는 지원 활동을 확대했다.",
+      "collocations": [
+        "community outreach",
+        "outreach program"
+      ],
+      "note": "out(밖으로) + reach(손을 뻗다) — 기관이 앉아서 기다리지 않고 '밖으로 손을 뻗어' 찾아간다는 뜻. 동사 reach out (to)이 명사로 굳은 것.",
+      "related": [
+        {
+          "word": "reach out to",
+          "ko": "~에게 연락하다, 손을 내밀다",
+          "note": "동사구 형태 — 이메일·비즈니스 회화에서 'I'm reaching out to ~'로 아주 많이 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "solace",
+      "pos": "n.",
+      "ko": "위안, 위로",
+      "example_en": "She found solace in music during the difficult months after the move.",
+      "example_ko": "그녀는 이사 후 힘든 몇 달 동안 음악에서 위안을 찾았다.",
+      "collocations": [
+        "find solace in",
+        "take solace from"
+      ],
+      "note": "'find solace in ~'(~에서 위안을 찾다) 덩어리로 외운다. solitude(혼자 있음)와 철자가 비슷하지만 어원이 다르다 — solace는 sol-(위로하다, console과 같은 뿌리).",
+      "related": [
+        {
+          "word": "solitude",
+          "ko": "고독, 홀로 있음",
+          "note": "철자 혼동어 — solitude는 sol-(혼자) 계열, solace는 console(위로하다) 계열"
+        },
+        {
+          "word": "console",
+          "ko": "위로하다",
+          "note": "solace와 같은 뿌리의 동사 — 명사 consolation(위로)"
+        }
+      ]
+    },
+    {
+      "headword": "communal",
+      "pos": "a.",
+      "ko": "공동의, 공용의",
+      "example_en": "Residents share a communal kitchen and garden on the ground floor.",
+      "example_ko": "거주자들은 1층의 공용 주방과 정원을 함께 쓴다.",
+      "collocations": [
+        "communal space",
+        "communal living"
+      ],
+      "note": "commune(공동체)에서 온 형용사 — '여럿이 함께 소유·사용하는'. common(흔한; 공통의)과 달리 '흔하다'의 뜻은 없다.",
+      "family": [
+        {
+          "word": "commune",
+          "pos": "n.",
+          "ko": "공동체, 코뮌"
+        },
+        {
+          "word": "community",
+          "pos": "n.",
+          "ko": "지역 사회, 공동체"
+        }
+      ],
+      "related": [
+        {
+          "word": "common",
+          "ko": "흔한; 공통의",
+          "note": "common area(공용 구역)처럼 겹치기도 하지만 communal은 '흔한'이라는 뜻이 없다"
+        }
+      ]
+    },
+    {
+      "headword": "preventive",
+      "pos": "a.",
+      "ko": "예방의, 예방을 위한",
+      "example_en": "The insurer now covers more preventive care, such as annual checkups.",
+      "example_ko": "그 보험사는 이제 연례 건강 검진 같은 예방 의료를 더 많이 보장한다.",
+      "collocations": [
+        "preventive care",
+        "preventive measures"
+      ],
+      "note": "preventive와 preventative는 같은 뜻 — 미국식·공식 문서는 짧은 preventive를 선호한다. pre-(미리) + vent(오다): 오기 '전에' 막는 것.",
+      "family": [
+        {
+          "word": "prevent",
+          "pos": "v.",
+          "ko": "막다, 예방하다"
+        },
+        {
+          "word": "prevention",
+          "pos": "n.",
+          "ko": "예방"
+        }
+      ]
+    },
+    {
+      "headword": "cohesion",
+      "pos": "n.",
+      "ko": "결속, 응집력",
+      "example_en": "Shared public spaces can strengthen social cohesion in diverse neighborhoods.",
+      "example_ko": "공유된 공공 공간은 다양한 사람이 사는 동네의 사회적 결속을 강화할 수 있다.",
+      "collocations": [
+        "social cohesion",
+        "team cohesion"
+      ],
+      "note": "co-(함께) + here(달라붙다) — adhere(들러붙다)와 같은 뿌리. 동사 cohere에서 갈라지는 cohesion(결속)과 coherence(논리적 일관성)의 뜻 차이가 핵심.",
+      "family": [
+        {
+          "word": "cohesive",
+          "pos": "a.",
+          "ko": "결속력 있는"
+        },
+        {
+          "word": "coherent",
+          "pos": "a.",
+          "ko": "(논리가) 일관된 — '결속'이 아님에 주의"
+        },
+        {
+          "word": "coherence",
+          "pos": "n.",
+          "ko": "일관성, 논리 정연함"
+        }
+      ]
+    },
+    {
+      "headword": "cost-effective",
+      "pos": "a.",
+      "ko": "비용 효율적인, 가성비 좋은",
+      "example_en": "Switching to cloud storage proved more cost-effective than maintaining our own servers.",
+      "example_ko": "클라우드 저장소로 바꾸는 것이 자체 서버를 유지하는 것보다 비용 효율적인 것으로 드러났다.",
+      "collocations": [
+        "cost-effective solution",
+        "highly cost-effective"
+      ],
+      "note": "'싸다(cheap)'가 아니라 '들인 돈 대비 효과가 크다'는 뜻 — 비싸도 효과가 크면 cost-effective. 명사형 cost-effectiveness(비용 효율성)는 정책 평가 기사에 자주 나온다.",
+      "family": [
+        {
+          "word": "cost-effectiveness",
+          "pos": "n.",
+          "ko": "비용 효율성"
+        }
+      ],
+      "related": [
+        {
+          "word": "cost-efficient",
+          "ko": "비용 효율적인",
+          "note": "거의 동의어 — cost-efficient는 '낭비 없이 적은 비용으로' 쪽에 무게가 있다"
+        }
+      ]
+    },
+    {
+      "headword": "underserved",
+      "pos": "a.",
+      "ko": "(서비스·혜택을) 충분히 받지 못하는, 소외된",
+      "example_en": "The new clinic will focus on underserved communities with few doctors.",
+      "example_ko": "새 진료소는 의사가 거의 없는 소외 지역 사회에 집중할 것이다.",
+      "collocations": [
+        "underserved communities",
+        "underserved populations"
+      ],
+      "note": "under-(덜, 부족하게) + served(서비스받은) — 의료·교육·금융 기사에서 '취약 계층'을 완곡하게 부르는 단골 표현. under-가 '부족하게'를 더하는 같은 틀: underfunded(예산 부족의)·understaffed(인력 부족의).",
+      "related": [
+        {
+          "word": "underprivileged",
+          "ko": "혜택을 못 받는, 빈곤한",
+          "note": "underprivileged는 '가난한 처지'에, underserved는 '서비스 접근이 부족한 지역·집단'에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "forthright",
+      "pos": "a.",
+      "ko": "솔직한, 단도직입적인",
+      "example_en": "The CEO was forthright about the challenges the company faces next year.",
+      "example_ko": "그 CEO는 회사가 내년에 직면할 어려움에 대해 솔직하게 말했다.",
+      "collocations": [
+        "forthright manner",
+        "be forthright about"
+      ],
+      "note": "forth(앞으로) + right(곧게) — 돌려 말하지 않고 '앞으로 곧장' 말한다. forthcoming(곧 다가올; 협조적인·숨김없는)과 헷갈리기 쉽다.",
+      "related": [
+        {
+          "word": "forthcoming",
+          "ko": "곧 다가올; (정보 제공에) 협조적인",
+          "note": "be forthcoming with information = 정보를 순순히 내놓다 — 사람에 쓰면 forthright와 뜻이 가까워진다"
+        },
+        {
+          "word": "candid",
+          "ko": "솔직한",
+          "note": "candid는 '숨김없이 털어놓는', forthright는 '거침없이 직설적인' 쪽"
+        }
+      ]
+    },
+    {
+      "headword": "renege",
+      "pos": "v.",
+      "ko": "(약속을) 어기다, 번복하다",
+      "example_en": "The supplier reneged on its promise to deliver the parts by Friday.",
+      "example_ko": "그 공급업체는 금요일까지 부품을 납품하겠다는 약속을 어겼다.",
+      "collocations": [
+        "renege on a deal",
+        "renege on a promise"
+      ],
+      "note": "항상 renege on ~ 형태로 쓴다. re-(강조) + negare(부정하다) — deny·negate와 같은 뿌리로, '했던 말을 다시 부정하다'.",
+      "related": [
+        {
+          "word": "back out of",
+          "ko": "~에서 손을 떼다",
+          "note": "구어 동의어 — renege는 약속·합의를 저버린다는 비난 뉘앙스가 더 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "embroil",
+      "pos": "v.",
+      "ko": "(분쟁·곤경에) 휘말리게 하다",
+      "example_en": "The firm has been embroiled in a lengthy legal battle with its former partner.",
+      "example_ko": "그 회사는 이전 파트너와의 긴 법정 다툼에 휘말려 있다.",
+      "collocations": [
+        "be embroiled in a dispute",
+        "embroiled in scandal"
+      ],
+      "note": "주로 수동태 be embroiled in ~(~에 휘말리다)로 쓴다. em-(안으로) + broil(혼란·소동) — 소동 '안으로' 끌려 들어간 그림.",
+      "related": [
+        {
+          "word": "embroider",
+          "ko": "수를 놓다; (이야기를) 과장하다",
+          "note": "철자 혼동어 — 뜻은 전혀 다르다"
+        },
+        {
+          "word": "entangle",
+          "ko": "얽히게 하다",
+          "note": "비슷한 뜻 — entangle은 물리적·복잡한 관계에, embroil은 분쟁·스캔들에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "headway",
+      "pos": "n.",
+      "ko": "진전, 전진",
+      "example_en": "Negotiators made little headway in the first round of talks.",
+      "example_ko": "협상단은 첫 회담에서 거의 진전을 보지 못했다.",
+      "collocations": [
+        "make headway",
+        "make little headway"
+      ],
+      "note": "거의 항상 make headway (in/on/against) 형태. 원래 배가 '앞(head)으로 나아가는 길(way)'에서 왔다 — 역풍 headwind와 한 글자 차이지만 뜻은 정반대 방향.",
+      "related": [
+        {
+          "word": "headwind",
+          "ko": "역풍, 악재",
+          "note": "head- 혼동어 — headwind는 앞을 막는 바람, headway는 앞으로 나아감"
+        }
+      ]
+    },
+    {
+      "headword": "deluge",
+      "pos": "n.",
+      "ko": "폭우, 홍수; (편지·문의 등의) 쇄도",
+      "example_en": "The help desk received a deluge of complaints after the update.",
+      "example_ko": "업데이트 이후 고객 센터에 불만이 쇄도했다.",
+      "collocations": [
+        "a deluge of complaints",
+        "a deluge of applications"
+      ],
+      "note": "de-(아래로) + luere(씻다) — 원래 '쏟아지는 큰물'. 비즈니스·뉴스에선 'a deluge of + 복수명사'로 '감당 못 할 만큼 몰려드는 것'을 비유적으로 쓴다(be deluged with = ~이 쇄도하다).",
+      "related": [
+        {
+          "word": "flood",
+          "ko": "홍수; 쇄도",
+          "note": "같은 비유로 쓰지만 deluge가 더 격식 있고 규모가 압도적인 느낌"
+        }
+      ]
+    }
+  ]
+}
