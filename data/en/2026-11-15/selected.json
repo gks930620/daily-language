@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-15",
+  "words": [
+    {
+      "headword": "spring up",
+      "pos": "phr. v.",
+      "ko": "(갑자기 많이) 생겨나다",
+      "example_en": "Coworking spaces have sprung up across the city as more firms adopt hybrid work.",
+      "example_ko": "더 많은 기업이 혼합 근무를 도입하면서 공유 오피스가 도시 곳곳에 우후죽순 생겨났다.",
+      "collocations": [
+        "spring up everywhere",
+        "spring up overnight"
+      ],
+      "note": "spring은 '튀어 오르다' — 땅에서 새싹이 '툭툭 튀어나오듯' 여기저기 갑자기 생기는 그림. 봄(spring)·샘(spring)·용수철(spring)이 모두 '솟아오르는 것'이라 같은 단어다. 활용은 spring-sprang-sprung.",
+      "related": [
+        {
+          "word": "crop up",
+          "ko": "불쑥 나타나다",
+          "note": "crop up은 문제·일이 예상 밖에 '불쑥' 튀어나올 때, spring up은 가게·건물 등이 '여럿' 생겨날 때 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "prime",
+      "pos": "a.",
+      "ko": "최상의, 주요한",
+      "example_en": "The retailer is willing to pay a premium for prime locations near subway stations.",
+      "example_ko": "그 소매업체는 지하철역 근처의 목 좋은 자리에 웃돈을 낼 의향이 있다.",
+      "collocations": [
+        "prime location",
+        "prime time",
+        "prime suspect"
+      ],
+      "note": "어원: 라틴어 primus(첫째) — '첫째가는' 것이라 '최상의·주요한'. prime minister(첫째 장관=총리), primary(첫째의·기본의), prime number(소수 — 1과 자신 말고는 나눌 수 없는 '근본' 수)가 모두 같은 뿌리.",
+      "family": [
+        {
+          "word": "primary",
+          "pos": "a.",
+          "ko": "주요한; 초등의"
+        },
+        {
+          "word": "primarily",
+          "pos": "ad.",
+          "ko": "주로"
+        },
+        {
+          "word": "prime",
+          "pos": "n.",
+          "ko": "전성기 (in one's prime = 한창때)"
+        }
+      ],
+      "related": [
+        {
+          "word": "premier",
+          "ko": "최고의; 총리",
+          "note": "premier도 같은 '첫째' 뿌리. premiere(초연, 개봉)와 철자·뜻 혼동 주의"
+        }
+      ]
+    },
+    {
+      "headword": "shaky",
+      "pos": "a.",
+      "ko": "불안정한, 근거가 약한",
+      "example_en": "The startup's finances looked shaky after its largest investor pulled out.",
+      "example_ko": "가장 큰 투자자가 빠지자 그 스타트업의 재정은 불안해 보였다.",
+      "collocations": [
+        "on shaky ground",
+        "a shaky start",
+        "shaky evidence"
+      ],
+      "note": "shake(흔들다) + -y(~한 성질의) = '흔들리는'. 손이 떨리는 물리적 의미에서 넓어져, 사업·주장·근거가 '튼튼하지 못하다'는 뜻으로 시사 기사에서 자주 쓰인다. on shaky ground = 근거가 약한 상태.",
+      "family": [
+        {
+          "word": "shake",
+          "pos": "v.",
+          "ko": "흔들다"
+        },
+        {
+          "word": "shakily",
+          "pos": "ad.",
+          "ko": "불안하게, 떨면서"
+        },
+        {
+          "word": "shake-up",
+          "pos": "n.",
+          "ko": "(조직의) 대개편"
+        }
+      ]
+    },
+    {
+      "headword": "booster",
+      "pos": "n.",
+      "ko": "열렬한 지지자; 촉진제; 추가 접종",
+      "example_en": "Boosters of the stadium project promised it would revitalize the downtown area.",
+      "example_ko": "경기장 사업의 지지자들은 그것이 도심을 되살릴 것이라고 장담했다.",
+      "collocations": [
+        "booster shot",
+        "confidence booster"
+      ],
+      "note": "boost(밀어 올리다) + -er(~하는 사람·것). 사람이면 '띄워 주는 사람=지지자', 사물이면 '끌어올리는 것=촉진제', 백신이면 '면역을 다시 끌어올리는 추가 접종'. 기사에서 boosters라고 하면 대개 '낙관만 하던 지지자들'이라는 약간 비판적 뉘앙스다.",
+      "family": [
+        {
+          "word": "boost",
+          "pos": "v./n.",
+          "ko": "끌어올리다; 증가, 활력"
+        },
+        {
+          "word": "boosterism",
+          "pos": "n.",
+          "ko": "(지역·사업에 대한) 과도한 홍보·띄우기"
+        }
+      ],
+      "related": [
+        {
+          "word": "proponent",
+          "ko": "지지자",
+          "note": "proponent는 중립적인 '찬성론자', booster는 '열성적으로 띄우는 사람'이라 과장의 뉘앙스가 있다"
+        }
+      ]
+    },
+    {
+      "headword": "funnel",
+      "pos": "v./n.",
+      "ko": "(한곳으로) 몰아주다, 흘려보내다; 깔때기",
+      "example_en": "Search engines funnel millions of shoppers to a small number of online retailers.",
+      "example_ko": "검색 엔진은 수백만 명의 쇼핑객을 소수의 온라인 소매업체로 몰아준다.",
+      "collocations": [
+        "funnel money into",
+        "funnel customers to",
+        "sales funnel"
+      ],
+      "note": "명사 '깔때기'가 그대로 동사가 됐다 — 넓은 곳의 것을 좁은 한 구멍으로 모아 흘려보내는 그림. 마케팅의 sales funnel(구매 깔때기)은 많은 방문자가 단계마다 줄어 구매자로 좁혀지는 과정을 뜻한다. funnel money into는 돈을 (때로 은밀히) 특정 곳에 쏟아붓는다는 뜻.",
+      "related": [
+        {
+          "word": "channel",
+          "ko": "(돈·노력을) 쏟다, 돌리다",
+          "note": "channel은 '수로로 방향을 잡아 보낸다', funnel은 '넓은 데서 좁은 데로 모은다'는 그림이 더 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "skim",
+      "pos": "v.",
+      "ko": "(위에서) 걷어 내다, 떼어 가다; 훑어보다",
+      "example_en": "The manager was accused of skimming cash from the daily receipts.",
+      "example_ko": "그 관리자는 매일 매출에서 현금을 빼돌린 혐의를 받았다.",
+      "collocations": [
+        "skim off",
+        "skim through",
+        "skim milk"
+      ],
+      "note": "본뜻은 국·우유 위에 뜬 거품·크림을 '살짝 걷어 내다'(skim milk = 크림을 걷어 낸 탈지유). 여기서 두 갈래로 갈린다: ① 돈의 윗부분을 살짝 떼어 가다(수수료·횡령), ② 글의 표면만 살짝 훑다(skim through a report = 대충 훑어 읽다).",
+      "related": [
+        {
+          "word": "scan",
+          "ko": "훑어보다; 정밀 검사하다",
+          "note": "읽기에서 skim은 '전체 요지를 빠르게', scan은 '특정 정보를 찾으려고' 훑는다는 차이"
+        }
+      ]
+    },
+    {
+      "headword": "fold",
+      "pos": "v.",
+      "ko": "(사업이) 망하다, 접다; 접다",
+      "example_en": "The magazine folded after advertisers moved their budgets online.",
+      "example_ko": "광고주들이 예산을 온라인으로 옮기자 그 잡지는 폐간했다.",
+      "collocations": [
+        "fold within a year",
+        "fold under pressure"
+      ],
+      "note": "종이를 '접다' → 가게를 '접다'. 한국어의 '장사를 접다'와 똑같은 비유라 외우기 쉽다. 포커에서 패를 접고 포기하는 것도 fold. 반면 -fold가 숫자에 붙으면 '~배'(a threefold increase = 세 배 증가)라는 전혀 다른 뜻이 된다.",
+      "family": [
+        {
+          "word": "-fold",
+          "pos": "suffix",
+          "ko": "~배 (twofold = 두 배의)"
+        },
+        {
+          "word": "unfold",
+          "pos": "v.",
+          "ko": "펼쳐지다, (사건이) 전개되다"
+        }
+      ],
+      "related": [
+        {
+          "word": "go under",
+          "ko": "파산하다",
+          "note": "fold와 거의 같은 뜻의 구어 표현. go bust도 비슷"
+        }
+      ]
+    },
+    {
+      "headword": "gatekeeper",
+      "pos": "n.",
+      "ko": "문지기, (접근을 통제하는) 관문 역할자",
+      "example_en": "EU regulators have designated the largest app stores as gatekeepers subject to stricter rules.",
+      "example_ko": "EU 규제 당국은 최대 앱 마켓들을 더 엄격한 규칙이 적용되는 '게이트키퍼'로 지정했다.",
+      "collocations": [
+        "act as a gatekeeper",
+        "digital gatekeeper"
+      ],
+      "note": "gate(문) + keeper(지키는 사람). 반독점 기사에서는 '사업자가 고객에게 닿으려면 반드시 거쳐야 하는 플랫폼'을 가리키는 규제 용어다(EU 디지털시장법의 핵심 개념). 의료에서는 전문의 진료 전에 거쳐야 하는 1차 의료의사를 뜻하기도 한다.",
+      "related": [
+        {
+          "word": "middleman",
+          "ko": "중간 상인, 중개인",
+          "note": "middleman은 단순히 '중간에 끼는 자', gatekeeper는 '통과 여부를 결정하는 권력을 가진 자'라는 점이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "clientele",
+      "pos": "n.",
+      "ko": "(집합적) 고객층, 단골손님들",
+      "example_en": "The bistro has built a loyal clientele of office workers from nearby towers.",
+      "example_ko": "그 비스트로는 근처 빌딩의 직장인들로 이루어진 충성 고객층을 구축했다.",
+      "collocations": [
+        "loyal clientele",
+        "wealthy clientele",
+        "attract a clientele"
+      ],
+      "note": "client(고객) + -ele(프랑스어식 집합 접미사) = '고객 전체'. 개별 고객이 아니라 한 가게의 '손님 무리'를 하나로 묶는 집합명사라 a clientele / the clientele로 쓰고, clienteles처럼 복수로 셀 일은 드물다. 발음은 [클라이언텔].",
+      "family": [
+        {
+          "word": "client",
+          "pos": "n.",
+          "ko": "(전문 서비스의) 고객, 의뢰인"
+        }
+      ],
+      "related": [
+        {
+          "word": "customer base",
+          "ko": "고객 기반",
+          "note": "의미는 비슷하지만 customer base는 규모·숫자, clientele는 '어떤 부류의 손님인가'(성격)에 초점"
+        }
+      ]
+    },
+    {
+      "headword": "cannibalize",
+      "pos": "v.",
+      "ko": "(자사 제품끼리) 매출을 잠식하다; 부품을 떼어 쓰다",
+      "example_en": "Launching a cheaper model could cannibalize sales of the company's flagship phone.",
+      "example_ko": "더 싼 모델을 출시하면 그 회사의 주력 휴대폰 판매를 잠식할 수 있다.",
+      "collocations": [
+        "cannibalize sales",
+        "cannibalize existing products"
+      ],
+      "note": "cannibal(식인종 — 같은 종을 잡아먹는 자)에서 나왔다. 경영에서는 '자기 회사 신제품이 자기 회사 기존 제품의 손님을 빼앗는' 제 살 깎아 먹기. 한 주방의 가상 브랜드 여러 개가 서로 손님을 나눠 갖는 것도 바로 이 현상이다. 명사는 cannibalization(카니발리제이션, 자기잠식).",
+      "family": [
+        {
+          "word": "cannibal",
+          "pos": "n.",
+          "ko": "식인종; 동족을 잡아먹는 동물"
+        },
+        {
+          "word": "cannibalization",
+          "pos": "n.",
+          "ko": "자기잠식(효과)"
+        }
+      ]
+    },
+    {
+      "headword": "monopsony",
+      "pos": "n.",
+      "ko": "수요 독점, 구매자 독점",
+      "example_en": "Economists warn that a single dominant buyer can use its monopsony power to push down suppliers' prices.",
+      "example_ko": "경제학자들은 지배적인 단일 구매자가 수요 독점력을 이용해 공급자의 가격을 끌어내릴 수 있다고 경고한다.",
+      "collocations": [
+        "monopsony power",
+        "labor market monopsony"
+      ],
+      "note": "mono(하나) + -opsony(그리스어 opsonia, 사들이기). monopoly는 '파는 쪽이 하나'(-poly = 팔기), monopsony는 '사는 쪽이 하나'다. 고용주가 하나뿐인 탄광 마을처럼, 판매자(노동자·식당)가 대안 없이 한 구매자·플랫폼의 조건을 받아들여야 하는 상황을 말한다.",
+      "related": [
+        {
+          "word": "monopoly",
+          "ko": "(공급) 독점",
+          "note": "monopoly는 판매자가 하나라 소비자 가격이 오르고, monopsony는 구매자가 하나라 공급자(노동자·납품업체)가 받는 값이 내려간다"
+        },
+        {
+          "word": "oligopoly",
+          "ko": "과점",
+          "note": "oligo-(소수) — 판매자가 몇 개뿐인 시장"
+        }
+      ]
+    },
+    {
+      "headword": "bottom line",
+      "pos": "n.",
+      "ko": "순이익, 최종 결산; 핵심, 결론",
+      "example_en": "Rising delivery fees are eating into restaurants' bottom lines.",
+      "example_ko": "오르는 배달 수수료가 식당들의 순이익을 갉아먹고 있다.",
+      "collocations": [
+        "hurt the bottom line",
+        "boost the bottom line",
+        "The bottom line is ~"
+      ],
+      "note": "손익계산서 '맨 아랫줄'에 순이익이 적히는 데서 나왔다(맨 윗줄 top line = 매출). 그래서 '돈으로 따진 최종 결과'이고, 회화에서 The bottom line is ~ 하면 '결론적으로 핵심은 ~'이라는 뜻이 된다.",
+      "related": [
+        {
+          "word": "top line",
+          "ko": "매출(액)",
+          "note": "top-line growth = 매출 성장, bottom-line growth = 이익 성장 — 매출이 늘어도 이익은 줄 수 있다"
+        }
+      ]
+    },
+    {
+      "headword": "perpetual",
+      "pos": "a.",
+      "ko": "끊임없는, 영구적인",
+      "example_en": "Many small businesses live in a perpetual state of cash-flow anxiety.",
+      "example_ko": "많은 소상공인이 끊임없는 현금 흐름 불안 속에 산다.",
+      "collocations": [
+        "perpetual motion",
+        "a perpetual struggle",
+        "perpetual license"
+      ],
+      "note": "per-(끝까지 통과해) + petere(향하다, 추구하다) — 끝까지 계속 이어지는. 영구적이라는 뜻 외에 '지긋지긋하게 계속되는'이라는 불만의 뉘앙스로도 자주 쓴다(his perpetual complaints). 동사 perpetuate는 '(나쁜 것을) 영속시키다'.",
+      "family": [
+        {
+          "word": "perpetuate",
+          "pos": "v.",
+          "ko": "(관행·편견 등을) 영속시키다"
+        },
+        {
+          "word": "perpetually",
+          "pos": "ad.",
+          "ko": "끊임없이"
+        }
+      ],
+      "related": [
+        {
+          "word": "perpetrate",
+          "ko": "(범죄를) 저지르다",
+          "note": "철자가 비슷한 함정 — perpetrate는 '저지르다'로 뜻이 전혀 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "endow",
+      "pos": "v.",
+      "ko": "(기금을) 기부하다; (능력·자질을) 부여하다",
+      "example_en": "A local entrepreneur endowed a scholarship fund for students from low-income families.",
+      "example_ko": "지역의 한 기업가가 저소득층 학생을 위한 장학 기금을 기부해 설립했다.",
+      "collocations": [
+        "endow a chair",
+        "be endowed with",
+        "endowed scholarship"
+      ],
+      "note": "en-(안에 넣다) + dower(지참금) — 재산을 '넣어 주다'. 그래서 학교·재단에 기금을 내는 것(endowment = 기부금, 대학 기금)과, 하늘이 재능을 '넣어 준' 것(be endowed with talent = 재능을 타고나다) 두 갈래로 쓰인다.",
+      "family": [
+        {
+          "word": "endowment",
+          "pos": "n.",
+          "ko": "기부금, (대학 등의) 기금; 타고난 자질"
+        }
+      ],
+      "related": [
+        {
+          "word": "endorse",
+          "ko": "지지하다, (어음에) 배서하다",
+          "note": "앞부분이 같아 헷갈리기 쉬움 — endorse는 '뒤에(dorse=등) 서명하다=지지하다'"
+        }
+      ]
+    },
+    {
+      "headword": "renounce",
+      "pos": "v.",
+      "ko": "(권리·신념 등을) 포기하다, 단념하다",
+      "example_en": "The founder renounced his claim to the company's profits in exchange for a lump-sum payment.",
+      "example_ko": "창업자는 일시금을 받는 대가로 회사 이익에 대한 권리를 포기했다.",
+      "collocations": [
+        "renounce citizenship",
+        "renounce violence",
+        "renounce a claim"
+      ],
+      "note": "re-(뒤로) + nuntiare(알리다) — '되돌려 공표하다', 즉 '이제 안 갖겠다'고 공식 선언하는 것. 그냥 그만두는 give up보다 격식 있고 '공개적·공식적' 포기라는 뉘앙스다(국적 포기, 폭력 포기 선언).",
+      "family": [
+        {
+          "word": "renunciation",
+          "pos": "n.",
+          "ko": "포기, 단념 — 명사형 철자가 renounce-ment가 아님에 주의"
+        }
+      ],
+      "related": [
+        {
+          "word": "denounce",
+          "ko": "공개 비난하다",
+          "note": "de-(아래로) 공표 = 깎아내리다. renounce(내가 포기)와 denounce(남을 비난)는 한 글자 차이로 뜻이 갈린다"
+        },
+        {
+          "word": "announce",
+          "ko": "발표하다",
+          "note": "an-(~에게) 공표 — 같은 뿌리"
+        }
+      ]
+    }
+  ]
+}
