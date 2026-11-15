@@ -4770,6 +4770,51 @@
     },
     "renounce": {
       "added_on": "2026-11-15"
+    },
+    "combustible": {
+      "added_on": "2026-11-16"
+    },
+    "certify": {
+      "added_on": "2026-11-16"
+    },
+    "fatality": {
+      "added_on": "2026-11-16"
+    },
+    "cramped": {
+      "added_on": "2026-11-16"
+    },
+    "faulty": {
+      "added_on": "2026-11-16"
+    },
+    "flout": {
+      "added_on": "2026-11-16"
+    },
+    "inhale": {
+      "added_on": "2026-11-16"
+    },
+    "substandard": {
+      "added_on": "2026-11-16"
+    },
+    "confiscate": {
+      "added_on": "2026-11-16"
+    },
+    "rogue": {
+      "added_on": "2026-11-16"
+    },
+    "fume": {
+      "added_on": "2026-11-16"
+    },
+    "mandatory": {
+      "added_on": "2026-11-16"
+    },
+    "impose": {
+      "added_on": "2026-11-16"
+    },
+    "egregious": {
+      "added_on": "2026-11-16"
+    },
+    "catalyst": {
+      "added_on": "2026-11-16"
     }
   }
 }

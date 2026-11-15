@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-16",
+  "words": [
+    {
+      "headword": "combustible",
+      "pos": "a.",
+      "ko": "불이 잘 붙는, 가연성의",
+      "example_en": "Workers were told to keep combustible materials away from the charging area.",
+      "example_ko": "직원들은 가연성 물질을 충전 구역에서 멀리 두라는 지시를 받았다.",
+      "collocations": [
+        "combustible materials",
+        "highly combustible"
+      ],
+      "note": "어원: com-(완전히) + bust(태우다) — '완전히 타 버릴 수 있는'. combustion engine(내연기관)의 combustion이 '연소'다.",
+      "family": [
+        {
+          "word": "combustion",
+          "pos": "n.",
+          "ko": "연소"
+        },
+        {
+          "word": "combust",
+          "pos": "v.",
+          "ko": "연소하다, 불타다"
+        }
+      ],
+      "related": [
+        {
+          "word": "flammable",
+          "ko": "가연성의",
+          "note": "거의 같은 뜻 — flammable은 불꽃에 '확 붙는' 것, combustible은 '탈 수 있는' 것 전반. inflammable도 '불붙기 쉬운'이지 '불연성'이 아님에 주의"
+        }
+      ]
+    },
+    {
+      "headword": "certify",
+      "pos": "v.",
+      "ko": "(공식적으로) 인증하다, 증명하다",
+      "example_en": "Only chargers certified by an independent lab may be sold in the country.",
+      "example_ko": "독립 시험기관의 인증을 받은 충전기만 국내에서 판매될 수 있다.",
+      "collocations": [
+        "certified by",
+        "certify compliance",
+        "certified public accountant"
+      ],
+      "note": "어원: cert(확실한) + -ify(~하게 만들다) — '확실하다고 만들어 주다'. certain(확실한)과 같은 뿌리. 미국 회계사 CPA의 C가 Certified다.",
+      "family": [
+        {
+          "word": "certificate",
+          "pos": "n.",
+          "ko": "증명서, 자격증"
+        },
+        {
+          "word": "certification",
+          "pos": "n.",
+          "ko": "인증, 자격 취득"
+        },
+        {
+          "word": "uncertified",
+          "pos": "a.",
+          "ko": "인증받지 않은"
+        }
+      ]
+    },
+    {
+      "headword": "fatality",
+      "pos": "n.",
+      "ko": "사망자; (사고로 인한) 죽음",
+      "example_en": "The city recorded eighteen battery-related fatalities last year.",
+      "example_ko": "그 도시는 지난해 배터리 관련 사망자를 18명 기록했다.",
+      "collocations": [
+        "traffic fatalities",
+        "fatality rate"
+      ],
+      "note": "fate(운명) → fatal(치명적인) → fatality(사망자). 뉴스에서는 death 대신 '사고·재해로 인한 사망(자)'을 셀 때 쓰는 공식어다(복수형 fatalities가 '사망자 수').",
+      "family": [
+        {
+          "word": "fatal",
+          "pos": "a.",
+          "ko": "치명적인, 죽음을 초래하는"
+        },
+        {
+          "word": "fate",
+          "pos": "n.",
+          "ko": "운명"
+        }
+      ],
+      "related": [
+        {
+          "word": "casualty",
+          "ko": "사상자",
+          "note": "casualty는 사망+부상을 모두 포함, fatality는 사망만"
+        }
+      ]
+    },
+    {
+      "headword": "cramped",
+      "pos": "a.",
+      "ko": "비좁은, 갑갑한",
+      "example_en": "Many young employees share cramped apartments near the city center to cut costs.",
+      "example_ko": "많은 젊은 직원들이 비용을 줄이려고 도심 근처의 비좁은 아파트를 함께 쓴다.",
+      "collocations": [
+        "cramped conditions",
+        "cramped quarters"
+      ],
+      "note": "cramp는 '쥐(근육 경련)' — 몸이 오그라들 듯 '꽉 끼어 움직일 틈이 없는' 공간이 cramped다. 부동산 광고의 cozy(아늑한)를 냉정하게 번역하면 cramped.",
+      "related": [
+        {
+          "word": "spacious",
+          "ko": "넓은",
+          "note": "반의어 — cramped ↔ spacious"
+        }
+      ]
+    },
+    {
+      "headword": "faulty",
+      "pos": "a.",
+      "ko": "결함이 있는, 불량의",
+      "example_en": "The manufacturer recalled thousands of units because of faulty wiring.",
+      "example_ko": "그 제조사는 결함 있는 배선 때문에 수천 대를 리콜했다.",
+      "collocations": [
+        "faulty wiring",
+        "faulty product",
+        "faulty logic"
+      ],
+      "note": "fault의 두 뜻 — '잘못·책임'(It's my fault)과 '결함'. faulty는 '결함' 쪽(기계·논리), 사람의 잘못을 말할 땐 at fault(책임이 있는)를 쓴다.",
+      "family": [
+        {
+          "word": "fault",
+          "pos": "n.",
+          "ko": "잘못, 책임; 결함; (지질) 단층"
+        },
+        {
+          "word": "faultless",
+          "pos": "a.",
+          "ko": "흠잡을 데 없는"
+        }
+      ],
+      "related": [
+        {
+          "word": "defective",
+          "ko": "결함 있는",
+          "note": "거의 동의어 — defective는 공식·법률 문서(리콜 공지)에, faulty는 일상·기사에 더 흔하다"
+        }
+      ]
+    },
+    {
+      "headword": "flout",
+      "pos": "v.",
+      "ko": "(규칙·법을) 대놓고 무시하다",
+      "example_en": "Some online sellers openly flout import rules by mislabeling their goods.",
+      "example_ko": "일부 온라인 판매자는 상품 표기를 속여 수입 규정을 대놓고 어긴다.",
+      "collocations": [
+        "flout the law",
+        "flout regulations"
+      ],
+      "note": "혼동어 주의: flout(규칙을 무시하다) vs flaunt(과시하다). 원어민도 헷갈린다 — 'flaunt the rules'는 흔한 오용. flout에는 '들키든 말든 상관없다'는 뻔뻔함의 뉘앙스가 있다.",
+      "related": [
+        {
+          "word": "flaunt",
+          "ko": "과시하다",
+          "note": "철자가 비슷해 혼동 — flaunt one's wealth(부를 과시하다)"
+        },
+        {
+          "word": "violate",
+          "ko": "위반하다",
+          "note": "중립적 '위반', flout는 '대놓고·고의로' 위반"
+        }
+      ]
+    },
+    {
+      "headword": "inhale",
+      "pos": "v.",
+      "ko": "(숨·연기를) 들이마시다",
+      "example_en": "Most fire victims die not from burns but from inhaling toxic smoke.",
+      "example_ko": "화재 희생자 대부분은 화상이 아니라 유독한 연기를 들이마셔 사망한다.",
+      "collocations": [
+        "inhale smoke",
+        "inhale deeply"
+      ],
+      "note": "in(안으로) + hale(숨 쉬다) ↔ ex(밖으로) + hale = exhale(내쉬다). 천식 환자의 흡입기 inhaler도 같은 말.",
+      "family": [
+        {
+          "word": "inhalation",
+          "pos": "n.",
+          "ko": "흡입 — smoke inhalation(연기 흡입)"
+        },
+        {
+          "word": "inhaler",
+          "pos": "n.",
+          "ko": "흡입기"
+        },
+        {
+          "word": "exhale",
+          "pos": "v.",
+          "ko": "(숨을) 내쉬다"
+        }
+      ]
+    },
+    {
+      "headword": "substandard",
+      "pos": "a.",
+      "ko": "기준 미달의, 수준 이하의",
+      "example_en": "Inspectors found that a third of the imported chargers were substandard.",
+      "example_ko": "검사관들은 수입 충전기의 3분의 1이 기준 미달이라는 것을 발견했다.",
+      "collocations": [
+        "substandard housing",
+        "substandard goods"
+      ],
+      "note": "sub-(아래) + standard(기준) = '기준 아래'. sub-가 붙으면 '아래·하위' — subway(지하철), submarine(잠수함), subordinate(부하).",
+      "related": [
+        {
+          "word": "inferior",
+          "ko": "열등한, 질 낮은",
+          "note": "inferior는 다른 것과 비교해 '못한', substandard는 정해진 '기준에 못 미치는'"
+        }
+      ]
+    },
+    {
+      "headword": "confiscate",
+      "pos": "v.",
+      "ko": "압수하다, 몰수하다",
+      "example_en": "Customs officers confiscated thousands of counterfeit batteries at the port.",
+      "example_ko": "세관원들이 항구에서 위조 배터리 수천 개를 압수했다.",
+      "collocations": [
+        "confiscate goods",
+        "confiscate a passport"
+      ],
+      "note": "어원: con-(함께) + fiscus(국고, 돈 바구니) — '국고에 함께 넣다'. fiscal(재정의)과 같은 뿌리라, 원래 '나라가 빼앗아 간다'는 뜻이다.",
+      "family": [
+        {
+          "word": "confiscation",
+          "pos": "n.",
+          "ko": "압수, 몰수"
+        }
+      ],
+      "related": [
+        {
+          "word": "seize",
+          "ko": "압수하다; 붙잡다",
+          "note": "seize가 더 일반적·넓은 말, confiscate는 '권한을 가진 기관이 빼앗는' 공식적 뉘앙스"
+        }
+      ]
+    },
+    {
+      "headword": "rogue",
+      "pos": "a.",
+      "ko": "(규칙을 벗어난) 불량한, 제멋대로인",
+      "example_en": "Regulators are struggling to track down rogue sellers who reappear under new names.",
+      "example_ko": "규제 당국은 새 이름으로 다시 나타나는 불량 판매자들을 추적하는 데 애를 먹고 있다.",
+      "collocations": [
+        "rogue state",
+        "rogue trader",
+        "go rogue"
+      ],
+      "note": "원래 명사로 '건달, 악당'. 형용사로는 '조직·규칙의 통제를 벗어난' — rogue state(불량 국가), go rogue(독자 행동에 나서다)가 뉴스 단골.",
+      "related": [
+        {
+          "word": "rouge",
+          "ko": "(화장품) 볼연지, 붉은색",
+          "note": "철자 o-u 순서만 다른 혼동어 — rogue[로우그] vs rouge[루즈]"
+        }
+      ]
+    },
+    {
+      "headword": "fume",
+      "pos": "n.",
+      "ko": "(유해한) 가스, 연기 (보통 fumes)",
+      "example_en": "The fumes from the burning battery forced residents to evacuate the building.",
+      "example_ko": "타는 배터리에서 나온 유독 가스 때문에 주민들은 건물에서 대피해야 했다.",
+      "collocations": [
+        "toxic fumes",
+        "exhaust fumes",
+        "running on fumes"
+      ],
+      "note": "동사로는 '(화가 나서) 씩씩대다' — 머리에서 연기가 나는 이미지. running on fumes는 '기름이 바닥나 가스만으로 달리다' → '기력·돈이 바닥난 상태'.",
+      "family": [
+        {
+          "word": "fume",
+          "pos": "v.",
+          "ko": "(화가 나서) 씩씩대다; 연기를 내뿜다"
+        },
+        {
+          "word": "fumigate",
+          "pos": "v.",
+          "ko": "훈증 소독하다"
+        }
+      ]
+    },
+    {
+      "headword": "mandatory",
+      "pos": "a.",
+      "ko": "의무적인, 강제적인",
+      "example_en": "Safety training is mandatory for all new delivery staff.",
+      "example_ko": "모든 신규 배달 직원은 안전 교육을 의무적으로 받아야 한다.",
+      "collocations": [
+        "mandatory retirement",
+        "mandatory testing",
+        "make it mandatory"
+      ],
+      "note": "mandate(명령·권한)의 형용사. 반의어는 optional / voluntary. 토익에서 'attendance is mandatory(참석 필수)'가 공지문 단골 표현이다.",
+      "family": [
+        {
+          "word": "mandate",
+          "pos": "n./v.",
+          "ko": "명령, 권한; 의무화하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "compulsory",
+          "ko": "의무적인",
+          "note": "거의 동의어 — compulsory는 교육·병역 등 '법으로 강제', mandatory는 규정·절차의 '필수'에 더 넓게"
+        },
+        {
+          "word": "optional",
+          "ko": "선택적인",
+          "note": "반의어"
+        }
+      ]
+    },
+    {
+      "headword": "impose",
+      "pos": "v.",
+      "ko": "(세금·규제·벌을) 부과하다, 강요하다",
+      "example_en": "The government plans to impose heavy fines on platforms that sell unsafe products.",
+      "example_ko": "정부는 안전하지 않은 제품을 판매하는 플랫폼에 무거운 벌금을 부과할 계획이다.",
+      "collocations": [
+        "impose a tax on",
+        "impose restrictions",
+        "impose a fine"
+      ],
+      "note": "im-(위에) + pose(놓다) — '위에 얹어 놓다' → 부담을 지우다. 형용사 imposing은 '부과하는'이 아니라 '위압적인, 웅장한'으로 뜻이 갈라진다.",
+      "family": [
+        {
+          "word": "imposition",
+          "pos": "n.",
+          "ko": "부과; 폐, 부담"
+        },
+        {
+          "word": "imposing",
+          "pos": "a.",
+          "ko": "위압적인, 웅장한 — '부과하는'이 아님에 주의"
+        }
+      ],
+      "related": [
+        {
+          "word": "impose on",
+          "ko": "~에게 폐를 끼치다",
+          "note": "I don't want to impose on you(신세 지고 싶지 않아요) — 회화 표현"
+        }
+      ]
+    },
+    {
+      "headword": "egregious",
+      "pos": "a.",
+      "ko": "어처구니없는, (잘못이) 지독한",
+      "example_en": "The court called the company's failure to warn customers an egregious breach of duty.",
+      "example_ko": "법원은 그 회사가 고객에게 경고하지 않은 것을 지독한 의무 위반이라고 했다.",
+      "collocations": [
+        "egregious error",
+        "egregious violation"
+      ],
+      "note": "어원: e-(밖으로) + greg(무리) — '무리 밖으로 튀어나온'. 원래는 '뛰어난'이었으나 지금은 '나쁜 쪽으로 눈에 띄게' 심한 것에만 쓴다. gregarious(무리를 좋아하는=사교적인)와 같은 뿌리.",
+      "related": [
+        {
+          "word": "gregarious",
+          "ko": "사교적인",
+          "note": "같은 어근 greg(무리) — 무리 안으로(gregarious) vs 무리 밖으로(egregious)"
+        }
+      ]
+    },
+    {
+      "headword": "catalyst",
+      "pos": "n.",
+      "ko": "촉매; (변화의) 계기, 기폭제",
+      "example_en": "The deadly fire became a catalyst for stricter battery regulations.",
+      "example_ko": "그 참사가 더 엄격한 배터리 규제의 계기가 되었다.",
+      "collocations": [
+        "a catalyst for change",
+        "act as a catalyst"
+      ],
+      "note": "화학의 '촉매'(자신은 변하지 않고 반응만 빠르게 함)에서 → '변화를 일으키는 계기'로 확장. 시사 기사에서는 거의 'a catalyst for + 변화' 형태로 나온다.",
+      "family": [
+        {
+          "word": "catalyze",
+          "pos": "v.",
+          "ko": "촉진하다, 촉매 작용을 하다"
+        },
+        {
+          "word": "catalytic",
+          "pos": "a.",
+          "ko": "촉매의 — catalytic converter(촉매 변환기)"
+        }
+      ]
+    }
+  ]
+}
