@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-19",
+  "words": [
+    {
+      "headword": "rollout",
+      "pos": "n.",
+      "ko": "(제품·제도의) 본격 도입, 출시",
+      "example_en": "The nationwide rollout of the new payment app has been delayed until next spring.",
+      "example_ko": "새 결제 앱의 전국 출시는 내년 봄으로 연기되었다.",
+      "collocations": [
+        "a nationwide rollout",
+        "a phased rollout"
+      ],
+      "note": "동사구 roll out(굴려서 펼치다 → 내놓다)이 한 단어 명사가 된 것. launch가 '첫 공개'의 순간이라면 rollout은 지역·단계별로 '퍼져 나가는' 과정에 초점.",
+      "family": [
+        {
+          "word": "roll out",
+          "pos": "v.",
+          "ko": "출시하다, 도입하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "launch",
+          "ko": "출시, 개시",
+          "note": "launch는 시작 시점 한 번, rollout은 확산되는 과정 전체 — 'a phased rollout(단계적 도입)'은 자연스럽지만 phased launch는 어색"
+        }
+      ]
+    },
+    {
+      "headword": "tepid",
+      "pos": "a.",
+      "ko": "미지근한; 시큰둥한, 열의 없는",
+      "example_en": "Investors gave the merger proposal a tepid reception, and the share price barely moved.",
+      "example_ko": "투자자들은 합병 제안에 시큰둥한 반응을 보였고, 주가는 거의 움직이지 않았다.",
+      "collocations": [
+        "a tepid response",
+        "tepid demand",
+        "tepid growth"
+      ],
+      "note": "원래 '미지근한 물'이라는 온도 단어인데, 시사 영어에선 거의 항상 반응·수요·성장이 '뜨뜻미지근하다'는 비유로 쓴다. lukewarm과 완전히 같은 비유 구조.",
+      "related": [
+        {
+          "word": "lukewarm",
+          "ko": "미지근한, 미온적인",
+          "note": "동의어 — 회화에선 lukewarm, 기사 문체에선 tepid가 더 자주 보인다"
+        },
+        {
+          "word": "torpid",
+          "ko": "무기력한",
+          "note": "철자가 비슷한 혼동어 — 온도가 아니라 '움직임이 둔한' 상태"
+        }
+      ]
+    },
+    {
+      "headword": "programmable",
+      "pos": "a.",
+      "ko": "프로그래밍 가능한, 조건을 미리 설정할 수 있는",
+      "example_en": "A programmable thermostat lets you lower the heating automatically while you are at work.",
+      "example_ko": "프로그래밍이 가능한 온도 조절기는 출근해 있는 동안 자동으로 난방을 낮춰 준다.",
+      "collocations": [
+        "programmable money",
+        "a programmable thermostat"
+      ],
+      "note": "-able은 '~될 수 있는'(수동 가능). programmable money는 '사용처·기한을 코드로 정해 둘 수 있는 돈' — 지역화폐처럼 '이 가게에서만, 이 날짜까지'가 가능해진다는 점이 CBDC 감시 논쟁의 핵심.",
+      "family": [
+        {
+          "word": "program",
+          "pos": "v.",
+          "ko": "프로그래밍하다, 설정하다"
+        },
+        {
+          "word": "programmer",
+          "pos": "n.",
+          "ko": "프로그래머"
+        }
+      ]
+    },
+    {
+      "headword": "pseudonymous",
+      "pos": "a.",
+      "ko": "가명의, 필명의",
+      "example_en": "Most cryptocurrency transactions are pseudonymous rather than truly anonymous.",
+      "example_ko": "대부분의 암호화폐 거래는 진정한 익명이라기보다는 가명 상태다.",
+      "collocations": [
+        "pseudonymous accounts",
+        "a pseudonymous author"
+      ],
+      "note": "어원: pseudo-(가짜의) + onym(이름). an-onym-ous는 '이름이 없음', pseud-onym-ous는 '가짜 이름이 있음' — 실명은 숨겨도 같은 ID로 추적은 가능하다는 차이가 핵심.",
+      "family": [
+        {
+          "word": "pseudonym",
+          "pos": "n.",
+          "ko": "가명, 필명"
+        },
+        {
+          "word": "pseudoscience",
+          "pos": "n.",
+          "ko": "사이비 과학"
+        }
+      ],
+      "related": [
+        {
+          "word": "anonymous",
+          "ko": "익명의",
+          "note": "anonymous = 이름 자체가 없음, pseudonymous = 가짜 이름으로 연결은 됨"
+        }
+      ]
+    },
+    {
+      "headword": "cap",
+      "pos": "v.",
+      "ko": "상한을 두다, 제한하다",
+      "example_en": "The city has capped rent increases at three percent a year.",
+      "example_ko": "시는 임대료 인상률을 연 3퍼센트로 상한을 정했다.",
+      "collocations": [
+        "cap A at B",
+        "a price cap",
+        "capped at"
+      ],
+      "note": "명사 cap(모자)이 '맨 위를 덮는다' → '위쪽 한도를 씌운다'. 숫자와 함께 cap A at B(A를 B로 묶다) 형태로 쓰는 것을 통째로 외워 두면 토익 Part 5·7에서 바로 풀린다.",
+      "related": [
+        {
+          "word": "ceiling",
+          "ko": "상한, 한도",
+          "note": "명사 동의어 — a price cap = a price ceiling. 반대는 floor(하한)"
+        }
+      ]
+    },
+    {
+      "headword": "holdings",
+      "pos": "n.",
+      "ko": "보유 자산, 보유량(주식·채권·현금 등)",
+      "example_en": "The fund reduced its holdings of government bonds last quarter.",
+      "example_ko": "그 펀드는 지난 분기에 국채 보유량을 줄였다.",
+      "collocations": [
+        "holdings of A",
+        "foreign-currency holdings"
+      ],
+      "note": "hold(쥐고 있다) + -ing의 복수형이 '쥐고 있는 것들 = 보유 자산'. 단수 holding은 '지분', 그리고 holding company는 '지주회사' — 형태에 따라 뜻이 갈린다.",
+      "family": [
+        {
+          "word": "holding",
+          "pos": "n.",
+          "ko": "(단수) 보유 지분"
+        },
+        {
+          "word": "holding company",
+          "pos": "n.",
+          "ko": "지주회사"
+        },
+        {
+          "word": "holder",
+          "pos": "n.",
+          "ko": "보유자, 소지자"
+        }
+      ]
+    },
+    {
+      "headword": "bank run",
+      "pos": "n.",
+      "ko": "뱅크런, 예금 대량 인출 사태",
+      "example_en": "Rumors on social media sparked a bank run that emptied the lender's reserves in two days.",
+      "example_ko": "소셜 미디어의 소문이 뱅크런을 촉발해 그 은행의 준비금이 이틀 만에 바닥났다.",
+      "collocations": [
+        "trigger a bank run",
+        "prevent a bank run"
+      ],
+      "note": "run은 여기서 '(돈을 찾으러) 우르르 몰려가기'. a run on + 명사(a run on the dollar, a run on toilet paper)는 '~에 대한 사재기·인출 쇄도'로 뱅크런 외에도 쓰인다.",
+      "related": [
+        {
+          "word": "run on",
+          "ko": "~의 사재기, 인출 쇄도",
+          "note": "a run on the bank = bank run. 물건에도 씀: a run on masks"
+        }
+      ]
+    },
+    {
+      "headword": "pilot",
+      "pos": "v.",
+      "ko": "시범 운영하다",
+      "example_en": "The company will pilot the four-day week in two branches before deciding whether to expand it.",
+      "example_ko": "회사는 확대 여부를 결정하기 전에 두 지점에서 주 4일제를 시범 운영할 것이다.",
+      "collocations": [
+        "pilot a program",
+        "a pilot scheme",
+        "a pilot project"
+      ],
+      "note": "'조종사'에서 '앞장서 길을 터 보다' → '시범 운영'. 명사 앞에 붙은 pilot(a pilot project)도 '조종사 사업'이 아니라 '시범 사업' — 토익 빈출.",
+      "family": [
+        {
+          "word": "pilot",
+          "pos": "n.",
+          "ko": "조종사; 시범(용)"
+        }
+      ]
+    },
+    {
+      "headword": "dystopian",
+      "pos": "a.",
+      "ko": "디스토피아적인, 암울한 미래상의",
+      "example_en": "Critics painted a dystopian picture of cities where every movement is tracked by cameras.",
+      "example_ko": "비판론자들은 모든 움직임이 카메라로 추적되는 도시라는 암울한 그림을 그렸다.",
+      "collocations": [
+        "a dystopian future",
+        "a dystopian scenario"
+      ],
+      "note": "utopia(u-없는 + topos 장소 = 어디에도 없는 이상향)에 dys-(나쁜)를 붙인 반대말. dys-는 dysfunction(기능 장애)·dyslexia(난독증)처럼 '비정상·나쁨'을 뜻한다.",
+      "family": [
+        {
+          "word": "dystopia",
+          "pos": "n.",
+          "ko": "디스토피아, 반(反)이상향"
+        }
+      ],
+      "related": [
+        {
+          "word": "utopian",
+          "ko": "이상향의; 비현실적인",
+          "note": "반의어 — utopian은 '공상적이라 비현실적'이라는 비판적 뉘앙스로도 자주 쓰임"
+        }
+      ]
+    },
+    {
+      "headword": "far-fetched",
+      "pos": "a.",
+      "ko": "억지스러운, 믿기 어려운",
+      "example_en": "The idea that a single tweet could crash the market no longer seems far-fetched.",
+      "example_ko": "트윗 하나가 시장을 무너뜨릴 수 있다는 생각은 더 이상 억지스러워 보이지 않는다.",
+      "collocations": [
+        "sound far-fetched",
+        "a far-fetched claim"
+      ],
+      "note": "글자 그대로 '멀리서(far) 끌어온(fetched)' — 근거를 너무 먼 데서 억지로 끌어왔다는 이미지. 반대로 'not so far-fetched'는 '생각보다 그럴듯한'이라는 관용 표현.",
+      "related": [
+        {
+          "word": "implausible",
+          "ko": "믿기 어려운",
+          "note": "격식체 동의어 — far-fetched는 '억지로 갖다 붙였다'는 뉘앙스가 더 강하다"
+        }
+      ]
+    },
+    {
+      "headword": "staunch",
+      "pos": "a.",
+      "ko": "완강한, 확고한, 충실한",
+      "example_en": "She has been a staunch supporter of free trade throughout her career.",
+      "example_ko": "그녀는 경력 내내 자유무역의 확고한 지지자였다.",
+      "collocations": [
+        "a staunch supporter",
+        "a staunch critic",
+        "staunch opposition"
+      ],
+      "note": "어원: '(새는 것을) 막아 단단히 하다' → 흔들림 없이 굳건한. 지지자·반대자·동맹(ally) 앞에 붙어 '골수~'의 뜻. 동사 staunch(지혈하다/손실을 막다)도 같은 뿌리.",
+      "related": [
+        {
+          "word": "stanch",
+          "ko": "(피·손실을) 막다",
+          "note": "동사형 철자 — stanch the bleeding / stanch losses. 미국 영어에선 staunch로도 씀"
+        }
+      ]
+    },
+    {
+      "headword": "vehement",
+      "pos": "a.",
+      "ko": "격렬한, 열렬한",
+      "example_en": "The proposal to close the hospital met with vehement opposition from local residents.",
+      "example_ko": "병원 폐쇄안은 지역 주민들의 격렬한 반대에 부딪혔다.",
+      "collocations": [
+        "vehement opposition",
+        "a vehement denial"
+      ],
+      "note": "강세는 첫음절 VEE-uh-ment(h 묵음). 감정의 '세기'를 말하는 단어라 찬성·반대 양쪽에 쓰이며, 부사 vehemently deny(강력히 부인하다)가 기사 빈출.",
+      "family": [
+        {
+          "word": "vehemently",
+          "pos": "ad.",
+          "ko": "격렬하게, 강력히"
+        },
+        {
+          "word": "vehemence",
+          "pos": "n.",
+          "ko": "격렬함"
+        }
+      ]
+    },
+    {
+      "headword": "fend off",
+      "pos": "v.",
+      "ko": "막아 내다, 물리치다",
+      "example_en": "Local bookstores are struggling to fend off competition from online retailers.",
+      "example_ko": "동네 서점들은 온라인 판매업체와의 경쟁을 막아 내느라 애쓰고 있다.",
+      "collocations": [
+        "fend off competition",
+        "fend off a takeover bid",
+        "fend off criticism"
+      ],
+      "note": "fend는 defend의 앞부분이 떨어져 나온 말 — '방어해서 떼어 놓다(off)'. 반면 fend for oneself는 '혼자 힘으로 꾸려 가다'로 뜻이 전혀 다르니 전치사에 주의.",
+      "related": [
+        {
+          "word": "fend for oneself",
+          "ko": "자립하다, 스스로 꾸려 가다",
+          "note": "같은 fend지만 for가 붙으면 '방어'가 아니라 '자립'"
+        },
+        {
+          "word": "ward off",
+          "ko": "피하다, 막다",
+          "note": "유사 표현 — ward off는 질병·위험을 '미리 막는' 데, fend off는 다가오는 공격·경쟁을 '쳐내는' 데 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "stablecoin",
+      "pos": "n.",
+      "ko": "스테이블코인(법정화폐 등에 가치를 고정한 암호화폐)",
+      "example_en": "Regulators worry that a large stablecoin could collapse if its reserves turn out to be insufficient.",
+      "example_ko": "규제 당국은 준비금이 부족한 것으로 드러나면 대형 스테이블코인이 붕괴할 수 있다고 우려한다.",
+      "collocations": [
+        "a dollar-backed stablecoin",
+        "stablecoin issuers"
+      ],
+      "note": "stable(안정적인) + coin. 가격이 널뛰는 비트코인과 달리 '1코인 = 1달러'를 약속하는 것이 핵심 — 그래서 그 약속을 뒷받침할 준비금(reserves)이 늘 논쟁거리다.",
+      "family": [
+        {
+          "word": "stable",
+          "pos": "a.",
+          "ko": "안정된"
+        },
+        {
+          "word": "stabilize",
+          "pos": "v.",
+          "ko": "안정시키다"
+        },
+        {
+          "word": "stability",
+          "pos": "n.",
+          "ko": "안정(성)"
+        }
+      ]
+    },
+    {
+      "headword": "peg",
+      "pos": "v.",
+      "ko": "(가치·환율을) 고정시키다, 연동하다",
+      "example_en": "Hong Kong has pegged its currency to the US dollar since 1983.",
+      "example_ko": "홍콩은 1983년부터 자국 통화를 미국 달러에 고정해 왔다.",
+      "collocations": [
+        "peg A to B",
+        "a currency peg",
+        "break the peg"
+      ],
+      "note": "peg는 원래 '나무 못·말뚝' — 말뚝에 줄을 묶듯 A를 B에 '박아 고정'한다. 고정이 무너지는 것을 'break/lose its peg', 디페깅(depeg)이라 한다.",
+      "family": [
+        {
+          "word": "peg",
+          "pos": "n.",
+          "ko": "말뚝, 걸이; (환율) 고정"
+        },
+        {
+          "word": "depeg",
+          "pos": "v.",
+          "ko": "고정이 풀리다, 연동이 깨지다"
+        }
+      ]
+    }
+  ]
+}
