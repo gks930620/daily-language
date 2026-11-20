@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-11-20",
+  "passage_note": "과학·식품 — 요란하게 등장한 배양육(실험실 고기)이 단위당 경제성의 벽과 일부 농업 주(州)의 판매 금지·명칭 규제에 부딪힌 현실, 그리고 '실패가 아니라 첫걸음'이라는 반론(해설 기사)",
+  "sentences": [
+    {
+      "en": "A decade ago, cultivated meat arrived with considerable fanfare, as visionaries promised burgers grown from a handful of animal stem cells in steel bioreactors rather than on sprawling ranches.",
+      "ko": "10년 전 배양육은 상당한 팡파르 속에 등장했다. 선구자들은 드넓은 목장이 아니라 강철 생물 반응기 안에서, 한 줌의 동물 줄기세포로 키운 버거를 약속했다.",
+      "structure": "· as visionaries promised ~ : 접속사 as가 이끄는 부사절 — '~하면서/~한 가운데'(동시 상황).\n· grown from ~ : 과거분사구가 burgers를 뒤에서 수식(= burgers that are grown from ~).\n· in steel bioreactors rather than on sprawling ranches : A rather than B — 두 전치사구(in ~ / on ~)를 대비해 병렬.",
+      "vocab_notes": [
+        { "word": "decade", "ko": "10년" },
+        { "word": "cultivated meat", "ko": "배양육(세포를 키워 만든 고기)" },
+        { "word": "arrive", "ko": "등장하다, 도착하다" },
+        { "word": "considerable", "ko": "상당한" },
+        { "word": "fanfare", "ko": "팡파르; 요란한 홍보" },
+        { "word": "visionary", "ko": "선구자, 비전을 가진 사람" },
+        { "word": "promise", "ko": "약속하다" },
+        { "word": "a handful of", "ko": "한 줌의, 소수의" },
+        { "word": "stem cell", "ko": "줄기세포" },
+        { "word": "steel", "ko": "강철" },
+        { "word": "bioreactor", "ko": "생물 반응기(세포 배양 탱크)" },
+        { "word": "rather than", "ko": "~보다는, ~ 대신" },
+        { "word": "sprawling", "ko": "넓게 뻗은, 드넓은" },
+        { "word": "ranch", "ko": "(대규모) 목장" }
+      ]
+    },
+    {
+      "en": "Yet the industry's lofty ambitions have collided with stubborn unit economics: growing cells at scale requires sterile conditions and costly nutrient serum, and no company has come close to the price of conventional chicken.",
+      "ko": "그러나 이 산업의 원대한 야망은 좀처럼 개선되지 않는 단위당 경제성과 정면으로 부딪혔다. 세포를 대규모로 키우려면 무균 환경과 값비싼 영양 혈청이 필요하고, 일반 닭고기 가격에 근접한 회사는 한 곳도 없다.",
+      "structure": "· have collided / has come close : 현재완료 — 과거에 시작된 일이 지금까지 이어진 결과(결과·계속 용법).\n· 콜론(:) 뒤 문장이 앞의 'stubborn unit economics'를 구체적으로 풀어 설명한다.\n· growing cells at scale : 동명사구 주어 → 단수 취급이라 동사가 requires.",
+      "vocab_notes": [
+        { "word": "yet", "ko": "그러나" },
+        { "word": "lofty", "ko": "높은, 원대한" },
+        { "word": "ambition", "ko": "야망, 포부" },
+        { "word": "collide with", "ko": "~와 충돌하다, 부딪히다" },
+        { "word": "stubborn", "ko": "완고한; 좀처럼 바뀌지 않는" },
+        { "word": "unit economics", "ko": "단위당 경제성(1개당 손익)" },
+        { "word": "at scale", "ko": "대규모로" },
+        { "word": "require", "ko": "필요로 하다" },
+        { "word": "sterile", "ko": "무균의, 살균한" },
+        { "word": "condition", "ko": "환경, 조건" },
+        { "word": "costly", "ko": "값비싼" },
+        { "word": "nutrient", "ko": "영양분" },
+        { "word": "serum", "ko": "혈청" },
+        { "word": "come close to", "ko": "~에 근접하다" },
+        { "word": "conventional", "ko": "기존의, 재래식의, 일반적인" }
+      ]
+    },
+    {
+      "en": "As several high-profile startups have floundered or quietly shelved their plans to commercialize, detractors have been quick to dismiss the entire venture as a debacle funded by naive investors.",
+      "ko": "주목받던 스타트업 여러 곳이 휘청거리거나 상용화 계획을 조용히 보류하자, 비판자들은 이 사업 전체를 순진한 투자자들이 돈을 댄 대실패로 서둘러 치부했다.",
+      "structure": "· As ~ : 이유·때를 나타내는 부사절('~하자, ~하면서').\n· have floundered or (have) quietly shelved : have에 걸리는 두 과거분사가 or로 병렬.\n· plans to commercialize : to부정사의 형용사적 용법 — plans를 뒤에서 수식.\n· dismiss A as B : 'A를 B로 치부하다'. funded by ~ 는 과거분사구로 debacle을 후치수식.",
+      "vocab_notes": [
+        { "word": "several", "ko": "몇몇의, 여러" },
+        { "word": "high-profile", "ko": "세간의 주목을 받는" },
+        { "word": "startup", "ko": "신생 기업, 스타트업" },
+        { "word": "flounder", "ko": "허우적대다, 고전하다" },
+        { "word": "quietly", "ko": "조용히" },
+        { "word": "shelve", "ko": "보류하다" },
+        { "word": "commercialize", "ko": "상용화하다" },
+        { "word": "detractor", "ko": "비판자, 깎아내리는 사람" },
+        { "word": "be quick to", "ko": "서둘러 ~하다, 재빨리 ~하다" },
+        { "word": "dismiss A as B", "ko": "A를 B로 일축하다·치부하다" },
+        { "word": "entire", "ko": "전체의" },
+        { "word": "venture", "ko": "모험적 사업, 벤처" },
+        { "word": "debacle", "ko": "대실패, 큰 낭패" },
+        { "word": "fund", "ko": "자금을 대다" },
+        { "word": "naive", "ko": "순진한, 세상 물정 모르는" },
+        { "word": "investor", "ko": "투자자" }
+      ]
+    },
+    {
+      "en": "Meanwhile, lawmakers in several agrarian states, eager to protect ranchers and the powerful agribusiness lobby, have moved to ban the products outright or to police their nomenclature, forbidding the word “meat” on labels.",
+      "ko": "한편 농업 중심 주(州) 몇 곳의 의원들은 목장주들과 막강한 농업 기업 로비 집단을 보호하려고, 이 제품의 판매를 전면 금지하거나 명칭을 단속해 라벨에 '고기'라는 단어를 쓰지 못하게 하는 조치에 나섰다.",
+      "structure": "· eager to protect ~ : 주어 lawmakers와 동사 have moved 사이에 삽입된 형용사구(앞에 being이 생략된 분사구문으로 볼 수 있음) — '~하기를 열망하여'.\n· move to A or to B : to부정사 두 개가 or로 병렬('A하거나 B하는 조치에 나서다').\n· forbidding ~ : 분사구문(부대상황) — 앞의 police their nomenclature가 구체적으로 무엇인지 덧붙인다.",
+      "vocab_notes": [
+        { "word": "meanwhile", "ko": "한편" },
+        { "word": "lawmaker", "ko": "입법자, 의원" },
+        { "word": "agrarian", "ko": "농업의, 농업 중심의" },
+        { "word": "state", "ko": "(미국의) 주" },
+        { "word": "eager to", "ko": "~하기를 열망하는" },
+        { "word": "protect", "ko": "보호하다" },
+        { "word": "rancher", "ko": "목장주" },
+        { "word": "powerful", "ko": "막강한, 영향력 있는" },
+        { "word": "agribusiness", "ko": "농업 관련 산업, 기업농" },
+        { "word": "lobby", "ko": "로비 단체, 압력 집단" },
+        { "word": "move to", "ko": "~하는 조치에 나서다" },
+        { "word": "ban", "ko": "금지하다" },
+        { "word": "outright", "ko": "전면적으로, 완전히" },
+        { "word": "police", "ko": "단속하다, 감시하다(동사)" },
+        { "word": "nomenclature", "ko": "명칭, 명명법" },
+        { "word": "forbid", "ko": "금지하다" },
+        { "word": "label", "ko": "라벨, 표시" }
+      ]
+    },
+    {
+      "en": "Such bans may further dampen investment, yet supporters insist the technical hurdles, though formidable, are far from insurmountable, and that the industry's modest culinary forays into high-end restaurants are a sensible first step rather than a sign of failure.",
+      "ko": "이런 금지 조치는 투자를 더 위축시킬 수 있다. 그러나 지지자들은 기술적 장벽이 만만찮긴 해도 결코 넘을 수 없는 것은 아니며, 이 산업이 고급 레스토랑으로 조심스럽게 진출한 것은 실패의 징후가 아니라 합리적인 첫걸음이라고 주장한다.",
+      "structure": "· insist (that) A, and that B : insist의 목적어인 명사절 두 개가 and로 병렬 — 첫 that은 생략, 둘째 that은 병렬을 분명히 하려고 살려 둠. 여기서 insist는 '사실이라고 주장하다'라서 should/동사원형(가정법 현재)을 쓰지 않는다.\n· though formidable = though (they are) formidable : 부사절의 '주어+be동사' 생략.\n· far from + 형용사 = '결코 ~하지 않은'(부정의 의미).\n· A rather than B : 'B가 아니라 A'.",
+      "vocab_notes": [
+        { "word": "such", "ko": "그러한, 이런" },
+        { "word": "further", "ko": "더욱, 한층 더" },
+        { "word": "dampen", "ko": "약화시키다, 위축시키다" },
+        { "word": "investment", "ko": "투자" },
+        { "word": "supporter", "ko": "지지자" },
+        { "word": "insist", "ko": "주장하다, 고집하다" },
+        { "word": "technical", "ko": "기술적인" },
+        { "word": "hurdle", "ko": "장벽, 장애물" },
+        { "word": "formidable", "ko": "만만찮은, 가공할" },
+        { "word": "far from", "ko": "결코 ~이 아닌" },
+        { "word": "insurmountable", "ko": "극복할 수 없는" },
+        { "word": "modest", "ko": "적당한, 소박한, 크지 않은" },
+        { "word": "culinary", "ko": "요리의" },
+        { "word": "foray into", "ko": "~로의 진출·시도" },
+        { "word": "high-end", "ko": "고급의" },
+        { "word": "sensible", "ko": "합리적인, 분별 있는" },
+        { "word": "first step", "ko": "첫걸음" },
+        { "word": "sign of failure", "ko": "실패의 징후" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "bioreactor",
+      "pos": "n.",
+      "ko": "생물 반응기(세포·미생물 배양 탱크)",
+      "example_en": "The startup plans to build a 20,000-liter bioreactor to grow cells at commercial scale.",
+      "example_ko": "그 스타트업은 세포를 상업적 규모로 키우기 위해 2만 리터급 생물 반응기를 지을 계획이다.",
+      "collocations": ["industrial bioreactor", "bioreactor capacity"],
+      "note": "bio-(생명) + react(반응하다) + -or(장치) = '생명 반응을 일으키는 기계'. -or는 사람(actor)뿐 아니라 장치에도 붙는다 — reactor(원자로), processor(처리 장치).",
+      "related": [
+        { "word": "reactor", "ko": "원자로; 반응기", "note": "bio-가 빠지면 보통 '원자로(nuclear reactor)'를 뜻한다 — 뉴스에서 혼동 주의" }
+      ]
+    },
+    {
+      "headword": "stem cell",
+      "pos": "n.",
+      "ko": "줄기세포",
+      "example_en": "Researchers extracted stem cells from a small tissue sample taken from a living cow.",
+      "example_ko": "연구진은 살아 있는 소에게서 떼어 낸 작은 조직 샘플에서 줄기세포를 추출했다.",
+      "collocations": ["stem cell research", "stem cell therapy"],
+      "note": "stem = 나무의 '줄기'. 줄기에서 가지가 뻗어 나가듯, 근육·지방·혈액 등 여러 세포로 분화하는 '뿌리 세포'라는 이미지로 외운다.",
+      "related": [
+        { "word": "stem from", "ko": "~에서 비롯되다", "note": "같은 '줄기' 이미지의 동사 — 문제가 원인이라는 줄기에서 자라 나온다(The delay stems from a parts shortage)" }
+      ]
+    },
+    {
+      "headword": "serum",
+      "pos": "n.",
+      "ko": "혈청; (화장품) 세럼",
+      "example_en": "Many labs still rely on expensive animal serum to feed growing cells.",
+      "example_ko": "많은 연구실이 자라는 세포에 영양을 주기 위해 여전히 값비싼 동물 혈청에 의존한다.",
+      "collocations": ["fetal bovine serum", "serum-free medium"],
+      "note": "라틴어로 '유청(우유에서 굳은 것을 빼고 남은 맑은 액체)'. 피에서 혈구를 걸러 낸 맑은 액체가 혈청 — 화장품의 '세럼(맑은 농축액)'과 같은 단어다. 복수형은 serums 또는 sera."
+    },
+    {
+      "headword": "commercialize",
+      "pos": "v.",
+      "ko": "상용화하다, 상업화하다",
+      "example_en": "The company hopes to commercialize its battery technology within five years.",
+      "example_ko": "그 회사는 5년 안에 자사 배터리 기술을 상용화하기를 바란다.",
+      "collocations": ["commercialize a technology", "commercialize a product"],
+      "note": "commerce(상거래) → commercial(상업의) + -ize(~화하다). 명사 commercial은 'TV·라디오 광고 방송'이라는 뜻도 있어 토익 듣기에 자주 나온다.",
+      "family": [
+        { "word": "commerce", "pos": "n.", "ko": "상거래, 상업" },
+        { "word": "commercial", "pos": "a./n.", "ko": "상업의; 광고 방송" },
+        { "word": "commercialization", "pos": "n.", "ko": "상용화, 상업화" }
+      ]
+    },
+    {
+      "headword": "unit economics",
+      "pos": "n.",
+      "ko": "단위당 경제성(제품·고객 1개당 수익과 비용)",
+      "example_en": "Investors grew wary once the unit economics of the delivery service failed to improve.",
+      "example_ko": "그 배달 서비스의 단위당 경제성이 개선되지 않자 투자자들은 경계하기 시작했다.",
+      "collocations": ["poor unit economics", "improve unit economics"],
+      "note": "'1개(unit)' 기준으로 따진 손익. 매출이 아무리 늘어도 하나 팔 때마다 손해라면 unit economics가 나쁜 것 — 많이 팔수록 적자가 커진다. 스타트업 기사 단골 표현.",
+      "related": [
+        { "word": "economical", "ko": "절약하는, 알뜰한", "note": "economic(경제의) vs economical(돈이 적게 드는) — 뜻이 다르다. an economical car = 연비 좋은 차" }
+      ]
+    },
+    {
+      "headword": "rancher",
+      "pos": "n.",
+      "ko": "목장주, 목장 경영자",
+      "example_en": "Cattle ranchers fear that cheaper alternatives could erode beef prices.",
+      "example_ko": "소 목장주들은 더 싼 대체품이 소고기 가격을 갉아먹을까 봐 두려워한다.",
+      "collocations": ["cattle rancher", "family rancher"],
+      "note": "ranch는 스페인어 rancho(오두막)에서 왔다. farm이 농장 일반이라면 ranch는 주로 소·말을 풀어 키우는 넓은 '방목 목장' — 미국 서부 이미지.",
+      "family": [
+        { "word": "ranch", "pos": "n./v.", "ko": "목장; 목장을 경영하다" },
+        { "word": "ranching", "pos": "n.", "ko": "목장 경영, 목축업" }
+      ]
+    },
+    {
+      "headword": "agrarian",
+      "pos": "a.",
+      "ko": "농업의, 농지의, 농업 중심의",
+      "example_en": "The country's agrarian economy depends heavily on rice exports.",
+      "example_ko": "그 나라의 농업 중심 경제는 쌀 수출에 크게 의존한다.",
+      "collocations": ["agrarian reform", "agrarian society"],
+      "note": "agr-는 라틴어 ager(밭) — agriculture(밭을 경작함)와 같은 뿌리. agrarian은 '농업 중심 사회·토지 제도'라는 사회·정치적 뉘앙스, agricultural은 농업 생산·기술 자체에 쓴다.",
+      "related": [
+        { "word": "agricultural", "ko": "농업의", "note": "agricultural machinery(농기계)처럼 생산·기술 쪽; agrarian reform(농지 개혁)처럼 사회·제도 쪽은 agrarian" }
+      ]
+    },
+    {
+      "headword": "culinary",
+      "pos": "a.",
+      "ko": "요리의, 음식의",
+      "example_en": "She enrolled in a culinary school after ten years in banking.",
+      "example_ko": "그녀는 은행에서 10년을 일한 뒤 요리 학교에 입학했다.",
+      "collocations": ["culinary arts", "culinary skills", "culinary tourism"],
+      "note": "라틴어 culina(부엌)에서 — 이 말이 cucina를 거쳐 kitchen이 됐다. 즉 culinary = 'kitchen의'. 발음은 [kʌ́lənèri]로 '컬리너리'."
+    },
+    {
+      "headword": "nomenclature",
+      "pos": "n.",
+      "ko": "명명법, 명칭 체계",
+      "example_en": "The dispute over product nomenclature delayed the launch by several months.",
+      "example_ko": "제품 명칭을 둘러싼 분쟁 탓에 출시가 몇 달 늦어졌다.",
+      "collocations": ["scientific nomenclature", "product nomenclature"],
+      "note": "nomen(이름) + calare(부르다) = '이름을 부르는 체계'. nominate(이름을 올리다=지명하다), nominal(이름뿐인), noun(명사)도 모두 nomen(이름) 뿌리.",
+      "related": [
+        { "word": "terminology", "ko": "용어", "note": "terminology는 한 분야에서 쓰는 단어들의 모음, nomenclature는 대상에 이름을 붙이는 규칙·체계" }
+      ]
+    },
+    {
+      "headword": "agribusiness",
+      "pos": "n.",
+      "ko": "농업 관련 산업, 기업농",
+      "example_en": "Global agribusiness firms control much of the world's grain trade.",
+      "example_ko": "글로벌 농업 기업들이 세계 곡물 무역의 상당 부분을 장악하고 있다.",
+      "collocations": ["agribusiness giant", "agribusiness lobby"],
+      "note": "agri(culture) + business 합성어. 종자·비료·사료부터 가공·유통까지 아우르는 '농업의 대기업화'를 가리킨다 — 소농(smallholder)과 대비되는 말.",
+      "family": [
+        { "word": "agriculture", "pos": "n.", "ko": "농업" },
+        { "word": "agricultural", "pos": "a.", "ko": "농업의" }
+      ]
+    },
+    {
+      "headword": "insurmountable",
+      "pos": "a.",
+      "ko": "극복할 수 없는, 넘을 수 없는",
+      "example_en": "The merger faced what seemed like insurmountable regulatory obstacles.",
+      "example_ko": "그 합병은 넘을 수 없을 것처럼 보이는 규제 장벽에 부딪혔다.",
+      "collocations": ["insurmountable obstacle", "insurmountable odds"],
+      "note": "in-(not) + sur-(위로) + mount(산, 오르다) + -able = '위로 올라 넘을 수 없는'. 장애물을 '산'으로 상상하면 바로 외워진다.",
+      "family": [
+        { "word": "surmount", "pos": "v.", "ko": "극복하다, (산을) 넘다" },
+        { "word": "surmountable", "pos": "a.", "ko": "극복할 수 있는" }
+      ]
+    },
+    {
+      "headword": "flounder",
+      "pos": "v.",
+      "ko": "허우적대다, 고전하다, 갈팡질팡하다",
+      "example_en": "Sales floundered after the company lost its biggest client.",
+      "example_ko": "가장 큰 고객을 잃은 뒤 그 회사의 매출은 휘청거렸다.",
+      "collocations": ["floundering economy", "flounder in the market"],
+      "note": "물에 빠져 허우적대는 모습 — 아직 가라앉진 않았지만 버둥대는 상태. 명사 flounder는 '가자미'라는 전혀 다른 뜻도 있다.",
+      "related": [
+        { "word": "founder", "ko": "(배가) 침몰하다; (계획이) 실패하다", "note": "l 하나 차이 — founder는 완전히 가라앉아 실패, flounder는 허우적대며 고전. 명사 founder(창립자)와도 구별" }
+      ]
+    },
+    {
+      "headword": "foray",
+      "pos": "n.",
+      "ko": "(새 분야로의) 진출, 시도",
+      "example_en": "The automaker's first foray into electric trucks was a modest success.",
+      "example_ko": "그 자동차 회사의 첫 전기 트럭 시장 진출은 그럭저럭 성공적이었다.",
+      "collocations": ["foray into", "first foray", "brief foray"],
+      "note": "원래 '약탈하러 적진에 기습 출격하는 것' — 지금은 '낯선 분야에 한번 뛰어들어 보는 시도'. 거의 항상 foray into ~ 형태로 쓴다.",
+      "related": [
+        { "word": "venture", "ko": "모험적 사업; 감히 ~하다", "note": "venture는 위험을 감수한 사업 전체, foray는 새 영역으로의 (비교적 짧은) 첫 진출" }
+      ]
+    },
+    {
+      "headword": "lofty",
+      "pos": "a.",
+      "ko": "높은; 원대한, 고상한",
+      "example_en": "The CEO set lofty targets that few analysts found realistic.",
+      "example_ko": "그 CEO는 현실적이라고 보는 분석가가 거의 없는 원대한 목표를 세웠다.",
+      "collocations": ["lofty goals", "lofty ambitions", "lofty ideals"],
+      "note": "loft(다락, 높은 곳) + -y. 칭찬 같지만 시사 기사에선 '너무 높아 비현실적'이라는 비꼼이 자주 섞인다 — lofty promises는 대개 지켜지지 않은 약속.",
+      "family": [
+        { "word": "loft", "pos": "n.", "ko": "다락; (공장을 개조한) 높은 층 공간" }
+      ]
+    },
+    {
+      "headword": "fanfare",
+      "pos": "n.",
+      "ko": "팡파르; 요란한 홍보·환영",
+      "example_en": "The app was launched with great fanfare but lost most of its users within a year.",
+      "example_ko": "그 앱은 요란하게 출시됐지만 1년 안에 사용자 대부분을 잃었다.",
+      "collocations": ["with much fanfare", "without fanfare"],
+      "note": "with fanfare(요란하게) ↔ without fanfare / with little fanfare(조용히, 소리소문없이) 쌍으로 외운다. 기사에서 '요란한 출발 → 초라한 결말' 구조의 단골 도입부."
+    },
+    {
+      "headword": "dampen",
+      "pos": "v.",
+      "ko": "약화시키다, (열기를) 꺾다; 축축하게 하다",
+      "example_en": "Rising interest rates dampened demand for new homes.",
+      "example_ko": "금리 상승이 신규 주택 수요를 위축시켰다.",
+      "collocations": ["dampen demand", "dampen enthusiasm", "dampen spirits"],
+      "note": "damp(축축한) + -en(~하게 하다). 타는 불에 젖은 담요를 덮듯 열기·기세를 식힌다는 이미지 — 수요·기대·분위기에 붙는다.",
+      "family": [
+        { "word": "damp", "pos": "a.", "ko": "축축한, 습기 찬" },
+        { "word": "damper", "pos": "n.", "ko": "찬물 끼얹는 것 — put a damper on ~에 찬물을 끼얹다" }
+      ]
+    },
+    {
+      "headword": "detractor",
+      "pos": "n.",
+      "ko": "비판자, 헐뜯는 사람",
+      "example_en": "Even the product's detractors admit that its design is impressive.",
+      "example_ko": "그 제품을 비판하는 사람들조차 디자인이 인상적이라는 건 인정한다.",
+      "collocations": ["critics and detractors", "supporters and detractors"],
+      "note": "de-(아래로) + tract(끌다) + -or = 평판을 '끌어내리는' 사람. attract(끌어당기다), distract(딴 데로 끌다), contract와 같은 tract(끌다) 뿌리.",
+      "family": [
+        { "word": "detract", "pos": "v.", "ko": "(from) ~의 가치를 떨어뜨리다" }
+      ],
+      "related": [
+        { "word": "distract", "ko": "주의를 딴 데로 돌리다", "note": "dis-(떨어져)로 '주의를 다른 데로 끌다' — detract(가치를 깎다)와 철자가 비슷해 혼동 주의" }
+      ]
+    },
+    {
+      "headword": "debacle",
+      "pos": "n.",
+      "ko": "대실패, 큰 낭패",
+      "example_en": "The botched product launch turned into a public relations debacle.",
+      "example_ko": "엉망으로 치러진 제품 출시는 홍보 참사로 번졌다.",
+      "collocations": ["PR debacle", "financial debacle"],
+      "note": "프랑스어 débâcle(얼어붙은 강의 얼음이 한꺼번에 깨져 쏟아짐)에서 — 와르르 무너지는 공개적·굴욕적 실패. failure보다 훨씬 강하다. 발음 [deibɑ́ːkl] '데이바클'."
+    }
+  ]
+}

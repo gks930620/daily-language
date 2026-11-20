@@ -872,6 +872,14 @@
       "content_sha256": "ec2daad8bded1bc07ad5f92aa632bbf7f5bf2a53289f346217a74d8cbd0d540f",
       "notes": [],
       "built_at": "2026-11-19T00:06:57.885Z"
+    },
+    "2026-11-20": {
+      "prepared_at": "2026-11-20T00:22:37.403Z",
+      "settled": true,
+      "settled_at": "2026-11-20T00:25:43.811Z",
+      "content_sha256": "f081b13951390538864dd9689f71595008c0edc0ca027d6dc0907e67189612db",
+      "notes": [],
+      "built_at": "2026-11-20T00:25:43.943Z"
     }
   }
 }
