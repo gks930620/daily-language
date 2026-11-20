@@ -4950,6 +4950,51 @@
     },
     "fanfare": {
       "added_on": "2026-11-20"
+    },
+    "resort": {
+      "added_on": "2026-11-21"
+    },
+    "precipitation": {
+      "added_on": "2026-11-21"
+    },
+    "elevation": {
+      "added_on": "2026-11-21"
+    },
+    "thaw": {
+      "added_on": "2026-11-21"
+    },
+    "unseasonably": {
+      "added_on": "2026-11-21"
+    },
+    "seasonality": {
+      "added_on": "2026-11-21"
+    },
+    "hemorrhage": {
+      "added_on": "2026-11-21"
+    },
+    "stave off": {
+      "added_on": "2026-11-21"
+    },
+    "diversify": {
+      "added_on": "2026-11-21"
+    },
+    "futile": {
+      "added_on": "2026-11-21"
+    },
+    "detract": {
+      "added_on": "2026-11-21"
+    },
+    "outlast": {
+      "added_on": "2026-11-21"
+    },
+    "foreseeable": {
+      "added_on": "2026-11-21"
+    },
+    "relocate": {
+      "added_on": "2026-11-21"
+    },
+    "downturn": {
+      "added_on": "2026-11-21"
     }
   }
 }

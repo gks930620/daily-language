@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-21",
+  "words": [
+    {
+      "headword": "resort",
+      "pos": "n./v.",
+      "ko": "휴양지, 리조트; (resort to) 의지하다, (부득이) 손을 쓰다",
+      "example_en": "The company resorted to layoffs only after every other cost-cutting measure had failed.",
+      "example_ko": "그 회사는 다른 모든 비용 절감책이 실패한 뒤에야 정리해고에 의존했다.",
+      "collocations": [
+        "ski resort",
+        "resort to violence",
+        "as a last resort"
+      ],
+      "note": "re-(다시) + sortir(나가다) — '자꾸 찾아 나가는 곳'이 휴양지, 궁지에서 '다시 찾아가는 수단'이 resort to. as a last resort(최후의 수단으로)는 시사·토익 빈출.",
+      "related": [
+        {
+          "word": "result",
+          "ko": "결과",
+          "note": "철자가 비슷하지만 무관한 단어 — resort to(~에 의존하다)와 result in(~을 낳다)을 헷갈리지 말 것"
+        }
+      ]
+    },
+    {
+      "headword": "precipitation",
+      "pos": "n.",
+      "ko": "강수(량); 성급함",
+      "example_en": "Annual precipitation in the region has fallen by nearly a fifth over the past thirty years.",
+      "example_ko": "그 지역의 연간 강수량은 지난 30년 동안 거의 5분의 1이 줄었다.",
+      "collocations": [
+        "heavy precipitation",
+        "annual precipitation"
+      ],
+      "note": "precipitate는 '거꾸로(머리부터) 떨어뜨리다'(pre- 앞 + caput 머리) — 하늘에서 떨어지는 비·눈이 precipitation. 같은 뿌리의 precipitous는 '가파른, 급격한'.",
+      "family": [
+        {
+          "word": "precipitate",
+          "pos": "v.",
+          "ko": "(위기를) 촉발하다, 앞당기다"
+        },
+        {
+          "word": "precipitous",
+          "pos": "a.",
+          "ko": "가파른, 급격한"
+        }
+      ]
+    },
+    {
+      "headword": "elevation",
+      "pos": "n.",
+      "ko": "고도, 해발; 승격",
+      "example_en": "Resorts at higher elevations have so far escaped the worst effects of warmer winters.",
+      "example_ko": "고도가 더 높은 리조트들은 지금까지는 따뜻해진 겨울의 최악의 영향을 피해 왔다.",
+      "collocations": [
+        "at high elevations",
+        "elevation gain"
+      ],
+      "note": "e-(밖·위로) + lev(들어 올리다) — elevator(올리는 장치)와 같은 뿌리. lever(지렛대)·relieve(다시 들어 올리다=덜어 주다)도 lev 계열.",
+      "family": [
+        {
+          "word": "elevate",
+          "pos": "v.",
+          "ko": "들어 올리다, 높이다"
+        },
+        {
+          "word": "elevated",
+          "pos": "a.",
+          "ko": "높아진, (수치가) 높은"
+        }
+      ],
+      "related": [
+        {
+          "word": "altitude",
+          "ko": "고도",
+          "note": "altitude는 주로 비행기·하늘의 높이, elevation은 땅(산·도시)의 해발 높이에 자주 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "thaw",
+      "pos": "v./n.",
+      "ko": "녹다, 해동하다; (관계의) 해빙",
+      "example_en": "The meeting signaled a thaw in relations between the two rival companies.",
+      "example_ko": "그 회담은 경쟁하던 두 회사 관계의 해빙을 알리는 신호였다.",
+      "collocations": [
+        "a thaw in relations",
+        "thaw out"
+      ],
+      "note": "melt가 열에 '녹아 없어지는' 것이라면, thaw는 얼어 있던 것이 '풀려 원래 상태로 돌아오는' 것 — 그래서 냉동식품 해동, 외교 관계의 '해빙'에 thaw를 쓴다. 반대는 freeze.",
+      "related": [
+        {
+          "word": "melt",
+          "ko": "녹다",
+          "note": "thaw는 '얼음이 풀리다', melt는 '고체가 액체로 녹다' — 관계의 해빙은 melt가 아니라 thaw"
+        }
+      ]
+    },
+    {
+      "headword": "unseasonably",
+      "pos": "ad.",
+      "ko": "철에 맞지 않게, 때아니게",
+      "example_en": "Unseasonably warm weather in December forced several resorts to delay their opening.",
+      "example_ko": "12월의 때아닌 따뜻한 날씨 때문에 여러 리조트가 개장을 미뤄야 했다.",
+      "collocations": [
+        "unseasonably warm",
+        "unseasonably cold"
+      ],
+      "note": "un- + season(계절) + -able + -ly — '계절에 어울리지 않게'. 날씨 기사에서 거의 warm/cold/mild 앞에만 붙는 고정 표현이라 덩어리로 외우면 된다.",
+      "family": [
+        {
+          "word": "seasonable",
+          "pos": "a.",
+          "ko": "계절에 맞는"
+        },
+        {
+          "word": "seasonal",
+          "pos": "a.",
+          "ko": "계절적인, 계절에 따른 — seasonable과 뜻이 다름"
+        }
+      ]
+    },
+    {
+      "headword": "seasonality",
+      "pos": "n.",
+      "ko": "계절성, 계절에 따른 변동",
+      "example_en": "The strong seasonality of tourism makes it hard for small hotels to keep staff all year round.",
+      "example_ko": "관광업의 뚜렷한 계절성 때문에 작은 호텔들은 1년 내내 직원을 유지하기 어렵다.",
+      "collocations": [
+        "strong seasonality",
+        "adjust for seasonality"
+      ],
+      "note": "-ity는 형용사(seasonal)를 '성질·정도' 명사로 바꾼다(seasonal → seasonality). 경제 지표의 '계절 조정(seasonally adjusted)'과 함께 토익·경제 기사 단골.",
+      "family": [
+        {
+          "word": "seasonal",
+          "pos": "a.",
+          "ko": "계절적인"
+        },
+        {
+          "word": "seasonally adjusted",
+          "pos": "a.",
+          "ko": "계절 조정된(통계)"
+        }
+      ]
+    },
+    {
+      "headword": "hemorrhage",
+      "pos": "v./n.",
+      "ko": "(돈·인력을) 대량으로 잃다; 출혈",
+      "example_en": "The airline continued to hemorrhage cash as fuel prices climbed.",
+      "example_ko": "연료 가격이 오르면서 그 항공사는 계속해서 현금을 대량으로 잃었다.",
+      "collocations": [
+        "hemorrhage money",
+        "hemorrhage jobs"
+      ],
+      "note": "hemo-(피) + rrhage(터져 흐름) = 출혈. 의학 용어가 경제 기사로 넘어와 '피가 쏟아지듯 돈·인재가 빠져나가다'라는 비유로 쓰인다. hemo-는 hemoglobin(혈색소)의 그 '피'.",
+      "related": [
+        {
+          "word": "bleed",
+          "ko": "피를 흘리다; 돈을 잃다",
+          "note": "bleed money도 같은 비유 — hemorrhage가 더 격하고 대량"
+        }
+      ]
+    },
+    {
+      "headword": "stave off",
+      "pos": "phr. v.",
+      "ko": "(위기·불행을) 막다, 당분간 늦추다",
+      "example_en": "The emergency loan helped the town stave off bankruptcy for another year.",
+      "example_ko": "긴급 대출 덕분에 그 도시는 1년 더 파산을 막을 수 있었다.",
+      "collocations": [
+        "stave off bankruptcy",
+        "stave off a crisis"
+      ],
+      "note": "stave는 '막대기' — 막대기로 다가오는 짐승을 밀어내던 데서 왔다. 그래서 '완전히 없애다'가 아니라 '일단 밀어내 시간을 번다'는 뉘앙스가 핵심.",
+      "related": [
+        {
+          "word": "ward off",
+          "ko": "피하다, 막다",
+          "note": "거의 동의어 — ward off는 병·액운을 '물리치다', stave off는 임박한 위기를 '늦추다'에 잘 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "diversify",
+      "pos": "v.",
+      "ko": "다각화하다, 다양화하다",
+      "example_en": "Investors are advised to diversify their portfolios to reduce risk.",
+      "example_ko": "투자자들은 위험을 줄이기 위해 포트폴리오를 분산하라는 조언을 받는다.",
+      "collocations": [
+        "diversify into",
+        "diversify a portfolio"
+      ],
+      "note": "di-(따로) + vert(돌리다) — '여러 방향으로 돌리다'. divert(딴 데로 돌리다)와 같은 뿌리. 경영에선 diversify into(신사업으로), 투자에선 '분산투자하다'.",
+      "family": [
+        {
+          "word": "diversification",
+          "pos": "n.",
+          "ko": "다각화, 분산"
+        },
+        {
+          "word": "diverse",
+          "pos": "a.",
+          "ko": "다양한"
+        },
+        {
+          "word": "diversity",
+          "pos": "n.",
+          "ko": "다양성"
+        }
+      ]
+    },
+    {
+      "headword": "futile",
+      "pos": "a.",
+      "ko": "헛된, 소용없는",
+      "example_en": "Further negotiations seemed futile once the union had voted to strike.",
+      "example_ko": "노조가 파업을 결의하자 더 이상의 협상은 소용없어 보였다.",
+      "collocations": [
+        "a futile attempt",
+        "prove futile"
+      ],
+      "note": "라틴어 futilis는 '물이 새는(그릇)' — 아무리 부어도 남지 않는 노력. 발음 [퓨-틀/퓨-타일]; future(미래)와 철자는 닮았지만 무관하다.",
+      "family": [
+        {
+          "word": "futility",
+          "pos": "n.",
+          "ko": "헛됨, 무익함"
+        }
+      ],
+      "related": [
+        {
+          "word": "fertile",
+          "ko": "비옥한",
+          "note": "철자 혼동 주의 — fertile(열매를 맺는)은 futile(아무것도 안 남는)과 정반대 이미지"
+        }
+      ]
+    },
+    {
+      "headword": "detract",
+      "pos": "v.",
+      "ko": "(가치를) 떨어뜨리다, 손상하다(detract from)",
+      "example_en": "The noisy construction next door detracted from the hotel's appeal.",
+      "example_ko": "옆 건물의 시끄러운 공사가 그 호텔의 매력을 떨어뜨렸다.",
+      "collocations": [
+        "detract from"
+      ],
+      "note": "de-(아래로·떨어져) + tract(끌다) — 가치를 '끌어내리다'. 같은 tract 계열의 distract는 dis-(따로) '주의를 딴 데로 끌다'로 뜻이 갈라진다.",
+      "related": [
+        {
+          "word": "distract",
+          "ko": "주의를 흐트러뜨리다",
+          "note": "detract from은 '가치 손상', distract from은 '주의 분산' — 전치사까지 같아 혼동이 잦다"
+        }
+      ]
+    },
+    {
+      "headword": "outlast",
+      "pos": "v.",
+      "ko": "~보다 오래가다/버티다",
+      "example_en": "The family-run shop has outlasted three larger competitors on the same street.",
+      "example_ko": "그 가족 운영 가게는 같은 거리의 더 큰 경쟁업체 세 곳보다 오래 살아남았다.",
+      "collocations": [
+        "outlast the competition",
+        "outlast its usefulness"
+      ],
+      "note": "out- + 동사 = '~보다 더 …하다'(outlast·outlive·outsell). 비교 대상이 바로 목적어로 온다는 점이 핵심 — outlast A = A보다 오래 버티다.",
+      "related": [
+        {
+          "word": "outlive",
+          "ko": "~보다 오래 살다",
+          "note": "outlive는 생명·수명, outlast는 물건·조직·상황의 지속에 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "foreseeable",
+      "pos": "a.",
+      "ko": "예측할 수 있는",
+      "example_en": "Interest rates are expected to stay high for the foreseeable future.",
+      "example_ko": "금리는 당분간 높은 수준을 유지할 것으로 예상된다.",
+      "collocations": [
+        "in the foreseeable future",
+        "for the foreseeable future",
+        "foreseeable risk"
+      ],
+      "note": "fore-(미리) + see + -able. for the foreseeable future는 '앞으로 상당 기간 계속', in the foreseeable future는 부정문과 함께 '가까운 시일 안에는 (~않다)'로 쓰여 뉘앙스가 다르다.",
+      "family": [
+        {
+          "word": "foresee",
+          "pos": "v.",
+          "ko": "예견하다"
+        },
+        {
+          "word": "unforeseen",
+          "pos": "a.",
+          "ko": "예기치 못한"
+        },
+        {
+          "word": "foresight",
+          "pos": "n.",
+          "ko": "선견지명"
+        }
+      ]
+    },
+    {
+      "headword": "relocate",
+      "pos": "v.",
+      "ko": "이전하다, 이전시키다",
+      "example_en": "The firm plans to relocate its headquarters to a city with lower taxes.",
+      "example_ko": "그 회사는 세금이 더 낮은 도시로 본사를 이전할 계획이다.",
+      "collocations": [
+        "relocate headquarters",
+        "relocate to"
+      ],
+      "note": "re-(다시) + locate(자리를 정하다) — '자리를 새로 잡다'. 토익에서 사무실·공장 이전, 직원 전근(relocation package: 이전 지원금) 맥락의 단골.",
+      "family": [
+        {
+          "word": "relocation",
+          "pos": "n.",
+          "ko": "이전, 이주"
+        },
+        {
+          "word": "locate",
+          "pos": "v.",
+          "ko": "위치를 찾다; 위치시키다"
+        }
+      ]
+    },
+    {
+      "headword": "downturn",
+      "pos": "n.",
+      "ko": "(경기) 침체, 하락",
+      "example_en": "Luxury hotels were hit hardest during the economic downturn.",
+      "example_ko": "경기 침체기에 고급 호텔들이 가장 큰 타격을 입었다.",
+      "collocations": [
+        "economic downturn",
+        "a sharp downturn"
+      ],
+      "note": "turn down(아래로 돌다)을 명사로 뒤집은 형태 — 반대는 upturn(호전). recession(공식적 경기 후퇴)보다 넓고 가벼운 '하락세' 전반에 쓴다.",
+      "related": [
+        {
+          "word": "upturn",
+          "ko": "호전, 상승",
+          "note": "반의어 — an upturn in sales(매출 회복)"
+        }
+      ]
+    }
+  ]
+}
