@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-22",
+  "words": [
+    {
+      "headword": "paywall",
+      "pos": "n.",
+      "ko": "유료 장벽(돈을 내야 열리는 콘텐츠·기능)",
+      "example_en": "Most of the newspaper's investigative reports now sit behind a paywall.",
+      "example_ko": "그 신문의 탐사 보도 대부분은 이제 유료 장벽 뒤에 있다.",
+      "collocations": [
+        "behind a paywall",
+        "put up a paywall",
+        "hard paywall"
+      ],
+      "note": "pay(돈 내다) + wall(벽) — 돈을 내야 넘을 수 있는 벽. 원래 유료 기사에서 시작해 지금은 앱·기기 기능을 잠그는 데까지 쓰인다. 전치사는 항상 behind(~ 뒤에)와 짝.",
+      "related": [
+        {
+          "word": "freemium",
+          "ko": "부분 유료화",
+          "note": "free + premium — 기본은 공짜, 고급 기능에 paywall을 거는 사업 모델"
+        }
+      ]
+    },
+    {
+      "headword": "latent",
+      "pos": "a.",
+      "ko": "잠재된, 숨어 있는",
+      "example_en": "The survey revealed strong latent demand for affordable childcare in the region.",
+      "example_ko": "그 조사는 그 지역에 저렴한 보육에 대한 강한 잠재 수요가 있음을 드러냈다.",
+      "collocations": [
+        "latent demand",
+        "latent potential",
+        "latent infection"
+      ],
+      "note": "라틴어 latere(숨다)에서 — '이미 있지만 아직 겉으로 드러나지 않은' 것. potential(앞으로 될 수 있는 가능성)과 달리 latent는 '지금 이미 존재하지만 잠자고 있는' 쪽에 무게가 있다.",
+      "related": [
+        {
+          "word": "latency",
+          "ko": "지연 시간; 잠복",
+          "note": "같은 뿌리지만 IT에서는 '응답 지연'으로 뜻이 갈라진다"
+        },
+        {
+          "word": "dormant",
+          "ko": "휴면 상태의",
+          "note": "dormant는 한때 활동하다 잠든 것, latent는 처음부터 드러나지 않은 채 숨은 것"
+        }
+      ]
+    },
+    {
+      "headword": "backtrack",
+      "pos": "v.",
+      "ko": "(입장·약속에서) 물러서다, 번복하다",
+      "example_en": "The ministry backtracked on its plan to raise tuition after weeks of student protests.",
+      "example_ko": "교육부는 몇 주간의 학생 시위 끝에 등록금 인상 계획에서 물러섰다.",
+      "collocations": [
+        "backtrack on a plan",
+        "backtrack on a promise"
+      ],
+      "note": "back(뒤로) + track(지나온 길) — 왔던 길을 되짚어 돌아간다는 그림. 시사 영어에서는 거의 항상 'backtrack on + 계획/약속' 형태로, 비판·압력에 밀려 후퇴하는 뉘앙스다.",
+      "related": [
+        {
+          "word": "U-turn",
+          "ko": "(정책의) 180도 전환",
+          "note": "backtrack보다 더 극적이고 완전한 번복 — 'a policy U-turn'"
+        },
+        {
+          "word": "renege",
+          "ko": "(약속을) 어기다",
+          "note": "backtrack은 계획을 거둬들이는 것, renege on은 이미 한 약속을 저버리는 것이라 비난 강도가 더 세다"
+        }
+      ]
+    },
+    {
+      "headword": "brick",
+      "pos": "v.",
+      "ko": "(전자기기를) 먹통으로 만들다",
+      "example_en": "A faulty update bricked thousands of smart thermostats overnight.",
+      "example_ko": "결함 있는 업데이트 하나가 하룻밤 사이 스마트 온도조절기 수천 대를 먹통으로 만들었다.",
+      "collocations": [
+        "brick a device",
+        "get bricked"
+      ],
+      "note": "명사 brick(벽돌)이 동사로 전환된 IT 속어 — 기기가 벽돌만큼 쓸모없어진다는 뜻. 영어는 명사를 그대로 동사로 쓰는 일이 잦다(text a friend, google it).",
+      "family": [
+        {
+          "word": "brick",
+          "pos": "n.",
+          "ko": "벽돌"
+        },
+        {
+          "word": "bricked",
+          "pos": "a.",
+          "ko": "(기기가) 먹통이 된"
+        },
+        {
+          "word": "brick-and-mortar",
+          "pos": "a.",
+          "ko": "오프라인 매장의 — '먹통'과 무관한 뜻"
+        }
+      ]
+    },
+    {
+      "headword": "unbundle",
+      "pos": "v.",
+      "ko": "(묶음 상품을) 따로따로 분리해 팔다",
+      "example_en": "Airlines have unbundled their fares, charging separately for seats, bags and meals.",
+      "example_ko": "항공사들은 요금을 쪼개, 좌석·수하물·기내식에 따로 돈을 받는다.",
+      "collocations": [
+        "unbundle services",
+        "unbundled pricing"
+      ],
+      "note": "un-(반대) + bundle(묶음) — 묶어 팔던 것을 풀어서 각각 값을 매긴다. '필요한 것만 산다'는 명분과 '결국 다 합치면 더 비싸다'는 비판이 늘 따라붙는 단어.",
+      "family": [
+        {
+          "word": "bundle",
+          "pos": "v./n.",
+          "ko": "묶어 팔다; 묶음"
+        },
+        {
+          "word": "unbundling",
+          "pos": "n.",
+          "ko": "분리 판매"
+        }
+      ]
+    },
+    {
+      "headword": "nickel-and-dime",
+      "pos": "v.",
+      "ko": "자잘한 요금을 자꾸 물려 돈을 뜯어내다",
+      "example_en": "Guests complained that the hotel nickel-and-dimed them with fees for Wi-Fi and towels.",
+      "example_ko": "투숙객들은 호텔이 와이파이·수건 요금까지 자잘하게 물리며 돈을 뜯는다고 불평했다.",
+      "collocations": [
+        "nickel-and-dime customers",
+        "nickel-and-dime someone to death"
+      ],
+      "note": "nickel(5센트)과 dime(10센트) — 푼돈 동전 이름. 하나하나는 작은 돈이지만 계속 뜯어 가 짜증 나게 한다는 뉘앙스로, 숨은 수수료·추가 요금 비판에 단골로 등장한다.",
+      "related": [
+        {
+          "word": "junk fee",
+          "ko": "숨은 부가 수수료",
+          "note": "nickel-and-dime이 하는 '행위'라면 junk fee는 그렇게 붙는 '요금' 자체"
+        }
+      ]
+    },
+    {
+      "headword": "bait-and-switch",
+      "pos": "n.",
+      "ko": "미끼 상술(싼 것으로 꾀어 비싼 것을 팔기)",
+      "example_en": "Regulators accused the retailer of a bait-and-switch after the advertised TVs were never in stock.",
+      "example_ko": "광고한 TV가 한 번도 입고되지 않자 규제 당국은 그 소매업체를 미끼 상술로 고발했다.",
+      "collocations": [
+        "a classic bait-and-switch",
+        "bait-and-switch tactics"
+      ],
+      "note": "bait(미끼)로 끌어들인 뒤 switch(바꿔치기)한다 — 낚시 그림 그대로 외우면 된다. '산 줄 알았던 기능이 나중에 유료로 바뀌는' 구독 전환 비판에도 자주 쓰인다.",
+      "related": [
+        {
+          "word": "lure",
+          "ko": "꾀다, 유인하다",
+          "note": "lure는 끌어들이는 단계만, bait-and-switch는 끌어들인 뒤 바꿔치기까지 포함"
+        }
+      ]
+    },
+    {
+      "headword": "lease",
+      "pos": "n./v.",
+      "ko": "임대차 (계약); 임대하다, 임차하다",
+      "example_en": "The firm signed a five-year lease on a new office downtown.",
+      "example_ko": "그 회사는 시내의 새 사무실에 대해 5년 임대 계약을 맺었다.",
+      "collocations": [
+        "sign a lease",
+        "lease agreement",
+        "on lease"
+      ],
+      "note": "lease는 빌려주는 쪽·빌리는 쪽 양쪽 다 쓸 수 있다(lessor 임대인 / lessee 임차인 — -or가 주는 쪽, -ee가 받는 쪽: employer/employee와 같은 규칙). 토익 계약·부동산 지문 필수어.",
+      "family": [
+        {
+          "word": "lessor",
+          "pos": "n.",
+          "ko": "임대인(빌려주는 쪽)"
+        },
+        {
+          "word": "lessee",
+          "pos": "n.",
+          "ko": "임차인(빌리는 쪽)"
+        },
+        {
+          "word": "leasehold",
+          "pos": "n.",
+          "ko": "임차권 — freehold(소유권)와 대비"
+        }
+      ],
+      "related": [
+        {
+          "word": "rent",
+          "ko": "임대료; 빌리다",
+          "note": "rent는 일상적·단기, lease는 계약서를 쓰는 장기 임대에 주로 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "infuriate",
+      "pos": "v.",
+      "ko": "격분하게 하다",
+      "example_en": "The airline's refusal to refund cancelled flights infuriated passengers.",
+      "example_ko": "결항편 환불을 거부한 항공사의 태도는 승객들을 격분하게 했다.",
+      "collocations": [
+        "infuriate customers",
+        "infuriatingly slow"
+      ],
+      "note": "in- + fury(격노) — 사람을 fury 상태로 몰아넣다. annoy(짜증 나게) < irritate(신경 거슬리게) < anger(화나게) < infuriate(격분하게) 순으로 강도가 올라간다.",
+      "family": [
+        {
+          "word": "fury",
+          "pos": "n.",
+          "ko": "격노"
+        },
+        {
+          "word": "furious",
+          "pos": "a.",
+          "ko": "몹시 화가 난"
+        },
+        {
+          "word": "infuriating",
+          "pos": "a.",
+          "ko": "화나게 하는 — -ing는 원인, -ed는 느끼는 사람"
+        }
+      ]
+    },
+    {
+      "headword": "irk",
+      "pos": "v.",
+      "ko": "짜증 나게 하다, 거슬리게 하다",
+      "example_en": "What irked shoppers most was the automatic renewal buried in the fine print.",
+      "example_ko": "쇼핑객들을 가장 짜증 나게 한 건 깨알 같은 약관에 숨겨진 자동 갱신이었다.",
+      "collocations": [
+        "irk someone",
+        "irksome rules"
+      ],
+      "note": "infuriate가 '폭발하는 분노'라면 irk는 '자잘하게 계속 거슬리는' 짜증. 짧은 단어라 헤드라인에서 annoy 대신 자주 쓰인다.",
+      "family": [
+        {
+          "word": "irksome",
+          "pos": "a.",
+          "ko": "짜증스러운, 성가신"
+        }
+      ],
+      "related": [
+        {
+          "word": "infuriate",
+          "ko": "격분하게 하다",
+          "note": "같은 '화' 계열이지만 irk는 약한 짜증, infuriate는 격분"
+        }
+      ]
+    },
+    {
+      "headword": "outrage",
+      "pos": "n./v.",
+      "ko": "격분, 분노; 격분하게 하다",
+      "example_en": "The price hike sparked public outrage and calls for a boycott.",
+      "example_ko": "그 가격 인상은 대중의 분노와 불매 운동 요구를 불러일으켰다.",
+      "collocations": [
+        "public outrage",
+        "spark outrage",
+        "express outrage"
+      ],
+      "note": "out(밖으로) + rage(분노)로 보이지만 실제 어원은 '도를 넘음(outre)' — 그래서 '선을 넘은 일에 대한 도덕적 분노'라는 뉘앙스가 강하다. 형용사 outrageous는 '터무니없는(가격 등)'으로도 쓰인다.",
+      "family": [
+        {
+          "word": "outrageous",
+          "pos": "a.",
+          "ko": "터무니없는, 너무한"
+        },
+        {
+          "word": "outraged",
+          "pos": "a.",
+          "ko": "격분한"
+        }
+      ],
+      "related": [
+        {
+          "word": "outcry",
+          "ko": "(대중의) 항의, 아우성",
+          "note": "outrage는 분노라는 감정, outcry는 그 분노가 밖으로 터져 나온 항의의 목소리"
+        }
+      ]
+    },
+    {
+      "headword": "revenue stream",
+      "pos": "n.",
+      "ko": "수익원",
+      "example_en": "Advertising remains the platform's largest revenue stream.",
+      "example_ko": "광고는 여전히 그 플랫폼의 가장 큰 수익원이다.",
+      "collocations": [
+        "a new revenue stream",
+        "diversify revenue streams",
+        "recurring revenue"
+      ],
+      "note": "stream(시냇물) — 한 번 들어오고 끝나는 돈이 아니라 '계속 흘러드는' 수입이라는 그림. 구독 경제의 핵심 단어로, 기업이 일회성 판매를 꺼리는 이유가 이 표현에 담겨 있다.",
+      "related": [
+        {
+          "word": "revenue",
+          "ko": "매출, 수입",
+          "note": "revenue는 들어온 돈 전체(매출), profit은 비용을 뺀 이익 — 둘을 혼동하지 말 것"
+        }
+      ]
+    },
+    {
+      "headword": "rent-seeking",
+      "pos": "n.",
+      "ko": "지대 추구(새 가치 창출 없이 지위·규제로 이득만 챙기기)",
+      "example_en": "Economists described the new licensing fees as rent-seeking rather than innovation.",
+      "example_ko": "경제학자들은 새 라이선스 수수료를 혁신이 아닌 지대 추구라고 평가했다.",
+      "collocations": [
+        "rent-seeking behavior",
+        "accuse a firm of rent-seeking"
+      ],
+      "note": "여기서 rent는 '집세'가 아니라 경제학 용어 '지대(경제적 지대)' — 노력이 아니라 독점적 위치 덕에 얻는 초과 이익. 새로 만든 가치 없이 통행료만 받는 행태를 비판할 때 쓰는 시사 핵심어.",
+      "related": [
+        {
+          "word": "rentier",
+          "ko": "불로소득자",
+          "note": "같은 '지대' 계열 — rent-seeking으로 사는 사람·경제(a rentier economy)"
+        }
+      ]
+    },
+    {
+      "headword": "fleece",
+      "pos": "v.",
+      "ko": "(바가지를 씌워) 돈을 뜯다",
+      "example_en": "Tourists were fleeced by taxi drivers who refused to use the meter.",
+      "example_ko": "관광객들은 미터기 사용을 거부한 택시 기사들에게 바가지를 썼다.",
+      "collocations": [
+        "fleece customers",
+        "get fleeced"
+      ],
+      "note": "명사 fleece는 '양털' — 양털을 깎듯 사람에게서 돈을 몽땅 깎아 간다는 이미지. nickel-and-dime이 자잘하게 여러 번이라면 fleece는 한 번에 크게 뜯는 느낌.",
+      "related": [
+        {
+          "word": "rip off",
+          "ko": "바가지를 씌우다",
+          "note": "fleece와 거의 같은 뜻의 구어 — 명사 rip-off(바가지)도 자주 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "enshrine",
+      "pos": "v.",
+      "ko": "(권리·원칙을 법 등에) 명문화하다, 소중히 모시다",
+      "example_en": "The new law enshrines the right of consumers to repair their own devices.",
+      "example_ko": "새 법은 소비자가 자기 기기를 직접 수리할 권리를 명문화한다.",
+      "collocations": [
+        "enshrine a right",
+        "be enshrined in law",
+        "enshrined in the constitution"
+      ],
+      "note": "en-(안에 넣다) + shrine(성지, 사당) — 성스러운 사당에 모셔 둔다는 그림이라 '함부로 못 건드리게 법에 새겨 넣다'는 무게가 실린다. 거의 항상 수동태 be enshrined in ~으로 나온다.",
+      "related": [
+        {
+          "word": "codify",
+          "ko": "성문화하다",
+          "note": "codify는 규칙을 조문으로 정리하는 중립적 표현, enshrine은 '소중한 원칙으로 보호한다'는 가치가 더해진다"
+        }
+      ]
+    }
+  ]
+}
