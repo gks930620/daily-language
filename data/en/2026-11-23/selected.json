@@ -1,0 +1,302 @@
+{
+  "date": "2026-11-23",
+  "words": [
+    {
+      "headword": "astroturfing",
+      "pos": "n.",
+      "ko": "(가짜 풀뿌리 여론을 꾸미는) 조직적 여론 조작",
+      "example_en": "The company was accused of astroturfing after hundreds of nearly identical reviews appeared overnight.",
+      "example_ko": "하룻밤 새 거의 똑같은 리뷰 수백 개가 올라오자 그 회사는 여론 조작 의혹을 받았다.",
+      "collocations": [
+        "an astroturfing campaign",
+        "political astroturfing"
+      ],
+      "note": "인조 잔디 상표 AstroTurf에서 왔다 — 자발적인 '풀뿌리(grassroots)' 여론처럼 보이지만 실은 인공으로 깔아 놓은 잔디라는 비유.",
+      "related": [
+        {
+          "word": "grassroots",
+          "ko": "풀뿌리의, 일반 대중에서 자발적으로 생긴",
+          "note": "진짜(grassroots) vs 가짜(astroturf) 짝으로 외우면 한 번에 남는다"
+        }
+      ]
+    },
+    {
+      "headword": "glowing",
+      "pos": "a.",
+      "ko": "극찬하는, 열렬한",
+      "example_en": "The new manager received glowing feedback from the entire team after the first quarter.",
+      "example_ko": "새 관리자는 첫 분기 뒤 팀 전체로부터 극찬 섞인 평가를 받았다.",
+      "collocations": [
+        "a glowing review",
+        "in glowing terms",
+        "a glowing reference"
+      ],
+      "note": "glow(은은히 빛나다)의 -ing형 — '빛이 날 만큼' 칭찬한다는 뜻. speak of ~ in glowing terms(~을 극찬하다)가 통째로 잘 나온다.",
+      "related": [
+        {
+          "word": "glaring",
+          "ko": "눈에 확 띄는(나쁜 쪽으로)",
+          "note": "같은 '빛' 계열이지만 glaring error(명백한 실수)처럼 부정적 — glowing은 칭찬, glaring은 결점"
+        }
+      ]
+    },
+    {
+      "headword": "testimonial",
+      "pos": "n.",
+      "ko": "추천의 글, 사용 후기",
+      "example_en": "The website features testimonials from customers who claim the device cut their energy bills in half.",
+      "example_ko": "그 웹사이트에는 기기 덕에 전기 요금이 절반으로 줄었다는 고객들의 후기가 실려 있다.",
+      "collocations": [
+        "customer testimonials",
+        "a glowing testimonial"
+      ],
+      "note": "어원: test-(증인) — testimony는 법정의 '증언', testimonial은 상품·사람을 보증하는 '추천의 말'. 같은 뿌리, 쓰이는 무대가 다르다.",
+      "family": [
+        {
+          "word": "testify",
+          "pos": "v.",
+          "ko": "증언하다"
+        },
+        {
+          "word": "testimony",
+          "pos": "n.",
+          "ko": "(법정) 증언"
+        }
+      ]
+    },
+    {
+      "headword": "reputable",
+      "pos": "a.",
+      "ko": "평판 좋은, 믿을 만한",
+      "example_en": "Travelers are advised to book only through a reputable agency.",
+      "example_ko": "여행객들은 평판 좋은 여행사를 통해서만 예약하라는 권고를 받는다.",
+      "collocations": [
+        "a reputable firm",
+        "a reputable source"
+      ],
+      "note": "reput(e)+-able이지만 '평판할 수 있는'이 아니라 '좋은 평판을 지닌'. 앞에 dis-를 붙이면 disreputable(평판이 나쁜, 수상쩍은).",
+      "family": [
+        {
+          "word": "reputation",
+          "pos": "n.",
+          "ko": "평판, 명성"
+        },
+        {
+          "word": "reputed",
+          "pos": "a.",
+          "ko": "~라고 알려진(소문난) — 좋다는 뜻이 아님에 주의"
+        },
+        {
+          "word": "disreputable",
+          "pos": "a.",
+          "ko": "평판이 나쁜, 수상쩍은"
+        }
+      ]
+    },
+    {
+      "headword": "vouch",
+      "pos": "v.",
+      "ko": "보증하다 (for)",
+      "example_en": "I can vouch for her reliability; we worked together for five years.",
+      "example_ko": "그녀가 믿을 만하다는 건 내가 보증할 수 있다. 5년을 함께 일했으니까.",
+      "collocations": [
+        "vouch for someone",
+        "vouch for the quality"
+      ],
+      "note": "어원: voc-(부르다) — 증인으로 '불려 나와' 보증한다. 거의 항상 vouch for의 형태로 쓴다.",
+      "related": [
+        {
+          "word": "voucher",
+          "ko": "상품권, 쿠폰",
+          "note": "같은 뿌리 — 지불을 '보증해 주는' 증표라서 voucher"
+        }
+      ]
+    },
+    {
+      "headword": "tarnish",
+      "pos": "v.",
+      "ko": "(명성·이미지를) 더럽히다, 손상시키다",
+      "example_en": "The recall scandal tarnished the brand's long-standing reputation for safety.",
+      "example_ko": "리콜 사태는 그 브랜드가 오랫동안 쌓아 온 안전의 명성에 흠집을 냈다.",
+      "collocations": [
+        "tarnish a reputation",
+        "a tarnished image"
+      ],
+      "note": "원래 은·금속이 산화해 '광택을 잃다'라는 뜻 — 반짝이던 명성이 녹슨다는 이미지로 외운다.",
+      "related": [
+        {
+          "word": "taint",
+          "ko": "오염시키다, 더럽히다",
+          "note": "taint는 부정·불법이 '스며든' 느낌(tainted evidence 오염된 증거), tarnish는 빛나던 명성이 '바랜' 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "clandestine",
+      "pos": "a.",
+      "ko": "은밀한, 비밀리에 하는",
+      "example_en": "Investigators uncovered a clandestine network that sold counterfeit medicine online.",
+      "example_ko": "수사관들은 온라인에서 위조 의약품을 팔던 비밀 조직을 적발했다.",
+      "collocations": [
+        "a clandestine operation",
+        "a clandestine meeting"
+      ],
+      "note": "라틴어 clam(몰래)에서. secret보다 격식 있고 '불법·숨겨야 할 일'의 뉘앙스가 강해 범죄·첩보 기사에 단골로 나온다.",
+      "related": [
+        {
+          "word": "covert",
+          "ko": "비밀의, 은밀한",
+          "note": "covert는 주로 정부·군의 비밀 작전(covert operation), clandestine은 숨겨진 불법 활동 일반"
+        }
+      ]
+    },
+    {
+      "headword": "bogus",
+      "pos": "a.",
+      "ko": "가짜의, 엉터리의",
+      "example_en": "Customers were charged bogus fees that appeared nowhere in the contract.",
+      "example_ko": "고객들은 계약서 어디에도 없는 엉터리 수수료를 청구받았다.",
+      "collocations": [
+        "a bogus claim",
+        "bogus charges"
+      ],
+      "note": "fake보다 구어적이고 '속이려는 의도(사기성)'가 묻어난다 — bogus claim은 단순 오류가 아니라 허위 청구.",
+      "related": [
+        {
+          "word": "phony",
+          "ko": "가짜의, 위선적인",
+          "note": "phony는 물건뿐 아니라 사람(가식적인 사람)에도 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "credulous",
+      "pos": "a.",
+      "ko": "잘 믿는, 귀가 얇은",
+      "example_en": "Scammers target credulous investors with promises of guaranteed returns.",
+      "example_ko": "사기꾼들은 확정 수익을 약속하며 귀가 얇은 투자자들을 노린다.",
+      "collocations": [
+        "credulous consumers",
+        "a credulous audience"
+      ],
+      "note": "cred-(믿다) 계열에서 방향이 갈린다 — credible은 '믿음을 받는 쪽'(믿을 만한), credulous는 '쉽게 믿어 버리는 쪽'(잘 속는).",
+      "family": [
+        {
+          "word": "credulity",
+          "pos": "n.",
+          "ko": "잘 믿음, 속기 쉬움"
+        },
+        {
+          "word": "incredulous",
+          "pos": "a.",
+          "ko": "믿지 못하는, 의심하는 — '믿을 수 없는(incredible)'이 아님"
+        }
+      ],
+      "related": [
+        {
+          "word": "credible",
+          "ko": "믿을 만한",
+          "note": "credible source(믿을 만한 출처) vs credulous reader(잘 속는 독자)"
+        }
+      ]
+    },
+    {
+      "headword": "word of mouth",
+      "pos": "n.",
+      "ko": "입소문",
+      "example_en": "The bakery never advertised; it grew entirely through word of mouth.",
+      "example_ko": "그 빵집은 광고를 한 번도 하지 않았고, 순전히 입소문으로 성장했다.",
+      "collocations": [
+        "by word of mouth",
+        "word-of-mouth marketing"
+      ],
+      "note": "by/through word of mouth(입소문으로)로 통째로 외운다. 명사 앞 형용사로 쓸 때는 하이픈: word-of-mouth advertising."
+    },
+    {
+      "headword": "kickback",
+      "pos": "n.",
+      "ko": "뒷돈, 리베이트",
+      "example_en": "The official was arrested for accepting kickbacks from construction contractors.",
+      "example_ko": "그 공무원은 건설업자들에게서 뒷돈을 받은 혐의로 체포되었다.",
+      "collocations": [
+        "accept kickbacks",
+        "a kickback scheme"
+      ],
+      "note": "kick back(뒤로 차서 돌려주다) — 받은 돈의 일부를 몰래 되돌려주는 것. 동사구 kick back은 '느긋하게 쉬다'로 뜻이 전혀 다르다.",
+      "related": [
+        {
+          "word": "kick back",
+          "ko": "느긋하게 쉬다",
+          "note": "붙여 쓴 명사 kickback(뒷돈)과 띄어 쓴 동사구 kick back(쉬다)은 무관한 뜻"
+        },
+        {
+          "word": "bribe",
+          "ko": "뇌물",
+          "note": "bribe는 미리 주는 뇌물, kickback은 거래 후 일부를 되돌려주는 사례금"
+        }
+      ]
+    },
+    {
+      "headword": "incentivize",
+      "pos": "v.",
+      "ko": "(보상으로) 장려하다, 동기를 부여하다",
+      "example_en": "The city incentivizes residents to install solar panels by offering tax credits.",
+      "example_ko": "시는 세액 공제를 제공해 주민들이 태양광 패널을 설치하도록 장려한다.",
+      "collocations": [
+        "incentivize A to do",
+        "incentivize investment"
+      ],
+      "note": "명사 incentive(유인책)+-ize(~하게 만들다). incentivize A to do 구조로 쓰는 미국식 비즈니스 영어 빈출어.",
+      "family": [
+        {
+          "word": "incentive",
+          "pos": "n.",
+          "ko": "유인책, 장려책"
+        }
+      ]
+    },
+    {
+      "headword": "plague",
+      "pos": "v.",
+      "ko": "괴롭히다, 시달리게 하다",
+      "example_en": "The project has been plagued by delays and cost overruns since it began.",
+      "example_ko": "그 프로젝트는 시작부터 지연과 비용 초과에 시달려 왔다.",
+      "collocations": [
+        "be plagued by problems",
+        "plague the industry"
+      ],
+      "note": "명사 '역병(plague)'이 동사로 — 병이 들러붙듯 문제가 끈질기게 괴롭힌다. 주로 수동태 be plagued by/with ~로 쓴다."
+    },
+    {
+      "headword": "lopsided",
+      "pos": "a.",
+      "ko": "한쪽으로 치우친, 일방적인",
+      "example_en": "The negotiations produced a lopsided deal that heavily favored the larger company.",
+      "example_ko": "협상 결과 큰 회사에 크게 유리한 일방적인 합의가 나왔다.",
+      "collocations": [
+        "a lopsided victory",
+        "a lopsided distribution"
+      ],
+      "note": "lop(축 처지다)+side — 한쪽이 처져 기울어진 모양. 스포츠 뉴스의 a lopsided win(일방적 승리)으로 자주 보인다."
+    },
+    {
+      "headword": "mar",
+      "pos": "v.",
+      "ko": "망치다, 흠집 내다",
+      "example_en": "Technical glitches marred the otherwise successful product launch.",
+      "example_ko": "기술적 결함이 그것만 아니면 성공적이었을 제품 출시를 망쳤다.",
+      "collocations": [
+        "be marred by",
+        "mar the occasion"
+      ],
+      "note": "수동태 be marred by(~로 얼룩지다)가 기사 빈출. 활용은 자음을 겹쳐 marred·marring.",
+      "related": [
+        {
+          "word": "tarnish",
+          "ko": "더럽히다",
+          "note": "mar는 행사·경험·외관을 망치는 것, tarnish는 명성·이미지를 더럽히는 것"
+        }
+      ]
+    }
+  ]
+}
