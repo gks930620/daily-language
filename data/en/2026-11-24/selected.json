@@ -1,0 +1,437 @@
+{
+  "date": "2026-11-24",
+  "words": [
+    {
+      "headword": "myopia",
+      "pos": "n.",
+      "ko": "근시; (비유) 근시안적 사고",
+      "example_en": "Critics accused the board of corporate myopia for cutting research spending to boost quarterly profits.",
+      "example_ko": "비평가들은 분기 이익을 끌어올리려 연구비를 삭감한 이사회를 기업의 근시안적 사고라며 비판했다.",
+      "collocations": [
+        "childhood myopia",
+        "short-term myopia"
+      ],
+      "note": "시사 영어에서는 눈보다 '비유'로 더 자주 나온다 — 'corporate/political myopia'는 눈앞 이익만 보고 장기적 결과를 못 보는 태도. 일상어로는 nearsightedness, 반대(원시)는 farsightedness/hyperopia.",
+      "family": [
+        {
+          "word": "myopic",
+          "pos": "a.",
+          "ko": "근시의; 근시안적인"
+        },
+        {
+          "word": "nearsighted",
+          "pos": "a.",
+          "ko": "근시의(일상어)"
+        }
+      ],
+      "related": [
+        {
+          "word": "farsighted",
+          "ko": "원시의; 선견지명 있는",
+          "note": "far-가 붙으면 비유적으로는 칭찬(멀리 내다보는)이 되어 myopic(근시안적=비판)과 정반대 뉘앙스"
+        }
+      ]
+    },
+    {
+      "headword": "ophthalmologist",
+      "pos": "n.",
+      "ko": "안과 의사",
+      "example_en": "The ophthalmologist recommended that the child spend at least two hours outdoors every day.",
+      "example_ko": "안과 의사는 그 아이가 매일 최소 두 시간은 야외에서 보내야 한다고 권했다.",
+      "collocations": [
+        "see an ophthalmologist",
+        "pediatric ophthalmologist"
+      ],
+      "note": "철자 함정: ophthalm-(그리스어 '눈') — 'ph-th' 연속이라 h가 두 번 들어간다(발음은 '오프[θ]말-'). 수술까지 하는 의사이고, 시력 검사·안경 처방만 하는 사람은 optometrist(검안사)다.",
+      "related": [
+        {
+          "word": "optometrist",
+          "ko": "검안사",
+          "note": "의사가 아님 — 시력 측정·안경·렌즈 처방 담당"
+        },
+        {
+          "word": "optician",
+          "ko": "안경사",
+          "note": "처방대로 안경을 맞춰 주는 사람"
+        }
+      ]
+    },
+    {
+      "headword": "hereditary",
+      "pos": "a.",
+      "ko": "유전적인; 세습되는",
+      "example_en": "Some forms of hearing loss are hereditary and can be detected through genetic testing.",
+      "example_ko": "일부 유형의 청력 손실은 유전적이어서 유전자 검사로 발견할 수 있다.",
+      "collocations": [
+        "hereditary disease",
+        "hereditary title"
+      ],
+      "note": "어원: heres(라틴어 '상속인') — heir(상속인)·heritage(유산)·inherit(물려받다)과 한 뿌리. 그래서 '몸으로 물려받는 것(유전)'과 '지위를 물려받는 것(세습)' 두 뜻을 다 가진다.",
+      "family": [
+        {
+          "word": "heredity",
+          "pos": "n.",
+          "ko": "유전"
+        },
+        {
+          "word": "heir",
+          "pos": "n.",
+          "ko": "상속인, 후계자"
+        },
+        {
+          "word": "inherit",
+          "pos": "v.",
+          "ko": "물려받다, 상속하다"
+        }
+      ],
+      "related": [
+        {
+          "word": "genetic",
+          "ko": "유전자의",
+          "note": "genetic은 DNA 자체에 초점, hereditary는 '부모에게서 대물림됨'에 초점 — 돌연변이처럼 유전적(genetic)이지만 대물림되지 않는(not hereditary) 경우도 있다"
+        }
+      ]
+    },
+    {
+      "headword": "predisposition",
+      "pos": "n.",
+      "ko": "(병·행동의) 소인, 경향",
+      "example_en": "A genetic predisposition does not guarantee that a person will develop the disease.",
+      "example_ko": "유전적 소인이 있다고 해서 그 사람이 반드시 그 병에 걸리는 것은 아니다.",
+      "collocations": [
+        "genetic predisposition",
+        "a predisposition to/toward"
+      ],
+      "note": "pre-(미리) + dispose(배치하다) — '미리 그쪽으로 기울게 배치되어 있음'. 확정이 아니라 '걸리기 쉬움'이므로, 기사에서 '유전자 때문에 병이 생긴다'로 오역하지 않게 주의.",
+      "family": [
+        {
+          "word": "predispose",
+          "pos": "v.",
+          "ko": "(~하기 쉽게) 만들다"
+        },
+        {
+          "word": "predisposed",
+          "pos": "a.",
+          "ko": "~하는 경향이 있는(be predisposed to)"
+        }
+      ],
+      "related": [
+        {
+          "word": "disposition",
+          "ko": "기질, 성향",
+          "note": "pre-가 빠지면 타고난 '성격·기질'(a cheerful disposition) — 병의 소인 뜻은 약하다"
+        }
+      ]
+    },
+    {
+      "headword": "retina",
+      "pos": "n.",
+      "ko": "망막",
+      "example_en": "Prolonged exposure to intense light can permanently damage the retina.",
+      "example_ko": "강한 빛에 오래 노출되면 망막이 영구적으로 손상될 수 있다.",
+      "collocations": [
+        "retinal damage",
+        "detached retina"
+      ],
+      "note": "애플의 'Retina 디스플레이'는 '망막이 픽셀을 구별 못 할 만큼 촘촘하다'는 뜻에서 딴 이름. 복수형은 retinas(학술적으로 retinae), 형용사는 retinal.",
+      "family": [
+        {
+          "word": "retinal",
+          "pos": "a.",
+          "ko": "망막의"
+        }
+      ],
+      "related": [
+        {
+          "word": "cornea",
+          "ko": "각막",
+          "note": "눈 맨 앞의 투명한 막(라식 수술 부위) — 빛을 받아들이는 뒤쪽 막인 retina와 혼동 주의"
+        }
+      ]
+    },
+    {
+      "headword": "elongate",
+      "pos": "v.",
+      "ko": "길어지다; 길게 늘이다",
+      "example_en": "In nearsighted eyes, the eyeball elongates so that images focus in front of the retina.",
+      "example_ko": "근시인 눈에서는 안구가 길어져서 상이 망막 앞쪽에 초점을 맺는다.",
+      "collocations": [
+        "an elongated shape",
+        "elongate the season"
+      ],
+      "note": "e-(밖으로) + long(긴) — '밖으로 길게 빼내다'. lengthen과 뜻은 같지만 elongate는 과학·형태 묘사(세포·안구·그림자)에 쓰는 격식어. 과거분사 elongated(길쭉한)가 형용사로 더 흔하다.",
+      "family": [
+        {
+          "word": "elongation",
+          "pos": "n.",
+          "ko": "신장, 늘어남"
+        },
+        {
+          "word": "elongated",
+          "pos": "a.",
+          "ko": "길쭉한"
+        }
+      ]
+    },
+    {
+      "headword": "acuity",
+      "pos": "n.",
+      "ko": "(감각·사고의) 예민함, 명민함",
+      "example_en": "Visual acuity tends to decline gradually after the age of forty.",
+      "example_ko": "시력(시각의 예민함)은 마흔 살 이후 서서히 떨어지는 경향이 있다.",
+      "collocations": [
+        "visual acuity",
+        "mental acuity"
+      ],
+      "note": "acu-(날카로운 끝, 바늘) 계열 — acute(예리한; 급성의)·acupuncture(침술 = 바늘로 찌르기)와 같은 뿌리. '날카로움'이 감각에 붙으면 acuity, 상황·통증에 붙으면 acute.",
+      "family": [
+        {
+          "word": "acute",
+          "pos": "a.",
+          "ko": "예리한; 급성의; 심각한"
+        },
+        {
+          "word": "acumen",
+          "pos": "n.",
+          "ko": "(사업·판단의) 감각, 수완 — business acumen"
+        }
+      ],
+      "related": [
+        {
+          "word": "chronic",
+          "ko": "만성의",
+          "note": "acute(급성)의 반대말 — 의료 기사에서 짝으로 나온다"
+        }
+      ]
+    },
+    {
+      "headword": "hunch",
+      "pos": "v./n.",
+      "ko": "(등을) 구부리다; 직감, 예감",
+      "example_en": "She had a hunch that the quarterly figures would disappoint investors.",
+      "example_ko": "그녀는 분기 실적이 투자자들을 실망시킬 거라는 예감이 들었다.",
+      "collocations": [
+        "hunch over a desk",
+        "have a hunch",
+        "act on a hunch"
+      ],
+      "note": "동사는 '등을 웅크리다', 명사는 '근거 없는 직감' — 뜻이 전혀 달라 문맥으로 갈라야 한다. 'have a hunch (that) ~'은 회화에서 '왠지 ~할 것 같아'로 아주 실용적. 등이 굽은 사람 hunchback.",
+      "family": [
+        {
+          "word": "hunched",
+          "pos": "a.",
+          "ko": "등을 구부린, 웅크린"
+        },
+        {
+          "word": "hunchback",
+          "pos": "n.",
+          "ko": "곱사등(이)"
+        }
+      ],
+      "related": [
+        {
+          "word": "intuition",
+          "ko": "직관",
+          "note": "hunch는 구체적 상황에 대한 '한 번의 감'(구어), intuition은 그런 능력 자체(격식)"
+        }
+      ]
+    },
+    {
+      "headword": "restrain",
+      "pos": "v.",
+      "ko": "억제하다, 제지하다",
+      "example_en": "The central bank raised interest rates to restrain inflation.",
+      "example_ko": "중앙은행은 인플레이션을 억제하기 위해 금리를 올렸다.",
+      "collocations": [
+        "restrain A from -ing",
+        "restrain spending",
+        "restrain oneself"
+      ],
+      "note": "re-(뒤로) + strain(당기다, strict·stringent와 같은 뿌리) — '고삐를 뒤로 잡아당기다'. 명사 restraint는 '자제(심)'라는 뜻으로도 많이 써서 'show restraint(자제하다)'는 외교 기사 단골.",
+      "family": [
+        {
+          "word": "restraint",
+          "pos": "n.",
+          "ko": "자제, 억제; 구속(장치)"
+        },
+        {
+          "word": "unrestrained",
+          "pos": "a.",
+          "ko": "억제되지 않은, 거리낌 없는"
+        }
+      ],
+      "related": [
+        {
+          "word": "refrain",
+          "ko": "삼가다",
+          "note": "철자 비슷한 함정 — refrain from -ing는 '내가 스스로 삼가다'(자동사), restrain A from -ing는 '남을 막다'(타동사)"
+        }
+      ]
+    },
+    {
+      "headword": "recess",
+      "pos": "n.",
+      "ko": "(학교의) 쉬는 시간; (의회·법원의) 휴회",
+      "example_en": "The court went into recess until Monday morning.",
+      "example_ko": "법원은 월요일 아침까지 휴정에 들어갔다.",
+      "collocations": [
+        "go into recess",
+        "congressional recess",
+        "during recess"
+      ],
+      "note": "re-(뒤로) + cess(가다) — '뒤로 물러나 있는 시간'. recession(경기 후퇴 = 경제가 뒤로 물러남)과 같은 뿌리지만 뜻이 갈라진다. 미국 뉴스에서 'Congress is in recess'는 '의회 휴회 중'.",
+      "family": [
+        {
+          "word": "recession",
+          "pos": "n.",
+          "ko": "경기 침체, 불황 — '쉬는 시간'이 아님"
+        },
+        {
+          "word": "recede",
+          "pos": "v.",
+          "ko": "물러나다, 약해지다"
+        },
+        {
+          "word": "recessive",
+          "pos": "a.",
+          "ko": "(유전) 열성의"
+        }
+      ]
+    },
+    {
+      "headword": "implausible",
+      "pos": "a.",
+      "ko": "믿기 어려운, 그럴듯하지 않은",
+      "example_en": "The company's explanation for the missing funds struck auditors as highly implausible.",
+      "example_ko": "사라진 자금에 대한 회사의 해명은 감사인들에게 매우 믿기 어렵게 느껴졌다.",
+      "collocations": [
+        "highly implausible",
+        "an implausible excuse"
+      ],
+      "note": "plaus-(박수 치다, applause와 같은 뿌리) — plausible은 '박수 받을 만한 → 그럴듯한', im-이 붙어 '박수 칠 수 없는 → 믿기 어려운'. 'not impossible, just implausible'처럼 impossible(불가능한)보다 한 단계 약한 말이다.",
+      "family": [
+        {
+          "word": "plausible",
+          "pos": "a.",
+          "ko": "그럴듯한"
+        },
+        {
+          "word": "plausibility",
+          "pos": "n.",
+          "ko": "그럴듯함, 개연성"
+        }
+      ],
+      "related": [
+        {
+          "word": "impossible",
+          "ko": "불가능한",
+          "note": "implausible은 '가능은 하지만 믿기 어렵다', impossible은 '아예 안 된다'"
+        }
+      ]
+    },
+    {
+      "headword": "intuitive",
+      "pos": "a.",
+      "ko": "직관적인; (사용법이) 쉽게 알 수 있는",
+      "example_en": "The app's interface is so intuitive that most users never open the manual.",
+      "example_ko": "그 앱의 화면은 매우 직관적이라 대부분의 사용자는 설명서를 펴 보지도 않는다.",
+      "collocations": [
+        "intuitive interface",
+        "intuitive sense",
+        "intuitively obvious"
+      ],
+      "note": "IT·제품 리뷰에서는 '배우지 않아도 바로 쓸 수 있는'이라는 칭찬. 반대로 counter-(거스르는)가 붙은 counterintuitive는 '직관에 어긋나는 → 상식과 반대인' 결과를 소개할 때 쓴다.",
+      "family": [
+        {
+          "word": "intuition",
+          "pos": "n.",
+          "ko": "직관"
+        },
+        {
+          "word": "intuitively",
+          "pos": "ad.",
+          "ko": "직관적으로"
+        },
+        {
+          "word": "counterintuitive",
+          "pos": "a.",
+          "ko": "직관에 반하는"
+        }
+      ]
+    },
+    {
+      "headword": "uphill battle",
+      "pos": "n.",
+      "ko": "힘겨운 싸움, 고전",
+      "example_en": "Smaller retailers face an uphill battle against online giants with far deeper pockets.",
+      "example_ko": "소규모 소매업체들은 자금력이 훨씬 큰 온라인 공룡 기업들과 힘겨운 싸움을 벌이고 있다.",
+      "collocations": [
+        "face an uphill battle",
+        "fight an uphill battle"
+      ],
+      "note": "'언덕 위로(uphill) 치고 올라가며 싸우는 전투' — 지형부터 불리한 싸움. 비슷한 뜻의 'an uphill struggle/climb'도 쓰고, 반대로 쉽게 흘러가는 일은 'it's all downhill from here(여기서부턴 쉽다)'. 단, downhill은 '악화되다(go downhill)' 뜻도 있으니 주의.",
+      "related": [
+        {
+          "word": "go downhill",
+          "ko": "악화되다",
+          "note": "uphill의 반대 방향이지만 '쉬워지다'가 아니라 '나빠지다' 뜻으로 더 자주 쓰인다"
+        }
+      ]
+    },
+    {
+      "headword": "propensity",
+      "pos": "n.",
+      "ko": "(타고난) 성향, 경향",
+      "example_en": "Economists study households' propensity to save when interest rates rise.",
+      "example_ko": "경제학자들은 금리가 오를 때 가계의 저축 성향을 연구한다.",
+      "collocations": [
+        "a propensity for/to",
+        "propensity to consume",
+        "risk propensity"
+      ],
+      "note": "경제학 용어 '한계소비성향(marginal propensity to consume)'의 그 propensity. tendency보다 격식 있고, 주로 바람직하지 않거나 본성에 가까운 기질(a propensity for violence)에 쓴다. 뒤에 for + 명사 / to부정사.",
+      "related": [
+        {
+          "word": "tendency",
+          "ko": "경향",
+          "note": "가장 중립적·일반적인 말 — propensity는 '본래 그렇게 기우는 성질'이라는 뉘앙스가 더 강하다"
+        },
+        {
+          "word": "proclivity",
+          "ko": "(나쁜) 성향",
+          "note": "거의 동의어지만 부정적 뉘앙스가 더 짙다"
+        }
+      ]
+    },
+    {
+      "headword": "deference",
+      "pos": "n.",
+      "ko": "존중, 경의; (판단의) 양보",
+      "example_en": "In deference to local customs, the delegation removed their shoes before entering the hall.",
+      "example_ko": "현지 관습을 존중하여 대표단은 홀에 들어가기 전에 신발을 벗었다.",
+      "collocations": [
+        "in deference to",
+        "show deference",
+        "judicial deference"
+      ],
+      "note": "defer는 두 갈래 — '미루다(defer payment)'의 명사는 deferral/deferment, '(상대 의견에) 따르다(defer to)'의 명사가 deference. 같은 동사에서 나왔지만 '연기'와 '존중'으로 뜻이 갈라지니 짝을 맞춰 외울 것.",
+      "family": [
+        {
+          "word": "defer to",
+          "pos": "v.",
+          "ko": "(상대의 판단에) 따르다"
+        },
+        {
+          "word": "deferential",
+          "pos": "a.",
+          "ko": "공손한, 경의를 표하는"
+        },
+        {
+          "word": "deferral",
+          "pos": "n.",
+          "ko": "연기, 유예 — '존중'이 아님에 주의"
+        }
+      ]
+    }
+  ]
+}
