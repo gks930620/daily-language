@@ -1,0 +1,388 @@
+{
+  "date": "2026-11-25",
+  "words": [
+    {
+      "headword": "disconnect",
+      "pos": "v.",
+      "ko": "연결을 끊다; (업무에서) 손을 놓다",
+      "example_en": "Many employees find it hard to disconnect from work even on vacation.",
+      "example_ko": "많은 직원들이 휴가 중에도 일에서 손을 놓기 어려워한다.",
+      "collocations": [
+        "right to disconnect",
+        "disconnect from work"
+      ],
+      "note": "dis-(반대) + connect(연결하다). 명사로 쓰면 'a disconnect between A and B'(A와 B 사이의 괴리)라는 시사 빈출 뜻이 된다 — 예: a disconnect between policy and reality(정책과 현실의 괴리).",
+      "family": [
+        {
+          "word": "disconnection",
+          "pos": "n.",
+          "ko": "단절, 연결 끊김"
+        },
+        {
+          "word": "disconnected",
+          "pos": "a.",
+          "ko": "단절된; 동떨어진"
+        }
+      ]
+    },
+    {
+      "headword": "deride",
+      "pos": "v.",
+      "ko": "조롱하다, 비웃다",
+      "example_en": "The plan, once derided as unrealistic, is now being copied by rival cities.",
+      "example_ko": "한때 비현실적이라고 조롱받던 그 계획이 지금은 경쟁 도시들이 따라 하고 있다.",
+      "collocations": [
+        "deride A as B",
+        "widely derided"
+      ],
+      "note": "de-(아래로) + ridere(웃다, 라틴어) — 내려다보며 웃다. ridiculous(우스꽝스러운)·ridicule(조롱)과 같은 뿌리라 묶어 외우면 된다. 'deride A as B'(A를 B라고 깎아내리다) 틀로 기사에 자주 나온다.",
+      "family": [
+        {
+          "word": "derision",
+          "pos": "n.",
+          "ko": "조롱, 조소"
+        },
+        {
+          "word": "derisive",
+          "pos": "a.",
+          "ko": "조롱하는(태도)"
+        },
+        {
+          "word": "derisory",
+          "pos": "a.",
+          "ko": "(액수 등이) 터무니없이 적은 — 비웃음을 살 만한"
+        }
+      ]
+    },
+    {
+      "headword": "quixotic",
+      "pos": "a.",
+      "ko": "비현실적으로 이상주의적인",
+      "example_en": "Critics called his campaign to ban cars from downtown a quixotic crusade.",
+      "example_ko": "비판자들은 도심에서 자동차를 금지하려는 그의 캠페인을 돈키호테식 성전이라고 불렀다.",
+      "collocations": [
+        "a quixotic quest",
+        "quixotic attempt"
+      ],
+      "note": "소설 『돈키호테(Don Quixote)』에서 나온 말 — 풍차를 거인으로 알고 돌진한 주인공처럼 '고귀하지만 실현 불가능한' 목표를 좇는 모습. 단순히 '어리석은'이 아니라 '이상은 좋은데 현실성이 없다'는 뉘앙스.",
+      "related": [
+        {
+          "word": "idealistic",
+          "ko": "이상주의적인",
+          "note": "중립~긍정 — quixotic은 '비현실적'이라는 비판이 깔린다"
+        },
+        {
+          "word": "far-fetched",
+          "ko": "억지스러운",
+          "note": "생각·주장이 믿기 어렵다는 뜻 — quixotic은 시도·목표가 이룰 수 없다는 뜻"
+        }
+      ]
+    },
+    {
+      "headword": "legislate",
+      "pos": "v.",
+      "ko": "법률을 제정하다, 법으로 규제하다",
+      "example_en": "You cannot legislate good manners, but you can legislate against harassment.",
+      "example_ko": "예의를 법으로 만들 수는 없지만, 괴롭힘을 법으로 금지할 수는 있다.",
+      "collocations": [
+        "legislate against",
+        "legislate for"
+      ],
+      "note": "leg-(법) + lat-(가져오다) — 법을 가져다 놓다. leg-가 '법' 계열이라 legal(합법적인)·legitimate(정당한)·privilege(특권=개인에게 주는 법)도 같은 뿌리. 사람·기관·행위로 파생이 갈라지니 family로 함께 익힐 것.",
+      "family": [
+        {
+          "word": "legislation",
+          "pos": "n.",
+          "ko": "법률, 입법"
+        },
+        {
+          "word": "legislative",
+          "pos": "a.",
+          "ko": "입법의"
+        },
+        {
+          "word": "legislator",
+          "pos": "n.",
+          "ko": "입법자, 국회의원"
+        },
+        {
+          "word": "legislature",
+          "pos": "n.",
+          "ko": "입법부, 의회"
+        }
+      ]
+    },
+    {
+      "headword": "second nature",
+      "pos": "n.",
+      "ko": "제2의 천성, 몸에 밴 습관",
+      "example_en": "After a few weeks, checking the safety list became second nature to the new staff.",
+      "example_ko": "몇 주가 지나자 안전 점검표를 확인하는 일이 신입 직원들에게 몸에 배었다.",
+      "collocations": [
+        "become second nature",
+        "second nature to sb"
+      ],
+      "note": "타고난 본성(first nature)은 아니지만 반복으로 그만큼 자연스러워진 것. 관사 없이 'become second nature (to 사람)' 형태로 쓰는 게 핵심 — a second nature라고 쓰지 않는다.",
+      "related": [
+        {
+          "word": "habitual",
+          "ko": "습관적인",
+          "note": "형용사 — second nature는 명사구로 become의 보어 자리에 쓴다"
+        }
+      ]
+    },
+    {
+      "headword": "roster",
+      "pos": "n.",
+      "ko": "명단, 근무 당번표",
+      "example_en": "The firm has added three major retailers to its roster of clients this year.",
+      "example_ko": "그 회사는 올해 고객 명단에 대형 유통업체 세 곳을 추가했다.",
+      "collocations": [
+        "a roster of clients",
+        "duty roster",
+        "a growing roster of"
+      ],
+      "note": "원래 네덜란드어로 '석쇠(rooster)' — 칸이 쳐진 석쇠처럼 줄 그은 표에서 '근무표·명단'이 됐다. 스포츠 기사에선 '선수단 명단', 비즈니스에선 'a roster of clients(고객 명단)'로 자주 나온다.",
+      "related": [
+        {
+          "word": "rooster",
+          "ko": "수탉",
+          "note": "철자 하나 차이 혼동어 — o가 두 개면 수탉"
+        },
+        {
+          "word": "lineup",
+          "ko": "라인업, 구성",
+          "note": "roster는 소속 전체 명단, lineup은 그중 실제로 나서는 구성"
+        }
+      ]
+    },
+    {
+      "headword": "round-the-clock",
+      "pos": "a.",
+      "ko": "24시간 내내의, 밤낮없는",
+      "example_en": "The hospital provides round-the-clock care for patients in the intensive care unit.",
+      "example_ko": "그 병원은 중환자실 환자들에게 24시간 간호를 제공한다.",
+      "collocations": [
+        "round-the-clock care",
+        "round-the-clock coverage"
+      ],
+      "note": "시곗바늘이 한 바퀴(round) 다 돈다 = 하루 종일. 명사 앞에선 하이픈을 붙여 형용사(round-the-clock service), 동사 뒤에선 하이픈 없이 부사(work round the clock)로 쓴다.",
+      "related": [
+        {
+          "word": "around-the-clock",
+          "ko": "24시간 내내의",
+          "note": "미국식 표현 — 뜻은 같다"
+        },
+        {
+          "word": "24/7",
+          "ko": "연중무휴",
+          "note": "구어체 — 하루 24시간·일주일 7일"
+        }
+      ]
+    },
+    {
+      "headword": "shield",
+      "pos": "v.",
+      "ko": "보호하다, 가려 주다",
+      "example_en": "The new law shields whistleblowers from being fired.",
+      "example_ko": "새 법은 내부고발자가 해고되지 않도록 보호한다.",
+      "collocations": [
+        "shield A from B",
+        "shield sb from liability"
+      ],
+      "note": "명사 '방패'가 그대로 동사가 된 것. 'shield A from B'(A를 B로부터 막아 주다) 구조가 거의 고정 — protect A from B와 같은 틀로 외우면 된다. 비유적으로 책임·비판·위험에서 '막아 준다'는 뜻으로 기사에 많다.",
+      "related": [
+        {
+          "word": "protect",
+          "ko": "보호하다",
+          "note": "가장 일반적 — shield는 '앞을 가로막아' 막아 준다는 그림이 있다"
+        },
+        {
+          "word": "shelter",
+          "ko": "피난처를 제공하다",
+          "note": "위에서 덮어 주는 그림 — shield는 앞에서 막아 주는 그림"
+        }
+      ]
+    },
+    {
+      "headword": "protocol",
+      "pos": "n.",
+      "ko": "규약, (공식) 절차; 의전",
+      "example_en": "All staff must follow the safety protocol when handling chemicals.",
+      "example_ko": "모든 직원은 화학물질을 다룰 때 안전 절차를 따라야 한다.",
+      "collocations": [
+        "safety protocol",
+        "follow protocol",
+        "breach of protocol"
+      ],
+      "note": "proto-(첫 번째) + kolla(풀, 그리스어) — 문서 맨 앞에 풀로 붙인 첫 장(규정 요약)에서 '정해진 절차'가 됐다. 외교에선 '의전', IT에선 '통신 규약', 의료에선 '치료 지침'으로 분야마다 옷을 갈아입는다.",
+      "related": [
+        {
+          "word": "procedure",
+          "ko": "절차",
+          "note": "일반적 처리 순서 — protocol은 공식적으로 정해져 반드시 지켜야 하는 규칙이라는 무게가 있다"
+        },
+        {
+          "word": "prototype",
+          "ko": "시제품",
+          "note": "같은 proto-(첫 번째) 계열"
+        }
+      ]
+    },
+    {
+      "headword": "prize",
+      "pos": "v.",
+      "ko": "소중히 여기다, 높이 평가하다",
+      "example_en": "Many job seekers prize flexibility over a higher salary.",
+      "example_ko": "많은 구직자들이 더 높은 연봉보다 유연성을 더 소중히 여긴다.",
+      "collocations": [
+        "prize A over B",
+        "highly prized"
+      ],
+      "note": "명사 '상'만 알면 독해에서 막힌다 — 동사 prize는 '상을 줄 만큼 귀하게 여기다'. 수동형 prized(귀하게 여겨지는)가 형용사처럼 자주 쓰인다: a prized possession(애지중지하는 물건).",
+      "related": [
+        {
+          "word": "price",
+          "ko": "가격; 값을 매기다",
+          "note": "철자 혼동어 — price는 '가격', prize는 '귀하게 여기다'. 둘 다 라틴어 pretium(값)에서 갈라졌다"
+        },
+        {
+          "word": "praise",
+          "ko": "칭찬하다",
+          "note": "말로 칭찬하는 것 — prize는 마음속으로 귀하게 여기는 것"
+        }
+      ]
+    },
+    {
+      "headword": "ingrained",
+      "pos": "a.",
+      "ko": "뿌리 깊은, 깊이 배어 있는",
+      "example_en": "Changing deeply ingrained habits takes more than a single training session.",
+      "example_ko": "깊이 밴 습관을 바꾸려면 한 번의 교육 이상의 것이 필요하다.",
+      "collocations": [
+        "deeply ingrained",
+        "ingrained habit",
+        "ingrained prejudice"
+      ],
+      "note": "in-(안으로) + grain(나뭇결) — 염료가 나뭇결 속까지 스며들어 지워지지 않는 상태. 그래서 습관·편견·문화처럼 '고치기 어려운 것'에 붙는다. deeply ingrained가 짝꿍.",
+      "related": [
+        {
+          "word": "entrenched",
+          "ko": "확고히 자리 잡은",
+          "note": "참호(trench)를 판 것처럼 굳어진 — 제도·권력에 잘 붙고, ingrained는 습관·태도에 잘 붙는다"
+        },
+        {
+          "word": "innate",
+          "ko": "타고난",
+          "note": "태어날 때부터 있는 것 — ingrained는 살면서 배어든 것"
+        }
+      ]
+    },
+    {
+      "headword": "downtime",
+      "pos": "n.",
+      "ko": "휴식 시간; (기계·시스템) 가동 중단 시간",
+      "example_en": "Without enough downtime, even the most motivated employees eventually burn out.",
+      "example_ko": "충분한 휴식 시간이 없으면 의욕이 가장 넘치는 직원조차 결국 번아웃에 빠진다.",
+      "collocations": [
+        "unplanned downtime",
+        "minimize downtime",
+        "need some downtime"
+      ],
+      "note": "공장·IT에서 '기계가 멈춘(down) 시간'이 원뜻이라 토익에선 minimize downtime(가동 중단을 최소화하다)으로 나오고, 일상에선 '사람이 쉬는 시간'으로 쓴다. 같은 단어가 비용(기계)과 필요(사람) 정반대 가치로 쓰이는 게 포인트.",
+      "related": [
+        {
+          "word": "uptime",
+          "ko": "가동 시간",
+          "note": "반대말 — 서버가 정상 작동한 시간"
+        },
+        {
+          "word": "downturn",
+          "ko": "경기 하강",
+          "note": "down- 혼동어 — 시간이 아니라 경기·실적의 하락"
+        }
+      ]
+    },
+    {
+      "headword": "decompress",
+      "pos": "v.",
+      "ko": "긴장을 풀다; 압력을 낮추다",
+      "example_en": "She takes a long walk after work to decompress before going home.",
+      "example_ko": "그녀는 집에 가기 전 긴장을 풀기 위해 퇴근 후 오래 걷는다.",
+      "collocations": [
+        "decompress after work",
+        "time to decompress"
+      ],
+      "note": "de-(제거) + compress(압축하다) — 꽉 눌린 압력을 빼다. 컴퓨터에선 '압축 풀기', 사람에겐 '스트레스 압력을 빼고 쉬다'. 자동사로 쓰여 목적어 없이 I need to decompress.처럼 말한다.",
+      "family": [
+        {
+          "word": "decompression",
+          "pos": "n.",
+          "ko": "감압; 긴장 완화"
+        }
+      ],
+      "related": [
+        {
+          "word": "unwind",
+          "ko": "긴장을 풀다",
+          "note": "거의 동의어 — 감긴 태엽을 푸는 그림. decompress는 눌린 압력을 빼는 그림"
+        }
+      ]
+    },
+    {
+      "headword": "ruminate",
+      "pos": "v.",
+      "ko": "곱씹다, 골똘히 되새기다",
+      "example_en": "Workers who ruminate about the office at night tend to sleep poorly.",
+      "example_ko": "밤에 회사 일을 곱씹는 노동자들은 잠을 잘 못 자는 경향이 있다.",
+      "collocations": [
+        "ruminate on",
+        "ruminate about"
+      ],
+      "note": "원래 '소가 되새김질하다'(rumen=소의 첫째 위). 삼킨 걸 다시 올려 씹듯 같은 생각을 계속 되씹는 것 — 심리학 기사에선 우울·불면과 연결된 '반추(rumination)'로 부정적 뉘앙스가 강하다.",
+      "family": [
+        {
+          "word": "rumination",
+          "pos": "n.",
+          "ko": "반추, 곱씹기; 되새김질"
+        },
+        {
+          "word": "ruminant",
+          "pos": "n.",
+          "ko": "반추 동물(소·양 등)"
+        }
+      ],
+      "related": [
+        {
+          "word": "contemplate",
+          "ko": "숙고하다",
+          "note": "차분히 깊이 생각하는 중립적 뉘앙스 — ruminate는 떨치지 못하고 반복하는 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "codify",
+      "pos": "v.",
+      "ko": "성문화하다, 법·규칙으로 명시하다",
+      "example_en": "The agreement codifies practices that most firms were already following informally.",
+      "example_ko": "그 합의는 대부분의 기업이 이미 비공식적으로 따르던 관행을 성문화한다.",
+      "collocations": [
+        "codify into law",
+        "codify a practice"
+      ],
+      "note": "code(법전) + -ify(~로 만들다) — 관행·불문율을 법전 속 조문으로 만든다. -ify는 '~화하다' 동사 접미사(simplify 단순화, intensify 강화)로, 명사형은 -ification(codification)이 된다.",
+      "family": [
+        {
+          "word": "codification",
+          "pos": "n.",
+          "ko": "성문화, 법전화"
+        },
+        {
+          "word": "code",
+          "pos": "n.",
+          "ko": "법전, 규약; 암호"
+        }
+      ]
+    }
+  ]
+}
