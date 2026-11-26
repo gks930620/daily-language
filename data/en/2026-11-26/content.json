@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-11-26",
+  "passage_note": "심리학 — 우리는 왜 감사 표현의 힘을 과소평가하는가(교양 기사)",
+  "sentences": [
+    {
+      "en": "Psychologists have long known that expressing gratitude boosts the well-being of both the giver and the recipient, but most people rarely bother to write a thank-you note.",
+      "ko": "심리학자들은 감사를 표현하는 것이 주는 사람과 받는 사람 모두의 행복감을 높인다는 것을 오래전부터 알고 있었지만, 대부분의 사람들은 굳이 감사 편지를 쓰는 일이 거의 없다.",
+      "structure": "· have long known: 현재완료(계속) — 과거부터 지금까지 쭉 알아 왔다는 뜻.\n· that절이 known의 목적어이고, 그 안에서 동명사구 expressing gratitude가 주어, boosts가 동사.\n· both A and B: 상관접속사 'A와 B 둘 다'.\n· rarely bother to-v: 준부정어 rarely + bother to-v = '굳이 ~하는 일이 거의 없다'.",
+      "vocab_notes": [
+        { "word": "psychologist", "ko": "심리학자" },
+        { "word": "have long known", "ko": "오래전부터 알고 있다" },
+        { "word": "express", "ko": "표현하다" },
+        { "word": "gratitude", "ko": "감사, 고마움" },
+        { "word": "boost", "ko": "높이다, 북돋우다" },
+        { "word": "well-being", "ko": "행복, 안녕, 웰빙" },
+        { "word": "giver", "ko": "주는 사람" },
+        { "word": "recipient", "ko": "받는 사람, 수령인" },
+        { "word": "rarely", "ko": "좀처럼 ~하지 않는" },
+        { "word": "bother to", "ko": "굳이 ~하다, 애써 ~하다" },
+        { "word": "thank-you note", "ko": "감사 편지(쪽지)" }
+      ]
+    },
+    {
+      "en": "A series of experiments conducted by American researchers suggests one reason why: we systematically underestimate how deeply our appreciation will resonate with others.",
+      "ko": "미국 연구진이 수행한 일련의 실험은 그 이유 하나를 시사한다. 우리는 자신의 감사가 상대에게 얼마나 깊은 울림을 줄지를 일관되게 과소평가한다는 것이다.",
+      "structure": "· conducted by ~ : 과거분사구가 experiments를 뒤에서 수식('~에 의해 수행된').\n· 주어의 핵심은 A series(단수) → 동사 suggests.\n· 콜론(:) 뒤는 앞의 one reason why를 구체적으로 풀어 주는 설명.\n· how deeply our appreciation will resonate ~ : 간접의문문(의문사+주어+동사)이 underestimate의 목적어.",
+      "vocab_notes": [
+        { "word": "a series of", "ko": "일련의" },
+        { "word": "experiment", "ko": "실험" },
+        { "word": "conduct", "ko": "수행하다, 실시하다" },
+        { "word": "researcher", "ko": "연구자" },
+        { "word": "suggest", "ko": "시사하다, 암시하다" },
+        { "word": "reason why", "ko": "~한 이유" },
+        { "word": "systematically", "ko": "체계적으로, 일관되게" },
+        { "word": "underestimate", "ko": "과소평가하다" },
+        { "word": "deeply", "ko": "깊이" },
+        { "word": "appreciation", "ko": "감사, 고마움; 진가의 인정" },
+        { "word": "resonate with", "ko": "~에게 울림을 주다, 공감을 불러일으키다" }
+      ]
+    },
+    {
+      "en": "Participants who wrote heartfelt letters predicted that the recipients would feel only mildly pleased and even a little awkward, but the recipients reported being far happier than the writers had anticipated.",
+      "ko": "진심 어린 편지를 쓴 참가자들은 받는 사람이 그저 약간 기뻐하고 심지어 조금 어색해할 거라고 예측했지만, 받는 사람들은 편지를 쓴 이들이 예상했던 것보다 훨씬 더 행복했다고 응답했다.",
+      "structure": "· who wrote heartfelt letters: 주격 관계대명사절이 Participants를 수식.\n· would feel: 시제 일치 — 과거(predicted) 시점에서 본 미래.\n· feel + 형용사(pleased, awkward): 2형식 보어.\n· report + 동명사(being ~): '~라고 응답하다'.\n· far happier: far가 비교급을 강조('훨씬').\n· had anticipated: 과거완료 — 응답(reported)보다 앞서 예상한 일.",
+      "vocab_notes": [
+        { "word": "participant", "ko": "참가자" },
+        { "word": "heartfelt", "ko": "진심 어린" },
+        { "word": "predict", "ko": "예측하다" },
+        { "word": "mildly", "ko": "약간, 가볍게" },
+        { "word": "pleased", "ko": "기쁜, 만족한" },
+        { "word": "awkward", "ko": "어색한, 거북한" },
+        { "word": "report", "ko": "보고하다, (설문에서) 응답하다" },
+        { "word": "far happier", "ko": "훨씬 더 행복한" },
+        { "word": "anticipate", "ko": "예상하다, 기대하다" }
+      ]
+    },
+    {
+      "en": "The writers, it turned out, had fixated on whether their words sounded articulate enough, overlooking the fact that recipients cared mostly about the warmth behind the gesture.",
+      "ko": "알고 보니 편지를 쓴 사람들은 자기 글이 충분히 조리 있게 들리는지에 집착하느라, 받는 사람이 주로 신경 쓰는 것은 그 행동에 담긴 따뜻한 마음이라는 사실을 간과했던 것이다.",
+      "structure": "· it turned out: 주어와 동사 사이에 끼어든 삽입절('알고 보니').\n· whether ~ enough: whether절(명사절)이 전치사 on의 목적어.\n· sound + 형용사(articulate): 2형식 — '~하게 들리다'.\n· overlooking ~ : 분사구문(결과·동시동작) = and they overlooked ~.\n· the fact that ~ : 동격의 that — that절이 the fact의 내용.",
+      "vocab_notes": [
+        { "word": "it turned out", "ko": "알고 보니, ~로 밝혀졌다" },
+        { "word": "fixate on", "ko": "~에 집착하다" },
+        { "word": "whether", "ko": "~인지 아닌지" },
+        { "word": "sound", "ko": "~하게 들리다" },
+        { "word": "articulate", "ko": "(말·글이) 조리 있는, 명료한" },
+        { "word": "overlook", "ko": "간과하다, 못 보고 넘어가다" },
+        { "word": "the fact that", "ko": "~라는 사실" },
+        { "word": "care about", "ko": "~에 신경 쓰다, 마음을 쓰다" },
+        { "word": "mostly", "ko": "주로, 대부분" },
+        { "word": "warmth", "ko": "따뜻함, 온정" },
+        { "word": "gesture", "ko": "(마음을 담은) 행동, 표시" }
+      ]
+    },
+    {
+      "en": "Had they perceived this gap more accurately, the researchers argue, many would not have hesitated to reap the benefits of such a simple, cost-free act.",
+      "ko": "연구진의 주장에 따르면, 그들이 이 차이를 더 정확히 인식했더라면 많은 이들이 이렇게 간단하고 돈도 들지 않는 행동의 혜택을 누리기를 주저하지 않았을 것이다.",
+      "structure": "· Had they perceived ~ = If they had perceived ~ : 가정법 과거완료에서 if를 생략하고 주어·조동사를 도치.\n· 주절 would not have p.p.: 과거 사실의 반대('~하지 않았을 것이다').\n· the researchers argue: 삽입절.\n· such a + 형용사 + 명사: such의 어순(a such가 아님).",
+      "vocab_notes": [
+        { "word": "perceive", "ko": "인식하다, 지각하다" },
+        { "word": "gap", "ko": "격차, 차이" },
+        { "word": "accurately", "ko": "정확하게" },
+        { "word": "argue", "ko": "주장하다" },
+        { "word": "hesitate to", "ko": "~하기를 주저하다" },
+        { "word": "reap the benefits", "ko": "혜택을 거두다(누리다)" },
+        { "word": "cost-free", "ko": "비용이 들지 않는" },
+        { "word": "act", "ko": "행위, 행동" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "gratitude",
+      "pos": "n.",
+      "ko": "감사, 고마움",
+      "example_en": "The CEO expressed her gratitude to employees for their hard work during the merger.",
+      "example_ko": "CEO는 합병 기간 동안 애써 준 직원들에게 감사를 표했다.",
+      "collocations": ["express gratitude", "a token of gratitude", "deep gratitude"],
+      "note": "어원: grat-(기쁨·호의) — grateful(고마워하는), congratulate(함께 기뻐하다), gratis(무료로)와 같은 뿌리. 이미 배운 gratification(만족·충족)과 철자가 비슷하지만 뜻은 '고마움'이다.",
+      "family": [
+        { "word": "grateful", "pos": "a.", "ko": "고마워하는" },
+        { "word": "ingratitude", "pos": "n.", "ko": "배은망덕" }
+      ],
+      "related": [
+        { "word": "gratification", "ko": "만족, 충족", "note": "혼동어 — gratification은 욕구가 '채워지는' 만족(instant gratification 즉각적 만족), gratitude는 남에게 느끼는 '고마움'" }
+      ]
+    },
+    {
+      "headword": "underestimate",
+      "pos": "v.",
+      "ko": "과소평가하다",
+      "example_en": "Many startups underestimate how long it takes to reach profitability.",
+      "example_ko": "많은 스타트업이 흑자를 내기까지 걸리는 시간을 과소평가한다.",
+      "collocations": ["underestimate the cost", "grossly underestimate", "never underestimate"],
+      "note": "under-(아래로) + estimate(어림하다) — 실제보다 '낮게' 어림한다. 반대는 over-를 붙인 overestimate. 명사로도 쓰여 'a gross underestimate(심한 과소평가)'.",
+      "family": [
+        { "word": "estimate", "pos": "v./n.", "ko": "추정하다; 견적" },
+        { "word": "overestimate", "pos": "v.", "ko": "과대평가하다" }
+      ],
+      "related": [
+        { "word": "underrate", "ko": "과소평가하다", "note": "underestimate는 수치·규모를 낮게 '어림'하는 것, underrate는 사람·작품의 가치를 낮게 '평가'하는 것(underrated movie)" }
+      ]
+    },
+    {
+      "headword": "appreciation",
+      "pos": "n.",
+      "ko": "감사; 진가의 인정; (가치) 상승",
+      "example_en": "The yen's sharp appreciation against the dollar hurt Japanese exporters.",
+      "example_ko": "달러 대비 엔화의 급격한 절상은 일본 수출 기업에 타격을 주었다.",
+      "collocations": ["in appreciation of", "currency appreciation", "show appreciation"],
+      "note": "어원: ap-(~로) + preci-(값, price) — '값을 매기다'에서 ① 가치를 알아보다(감상·감사) ② 값이 오르다(자산·통화 가치 상승)로 갈라진다. 경제 기사에서는 ②의 뜻이 많고, 반대말은 이미 배운 depreciate(가치 하락).",
+      "family": [
+        { "word": "appreciate", "pos": "v.", "ko": "고마워하다; 진가를 알다; 가치가 오르다" },
+        { "word": "appreciative", "pos": "a.", "ko": "고마워하는; 감상할 줄 아는" }
+      ],
+      "related": [
+        { "word": "depreciation", "ko": "가치 하락, 감가상각", "note": "반대말 — de-(아래로) + preci-(값)" }
+      ]
+    },
+    {
+      "headword": "resonate",
+      "pos": "v.",
+      "ko": "울림을 주다, 공감을 얻다",
+      "example_en": "The campaign's message resonated with younger voters worried about housing costs.",
+      "example_ko": "그 캠페인의 메시지는 집값을 걱정하는 젊은 유권자들에게 공감을 얻었다.",
+      "collocations": ["resonate with", "resonate deeply"],
+      "note": "re-(다시) + son-(소리) — 소리가 '되울리다'(공명)에서 생각·메시지가 사람 마음에 '와닿다'로 확장. 시사 기사에서 '~의 마음에 와닿다'는 거의 resonate with로 쓴다. son-은 sonic(음파의)·sonar(수중 음파 탐지기)와 같은 뿌리.",
+      "family": [
+        { "word": "resonance", "pos": "n.", "ko": "공명; 울림, 반향" },
+        { "word": "resonant", "pos": "a.", "ko": "울려 퍼지는; 깊은 울림이 있는" }
+      ]
+    },
+    {
+      "headword": "heartfelt",
+      "pos": "a.",
+      "ko": "진심 어린",
+      "example_en": "The company issued a heartfelt apology to customers affected by the data leak.",
+      "example_ko": "회사는 정보 유출 피해 고객들에게 진심 어린 사과를 발표했다.",
+      "collocations": ["heartfelt thanks", "heartfelt apology", "heartfelt condolences"],
+      "note": "heart(마음) + felt(feel의 과거분사) = '마음으로 느낀'. 감사·사과·조의(condolences) 앞에 붙는 고정 표현이라 공식 서한·이메일에서 그대로 외워 쓰면 된다.",
+      "related": [
+        { "word": "wholehearted", "ko": "전폭적인, 진심을 다한", "note": "wholehearted는 '전적인 지지(wholehearted support)'처럼 힘을 다함, heartfelt는 감정이 '진심'임에 초점" }
+      ]
+    },
+    {
+      "headword": "awkward",
+      "pos": "a.",
+      "ko": "어색한, 곤란한; 다루기 불편한",
+      "example_en": "There was an awkward silence after the manager announced the budget cuts.",
+      "example_ko": "매니저가 예산 삭감을 발표한 뒤 어색한 침묵이 흘렀다.",
+      "collocations": ["awkward silence", "awkward position", "feel awkward"],
+      "note": "awk-는 옛말로 '거꾸로·잘못된 방향'(-ward는 backward의 '방향'). '방향이 어긋난' → 몸짓이 서툴고, 분위기가 어긋나 어색하다. 회화에서 'It's a bit awkward.'(좀 곤란해/민망해)로 정말 자주 쓴다.",
+      "family": [
+        { "word": "awkwardly", "pos": "ad.", "ko": "어색하게, 서투르게" },
+        { "word": "awkwardness", "pos": "n.", "ko": "어색함" }
+      ]
+    },
+    {
+      "headword": "overlook",
+      "pos": "v.",
+      "ko": "간과하다; (잘못을) 눈감아 주다; 내려다보다",
+      "example_en": "The auditors overlooked several errors in the quarterly report.",
+      "example_ko": "감사인들은 분기 보고서의 오류 몇 개를 간과했다.",
+      "collocations": ["overlook a detail", "easy to overlook", "a room overlooking the sea"],
+      "note": "over-(너머로) + look — 시선이 대상 '너머로' 지나가 버려 못 본다(간과). 위치 뜻으로는 '내려다보다' — 호텔 광고의 'rooms overlooking the ocean(바다 전망 객실)'은 토익 단골.",
+      "related": [
+        { "word": "oversee", "ko": "감독하다", "note": "혼동어 — over-가 같아도 oversee는 '위에서 지켜보다=감독', overlook은 '못 보고 넘기다'. 이미 배운 oversight는 두 뜻(감독/실수로 빠뜨림)을 다 가진다" }
+      ]
+    },
+    {
+      "headword": "perceive",
+      "pos": "v.",
+      "ko": "인식하다, 지각하다; ~로 여기다",
+      "example_en": "The brand is widely perceived as a luxury product despite its moderate prices.",
+      "example_ko": "그 브랜드는 적당한 가격에도 불구하고 고급 제품으로 널리 인식된다.",
+      "collocations": ["be perceived as", "perceived risk", "perceive a threat"],
+      "note": "per-(완전히) + ceive(잡다, take) — 감각으로 '꽉 붙잡다'. receive(받다)·deceive(속이다)·conceive(품다)와 같은 -ceive 가족이고, 명사는 모두 -ception(perception·reception·deception)으로 바뀐다.",
+      "family": [
+        { "word": "perception", "pos": "n.", "ko": "인식, 지각; 인상" },
+        { "word": "perceptive", "pos": "a.", "ko": "통찰력 있는, 눈치 빠른" },
+        { "word": "perceptible", "pos": "a.", "ko": "감지할 수 있는(반: imperceptible)" }
+      ]
+    },
+    {
+      "headword": "reap",
+      "pos": "v.",
+      "ko": "거두다, 수확하다",
+      "example_en": "Early investors in the platform reaped huge rewards when it went public.",
+      "example_ko": "그 플랫폼의 초기 투자자들은 상장 때 막대한 보상을 거뒀다.",
+      "collocations": ["reap the benefits", "reap the rewards", "reap what you sow"],
+      "note": "원래 낫으로 곡식을 '베어 거두다'. 속담 'You reap what you sow(뿌린 대로 거둔다)'로 sow(씨 뿌리다)와 짝지어 외우면 좋다. 기사에선 reap the benefits/rewards 형태가 대부분.",
+      "related": [
+        { "word": "sow", "ko": "(씨를) 뿌리다", "note": "짝꿍 동사 — sow the seeds of ~(~의 씨앗을 뿌리다=원인을 만들다)" }
+      ]
+    },
+    {
+      "headword": "sincere",
+      "pos": "a.",
+      "ko": "진실한, 진심의",
+      "example_en": "Please accept our sincere apologies for the delay in shipping your order.",
+      "example_ko": "주문 상품의 배송 지연에 대해 진심으로 사과드립니다.",
+      "collocations": ["sincere apology", "sincere thanks", "Sincerely yours"],
+      "note": "편지 맺음말 'Sincerely,'의 그 단어. 파생 시 철자 주의 — 명사는 sinceRITY(sincerity), 부사는 sincerely. 반대는 in-을 붙인 insincere(진심이 아닌).",
+      "family": [
+        { "word": "sincerely", "pos": "ad.", "ko": "진심으로" },
+        { "word": "sincerity", "pos": "n.", "ko": "진정성, 성실" },
+        { "word": "insincere", "pos": "a.", "ko": "진심이 아닌, 위선적인" }
+      ]
+    },
+    {
+      "headword": "cynical",
+      "pos": "a.",
+      "ko": "냉소적인; (남을) 이용하려 드는",
+      "example_en": "Many voters have grown cynical about politicians' promises to cut taxes.",
+      "example_ko": "많은 유권자들이 감세하겠다는 정치인들의 약속에 냉소적이 되었다.",
+      "collocations": ["cynical about", "a cynical ploy", "grow cynical"],
+      "note": "고대 그리스 '견유학파(Cynics, kyon=개)'에서 — 세상의 체면·관습을 비웃은 데서 '사람의 선의를 믿지 않는'으로. 기사에서 a cynical move/ploy는 '속 보이는 꼼수'라는 뜻이니 함께 기억.",
+      "family": [
+        { "word": "cynic", "pos": "n.", "ko": "냉소적인 사람" },
+        { "word": "cynicism", "pos": "n.", "ko": "냉소주의" }
+      ],
+      "related": [
+        { "word": "skeptical", "ko": "회의적인", "note": "skeptical은 증거가 나올 때까지 '의심'하는 중립적 태도, cynical은 '다 속셈이 있다'고 보는 부정적 태도" }
+      ]
+    },
+    {
+      "headword": "buffer",
+      "pos": "n./v.",
+      "ko": "완충(재); 완충 작용을 하다",
+      "example_en": "Strong savings can buffer households against a sudden loss of income.",
+      "example_ko": "넉넉한 저축은 갑작스러운 소득 상실로부터 가계를 보호하는 완충 역할을 할 수 있다.",
+      "collocations": ["buffer against", "a financial buffer", "buffer zone"],
+      "note": "원래 기차 끝의 충격 흡수 장치. 충격과 나 '사이에 끼는 것'이라는 그림으로 외우면 경제(capital buffer 자본 완충), 지정학(buffer zone 완충 지대), 심리(stress buffer)까지 한 번에 풀린다. 동영상의 '버퍼링'도 같은 단어.",
+      "related": [
+        { "word": "cushion", "ko": "완충하다; 쿠션", "note": "거의 동의어 — cushion the blow(충격을 완화하다)처럼 '충격을 부드럽게' 할 때 잘 쓴다" }
+      ]
+    },
+    {
+      "headword": "self-conscious",
+      "pos": "a.",
+      "ko": "남의 시선을 의식하는, 쑥스러워하는",
+      "example_en": "He felt self-conscious about his accent during his first presentation in English.",
+      "example_ko": "그는 첫 영어 발표 때 자기 억양이 신경 쓰여 쑥스러웠다.",
+      "collocations": ["feel self-conscious", "self-conscious about"],
+      "note": "직역하면 '자기를 의식하는'이지만 실제 뜻은 '남 눈에 내가 어떻게 보일지 신경 쓰여 위축된'. self-aware(자기 인식이 있는, 긍정적)와 혼동하기 쉬우니 주의.",
+      "related": [
+        { "word": "self-aware", "ko": "자기 인식이 있는", "note": "혼동어 — self-aware는 자기 감정·한계를 잘 아는(긍정), self-conscious는 남의 시선에 위축된(부정적 뉘앙스)" },
+        { "word": "conscious", "ko": "의식하는, 깨어 있는", "note": "self-를 떼면 '의식이 있는'(be conscious of ~을 의식하다)" }
+      ]
+    },
+    {
+      "headword": "contentment",
+      "pos": "n.",
+      "ko": "만족, 자족감",
+      "example_en": "Surveys show that job contentment depends more on autonomy than on salary.",
+      "example_ko": "조사에 따르면 직업 만족감은 급여보다 자율성에 더 좌우된다.",
+      "collocations": ["a sense of contentment", "inner contentment"],
+      "note": "content는 강세로 뜻이 갈린다 — CONtent(명사: 내용물·콘텐츠) vs conTENT(형용사: 만족한). contentment는 '만족한' 쪽에서 나온 명사로, 큰 기쁨보다 '이 정도면 됐다'는 잔잔한 만족.",
+      "family": [
+        { "word": "content", "pos": "a.", "ko": "만족하는(be content with)" },
+        { "word": "contented", "pos": "a.", "ko": "만족스러워하는" },
+        { "word": "discontent", "pos": "n.", "ko": "불만" }
+      ]
+    },
+    {
+      "headword": "benefactor",
+      "pos": "n.",
+      "ko": "후원자, 기부자",
+      "example_en": "An anonymous benefactor donated $5 million to the city's public library.",
+      "example_ko": "익명의 후원자가 시립 도서관에 500만 달러를 기부했다.",
+      "collocations": ["anonymous benefactor", "generous benefactor"],
+      "note": "bene-(좋게) + fact-(하다) + -or(사람) = '좋은 일을 해 주는 사람'. 이미 배운 beneficiary(-ary: 받는 사람)와 방향이 정반대 — -or는 주는 쪽, -ary/-ee는 받는 쪽.",
+      "related": [
+        { "word": "beneficiary", "ko": "수혜자", "note": "혼동어 — benefactor가 주고 beneficiary가 받는다" },
+        { "word": "malefactor", "ko": "악인, 범죄자", "note": "mal-(나쁘게) — bene-의 반대 짝" }
+      ]
+    },
+    {
+      "headword": "commend",
+      "pos": "v.",
+      "ko": "칭찬하다, 표창하다",
+      "example_en": "The mayor commended the firefighters for their swift response to the blaze.",
+      "example_ko": "시장은 화재에 신속히 대응한 소방관들을 치하했다.",
+      "collocations": ["commend A for B", "highly commended"],
+      "note": "공식적으로 '칭찬·표창하다'로 praise보다 격식 있는 말. recommend(추천하다)는 re- + commend로, 원래 '좋다고 거듭 말하다'에서 나왔다. 형용사 commendable(칭찬할 만한)은 보고서·평가에서 자주 보인다.",
+      "family": [
+        { "word": "commendable", "pos": "a.", "ko": "칭찬할 만한" },
+        { "word": "commendation", "pos": "n.", "ko": "칭찬; 표창(장)" }
+      ],
+      "related": [
+        { "word": "recommend", "ko": "추천하다, 권고하다", "note": "혼동어 — re-가 붙으면 '남에게 권하다'로 뜻이 바뀐다" }
+      ]
+    },
+    {
+      "headword": "proclivity",
+      "pos": "n.",
+      "ko": "(좋지 않은) 성향, 기질",
+      "example_en": "The CFO's proclivity for risky bets eventually cost the firm dearly.",
+      "example_ko": "그 CFO의 위험한 투자 성향은 결국 회사에 큰 손실을 안겼다.",
+      "collocations": ["a proclivity for", "a proclivity to"],
+      "note": "pro-(앞으로) + cliv-(기울다) = '앞으로 기울어 있음'. 이미 배운 propensity·predisposition과 같은 '성향' 계열이지만, proclivity는 나쁜 버릇·취향에 쓰이는 경우가 많다. 같은 cliv-가 들어간 declivity는 '내리막 경사'.",
+      "related": [
+        { "word": "propensity", "ko": "경향, 성향", "note": "동의어 — propensity는 통계적·중립적 경향(propensity to save 저축 성향), proclivity는 개인의 (흔히 나쁜) 기질" }
+      ]
+    },
+    {
+      "headword": "gesture",
+      "pos": "n.",
+      "ko": "(마음을 담은) 행동, 표시; 몸짓",
+      "example_en": "As a goodwill gesture, the airline offered vouchers to all delayed passengers.",
+      "example_ko": "호의의 표시로 항공사는 지연된 모든 승객에게 바우처를 제공했다.",
+      "collocations": ["a goodwill gesture", "a symbolic gesture", "a gesture of appreciation"],
+      "note": "'제스처(몸짓)'로만 알면 기사에서 놓친다 — 시사 영어에서는 마음·의도를 보여 주는 '행동·조치'(a gesture of goodwill 호의의 표시, an empty gesture 빈말뿐인 조치)가 더 자주 쓰인다.",
+      "related": [
+        { "word": "gesticulate", "ko": "손짓 발짓하다", "note": "말하면서 손을 크게 움직이는 '몸짓' 뜻만 가진 동사" }
+      ]
+    }
+  ]
+}
