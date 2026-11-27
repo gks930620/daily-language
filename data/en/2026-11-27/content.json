@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "lang": "en",
+  "date": "2026-11-27",
+  "passage_note": "경제·소비 — 블랙프라이데이의 '역대급 할인'은 진짜일까? 부풀린 '정가'로 할인 폭을 커 보이게 하는 기준가 표시 수법과, 쇼핑 광풍 뒤에 밀려오는 반품의 숨은 비용(해설 기사)",
+  "sentences": [
+    {
+      "en": "As shoppers flood stores and websites for Black Friday, consumer watchdogs are warning that many of the season's eye-catching discounts are less generous than they appear.",
+      "ko": "쇼핑객들이 블랙프라이데이를 맞아 매장과 웹사이트로 몰려드는 가운데, 소비자 감시 단체들은 이 시즌의 눈길을 끄는 할인 중 상당수가 보기보다 후하지 않다고 경고하고 있다.",
+      "structure": "· As ~ : 접속사 as = '~할 때, ~하는 가운데'(시간·동시 진행).\n· warning that ~ : that절이 warn의 목적어(경고 내용).\n· less generous than they appear : 열등비교(less ~ than). they = discounts, appear 뒤에 (to be) generous가 생략됨.",
+      "vocab_notes": [
+        { "word": "flood", "ko": "몰려들다, 쇄도하다" },
+        { "word": "Black Friday", "ko": "블랙프라이데이(미국 추수감사절 다음 날의 대규모 할인 행사)" },
+        { "word": "consumer watchdog", "ko": "소비자 감시 단체" },
+        { "word": "warn", "ko": "경고하다" },
+        { "word": "season", "ko": "(특정 행사의) 시즌, 철" },
+        { "word": "eye-catching", "ko": "눈길을 끄는" },
+        { "word": "discount", "ko": "할인" },
+        { "word": "generous", "ko": "후한, 넉넉한" },
+        { "word": "appear", "ko": "~처럼 보이다" }
+      ]
+    },
+    {
+      "en": "A common tactic, known as reference pricing, involves displaying an inflated 'original' price next to the sale price, so that an ordinary markdown masquerades as a once-a-year bargain.",
+      "ko": "기준가 표시라고 알려진 흔한 수법은 할인가 옆에 부풀린 '정가'를 함께 표시하는 것으로, 그 결과 평범한 가격 인하가 일 년에 한 번뿐인 특가인 것처럼 둔갑한다.",
+      "structure": "· known as reference pricing : 과거분사구가 콤마 사이에 삽입되어 A common tactic을 보충 설명.\n· involve + 동명사(displaying) : involve는 동명사를 목적어로 취한다('~하는 것을 포함하다').\n· so that + S + V : 여기서는 목적이 아니라 결과('그래서 ~하게 된다').",
+      "vocab_notes": [
+        { "word": "tactic", "ko": "전술, 수법" },
+        { "word": "known as", "ko": "~로 알려진, ~라 불리는" },
+        { "word": "reference pricing", "ko": "기준가 표시(비교용 원래 가격을 함께 보여 주는 가격 표시 방식)" },
+        { "word": "involve", "ko": "포함하다, 수반하다" },
+        { "word": "display", "ko": "표시하다, 진열하다" },
+        { "word": "inflate", "ko": "부풀리다" },
+        { "word": "original price", "ko": "정가, 원래 가격" },
+        { "word": "sale price", "ko": "할인가" },
+        { "word": "ordinary", "ko": "평범한, 보통의" },
+        { "word": "markdown", "ko": "가격 인하" },
+        { "word": "masquerade as", "ko": "~로 가장하다, ~인 척하다" },
+        { "word": "once-a-year", "ko": "일 년에 한 번뿐인" },
+        { "word": "bargain", "ko": "싼 물건, 특가품" }
+      ]
+    },
+    {
+      "en": "Investigators who tracked thousands of items over several months found that a sizable share had never actually been sold at the higher price, or had been briefly hiked just weeks before the event to make the eventual cut look steeper.",
+      "ko": "수천 개 품목을 몇 달에 걸쳐 추적한 조사관들은 상당수가 실제로는 그 높은 가격에 팔린 적이 한 번도 없거나, 최종 인하 폭이 더 커 보이도록 행사 불과 몇 주 전에 잠깐 가격이 인상되었다는 사실을 발견했다.",
+      "structure": "· who tracked ~ : 주격 관계대명사절이 Investigators를 수식. 문장의 본동사는 found.\n· had never been sold / had been hiked : 과거완료 수동태 — 발견한(found) 시점보다 앞선 일. or로 두 동사구가 병렬.\n· to make the eventual cut look steeper : to부정사의 부사적 용법(목적) + 사역동사 make + 목적어 + 동사원형(look).",
+      "vocab_notes": [
+        { "word": "investigator", "ko": "조사관, 조사원" },
+        { "word": "track", "ko": "추적하다" },
+        { "word": "item", "ko": "품목, 물품" },
+        { "word": "sizable", "ko": "상당한, 꽤 큰" },
+        { "word": "share", "ko": "몫, 비율" },
+        { "word": "actually", "ko": "실제로" },
+        { "word": "briefly", "ko": "잠깐, 짧게" },
+        { "word": "hike", "ko": "(가격을) 인상하다" },
+        { "word": "event", "ko": "행사" },
+        { "word": "eventual", "ko": "최종적인, 결국의" },
+        { "word": "cut", "ko": "(가격) 인하, 삭감" },
+        { "word": "steep", "ko": "(폭이) 큰, 가파른" }
+      ]
+    },
+    {
+      "en": "Retailers counter that prices fluctuate constantly and that savvy shoppers can easily compare offers online, yet critics argue that countdown clocks and 'only three left' banners are designed precisely to discourage such comparison.",
+      "ko": "소매업체들은 가격은 늘 변동하며 요령 있는 쇼핑객이라면 온라인에서 쉽게 가격을 비교할 수 있다고 반박하지만, 비판론자들은 카운트다운 시계와 '단 3개 남음' 배너가 바로 그런 비교를 못 하게 하려고 고안된 것이라고 주장한다.",
+      "structure": "· counter that ~ and that ~ : that절 두 개가 and로 병렬되어 둘 다 counter(반박하다)의 목적어.\n· yet : 등위접속사 '그런데도, 그러나'(but보다 대조가 강함).\n· be designed to + 동사원형 : 수동태 + to부정사 '~하도록 고안되다'. precisely가 to부정사를 강조('바로 ~하려고').",
+      "vocab_notes": [
+        { "word": "retailer", "ko": "소매업체" },
+        { "word": "counter", "ko": "반박하다" },
+        { "word": "fluctuate", "ko": "변동하다, 오르내리다" },
+        { "word": "constantly", "ko": "끊임없이, 늘" },
+        { "word": "savvy", "ko": "요령 있는, 물정에 밝은" },
+        { "word": "compare", "ko": "비교하다" },
+        { "word": "offer", "ko": "(판매) 제안, 할인 상품" },
+        { "word": "critic", "ko": "비판론자" },
+        { "word": "argue", "ko": "주장하다" },
+        { "word": "countdown clock", "ko": "카운트다운 시계(남은 시간 표시)" },
+        { "word": "banner", "ko": "배너(광고), 현수막" },
+        { "word": "be designed to", "ko": "~하도록 고안되다" },
+        { "word": "precisely", "ko": "바로, 정확히" },
+        { "word": "discourage", "ko": "막다, 단념시키다" },
+        { "word": "comparison", "ko": "비교" }
+      ]
+    },
+    {
+      "en": "Meanwhile, the buying frenzy carries a hidden cost: a wave of returns in the following weeks, many of which end up not back on shelves but in liquidation bins or landfills.",
+      "ko": "한편 이런 구매 광풍에는 숨은 비용이 따른다. 바로 이후 몇 주간 밀려드는 반품 물결인데, 그중 상당수는 결국 진열대로 돌아가지 못하고 재고 처분 상자나 매립지로 간다.",
+      "structure": "· 콜론(:) : 앞의 a hidden cost가 무엇인지 뒤에서 구체적으로 설명(동격).\n· many of which : 계속적 용법의 관계대명사 — which = returns, '그리고 그중 다수는'.\n· not A but B : 'A가 아니라 B' (not back on shelves but in liquidation bins or landfills).\n· end up + 장소/부사구 : '결국 ~에 이르게 되다'.",
+      "vocab_notes": [
+        { "word": "meanwhile", "ko": "한편" },
+        { "word": "frenzy", "ko": "광란, 광풍" },
+        { "word": "carry a cost", "ko": "비용을 수반하다" },
+        { "word": "hidden", "ko": "숨겨진" },
+        { "word": "a wave of", "ko": "대규모의 ~, ~의 물결" },
+        { "word": "return", "ko": "반품" },
+        { "word": "following", "ko": "그다음의, 이후의" },
+        { "word": "end up", "ko": "결국 ~하게 되다" },
+        { "word": "shelf", "ko": "선반, 진열대" },
+        { "word": "liquidation", "ko": "재고 처분, 청산" },
+        { "word": "bin", "ko": "통, 상자" },
+        { "word": "landfill", "ko": "쓰레기 매립지" }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "headword": "frenzy",
+      "pos": "n.",
+      "ko": "광란, 광풍",
+      "example_en": "Shoppers rushed through the doors in a buying frenzy as soon as the store opened.",
+      "example_ko": "매장이 문을 열자마자 쇼핑객들이 구매 광풍 속에 문으로 몰려들었다.",
+      "collocations": ["buying frenzy", "media frenzy", "feeding frenzy"],
+      "note": "어원: 그리스어 phrenitis(정신 착란) — '정신이 나간 상태'. frantic(미친 듯이 서두르는)도 같은 뿌리라 frenzy·frantic을 한 쌍으로 외우면 된다.",
+      "family": [
+        { "word": "frenzied", "pos": "a.", "ko": "광란의, 열광적인" },
+        { "word": "frantic", "pos": "a.", "ko": "미친 듯이 서두르는, 제정신이 아닌" }
+      ]
+    },
+    {
+      "headword": "doorbuster",
+      "pos": "n.",
+      "ko": "(개점 직후 선착순) 초특가 미끼 상품",
+      "example_en": "The store advertised doorbusters such as $99 TVs, but only a handful were available.",
+      "example_ko": "그 매장은 99달러짜리 TV 같은 초특가 상품을 광고했지만, 실제로 살 수 있는 건 몇 대뿐이었다.",
+      "collocations": ["doorbuster deal", "doorbuster sale"],
+      "note": "door(문) + bust(부수다) + -er — 손님이 문을 부술 듯 몰려들게 만드는 특가. 수량이 아주 적어 손님을 끌어들이는 '미끼' 역할이 핵심이다.",
+      "related": [
+        { "word": "loss leader", "ko": "미끼 상품", "note": "doorbuster는 블랙프라이데이식 '선착순 초특가', loss leader는 평소에도 손해 보고 파는 '미끼 상품' 전반" }
+      ]
+    },
+    {
+      "headword": "fictitious",
+      "pos": "a.",
+      "ko": "허위의, 가공의",
+      "example_en": "Regulators fined the retailer for advertising fictitious 'was' prices.",
+      "example_ko": "규제 당국은 허위의 '종전 가격'을 광고한 그 소매업체에 벌금을 부과했다.",
+      "collocations": ["fictitious pricing", "a fictitious name"],
+      "note": "fiction(허구)에서 나온 형용사 두 개가 뜻이 갈린다 — fictitious는 '사실인 척 꾸민 가짜'(속이려는 부정적 뉘앙스), fictional은 '소설·영화 속의'(중립).",
+      "related": [
+        { "word": "fictional", "ko": "소설 속의, 허구의", "note": "소설 속 인물은 a fictional character, 남을 속이려는 가짜 이름은 a fictitious name" }
+      ]
+    },
+    {
+      "headword": "misrepresent",
+      "pos": "v.",
+      "ko": "잘못 전하다, 허위로 표시하다",
+      "example_en": "The company was accused of misrepresenting the size of its discounts.",
+      "example_ko": "그 회사는 할인 폭을 허위로 표시했다는 혐의를 받았다.",
+      "collocations": ["misrepresent the facts", "deliberately misrepresent"],
+      "note": "mis-(잘못) + represent(나타내다). 단순 실수보다 '의도적 왜곡'에 쓰이는 경우가 많아 광고·계약·소송 기사의 단골 동사다.",
+      "family": [
+        { "word": "misrepresentation", "pos": "n.", "ko": "허위 진술, 부실 표시 — 계약서의 'material misrepresentation(중대한 허위 진술)'" },
+        { "word": "represent", "pos": "v.", "ko": "나타내다; 대표하다" }
+      ]
+    },
+    {
+      "headword": "clearance",
+      "pos": "n.",
+      "ko": "재고 정리 (판매); 허가; (공간의) 여유",
+      "example_en": "Winter coats are now on clearance at up to 70 percent off.",
+      "example_ko": "겨울 코트가 현재 최대 70퍼센트 할인된 가격에 재고 정리 판매 중이다.",
+      "collocations": ["clearance sale", "on clearance", "security clearance"],
+      "note": "clear(치우다·비우다) + -ance. '치워서 길을 터 줌'이라는 한 뜻에서 재고 정리(clearance sale)·통관(customs clearance)·허가(비행 허가)·높이 여유(차량 통과 높이)로 갈라진다.",
+      "family": [
+        { "word": "clear", "pos": "v.", "ko": "치우다; 허가하다; 통관시키다" }
+      ]
+    },
+    {
+      "headword": "loss leader",
+      "pos": "n.",
+      "ko": "미끼 상품(손해를 보고 파는 상품)",
+      "example_en": "Supermarkets often sell milk as a loss leader to bring customers into the store.",
+      "example_ko": "슈퍼마켓은 손님을 매장으로 끌어들이려고 우유를 미끼 상품으로 파는 경우가 많다.",
+      "collocations": ["use something as a loss leader", "sell at a loss"],
+      "note": "손해(loss)를 감수하며 손님을 이끄는(leader) 상품 — 그 손해는 손님이 함께 사 가는 마진 높은 다른 상품으로 메운다. 'lost leader'로 잘못 쓰지 않도록."
+    },
+    {
+      "headword": "hike",
+      "pos": "n./v.",
+      "ko": "(가격·세금의 대폭) 인상; 인상하다",
+      "example_en": "The airline hiked fares just ahead of the holiday season.",
+      "example_ko": "그 항공사는 연휴 시즌 직전에 요금을 인상했다.",
+      "collocations": ["price hike", "rate hike", "tax hike"],
+      "note": "'하이킹하다' 외에 hike up(끌어올리다)에서 '가격 인상' 뜻이 나왔다. 경제 뉴스에선 rate hike(금리 인상)가 압도적이고, 반대말은 rate cut.",
+      "related": [
+        { "word": "raise", "ko": "인상; 올리다", "note": "raise는 중립적, hike는 '갑작스럽고 큰 인상'이라는 부정적 뉘앙스 — 월급 인상은 a pay raise, 요금 폭등은 a price hike" }
+      ]
+    },
+    {
+      "headword": "tempt",
+      "pos": "v.",
+      "ko": "유혹하다, ~하도록 부추기다",
+      "example_en": "Free shipping offers tempt customers to add more items to their carts.",
+      "example_ko": "무료 배송 혜택은 고객이 장바구니에 물건을 더 담도록 부추긴다.",
+      "collocations": ["tempt someone to do", "be tempted to"],
+      "note": "어원: 라틴어 temptare(시험해 보다). attempt(시도하다 = ~에 대고 시험해 보다)와 같은 뿌리 — 원래 '사람을 시험에 들게 하다'에서 '유혹하다'가 됐다.",
+      "family": [
+        { "word": "temptation", "pos": "n.", "ko": "유혹" },
+        { "word": "tempting", "pos": "a.", "ko": "솔깃한, 마음이 끌리는" },
+        { "word": "attempt", "pos": "v./n.", "ko": "시도하다; 시도 — 같은 뿌리" }
+      ]
+    },
+    {
+      "headword": "overstock",
+      "pos": "n./v.",
+      "ko": "과잉 재고; 재고를 너무 많이 두다",
+      "example_en": "The retailer slashed prices to get rid of overstock from the summer season.",
+      "example_ko": "그 소매업체는 여름 시즌의 과잉 재고를 처분하려고 가격을 대폭 내렸다.",
+      "collocations": ["clear overstock", "overstock sale"],
+      "note": "over-(지나치게) + stock(재고). over-는 '과잉'(overstock·overcharge 바가지 씌우다)과 '위로·넘어서'(overlook 간과하다)로 갈리니 문맥으로 구분한다.",
+      "related": [
+        { "word": "out of stock", "ko": "품절된", "note": "반대 상황 — overstock은 재고가 넘침, out of stock은 재고가 없음" }
+      ]
+    },
+    {
+      "headword": "refund",
+      "pos": "n./v.",
+      "ko": "환불; 환불하다",
+      "example_en": "Customers can request a full refund within 30 days of purchase.",
+      "example_ko": "고객은 구매 후 30일 이내에 전액 환불을 요청할 수 있다.",
+      "collocations": ["full refund", "issue a refund", "refund policy"],
+      "note": "re-(되돌려) + fund(자금) = 돈을 돌려줌. 명사는 앞 강세(RE-fund), 동사는 뒤 강세(re-FUND) — '명전동후' 규칙(record·present도 같다).",
+      "family": [
+        { "word": "refundable", "pos": "a.", "ko": "환불 가능한" },
+        { "word": "nonrefundable", "pos": "a.", "ko": "환불 불가의 — 항공권·예약금에 자주 붙는다" }
+      ]
+    },
+    {
+      "headword": "disclaimer",
+      "pos": "n.",
+      "ko": "면책 조항, 고지 문구",
+      "example_en": "A tiny disclaimer at the bottom of the ad said the offer excluded most brands.",
+      "example_ko": "광고 하단의 아주 작은 고지 문구에는 이 할인에서 대부분의 브랜드가 제외된다고 적혀 있었다.",
+      "collocations": ["legal disclaimer", "add a disclaimer"],
+      "note": "dis-(부정) + claim(주장하다) → '(책임을) 주장하지 않음' = 면책. 광고·약관의 작은 글씨(fine print) 속에 숨어 있는 그 문구다.",
+      "family": [
+        { "word": "disclaim", "pos": "v.", "ko": "(책임·관련을) 부인하다" },
+        { "word": "claim", "pos": "v./n.", "ko": "주장하다, 청구하다; 청구 — 방향이 반대" }
+      ]
+    },
+    {
+      "headword": "consumerism",
+      "pos": "n.",
+      "ko": "소비주의; 소비자 보호 운동",
+      "example_en": "Critics see Black Friday as the ultimate symbol of modern consumerism.",
+      "example_ko": "비판론자들은 블랙프라이데이를 현대 소비주의의 궁극적인 상징으로 본다.",
+      "collocations": ["rampant consumerism", "a critique of consumerism"],
+      "note": "-ism(주의). 오늘날엔 '물질 소비에 대한 집착'이라는 비판적 뜻이 주로 쓰이지만, 원래는 '소비자 권익 보호 운동'이라는 정반대 뉘앙스의 뜻도 있다 — 문맥으로 구분.",
+      "family": [
+        { "word": "consume", "pos": "v.", "ko": "소비하다" },
+        { "word": "consumption", "pos": "n.", "ko": "소비" },
+        { "word": "consumer", "pos": "n.", "ko": "소비자" }
+      ]
+    },
+    {
+      "headword": "stampede",
+      "pos": "n./v.",
+      "ko": "(군중·동물이) 우르르 몰려듦; 앞다투어 몰려가다",
+      "example_en": "Several people were injured in a stampede when the mall doors opened.",
+      "example_ko": "쇼핑몰 문이 열리자 사람들이 우르르 몰려들면서 여러 명이 다쳤다.",
+      "collocations": ["cause a stampede", "a stampede of buyers"],
+      "note": "스페인어 estampida(쿵쾅거림)에서 — 원래 겁먹은 소 떼가 한꺼번에 내달리는 것. 시장 기사에선 'a stampede to sell(앞다툰 투매)'처럼 비유로도 쓴다."
+    },
+    {
+      "headword": "eventual",
+      "pos": "a.",
+      "ko": "최종적인, 결국의",
+      "example_en": "The eventual cost of the project was double the original estimate.",
+      "example_ko": "그 프로젝트의 최종 비용은 원래 추정치의 두 배였다.",
+      "collocations": ["eventual winner", "eventual outcome"],
+      "note": "함정 단어 — 프랑스어·독일어의 éventuel/eventuell은 '혹시 있을지 모르는'이지만 영어 eventual은 '결국 일어나는'. eventually도 '가능하면'이 아니라 '결국'.",
+      "family": [
+        { "word": "eventually", "pos": "adv.", "ko": "결국, 마침내" }
+      ],
+      "related": [
+        { "word": "potential", "ko": "잠재적인", "note": "일어날 수도 있는 것은 potential, 결국 일어나는(일어난) 것은 eventual" }
+      ]
+    },
+    {
+      "headword": "sizable",
+      "pos": "a.",
+      "ko": "상당한 (크기·양의)",
+      "example_en": "A sizable portion of holiday sales now takes place online.",
+      "example_ko": "이제 연말 매출의 상당 부분이 온라인에서 발생한다.",
+      "collocations": ["a sizable share", "a sizable amount"],
+      "note": "size + -able. -able이 보통 '~할 수 있는'이지만 여기선 '크기가 꽤 되는'. 영국식 철자는 sizeable — 둘 다 맞다.",
+      "related": [
+        { "word": "substantial", "ko": "상당한", "note": "거의 동의어 — substantial이 더 격식체, sizable은 기사·구어에서 가볍게" }
+      ]
+    },
+    {
+      "headword": "ostentatious",
+      "pos": "a.",
+      "ko": "과시적인, 허세 부리는",
+      "example_en": "The brand moved away from ostentatious logos toward a quieter style.",
+      "example_ko": "그 브랜드는 과시적인 로고에서 벗어나 더 절제된 스타일로 옮겨 갔다.",
+      "collocations": ["ostentatious display", "ostentatious lifestyle"],
+      "note": "어원: 라틴어 ostendere(앞에 펼쳐 보이다) — '남에게 보이려고' 꾸민 화려함. 경제학의 conspicuous consumption(과시적 소비)과 같은 맥락에서 쓰인다.",
+      "family": [
+        { "word": "ostentation", "pos": "n.", "ko": "과시, 허세" }
+      ]
+    },
+    {
+      "headword": "jettison",
+      "pos": "v.",
+      "ko": "(불필요한 것을) 버리다, 폐기하다",
+      "example_en": "The company jettisoned its plan to open new stores and focused on online sales.",
+      "example_ko": "그 회사는 신규 매장 개설 계획을 폐기하고 온라인 판매에 집중했다.",
+      "collocations": ["jettison a plan", "jettison cargo"],
+      "note": "원래 배·비행기가 무게를 줄이려고 화물을 밖으로 내던지는 것. 비유로 계획·정책·관행을 '내던지다'. 라틴어 iactare(던지다)에서 와 jet(분출하다)와 같은 뿌리다."
+    },
+    {
+      "headword": "dent",
+      "pos": "n./v.",
+      "ko": "움푹 들어간 곳; (수량·평판에) 타격(을 주다)",
+      "example_en": "The wave of returns put a dent in the retailer's holiday profits.",
+      "example_ko": "반품 물결이 그 소매업체의 연말 수익에 타격을 줬다.",
+      "collocations": ["put a dent in", "make a dent in", "dent confidence"],
+      "note": "차 문의 '찌그러짐'이 원뜻. make a dent in은 '~을 조금이나마 줄이다'로 긍정적으로도 쓴다(make a dent in the backlog 밀린 일을 좀 줄이다).",
+      "related": [
+        { "word": "dint", "note": "by dint of(~의 힘으로)의 dint와 철자·뜻 혼동 주의" }
+      ]
+    }
+  ]
+}

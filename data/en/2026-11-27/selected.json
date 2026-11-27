@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-27",
+  "words": [
+    {
+      "headword": "frenzy",
+      "pos": "n.",
+      "ko": "광란, 광풍",
+      "example_en": "Shoppers rushed through the doors in a buying frenzy as soon as the store opened.",
+      "example_ko": "매장이 문을 열자마자 쇼핑객들이 구매 광풍 속에 문으로 몰려들었다.",
+      "collocations": [
+        "buying frenzy",
+        "media frenzy",
+        "feeding frenzy"
+      ],
+      "note": "어원: 그리스어 phrenitis(정신 착란) — '정신이 나간 상태'. frantic(미친 듯이 서두르는)도 같은 뿌리라 frenzy·frantic을 한 쌍으로 외우면 된다.",
+      "family": [
+        {
+          "word": "frenzied",
+          "pos": "a.",
+          "ko": "광란의, 열광적인"
+        },
+        {
+          "word": "frantic",
+          "pos": "a.",
+          "ko": "미친 듯이 서두르는, 제정신이 아닌"
+        }
+      ]
+    },
+    {
+      "headword": "doorbuster",
+      "pos": "n.",
+      "ko": "(개점 직후 선착순) 초특가 미끼 상품",
+      "example_en": "The store advertised doorbusters such as $99 TVs, but only a handful were available.",
+      "example_ko": "그 매장은 99달러짜리 TV 같은 초특가 상품을 광고했지만, 실제로 살 수 있는 건 몇 대뿐이었다.",
+      "collocations": [
+        "doorbuster deal",
+        "doorbuster sale"
+      ],
+      "note": "door(문) + bust(부수다) + -er — 손님이 문을 부술 듯 몰려들게 만드는 특가. 수량이 아주 적어 손님을 끌어들이는 '미끼' 역할이 핵심이다.",
+      "related": [
+        {
+          "word": "loss leader",
+          "ko": "미끼 상품",
+          "note": "doorbuster는 블랙프라이데이식 '선착순 초특가', loss leader는 평소에도 손해 보고 파는 '미끼 상품' 전반"
+        }
+      ]
+    },
+    {
+      "headword": "fictitious",
+      "pos": "a.",
+      "ko": "허위의, 가공의",
+      "example_en": "Regulators fined the retailer for advertising fictitious 'was' prices.",
+      "example_ko": "규제 당국은 허위의 '종전 가격'을 광고한 그 소매업체에 벌금을 부과했다.",
+      "collocations": [
+        "fictitious pricing",
+        "a fictitious name"
+      ],
+      "note": "fiction(허구)에서 나온 형용사 두 개가 뜻이 갈린다 — fictitious는 '사실인 척 꾸민 가짜'(속이려는 부정적 뉘앙스), fictional은 '소설·영화 속의'(중립).",
+      "related": [
+        {
+          "word": "fictional",
+          "ko": "소설 속의, 허구의",
+          "note": "소설 속 인물은 a fictional character, 남을 속이려는 가짜 이름은 a fictitious name"
+        }
+      ]
+    },
+    {
+      "headword": "misrepresent",
+      "pos": "v.",
+      "ko": "잘못 전하다, 허위로 표시하다",
+      "example_en": "The company was accused of misrepresenting the size of its discounts.",
+      "example_ko": "그 회사는 할인 폭을 허위로 표시했다는 혐의를 받았다.",
+      "collocations": [
+        "misrepresent the facts",
+        "deliberately misrepresent"
+      ],
+      "note": "mis-(잘못) + represent(나타내다). 단순 실수보다 '의도적 왜곡'에 쓰이는 경우가 많아 광고·계약·소송 기사의 단골 동사다.",
+      "family": [
+        {
+          "word": "misrepresentation",
+          "pos": "n.",
+          "ko": "허위 진술, 부실 표시 — 계약서의 'material misrepresentation(중대한 허위 진술)'"
+        },
+        {
+          "word": "represent",
+          "pos": "v.",
+          "ko": "나타내다; 대표하다"
+        }
+      ]
+    },
+    {
+      "headword": "clearance",
+      "pos": "n.",
+      "ko": "재고 정리 (판매); 허가; (공간의) 여유",
+      "example_en": "Winter coats are now on clearance at up to 70 percent off.",
+      "example_ko": "겨울 코트가 현재 최대 70퍼센트 할인된 가격에 재고 정리 판매 중이다.",
+      "collocations": [
+        "clearance sale",
+        "on clearance",
+        "security clearance"
+      ],
+      "note": "clear(치우다·비우다) + -ance. '치워서 길을 터 줌'이라는 한 뜻에서 재고 정리(clearance sale)·통관(customs clearance)·허가(비행 허가)·높이 여유(차량 통과 높이)로 갈라진다.",
+      "family": [
+        {
+          "word": "clear",
+          "pos": "v.",
+          "ko": "치우다; 허가하다; 통관시키다"
+        }
+      ]
+    },
+    {
+      "headword": "loss leader",
+      "pos": "n.",
+      "ko": "미끼 상품(손해를 보고 파는 상품)",
+      "example_en": "Supermarkets often sell milk as a loss leader to bring customers into the store.",
+      "example_ko": "슈퍼마켓은 손님을 매장으로 끌어들이려고 우유를 미끼 상품으로 파는 경우가 많다.",
+      "collocations": [
+        "use something as a loss leader",
+        "sell at a loss"
+      ],
+      "note": "손해(loss)를 감수하며 손님을 이끄는(leader) 상품 — 그 손해는 손님이 함께 사 가는 마진 높은 다른 상품으로 메운다. 'lost leader'로 잘못 쓰지 않도록."
+    },
+    {
+      "headword": "hike",
+      "pos": "n./v.",
+      "ko": "(가격·세금의 대폭) 인상; 인상하다",
+      "example_en": "The airline hiked fares just ahead of the holiday season.",
+      "example_ko": "그 항공사는 연휴 시즌 직전에 요금을 인상했다.",
+      "collocations": [
+        "price hike",
+        "rate hike",
+        "tax hike"
+      ],
+      "note": "'하이킹하다' 외에 hike up(끌어올리다)에서 '가격 인상' 뜻이 나왔다. 경제 뉴스에선 rate hike(금리 인상)가 압도적이고, 반대말은 rate cut.",
+      "related": [
+        {
+          "word": "raise",
+          "ko": "인상; 올리다",
+          "note": "raise는 중립적, hike는 '갑작스럽고 큰 인상'이라는 부정적 뉘앙스 — 월급 인상은 a pay raise, 요금 폭등은 a price hike"
+        }
+      ]
+    },
+    {
+      "headword": "tempt",
+      "pos": "v.",
+      "ko": "유혹하다, ~하도록 부추기다",
+      "example_en": "Free shipping offers tempt customers to add more items to their carts.",
+      "example_ko": "무료 배송 혜택은 고객이 장바구니에 물건을 더 담도록 부추긴다.",
+      "collocations": [
+        "tempt someone to do",
+        "be tempted to"
+      ],
+      "note": "어원: 라틴어 temptare(시험해 보다). attempt(시도하다 = ~에 대고 시험해 보다)와 같은 뿌리 — 원래 '사람을 시험에 들게 하다'에서 '유혹하다'가 됐다.",
+      "family": [
+        {
+          "word": "temptation",
+          "pos": "n.",
+          "ko": "유혹"
+        },
+        {
+          "word": "tempting",
+          "pos": "a.",
+          "ko": "솔깃한, 마음이 끌리는"
+        },
+        {
+          "word": "attempt",
+          "pos": "v./n.",
+          "ko": "시도하다; 시도 — 같은 뿌리"
+        }
+      ]
+    },
+    {
+      "headword": "overstock",
+      "pos": "n./v.",
+      "ko": "과잉 재고; 재고를 너무 많이 두다",
+      "example_en": "The retailer slashed prices to get rid of overstock from the summer season.",
+      "example_ko": "그 소매업체는 여름 시즌의 과잉 재고를 처분하려고 가격을 대폭 내렸다.",
+      "collocations": [
+        "clear overstock",
+        "overstock sale"
+      ],
+      "note": "over-(지나치게) + stock(재고). over-는 '과잉'(overstock·overcharge 바가지 씌우다)과 '위로·넘어서'(overlook 간과하다)로 갈리니 문맥으로 구분한다.",
+      "related": [
+        {
+          "word": "out of stock",
+          "ko": "품절된",
+          "note": "반대 상황 — overstock은 재고가 넘침, out of stock은 재고가 없음"
+        }
+      ]
+    },
+    {
+      "headword": "refund",
+      "pos": "n./v.",
+      "ko": "환불; 환불하다",
+      "example_en": "Customers can request a full refund within 30 days of purchase.",
+      "example_ko": "고객은 구매 후 30일 이내에 전액 환불을 요청할 수 있다.",
+      "collocations": [
+        "full refund",
+        "issue a refund",
+        "refund policy"
+      ],
+      "note": "re-(되돌려) + fund(자금) = 돈을 돌려줌. 명사는 앞 강세(RE-fund), 동사는 뒤 강세(re-FUND) — '명전동후' 규칙(record·present도 같다).",
+      "family": [
+        {
+          "word": "refundable",
+          "pos": "a.",
+          "ko": "환불 가능한"
+        },
+        {
+          "word": "nonrefundable",
+          "pos": "a.",
+          "ko": "환불 불가의 — 항공권·예약금에 자주 붙는다"
+        }
+      ]
+    },
+    {
+      "headword": "disclaimer",
+      "pos": "n.",
+      "ko": "면책 조항, 고지 문구",
+      "example_en": "A tiny disclaimer at the bottom of the ad said the offer excluded most brands.",
+      "example_ko": "광고 하단의 아주 작은 고지 문구에는 이 할인에서 대부분의 브랜드가 제외된다고 적혀 있었다.",
+      "collocations": [
+        "legal disclaimer",
+        "add a disclaimer"
+      ],
+      "note": "dis-(부정) + claim(주장하다) → '(책임을) 주장하지 않음' = 면책. 광고·약관의 작은 글씨(fine print) 속에 숨어 있는 그 문구다.",
+      "family": [
+        {
+          "word": "disclaim",
+          "pos": "v.",
+          "ko": "(책임·관련을) 부인하다"
+        },
+        {
+          "word": "claim",
+          "pos": "v./n.",
+          "ko": "주장하다, 청구하다; 청구 — 방향이 반대"
+        }
+      ]
+    },
+    {
+      "headword": "consumerism",
+      "pos": "n.",
+      "ko": "소비주의; 소비자 보호 운동",
+      "example_en": "Critics see Black Friday as the ultimate symbol of modern consumerism.",
+      "example_ko": "비판론자들은 블랙프라이데이를 현대 소비주의의 궁극적인 상징으로 본다.",
+      "collocations": [
+        "rampant consumerism",
+        "a critique of consumerism"
+      ],
+      "note": "-ism(주의). 오늘날엔 '물질 소비에 대한 집착'이라는 비판적 뜻이 주로 쓰이지만, 원래는 '소비자 권익 보호 운동'이라는 정반대 뉘앙스의 뜻도 있다 — 문맥으로 구분.",
+      "family": [
+        {
+          "word": "consume",
+          "pos": "v.",
+          "ko": "소비하다"
+        },
+        {
+          "word": "consumption",
+          "pos": "n.",
+          "ko": "소비"
+        },
+        {
+          "word": "consumer",
+          "pos": "n.",
+          "ko": "소비자"
+        }
+      ]
+    },
+    {
+      "headword": "stampede",
+      "pos": "n./v.",
+      "ko": "(군중·동물이) 우르르 몰려듦; 앞다투어 몰려가다",
+      "example_en": "Several people were injured in a stampede when the mall doors opened.",
+      "example_ko": "쇼핑몰 문이 열리자 사람들이 우르르 몰려들면서 여러 명이 다쳤다.",
+      "collocations": [
+        "cause a stampede",
+        "a stampede of buyers"
+      ],
+      "note": "스페인어 estampida(쿵쾅거림)에서 — 원래 겁먹은 소 떼가 한꺼번에 내달리는 것. 시장 기사에선 'a stampede to sell(앞다툰 투매)'처럼 비유로도 쓴다."
+    },
+    {
+      "headword": "eventual",
+      "pos": "a.",
+      "ko": "최종적인, 결국의",
+      "example_en": "The eventual cost of the project was double the original estimate.",
+      "example_ko": "그 프로젝트의 최종 비용은 원래 추정치의 두 배였다.",
+      "collocations": [
+        "eventual winner",
+        "eventual outcome"
+      ],
+      "note": "함정 단어 — 프랑스어·독일어의 éventuel/eventuell은 '혹시 있을지 모르는'이지만 영어 eventual은 '결국 일어나는'. eventually도 '가능하면'이 아니라 '결국'.",
+      "family": [
+        {
+          "word": "eventually",
+          "pos": "adv.",
+          "ko": "결국, 마침내"
+        }
+      ],
+      "related": [
+        {
+          "word": "potential",
+          "ko": "잠재적인",
+          "note": "일어날 수도 있는 것은 potential, 결국 일어나는(일어난) 것은 eventual"
+        }
+      ]
+    },
+    {
+      "headword": "sizable",
+      "pos": "a.",
+      "ko": "상당한 (크기·양의)",
+      "example_en": "A sizable portion of holiday sales now takes place online.",
+      "example_ko": "이제 연말 매출의 상당 부분이 온라인에서 발생한다.",
+      "collocations": [
+        "a sizable share",
+        "a sizable amount"
+      ],
+      "note": "size + -able. -able이 보통 '~할 수 있는'이지만 여기선 '크기가 꽤 되는'. 영국식 철자는 sizeable — 둘 다 맞다.",
+      "related": [
+        {
+          "word": "substantial",
+          "ko": "상당한",
+          "note": "거의 동의어 — substantial이 더 격식체, sizable은 기사·구어에서 가볍게"
+        }
+      ]
+    }
+  ]
+}
