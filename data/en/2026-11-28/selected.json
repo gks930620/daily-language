@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-28",
+  "words": [
+    {
+      "headword": "shrinkage",
+      "pos": "n.",
+      "ko": "(유통) 재고 손실; 줄어듦, 수축",
+      "example_en": "The retailer blamed a rise in shrinkage for its disappointing quarterly profits.",
+      "example_ko": "그 소매업체는 실망스러운 분기 이익의 원인으로 재고 손실 증가를 꼽았다.",
+      "collocations": [
+        "retail shrinkage",
+        "reduce shrinkage",
+        "shrinkage rate"
+      ],
+      "note": "shrink(줄어들다) + -age(결과·양을 나타내는 명사 어미) — 유통업계에선 도난·파손·기록 오류로 장부보다 '줄어든' 재고를 통틀어 부르는 완곡어다. 그냥 shrink라고도 한다.",
+      "family": [
+        {
+          "word": "shrink",
+          "pos": "v.",
+          "ko": "줄어들다, 줄이다 (shrink-shrank-shrunk)"
+        },
+        {
+          "word": "shrunken",
+          "pos": "a.",
+          "ko": "쪼그라든"
+        }
+      ],
+      "related": [
+        {
+          "word": "shrinkflation",
+          "ko": "슈링크플레이션",
+          "note": "같은 shrink 뿌리지만 '값은 그대로, 양을 줄이는' 가격 수법 — shrinkage(재고 손실)와 뜻이 다르다"
+        }
+      ]
+    },
+    {
+      "headword": "pilfer",
+      "pos": "v.",
+      "ko": "(값싼 물건을 조금씩) 훔치다, 좀도둑질하다",
+      "example_en": "An employee was caught pilfering office supplies over several months.",
+      "example_ko": "한 직원이 몇 달에 걸쳐 사무용품을 조금씩 훔치다가 적발되었다.",
+      "collocations": [
+        "pilfer from the till",
+        "pilfer supplies"
+      ],
+      "note": "steal의 '소량·상습' 버전 — 큰 도둑질이 아니라 슬쩍슬쩍 빼돌리는 느낌. 명사 pilferage는 유통·물류에서 '운송·보관 중 좀도둑질로 인한 손실'을 뜻하는 업계 용어다.",
+      "family": [
+        {
+          "word": "pilferage",
+          "pos": "n.",
+          "ko": "좀도둑질(로 인한 손실)"
+        },
+        {
+          "word": "pilferer",
+          "pos": "n.",
+          "ko": "좀도둑"
+        }
+      ],
+      "related": [
+        {
+          "word": "embezzle",
+          "ko": "횡령하다",
+          "note": "맡은 돈을 빼돌리는 것 — pilfer는 물건을 조금씩 슬쩍하는 것"
+        }
+      ]
+    },
+    {
+      "headword": "shoplift",
+      "pos": "v.",
+      "ko": "(가게에서) 물건을 훔치다",
+      "example_en": "Stores in the area reported that shoplifting had nearly doubled since the pandemic.",
+      "example_ko": "그 지역 상점들은 팬데믹 이후 매장 절도가 거의 두 배로 늘었다고 보고했다.",
+      "collocations": [
+        "be caught shoplifting",
+        "shoplifting incidents"
+      ],
+      "note": "shop + lift(들어 올리다 → 속어로 '슬쩍하다') — lift 자체에 '훔치다' 뜻이 있어 lift a wallet(지갑을 슬쩍하다)처럼도 쓴다.",
+      "family": [
+        {
+          "word": "shoplifter",
+          "pos": "n.",
+          "ko": "가게 좀도둑"
+        },
+        {
+          "word": "shoplifting",
+          "pos": "n.",
+          "ko": "가게 물건 절도"
+        }
+      ],
+      "related": [
+        {
+          "word": "burglary",
+          "ko": "주거침입 절도",
+          "note": "건물에 침입해 훔치는 것 — shoplifting은 영업 중인 가게에서 손님인 척 훔치는 것"
+        }
+      ]
+    },
+    {
+      "headword": "unattended",
+      "pos": "a.",
+      "ko": "지키는 사람 없는, 방치된",
+      "example_en": "Please do not leave your luggage unattended at any time.",
+      "example_ko": "언제든 짐을 지켜보는 사람 없이 두지 마십시오.",
+      "collocations": [
+        "leave ~ unattended",
+        "unattended baggage"
+      ],
+      "note": "attend는 '참석하다'뿐 아니라 '돌보다·지키다(attend to)' 뜻도 있다 — un-이 붙어 '돌보는 사람이 없는'. 공항·역 안내 방송의 단골 표현이다.",
+      "family": [
+        {
+          "word": "attend to",
+          "pos": "v.",
+          "ko": "돌보다, 처리하다"
+        },
+        {
+          "word": "attendant",
+          "pos": "n.",
+          "ko": "안내원, 관리 직원"
+        },
+        {
+          "word": "attendance",
+          "pos": "n.",
+          "ko": "출석, 참석"
+        }
+      ],
+      "related": [
+        {
+          "word": "unaccompanied",
+          "ko": "동반자 없는",
+          "note": "unattended는 물건·장소가 '방치된', unaccompanied는 사람(특히 아동)이 '보호자 없이 혼자인'"
+        }
+      ]
+    },
+    {
+      "headword": "foist",
+      "pos": "v.",
+      "ko": "(원치 않는 것을) 떠넘기다, 강요하다",
+      "example_en": "Employees resented having extra duties foisted on them without extra pay.",
+      "example_ko": "직원들은 추가 수당도 없이 추가 업무가 떠넘겨지는 것에 분개했다.",
+      "collocations": [
+        "foist A on/onto B",
+        "foist costs onto consumers"
+      ],
+      "note": "거의 항상 foist A on(onto) B 형태로 쓰이며, 받는 쪽이 '원하지 않는데 억지로'라는 부정적 뉘앙스가 핵심이다. shift(옮기다)는 중립, foist는 불만이 담긴다.",
+      "related": [
+        {
+          "word": "impose",
+          "ko": "부과하다, 강요하다",
+          "note": "권한 있는 쪽이 공식적으로 지우는 것 — foist는 슬그머니·부당하게 떠넘기는 느낌"
+        }
+      ]
+    },
+    {
+      "headword": "deputize",
+      "pos": "v.",
+      "ko": "대리로 임명하다; (남의 일을) 대신 맡게 하다",
+      "example_en": "By installing kiosks, the chain effectively deputized its customers as unpaid cashiers.",
+      "example_ko": "키오스크를 설치함으로써 그 체인점은 사실상 손님을 무급 계산원으로 대신 일하게 만들었다.",
+      "collocations": [
+        "deputize A as B",
+        "deputize for someone"
+      ],
+      "note": "deputy(대리, 부보안관) + -ize(~로 만들다) — 원래는 보안관이 주민을 임시 보조로 임명하는 말. 비유적으로 '남에게 내 일을 맡기다'로 쓰인다.",
+      "family": [
+        {
+          "word": "deputy",
+          "pos": "n.",
+          "ko": "대리, 부(副)~ (deputy minister 차관)"
+        }
+      ],
+      "related": [
+        {
+          "word": "delegate",
+          "ko": "위임하다",
+          "note": "권한·업무를 아래로 넘기는 일반적인 말 — deputize는 '대리인으로 세운다'는 지위 부여의 뉘앙스"
+        }
+      ]
+    },
+    {
+      "headword": "skeleton crew",
+      "pos": "n.",
+      "ko": "(운영에 필요한) 최소 인원",
+      "example_en": "Over the holidays, the factory runs with only a skeleton crew.",
+      "example_ko": "연휴 동안 그 공장은 최소 인원만으로 돌아간다.",
+      "collocations": [
+        "a skeleton crew",
+        "skeleton staff"
+      ],
+      "note": "skeleton(뼈대)만 남기고 살을 다 뺀 인원 — '뼈대만 남은 조직'이라는 이미지로 외우면 된다. 영국식으론 skeleton staff.",
+      "related": [
+        {
+          "word": "understaffed",
+          "ko": "인력이 부족한",
+          "note": "understaffed는 '모자라서 문제'라는 평가, skeleton crew는 '의도적으로 최소만 둔' 상태 묘사"
+        }
+      ]
+    },
+    {
+      "headword": "revert",
+      "pos": "v.",
+      "ko": "(이전 상태로) 되돌아가다",
+      "example_en": "After the trial ended, the company reverted to its old pricing model.",
+      "example_ko": "시범 운영이 끝난 뒤 그 회사는 예전 가격 모델로 되돌아갔다.",
+      "collocations": [
+        "revert to",
+        "revert back"
+      ],
+      "note": "re-(다시) + vert(돌리다) — convert(함께 돌리다=전환), divert(옆으로 돌리다=우회), invert(뒤집다)와 같은 뿌리. 반드시 revert to로 쓰고, 이메일의 'I will revert to you(회신하겠다)'는 인도·동남아식 영어라 일반적이지 않다.",
+      "family": [
+        {
+          "word": "reversion",
+          "pos": "n.",
+          "ko": "복귀, 역행"
+        },
+        {
+          "word": "reverse",
+          "pos": "v./a.",
+          "ko": "뒤집다; 반대의"
+        }
+      ],
+      "related": [
+        {
+          "word": "convert",
+          "ko": "전환하다",
+          "note": "같은 vert 뿌리 — convert는 '다른 것으로 바꾸다', revert는 '원래대로 돌아가다'"
+        }
+      ]
+    },
+    {
+      "headword": "scale back",
+      "pos": "phr. v.",
+      "ko": "(규모·계획을) 축소하다",
+      "example_en": "The city scaled back its plans for a new stadium due to budget constraints.",
+      "example_ko": "시는 예산 제약 때문에 새 경기장 계획을 축소했다.",
+      "collocations": [
+        "scale back operations",
+        "scale back plans"
+      ],
+      "note": "scale(규모·눈금)을 뒤로(back) 돌린다 → 줄이다. 반대는 scale up(확대하다). 아예 없애는 게 아니라 '줄이는' 것이라 cancel·scrap과 구별된다.",
+      "family": [
+        {
+          "word": "scale up",
+          "pos": "phr. v.",
+          "ko": "규모를 키우다"
+        },
+        {
+          "word": "scale down",
+          "pos": "phr. v.",
+          "ko": "축소하다 (scale back과 거의 같음)"
+        }
+      ]
+    },
+    {
+      "headword": "headcount",
+      "pos": "n.",
+      "ko": "인원 수, 직원 수",
+      "example_en": "The startup plans to double its headcount by the end of next year.",
+      "example_ko": "그 스타트업은 내년 말까지 직원 수를 두 배로 늘릴 계획이다.",
+      "collocations": [
+        "reduce headcount",
+        "headcount freeze"
+      ],
+      "note": "머리(head) 수를 센다(count) — 기업 보도에서 '인력 감축'을 돌려 말할 때 reduce headcount를 쓴다. 사람을 '머릿수'로 세는 냉정한 뉘앙스가 있다.",
+      "related": [
+        {
+          "word": "payroll",
+          "ko": "급여 대장, 인건비",
+          "note": "headcount는 '사람 수', payroll은 그들에게 나가는 '돈'"
+        }
+      ]
+    },
+    {
+      "headword": "glitch",
+      "pos": "n.",
+      "ko": "(기계·시스템의) 사소한 결함, 오작동",
+      "example_en": "A software glitch briefly shut down the airline's booking system.",
+      "example_ko": "소프트웨어 결함으로 그 항공사의 예약 시스템이 잠시 멈췄다.",
+      "collocations": [
+        "technical glitch",
+        "a minor glitch"
+      ],
+      "note": "큰 고장(breakdown)이 아니라 '갑작스럽고 일시적인' 오류. 형용사 glitchy는 '툭하면 오류 나는'으로, 앱·기계 불만을 말할 때 회화에서 자주 쓴다.",
+      "family": [
+        {
+          "word": "glitchy",
+          "pos": "a.",
+          "ko": "자꾸 오류가 나는"
+        }
+      ],
+      "related": [
+        {
+          "word": "bug",
+          "ko": "(프로그램) 오류",
+          "note": "bug는 코드 속의 원인, glitch는 겉으로 드러난 오작동 현상"
+        }
+      ]
+    },
+    {
+      "headword": "accost",
+      "pos": "v.",
+      "ko": "(모르는 사람에게) 다가가 말을 걸다, 따져 묻다",
+      "example_en": "Staff are trained not to accost suspected shoplifters, but to alert security instead.",
+      "example_ko": "직원들은 절도 의심자에게 직접 다가가 따지지 말고 대신 보안 요원에게 알리도록 교육받는다.",
+      "collocations": [
+        "be accosted by a stranger",
+        "accost someone in the street"
+      ],
+      "note": "그냥 approach(다가가다)가 아니라 '공격적·불쾌하게' 다가가 말을 거는 것 — 당하는 쪽이 위협이나 불편을 느낀다는 뉘앙스가 핵심.",
+      "related": [
+        {
+          "word": "approach",
+          "ko": "다가가다",
+          "note": "중립적 — accost는 무례하거나 위협적인 접근"
+        }
+      ]
+    },
+    {
+      "headword": "opportunistic",
+      "pos": "a.",
+      "ko": "기회주의적인; 틈을 노리는",
+      "example_en": "Most thefts are opportunistic, committed by people who spot an unlocked door.",
+      "example_ko": "대부분의 절도는 잠기지 않은 문을 발견한 사람이 저지르는, 기회를 틈탄 범죄다.",
+      "collocations": [
+        "opportunistic theft",
+        "opportunistic infection"
+      ],
+      "note": "opportunity(기회)에서 파생됐지만 뜻이 '좋은 기회'가 아니라 '원칙 없이 틈을 노리는'으로 부정적으로 갈라진다. 의학의 opportunistic infection은 '면역이 약해진 틈을 탄 감염'.",
+      "family": [
+        {
+          "word": "opportunity",
+          "pos": "n.",
+          "ko": "기회 (긍정·중립)"
+        },
+        {
+          "word": "opportunist",
+          "pos": "n.",
+          "ko": "기회주의자 (부정적)"
+        },
+        {
+          "word": "opportune",
+          "pos": "a.",
+          "ko": "시기적절한 (긍정적)"
+        }
+      ]
+    },
+    {
+      "headword": "retrench",
+      "pos": "v.",
+      "ko": "(비용·사업을) 긴축하다, 줄이다",
+      "example_en": "Facing falling sales, the company was forced to retrench and close several stores.",
+      "example_ko": "매출 하락에 직면한 그 회사는 긴축에 들어가 여러 매장을 닫을 수밖에 없었다.",
+      "collocations": [
+        "retrench spending",
+        "forced to retrench"
+      ],
+      "note": "re-(뒤로) + trench(참호) — 전선에서 참호를 뒤로 물려 파는 데서 '후퇴해 지출을 줄이다'가 됐다. 반대 방향인 entrench(참호를 파고 들어앉다=굳히다)와 짝으로 외우자.",
+      "family": [
+        {
+          "word": "retrenchment",
+          "pos": "n.",
+          "ko": "긴축, (인원) 감축"
+        }
+      ],
+      "related": [
+        {
+          "word": "entrench",
+          "ko": "굳히다, 확고히 하다",
+          "note": "같은 trench 뿌리 — entrench는 '자리를 굳히다', retrench는 '물러나 줄이다'로 정반대"
+        }
+      ]
+    },
+    {
+      "headword": "foot the bill",
+      "pos": "idiom",
+      "ko": "비용을 부담하다, 셈을 치르다",
+      "example_en": "Taxpayers will ultimately foot the bill for the failed project.",
+      "example_ko": "실패한 그 사업의 비용은 결국 납세자들이 떠안게 될 것이다.",
+      "collocations": [
+        "foot the bill for",
+        "left to foot the bill"
+      ],
+      "note": "foot은 '발'이 아니라 계산서 맨 아래(foot)에 합계를 적고 서명한다는 데서 나온 동사 — '맨 아래 합계를 책임지다' = 돈을 내다. 대개 '억울하게 떠안는' 문맥에서 쓴다.",
+      "related": [
+        {
+          "word": "pick up the tab",
+          "ko": "(식사비 등을) 내다",
+          "note": "pick up the tab은 호의로 내 주는 느낌, foot the bill은 부담을 떠안는 느낌"
+        }
+      ]
+    }
+  ]
+}
